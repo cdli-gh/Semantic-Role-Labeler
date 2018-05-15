@@ -1,3 +1,5 @@
+#Usage : python INPUT_FILE OUTPUT_MODEL_DIR
+
 import gensim
 import os, sys
 
@@ -16,7 +18,7 @@ class MySentences(object):
  
 
 # Call the sentences iterator
-sentences = MySentences(sys.argv[1]) # a memory-friendly iterator, so we can generalise for huge data later even on lesser-RAM PCs.
+sentences = MySentences(INPUT_FILE) # a memory-friendly iterator, so we can generalise for huge data later even on lesser-RAM PCs.
 
 
 # Define the skipgram and cbow models for training word2vec
