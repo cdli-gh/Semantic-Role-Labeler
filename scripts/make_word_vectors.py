@@ -23,10 +23,10 @@ sentences = MySentences(INPUT_FILE) # a memory-friendly iterator, so we can gene
 
 # Define the skipgram and cbow models for training word2vec
 # min_count is set to 1 as the data we have is anyway less, for now.
-model_skipgram = gensim.models.Word2Vec(sentences, min_count = 1, size = 200, sg = 1, window = 4, hs = 1)
+model_skipgram = gensim.models.Word2Vec(sentences, min_count = 1, size = 50, sg = 1, window = 3)
 print ("Training skipgram done...")
 
-model_cbow = gensim.models.Word2Vec(sentences, min_count = 1, size = 200, sg = 0, window=4, hs = 1)
+model_cbow = gensim.models.Word2Vec(sentences, min_count = 1, size = 50, sg = 0, window=3)
 print ("Training cbow done...")
 
 
@@ -34,8 +34,8 @@ print ("Training cbow done...")
 if OUTPUT_DIR[-1] == '/':
 	OUTPUT_DIR=OUTPUT_DIR[:-1]
 
-model_skipgram.save(OUTPUT_DIR+'/skipgram_hs_200')
-model_cbow.save(OUTPUT_DIR+'/cbow_hs_200')
+model_skipgram.save(OUTPUT_DIR+'/skipgram_w3_50')
+model_cbow.save(OUTPUT_DIR+'/cbow_w3_50')
 
 
 
