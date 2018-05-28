@@ -1,6 +1,6 @@
 ############################################################
 #
-# Usage : [./srl_english.py] [path_to_senna_dir] [input_file] [output_file]
+# Usage : [./srl_english.sh] [path_to_senna_dir] [input_file] [output_file]
 #
 ############################################################
 
