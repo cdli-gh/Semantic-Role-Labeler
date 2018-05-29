@@ -1,6 +1,6 @@
 ############################################################
 # Script for normalising the english character set in the source Eng data
-# Usage : python [input_file] [output_file]
+# Usage : python unicode_decode.py [input_file] [output_file]
 #
 ############################################################
 from unidecode import unidecode
