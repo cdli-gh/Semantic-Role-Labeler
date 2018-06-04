@@ -1,0 +1,593 @@
+id_text,text_name,version,l_no,text
+c.1.3.1,Inana and Enki,,A1,edin-na
+c.1.3.1,Inana and Enki,,A2,tug₂-šu-gur-ra men edin-na saŋ-ŋa₂ mu-ni-in-ŋal₂
+c.1.3.1,Inana and Enki,,A3,sipad-ra ŋa₂ udu-še₃ an-na-ra-e₃
+c.1.3.1,Inana and Enki,,A4,gam-e-dam gal₄-la-ni u₆ di-dam
+c.1.3.1,Inana and Enki,,A5,zid-de₃-eš gam-e-dam gal₄-la-ni u₆ di-dam
+c.1.3.1,Inana and Enki,,A6,gal₄-la-ni-še₃ hul₂-la-e ni₂-te-ni mi₂ zid iri in-ga-am₃-me
+c.1.3.1,Inana and Enki,,A7,gal₄-la-ni-še₃ hul₂-la-e ni₂-te-ni mi₂ zid iri in-ga-am₃-me
+c.1.3.1,Inana and Enki,,A8,igi nam-ši-in-bar
+c.1.3.1,Inana and Enki,,A9,igi nam-da-ra-ši-in-bar
+c.1.3.1,Inana and Enki,,A10,igi nam-ši-in-bar
+c.1.3.1,Inana and Enki,,A11,me-e en sag₉-ga-ŋu₁₀-ne
+c.1.3.1,Inana and Enki,,A12,me-e mul-la-ŋu₁₀-ne
+c.1.3.1,Inana and Enki,,A13,sig₇-ga-ŋu₁₀-ne
+c.1.3.1,Inana and Enki,,A14,sag₉-ga-ŋu₁₀-ne
+c.1.3.1,Inana and Enki,,A15,la₂-ŋu₁₀-ne
+c.1.3.1,Inana and Enki,,A16,šu du₇-a-ŋu₁₀-ne
+c.1.3.1,Inana and Enki,,A17,lum-ma-ŋu₁₀-ne
+c.1.3.1,Inana and Enki,,A18,lam-ma-ŋu₁₀-ne
+c.1.3.1,Inana and Enki,,A19,za-ha-am-ma-ŋu₁₀-ne
+c.1.3.1,Inana and Enki,,A20,gur-gur-ra-ŋu₁₀-ne
+c.1.3.1,Inana and Enki,,A21,en-TUM mul-la-ŋu₁₀-ne
+c.1.3.1,Inana and Enki,,A22,en-TUM mul-mul-la-ŋu₁₀-ne
+c.1.3.1,Inana and Enki,,A23,abzu uru₂-ze₂-eb{ki}-še₃ ŋiri₃ u₃-da-an-ši-gub
+c.1.3.1,Inana and Enki,,A24,{d}am-an-ki-ra abzu uru₂-ze₂-eb{ki}-še₃ ŋiri₃ u₃-da-an-ši-gub
+c.1.3.1,Inana and Enki,,A25,abzu uru₂-ze₂-eb{ki}-še₃ me-e mi₂ du₅-mu-na-ab-dug₄
+c.1.3.1,Inana and Enki,,A26,{d}am-an-ki-ra abzu uru₂-ze₂-eb{ki}-še₃ me-e mi₂ du₅-mu-na-ab-dug₄
+c.1.3.1,Inana and Enki,,A27,ba-an-e₃
+c.1.3.1,Inana and Enki,,B1,ga-ša-an-an-na me-e
+c.1.3.1,Inana and Enki,,B2,ga-ša-an-an-na-ŋen me-e ga-ŋen abzu-še₃
+c.1.3.1,Inana and Enki,,B3,u₃-mu-un {d}am-an-ki-ra a-ra-zu du₅-mu-na-ab-be₂
+c.1.3.1,Inana and Enki,,B4,{ŋeš}erin i₃ ze₂-ba-gin₇ ir kug-ŋu₁₀ a-ba
+c.1.3.1,Inana and Enki,,B5,lu₂ ŋiš₃ dug₄-ga-ni ki taka₄-a-ŋu₁₀ muš₃ nam-ba-an-tum₂-mu
+c.1.3.1,Inana and Enki,,B6,ud-bi-a ki-sikil {d}inana
+c.1.3.1,Inana and Enki,,B7,abzu eridug{ki}-ga {d}en-ki-ka₃-še₃
+c.1.3.1,Inana and Enki,,B8,kug {d}inana-ke₄ ŋiri₃-ni dili mu-un-gub
+c.1.3.1,Inana and Enki,,B9,ud-ba ŋeštug₂ dirig me zu an ki-a
+c.1.3.1,Inana and Enki,,B10,ki-tuš-a-ni-ta šag₄ diŋir-re-e-ne-ke₄ ši-in-ga-zu-a
+c.1.3.1,Inana and Enki,,B11,kug {d}inana-ke₄ abzu eridug{ki}-ga-še₃ danna nu-ub-te-a-aš
+c.1.3.1,Inana and Enki,,B12,{d}en-ki lugal abzu-ke₄ niŋ₂-nam-e zu-a
+c.1.3.1,Inana and Enki,,B13,{d}en-ki lu₂ gu₃ mu-un-de₂ a₂ im-ma-an-aŋ₂
+c.1.3.1,Inana and Enki,,B14,ŋa₂-nu lu₂ inim-ŋu₁₀-še₃ ŋeštug₂-zu
+c.1.3.1,Inana and Enki,,B15,
+c.1.3.1,Inana and Enki,,C1,naŋ-e
+c.1.3.1,Inana and Enki,,C2,X-gu₇-e
+c.1.3.1,Inana and Enki,,C3,ŋa₂-nu
+c.1.3.1,Inana and Enki,,C4,lu₂ X-ib-ši-ak
+c.1.3.1,Inana and Enki,,C5,{lu₂}ki-sikil abzu eridug{ki}-še₃
+c.1.3.1,Inana and Enki,,C6,{d}inana abzu eridug{ki}-še₃
+c.1.3.1,Inana and Enki,,C7,{lu₂}ki-sikil abzu eridug{ki}-še₃ um-ma-kur₉-ra-ta
+c.1.3.1,Inana and Enki,,C8,{d}inana abzu eridug{ki}-še₃ um-ma-kur₉-ra-ta
+c.1.3.1,Inana and Enki,,C9,gug₂ i₃-nun-ta he₂-em-da-gu₇-e
+c.1.3.1,Inana and Enki,,C10,a sed niŋ₂ šag₄ te-en de₂-mu-na-ni
+c.1.3.1,Inana and Enki,,C11,igi piriŋ-ŋa₂-ka kaš hu-mu-na-na₈-na₈
+c.1.3.1,Inana and Enki,,C12,ŋa₂ ma-la-še₃ hu-mu-na-sig₉-ge nam-gi₄-me-eš₃ hu-mu-na-ak-e
+c.1.3.1,Inana and Enki,,C13,{ŋeš}banšur kug {ŋeš}banšur an-na-ke₄
+c.1.3.1,Inana and Enki,,C14,kug {d}inana-ra niŋ₂-silim hu-mu-na-e
+c.1.3.1,Inana and Enki,,C15,ur₅-gin₇ hu-mu-na-ab-be₂-a-ka
+c.1.3.1,Inana and Enki,,C16,sukkal {d}isimud-de₃ inim lugal-la-na-še₃ saŋ keše₂ ba-ši-in-ak
+c.1.3.1,Inana and Enki,,C17,{lu₂}ki-sikil abzu eridug{ki}-še₃ im-ma-ni-in-ku₄-ku₄
+c.1.3.1,Inana and Enki,,C18,{d}inana abzu eridug{ki}-še₃ im-ma-ni-in-ku₄-ku₄
+c.1.3.1,Inana and Enki,,C19,{lu₂}ki-sikil abzu eridug{ki}-še₃ um-ma-kur₉-ra-ta
+c.1.3.1,Inana and Enki,,C20,{d}inana abzu eridug{ki}-še₃ um-ma-kur₉-ra-ta
+c.1.3.1,Inana and Enki,,C21,gug₂ i₃-nun-ta im-da-gu₇-e
+c.1.3.1,Inana and Enki,,C22,a sed niŋ₂ šag₄ ten mu-na-de₂-e-ne
+c.1.3.1,Inana and Enki,,C23,igi piriŋ-ŋa₂-ka kaš mu-na-na₈-na₈
+c.1.3.1,Inana and Enki,,C24,ŋa₂ ma-la-še₃ mu-na-sig₉-ge nam-gi₄-me-eš₃ mu-na-ak-e
+c.1.3.1,Inana and Enki,,C25,{ŋeš}banšur kug {ŋeš}banšur an-na-ka
+c.1.3.1,Inana and Enki,,C26,kug {d}inana-ra niŋ₂-silim mu-na-e
+c.1.3.1,Inana and Enki,,C27,{d}en-ki {d}inana e-en-bi-ta
+c.1.3.1,Inana and Enki,,C28,abzu-a kaš im-na₈-na₈-ne kurun₂ im-dug₃-ge-ne
+c.1.3.1,Inana and Enki,,C29,{zabar}aga im-gur₄-gur₄-e-ne
+c.1.3.1,Inana and Enki,,C30,zabar {d}uraš-a a-da-min₃ mu-un-ak-ne
+c.1.3.1,Inana and Enki,,D1,kug {d}inana-ra dumu-ŋu₁₀-ur₂ ga-na-ab-šum₂
+c.1.3.1,Inana and Enki,,D2,nam-ur-saŋ nam-kalag-ga nam-niŋ₂-erim₂ nam-niŋ₂-si-sa₂ iri lah₅ i-si-iš ŋa₂-ŋa₂ šag₄ hul₂-la
+c.1.3.1,Inana and Enki,,D3,kug {d}inana-ke₄ šu ba-ti
+c.1.3.1,Inana and Enki,,D4,mu a₂-ŋa₂ mu abzu-ŋa₂
+c.1.3.1,Inana and Enki,,D5,kug {d}inana-ra dumu-ŋu₁₀-ur₂ ga-na-ab-šum₂
+c.1.3.1,Inana and Enki,,D6,lul-da kur ki-bal nam-dug₃-ge kaš₄ di-di ki-tuš gen₆-na
+c.1.3.1,Inana and Enki,,D7,kug {d}inana-ke₄ šu ba-ti
+c.1.3.1,Inana and Enki,,D8,mu a₂-ŋa₂ mu abzu-ŋa₂
+c.1.3.1,Inana and Enki,,D9,kug {d}inana-ra dumu-ŋu₁₀-ur₂ ga-na-ab-šum₂
+c.1.3.1,Inana and Enki,,D10,nam-nagar nam-tibira nam-dub-sar nam-simug nam-ašgab nam-azlag₂ nam-šidim nam-ad-KID
+c.1.3.1,Inana and Enki,,D11,kug {d}inana-ke₄ šu ba-ti
+c.1.3.1,Inana and Enki,,D12,mu a₂-ŋa₂ mu abzu-ŋa₂
+c.1.3.1,Inana and Enki,,D13,kug {d}inana-ra dumu-ŋu₁₀-ur₂ ga-na-ab-šum₂
+c.1.3.1,Inana and Enki,,D14,ŋeštug₂ ŋizzal šu-luh kug-ga e₂-DAG.KISIM₅×X-ra ne-mur dub ŋa₂ udu ni₂ teŋ₃-ŋe₂₆ niŋ₂-me-ŋar kur-ku
+c.1.3.1,Inana and Enki,,D15,kug {d}inana-ke₄ šu ba-ti
+c.1.3.1,Inana and Enki,,D16,mu a₂-ŋa₂ mu abzu-ŋa₂
+c.1.3.1,Inana and Enki,,D17,kug {d}inana-ra dumu-ŋu₁₀-ur₂ ga-na-ab-šum₂
+c.1.3.1,Inana and Enki,,D18,zu₂ sis izi mu₂-mu₂ izi ten-ten a₂ kuš₂-u₃ KA.GAN₂-ge im-ri-a gu₂ ŋar-ra lu-lu-bu-na
+c.1.3.1,Inana and Enki,,D19,kug {d}inana-ke₄ šu ba-ti
+c.1.3.1,Inana and Enki,,D20,mu a₂-ŋa₂ mu abzu-ŋa₂
+c.1.3.1,Inana and Enki,,D21,kug {d}inana-ra dumu-ŋu₁₀-ur₂ ga-na-ab-šum₂
+c.1.3.1,Inana and Enki,,D22,du₁₄ mu₂-mu₂ u₃-ma ad gi₄-gi₄ šag₄ kuš₂-u₃ di kud ka-aš bar
+c.1.3.1,Inana and Enki,,D23,kug {d}inana-ke₄ šu ba-ti
+c.1.3.1,Inana and Enki,,D24,mu a₂-ŋa₂ mu abzu-ŋa₂
+c.1.3.1,Inana and Enki,,D25,kug {d}inana-ra dumu-ŋu₁₀-ur₂ ga-na-ab-šum₂
+c.1.3.1,Inana and Enki,,D26,nin
+c.1.3.1,Inana and Enki,,D27,dab₅-be₂
+c.1.3.1,Inana and Enki,,E1,nam-niŋ₂-si-sa₂ ma-an-šum₂
+c.1.3.1,Inana and Enki,,E2,iri lah₅ ma-an-šum₂
+c.1.3.1,Inana and Enki,,E3,i-si-iš ŋa₂-ŋa₂ ma-an-šum₂
+c.1.3.1,Inana and Enki,,E4,šag₄ hul₂-la ma-an-šum₂
+c.1.3.1,Inana and Enki,,E5,lul-da ma-an-šum₂
+c.1.3.1,Inana and Enki,,E6,kur ki-bal ma-an-šum₂
+c.1.3.1,Inana and Enki,,E7,nam-dug₃-ge ma-an-šum₂
+c.1.3.1,Inana and Enki,,E8,kaš₄ di-di ma-an-šum₂
+c.1.3.1,Inana and Enki,,E9,ki-tuš gen₆-na ma-an-šum₂
+c.1.3.1,Inana and Enki,,E10,nam-nagar ma-an-šum₂
+c.1.3.1,Inana and Enki,,E11,nam-tibira ma-an-šum₂
+c.1.3.1,Inana and Enki,,E12,nam-dub-sar ma-an-šum₂
+c.1.3.1,Inana and Enki,,E13,nam-simug ma-an-šum₂
+c.1.3.1,Inana and Enki,,E14,nam-ašgab ma-an-šum₂
+c.1.3.1,Inana and Enki,,E15,nam-azlag₂ ma-an-šum₂
+c.1.3.1,Inana and Enki,,E16,nam-šidim ma-an-šum₂
+c.1.3.1,Inana and Enki,,E17,nam-ad-KID ma-an-šum₂
+c.1.3.1,Inana and Enki,,E18,ŋeštug₂ ma-an-šum₂
+c.1.3.1,Inana and Enki,,E19,ŋizzal ma-an-šum₂
+c.1.3.1,Inana and Enki,,E20,šu-luh kug-ge ma-an-šum₂
+c.1.3.1,Inana and Enki,,E21,e₂-DAG.KISIM₅×X-ra ma-an-šum₂
+c.1.3.1,Inana and Enki,,E22,ne-mur dub ma-an-šum₂
+c.1.3.1,Inana and Enki,,E23,ŋa₂ udu ma-an-šum₂
+c.1.3.1,Inana and Enki,,E24,ni₂ teŋ₃-ŋe₂₆ ma-an-šum₂
+c.1.3.1,Inana and Enki,,E25,niŋ₂-me-ŋar ma-an-šum₂
+c.1.3.1,Inana and Enki,,E26,kur-ku ma-an-šum₂
+c.1.3.1,Inana and Enki,,E27,zu₂ sis ma-an-šum₂
+c.1.3.1,Inana and Enki,,E28,izi mu₂-mu₂ ma-an-šum₂
+c.1.3.1,Inana and Enki,,E29,izi ten-ten ma-an-šum₂
+c.1.3.1,Inana and Enki,,E30,a₂ kuš₂-u₃ ma-an-šum₂
+c.1.3.1,Inana and Enki,,E31,KA.GAN₂-ge ma-an-šum₂
+c.1.3.1,Inana and Enki,,E32,im-ri-a gu₂ ŋar-ra ma-an-šum₂
+c.1.3.1,Inana and Enki,,E33,lu-lu-bu-na ma-an-šum₂
+c.1.3.1,Inana and Enki,,E34,du₁₄ mu₂-mu₂ ma-an-šum₂
+c.1.3.1,Inana and Enki,,E35,u₃-ma ma-an-šum₂
+c.1.3.1,Inana and Enki,,E36,ad gi₄-gi₄ ma-an-šum₂
+c.1.3.1,Inana and Enki,,F1,{d}en-ki-ke₄ sukkal {d}isimud-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,F2,sukkal {d}isimud-ŋu₁₀ mu dug₃ an-na-ŋu₁₀
+c.1.3.1,Inana and Enki,,F3,lugal-ŋu₁₀ {d}en-ki i₃-gub-be-en ud-ul a-ra-zu
+c.1.3.1,Inana and Enki,,F4,a-da-al unug{ki} kul-aba₄{ki}-še₃ na-ma-ra-an-e₃-a
+c.1.3.1,Inana and Enki,,F5,ki {d}utu na-ma-ra-an-e₃-a
+c.1.3.1,Inana and Enki,,F6,im-mi-in-dug₄-ga-ka sa₂ ba-ni-ib₂-be₂-en
+c.1.3.1,Inana and Enki,,F7,kug {d}inana me mu-un-ur₄-ur₄ ma₂ an-na bi₂-in-u₅
+c.1.3.1,Inana and Enki,,F8,ma₂ an-na kar-ra zag bi₂-in-tag
+c.1.3.1,Inana and Enki,,F9,kaš naŋ-ŋa₂-ra kaš naŋ-ŋa₂-ra kaš mu-un-ta-ed₃-da
+c.1.3.1,Inana and Enki,,F10,a-a {d}en-ki kaš naŋ-ŋa₂-ra kaš mu-un-ta-ed₃-da
+c.1.3.1,Inana and Enki,,F11,en gal {d}en-ki-ke₄ e₂ ŋiš mu-un-ši-kar₂-kar₂
+c.1.3.1,Inana and Enki,,F12,en-e abzu-še₃ igi mi-ni-ib₂-il₂-il₂-e
+c.1.3.1,Inana and Enki,,F13,lugal {d}en-ki-ke₄ eridug{ki}-še₃ ŋiš mu-un-ši-kar₂-kar₂
+c.1.3.1,Inana and Enki,,F14,{d}en-ki-ke₄ sukkal {d}isimud-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,F15,sukkal {d}isimud-ŋu₁₀ mu dug₃ an-na-ŋu₁₀
+c.1.3.1,Inana and Enki,,F16,lugal-ŋu₁₀ {d}en-ki i₃-gub-be₂-en ud-ul a-ra-zu
+c.1.3.1,Inana and Enki,,F17,nam-en nam-lagar nam-diŋir aga zid mah {ŋeš}gu-za nam-lugal me-a
+c.1.3.1,Inana and Enki,,F18,lugal-ŋu₁₀ dumu-ni-ir ba-an-na-šum₂
+c.1.3.1,Inana and Enki,,F19,ŋidru mah ešgiri₂ šibir tug₂ mah nam-sipad nam-lugal me-a
+c.1.3.1,Inana and Enki,,F20,lugal-ŋu₁₀ dumu-ni-ir ba-an-na-šum₂
+c.1.3.1,Inana and Enki,,F21,nam-egir₃-zid nam-nin-diŋir nam-išib nam-lu₂-mah nam-gudug me-a
+c.1.3.1,Inana and Enki,,F22,lugal-ŋu₁₀ dumu-ni-ir ba-an-na-šum₂
+c.1.3.1,Inana and Enki,,F23,niŋ₂-gen₆-na e₃ kur ed₃-de₃ kur ed₃-da kur-ŋar-ra me-a
+c.1.3.1,Inana and Enki,,F24,lugal-ŋu₁₀ dumu-ni-ir ba-an-na-šum₂
+c.1.3.1,Inana and Enki,,F25,ŋiri₂ ba-da-ra saŋ-ur-saŋ tug₂ gig₂ tug₂ gun₃-a gu₂-bar gu₂-X me-a
+c.1.3.1,Inana and Enki,,F26,lugal-ŋu₁₀ dumu-ni-ir ba-an-na-šum₂
+c.1.3.1,Inana and Enki,,F27,ŋiš me-a
+c.1.3.1,Inana and Enki,,F28,lugal-ŋu₁₀ dumu-ni-ir ba-an-na-šum₂
+c.1.3.1,Inana and Enki,,F29,{ŋeš}šu-nir mar-uru₅ ŋiš₃ dug₄-dug₄ ŋiš₃ ki su-ub nam-kar-ke₄ nam-hub₂-dar me-a
+c.1.3.1,Inana and Enki,,F30,lugal-ŋu₁₀ dumu-ni-ir ba-an-na-šum₂
+c.1.3.1,Inana and Enki,,F31,nam-eme-di nam-eme-sig nam-še-er-ka-an amalu eš₂-dam kug me-a
+c.1.3.1,Inana and Enki,,F32,lugal-ŋu₁₀ dumu-ni-ir ba-an-na-šum₂
+c.1.3.1,Inana and Enki,,F33,niŋin₃-ŋar kug nu-gig an-na ŋiš-gu₃-di nam-nar nam-ab-ba me-a
+c.1.3.1,Inana and Enki,,F34,lugal-ŋu₁₀ dumu-ni-ir ba-an-na-šum₂
+c.1.3.1,Inana and Enki,,G1,lugal
+c.1.3.1,Inana and Enki,,G2,e₂ {d}en-ki-ke₄ inim nu-ha-lam-e-dam
+c.1.3.1,Inana and Enki,,G3,na de₅-ga gu₃ di gal-zu-a
+c.1.3.1,Inana and Enki,,G4,{ŋeš}saŋ-kul {ŋeš}ig e₂-e-ka bi₂-za-za bi₂-in-dug₄ bi₂-in-eš
+c.1.3.1,Inana and Enki,,G5,ki e-ne-er mu-na-an-pad₃
+c.1.3.1,Inana and Enki,,G6,{d}en-ki-ke₄ bi₂-za-za-X kišib-la₂ zid-da-ni im-ma-an-dab₅
+c.1.3.1,Inana and Enki,,G7,kug-ga-na im-ma-ni-in-ku₄-ku₄
+c.1.3.1,Inana and Enki,,G8,{ŋeš}ha-lu-ub₂ {ŋeš}taškarin-na-ni šu im-ma-an-ti
+c.1.3.1,Inana and Enki,,G9,mušen an-na-še₃ ba-an-šum₂
+c.1.3.1,Inana and Enki,,G10,ku₆ engur-ra-še₃ ba-an-šum₂
+c.1.3.1,Inana and Enki,,G11,mun mu-ni-in-ra
+c.1.3.1,Inana and Enki,,G12,im-ma-ni-in-ra
+c.1.3.1,Inana and Enki,,G13,X-ib-sud
+c.1.3.1,Inana and Enki,,G14,nam-ba-da-ha-lam-e
+c.1.3.1,Inana and Enki,,G15,suhuš he₂-a
+c.1.3.1,Inana and Enki,,G16,he₂-a
+c.1.3.1,Inana and Enki,,G17,kar-ra
+c.1.3.1,Inana and Enki,,G18,sag₉-sag₉-še₃
+c.1.3.1,Inana and Enki,,G19,tag
+c.1.3.1,Inana and Enki,,G20,
+c.1.3.1,Inana and Enki,,G21,
+c.1.3.1,Inana and Enki,,H1,nun-e sukkal-a-ni {d}isimud-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H2,{d}en-ki-ke₄ mu dug₃ an-na-ra inim mu-na-ni-ib-gi₄-gi₄
+c.1.3.1,Inana and Enki,,H3,sukkal {d}isimud-ŋu₁₀ mu dug₃ an-na-ŋu₁₀
+c.1.3.1,Inana and Enki,,H4,lugal-ŋu₁₀ {d}en-ki i₃-gub-be₂-en ud-ul a-ra-zu
+c.1.3.1,Inana and Enki,,H5,ma₂ an-na me-a sa₂ ba-an-dug₄
+c.1.3.1,Inana and Enki,,H6,i-da-al kar sa₂ ba-an-dug₄
+c.1.3.1,Inana and Enki,,H7,ŋen-na ma₂ an-na enkum-e-ne he₂-em-da-ab-kar-re-ne
+c.1.3.1,Inana and Enki,,H8,sukkal {d}isimud-de₃ kug {d}inana-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H9,nin-ŋu₁₀ a-a-zu za-a-še₃ mu-e-ši-in-gi₄-in-nam
+c.1.3.1,Inana and Enki,,H10,{d}inana a-a-zu za-a-še₃ mu-e-ši-in-gi₄-in-nam
+c.1.3.1,Inana and Enki,,H11,a-a-zu dug₄-ga-ni mah-am₃
+c.1.3.1,Inana and Enki,,H12,{d}en-ki-ke₄ tah-a-ni mah-am₃
+c.1.3.1,Inana and Enki,,H13,inim gal-gal-a-ni sag₂ nu-di
+c.1.3.1,Inana and Enki,,H14,kug {d}inana-ke₄ mu-na-ni-ib-gi₄-gi₄
+c.1.3.1,Inana and Enki,,H15,a-a-ŋu₁₀ ta-am₃ e-ra-an-dug₄ ta-am₃ e-ra-an-tah
+c.1.3.1,Inana and Enki,,H16,e-ne-eŋ₃ gal-gal-a-ni ta-am₃ sag₂ nu-di
+c.1.3.1,Inana and Enki,,H17,lugal-ŋu₁₀ ŋa₂-a-ra ma-an-dug₄
+c.1.3.1,Inana and Enki,,H18,{d}en-ki-ke₄ ŋa₂-a-ra ma-an-tah
+c.1.3.1,Inana and Enki,,H19,{d}inana unug{ki}-še₃ he₂-du za-e ma₂ an-na eridug{ki}-še₃ dib-ma-ab
+c.1.3.1,Inana and Enki,,H20,kug {d}inana-ke₄ sukkal {d}isimud-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H21,a-a-ŋu₁₀ ŋa₂-a-ra ta-am₃ gu₃ ba-an-kur₂
+c.1.3.1,Inana and Enki,,H22,dug₄-ga zid-da-ni ŋa₂-a-ra ta-am₃ šu i-ni-ib-bal
+c.1.3.1,Inana and Enki,,H23,e-ne-eŋ₃ gal-gal-a-ni ŋa₂-a-ra ta-am₃ mu-un-pe-el
+c.1.3.1,Inana and Enki,,H24,a-a-ŋu₁₀ lul-da ma-an-dug₄ lul-da ma-an-tah
+c.1.3.1,Inana and Enki,,H25,lul-da mu a₂-na mu abzu-na in-pad₃
+c.1.3.1,Inana and Enki,,H26,lul-da ŋa₂-a-ra za-a lu₂ mu-un-gi₄
+c.1.3.1,Inana and Enki,,H27,inim-bi ka-ga₁₄-na nam-ma-da-ŋal₂-la
+c.1.3.1,Inana and Enki,,H28,enkum-e-ne ma₂ an-na im-ma-ni-in-dab₅-be₂-ne
+c.1.3.1,Inana and Enki,,H29,kug {d}inana sukkal-a-ni {d}nin-šubur-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H30,ŋa₂-nu sukkal zid e₂-an-na-ŋu₁₀
+c.1.3.1,Inana and Enki,,H31,sukkal e-ne-eŋ₃ sag₉-sag₉-ga-ŋu₁₀
+c.1.3.1,Inana and Enki,,H32,ra-gaba e-ne-eŋ₃ ge-en-gen₆-na-ŋu₁₀
+c.1.3.1,Inana and Enki,,H33,a šu-zu nu-tag a me-ri-zu nu-tag
+c.1.3.1,Inana and Enki,,H34,{d}inana me saŋ rig₇-ga-ni ma₂ an-na um-ma-da-an-kar
+c.1.3.1,Inana and Enki,,H35,₂-kam-ma-še₃ nun-e sukkal-a-ni {d}isimud-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H36,{d}en-ki-ke₄ mu dug₃ an-na-ra inim mu-na-ni-ib-gi₄-gi₄
+c.1.3.1,Inana and Enki,,H37,sukkal {d}isimud-ŋu₁₀ mu dug₃ an-na-ŋu₁₀
+c.1.3.1,Inana and Enki,,H38,lugal-ŋu₁₀ {d}en-ki i₃-gub-be₂-en ud-ul a-ra-zu
+c.1.3.1,Inana and Enki,,H39,ma₂ an-na me-a sa₂ ba-an-dug₄
+c.1.3.1,Inana and Enki,,H40,kug-ga sa₂ ba-an-dug₄
+c.1.3.1,Inana and Enki,,H41,ŋen-na u₁₈-ru eridug{ki}-ga ₅₀-bi ma₂ an-na he₂-em-da-ab-kar-re-ne
+c.1.3.1,Inana and Enki,,H42,sukkal {d}isimud-de₃ kug {d}inana-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H43,nin-ŋu₁₀ a-a-zu za-a-še₃ mu-e-ši-in-gi₄-in-nam
+c.1.3.1,Inana and Enki,,H44,{d}inana a-a-zu za-a-še₃ mu-e-ši-in-gi₄-in-nam
+c.1.3.1,Inana and Enki,,H45,a-a-zu dug₄-ga-ni mah-am₃
+c.1.3.1,Inana and Enki,,H46,{d}en-ki-ke₄ tah-a-ni mah-am₃
+c.1.3.1,Inana and Enki,,H47,inim gal-gal-a-ni sag₂ nu-di
+c.1.3.1,Inana and Enki,,H48,kug {d}inana-ke₄ mu-na-ni-ib-gi₄-gi₄
+c.1.3.1,Inana and Enki,,H49,a-a-ŋu₁₀ ta-am₃ e-ra-an-dug₄ ta-am₃ e-ra-an-tah
+c.1.3.1,Inana and Enki,,H50,e-ne-eŋ₃ gal-gal-a-ni ta-am₃ sag₂ nu-di
+c.1.3.1,Inana and Enki,,H51,lugal-ŋu₁₀ ŋa₂-a-ra ma-an-dug₄
+c.1.3.1,Inana and Enki,,H52,{d}en-ki-ke₄ ŋa₂-a-ra ma-an-tah
+c.1.3.1,Inana and Enki,,H53,{d}inana unug{ki}-še₃ he₂-du za-e ma₂ an-na eridug{ki}-še₃ dib-ma-ab
+c.1.3.1,Inana and Enki,,H54,kug {d}inana-ke₄ sukkal {d}isimud-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H55,a-a-ŋu₁₀ ŋa₂-ra ta-am₃ gu₃ ba-an-kur₂
+c.1.3.1,Inana and Enki,,H56,dug₄-ga zid-da-ni ŋa₂-a-ra ta-am₃ šu i-ni-ib-bal
+c.1.3.1,Inana and Enki,,H57,e-ne-eŋ₃ gal-gal-a-ni ŋa₂-a-ra ta-am₃ mu-un-pe-el
+c.1.3.1,Inana and Enki,,H58,a-a-ŋu₁₀ lul-da ma-an-dug₄ lul-da ma-an-tah
+c.1.3.1,Inana and Enki,,H59,lul-da mu a₂-na mu abzu-na in-pad₃
+c.1.3.1,Inana and Enki,,H60,lul-da ŋa₂-a-ra za-a lu₂ mu-un-gi₄
+c.1.3.1,Inana and Enki,,H61,inim-bi ka-ga₁₄-na nam-ma-da-ŋal₂-la
+c.1.3.1,Inana and Enki,,H62,u₁₈-ru eridug{ki}-ga ₅₀-bi ma₂ an-na im-ma-ni-in-dab₅-e-ne
+c.1.3.1,Inana and Enki,,H63,kug {d}inana-ke₄ sukkal-a-ni {d}nin-šubur-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H64,ŋa₂-nu sukkal zid e₂-an-na-ŋu₁₀
+c.1.3.1,Inana and Enki,,H65,sukkal e-ne-eŋ₃ sag₉-sag₉-ga-ŋu₁₀
+c.1.3.1,Inana and Enki,,H66,ra-gaba e-ne-eŋ₃ ge-en-gen₆-na-ŋu₁₀
+c.1.3.1,Inana and Enki,,H67,a šu-zu nu-tag a me-ri-zu nu-tag
+c.1.3.1,Inana and Enki,,H68,{d}inana me saŋ rig₇-ga-ni ma₂ an-na um-ma-da-an-kar
+c.1.3.1,Inana and Enki,,H69,₃-kam-ma-aš nun-e sukkal-a-ni {d}isimud-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H70,{d}en-ki-ke₄ mu dug₃ an-na-ra inim mu-na-ni-ib-gi₄-gi₄
+c.1.3.1,Inana and Enki,,H71,sukkal {d}isimud-ŋu₁₀ mu dug₃ an-na-ŋu₁₀
+c.1.3.1,Inana and Enki,,H72,lugal-ŋu₁₀ {d}en-ki i₃-gub-be₂-en ud-ul a-ra-zu
+c.1.3.1,Inana and Enki,,H73,ma₂ an-na me-a sa₂ ba-an-dug₄
+c.1.3.1,Inana and Enki,,H74,du₆ UL.MA sa₂ ba-an-dug₄
+c.1.3.1,Inana and Enki,,H75,ŋen-na la-ha-ma engur-ra ₅₀-bi ma₂ an-na he₂-em-da-ab-kar-re-ne
+c.1.3.1,Inana and Enki,,H76,sukkal {d}isimud-de₃ kug {d}inana-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H77,nin-ŋu₁₀ a-a-zu za-a-še₃ mu-e-ši-in-gi₄-in-nam
+c.1.3.1,Inana and Enki,,H78,{d}inana a-a-zu za-a-še₃ mu-e-ši-in-gi₄-in-nam
+c.1.3.1,Inana and Enki,,H79,a-a-zu dug₄-ga-ni mah-am₃
+c.1.3.1,Inana and Enki,,H80,{d}en-ki-ke₄ tah-a-ni mah-am₃
+c.1.3.1,Inana and Enki,,H81,inim gal-gal-a-ni sag₂ nu-di
+c.1.3.1,Inana and Enki,,H82,kug {d}inana-ke₄ mu-na-ni-ib-gi₄-gi₄
+c.1.3.1,Inana and Enki,,H83,a-a-ŋu₁₀ ta-am₃ e-ra-an-dug₄ ta-am₃ e-ra-an-tah
+c.1.3.1,Inana and Enki,,H84,e-ne-eŋ₃ gal-gal-a-ni ta-am₃ sag₂ nu-di
+c.1.3.1,Inana and Enki,,H85,lugal-ŋu₁₀ ŋa₂-a-ra ma-an-dug₄
+c.1.3.1,Inana and Enki,,H86,{d}en-ki-ke₄ ŋa₂-a-ra ma-an-tah
+c.1.3.1,Inana and Enki,,H87,{d}inana unug{ki}-še₃ he₂-du za-e ma₂ an-na eridug{ki}-še₃ dib-ma-ab
+c.1.3.1,Inana and Enki,,H88,kug {d}inana-ke₄ sukkal {d}isimud-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H89,a-a-ŋu₁₀ ŋa₂-a-ra ta-am₃ gu₃ ba-an-kur₂
+c.1.3.1,Inana and Enki,,H90,dug₄-ga zid-da-ni ŋa₂-a-ra ta-am₃ šu i-ni-ib-bal
+c.1.3.1,Inana and Enki,,H91,e-ne-eŋ₃ gal-gal-a-ni ŋa₂-a-ra ta-am₃ mu-un-pe-el
+c.1.3.1,Inana and Enki,,H92,a-a-ŋu₁₀ lul-da ma-an-dug₄ lul-da ma-an-tah
+c.1.3.1,Inana and Enki,,H93,lul-da mu a₂-na mu abzu-na in-pad₃
+c.1.3.1,Inana and Enki,,H94,lul-da ŋa₂-a-ra za-a lu₂ mu-un-gi₄
+c.1.3.1,Inana and Enki,,H95,inim-bi ka-ga₁₄-na nam-ma-da-ŋal₂-la
+c.1.3.1,Inana and Enki,,H96,la-ha-ma engur-ra ₅₀-bi ma₂ an-na im-ma-ni-in-dab₅-be₂-ne
+c.1.3.1,Inana and Enki,,H97,kug {d}inana-ke₄ sukkal-a-ni {d}nin-šubur-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H98,ŋa₂-nu sukkal zid e₂-an-na-ŋu₁₀
+c.1.3.1,Inana and Enki,,H99,sukkal e-ne-eŋ₃ sag₉-sag₉-ga-ŋu₁₀
+c.1.3.1,Inana and Enki,,H100,ra-gaba e-ne-eŋ₃ ge-en-gen₆-na-ŋu₁₀
+c.1.3.1,Inana and Enki,,H101,a šu-zu nu-tag a me-ri-zu nu-tag
+c.1.3.1,Inana and Enki,,H102,{d}inana me saŋ rig₇-ga-ni ma₂ an-na um-ma-da-an-kar
+c.1.3.1,Inana and Enki,,H103,₄-kam-ma-aš nun-e sukkal-a-ni {d}isimud-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H104,{d}en-ki-ke₄ mu dug₃ an-na-ra inim mu-na-ni-ib-gi₄-gi₄
+c.1.3.1,Inana and Enki,,H105,sukkal {d}isimud-ŋu₁₀ mu dug₃ an-na-ŋu₁₀
+c.1.3.1,Inana and Enki,,H106,lugal-ŋu₁₀ {d}en-ki i₃-gub-be₂-en ud-ul a-ra-zu
+c.1.3.1,Inana and Enki,,H107,ma₂ an-na me-a sa₂ ba-an-dug₄
+c.1.3.1,Inana and Enki,,H108,du₆ a-šag₄-ga sa₂ ba-an-dug₄
+c.1.3.1,Inana and Enki,,H109,ŋen-na ku₆ gal-gal teš₂-bi ma₂ an-na he₂-em-da-ab-kar-re-ne
+c.1.3.1,Inana and Enki,,H110,sukkal {d}isimud-de₃ kug {d}inana-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H111,nin-ŋu₁₀ a-a-zu za-a-še₃ mu-e-ši-in-gi₄-in-nam
+c.1.3.1,Inana and Enki,,H112,{d}inana a-a-zu za-a-še₃ mu-e-ši-in-gi₄-in-nam
+c.1.3.1,Inana and Enki,,H113,a-a-zu dug₄-ga-ni mah-am₃
+c.1.3.1,Inana and Enki,,H114,{d}en-ki-ke₄ tah-a-ni mah-am₃
+c.1.3.1,Inana and Enki,,H115,inim gal-gal-a-ni sag₂ nu-di
+c.1.3.1,Inana and Enki,,H116,kug {d}inana-ke₄ mu-na-ni-ib-gi₄-gi₄
+c.1.3.1,Inana and Enki,,H117,a-a-ŋu₁₀ ta-am₃ e-ra-an-dug₄ ta-am₃ e-ra-an-tah
+c.1.3.1,Inana and Enki,,H118,e-ne-eŋ₃ gal-gal-a-ni ta-am₃ sag₂ nu-di
+c.1.3.1,Inana and Enki,,H119,lugal-ŋu₁₀ ŋa₂-a-ra ma-an-dug₄
+c.1.3.1,Inana and Enki,,H120,{d}en-ki-ke₄ ŋa₂-a-ra ma-an-tah
+c.1.3.1,Inana and Enki,,H121,{d}inana unug{ki}-še₃ he₂-du za-e ma₂ an-na eridug{ki}-še₃ dib-ma-ab
+c.1.3.1,Inana and Enki,,H122,kug {d}inana-ke₄ sukkal {d}isimud-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H123,a-a-ŋu₁₀ ŋa₂-a-ra ta-am₃ gu₃ ba-an-kur₂
+c.1.3.1,Inana and Enki,,H124,dug₄-ga zid-da-ni ŋa₂-a-ra ta-am₃ šu i-ni-ib-bal
+c.1.3.1,Inana and Enki,,H125,e-ne-eŋ₃ gal-gal-a-ni ŋa₂-a-ra ta-am₃ mu-un-pe-el
+c.1.3.1,Inana and Enki,,H126,a-a-ŋu₁₀ lul-da ma-an-dug₄ lul-da ma-an-tah
+c.1.3.1,Inana and Enki,,H127,lul-da mu a₂-na mu abzu-na in-pad₃
+c.1.3.1,Inana and Enki,,H128,lul-da ŋa₂-a-ra za-a lu₂ mu-un-gi₄
+c.1.3.1,Inana and Enki,,H129,inim-bi ka-ga₁₄-na nam-ma-da-ŋal₂-la
+c.1.3.1,Inana and Enki,,H130,ku₆ gal-gal teš₂-bi ma₂ an-na im-ma-ni-in-dab₅-be₂-ne
+c.1.3.1,Inana and Enki,,H131,kug {d}inana-ke₄ sukkal-a-ni {d}nin-šubur-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H132,ŋa₂-nu sukkal zid e₂-an-na-ŋu₁₀
+c.1.3.1,Inana and Enki,,H133,sukkal e-ne-eŋ₃ sag₉-sag₉-ga-ŋu₁₀
+c.1.3.1,Inana and Enki,,H134,ra-gaba e-ne-eŋ₃ ge-en-gen₆-na-ŋu₁₀
+c.1.3.1,Inana and Enki,,H135,a šu-zu nu-tag a me-ri-zu nu-tag
+c.1.3.1,Inana and Enki,,H136,{d}inana me saŋ rig₇-ga-ni ma₂ an-na um-ma-da-an-kar
+c.1.3.1,Inana and Enki,,H137,₅-kam-ma-aš nun-e sukkal-a-ni {d}isimud-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H138,{d}en-ki-ke₄ mu dug₃ an-na-ra inim mu-na-ni-ib-gi₄-gi₄
+c.1.3.1,Inana and Enki,,H139,sukkal {d}isimud-ŋu₁₀ mu dug₃ an-na-ŋu₁₀
+c.1.3.1,Inana and Enki,,H140,lugal-ŋu₁₀ {d}en-ki i₃-gub-be₂-en ud-ul a-ra-zu
+c.1.3.1,Inana and Enki,,H141,ma₂ an-na me-a sa₂ ba-an-dug₄
+c.1.3.1,Inana and Enki,,H142,sa₂ ba-an-dug₄
+c.1.3.1,Inana and Enki,,H143,ŋen-na en-nu-uŋ₃ unug{ki}-ga ma₂ an-na he₂-em-da-ab-kar-re-ne
+c.1.3.1,Inana and Enki,,H144,sukkal {d}isimud-de₃ kug {d}inana-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H145,nin-ŋu₁₀ a-a-zu za-a-še₃ mu-e-ši-in-gi₄-in-nam
+c.1.3.1,Inana and Enki,,H146,{d}inana a-a-zu za-a-še₃ mu-e-ši-in-gi₄-in-nam
+c.1.3.1,Inana and Enki,,H147,a-a-zu dug₄-ga-ni mah-am₃
+c.1.3.1,Inana and Enki,,H148,{d}en-ki-ke₄ tah-a-ni mah-am₃
+c.1.3.1,Inana and Enki,,H149,inim gal-gal-a-ni sag₂ nu-di
+c.1.3.1,Inana and Enki,,H150,kug {d}inana-ke₄ mu-na-ni-ib-gi₄-gi₄
+c.1.3.1,Inana and Enki,,H151,a-a-ŋu₁₀ ta-am₃ e-ra-an-dug₄ ta-am₃ e-ra-an-tah
+c.1.3.1,Inana and Enki,,H152,e-ne-eŋ₃ gal-gal-a-ni ta-am₃ sag₂ nu-di
+c.1.3.1,Inana and Enki,,H153,lugal-ŋu₁₀ ŋa₂-a-ra ma-an-dug₄
+c.1.3.1,Inana and Enki,,H154,{d}en-ki-ke₄ ŋa₂-a-ra ma-an-tah
+c.1.3.1,Inana and Enki,,H155,{d}inana unug{ki}-še₃ he₂-du za-e ma₂ an-na eridug{ki}-še₃ dib-ma-ab
+c.1.3.1,Inana and Enki,,H156,kug {d}inana-ke₄ sukkal {d}isimud-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H157,a-a-ŋu₁₀ ŋa₂-a-ra ta-am₃ gu₃ ba-an-kur₂
+c.1.3.1,Inana and Enki,,H158,dug₄-ga zid-da-ni ŋa₂-a-ra ta-am₃ šu i-ni-ib-bal
+c.1.3.1,Inana and Enki,,H159,e-ne-eŋ₃ gal-gal-a-ni ŋa₂-a-ra ta-am₃ mu-un-pe-el
+c.1.3.1,Inana and Enki,,H160,a-a-ŋu₁₀ lul-da ma-an-dug₄ lul-da ma-an-tah
+c.1.3.1,Inana and Enki,,H161,lul-da mu a₂-na mu abzu-na in-pad₃
+c.1.3.1,Inana and Enki,,H162,lul-da ŋa₂-a-ra za-a lu₂ mu-un-gi₄
+c.1.3.1,Inana and Enki,,H163,inim-bi ka-ga₁₄-na nam-ma-da-ŋal₂-la
+c.1.3.1,Inana and Enki,,H164,en-nu-uŋ₃ unug{ki}-ga ma₂ an-na im-ma-ni-in-dab₅-be₂-ne
+c.1.3.1,Inana and Enki,,H165,kug {d}inana-ke₄ sukkal-a-ni {d}nin-šubur-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H166,ŋa₂-nu sukkal zid e₂-an-na-ŋu₁₀
+c.1.3.1,Inana and Enki,,H167,sukkal e-ne-eŋ₃ sag₉-sag₉-ga-ŋu₁₀
+c.1.3.1,Inana and Enki,,H168,ra-gaba e-ne-eŋ₃ ge-en-gen₆-na-ŋu₁₀
+c.1.3.1,Inana and Enki,,H169,a šu-zu nu-tag a me-ri-zu nu-tag
+c.1.3.1,Inana and Enki,,H170,{d}inana me saŋ rig₇-ga-ni ma₂ an-na um-ma-da-an-kar
+c.1.3.1,Inana and Enki,,H171,₆-kam-ma-aš nun-e sukkal-a-ni {d}isimud-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H172,{d}en-ki-ke₄ mu dug₃ an-na-ra inim mu-na-ni-ib-gi₄-gi₄
+c.1.3.1,Inana and Enki,,H173,sukkal {d}isimud-ŋu₁₀ mu dug₃ an-na-ŋu₁₀
+c.1.3.1,Inana and Enki,,H174,lugal-ŋu₁₀ {d}en-ki i₃-gub-be₂-en ud-ul a-ra-zu
+c.1.3.1,Inana and Enki,,H175,ma₂ an-na me-a sa₂ ba-an-dug₄
+c.1.3.1,Inana and Enki,,H176,{id₂}surungal sa₂ ba-an-dug₄
+c.1.3.1,Inana and Enki,,H177,ŋen-na {id₂}surungal ma₂ an-na he₂-em-da-ab-kar-re-ne
+c.1.3.1,Inana and Enki,,H178,kug {d}inana-ra
+c.1.3.1,Inana and Enki,,H179,sukkal {d}isimud-de₃ kug {d}inana-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H180,nin-ŋu₁₀ a-a-zu za-a-še₃ mu-e-ši-in-gi₄-in-nam
+c.1.3.1,Inana and Enki,,H181,{d}inana a-a-zu za-a-še₃ mu-e-ši-in-gi₄-in-nam
+c.1.3.1,Inana and Enki,,H182,a-a-zu dug₄-ga-ni mah-am₃
+c.1.3.1,Inana and Enki,,H183,{d}en-ki-ke₄ tah-a-ni mah-am₃
+c.1.3.1,Inana and Enki,,H184,inim gal-gal-a-ni sag₂ nu-di
+c.1.3.1,Inana and Enki,,H185,kug {d}inana-ke₄ mu-na-ni-ib-gi₄-gi₄
+c.1.3.1,Inana and Enki,,H186,a-a-ŋu₁₀ ta-am₃ e-ra-an-dug₄ ta-am₃ e-ra-an-tah
+c.1.3.1,Inana and Enki,,H187,e-ne-eŋ₃ gal-gal-a-ni ta-am₃ sag₂ nu-di
+c.1.3.1,Inana and Enki,,H188,lugal-ŋu₁₀ ŋa₂-a-ra ma-an-dug₄
+c.1.3.1,Inana and Enki,,H189,{d}en-ki-ke₄ ŋa₂-a-ra ma-an-tah
+c.1.3.1,Inana and Enki,,H190,{d}inana unug{ki}-še₃ he₂-du za-e ma₂ an-na eridug{ki}-še₃ dib-ma-ab
+c.1.3.1,Inana and Enki,,H191,kug {d}inana-ke₄ sukkal {d}isimud-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H192,a-a-ŋu₁₀ ŋa₂-a-ra ta-am₃ gu₃ ba-an-kur₂
+c.1.3.1,Inana and Enki,,H193,dug₄-ga zid-da-ni ŋa₂-a-ra ta-am₃ šu i-ni-ib-bal
+c.1.3.1,Inana and Enki,,H194,e-ne-eŋ₃ gal-gal-a-ni ŋa₂-a-ra ta-am₃ mu-un-pe-el
+c.1.3.1,Inana and Enki,,H195,a-a-ŋu₁₀ lul-da ma-an-dug₄ lul-da ma-an-tah
+c.1.3.1,Inana and Enki,,H196,lul-da mu a₂-na mu abzu-na in-pad₃
+c.1.3.1,Inana and Enki,,H197,lul-da ŋa₂-a-ra za-a lu₂ mu-un-gi₄
+c.1.3.1,Inana and Enki,,H198,inim-bi ka-ga₁₄-na nam-ma-da-ŋal₂-la
+c.1.3.1,Inana and Enki,,H199,{id₂}surungal ma₂ an-na im-ma-ni-in-dab₅-be₂-ne
+c.1.3.1,Inana and Enki,,H200,kug {d}inana-ra
+c.1.3.1,Inana and Enki,,H201,kug {d}inana-ke₄ sukkal-a-ni {d}nin-šubur-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H202,ŋa₂-nu sukkal zid e₂-an-na-ŋu₁₀
+c.1.3.1,Inana and Enki,,H203,sukkal e-ne-eŋ₃ sag₉-sag₉-ga-ŋu₁₀
+c.1.3.1,Inana and Enki,,H204,ra-gaba e-ne-eŋ₃ ge-en-gen₆-na-ŋu₁₀
+c.1.3.1,Inana and Enki,,H205,a šu-zu nu-tag a me-ri-zu nu-tag
+c.1.3.1,Inana and Enki,,H206,{d}inana me saŋ rig₇-ga-ni ma₂ an-na um-ma-da-an-kar
+c.1.3.1,Inana and Enki,,H207,
+c.1.3.1,Inana and Enki,,H208,unug{ki}
+c.1.3.1,Inana and Enki,,H209,niŋ₂
+c.1.3.1,Inana and Enki,,H210,ma₂ an-na
+c.1.3.1,Inana and Enki,,H211,{d}nin-šubur
+c.1.3.1,Inana and Enki,,H212,ma₂ an-na ŋiri₃
+c.1.3.1,Inana and Enki,,H213,₇-kam-ma-aš ŋiri₃-da ak
+c.1.3.1,Inana and Enki,,H214,šag₄-zu
+c.1.3.1,Inana and Enki,,H215,dumu nun gal kug {d}nin-X
+c.1.3.1,Inana and Enki,,H216,kug {d}inana-ke₄ ma₂ an-na
+c.1.3.1,Inana and Enki,,H217,kug {d}inana-ke₄ ud-ba mu-du₇-du₇
+c.1.3.1,Inana and Enki,,H218,sukkal-a-ni {d}nin-šubur-ra-ke₄
+c.1.3.1,Inana and Enki,,H219,kug {d}inana-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H220,nin-ŋu₁₀ ud-da ma₂ an-na abula niŋ₂-ul-la unug{ki} kul-aba₄{ki}-še₃
+c.1.3.1,Inana and Enki,,H221,iri-me-a he₂-ŋal₂
+c.1.3.1,Inana and Enki,,H222,he₂-ŋal₂
+c.1.3.1,Inana and Enki,,H223,id₂ ma₂-gur₈
+c.1.3.1,Inana and Enki,,H224,kug {d}inana-ke₄ mu-na-ni-ib-gi₄-gi₄
+c.1.3.1,Inana and Enki,,H225,ŋe₂₆-e ud-da ma₂ an-na
+c.1.3.1,Inana and Enki,,H226,abula niŋ₂-ul-la unug{ki} kul-aba₄{ki}-še₃
+c.1.3.1,Inana and Enki,,H227,sila-a mah hu-mu-un-dib
+c.1.3.1,Inana and Enki,,H228,sila-a mah he₂-em-da-sug₂-sug₂-ge-eš
+c.1.3.1,Inana and Enki,,H229,
+c.1.3.1,Inana and Enki,,H230,hul₂-la šu-ta
+c.1.3.1,Inana and Enki,,H231,ab-ba iri šag₄ kuš₂-u₃
+c.1.3.1,Inana and Enki,,H232,bur-šu-ma ad gi₄-gi₄
+c.1.3.1,Inana and Enki,,H233,ŋuruš-e a₂ {ŋeš}tukul-la
+c.1.3.1,Inana and Enki,,H234,di₄-di₄-la₂ šag₄ hul₂-la
+c.1.3.1,Inana and Enki,,H235,unug{ki}
+c.1.3.1,Inana and Enki,,H236,
+c.1.3.1,Inana and Enki,,H237,
+c.1.3.1,Inana and Enki,,H238,
+c.1.3.1,Inana and Enki,,H239,dumu
+c.1.3.1,Inana and Enki,,H240,us₂-sa-bi
+c.1.3.1,Inana and Enki,,H241,ma₂ an-na ezen
+c.1.3.1,Inana and Enki,,H242,sizkur₂ gal-gal
+c.1.3.1,Inana and Enki,,H243,lugal-e gud he₂-em-ma-ab-gaz-e udu he₂-em-ma-ab-šar₂-re
+c.1.3.1,Inana and Enki,,H244,kaš bur-ra he₂-em-de₂-e
+c.1.3.1,Inana and Enki,,H245,šem₃ {kuš}a₂-la₂-e šeg₁₁ ha-ba-gi₄-gi₄
+c.1.3.1,Inana and Enki,,H246,tigi niŋ₂ dug₃-ge si he₂-em-mi-ib-sa₂-sa₂
+c.1.3.1,Inana and Enki,,H247,kur-kur-re nam-mah-ŋu₁₀ he₂-em-pad₃-de₃
+c.1.3.1,Inana and Enki,,H248,uŋ₃-ŋu₁₀ ka tar-ŋu₁₀ he₂-si-il-le
+c.1.3.1,Inana and Enki,,H249,ud-da ma₂ an-na abula niŋ₂-ul-la unug{ki} kul-aba₄{ki}-še₃
+c.1.3.1,Inana and Enki,,H250,sila-a mah mu-un-dib
+c.1.3.1,Inana and Enki,,H251,e₂ ki-sikil-še₃ sa₂ ba-an-dug₄ tuš-bi
+c.1.3.1,Inana and Enki,,H252,tul₂ luh tul₂ saŋ-ŋa₂-na
+c.1.3.1,Inana and Enki,,H253,{d}inana me saŋ rig₇-ga-ni ma₂ an-na
+c.1.3.1,Inana and Enki,,H254,kan₄ ŋi₆-par₃-ra-še₃
+c.1.3.1,Inana and Enki,,H255,dag agrun-na-ka
+c.1.3.1,Inana and Enki,,H256,kug {d}inana-ke₄ ki ma₂ an-na
+c.1.3.1,Inana and Enki,,H257,nun-e sukkal-a-ni {d}isimud-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,H258,{d}en-ki-ke₄ mu dug₃ an-na-ra inim mu-na-ni-ib-gi₄-gi₄
+c.1.3.1,Inana and Enki,,H259,sukkal {d}isimud-ŋu₁₀ mu dug₃ an-na-ŋu₁₀
+c.1.3.1,Inana and Enki,,H260,lugal-ŋu₁₀ {d}en-ki i₃-gub-be₂-en ud-ul a-ra-zu
+c.1.3.1,Inana and Enki,,H261,ma₂ an-na me-a sa₂ ba-an-dug₄
+c.1.3.1,Inana and Enki,,H262,kar babbar-ra sa₂ ba-an-dug₄
+c.1.3.1,Inana and Enki,,H263,ŋen-na u₃ di
+c.1.3.1,Inana and Enki,,H264,u₃ di ma₂ an-na-ka
+c.1.3.1,Inana and Enki,,H265,kug {d}inana-ke₄
+c.1.3.1,Inana and Enki,,H266,u₃ di
+c.1.3.1,Inana and Enki,,I1,{d}inana nam-en ba-e-de₆
+c.1.3.1,Inana and Enki,,I2,nam-lagar ba-e-de₆
+c.1.3.1,Inana and Enki,,I3,nam-diŋir ba-e-de₆
+c.1.3.1,Inana and Enki,,I4,aga zid mah ba-e-de₆
+c.1.3.1,Inana and Enki,,I5,{ŋeš}gu-za nam-lugal ba-e-de₆
+c.1.3.1,Inana and Enki,,I6,ŋidru mah ba-e-de₆
+c.1.3.1,Inana and Enki,,I7,ešgiri₂ šibir ba-e-de₆
+c.1.3.1,Inana and Enki,,I8,tug₂ mah ba-e-de₆
+c.1.3.1,Inana and Enki,,I9,nam-sipad ba-e-de₆
+c.1.3.1,Inana and Enki,,I10,nam-lugal ba-e-de₆
+c.1.3.1,Inana and Enki,,I11,nam-egir₃-zid ba-e-de₆
+c.1.3.1,Inana and Enki,,I12,nam-nin-diŋir ba-e-de₆
+c.1.3.1,Inana and Enki,,I13,nam-išib ba-e-de₆
+c.1.3.1,Inana and Enki,,I14,nam-lu₂-mah ba-e-de₆
+c.1.3.1,Inana and Enki,,I15,nam-gudug ba-e-de₆
+c.1.3.1,Inana and Enki,,I16,niŋ₂-gen₆-na ba-e-de₆
+c.1.3.1,Inana and Enki,,I17,ŊA₂.GAN ba-e-de₆
+c.1.3.1,Inana and Enki,,I18,ba-e-de₆
+c.1.3.1,Inana and Enki,,I19,kur ed₃-de₃ ba-e-de₆
+c.1.3.1,Inana and Enki,,I20,kur ed₃-da ba-e-de₆
+c.1.3.1,Inana and Enki,,I21,kur-ŋar-ra ba-e-de₆
+c.1.3.1,Inana and Enki,,I22,ŋiri₂ ba-da-ra ba-e-de₆
+c.1.3.1,Inana and Enki,,I23,saŋ-ur-saŋ ba-e-de₆
+c.1.3.1,Inana and Enki,,I24,tug₂ gig₂ ba-e-de₆
+c.1.3.1,Inana and Enki,,I25,tug₂ gun₃-a ba-e-de₆
+c.1.3.1,Inana and Enki,,I26,gu₂-bar ba-e-de₆
+c.1.3.1,Inana and Enki,,I27,gu₂-X ba-e-de₆
+c.1.3.1,Inana and Enki,,I28,ŋiš ba-e-de₆
+c.1.3.1,Inana and Enki,,I29,ba-e-de₆
+c.1.3.1,Inana and Enki,,I30,ba-e-de₆
+c.1.3.1,Inana and Enki,,I31,ba-e-de₆
+c.1.3.1,Inana and Enki,,I32,ba-e-de₆
+c.1.3.1,Inana and Enki,,I33,ba-e-de₆
+c.1.3.1,Inana and Enki,,I34,ba-e-de₆
+c.1.3.1,Inana and Enki,,I35,{ŋeš}šu-nir ba-e-de₆
+c.1.3.1,Inana and Enki,,I36,mar-uru₅ ba-e-de₆
+c.1.3.1,Inana and Enki,,I37,ŋiš₃ dug₄-dug₄ ba-e-de₆
+c.1.3.1,Inana and Enki,,I38,ŋiš₃ ki su-ub ba-e-de₆
+c.1.3.1,Inana and Enki,,I39,nam-kar-ke₄ ba-e-de₆
+c.1.3.1,Inana and Enki,,I40,nam-hub₂-dar ba-e-de₆
+c.1.3.1,Inana and Enki,,I41,nam-eme-di ba-e-de₆
+c.1.3.1,Inana and Enki,,I42,nam-eme-sig ba-e-de₆
+c.1.3.1,Inana and Enki,,I43,nam-še-er-ka-an ba-e-de₆
+c.1.3.1,Inana and Enki,,I44,ba-e-de₆
+c.1.3.1,Inana and Enki,,I45,amalu ba-e-de₆
+c.1.3.1,Inana and Enki,,I46,eš₂-dam kug ba-e-de₆
+c.1.3.1,Inana and Enki,,I47,niŋin₃-ŋar kug ba-e-de₆
+c.1.3.1,Inana and Enki,,I48,ba-e-de₆
+c.1.3.1,Inana and Enki,,I49,nu-gig an-na ba-e-de₆
+c.1.3.1,Inana and Enki,,I50,ŋiš-gu₃-di ba-e-de₆
+c.1.3.1,Inana and Enki,,I51,nam-nar ba-e-de₆
+c.1.3.1,Inana and Enki,,I52,nam-ab-ba ba-e-de₆
+c.1.3.1,Inana and Enki,,I53,nam-ur-saŋ ba-e-de₆
+c.1.3.1,Inana and Enki,,I54,nam-kalag-ga ba-e-de₆
+c.1.3.1,Inana and Enki,,I55,nam-niŋ₂-erim₂ ba-e-de₆
+c.1.3.1,Inana and Enki,,I56,nam-niŋ₂-si-sa₂ ba-e-de₆
+c.1.3.1,Inana and Enki,,I57,iri lah₅ ba-e-de₆
+c.1.3.1,Inana and Enki,,I58,i-si-iš ŋa₂-ŋa₂ ba-e-de₆
+c.1.3.1,Inana and Enki,,I59,šag₄ hul₂-la ba-e-de₆
+c.1.3.1,Inana and Enki,,I60,lul-da ba-e-de₆
+c.1.3.1,Inana and Enki,,I61,kur ki-bal ba-e-de₆
+c.1.3.1,Inana and Enki,,I62,nam-dug₃-ge ba-e-de₆
+c.1.3.1,Inana and Enki,,I63,kaš₄ di-di ba-e-de₆
+c.1.3.1,Inana and Enki,,I64,ki-tuš gen₆-na ba-e-de₆
+c.1.3.1,Inana and Enki,,I65,nam-nagar ba-e-de₆
+c.1.3.1,Inana and Enki,,I66,nam-tibira ba-e-de₆
+c.1.3.1,Inana and Enki,,I67,nam-dub-sar ba-e-de₆
+c.1.3.1,Inana and Enki,,I68,nam-simug ba-e-de₆
+c.1.3.1,Inana and Enki,,I69,nam-ašgab ba-e-de₆
+c.1.3.1,Inana and Enki,,I70,nam-azlag₂ ba-e-de₆
+c.1.3.1,Inana and Enki,,I71,nam-šidim ba-e-de₆
+c.1.3.1,Inana and Enki,,I72,nam-ad-KID ba-e-de₆
+c.1.3.1,Inana and Enki,,I73,ŋeštug₂ ba-e-de₆
+c.1.3.1,Inana and Enki,,I74,ŋizzal ba-e-de₆
+c.1.3.1,Inana and Enki,,I75,šu-luh kug-ga ba-e-de₆
+c.1.3.1,Inana and Enki,,I76,e₂-DAG.KISIM₅×X-ra ba-e-de₆
+c.1.3.1,Inana and Enki,,I77,ne-mur dub ba-e-de₆
+c.1.3.1,Inana and Enki,,I78,ŋa₂ udu ba-e-de₆
+c.1.3.1,Inana and Enki,,I79,ni₂ teŋ₃-ŋe₂₆ ba-e-de₆
+c.1.3.1,Inana and Enki,,I80,niŋ₂-me-ŋar ba-e-de₆
+c.1.3.1,Inana and Enki,,I81,ku-kur ba-e-de₆
+c.1.3.1,Inana and Enki,,I82,zu₂ sis ba-e-de₆
+c.1.3.1,Inana and Enki,,I83,izi mu₂-mu₂ ba-e-de₆
+c.1.3.1,Inana and Enki,,I84,izi ten-ten ba-e-de₆
+c.1.3.1,Inana and Enki,,I85,a₂ kuš₂-u₃ ba-e-de₆
+c.1.3.1,Inana and Enki,,I86,KA.GAN₂-ge ba-e-de₆
+c.1.3.1,Inana and Enki,,I87,im-ri-a gu₂ ŋar-ra ba-e-de₆
+c.1.3.1,Inana and Enki,,I88,lu-lu-bu-na ba-e-de₆
+c.1.3.1,Inana and Enki,,I89,du₁₄ mu₂-mu₂ ba-e-de₆
+c.1.3.1,Inana and Enki,,I90,u₃-ma ba-e-de₆
+c.1.3.1,Inana and Enki,,I91,ad gi₄-gi₄ ba-e-de₆
+c.1.3.1,Inana and Enki,,I92,šag₄ kuš₂-u₃ ba-e-de₆
+c.1.3.1,Inana and Enki,,I93,di kud ba-e-de₆
+c.1.3.1,Inana and Enki,,I94,ka-aš bar ba-e-de₆
+c.1.3.1,Inana and Enki,,I95,umuš ki ŋa₂-ŋa₂ hi-li nam-munus-e-ne ba-e-de₆
+c.1.3.1,Inana and Enki,,I96,me šu du₇ ba-e-de₆
+c.1.3.1,Inana and Enki,,I97,tur-tur ba-e-de₆
+c.1.3.1,Inana and Enki,,I98,mah ba-e-de₆
+c.1.3.1,Inana and Enki,,I99,tigi kug li-li-is₃ kug ub₃ me-ze₂ {kuš}a₂-la₂ ba-e-de₆
+c.1.3.1,Inana and Enki,,I100,kug an-na ba-e-de₆
+c.1.3.1,Inana and Enki,,I101,kug an-na ba-e-de₆
+c.1.3.1,Inana and Enki,,I102,kug an-na ba-e-de₆
+c.1.3.1,Inana and Enki,,I103,kug an-na ba-e-de₆
+c.1.3.1,Inana and Enki,,I104,kug an-na ba-e-de₆
+c.1.3.1,Inana and Enki,,I105,kug an-na ba-e-de₆
+c.1.3.1,Inana and Enki,,I106,mah a-na me-a-bi kaš ba-ni-sur-re ba-e-de₆
+c.1.3.1,Inana and Enki,,I107,
+c.1.3.1,Inana and Enki,,I108,
+c.1.3.1,Inana and Enki,,I115,munus-e giri₁₇-zal ne-am₃
+c.1.3.1,Inana and Enki,,I116,e₂ ga-an-ze₂-er ba-du₃ mu-še₃ ba-an-sa₄
+c.1.3.1,Inana and Enki,,I117,šaŋan-la₂-am₃ ₅₀ giŋ₄ im-mi-in-dug₄-ga-ba
+c.1.3.1,Inana and Enki,,I118,mu-un-DU.DU mu-un-ši-ib-la₂-a-gin₇
+c.1.3.1,Inana and Enki,,I119,ki-ba šika urud gul-la mu-še₃ ba-an-sa₄
+c.1.3.1,Inana and Enki,,I120,ki ma₂ ba-an-niŋin₂-na-ra
+c.1.3.1,Inana and Enki,,I121,šag₄ du₈-du₈ mu-še₃ ba-an-sa₄
+c.1.3.1,Inana and Enki,,I122,ki ma₂ kar-ra bi₂-in-us₂-a-ba
+c.1.3.1,Inana and Enki,,I123,ki-ba kar babbar mu-še₃ ba-an-sa₄
+c.1.3.1,Inana and Enki,,I124,ki niŋ₂ im-ta-an-ŋar-ra-ba
+c.1.3.1,Inana and Enki,,I125,ki-ba kar za-gin₃ mu-še₃ ba-an-sa₄
+c.1.3.1,Inana and Enki,,I126,{d}en-ki-ke₄ kug {d}inana-ra gu₃ mu-na-de₂-e
+c.1.3.1,Inana and Enki,,I127,mu a₂-ŋa₂ mu abzu-ŋa₂
+c.1.3.1,Inana and Enki,,I128,munus-e niŋ₂ abzu-ŋa₂ ga-ba-na-ŋar
+c.1.3.1,Inana and Enki,,I129,a-da-al ne-e ta-am₃ mu-da-an-kur₉
+c.1.3.1,Inana and Enki,,I130,šu ŋa₂-ra me dab₅
+c.1.3.1,Inana and Enki,,I131,he₂-a
+c.1.3.1,Inana and Enki,,I132,he₂-a
+c.1.3.1,Inana and Enki,,I133,he₂-a
+c.1.3.1,Inana and Enki,,I134,mu-zu-še₃ MUNUS-la-ne-ne hu-mu-ra-ab-gaz-e-ne
+c.1.3.1,Inana and Enki,,I135,he₂-a
+c.1.3.1,Inana and Enki,,I136,he₂-a
+c.1.3.1,Inana and Enki,,I137,he₂-a
+c.1.3.1,Inana and Enki,,I138,
+c.1.3.1,Inana and Enki,,I139,ezem-ma he₂-a
+c.1.3.1,Inana and Enki,,I140,kan₄ ŋi₆-par₃-ra-zu X-ib-zal-zal-e
+c.1.3.1,Inana and Enki,,I141,dumu iri-zu dumu unug{ki}-ga X-til₃-le-ne
+c.1.3.1,Inana and Enki,,I142,u₃ za-e iri-zu eridug{ki} he₂-en-tah ki-bi na-an-ni-ib-gi₄

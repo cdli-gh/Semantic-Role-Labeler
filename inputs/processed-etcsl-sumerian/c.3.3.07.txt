@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+c.3.3.07,Letter from Ugubi to his mother,,1,lu₂ di lu₂ di ama-ŋu₁₀-ra
+c.3.3.07,Letter from Ugubi to his mother,,2,u₃-na-dug₄
+c.3.3.07,Letter from Ugubi to his mother,,3,ugu₄-bi na-ab-be₂-a
+c.3.3.07,Letter from Ugubi to his mother,,4,urim₂{ki} iri giri₁₇-zal {d}nanna-kam
+c.3.3.07,Letter from Ugubi to his mother,,5,eridug{ki} iri he₂-ŋal₂ {d}en-ki-ka₃-ka
+c.3.3.07,Letter from Ugubi to his mother,,6,ŋe₂₆-e eŋer {ŋeš}ig e₂ nar-gal-ka al-tuš-en
+c.3.3.07,Letter from Ugubi to his mother,,7,igi-tum₃ la₂ mu-gu₇-en
+c.3.3.07,Letter from Ugubi to his mother,,8,nam-ba-da-ug₇-en
+c.3.3.07,Letter from Ugubi to his mother,,9,ninda ba-ra-gibil-la₂ kaš ba-ra-gibil-la₂
+c.3.3.07,Letter from Ugubi to his mother,,10,lu₂ du kaskal-e šu taka₄-ma-ab
+c.3.3.07,Letter from Ugubi to his mother,,11,a-ma-ru-kam

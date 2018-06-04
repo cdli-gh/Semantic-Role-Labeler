@@ -1,0 +1,61 @@
+id_text,text_name,version,l_no,text
+c.4.12.1,A šir-gida to Martu (Martu A),,1,ur-saŋ šul mah kur idim-ma zag-bi-še₃ til-la
+c.4.12.1,A šir-gida to Martu (Martu A),,2,{d}mar-tu šul mah kur idim-ma zag-bi-še₃ til-la
+c.4.12.1,A šir-gida to Martu (Martu A),,3,usu piriŋ huš hur-saŋ ki sikil-la barag kug-ge si-a
+c.4.12.1,A šir-gida to Martu (Martu A),,4,{d}mar-tu usu piriŋ huš hur-saŋ ki sikil-la barag kug-ge si-a
+c.4.12.1,A šir-gida to Martu (Martu A),,5,ni₂ gal gur₃-ru an kug-ge tud-da me šar₂-ra dalla e₃
+c.4.12.1,A šir-gida to Martu (Martu A),,6,ama ugu-ni {d}nin-hur-saŋ-ŋa₂-ke₄
+c.4.12.1,A šir-gida to Martu (Martu A),,7,alan-na-ni me-dim₂-ša im-mi-in-dirig na-me saŋ nu-mu-e-šum₂
+c.4.12.1,A šir-gida to Martu (Martu A),,8,{d}a-nun-na diŋir gal-gal-e-ne
+c.4.12.1,A šir-gida to Martu (Martu A),,9,nam-ur-saŋ-ŋa₂ a₂ mu-ni-in-mah-e-eš gu₃ zid mu-na-de₂-eš
+c.4.12.1,A šir-gida to Martu (Martu A),,10,nam-nir-ŋal₂ me₃-a gaba-ni-še₃ du da-da-ra-še₃ mi-ni-X-dug₄
+c.4.12.1,A šir-gida to Martu (Martu A),,11,{ŋeš}tukul {ŋeš}mitum pan gal ti mar-uru₅ šu mah-a-ni
+c.4.12.1,A šir-gida to Martu (Martu A),,12,nam-diŋir-ra šu gal mi-ni-in-du₇-uš zag ša₄
+c.4.12.1,A šir-gida to Martu (Martu A),,13,gaba mu-un-zig₃ šag₄-tum₂-šag₄-tum₂-ma
+c.4.12.1,A šir-gida to Martu (Martu A),,14,mah gal-la-am₃ a₂ piriŋ ŋal₂-la
+c.4.12.1,A šir-gida to Martu (Martu A),,15,piriŋ ban₃-da-gin₇ ni₂ mu-un-da-ri
+c.4.12.1,A šir-gida to Martu (Martu A),,16,am a₂ gur-ra-gin₇
+c.4.12.1,A šir-gida to Martu (Martu A),,17,tum₉ ₇-na zag mu-ni-in-keše₂ izi
+c.4.12.1,A šir-gida to Martu (Martu A),,18,me₃ šen-šen aga₃-kar₂ sig₁₀-sig₁₀-ga nim-gin₇
+c.4.12.1,A šir-gida to Martu (Martu A),,19,ni₂ mah-a-ni hul-ŋal₂ dab₅-dab₅-be₂ u₁₈-lu
+c.4.12.1,A šir-gida to Martu (Martu A),,20,iri nam ku₅-ra₂-a-ni a₂-bi ki-bi nu-gi₄-gi₄
+c.4.12.1,A šir-gida to Martu (Martu A),,21,lugal-ra kur nu-še-ga-ni mu-na-gul-gul-le
+c.4.12.1,A šir-gida to Martu (Martu A),,22,sipad zid šag₄ kug-ge pad₃-da-ni-ir
+c.4.12.1,A šir-gida to Martu (Martu A),,23,{d}mar-tu dumu an-na šu mu-na-a-de₆
+c.4.12.1,A šir-gida to Martu (Martu A),,24,mu-bi mu mah-am₃ ka-ge dib-ba lu₂
+c.4.12.1,A šir-gida to Martu (Martu A),,25,diŋir šu sikil šu-luh me zalag-zalag-ga me-ni
+c.4.12.1,A šir-gida to Martu (Martu A),,26,niŋ₂-erim₂ niŋ₂-a₂-zig₃ im-mi-in-gul niŋ₂-gen₆-na bi₂-in-gub
+c.4.12.1,A šir-gida to Martu (Martu A),,27,diŋir huš-a di si sa₂ kud-kud eš-bar-re gal-zu
+c.4.12.1,A šir-gida to Martu (Martu A),,28,šag₄ kuš₂-u₃ a-a inim-ma i₃-sig₁₀-ga-ni
+c.4.12.1,A šir-gida to Martu (Martu A),,29,a-a ugu-ni en diŋir-re-e-ne nun nam tar-re-de₃
+c.4.12.1,A šir-gida to Martu (Martu A),,30,an su₃-ud ki daŋal-ba im-mi-in-si gaba gi₄ nu-um-mi-in-tuku
+c.4.12.1,A šir-gida to Martu (Martu A),,31,hur-saŋ sikil kur {na₄}za-gin₃-na saŋ-e-eš mu-ni-in-rig₇
+c.4.12.1,A šir-gida to Martu (Martu A),,32,kur mar-tu kur {na₄}za-gin₃-na saŋ-e-eš mu-ni-in-rig₇
+c.4.12.1,A šir-gida to Martu (Martu A),,33,saŋ piriŋ ur-saŋ-ŋa₂-am₃ me₃-a a₂-tah lugal-la
+c.4.12.1,A šir-gida to Martu (Martu A),,34,lu₂ si sa₂ di niŋ₂ mu-un-dab₅-ba e-ne-ra inim sag₉-sag₉-ga
+c.4.12.1,A šir-gida to Martu (Martu A),,35,ŋidru X-na-de₆ su₃-ra₂-še₃
+c.4.12.1,A šir-gida to Martu (Martu A),,36,niŋ₂ sag₉ DU-a-ni
+c.4.12.1,A šir-gida to Martu (Martu A),,37,amar gal-la-ni mi-ni-ib-ŋar-ŋar
+c.4.12.1,A šir-gida to Martu (Martu A),,38,šar₂ nun tur₃ amaš-a
+c.4.12.1,A šir-gida to Martu (Martu A),,39,ku₆ mušen gurun gibil mu₂-am₃
+c.4.12.1,A šir-gida to Martu (Martu A),,40,e₂ lugal kug muš₃ la-ba-ni-ib-tum₂-mu
+c.4.12.1,A šir-gida to Martu (Martu A),,41,dirig-ga-am₃ nam gal tar-ra-am₃
+c.4.12.1,A šir-gida to Martu (Martu A),,42,en-nu-uŋ₃-ta mu-un-ak
+c.4.12.1,A šir-gida to Martu (Martu A),,43,id₂-da mu-un-da-ŋal₂ dug₃-bi i₃-naŋ-e
+c.4.12.1,A šir-gida to Martu (Martu A),,44,a-šag₄-ga mu-na-ab-il₂ še-bi i₃-gu₇-e
+c.4.12.1,A šir-gida to Martu (Martu A),,45,he₂-ŋal₂-la šu mu-un-na-da-an-peš-e
+c.4.12.1,A šir-gida to Martu (Martu A),,46,šu mu-un-il₂ hul mu-ni-in-ŋal₂
+c.4.12.1,A šir-gida to Martu (Martu A),,47,šag₄-ga-ni inim niŋ₂-gen₆-na na-nam
+c.4.12.1,A šir-gida to Martu (Martu A),,48,bar-ra-ni giri₁₇-zal na-nam
+c.4.12.1,A šir-gida to Martu (Martu A),,49,lugal-ra nu-kur₂-ru ud su₃-ud-da-ni
+c.4.12.1,A šir-gida to Martu (Martu A),,50,ešgiri₂ zid-da-na tukul šar₂ lah₅-lah₅ zag-ga-na la₂-a-ni
+c.4.12.1,A šir-gida to Martu (Martu A),,51,e₂-gal lugal numun-na-ni mu-ni-in-dib-dib-be₂
+c.4.12.1,A šir-gida to Martu (Martu A),,52,ki-in-du si sa₂ ŋiri₃ mu-na-ab-ŋal₂ zag kiŋ₂ nu-mu-ni-in-tuku
+c.4.12.1,A šir-gida to Martu (Martu A),,53,igi du₈ diŋir-ra-na-ka
+c.4.12.1,A šir-gida to Martu (Martu A),,54,nam-lu₂-ulu₃ in-ga-mu-na-ab-be₂-ne
+c.4.12.1,A šir-gida to Martu (Martu A),,55,nam-lugal-še₃ šag₄ sag₉-ga ba-pad₃-de₃
+c.4.12.1,A šir-gida to Martu (Martu A),,56,{d}lamma niŋ₂-gen₆-na ud šu₂-še₃ zid-da-na mu-gub ŋa₂-la nu-mu-ta-dag-ge
+c.4.12.1,A šir-gida to Martu (Martu A),,57,mi₂ zid dug₄-ga diŋir lu₂ hur-saŋ a-re-eš dib-ba-am₃
+c.4.12.1,A šir-gida to Martu (Martu A),,58,nar-re šir₃ kug-ga im-mi-in-dug₄ mu-ni pa bi₂-in-e₃
+c.4.12.1,A šir-gida to Martu (Martu A),,59,{d}mar-tu dumu an-na za₃-mi₂-zu dug₃-ga-am₃
+c.4.12.1,A šir-gida to Martu (Martu A),,60,šir₃-gid₂-da {d}mar-tu-kam

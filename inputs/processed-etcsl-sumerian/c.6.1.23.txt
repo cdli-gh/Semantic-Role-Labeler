@@ -1,0 +1,57 @@
+id_text,text_name,version,l_no,text
+c.6.1.23,Proverbs: collection 23,,A1,id₂-da
+c.6.1.23,Proverbs: collection 23,,A2,
+c.6.1.23,Proverbs: collection 23,,A3,a-pap lu₂
+c.6.1.23,Proverbs: collection 23,,A4,sikil-ra a-pap an-dul₃ nu-lu-a
+c.6.1.23,Proverbs: collection 23,,A5,diŋir-ŋu₁₀ dumu-gir₁₅-ŋu₁₀ me-ŋu₁₀
+c.6.1.23,Proverbs: collection 23,,A6,e₂ um-ma e₃-a
+c.6.1.23,Proverbs: collection 23,,A7,e₂ DU-de₃
+c.6.1.23,Proverbs: collection 23,,A8,mu-ud-na-ŋu₁₀ ku₆-a ŋiri₃-pad ma-de₅-de₅
+c.6.1.23,Proverbs: collection 23,,A9,edin-na nu-me-am₃
+c.6.1.23,Proverbs: collection 23,,A10,hi-li-na
+c.6.1.23,Proverbs: collection 23,,A11,dug₃-ga-X
+c.6.1.23,Proverbs: collection 23,,A12,in-nu-uš
+c.6.1.23,Proverbs: collection 23,,A13,dug₃-ga
+c.6.1.23,Proverbs: collection 23,,A14,ki-gub
+c.6.1.23,Proverbs: collection 23,,A15,
+c.6.1.23,Proverbs: collection 23,,B1,
+c.6.1.23,Proverbs: collection 23,,B2,u₃ nu-mu-da-be₂
+c.6.1.23,Proverbs: collection 23,,B3,hi-li sipad šir-a-ni
+c.6.1.23,Proverbs: collection 23,,B4,nu-{ŋeš}kiri₆ suhur-a-ni
+c.6.1.23,Proverbs: collection 23,,B5,{kuš}a₂-ŋa₂-la₂-še₃ šu il₂
+c.6.1.23,Proverbs: collection 23,,B6,dam nu-il₂ dumu nu-il₂
+c.6.1.23,Proverbs: collection 23,,B7,lu₂-lul-la e₂-a-ni nu-mu-un-da-du₃
+c.6.1.23,Proverbs: collection 23,,B8,e₂ gu₅-li-ŋu₁₀ {ŋeš}al-tar-re ba-gub
+c.6.1.23,Proverbs: collection 23,,B9,lu₂-lul-la gal₄-la ba-an-us₂
+c.6.1.23,Proverbs: collection 23,,B10,lu₂ nu-ŋar-ra {ŋeš}šu-gur₁₀ ₂-am₃
+c.6.1.23,Proverbs: collection 23,,B11,e₂ lu₂ zid-da du₃-a
+c.6.1.23,Proverbs: collection 23,,B12,lu₂-lul-la ba-gul
+c.6.1.23,Proverbs: collection 23,,B13,nu-mu-un-na-du-du ŋiri₃ nu-mu-na-ŋa₂-ŋa₂
+c.6.1.23,Proverbs: collection 23,,B14,nam-til₃-la a-gin₇ i₃-dib₂-be₂
+c.6.1.23,Proverbs: collection 23,,B15,lu₂ zid nu-kal-la nam-uš₂-ta dirig
+c.6.1.23,Proverbs: collection 23,,B16,nu-kug-gin₇ mu-un-TI nu-tar-re
+c.6.1.23,Proverbs: collection 23,,B17,tug₂-gin₇ i₃-mu₄-mu₄
+c.6.1.23,Proverbs: collection 23,,B18,nam-tag dugud un-ŋar-ra
+c.6.1.23,Proverbs: collection 23,,B19,a-ba mu-ni lu₂ dam lu₂-kam ba-nu₂
+c.6.1.23,Proverbs: collection 23,,B20,an u₂-ga{mušen} ki {d}nin-kilim
+c.6.1.23,Proverbs: collection 23,,B21,edin-na ur-mah-e ki-tuš-a-bi-X nitalam-ŋu₁₀ me-am₃ ga-ba-ŋen
+c.6.1.23,Proverbs: collection 23,,C1,
+c.6.1.23,Proverbs: collection 23,,C2,ŋa₂-ŋa₂
+c.6.1.23,Proverbs: collection 23,,C3,na-am₃
+c.6.1.23,Proverbs: collection 23,,C4,nam-ma-an-GA
+c.6.1.23,Proverbs: collection 23,,C5,niŋ₂-ŋu₁₀ e₃-a niŋ₂ e₃-a
+c.6.1.23,Proverbs: collection 23,,C6,ku-nu-da
+c.6.1.23,Proverbs: collection 23,,C7,nam-mu-un-da-ku₄-ku₄
+c.6.1.23,Proverbs: collection 23,,C8,bappir-re šu nam-kar₂-kar₂-de₃
+c.6.1.23,Proverbs: collection 23,,C9,tum₃ am₃-ba nu-ub-kur₉
+c.6.1.23,Proverbs: collection 23,,C10,me šul diŋir-zu he₂-du₈
+c.6.1.23,Proverbs: collection 23,,C11,
+c.6.1.23,Proverbs: collection 23,,C12,
+c.6.1.23,Proverbs: collection 23,,C13,{kuš}ummud zi lu₂-kam
+c.6.1.23,Proverbs: collection 23,,C14,{kuš}e-sir₂ igi lu₂-kam
+c.6.1.23,Proverbs: collection 23,,C15,dam ma-ma lu₂-kam
+c.6.1.23,Proverbs: collection 23,,C16,dumu-nitah ŋissu lu₂-kam
+c.6.1.23,Proverbs: collection 23,,C17,dumu-munus saŋ šum₂-ma lu₂-kam
+c.6.1.23,Proverbs: collection 23,,C18,e₂-gi₄-a mu-la lu₂-kam
+c.6.1.23,Proverbs: collection 23,,C19,
+c.6.1.23,Proverbs: collection 23,,C20,

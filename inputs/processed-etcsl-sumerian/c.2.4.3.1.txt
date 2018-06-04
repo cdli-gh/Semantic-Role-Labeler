@@ -1,0 +1,52 @@
+id_text,text_name,version,l_no,text
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A1,{d}alad
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A2,{d}amar-{d}suen šag₄
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A3,lu₂ {urud}ha-zi-in-na e₂-e
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A4,{d}amar-{d}suen-na eš₃-e abzu-a
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A5,kug-sig₁₇ du₃-a {na₄}za-gin₃ šu tag
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A6,e₂-e du₃-u₃-de₃ šu-ni mu-un-ŋar
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A7,{d}amar-{d}suen-na lugal-e e₂-e du₃-u₃-de₃ šu-ni mu-un-ŋar
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A8,lugal-e uŋ₃-e ba-da-an-bal kur-ra
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A9,e₂-e mu ₁-kam-ma ba-an-šub ki-bi-še₃ nu-mu-un-gi₄
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A10,{d}amar-suen-na me nam-lugal-la-na
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A11,mu ₂-kam-ma ba-an-šub ki-bi-še₃ nu-mu-un-gi₄
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A12,{d}amar-{d}suen-na lu-bu-uš-tum nam-lugal-la-ka-ni tug₂-mu-dur₇-ra
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A13,mu ₃-kam-ma ba-an-šub ki-bi-še₃ nu-mu-un-gi₄
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A14,{d}amar-{d}suen-na ŋiš-kin₂-kin₂-na ŋiškim-bi nu-bur₂-ru
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A15,mu ₄-kam-ma ba-an-šub ki-bi-še₃ nu-mu-un-gi₄
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A16,abgal-e dug₄-ga u₃-na-dug₄ ŋiš-hur e₂-e pa e₃ nu-mu-un-ak-e
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A17,mu ₅-kam-ma ba-an-šub ki-bi-še₃ nu-mu-un-gi₄
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A18,eš₃-e abzu-am₃ kalag-ga-še₃ šu mu-ra-ra-e-ne
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A19,mu ₆-kam-ma ba-an-šub ki-bi-še₃ nu-mu-un-gi₄
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A20,ŋiš-hur e₂-e mu-un-kiŋ₂-kiŋ₂-e nu-mu-ni-in-pad₃-de₃
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A21,mu ₇-kam-ma ba-an-šub ki-bi-še₃ nu-mu-un-gi₄
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A22,{d}en-ki-ke₄ e₂-bi-še₃ e₂ nu-me-a ba-an-na-dug₄
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A23,mu ₈-kam-ma e₂ du₃-u₃-de₃ šu-ni mu-un-ŋar
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A24,mu ₉-kam-ma-ta {d}amar-{d}suen lugal-e
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A25,e₂-udun-na en gal-an-zu ba-du₃
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A26,ud-ba en-e e₂ ni₂-te-na-ka
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A27,en gal {d}en-ki ki-bi ba-da-an-hul
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A28,mu-un-DU.DU
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A29,kuš₂-a ki-a gaba
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A30,a-a {d}en-ki eridug{ki} mu-un-dim₂
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A31,sukkal-a-ni gal nu-kuš₂
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,A32,
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,B1,sud-su₃-ud
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,B2,saŋ keše₂ ki daŋal-la
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,B3,{d}en-ki-ke₄ igi il₂-la-a-ni
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,B4,e₂-bi um-ta-e₃-a abzu-a
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,B5,ud-ba nam-lu₂-ulu₃ šu nu-sag₉-ga nam
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,B6,ŋizzal sud-a inim ŋeštug₂ nu-dug₄
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,B7,ba-DUN-DUN umbin ru-gu₂-ni nu-du₈-e
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,B8,šag₄ hul dim₂-dim₂ niŋ₂-erim₂ ak-ak sag₉-ga
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,B9,{d}amar-{d}suen-na e₂ {d}en-lil₂-la₂-še₃ du₃-u₃-de₃
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,C1,en
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,C2,e₂ {d}en-ki-ka₃-še₃ du₃-u₃-de₃ maš₂-e šu mu-un-gid₂-da-a
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,C3,maš₂-bi-ta e₂ du₃-a nu-mu-na-ab-be₂ šu-ni la-ba-ši-in-ŋar
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,C4,lugal-e mu-ni ud su₃-ra₂-še₃ ŋa₂-ŋa₂-de₃
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,C5,{d}amar-{d}suen mu-ni ud su₃-ra₂-še₃ ŋa₂-ŋa₂-de₃
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,C6,mu e₂ {d}en-ki-ke₄
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,D1,en nun gal-an-zu
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,D2,
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,E1,lu₂ šag₄
+c.2.4.3.1,Amar-Suena and Enki's temple (Amar-Suena A),,E2,{d}amar-{d}suen lugal nam-tar-ra-ni šag₄-bi nu-mu-un-ba-ba

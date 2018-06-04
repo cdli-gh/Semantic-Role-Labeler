@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+c.3.2.02,Letter from Iddin-Dagan to Sîn-illat about the troops,,1,{m}{d}suen-illat ra-bi-si₂-ka₃-tum-ma u₃-na-a-dug₄
+c.3.2.02,Letter from Iddin-Dagan to Sîn-illat about the troops,,2,{d}i-din-{d}da-gan lugal-zu na-ab-be₂-a
+c.3.2.02,Letter from Iddin-Dagan to Sîn-illat about the troops,,3,kaskal-ŋu₁₀ ni₂-tuku saŋ gi₄-a gu₂ id₂-da ₂-a-bi mu-da-ab-bal-e
+c.3.2.02,Letter from Iddin-Dagan to Sîn-illat about the troops,,4,ka-ku-la-tum{ki} gaba-ri gid₂-da-zu-u₃-ne
+c.3.2.02,Letter from Iddin-Dagan to Sîn-illat about the troops,,5,{d}lamma {d}da-gan {d}X u₃ {d}en-lil₂ lugal kalam erin₂-na gu₂ bi-in-ri
+c.3.2.02,Letter from Iddin-Dagan to Sîn-illat about the troops,,6,me-lem₄-ŋu₁₀ kalam-ma ba-e-dul
+c.3.2.02,Letter from Iddin-Dagan to Sîn-illat about the troops,,7,u₃ za-e nam-ur-saŋ nam-kalag-ga-zu
+c.3.2.02,Letter from Iddin-Dagan to Sîn-illat about the troops,,8,
+c.3.2.02,Letter from Iddin-Dagan to Sîn-illat about the troops,,9,nam-lugal DU.DU-a ba-X-X
+c.3.2.02,Letter from Iddin-Dagan to Sîn-illat about the troops,,10,ugnim X{ki}
+c.3.2.02,Letter from Iddin-Dagan to Sîn-illat about the troops,,11,kiŋ₂ gal-la
+c.3.2.02,Letter from Iddin-Dagan to Sîn-illat about the troops,,12,lu₂ en-nu-uŋ₃ ŋa₂-ŋa₂-da
+c.3.2.02,Letter from Iddin-Dagan to Sîn-illat about the troops,,13,a-ga-aš gi₄-bi he₂-mi-in-du₈
+c.3.2.02,Letter from Iddin-Dagan to Sîn-illat about the troops,,14,ku₄-ku₄ ed₂-de₃ kiŋ₂ bar ha-ra-ak-ne
+c.3.2.02,Letter from Iddin-Dagan to Sîn-illat about the troops,,15,lugal-ŋu₁₀
+c.3.2.02,Letter from Iddin-Dagan to Sîn-illat about the troops,,16,ka lul-za
+c.3.2.02,Letter from Iddin-Dagan to Sîn-illat about the troops,,17,ugnim-zu nam-ba-e-la₂
+c.3.2.02,Letter from Iddin-Dagan to Sîn-illat about the troops,,18,ul₄-la-bi ŋa₂-nam-ma
+c.3.2.02,Letter from Iddin-Dagan to Sîn-illat about the troops,,19,a-ma-ru-kam

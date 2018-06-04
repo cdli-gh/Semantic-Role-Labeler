@@ -1,0 +1,25 @@
+id_text,text_name,version,l_no,text
+c.0.2.12,OB catalogue at Yale (Y2),,A1,lugal-me-en
+c.0.2.12,OB catalogue at Yale (Y2),,A2,lugal mi₂ dug₄
+c.0.2.12,OB catalogue at Yale (Y2),,A3,en-e niŋ₂
+c.0.2.12,OB catalogue at Yale (Y2),,A4,nin me
+c.0.2.12,OB catalogue at Yale (Y2),,A5,bur-šu
+c.0.2.12,OB catalogue at Yale (Y2),,A6,dumu e₂
+c.0.2.12,OB catalogue at Yale (Y2),,A7,dumu e₂
+c.0.2.12,OB catalogue at Yale (Y2),,A8,dumu e₂
+c.0.2.12,OB catalogue at Yale (Y2),,A9,
+c.0.2.12,OB catalogue at Yale (Y2),,A10,{d}inana
+c.0.2.12,OB catalogue at Yale (Y2),,A11,šag₄-ga
+c.0.2.12,OB catalogue at Yale (Y2),,A12,in-nin
+c.0.2.12,OB catalogue at Yale (Y2),,A13,u₆
+c.0.2.12,OB catalogue at Yale (Y2),,B1,a
+c.0.2.12,OB catalogue at Yale (Y2),,B2,an
+c.0.2.12,OB catalogue at Yale (Y2),,B3,{ŋeš}taškarin
+c.0.2.12,OB catalogue at Yale (Y2),,B4,{gi}gašam
+c.0.2.12,OB catalogue at Yale (Y2),,B5,udu
+c.0.2.12,OB catalogue at Yale (Y2),,B6,{na₄}ka-gen₆-na
+c.0.2.12,OB catalogue at Yale (Y2),,B7,
+c.0.2.12,OB catalogue at Yale (Y2),,B8,lu₂
+c.0.2.12,OB catalogue at Yale (Y2),,B9,
+c.0.2.12,OB catalogue at Yale (Y2),,B10,
+c.0.2.12,OB catalogue at Yale (Y2),,B11,

@@ -1,0 +1,65 @@
+id_text,text_name,version,l_no,text
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,1,{ŋeš}gigir mah {d}en-lil₂ en ŋeštug₂-ga a-a diŋir-re-e-ne-ke₄
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,2,e₂-kur eš₃ mah-a-na dim₂-me-za bi₂-in-dug₄
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,3,{d}iš-me-{d}da-gan sipad gal-zu mu dug₃ sa₄-a
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,4,šag₄ ama sig₇ u₃-tud mas-su₂ kalam-ma-ka
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,5,me kug sikil-zu pa e₃ ak-de₃ a₂-bi mu-un-da-an-aŋ₂
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,6,šu mu-ra-de₆ ŋa₂-la nu-mu-e-ta-dag-ge
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,7,{na₄}za-gin₃-na mi-ni-in-sig₇-ge-en
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,8,ba-an-gub-be₂-en
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,9,₂-bi niŋ₂ u₆ di ŋal₂-me-en
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,10,{ŋeš}šu-kar₂-zu dalla mah im-e₃ {ŋeš}tir šim {ŋeš}erin-na-gin₇
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,11,{ŋeš}ma-gid₂-zu a-gar₃ ab-sin₂ ŋal₂ taka₄-a he₂-ŋal₂ še gu-nu
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,12,su-din-zu dungu sir₂-zu
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,13,an-na gu₂ teš₂ la₂-a-me-en
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,14,{ŋeš}erin₂-zu-ta {ŋeš}rab₃ mah-zu nu-e₃ erim₂ šu ri-ri-me-en
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,15,{ŋeš}gag sa₁₁ la₂-zu sa-par₄ gal nu₂-a an ki-ta la₂-a-me-en
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,16,gu₂ peš-a
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,18,
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,19,{ŋeš}saŋ-kul huš-ba
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,20,sig₁₀-ga-zu kur erim₂ gam-gam-e-me-en
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,21,{ŋeš}saŋ-kul huš-ba-zu
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,28,sahar-gi₄-zu {d}utu an-ur₂ ŋiri₃ e₂ nam
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,29,saŋ-ki sahar-gi₄-zu he₂-du₇ dib-ba-me-en
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,30,a₂-šita₄-a-zu {d}nanna an-šag₄-ga hi-li du₈-du₈-me-en
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,31,{ŋeš}gag-a-zu kar₂ a-ŋi₆ sur-sur-re-me-en
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,32,e₂-su-lum-ma-zu usan₃ anše zi-zi-i-X-me-en
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,33,{ŋeš}DUB-zu {sa}šu₂-uš-gal ba₉-ra₂ erim₂-du nu-e₃-me-en
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,34,gaba-ŋal₂-zu me mah nam-nun-na-kam gal-bi kiŋ₂-kiŋ₂-ŋa₂-me-en
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,35,{u₂}KI.KAL-zu ur-saŋ-e-ne teš₂-ba du₇-du₇-me-en
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,36,gab₂-il₂-zu gud-ab₂ a₂ kalag-ga niŋ₂ dugud il₂-il₂-me-en
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,37,šag₄-sud-zu ŋuruš sul-sul-e-ne gu₂-da la₂-la₂-me-en
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,38,da-da-zu ki teš₂-a
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,39,ŋiri₃-gub-zu
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,40,{ŋeš}gu-za-zu
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,62,ud-ba {d}iš-me-{d}da-gan
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,63,lugal-a-ni {d}en-lil₂-ra {ŋeš}gigir-e
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,64,kug-babbar kug-sig₁₇ {na₄}za-gin₃-na šu mu-na-ni-tag
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,65,sa-gid₂-da-am₃
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,66,ezen gal-a-ni šu du₇-a {ŋeš}gigir-ra ŋiri₃-ni gub-gub-ba-ni-ta
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,67,ama {d}nin-lil₂ nitalam-ma-ni gu₂-da mu-ni-in-la₂
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,68,{d}nin-urta ur-saŋ kalag-ga-ni
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,69,{d}a-nun-na ki {d}en-lil₂-la₂-ka eŋer-ra-a-ni im-us₂
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,70,{ŋeš}gigir nim-gin₇ ŋir₂-ŋir₂-re mur ša₄-bi dug₃-ga-am₃
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,71,dur₃-a-ni erin₂-na la₂-am₃
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,72,{d}en-lil₂ {ŋeš}gigir ba mah-a-ni-a zalag-ga-ni na-e₃
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,73,ŋiškim-til₃ a-a-na {d}nin-urta-ke₄ har-ra-an mu-na-ab-sag₉-ge
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,74,ki ur₅ sag₉-ge ki a nam tar-ra im-ma-ti-a-ra
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,75,lugal kug-ta nam-ta-an-e₃ ezen na-mu-un-ŋar
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,81,šag₄ hul₂
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,82,{ŋeš}šu-kar₂ gana₂ um-ta-a-e₃-a-am₃
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,83,{ŋeš}al-e {ŋeš}apin-e ŋiš nam-erin₂ a-da-min₃ ha-mu-ra-an-e
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,84,lugal-e inim {d}en-lil₂-la₂-še₃ ŋizzal ba-ši-in-ak
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,85,{d}nin-urta-ke₄ {ŋeš}apin kug-ge si nam-mi-in-sa₂ gana₂ zid na-ur₁₁-ru
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,86,guru₇-du₆ guru₇-maš {d}en-lil₂-la₂-ke₄
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,87,gu₂ gur-gur-ru-de₃ numun zid na-mu-ŋar
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,88,šul ur-saŋ e₂-kur za-gin₃-na saŋ il₂-la mu-un-kur₉
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,89,en {d}nin-urta-ke₄ {d}en-lil₂-ra sizkur mu-na-ab-be₂
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,90,{d}iš-me-{d}da-gan sipad šu du₇-a unu₆ ŋiri₃-za sig₉-ga-ra
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,91,lugal {ŋeš}gigir-ra ma-ra-an-dim₂-ma-ra igi zid bar-mu-un-še
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,92,{d}inana dumu gal ki aŋ₂-zu nitalam-še₃ šum₂-mu-an
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,93,ud ul-še₃ gu₂-da ha-mu-ri-in-la₂
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,94,hi-li niŋ₂ ku₇-ku₇-da ur₂ kug
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,95,nam-til₃ si-a-na ud ha-ba-ni-ib-su₃-re₆
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,96,sa-ŋar-ra-am₃
+c.2.5.4.09,Išme-Dagan and Enlil's chariot: a tigi to Enlil (Išme-Dagan I),,97,tigi {d}en-lil₂-la₂-kam

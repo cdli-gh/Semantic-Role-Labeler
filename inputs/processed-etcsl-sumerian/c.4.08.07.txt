@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+c.4.08.07,A balbale to Inana (Dumuzid-Inana G),,1,niŋ₂ lam-lam-ma ama ugu-na
+c.4.08.07,A balbale to Inana (Dumuzid-Inana G),,2,šag₄ i-bi₂ sag₉-sag₉ ad-da-na ad mu-un-da-gi₄-gi₄
+c.4.08.07,A balbale to Inana (Dumuzid-Inana G),,3,šeš-me he₂-me-en šeš-me he₂-me-en
+c.4.08.07,A balbale to Inana (Dumuzid-Inana G),,4,šeš kan₄ e₂-gal-la-me he₂-me-en
+c.4.08.07,A balbale to Inana (Dumuzid-Inana G),,5,u₃-mu-un-si {ŋeš}ma₂-gur₈-ra-me he₂-me-en
+c.4.08.07,A balbale to Inana (Dumuzid-Inana G),,6,nu-banda₃ {ŋeš}gigir₂-ra-me he₂-me-en
+c.4.08.07,A balbale to Inana (Dumuzid-Inana G),,7,kuš₇ {ŋeš}gigir₂ sar-ra-me he₂-me-en
+c.4.08.07,A balbale to Inana (Dumuzid-Inana G),,8,ad-da iri di ku₅-ru-me he₂-me-en
+c.4.08.07,A balbale to Inana (Dumuzid-Inana G),,9,mussa niŋ₂ ₅ mussa niŋ₂ ₁₀ he₂-me-en
+c.4.08.07,A balbale to Inana (Dumuzid-Inana G),,10,šeš mussa ad-da-me he₂-me-en
+c.4.08.07,A balbale to Inana (Dumuzid-Inana G),,11,mussa gu₂ zig₃-ga-me he₂-me-en
+c.4.08.07,A balbale to Inana (Dumuzid-Inana G),,12,ama-me niŋ₂ ze₂-ba he₂-me-da-ab-dug₄
+c.4.08.07,A balbale to Inana (Dumuzid-Inana G),,13,im-ma-ŋen-na-zu na-aŋ₂-til₃ na-nam
+c.4.08.07,A balbale to Inana (Dumuzid-Inana G),,14,e₂-a kur₉-ra-zu he₂-ŋal₂-la-am₃
+c.4.08.07,A balbale to Inana (Dumuzid-Inana G),,15,da nu₂-da hul₂-la dirig-ŋu₁₀
+c.4.08.07,A balbale to Inana (Dumuzid-Inana G),,16,ze₂-ba-ŋu₁₀ ki-nu₂-a du₅-mu-ni-ib-ze₂-be₂-en-de₃-en
+c.4.08.07,A balbale to Inana (Dumuzid-Inana G),,17,bal-bal-e {d}inana-kam

@@ -1,0 +1,24 @@
+id_text,text_name,version,l_no,text
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,A1,lugal-ŋu₁₀-ra u₃-na-a-dug₄
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,A2,{m}arad-ŋu₁₀ arad₂-zu na-ab-be₂-a
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,A3,lugal-ŋu₁₀ ma-da daŋal-la niŋ₂ nam-ra-aš mu-ra-an-šum₂-ma-a
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,A4,gu₃ teš₂-a sig₁₀-ge₅ dim₂-ma-bi ₁-am₃
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,A5,uŋ₃ u₂-gin₇ lu-lu {d}šul-gi-ra sipad inim gen₆-na-bi
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,A6,nam-lu₂-ulu₃ sig igi-nim-ma diŋir-bi za-e-me-en
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,A7,igi-bi ma-ra-ši-ŋal₂
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,A8,uŋ₃ daŋal-la u₂-gin₇ lu-lu a mah {id₂}idigna {id₂}buranun-na-ta
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,A9,{id₂}idigna-še₃ lugal-ŋu₁₀ silim-ma ab-dug₄-ga
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,A10,ib₂-zi-zi
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,A11,ba-da-an-ŋar
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,A12,X-ak-en
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,A13,X-kal-la-bi
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,A14,u₃-bi₂-si
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,A15,
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,B1,
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,B2,X-an-tuku-a
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,B3,
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,B4,
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,B5,dumu ma-da gu-tu-u₂-um{ki}
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,B6,X{ki} ma-ri₂{ki} u₃ ra-pi₂-qum{ki}
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,B7,lu₂ ŋiš tuku-tuku-ne igi-ŋa₂ i₃-ŋal₂
+c.3.1.04,Letter from Aradŋu to Šulgi about the country,,B8,niŋ₂ lugal-ŋu₁₀ ab-be₂-na ga-ab-ak

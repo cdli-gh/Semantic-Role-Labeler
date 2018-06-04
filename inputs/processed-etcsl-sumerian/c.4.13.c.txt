@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+c.4.13.c,An excerpt from a hymn to Nanna,,1,diŋir diŋir-re-e-ne
+c.4.13.c,An excerpt from a hymn to Nanna,,2,un₃-na e₃ me an-na šu du₇
+c.4.13.c,An excerpt from a hymn to Nanna,,3,men ri-ba še-er-zid nun an-na
+c.4.13.c,An excerpt from a hymn to Nanna,,4,mi₂ zid dug₄-ga an {d}uraš-a u₃-tud-da dur-an-ki
+c.4.13.c,An excerpt from a hymn to Nanna,,5,ud še-er-zid men urim₂{ki}-ma
+c.4.13.c,An excerpt from a hymn to Nanna,,6,niŋ₂ dug₃-ge niŋ₂ dug₃-ge al na-an-ga-am₃-mi-in-dug₄
+c.4.13.c,An excerpt from a hymn to Nanna,,7,en-e nam uru₂-na tar-re-de₃ {d}en-lil₂ mu-un-kuš₂-u₃
+c.4.13.c,An excerpt from a hymn to Nanna,,8,a-a-ŋu₁₀ uru₂-ŋu₁₀ ki-bi ha-ma-gi₄-gi₄
+c.4.13.c,An excerpt from a hymn to Nanna,,9,dug₄-ga zid-zid-da a-a {d}nanna šu-ni na-e₃
+c.4.13.c,An excerpt from a hymn to Nanna,,10,nam₂ nun-e nam₂ nun-e nam-nun gal diŋir-re-e-ne-ke₄
+c.4.13.c,An excerpt from a hymn to Nanna,,11,e₂ an-gin₇ ni₂ su zig₃ ri-a me-lem₄-ma gur₃-ru-me-en

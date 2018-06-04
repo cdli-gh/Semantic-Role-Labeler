@@ -1,0 +1,443 @@
+id_text,text_name,version,l_no,text
+c.2.2.2,The lament for Urim,,1,tur₃-ra-na muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,2,am-e tur₃-ra-na muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,3,u₃-mu-un kur-kur-ra-ke₄ muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,4,{d}mu-ul-lil₂-le eš₃-e nibru{ki}-a muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,5,dam-a-ni {d}nin-lil₂-le muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,6,{d}nin-lil₂-le e₂-bi ki-ur₃-ra muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,7,nin keš₃{ki}-a-ke₄ muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,8,ga-ša-an-mah-e e₂-bi keš₃{ki}-a muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,9,mu-lu i₃-si-in{ki}-na-ke₄ muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,10,ga-ša-an-i₃-si-in{ki}-na-ke₄ eš₃ e₂-gal-mah-a muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,11,nin ki unug{ki}-ga-ke₄ muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,12,ga-ša-an-an-na-ke₄ e₂-bi ki unug{ki}-ga muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,13,{d}nanna urim₂{ki}-ma muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,14,{d}suen-e e₂-kiš-nu-ŋal₂-la muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,15,dam-a-ni ga-ša-an-gal-e muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,16,ga-ša-an-gal-e agrun-kug-ga-na muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,17,am uru₂-ze₂-ba{ki}-ke₄ muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,18,{d}am-an-ki-ke₄ e₂-bi uru₂-ze₂-ba{ki}-ke₄ muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,18A,ga-ša-an-X-X e₂-ba la-ra-ag{ki}-a muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,19,{d}šara e₂-mah-a muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,20,{d}ud-sahar-ra e₂-bi umma{ki}-a muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,21,{d}ba-u₂ uru₂-kug-ga muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,22,a dug₄-ga ama₅-na muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,23,dumu-a-ni {d}ab-ba-u₂ muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,24,{d}ab-ba-u₂ ma-gu₂-en-na-ke₄ muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,25,{d}lamma e₂ kug-ke₄ muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,26,{d}lamma-e e₂-tar-sir₂-sir₂-ra muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,27,um-ma lagaš{ki}-ke₄ muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,28,{d}ma-ze₂-ze₂-be₂ e₂-bi lagaš{ki}-ke₄ muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,29,mu-lu niŋin₆{ki}-ke₄ muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,30,ga-ša-an gu-la e₂-bi sirara₃{ki} muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,31,mu-lu ki-nir-ša-ba{ki}-ke₄ muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,32,{d}dumu-zid-abzu e₂-bi ki-nir-ša-ba{ki}-ke₄ muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,33,mu-lu gu₂-ab-ba{ki}-ke₄ muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,34,ga-ša-an-mar-ki-ke₄ eš₃ gu₂-ab-ba{ki}-ke₄ muš₃ mi-ni-in-ga amaš-a-na lil₂-e
+c.2.2.2,The lament for Urim,,35,ki-ru-gu₂ ₁-kam-ma-am₃
+c.2.2.2,The lament for Urim,,36,amaš-a-na lil₂-e ba-ni-in-ŋar i-si-iš-bi mu-un-kuš₂-u₃
+c.2.2.2,The lament for Urim,,37,ab₂ gu₃-zu {e₂}tur₃-ra nu-mu-un-ŋal₂ tur₃ nun nu-ul
+c.2.2.2,The lament for Urim,,38,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.2,The lament for Urim,,39,uru₂ a-še-er gig-ga a-še-er-zu ŋar-ra
+c.2.2.2,The lament for Urim,,40,a-še-er-zu gig-ga-am₃ uru₂ a-še-er-zu ŋar-ra
+c.2.2.2,The lament for Urim,,41,uru₂ zid gul-la-na a-še-er-bi gig-ga-am₃
+c.2.2.2,The lament for Urim,,42,urim₂ zid gul-la-na a-še-er gig-ga a-še-er-zu ŋar-ra
+c.2.2.2,The lament for Urim,,43,a-še-er-zu gig-ga-am₃ uru₂ a-še-er-zu ŋar-ra
+c.2.2.2,The lament for Urim,,44,urim₂{ki} gul-la-na a-še-er-bi gig-ga
+c.2.2.2,The lament for Urim,,45,a-še-er-zu gig-ga ga-ša-an-zu mu-lu er₂-re en₃-še₃ mu-un-kuš₂-u₃
+c.2.2.2,The lament for Urim,,46,a-še-er-zu gig-ga {d}nanna mu-lu er₂-re en₃-še₃ mu-un-kuš₂-u₃
+c.2.2.2,The lament for Urim,,47,še-eb urim₂{ki}-ma a-še-er gig-ga-am₃ a-še-er-zu ŋar-ra
+c.2.2.2,The lament for Urim,,48,e₂-kiš-nu-ŋal₂ a-še-er-zu gig-ga-am₃ a-še-er-zu ŋar-ra
+c.2.2.2,The lament for Urim,,49,eš₃ agrun-kug a-še-er gig-ga-am₃ a-še-er-zu ŋar-ra
+c.2.2.2,The lament for Urim,,50,ki-ur₃ ki gal a-še-er gig-ga-am₃ a-še-er-zu ŋar-ra
+c.2.2.2,The lament for Urim,,51,eš₃ nibru{ki} uru₂ a-še-er gig-ga-am₃ a-še-er-zu ŋar-ra
+c.2.2.2,The lament for Urim,,52,še-eb e₂-kur-ra a-še-er gig-ga-am₃ a-še-er-zu ŋar-ra
+c.2.2.2,The lament for Urim,,53,ŋa₂-ŋiš-šu₂-a a-še-er gig-ga-am₃ a-še-er-zu ŋar-ra
+c.2.2.2,The lament for Urim,,54,ub-šu-unken-na a-še-er gig-ga-am₃ a-še-er-zu ŋar-ra
+c.2.2.2,The lament for Urim,,55,še-eb uru₂-kug-ga a-še-er gig-ga-am₃ a-še-er-zu ŋar-ra
+c.2.2.2,The lament for Urim,,56,e₂-tar-sir₂-sir₂ a-še-er gig-ga-am₃ a-še-er-zu ŋar-ra
+c.2.2.2,The lament for Urim,,57,ma-gu₂-en-na a-še-er gig-ga-am₃ a-še-er-zu ŋar-ra
+c.2.2.2,The lament for Urim,,58,še-eb i₃-si-in{ki}-na a-še-er gig-ga-am₃ a-še-er-zu ŋar-ra
+c.2.2.2,The lament for Urim,,59,eš₃ e₂-gal-mah a-še-er gig-ga-am₃ a-še-er-zu ŋar-ra
+c.2.2.2,The lament for Urim,,60,še-eb ki unug{ki}-ga a-še-er gig-ga-am₃ a-še-er-zu ŋar-ra
+c.2.2.2,The lament for Urim,,61,še-eb uru₂-ze₂-ba{ki}-ke₄ a-še-er gig-ga-am₃ a-še-er-zu ŋar-ra
+c.2.2.2,The lament for Urim,,62,a-še-er-zu gig-ga-am₃ ga-ša-an-zu mu-lu er₂-re en₃-še₃ mu-un-kuš₂-u₃
+c.2.2.2,The lament for Urim,,63,a-še-er-zu gig-ga-am₃ {d}nanna mu-lu er₂-re en₃-še₃ mu-un-kuš₂-u₃
+c.2.2.2,The lament for Urim,,64,uru₂ mu-zu i₃-ŋal₂ za-e ba-e-da-gul-e
+c.2.2.2,The lament for Urim,,65,uru₂ bad₃-zu i₃-il₂ kalam-zu ba-e-da-til
+c.2.2.2,The lament for Urim,,66,uru₂-ŋu₁₀ u₈ zid-gin₇ sila₄-zu ba-e-da-tar
+c.2.2.2,The lament for Urim,,67,urim₂{ki} ud₅ zid-gin₇ maš₂-zu ba-e-da-til
+c.2.2.2,The lament for Urim,,68,uru₂ ŋarza-zu im-me-de₃-kur₂-ra
+c.2.2.2,The lament for Urim,,69,me-zu me kur₂-ra šu bal ba-ni-ib-ak
+c.2.2.2,The lament for Urim,,70,a-še-er-zu gig-ga-am₃ ga-ša-an-zu mu-lu er₂-re en₃-še₃ mu-un-kuš₂-u₃
+c.2.2.2,The lament for Urim,,71,a-še-er-zu gig-ga-am₃ {d}nanna mu-lu er₂-re en₃-še₃ mu-un-kuš₂-u₃
+c.2.2.2,The lament for Urim,,72,ki-ru-gu₂ ₂-kam-ma-am₃
+c.2.2.2,The lament for Urim,,73,uru₂ zid gul-la-na a-še-er-bi gig-ga-am₃
+c.2.2.2,The lament for Urim,,74,urim₂{ki} gul-la-na a-še-er-bi gig-ga-am₃
+c.2.2.2,The lament for Urim,,75,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.2,The lament for Urim,,76,nin lu₂ e₂ hul-a-ta uru₂-ni er₂-re ba-an-di-ni-ib-ŋar
+c.2.2.2,The lament for Urim,,77,{d}nanna lu₂ kalam ba-an-da-til-la
+c.2.2.2,The lament for Urim,,78,urim₂{ki}-e a-nir-ra bar ba-da-an-tab
+c.2.2.2,The lament for Urim,,79,munus zid nin uru₂{ki}-ni-še₃ kuš₂-u₃-de₃
+c.2.2.2,The lament for Urim,,80,{d}nin-gal kalam-ma-ni-še₃ u₃ nu-ku-ku-de₃
+c.2.2.2,The lament for Urim,,81,e-ne-ra nam uru₂-na mu-na-te er₂ gig i₃-še₈-še₈
+c.2.2.2,The lament for Urim,,82,nin-ra nam e₂-a-na mu-na-te er₂ gig i₃-še₈-še₈
+c.2.2.2,The lament for Urim,,83,nam uru₂ hul-a-na mu-na-te er₂ gig i₃-še₈-še₈
+c.2.2.2,The lament for Urim,,84,nam e₂ hul-a-na mu-na-te a-nir gig-ga-bi im-da-ra-da-ŋa₂-ŋa₂
+c.2.2.2,The lament for Urim,,85,munus-e ad-a-ni balaŋ er₂-ra ki al-ŋar-ra-ba
+c.2.2.2,The lament for Urim,,86,i-lu ma sig₉-ga tur-tur-bi ni₂-te-na mi-ni-ib-be₂
+c.2.2.2,The lament for Urim,,87,ud-da ma-al-ma-al-la i-si-iš-bi ma-la₂-la₂
+c.2.2.2,The lament for Urim,,88,ud-da na-aŋ₂-bi-še₃ sumur-sumur-a-ŋu₁₀-ne
+c.2.2.2,The lament for Urim,,89,lu₂ nu-nus-ŋen ud-da ma-al-ma-al-la
+c.2.2.2,The lament for Urim,,90,ud-da ma-al-ma-al-la i-si-iš-bi ma-la₂-la₂
+c.2.2.2,The lament for Urim,,91,ud-da ud gig-ga ma-ra-ma-al-ma-al-la
+c.2.2.2,The lament for Urim,,92,me-e ud-bi-še₃ zarah he₂-em-ši-ak
+c.2.2.2,The lament for Urim,,93,ud-da a₂-bi-še₃ ba-ra-ba-ra-e₃-en
+c.2.2.2,The lament for Urim,,94,ud tur-bi-še₃ bal-ŋu₁₀ ud sag₉-ga bal-ŋu₁₀ ud sag₉-ga i-bi₂ ba-ra-bi₂-in-du₈-a
+c.2.2.2,The lament for Urim,,95,ŋi₆-še₃ a-še-er gig ma-ra-ma-al-ma-al-la
+c.2.2.2,The lament for Urim,,96,me-e ŋi₆-bi-še₃ zarah he₂-em-ši-ak
+c.2.2.2,The lament for Urim,,97,ŋi₆ a₂-bi ba-ra-ba-ra-e₃-en
+c.2.2.2,The lament for Urim,,98,ud uru₂-gin₇ gul-lu-ba ni₂-bi ha-ma-la₂-la₂
+c.2.2.2,The lament for Urim,,99,na-aŋ₂-bi-še₃ ki-nu₂ ŋi₆ u₃-na-ŋa₂ ki-nu₂ ŋi₆ u₃-na-ŋa₂ lib ba-ra-an-mar
+c.2.2.2,The lament for Urim,,100,ud tur-bi-še₃ ki-nu₂-ŋa₂ mu-uš-la₂-a-bi ki-nu₂-ŋa₂ ŋiš-la₂-a-bi nu-ši-in-ga-mu-ni-ib-DU
+c.2.2.2,The lament for Urim,,100A,ka-na-aŋ₂-ŋu₁₀-ta ni₂ šub me-e ba-ra-ba-da-ak
+c.2.2.2,The lament for Urim,,101,ka-na-aŋ₂-ŋu₁₀ aŋ₂-gig-ga ba-ŋal₂-la-ke₄-eš
+c.2.2.2,The lament for Urim,,102,ab₂ amar-ra-gin₇-nam ki šu he₂-em-mi-ib-ak
+c.2.2.2,The lament for Urim,,103,ka-na-aŋ₂-ŋu₁₀ ni₂ šu-a ba-ra-mu-da-ab-gi₄
+c.2.2.2,The lament for Urim,,104,uru₂-ŋu₁₀ du-lum gig ba-ŋal₂-la-ke₄-eš
+c.2.2.2,The lament for Urim,,105,mušen an-na-gin₇ a₂ dub₂ he₂-em-ši-ak
+c.2.2.2,The lament for Urim,,106,me-e uru₂-ŋu₁₀-še₃ he₂-em-ši-dal-dal-en
+c.2.2.2,The lament for Urim,,107,uru₂-ŋu₁₀ ki-ŋal₂-ba he₂-en-ga-mu-de₃-gul
+c.2.2.2,The lament for Urim,,108,urim₂{ki} ki-nu₂-bi-a he₂-en-ga-mu-de₃-til
+c.2.2.2,The lament for Urim,,109,šu ud-da an-ta ba-ŋal₂-la-ke₄-eš
+c.2.2.2,The lament for Urim,,110,gu₃ hu-mu-dub₂ edin-na ud gi₄-a me-e he₂-em-ma-dug₄
+c.2.2.2,The lament for Urim,,111,ud-da gaba-bi ba-ra-mu-da-zig₃
+c.2.2.2,The lament for Urim,,112,nu-nus-ŋen agrun-kug e₂ na-aŋ₂-{d}ga-ša-an-na-ŋu₁₀
+c.2.2.2,The lament for Urim,,113,bal-ba ud su₃-ra₂ na-ma-ni-in-ŋar-re-eš-am₃
+c.2.2.2,The lament for Urim,,114,er₂ a-še-er-ra ki ha-ma-ab-us₂-am₃
+c.2.2.2,The lament for Urim,,115,e₂ ki ur₅ sag₉-ge saŋ gig₂-ga i₃-me-a-ke₄-eš
+c.2.2.2,The lament for Urim,,116,ezen-bi-ta ib₂-ba su-mu-ug-ga he₂-en-ga-mu-da-tab-tab-be₂-eš
+c.2.2.2,The lament for Urim,,117,ud tur-bi-še₃ e₂-ŋu₁₀ ki sag₉-ga
+c.2.2.2,The lament for Urim,,118,e₂ zid hul-a-ŋu₁₀ i-bi₂ ba-ra-bi₂-in-du₈-am₃
+c.2.2.2,The lament for Urim,,119,ur₅ uš₂-a a-še-er aŋ₂-gig-ga
+c.2.2.2,The lament for Urim,,120,a-še-er aŋ₂-gig-ga hu-mu-ni-tum₂-tum₂-mu-uš
+c.2.2.2,The lament for Urim,,121,e₂ lu₂ zid-de₃ ba-ab-ŋar-ra-ŋu₁₀
+c.2.2.2,The lament for Urim,,122,gi-sig kiri₆-gin₇ bar-ba he₂-bi₂-in-dub₂
+c.2.2.2,The lament for Urim,,123,e₂-kiš-nu-ŋal₂ e₂ nam-lugal-la-ŋu₁₀
+c.2.2.2,The lament for Urim,,124,e₂ zid e₂ er₂-ra ba-an-di-ni-ib-ŋar-ra-ŋu₁₀
+c.2.2.2,The lament for Urim,,125,lul-e-eš du₃-u₃-ba zid-de₃-eš gul-lu-ba
+c.2.2.2,The lament for Urim,,126,ha-la ba-bi-a ha-ma-ni-in-ŋar-re-eš-am₃
+c.2.2.2,The lament for Urim,,127,za-lam-ŋar e₂ ki-buru₁₄ bur₁₂-ra-gin₇
+c.2.2.2,The lament for Urim,,128,e₂ ki-buru₁₄ bur₁₂-ra-gin₇ tum₉ šeŋ₃-ŋa₂ ha-ba-an-ŋar
+c.2.2.2,The lament for Urim,,129,urim₂{ki} ama₅ niŋ₂ dirig-ŋu₁₀
+c.2.2.2,The lament for Urim,,130,e₂ uru₂ sig₉-ga mu-un-bur₁₂-bur₁₂-bur₁₂
+c.2.2.2,The lament for Urim,,131,amaš {lu₂}sipad-da-gin₇ ha-ba-bur₁₂-bur₁₂
+c.2.2.2,The lament for Urim,,132,niŋ₂-gur₁₁ uru₂ ŋal₂-ŋal₂-la-ŋu₁₀ sug-ge hu-mu-da-ab-gu₇
+c.2.2.2,The lament for Urim,,133,ki-ru-gu₂ ₃-kam-ma-am₃
+c.2.2.2,The lament for Urim,,134,urim₂{ki} er₂-re ba-an-di-ni-ib-ŋar
+c.2.2.2,The lament for Urim,,135,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.2,The lament for Urim,,136,ud-ba ud ne-en ba-sag₃-sag₃-ga-ba
+c.2.2.2,The lament for Urim,,137,nin-da uru₂-ni ba-an-da-gul-la-ba
+c.2.2.2,The lament for Urim,,138,ud-ba ud ne-en ba-dim₂-dim₂-ma-ba
+c.2.2.2,The lament for Urim,,139,uru₂-ŋu₁₀ gul-gul-da im-me-ne-eš-a-ba
+c.2.2.2,The lament for Urim,,140,urim₂{ki} gul-gul-da im-me-ne-eš-a-ba
+c.2.2.2,The lament for Urim,,141,uŋ₃-bi ug₅-ge-de₃ a₂ mu-un-aŋ₂-eš-a-ba
+c.2.2.2,The lament for Urim,,142,ud-ba me-e uru₂-ŋu₁₀-še₃ ŋa₂-la ba-ra-ba-ra-dag
+c.2.2.2,The lament for Urim,,143,ka-na-aŋ₂-ŋu₁₀-ta ni₂ šub me ba-ra-ba-da-ak
+c.2.2.2,The lament for Urim,,144,an-ra a i-bi₂-ŋa₂ me-e he₂-em-ma-na-de₂
+c.2.2.2,The lament for Urim,,145,{d}mu-ul-lil₂-ra ni₂-ŋu₁₀ šag₄-ne-ša₄ he₂-em-ma-na-ak
+c.2.2.2,The lament for Urim,,146,uru₂-ŋu₁₀ nam-ba-gul-lu he₂-em-me-ne-dug₄
+c.2.2.2,The lament for Urim,,147,urim₂{ki} nam-ba-gul-lu he₂-em-me-ne-dug₄
+c.2.2.2,The lament for Urim,,148,uŋ₃-bi nam-ba-til-le he₂-em-me-ne-dug₄
+c.2.2.2,The lament for Urim,,149,an-ne₂ e-ne-eŋ₃-bi ba-ra-mu-un-gur
+c.2.2.2,The lament for Urim,,150,{d}mu-ul-lil₂-le i₃-sag₉ he₂-am₃-bi šag₄-ŋu₁₀ ba-ra-bi₂-in-sed₄
+c.2.2.2,The lament for Urim,,151,₂-kam-ma-še₃ pu-uh₂-rum ki saŋ-ki ba-da-ab-ŋal₂-la
+c.2.2.2,The lament for Urim,,152,{d}a-nun-na e-ne-eŋ₃ zu₂ keše₂-da-bi ba-da-an-dur₂-ru-ne-eš-a
+c.2.2.2,The lament for Urim,,153,ur₂ he₂-em-ma-sud-sud a₂ he₂-em-ma-la₂-la₂
+c.2.2.2,The lament for Urim,,154,an-ra a i-bi₂-ŋa₂ me-e he₂-em-ma-na-dug₄
+c.2.2.2,The lament for Urim,,155,{d}mu-ul-lil₂-ra ni₂-ŋu₁₀ šag₄-ne-ša₄ he₂-em-ma-ak
+c.2.2.2,The lament for Urim,,156,uru₂-ŋu₁₀ nam-ba-gul-lu he₂-em-me-ne-dug₄
+c.2.2.2,The lament for Urim,,157,urim₂{ki} nam-ba-gul-lu he₂-em-me-ne-dug₄
+c.2.2.2,The lament for Urim,,158,uŋ₃-bi nam-ba-til-le he₂-em-me-ne-dug₄
+c.2.2.2,The lament for Urim,,159,an-ne₂ e-ne-eŋ₃-bi ba-ra-mu-un-gur
+c.2.2.2,The lament for Urim,,160,{d}mu-ul-lil₂-le i₃-sag₉ he₂-am₃-bi šag₄-ŋu₁₀ ba-ra-bi₂-in-sed₄
+c.2.2.2,The lament for Urim,,161,uru₂-ŋu₁₀ gul-gul-lu-ba a₂-bi he₂-em-ma-an-aŋ₂-eš
+c.2.2.2,The lament for Urim,,162,urim₂{ki} gul-gul-lu-ba a₂-bi he₂-em-ma-an-aŋ₂-eš
+c.2.2.2,The lament for Urim,,163,uŋ₃-bi ug₅-ge-de₃ na-aŋ₂-bi ha-ba-an-tar-re-eš
+c.2.2.2,The lament for Urim,,164,me-e niŋ₂-dug₄-ŋu₁₀ mu-ne-šum₂-ma-gin₇
+c.2.2.2,The lament for Urim,,165,me-e uru₂-ŋu₁₀-da he₂-en-ga-mu-un-da-la₂-eš
+c.2.2.2,The lament for Urim,,166,urim₂{ki}-ŋu₁₀ ma-da he₂-en-ga-mu-da-la₂-e-eš
+c.2.2.2,The lament for Urim,,167,an-ne₂ dug₄-ga-ni hur nu-kur₂-ru-dam
+c.2.2.2,The lament for Urim,,168,{d}mu-ul-lil₂-le ka-ta e₃-a-ni šu nu-bal-e-de₃
+c.2.2.2,The lament for Urim,,169,ki-ru-gu₂ ₄-kam-ma-am₃
+c.2.2.2,The lament for Urim,,170,uru₂-ni ba-an-da-gul-la me-ni ba-an-da-kur₂-ra
+c.2.2.2,The lament for Urim,,171,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.2,The lament for Urim,,172,{d}en-lil₂-le ud-de₃ gu₃ ba-an-de₂ uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,173,ud he₂-ŋal₂-la kalam-da ba-da-an-kar uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,174,ud dug₃ ki-en-gi-da ba-da-an-kar uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,175,ud hul-ŋal₂-e a₂ ba-da-an-aŋ₂ uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,176,kin-gal-ud-da ud-da gub-ba šu-na im-ma-an-šum₂
+c.2.2.2,The lament for Urim,,177,ud kalam til-til-e gu₃ ba-an-de₂ uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,178,im-hul-im-hul-e gu₃ ba-an-de₂ uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,179,{d}en-lil₂-le {d}gibil a₂-tah-a-ni mu-na-ni-in-kur₉-re
+c.2.2.2,The lament for Urim,,180,ud gal an-na-ke₄ gu₃ ba-an-de₂ uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,181,ud gal-e an-ta gu₃ im-me uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,182,ud kalam til-til-e ki-a mur im-ša₄ uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,183,im-hul-e a mah e₃-a-gin₇ gu₂-bi nu-ŋa₂-ŋa₂
+c.2.2.2,The lament for Urim,,184,{ŋeš}tukul uru₂-ke₄ saŋ gaz i₃-ak-e teš₂-bi i₃-gu₇-e
+c.2.2.2,The lament for Urim,,185,an-na ur₂-ba kana₆ mu-un-ni₁₀-ni₁₀ uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,186,ud-da igi-ba izi mu-un-bar₇-bar₇-e uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,187,ud mir-mir-da izi-ŋi₆-edin-na bar ba-da-an-tab
+c.2.2.2,The lament for Urim,,188,an-bar₇ bar-šeŋ₃ il₂-il₂-la-gin₇ izi im-ma-an-bar₇-bar₇
+c.2.2.2,The lament for Urim,,189,an-bar₇-gana₂ ud zalag e₃-a ud dug₃-da ba-da-an-tab
+c.2.2.2,The lament for Urim,,190,kalam-ma ud zalag-ga la-ba-an-e₃ mul an-usanₓ-gin₇ ba-zal
+c.2.2.2,The lament for Urim,,191,ŋi₆ giri₁₇-zal a₂ sed ŋar-ra-ba {tum₉}u₁₈-lu ba-da-an-tab
+c.2.2.2,The lament for Urim,,192,šika bar₇-bar₇-re-da sahar im-da-tab-tab uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,193,saŋ gig₂-ga tum₉-tum₉ ba-an-dal uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,194,ki-en-gi ŋiš-bur₂-ra i₃-bal-e uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,195,kalam-e saŋ e₂-ŋar₈ du₃ i₃-ak-e teš₂-bi i₃-gu₇-e
+c.2.2.2,The lament for Urim,,196,ud gig er₂-re nam nu-tar-re uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,197,ud šu ur₄-ur₄-re kalam i₃-ur₃-ur₃-re
+c.2.2.2,The lament for Urim,,198,ud a-ma-ru-gin₇ uru₂ i₃-gul-gul-e
+c.2.2.2,The lament for Urim,,199,ud kalam til-til-e uru₂-a me bi₂-ib-ŋar
+c.2.2.2,The lament for Urim,,200,ud niŋ₂ u₂-gu de₂-de₂ hul-ŋal₂-eš ba-e-DU
+c.2.2.2,The lament for Urim,,201,ud izi-gin₇ bar₇-a uŋ₃-e šu bi₂-ib-ŋar
+c.2.2.2,The lament for Urim,,202,ud hul gig dug₄-ga {d}en-lil₂-la₂ ud kalam-ta be₄-be₄
+c.2.2.2,The lament for Urim,,203,urim₂{ki}-ma tug₂-gin₇ ba-e-dul gada-gin₇ ba-e-bur₂
+c.2.2.2,The lament for Urim,,204,ki-ru-gu₂ ₅-kam-ma-am₃
+c.2.2.2,The lament for Urim,,205,ud ug-am₃ al-du₇-du₇ uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,206,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.2,The lament for Urim,,207,ud-ba ud uru₂-da ba-da-an-ŋar uru₂-bi du₆-du₆-da
+c.2.2.2,The lament for Urim,,208,a-a {d}nanna uru₂-ni du₆-du₆-da ba-da-an-ŋar uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,209,ud-ba ud kalam-ta ba-da-an-kar uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,209A,ud dug₃ ki-en-gi-da ba-da-an-kar uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,210,uŋ₃-bi šika kud-da nu-me-a bar-ba ba-e-si
+c.2.2.2,The lament for Urim,,211,bad₃-bi gu₂-ŋiri₃ im-ma-an-ŋar-ŋar uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,212,abula mah ŋiri₃ ŋal₂-la-ba ad₆ im-ma-an-ŋar-ŋar
+c.2.2.2,The lament for Urim,,213,sila daŋal ezem-ma du₃-a-ba saŋ bal-e-eš ba-ab-ŋar
+c.2.2.2,The lament for Urim,,214,e-sir₂-e-sir₂ ŋiri₃ ŋal₂-la-ba ad₆ im-ma-an-ŋar-ŋar
+c.2.2.2,The lament for Urim,,215,ešemen kalam-ma ŋal₂-la-ba uŋ₃ zar-re-eš ba-an-du₈
+c.2.2.2,The lament for Urim,,216,u₃-mun kalam-ma-ke₄ urud nagga-gin₇ sur₃-sur₃ ba-ni-in-de₆-eš
+c.2.2.2,The lament for Urim,,217,ad₆-bi {uzu}i₃-udu ud-de₃ ŋal₂-la-gin₇ ni₂-bi-a mu-un-zal-eš
+c.2.2.2,The lament for Urim,,218,lu₂ {urud}ha-zi-in-e im-til-la-gin₇ saŋ tug₂ la-ba-ab-dul-eš
+c.2.2.2,The lament for Urim,,219,maš-da₃ ŋiš-bur₂-ra dab₅-ba-gin₇ ka sahar-ra bi₂-in-us₂
+c.2.2.2,The lament for Urim,,220,lu₂ ŋiš-gid₂-da mu-un-ra-bi niŋ₂-la₂ ba-ra-bi₂-in-la₂-eš
+c.2.2.2,The lament for Urim,,221,i-gi₄-in-zu ki ha-ri-iš-ta ama-ba-ka uš₂-bi-a mu-un-nu₂-eš
+c.2.2.2,The lament for Urim,,222,lu₂ {ŋeš}mitum-e im-til-la-gin₇ tug₂ gibil ba-ra-bi₂-in-la₂-eš
+c.2.2.2,The lament for Urim,,223,lu₂ kurun naŋ-a nu-me-eš-a gu₃ zag-ga bi₂-in-ŋal₂-eš
+c.2.2.2,The lament for Urim,,224,{ŋeš}tukul-e gub-ba {ŋeš}tukul-e in-gaz uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,225,lu₂-kar-ra-bi ud im-ma-du-bu-ul uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,226,urim₂{ki}-ma sig₉-ga kalag-ga-bi šag₄-ŋar-ra im-til
+c.2.2.2,The lament for Urim,,227,um-ma ab-ba e₂-ta nu-e₃ izi mu-ni-in-sig₁₀-sig₁₀-ge₅-eš
+c.2.2.2,The lament for Urim,,228,di₄-di₄-la₂ ur₂ ama-ba-ka nu₂-a ku₆-gin₇ a ba-an-de₆
+c.2.2.2,The lament for Urim,,229,emeda lirum kalag-ga-bi lirum ba-an-da-du₈
+c.2.2.2,The lament for Urim,,230,dim₂-ma kalam-ma u₂-gu im-ta-an-de₂ uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,231,ŋalga kalam-ma sug-ge₄ ba-ab-gu₇ uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,232,ama dumu-ni igi-ni ba-ra-e₃ uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,233,ad-da dumu-ni-ta ba-da-an-kur₂ uŋ₃-e še am₃-ša₄
+c.2.2.2,The lament for Urim,,234,uru₂-a dam ba-šub dumu ba-šub niŋ₂-gur₁₁ ba-bir-bir-re
+c.2.2.2,The lament for Urim,,235,saŋ gig₂ ki-saŋ-ŋal₂-la-ba im-me-de₃-re₇-eš
+c.2.2.2,The lament for Urim,,236,nin-bi mušen ni₂ te-a-gin₇ uru₂-ni ba-ra-e₃
+c.2.2.2,The lament for Urim,,237,nin-gal-e mušen ni₂ te-a-gin₇ uru₂-ni ba-ra-e₃
+c.2.2.2,The lament for Urim,,238,niŋ₂-gur₁₁ kalam-ma ŋar-ŋar-ra-ba šu pe-el-la₂ ba-ab-dug₄
+c.2.2.2,The lament for Urim,,239,ama₅ kalam-ma šar₂-šar₂-ra-ba izi im-ma-an-bar₇-bar₇
+c.2.2.2,The lament for Urim,,240,a-niŋin₂-ba {d}gibil lu₂ sikil-la kiŋ₂ mu-un-tuku-tuku
+c.2.2.2,The lament for Urim,,241,hur-saŋ sukuₓ-ra₂ šu nu-teŋ₃-ŋe₂₆ e₂-kiš-nu-ŋal₂-la
+c.2.2.2,The lament for Urim,,242,e₂ zid-ba {urud}ha-zi-in gal-gal-e teš₂-bi i₃-gu₇-e
+c.2.2.2,The lament for Urim,,243,šimaški{ki} elam{ki} lu₂ ha-lam-ma ₃₀ giŋ₄ ba-an-ak-e-eš
+c.2.2.2,The lament for Urim,,244,e₂ zid {ŋeš}al-a mi-ni-ib-bal-e-ne
+c.2.2.2,The lament for Urim,,245,uru₂ du₆-du₆-dam mu-un-ŋa₂-ŋa₂-ne
+c.2.2.2,The lament for Urim,,246,nin-bi a uru₂-ŋu₁₀ im-me a e₂-ŋu₁₀ im-me
+c.2.2.2,The lament for Urim,,247,{d}nin-gal-e a uru₂-ŋu₁₀ im-me a e₂-ŋu₁₀ im-me
+c.2.2.2,The lament for Urim,,248,lu₂ nu-nus-e u₃ uru₂-ŋu₁₀ mu-da-gul u₃ e₂-ŋu₁₀ mu-da-gul
+c.2.2.2,The lament for Urim,,249,{d}nanna eš₃ urim₂{ki} mu-da-gul mu-lu-bi ba-ug₅-ga-eš
+c.2.2.2,The lament for Urim,,250,ki-ru-gu₂ ₆-kam-ma-am₃
+c.2.2.2,The lament for Urim,,251,tur₃-ra-na amaš-a-na nu-nus-e inim gig mu-ni-ib-be₂
+c.2.2.2,The lament for Urim,,252,uru₂ ud-de₃ am₃-gul-e
+c.2.2.2,The lament for Urim,,253,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.2,The lament for Urim,,254,ama {d}nin-gal uru₂-ni lu₂-erim₂-gin₇ bar-ta ba-da-gub
+c.2.2.2,The lament for Urim,,255,lu₂ nu-nus-e er₂ e₂ hul-a-na gig-ga-bi im-me
+c.2.2.2,The lament for Urim,,256,egir₃-re eš₃ urim₂{ki} hul-a-na gig-ga-bi im-me
+c.2.2.2,The lament for Urim,,257,an-ne₂ uru₂-ŋu₁₀ na-aŋ₂ ha-ba-da-an-kud uru₂-ŋu₁₀ hu-mu-da-gul
+c.2.2.2,The lament for Urim,,258,{d}mu-ul-lil₂-le e₂-ŋu₁₀ šu he₂-bi₂-in-bal {ŋeš}al-e ha-ba-ra
+c.2.2.2,The lament for Urim,,259,sig-ta di-ŋa₂ izi ha-ba-ni-in-šub a uru₂-ŋu₁₀ hu-mu-da-gul
+c.2.2.2,The lament for Urim,,260,{d}mu-ul-lil₂-e i-bi₂ nim-ta di-ŋa₂ u₃-bu-bu-ul ha-ba-ni-in-šub
+c.2.2.2,The lament for Urim,,261,uru₂ bar-ra uru₂ bar hu-mu-da-an-gul a uru₂-ŋu₁₀ ga-am₃-dug₄
+c.2.2.2,The lament for Urim,,262,uru₂ šag₄-ba uru₂ ša₃-ab hu-mu-da-an-gul a uru₂-ŋu₁₀ ga-am₃-dug₄
+c.2.2.2,The lament for Urim,,263,e₂ uru₂ bar-ra-ŋu₁₀ ha-ba-gul-gul a e₂-ŋu₁₀ ga-am₃-dug₄
+c.2.2.2,The lament for Urim,,264,e₂ uru₂ ša₃-ba-ŋu₁₀ ha-ba-gul-gul a e₂-ŋu₁₀ ga-am₃-dug₄
+c.2.2.2,The lament for Urim,,265,uru₂-ŋu₁₀ u₈ zid-gin₇ ba-ra-ma-lu sipad zid-bi ba-ra-ŋen
+c.2.2.2,The lament for Urim,,266,urim₂{ki} u₈ zid-gin₇ ba-ra-ma-lu kab-bar-bi ba-ra-ŋen
+c.2.2.2,The lament for Urim,,267,gud-ŋu₁₀ tur₃-bi-a ba-ra-mu-un-šub mu-lu-bi ba-ra-ŋen
+c.2.2.2,The lament for Urim,,268,e-ze₂-ŋu₁₀ amaš-bi-a ba-ra-mu-un-šub na-gada-bi ba-ra-ŋen
+c.2.2.2,The lament for Urim,,269,id₂ uru₂-ŋa₂-ke₄ sahar ha-ba-niŋin₂ e₂ ka₅-a ha-ba-an-du₃
+c.2.2.2,The lament for Urim,,270,šag₄-ba a zal-le ba-ra-mu-un-de₆ mu-un-kud-bi ba-ra-ŋen
+c.2.2.2,The lament for Urim,,271,gana₂ uru₂-ŋa₂-ke₄ še ba-ra-ma-al mu-un-gar₃-bi ba-ra-ŋen
+c.2.2.2,The lament for Urim,,272,gana₂-ŋu₁₀ gana₂ {ŋeš}al-e ri-a-gin₇ mul-gana₂ bil₂ ha-ba-mu₂
+c.2.2.2,The lament for Urim,,273,pu₂-kiri₆ lal₃ gurun dirig-ŋu₁₀ {ŋeš}kiši₁₆ kur-ra ha-ba-mu₂
+c.2.2.2,The lament for Urim,,274,edin giri₁₇-zal-bi du₃-du₃-a-ŋu₁₀ gir₄-gin₇ ha-ba-hur-hur
+c.2.2.2,The lament for Urim,,275,mu-un-gur₁₁-ŋu₁₀ buru₄{mušen}-dugud zig₃-ga-gin₇ dal-dal-bi ha-ba-ab-in-zig₃ mu-un-gur₁₁-ŋu₁₀ ga-am₃-dug₄
+c.2.2.2,The lament for Urim,,276,mu-un-gur₁₁-ŋu₁₀ sig-ta di-ŋa₂ sig-še₃ ha-ba-ab-ir mu-un-gur₁₁-ŋu₁₀ ga-am₃-dug₄
+c.2.2.2,The lament for Urim,,277,mu-un-gur₁₁-ŋu₁₀ i-bi₂ nim-ta di-ŋa₂ i-bi₂ nim-še₃ ha-ba-ab-ir mu-un-gur₁₁-ŋu₁₀ ga-am₃-dug₄
+c.2.2.2,The lament for Urim,,278,kug za {na₄}za-gin₃-ŋu₁₀ hu-mu-da-an-bir-bir-re mu-un-gur₁₁-ŋu₁₀ ga-am₃-dug₄
+c.2.2.2,The lament for Urim,,279,gi₁₆-sa-ŋu₁₀ sug-ge₄ hu-mu-da-ab-gu₇ mu-un-gur₁₁-ŋu₁₀ ga-am₃-dug₄
+c.2.2.2,The lament for Urim,,280,kug-ŋu₁₀ lu₂ kug nu-zu-u₃-ne šu-bi ha-ba-da-ab-si
+c.2.2.2,The lament for Urim,,281,za-ŋu₁₀ lu₂ za nu-zu-u₃-ne gu₂-bi ha-ba-da-ab-si
+c.2.2.2,The lament for Urim,,282,buru₅{mušen} mušen-ŋu₁₀ hu-mu-dal-dal a uru₂-ŋu₁₀ ga-am₃-dug₄
+c.2.2.2,The lament for Urim,,283,gi₄-in du₅-mu-ŋu₁₀ ma₂-e ha-ba-ab-lah₄-e-eš a uru₂-ŋu₁₀ ga-am₃-dug₄
+c.2.2.2,The lament for Urim,,284,me-li-e-a gi₄-in-ŋu₁₀ uru₂ kur₂-ra šu-še-er kur₂ ha-ba-an-dab₅
+c.2.2.2,The lament for Urim,,285,šul-ŋu₁₀ edin ki nu-zu-na tug₂-mu-un-dur₇ ha-ba-an-ak
+c.2.2.2,The lament for Urim,,286,me-li-e-a uru₂-ŋu₁₀ nu-me-a me-e ga-ša-an-bi nu-ŋen
+c.2.2.2,The lament for Urim,,287,{d}nanna urim₂{ki} nu-me-a me-e lu₂-bi nu-ŋen
+c.2.2.2,The lament for Urim,,288,ar₂-mur-ra e₂-ŋu₁₀ ha-ba-du₃-a uru₂-ŋu₁₀ ha-ba-gul-la
+c.2.2.2,The lament for Urim,,289,nu-nus zid-ŋen uru₂-ŋu₁₀-ta uru₂ kur₂ ha-ba-ra-du₃-du₃-a
+c.2.2.2,The lament for Urim,,290,ar₂-mur-ra uru₂-ŋu₁₀ ha-ba-du₃-a e₂-ŋu₁₀ ha-ba-gul-la
+c.2.2.2,The lament for Urim,,291,ga-ša-an-gal-ŋen uru₂-ŋu₁₀-ta e₂ kur₂ ha-ba-ra-du₃-du₃-a
+c.2.2.2,The lament for Urim,,292,me-li-e-a uru₂ mu-da-gul u₃ e₂-ŋu₁₀ mu-da-gul
+c.2.2.2,The lament for Urim,,293,{d}nanna eš₃ urim₂{ki} mu-da-gul mu-lu-bi ba-ug₅-ga-eš
+c.2.2.2,The lament for Urim,,294,me-li-e-a me-a tuš-u₃-de₃ me-a gub-bu-de₃
+c.2.2.2,The lament for Urim,,295,me-li-e-a uru₂-ŋu₁₀-ta e₂ kur₂ ma-ra-an-du₃-u₃-de₃
+c.2.2.2,The lament for Urim,,296,nu-nus zid-ŋen e₂-ŋu₁₀-ta uru₂ kur₂ ma-ra-an-ŋa₂-ŋa₂-de₃
+c.2.2.2,The lament for Urim,,297,ki-bi-ta edin-ta ba₉-ra₂-a-bi a mu-lu-ŋu₁₀ ga-am₃-dug₄
+c.2.2.2,The lament for Urim,,298,uru₂-ŋu₁₀ urim₂{ki}-ta ba₉-ra₂-a-bi a uru₂-ŋu₁₀ ga-am₃-dug₄
+c.2.2.2,The lament for Urim,,299,lu₂ siki-ni numun₂-bur-gin₇ šu mu-ni-in-dub₂-dub₂
+c.2.2.2,The lament for Urim,,300,gaba-ni ub₃ kug-ga-am₃ i₃-sag₃-ge a uru₂-ŋu₁₀ im-me
+c.2.2.2,The lament for Urim,,301,igi-ni er₂-ra mi-ni-ib-zi-zi-i-zi er₂ gig i₃-še₈-še₈
+c.2.2.2,The lament for Urim,,302,me-li-e-a uru₂-ŋu₁₀ nu-me-a me-e ga-ša-an-bi nu-ŋen
+c.2.2.2,The lament for Urim,,303,{d}nanna eš₃ urim₂{ki} nu-me-a me-e mu-lu-bi nu-ŋen
+c.2.2.2,The lament for Urim,,304,me-li-e-a {e₂}tur₃ bur₁₂-ra-ŋen ab₂ sag₂ dug₄-ga-ŋen
+c.2.2.2,The lament for Urim,,305,{d}ga-ša-an-gal-ŋen na-gada pe-el-la₂-gin₇ {ŋeš}tukul ganam₄-ma bi₂-in-šub
+c.2.2.2,The lament for Urim,,306,me-li-e-a uru₂-ta e₃-a-ŋen ni₂ nu-dub₂-bu-ŋen
+c.2.2.2,The lament for Urim,,307,{d}ga-ša-an-gal-ŋen e₂-ta e₃-a-ŋen ki-tuš nu-pad₃-de₃-ŋen
+c.2.2.2,The lament for Urim,,308,i-gi₄-in-zu gir₅ uru₂ kur₂-ra saŋ il₂ tuš-a-ŋen
+c.2.2.2,The lament for Urim,,309,e₂ ur₅-ur₅-ra aŋ₂-gig-ga-am₃ saŋ-a tuš ma-ab-us₂-e
+c.2.2.2,The lament for Urim,,310,e₂ ur₅-ra mu-lu tuš-bi tuš-tuš-a gu₃ e-ne-eŋ₃ nu-dirig-ŋen
+c.2.2.2,The lament for Urim,,311,ki-ba nam uru₂-na mu-un-na-te er₂ gig i₃-še₈-še₈
+c.2.2.2,The lament for Urim,,312,nin-ra nam e₂-a-na mu-un-na-te er₂ gig i₃-še₈-še₈
+c.2.2.2,The lament for Urim,,313,nam e₂ hul-a-na mu-un-na-te er₂ gig i₃-še₈-še₈
+c.2.2.2,The lament for Urim,,314,nam uru₂ hul-a-na mu-un-na-te er₂ gig i₃-še₈-še₈
+c.2.2.2,The lament for Urim,,315,me-li-e-a na-aŋ₂ uru₂-ŋu₁₀ ga-am₃-dug₄ na-aŋ₂ uru₂-ŋu₁₀ gig-ga-am₃
+c.2.2.2,The lament for Urim,,316,nin-ŋen e₂ gul-la-ŋu₁₀ ga-am₃-dug₄ na-aŋ₂ e₂-ŋu₁₀ gig-ga-am₃
+c.2.2.2,The lament for Urim,,317,še-eb urim₂{ki}-ma a dug₄-ga-am₃ a bi₂-gi₄-a-ŋu₁₀
+c.2.2.2,The lament for Urim,,318,e₂ zid-ŋu₁₀ uru₂-ŋu₁₀ du₆-du₆-da ba-mar-re-en-na-ŋu₁₀
+c.2.2.2,The lament for Urim,,319,bur₂-ra e₂ zid gul-la-za-ka ba-e₃-de₃-nu₂-u₃-nam
+c.2.2.2,The lament for Urim,,320,gud šub-ba-gin₇ in-ŋar-zu-ta ba-ra-mu-e-da-zig₃-ga
+c.2.2.2,The lament for Urim,,321,me-li-e-a du₃-a-zu lul-la-am₃ gul-la-zu gig-ga-am₃
+c.2.2.2,The lament for Urim,,322,nu-nus-ŋen eš₃ urim₂{ki} nidba-bi i₃-ba-kur₂-ra-am₃
+c.2.2.2,The lament for Urim,,323,agrun-kug e₂ gibil-gibil-la-ŋu₁₀ la-la-bi nu-gi₄-a-ŋu₁₀
+c.2.2.2,The lament for Urim,,324,uru₂-ŋu₁₀ du₃-a la-ba-mar-ra-ŋu₁₀ ta-a-aš hul-a-ŋu₁₀
+c.2.2.2,The lament for Urim,,325,ba-gul in-ga-ba-hul-a-ŋu₁₀ ta-a-aš hul-a-ŋu₁₀
+c.2.2.2,The lament for Urim,,326,a-da-al ud hul gig dug₄-ga a₂-bi la-ba-ra-e₃
+c.2.2.2,The lament for Urim,,327,urim₂{ki}-ma e₂ {d}suen-na-ŋu₁₀ gul-la-bi gig-ga-am₃
+c.2.2.2,The lament for Urim,,328,ki-ru-gu₂ ₇-kam-ma-am₃
+c.2.2.2,The lament for Urim,,329,a uru₂-ŋu₁₀ a e₂-ŋu₁₀
+c.2.2.2,The lament for Urim,,330,ŋiš-gi-ŋal₂-bi-im
+c.2.2.2,The lament for Urim,,331,nin šag₄-zu a-gin₇ du₃-mu-un za-e a-gin₇ i₃-til₃-le-en
+c.2.2.2,The lament for Urim,,332,{d}nin-gal šag₄-zu a-gin₇ du₃-mu-un za-e a-gin₇ i₃-til₃-le-en
+c.2.2.2,The lament for Urim,,333,munus zid lu₂ uru₂ ba-e-da-gul-la i₃-ne-eš₂-gin₇ i₃-e-am₃-mu₂
+c.2.2.2,The lament for Urim,,334,{d}nin-gal lu₂ kalam ba-e-da-til-la šag₄-zu a-gin₇ du₃-mu-un
+c.2.2.2,The lament for Urim,,335,ud uru₂-zu im-ma-gul-la-ba i₃-ne-eš₂-gin₇ i₃-e-am₃-mu₂
+c.2.2.2,The lament for Urim,,336,ud e₂-zu im-ma-gul-la-ba šag₄-zu a-gin₇ du₃-mu-un
+c.2.2.2,The lament for Urim,,337,uru₂-zu uru₂ kur₂-ra ba-ab-ŋar i₃-ne-eš₂-gin₇ i₃-e-am₃-mu₂
+c.2.2.2,The lament for Urim,,338,e₂-zu er₂-re ba-an-di-ni-ib-ŋar šag₄-zu a-gin₇ du₃-mu-un
+c.2.2.2,The lament for Urim,,339,uru₂ du₆-du₆-da ba-ŋar-ra-zu mušen-bi nu-ŋen
+c.2.2.2,The lament for Urim,,340,e₂ zid {ŋeš}al-e ba-ŋar-ra-za tuš-bi-še₃ la-ba-tuš-en
+c.2.2.2,The lament for Urim,,341,uŋ₃ ki-lul-la ba-ab-re₇-a-za nin-bi-še₃ la-ba-kur₉-re-en
+c.2.2.2,The lament for Urim,,342,er₂-zu er₂ kur₂-ra ba-ab-ŋar ka-na-aŋ₂-zu nu-še₈-še₈
+c.2.2.2,The lament for Urim,,343,er₂-šag₄-ne-ša₄ nu-tuku-am₃ kur-kur im-ma-an-tuš
+c.2.2.2,The lament for Urim,,344,kalam-zu niŋ₂ dirig-gin₇ gu₃ šu ba-ni-ib-dab₅
+c.2.2.2,The lament for Urim,,345,uru₂-zu du₆-du₆-da im-ma-an-ŋar i₃-ne-eš₂-gin₇ i₃-e-am₃-mu₂
+c.2.2.2,The lament for Urim,,346,e₂-zu šag₄-sug₄-ga ba-an-du₃ šag₄-zu a-gin₇ du₃-mu-un
+c.2.2.2,The lament for Urim,,347,urim₂{ki} eš₃ lil₂-e im-ma-an-ŋar i₃-ne-eš₂-gin₇ i₃-e-am₃-mu₂
+c.2.2.2,The lament for Urim,,348,gudug-bi hi-li-a ba-ra-mu-un-ŋen šag₄-zu a-gin₇ du₃-mu-un
+c.2.2.2,The lament for Urim,,349,en-bi ŋi₆-par₃-ra ba-ra-mu-un-til i₃-ne-eš₂-gin₇ i₃-e-am₃-mu₂
+c.2.2.2,The lament for Urim,,350,uz₃-ga lu₂ šu-luh-e ki aŋ₂-e šu-luh nu-mu-ra-an-ŋa₂-ŋa₂
+c.2.2.2,The lament for Urim,,351,a-a {d}nanna išib-zu šita kug-ga šu nu-mu-ra-ni-in-du₇
+c.2.2.2,The lament for Urim,,352,lu₂-mah-zu gi-gun₄-na kug-zu šag₄ gada la-ba-an-la₂
+c.2.2.2,The lament for Urim,,353,en zid šag₄ hi-li-a pad₃-da-zu e₂-kiš-nu-ŋal₂-la-am₃
+c.2.2.2,The lament for Urim,,354,eš₃-da ŋi₆-par₃-še₃ hul₂-la-na nu-mu-ni-in-dib-dib-be₂
+c.2.2.2,The lament for Urim,,355,a-u₃-a e₂ ezem-ma-za ezen nu-mu-ni-in-dug₃-ge-eš
+c.2.2.2,The lament for Urim,,356,šem₃ {kuš}a₂-la₂-e niŋ₂ šag₄ hul₂-le-da tigi-a nu-mu-ra-an-du₁₂-uš
+c.2.2.2,The lament for Urim,,357,uŋ₃ saŋ gig₂-ga ezen-zu-še₃ a la-ba-an-tu₅-tu₅-ne
+c.2.2.2,The lament for Urim,,358,gu-gin₇ mu-dur₇-ra nam ha-ba-ni-in-tar ulutim₂-bi ha-ba-an-kur₂
+c.2.2.2,The lament for Urim,,359,en₃-du-zu er₂-ra ba-e-da-an-kur₉ en₃-tukum-še₃ mu₂
+c.2.2.2,The lament for Urim,,360,tigi-zu a-nir-ra ba-e-da-an-kur₉ en₃-tukum-še₃ mu₂
+c.2.2.2,The lament for Urim,,361,gud-zu tur₃-bi-a ba-ra-mu-un-de₆ i₃-bi nu-mu-ra-ak-e
+c.2.2.2,The lament for Urim,,362,udu-zu amaš-bi-a ba-ra-mu-un-dur₂-ru ga-bi nu-mu-ra-dulu-e
+c.2.2.2,The lament for Urim,,363,i₃ gur₃-ru-zu tur₃-ta nu-mu-ra-de₆ en₃-tukum-še₃ mu₂
+c.2.2.2,The lament for Urim,,364,ga gur₃-ru-zu amaš-ta nu-mu-ra-de₆ en₃-tukum-še₃ mu₂
+c.2.2.2,The lament for Urim,,365,šu-peš ku₆ gur₃-ru-zu hul-ŋal₂-e ba-an-dab₅ en₃-tukum-še₃ mu₂
+c.2.2.2,The lament for Urim,,366,mušen-du₃ mušen gur₃-ru-zu ŋir₂-ŋir₂-re im-DU
+c.2.2.2,The lament for Urim,,367,id₂ ma₂-gur₈-ra ba-ab-du₇-a-zu šag₄-ba teme{sar} ba-mu₂
+c.2.2.2,The lament for Urim,,368,har-ra-an {ŋeš}gigir-ra ba-ab-ŋar-ra-za {ŋeš}kiši₁₆ kur-ra ba-mu₂
+c.2.2.2,The lament for Urim,,369,nin-ŋu₁₀ uru₂-zu ama-bi-gin₇-nam er₂ mu-e-ši-še₈-še₈
+c.2.2.2,The lament for Urim,,370,urim₂{ki}-ma dumu sila ha-lam-ma-gin₇ ki mu-e-ši-kiŋ₂-kiŋ₂
+c.2.2.2,The lament for Urim,,371,e₂-zu lu₂ niŋ₂ u₂-gu de₂-a-gin₇ šu mu-e-ši-ša-an-ša
+c.2.2.2,The lament for Urim,,372,šeg₁₂ e₂ zid-da-zu lu₂-ulu₃-gin₇ me-a-zu im-me
+c.2.2.2,The lament for Urim,,373,nin-ŋu₁₀ e₂-ta e₃-a he₂-me-en uru₂-ta ba-ra-e₃-me-en
+c.2.2.2,The lament for Urim,,374,en₃-še₃-am₃ uru₂-za lu₂-erim₂-gin₇ bar-ta ba-e-da-gub
+c.2.2.2,The lament for Urim,,375,ama {d}nin-gal uru₂-zu lu₂-erim₂-gin₇ gaba-za ba-e-de₃-sa₂
+c.2.2.2,The lament for Urim,,376,nin uru₂-ni ki aŋ₂ he₂-me-en-na amaš-zu-ta ba-e-ni-tag
+c.2.2.2,The lament for Urim,,377,kalam-ma-ni-še₃ kuš₂-u₃ he₂-me-en-na za-e izi-ba mu-un-tag
+c.2.2.2,The lament for Urim,,378,ama {d}nin-gal gud-gin₇ tur₃-zu-še₃ udu-gin₇ amaš-zu-še₃
+c.2.2.2,The lament for Urim,,379,gud-gin₇ tur₃ ud-bi-ta-še₃ udu-gin₇ amaš-zu-še₃
+c.2.2.2,The lament for Urim,,380,dumu ban₃-da-gin₇ ama₅-zu-še₃ nin-ŋu₁₀ e₂-zu-še₃
+c.2.2.2,The lament for Urim,,381,an lugal diŋir-re-e-ne-ke₄ muš₃-am₃-zu he₂-em-me
+c.2.2.2,The lament for Urim,,382,{d}en-lil₂ lugal kur-kur-ra-ke₄ nam-zu he₂-eb-tar-re
+c.2.2.2,The lament for Urim,,383,uru₂-zu ki-bi ha-ra-ab-gi₄-gi₄ nam-nin-bi ak-a
+c.2.2.2,The lament for Urim,,384,nibru{ki} ki-bi ha-ra-ab-gi₄-gi₄ nam-nin-bi ak-a
+c.2.2.2,The lament for Urim,,385,urim₂{ki} ki-bi ha-ra-ab-gi₄-gi₄ nam-nin-bi ak-a
+c.2.2.2,The lament for Urim,,386,i₃-si-in{ki} ki-bi ha-ra-ab-gi₄-gi₄ nam-nin-bi ak-a
+c.2.2.2,The lament for Urim,,387,ki-ru-gu₂ ₈-kam-ma-am₃
+c.2.2.2,The lament for Urim,,388,me-ŋu₁₀ mu-da-kur₂-ra-am₃
+c.2.2.2,The lament for Urim,,389,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.2,The lament for Urim,,390,e ud-de₃ ud-de₃ kalam teš₂-a mi-ni-ib-ra
+c.2.2.2,The lament for Urim,,391,ud gal an-na-ke₄ ud gu₃ dub₂-dub₂-be₂
+c.2.2.2,The lament for Urim,,392,ud gig-ga kalam-ma ba-e-zal-la re
+c.2.2.2,The lament for Urim,,393,ud uru₂ gul-gul-e ud e₂ gul-gul-e
+c.2.2.2,The lament for Urim,,394,ud tur₃ gul-gul-e ud amaš tab-tab-be₂
+c.2.2.2,The lament for Urim,,395,ŋarza kug-ga šu bi₂-ib₂-la₂-a re
+c.2.2.2,The lament for Urim,,396,ŋalga niŋ₂ aratta{ki}-ka šu pe-el-la₂ im-mi-ib-dug₄-ga re
+c.2.2.2,The lament for Urim,,397,ud kalam-ma niŋ₂ dug₃ im-mi-ib-kud-da re
+c.2.2.2,The lament for Urim,,398,ud saŋ gig₂-ga a₂ bi₂-ib-la₂-a re
+c.2.2.2,The lament for Urim,,399,ki-ru-gu₂ ₉-kam-ma-am₃
+c.2.2.2,The lament for Urim,,400,ud re ud igi-ba teš₂ nu-ŋal₂-la re
+c.2.2.2,The lament for Urim,,401,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.2,The lament for Urim,,402,ud ama nu-zu re ud a-a nu-zu re
+c.2.2.2,The lament for Urim,,403,ud dam nu-zu re ud dumu nu-zu re
+c.2.2.2,The lament for Urim,,404,ud nin₉ nu-zu re ud šeš nu-zu re
+c.2.2.2,The lament for Urim,,405,ud ušur nu-zu re ud ma-la nu-zu re
+c.2.2.2,The lament for Urim,,406,ud dam im-šub-ba ud dumu im-šub-ba re
+c.2.2.2,The lament for Urim,,407,ud-de₃ ud kalam-ma u₂-gu bi₂-ib-de₂-a re
+c.2.2.2,The lament for Urim,,408,ud hul gig dug₄-ga {d}en-lil₂-la₂-ta im-mi-in-zal-la re
+c.2.2.2,The lament for Urim,,409,a-a {d}nanna ud-bi uru₂-zu-ta ki nam-ba-ŋa₂-ŋa₂
+c.2.2.2,The lament for Urim,,410,uŋ₃ saŋ gig₂-zu igi nam-bi₂-ib-du₈
+c.2.2.2,The lament for Urim,,411,ud-bi im an-ta šeŋ₃-ŋe₂₆-gin₇ ki-tuš-bi nam-ba-gur-ru
+c.2.2.2,The lament for Urim,,412,niŋ₂-zi-ŋal₂ an ki saŋ gig₂ im-ma-an-dub₂-ba re
+c.2.2.2,The lament for Urim,,413,ud-ba du₃-a-bi he₂-em-ma-gul-lu
+c.2.2.2,The lament for Urim,,414,abula ŋi₆ u₃-na-gin₇ {ŋeš}ig he₂-bi₂-in-keše₂-da
+c.2.2.2,The lament for Urim,,415,ud-ba šudum-ma na-an-ni-ŋa₂-ŋa₂
+c.2.2.2,The lament for Urim,,416,niŋ₂-kas₇-bi e₂ {d}en-lil₂-la₂-ta {ŋeš}gag-ta he₂-em-ta-si-ig
+c.2.2.2,The lament for Urim,,417,ki-ru-gu₂ ₁₀-kam-ma-am₃
+c.2.2.2,The lament for Urim,,418,ud ul ud kur₂-ra ud-da eŋer-bi-še₃
+c.2.2.2,The lament for Urim,,419,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.2,The lament for Urim,,420,ud ul kalam ki ŋar-ra-še₃
+c.2.2.2,The lament for Urim,,421,{d}nanna lu₂ sun₅-na ŋiri₃-zu mu-un-dab₅-be₂
+c.2.2.2,The lament for Urim,,422,er₂ e₂ sig₉-ga-bi mu-ra-an-de₆ igi-zu-še₃ du₁₂-a-bi
+c.2.2.2,The lament for Urim,,423,saŋ gig₂ ba-ra-šub-bu-uš-a-bi giri₁₇ šu ha-ra-ab-tag-ge-ne
+c.2.2.2,The lament for Urim,,424,uru₂ du₆-du₆-da ba-an-ŋar-ra-za i-si-iš hu-mu-ra-an-ŋa₂-ŋa₂
+c.2.2.2,The lament for Urim,,425,{d}nanna uru₂{ki} ki-bi gi₄-a-za pa e₃ ha-ra-ab-ak-e
+c.2.2.2,The lament for Urim,,426,mul-an kug-gin₇ nam-mu-un-ha-lam-e igi-zu he₂-bi₂-ib-dib₂-be₂
+c.2.2.2,The lament for Urim,,427,diŋir lu₂-u₁₈-lu-ke₄ kadra mu-ra-an-de₆
+c.2.2.2,The lament for Urim,,428,lu₂ sizkur₂-ra-ke₄ a-ra-zu mu-ra-ab-be₂
+c.2.2.2,The lament for Urim,,429,{d}nanna arhuš kalam-ma-me-en
+c.2.2.2,The lament for Urim,,430,en {d}aš-im₂-babbar šag₄-zu im-mi-ib-dug₄-ga re
+c.2.2.2,The lament for Urim,,431,{d}nanna lu₂-ulu₃-bi nam-tag-ga-ni u₃-mu-e-du₈
+c.2.2.2,The lament for Urim,,432,lu₂ a-ra-zu im-me-a-bi šag₄ ha-ba-na-huŋ-e
+c.2.2.2,The lament for Urim,,432A,diŋir lu₂-ba-ke₄ kadra mu-ra-an-de₆
+c.2.2.2,The lament for Urim,,433,lu₂ sizkur₂-ra mu-un-gub-ba-bi-ir igi zid mu-un-ši-in-bar
+c.2.2.2,The lament for Urim,,434,{d}nanna igi du₈-a bar-ra-zu šag₄ šu niŋin sug₄-ga-am₃
+c.2.2.2,The lament for Urim,,435,lu₂-ulu₃-bi ud hul du₃-a-ba he₂-em-ma-an-ši-kug-ge
+c.2.2.2,The lament for Urim,,436,šag₄ kalam-ma ŋal₂-la-zu he₂-em-ma-an-ši-kug-ge
+c.2.2.2,The lament for Urim,,437,{d}nanna uru₂ ki-bi gi₄-a-za me-teš₂ he₂-i-i
+c.2.2.2,The lament for Urim,,438,ki-ru-gu₂ ₁₁-kam-ma-am₃

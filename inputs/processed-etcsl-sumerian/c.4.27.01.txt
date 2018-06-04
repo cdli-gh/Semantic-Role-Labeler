@@ -1,0 +1,41 @@
+id_text,text_name,version,l_no,text
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,A1,ur-saŋ dumu nir-ŋal₂ {d}en-lil₂-la₂
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,A2,{d}nin-urta gud huš nam-nun-na tum₂-ma
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,A3,meš₃ e₂-šu-me-ša₄ pa e₃-a
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,A4,he₂-du₇ e₂-kur-ra di-kud si sa₂
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,A5,lugal diŋir-re-e-ne
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,A6,gud du₇-du₇ ki-bal-a ŋiri₃ gub
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,A7,{d}nin-urta en e₂-šu-me-ša₄-ke₄
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,A8,barag an-na-ke₄ dur₂ nam-mi-in-ŋar
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,A9,ud-sakar gibil-am₃ uŋ₃-e pa am₃-X-e₃
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,A10,{d}nanna an uraš-a
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,A11,ŋidru kug-an sud-aŋ₂ šu-na ŋal₂-la-am₃
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,A12,men zid an-na saŋ-ŋa₂ ŋal₂-la-am₃
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,A13,{d}utu ha-šu-ur₂-ta e₃-am₃
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,A14,{d}nanna kur un₃-na gub-ba-am₃
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,A15,en kisal
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,A16,lugal ama₅ kur-ra in-tud-X
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,A17,dub-us₂
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B1,e-ne di
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B2,teš₂ dug₄-ga
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B3,bad-da en {d}nin-urta-ke₄
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B4,me šar₂-ra unu₂ la₂ šuba
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B5,{d}inana hi-li sag₉ il₂-la-na
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B6,en ki gal an-na si la₂
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B7,abzu-a muš₃ nu-tum₂-mu-da
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B8,en pap-šeš e₂ me dug₃-dug₃-ga-X
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B9,{d}en-ki-ke₄ eš₃ abzu-a šu mu₂-mu₂-da
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B10,abzu-gin₇ ŋeštug₂ mah kalam-ma sig₉-ga
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B11,ulu₃-ba e₂ sikil-la-ka-ni
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B12,mi₂ dug₄-ga-ni
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B13,šeš-a pad₃-da-ni
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B14,e₂ {ŋeš}erin-na
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B15,šag₄-tum₂-ma izi ŋar-ra-ni
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B16,en kug kur un₃-na gub-bu-de₃
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B17,ŋiš-nu₁₁ en-nu-uŋ₃ ak-de₃
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B18,itid-da eš₃ gal-la muš₃ nu-tum₂-mu-de₃
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B19,u₄-ta-u₁₈-lu en diŋir-re-e-ne
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B20,ur-saŋ gal an-na en gal {d}en-lil₂-la₂
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B21,{d}nin-urta dumu mah e₂-kur-ra
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B22,nir-ŋal₂ a-a ugu-na za₃-mi₂-zu dug₃-ga-am₃
+c.4.27.01,A šir-gida to Ninurta (Ninurta A),,B23,šir₃-gid₂-du {d}nin-urta-kam

@@ -1,0 +1,19 @@
+id_text,text_name,version,l_no,text
+c.3.2.04,Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy,,1,{m}{d}nanna-ki-aŋ₂ ra-bi-si₂-ka₃-tum-ma
+c.3.2.04,Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy,,2,u₃-na-dug₄
+c.3.2.04,Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy,,3,{m}li-pi₂-it-eš₄-tar₂ lugal-zu na-ab-be₂-a
+c.3.2.04,Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy,,4,mu erin₂ lu₂-kur₂-ra-ke₄ lugal u₃-na-dug₄ šu mu-e-taka₄
+c.3.2.04,Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy,,5,{m}at-ta₂-ma-nu-um lu₂ lugal-a-ni-ir bi₂-in-sag₉-ge
+c.3.2.04,Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy,,6,dirig-zu-še₃ arad lugal-a-ni-ir
+c.3.2.04,Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy,,7,a-na-aš-am₃ ŋe₂₆-e nu-zu-ŋu₁₀-ta za-e šu ŋar lugal-zu li-bi₂-in-gi₄
+c.3.2.04,Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy,,7A,ne-eš₂ erin₂ mu-un-ŋa₂-ŋa₂-e
+c.3.2.04,Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy,,8,a₂-še ₂ li-mu-um erin₂ lu₂ {ŋeš}šukur
+c.3.2.04,Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy,,9,₂ li-mu-um erin₂ lu₂ {ŋeš}pan
+c.3.2.04,Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy,,10,₂ li-mu-um erin₂ lu₂ dur₁₀-tab-ba im-mu-e-ši-sar
+c.3.2.04,Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy,,11,lu₂-kur₂ iri-gibil-a al-dur₂-ru-ne-eš
+c.3.2.04,Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy,,12,ki-tuš-bi-ta sar-bi₂-ib
+c.3.2.04,Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy,,13,šu i₃-ŋar-re-ne nam
+c.3.2.04,Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy,,14,iri dili-dili zag-ba zag-za en-nu-uŋ₃-bi ak-X-ab
+c.3.2.04,Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy,,15,iri-bi šu-zu-ta la-ba-ra-e₃
+c.3.2.04,Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy,,16,nam-lu₂-ulu₃-zu ŋar-bi₂-ib
+c.3.2.04,Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy,,17,a-ma-ru-kam

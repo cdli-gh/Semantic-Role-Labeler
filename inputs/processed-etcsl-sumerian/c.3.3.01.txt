@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+c.3.3.01,Letter from Ur-saga to a king fearing the loss of his father's household,,1,lugal gud igi gun₃ sun₄ {na₄}za-gin₃ la₂-ŋu₁₀-ur₂
+c.3.3.01,Letter from Ur-saga to a king fearing the loss of his father's household,,2,u₃-na-a-dug₄
+c.3.3.01,Letter from Ur-saga to a king fearing the loss of his father's household,,3,alan kug-sig₁₇ ud dug₃-ga tud-da
+c.3.3.01,Letter from Ur-saga to a king fearing the loss of his father's household,,4,ab₂-za-za amaš kug-ga buluŋ₃-ŋa₂ šag₄ kug {d}inana-ta pad₃-da
+c.3.3.01,Letter from Ur-saga to a king fearing the loss of his father's household,,5,en nir-ŋal₂ {d}inana-ŋu₁₀-ur₂ u₃-na-de₃-tah
+c.3.3.01,Letter from Ur-saga to a king fearing the loss of his father's household,,6,za-e dim₂-ma-zu dumu an-na-me-en
+c.3.3.01,Letter from Ur-saga to a king fearing the loss of his father's household,,7,dug₄-ga-zu inim diŋir-ra-gin₇ hur nu-gi₄-gi₄-dam
+c.3.3.01,Letter from Ur-saga to a king fearing the loss of his father's household,,8,inim-zu im an-ta šeŋ₃-ŋe₂₆-gin₇ šid nu-tuku-tuku-dam
+c.3.3.01,Letter from Ur-saga to a king fearing the loss of his father's household,,9,{m}ur-sag₉-ga arad-zu na-ab-be₂-a
+c.3.3.01,Letter from Ur-saga to a king fearing the loss of his father's household,,10,lugal-ŋu₁₀ bar-ŋa₂ en₃ bi₂-in-tar dumu urim₂{ki}-ma-me-en
+c.3.3.01,Letter from Ur-saga to a king fearing the loss of his father's household,,11,tukum-bi lugal-ŋa₂ an-na-kam
+c.3.3.01,Letter from Ur-saga to a king fearing the loss of his father's household,,12,e₂ ad-da-ŋa₂ lu₂ nam-ba-ab-tum₃
+c.3.3.01,Letter from Ur-saga to a king fearing the loss of his father's household,,13,ki-ur₃ e₂ ad-da-ŋa₂ lu₂ nam-mu-da-an-kar-re
+c.3.3.01,Letter from Ur-saga to a king fearing the loss of his father's household,,14,lugal-ŋu₁₀ he₂-en-zu

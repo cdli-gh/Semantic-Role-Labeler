@@ -1,0 +1,19 @@
+id_text,text_name,version,l_no,text
+c.3.1.18,Letter from Ibbi-Suen to Išbi-Erra about his bad conduct,,1,{d}iš-bi-er₃-ra-ra u₃-na-a-dug₄
+c.3.1.18,Letter from Ibbi-Suen to Išbi-Erra about his bad conduct,,2,{d}i-bi₂-{d}suen lugal-zu na-ab-be₂-a
+c.3.1.18,Letter from Ibbi-Suen to Išbi-Erra about his bad conduct,,3,en-na {d}en-lil₂ lugal-ŋu₁₀ me-še₃ i-im-ŋen-ne-en
+c.3.1.18,Letter from Ibbi-Suen to Išbi-Erra about his bad conduct,,4,za-e ur₅-gin₇ ka i₃-bal-e
+c.3.1.18,Letter from Ibbi-Suen to Išbi-Erra about his bad conduct,,5,ud-da {d}en-lil₂-le ŋa₂-a-ra hul ba-an-gig
+c.3.1.18,Letter from Ibbi-Suen to Išbi-Erra about his bad conduct,,6,dumu-ni {d}suen-na-ra hul ba-an-gig
+c.3.1.18,Letter from Ibbi-Suen to Išbi-Erra about his bad conduct,,7,urim₂{ki} lu₂-kur₂-ra bi₂-in-šum₂-mu
+c.3.1.18,Letter from Ibbi-Suen to Išbi-Erra about his bad conduct,,8,ki šag₄-ba nu-me-a lu₂-kur₂ im-zig₃-ge kur-kur im-suh₃-suh₃
+c.3.1.18,Letter from Ibbi-Suen to Išbi-Erra about his bad conduct,,9,ud {d}en-lil₂-le dumu-ni {d}suen-na-ra im-me-gur
+c.3.1.18,Letter from Ibbi-Suen to Išbi-Erra about his bad conduct,,10,za-e inim-zu ŋiškim im-ma-an-tuku
+c.3.1.18,Letter from Ibbi-Suen to Išbi-Erra about his bad conduct,,11,₂₀ gun₂ kug-babbar še sa₁₀-e-de₃ šu ba-e-ti
+c.3.1.18,Letter from Ibbi-Suen to Išbi-Erra about his bad conduct,,12,₂ še gur-ta-am₃ kug-babbar ₁ giŋ₄-e bi₂-in-sa₁₀-sa₁₀-e
+c.3.1.18,Letter from Ibbi-Suen to Išbi-Erra about his bad conduct,,13,ŋa₂-a-ra ₁ še gur-ta-am₃ za-e mu-un-gen₆
+c.3.1.18,Letter from Ibbi-Suen to Išbi-Erra about his bad conduct,,14,puzur₄-{d}nu-muš-da šagina bad₃ igi-hur-saŋ-ŋa₂
+c.3.1.18,Letter from Ibbi-Suen to Išbi-Erra about his bad conduct,,15,mar-tu lu₂-kur₂-ra šag₄ kalam-ma-ŋu₁₀-še₃ a-gin₇ im-da-an-kur₉-re-en
+c.3.1.18,Letter from Ibbi-Suen to Išbi-Erra about his bad conduct,,16,en-na {ŋeš}tukul sag₃-ge-de₃ nam-mu-e-ši-in-gi
+c.3.1.18,Letter from Ibbi-Suen to Išbi-Erra about his bad conduct,,17,lu₂ saŋ-du nu-tuku kalam-ma i₃-ŋal₂-la
+c.3.1.18,Letter from Ibbi-Suen to Išbi-Erra about his bad conduct,,18,a-gin₇ mar-tu-e an-ta nam-mu-ši-in-gi

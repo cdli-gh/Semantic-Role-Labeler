@@ -1,0 +1,54 @@
+id_text,text_name,version,l_no,text
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A1,nu-mu-e-de₃-RI-RI-X
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A2,šeš-ŋu₁₀ nu-mu-e-de₃-RI-RI-X
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A3,gi-ru nu-mu-e-de₃-RI-RI-X
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A4,ki-ga aŋ₂-ŋu₁₀ nu-mu-e-de₃-RI-RI
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A5,i-bi₂ sag₉-sag₉-ŋu₁₀ nu-mu-e-de₃-RI-RI
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A6,an-bi šu-ŋa₂ nu-mu-e-de₃-ŋa₂-ŋa₂
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A7,garadin₃-bi ma-a-ar
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A8,ma-a-ar nu-ku₇-ku₇-X
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A9,še guru₇
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A10,nin₉-ŋu₁₀ gana₂-ŋu₁₀-še₃ ŋe₂₆-e ga-ba-e-de₃-ŋen
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A11,nin₉ sag₉-ga-ŋu₁₀ gana₂-ŋu₁₀-še₃ ŋe₂₆-e ga-ba-e-de₃-ŋen
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A12,gana₂ gal-ŋu₁₀-še₃ ŋe₂₆-e ga-ba-e-de₃-ŋen
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A13,gana₂ tur-ŋu₁₀-še₃ ŋe₂₆-e ga-ba-e-de₃-ŋen
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A14,še nim a šu-nim-bi dug₄-ga-ŋu₁₀-še₃
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A15,še sig a sig-bi dug₄-ga-ŋu₁₀-še₃
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A16,še-bi a gurun-na
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A17,garadin₃-bi
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A18,nin₉-ŋu₁₀ gana₂-ŋu₁₀-še₃ ŋe₂₆-e ga-ba-e-de₃-ŋen
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A19,nin₉ sag₉-ga-ŋu₁₀ gana₂-ŋu₁₀-še₃ ŋe₂₆-e ga-ba-e-de₃-ŋen
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A20,gana₂ gal-gal
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A21,gana₂ tur-ŋa₂ šu
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A22,
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,A23,
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B1,
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B2,ba-hul
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B3,garadin₃-na-ka
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B4,ba-hul
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B5,garadin₃-na-ka
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B6,mu-un-gar₃ a-šag₄ ur₁₁-ru ŋar-ra
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B7,u₃-mu-un šul-gi-ra še
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B8,a-šag₄ ur₁₁-ru ŋar-ra
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B9,gur ab-ba-še₃ sa₂-dug₄ šu ha-ra-an-il₂
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B10,nin₉-ŋu₁₀ {ŋeš}kiri₆-ŋu₁₀-še₃ ŋe₂₆-e ga-ba-e-de₃-ŋen
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B11,nin₉ sag₉-ga-ŋu₁₀ {ŋeš}kiri₆-ŋu₁₀-še₃ ŋe₂₆-e ga-ba-e-de₃-ŋen
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B12,nin₉-ŋu₁₀ {ŋeš}kiri₆-ŋu₁₀-še₃ ŋe₂₆-e ga-ba-e-de₃-ŋen
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B13,nin₉-ŋu₁₀ {ŋeš}kiri₆-ŋu₁₀
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B14,{ŋeš}ildag₂
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B15,šita₃ {ŋeš}ildag₂-ŋu₁₀-še₃ ga-ba-e-de₃-ŋen
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B16,nin₉-ŋu₁₀ {ŋeš}hašhur-ŋu₁₀-še₃ ga-ba-e-de₃-ŋen
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B17,{ŋeš}hašhur šu-ŋa₂ he₂-ŋal₂
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B18,nin₉-ŋu₁₀ {ŋeš}nu-ur₂-ma-ŋu₁₀-še₃ ga-ba-e-de₃-ŋen
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B19,lal₃-e dar-ra X-ku₇ in-ga-ba-ni-ib-DU
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B20,nin₉-ŋu₁₀ {ŋeš}kiri₆-ŋu₁₀-še₃ ga-ba-e-de₃-ŋen
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B21,nin₉ sag₉-ga {ŋeš}kiri₆-ŋu₁₀-še₃ ga-ba-e-de₃-ŋen
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B22,nisig ki-en-DU-na-gin₇
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B23,
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B24,hi-iz gakkul dug₄-ga
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B25,niŋ₂ X-la₂{sar}
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B26,X{sar}
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B27,guru₇-za
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B28,
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B29,nin₉ sag₉-ga šag₄ hi-li-e-a
+c.2.4.2.26,A love song of Šulgi (Šulgi Z),,B30,an-na šu-ŋa₂ za-ra

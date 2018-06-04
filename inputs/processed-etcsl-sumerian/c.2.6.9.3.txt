@@ -1,0 +1,30 @@
+id_text,text_name,version,l_no,text
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,1,sipad mu pad₃-da an kug-ge nam gal an-na tar
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,2,{d}ri-im-{d}suen mu pad₃-da an kug-ge nam gal an-na tar
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,3,nun šag₄ zid-ta nam-lugal-la mu-un-sa₂
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,4,nam-men uŋ₃ šar₂-ra-še₃ gal-le-eš kiŋ₂-kiŋ₂-en
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,5,larsam{ki}-ma kur me nam-nun-na de₂-a
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,6,nam-sipad ki-en-gi ki-uri-še₃ zid-de-eš pad₃-da-me-en
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,7,an gal mah an ki-a en niŋ₂-nam gal-zu
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,8,a-a diŋir-re-e-ne nam tar-tar-re-de₃ ki-bi-še₃ ši-ŋar
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,9,dug₄-ga dugud inim-bi nu-silig-ge
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,10,an-šag₄-ga sikil-la ŋal₂
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,11,nun {d}ri-im-{d}suen sipad šag₄-ge de₆-a-ne-me-en
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,12,an gal-e šag₄ ki aŋ₂-ŋa₂-ni dalla hu-mu-ra-ni-in-e₃
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,13,niŋ₂-si-sa₂-zu-še₃ gu₃ zid-de₃-eš hu-mu-ra-ab-de
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,14,an šag₄-ge su₃-ra₂ ud nam-til₃-zu hu-mu-ra-ab-dirig-ga
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,15,nam-lugal kur niŋ₂-daŋal-la ud su₃-ra₂-še₃ hu-mu-ra-ab-šum₂
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,16,inim kug-ga-ne-ne-a nam nam-til₃-la hu-mu-ra-ab-tar
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,17,dug₄-ga niŋ₂-nam nu-kur₂-da zi su₃-ra₂ hu-mu-ra-ab-tah
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,18,aga kug-ge saŋ-za-a he₂-ne₂-eb-ge-en
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,19,{ŋeš}gu-za nam-til₃-la-ka gal-bi hu-mu-ra-ab-tuš
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,20,u₃-luh niŋ₂-si-sa₂ šu-zu-še₃ hu-mu-ra-ab-si
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,21,ešgiri₂ kalam ge-en-ge-en su-zu-a he₂-bi₂-la
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,22,šibir uŋ₃ lu-a hu-mu-ra-ab-dab₅
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,23,ubur an sud-aŋ₂ ŋal₂ hu-mu-ra-ab-taka₄ šeŋₓ an-na hu-mu-ra-ab-šeŋ₃
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,24,mu ma-da ud nam-he₂ an-šag₄-ta zag hu-mu-ra-ab-keše₂
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,25,iti₆ niŋ₂ giri₁₇-zal šag₄ hul₂-la ud-zu-še₃ hu-mu-ra-ab-ŋar
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,26,bal niŋ₂ dug₃ niŋ₂-si-su si-a šu-zu-še₃ hu-mu-ra-ab-ŋar
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,27,an gal-e su₃-ra₂-še₃ a₂-bad-ŋal₂ nam-lugal-la-zu he₂-a
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,28,{d}ri-im-{d}suen lugal-ŋu₁₀
+c.2.6.9.3,A prayer to An for Rīm-Sîn (Rīm-Sîn C),,29,₂₈ mu-ni šudu₃-de₃ an

@@ -1,0 +1,42 @@
+id_text,text_name,version,l_no,text
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,1,en eš-bar galam diŋir-re-e-ne sig nim-ma u₁₈-ru-bi
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,2,ešgiri₂ šu du₈ nam-bi tar-tar {d}a-nun-na sub₂-su₈-ub
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,3,me niŋ₂-nam-ma dili-ni zag dib en gal zi-ŋal₂
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,4,nam-diŋir-bi-še₃ ₁-a-ni pa e₃
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,5,dug₄-ga-dug₄-ga-ni niŋ₂-zid mu₂-mu₂ me an ki gen₆-ne₂-me-en
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,6,ŋiš-hur bar tam-me si sa₂-e nun gal-bi zu-zu-me-en
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,7,en numun i nam dug₃-bi tud-tud us₂ dab₅-bi pad₃-pad₃
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,8,ŋarza mah saŋ-gu₂-ŋal₂-la-bi u₂-gin₇ zid-de₃-eš mu₂
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,9,ŋidru šum₂-šum₂ aga₃ zid hal-ha mu mah-bi sa₄-sa₄
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,10,nam-diŋir-bi ud ul su₃-ra₂-še₃ an ki-da ŋa₂-ŋa₂
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,11,nun da-ri₂ mu₂-mu₂ ki za igi i₃-ŋal₂
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,12,en umuš galam dim₂-ma ŋalga sud ŋeštug₂ bad-e du₇
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,13,diŋir zid niŋ₂-nam-ma-ni ka-ge-e dib₂
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,14,ad gi₄-gi₄ en a-ga-na šag₄ kuš₂-u₃ šim-gin₇ ta-ta-hab₂
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,15,nun šag₄ su₃-ra₂ inim-ma nu-kam₃-me nam-zu-ni daŋal bur₂
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,16,kug-zu gal-an-zu en igi-ŋal₂ šag₄ daŋal niŋ₂-nam-ma zu
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,17,diŋir-re-e-ne-er šu-mu-un-ne-mah-en
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,18,{d}a-nun-na-ke₄-ne za-e šu-mu-un-ne-il₂-en
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,19,me-zu me-bi-ta dirig suh-a-am₃
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,20,me kal-kal me niŋ₂ galam-ma-zu saŋ keše₂ me zid-bi-im
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,21,u₁₈-ru-zu li-ib-gin₇ šu-mu-ne-us₂ u₁₈-lu-gin₇ šu-mu-ne-dul
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,22,niŋ₂-me-ŋar-gin₇ mu-ne-e-ŋar AŠ+MAŠ-gin₇ šu-mu-ne-šu₂
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,23,nam-mah-za hur-saŋ su₃-ud bad-gin₇ umuš-bi ša-ra-ni-ib-gi₄
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,24,uŋ₃ ŋar-ŋar-ra-bi en a-a-bi-me-en
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,25,nu-DI-DI-a sipad u₂ kiŋ₂-kiŋ₂-bi-me-en
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,26,ama a-a-bi-gin₇ mu-ne-dug₄ uŋ₃ gu₇ naŋ sug₄-sug₄-bi-me-en
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,27,sa₂ mu-e-ŋar ŋeštug₂ mu-e-gub-gub kiŋ₂ galam-ma ak-X
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,28,e₂ umuš ŋar ŋeštug₂ dirig-zu ŋal₂ bi₂-taka₄
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,29,niŋ₂-nam u₃-tud-zu šu ta-hab₂ dug₄-ga-bi
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,30,ni₂ gal guru₃ ki su zig₃ ri-a
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,31,du₆ du₃-a ki en ul dur₂-ru-na-ba
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,32,za-e mu-ni-BUR₂-BUR₂ gal-bi
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,33,a-a {d}en-lil₂ sa₂ bi₂-dug₄
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,34,ŋeštug₂
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,35,taka₄ a su₃-bi
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,36,me ŋiš-hur kal-kal-za
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,37,
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,38,niŋ₂ galam im-mi-in-e₃
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,39,nam-tar šag₄-ba mu-ni-ŋar
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,40,eš₃ im-mi-sa₄-X
+c.2.5.4.24,A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X),,41,a-ŋa₂-ri-in dib

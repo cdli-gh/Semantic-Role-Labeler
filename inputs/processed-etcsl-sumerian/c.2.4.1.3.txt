@@ -1,0 +1,115 @@
+id_text,text_name,version,l_no,text
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,1,iri me dug₃-dug₃-ga barag mah nam-lugal-la
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,2,eš₃ urim₅{ki} gu₂-gal ki-en-gi-ra ki kug-ga du₃-a
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,3,iri bad₃ gal ki ŋar-ra-zu abzu-ta mu₂-a
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,4,iri an-gin₇ sig₇-ga hi-li gur₃-ru ki gal-la gun₃-gun₃
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,5,eš₃ urim₅{ki} ŋi₆-par₄ ki ŋar-ra ki-tuš an {d}en-lil₂-la₂
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,6,e₂-gal mah-zu e₂-kiš-nu-ŋal₂ šag₄-ga nam tar-ra
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,7,dub-la₂-zu me-lem₄ du₈-du₈-a kur-kur-ra dirig-ga
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,8,gi-gun₄-na-bi dungu babbar-gin₇ an-šag₄-ga u₆ di
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,9,{ŋeš}RU-bi nim ŋir₂-ŋir₂-e-gin₇ eš₃ šag₄-ga kumₓ-kumₓ-mu
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,10,₁ gud {ŋeš}šudul₄-a-gin₇ ur₂ gur-ra kug da-ra-ga
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,11,{ŋeš}banšur sikil-la ki aŋ₂ {d}suen-na
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,12,e₂-kiš-nu-ŋal₂ {ŋeš}banšur sikil-la ki aŋ₂ {d}suen-na
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,13,lugal KI.LUGAL.GUB-la he₂-du₇-bi kisal mah-e si-a
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,14,ur-{d}namma uru₁₆ a₂ nun gi₄-a {d}en-X
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,15,urim₅{ki} iri daŋal-ba
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,16,pa ba-e-ni-a-e₃
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,17,nir-ŋal₂-e
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,18,ni₂-te-a-ni mi₂ zid i-ri in-ga-am₃-me
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,19,ur-{d}namma lugal urim₅{ki}-ma nam dug₃ tar-ra-ba ŋiri₃ si mu-un-da-ab-sa₂
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,20,an-e ka kug-ga-ni mu-un-ba šeŋₓ ma-u₃-tud
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,21,ki-še₃ šag₄-ga si ba-an-sa₂ he₂-ŋal₂ ma-ra-de₆
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,22,{d}en-lil₂-le mi₂ zid mu-un-dug₄
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,23,{d}en-ki-ke₄ mi₂ zid mu-un-dug₄ a-eštub{ku₆} {d}ezina₂ še gu-nu saŋ-e-eš mu-un-rig₇
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,24,{d}nin-tur₅-re ŋe₂₆-e mu-un-dim₂-dim₂-en gaba-ri-ŋu₁₀ nu-tuku
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,25,dug₃-bi bi₂-in-peš-en lugal kalam-ma-me-en
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,26,ŋal₂ zid-da-me-en tur₃ amaš mu-da-daŋal
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,27,{d}utu ka-ŋa₂ inim ba-ni-in-ŋal₂
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,28,di ku₅-ru-ŋu₁₀ ki-en-gi ki-uri gu₃ teš₂-a bi₂-in-sig₁₀
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,29,{d}nin-gublaga-ke₄ a₂ ma-an-šum₂
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,30,me₃-ŋu₁₀ an ki šu₂-a-bi lu₂ la-ba-ra-e₃
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,31,ur-{d}namma lugal urim₅{ki}-ma {d}lamma iri-ŋa₂-me-en
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,32,šer₇-da mu-dub₂ su mu-un-sag₃-sag₃
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,33,ni₂ su-e bi₂-us₂-sa-ŋu₁₀
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,34,di ku₅-ru-ŋu₁₀ ki-en-gi ki-uri us₂ dili-a mi-ni-ib-dab₅
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,35,ni₂-zuh lu₂ i-{d}utu-ka gu₂-ba ŋiri₃ bi₂-gub
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,36,erim₂-du muš-gin₇ šu gid₂-gid₂-da šu im-da-an-šu₂-šu₂
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,37,lu₂-kar-da gur₅-ru-uš im-da-ab-be₂ šag₄-bi si bi₂-ib-sa₂
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,38,niŋ₂-si-sa₂-e pa e₃ bi₂-ak niŋ₂-erim₂ sa₂ bi₂-dug₄
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,39,{d}gibil₆-gin₇ saŋ-ki gid₂-da-ŋu₁₀ gu₃ teš₂-a bi₂-sig₁₀
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,40,inim-ŋu₁₀ me-me gub-bi
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,41,ma-da kur-kur-ra urim₅{ki}-e kur
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,42,nidba-bi e₂-kiš-nu-ŋal₂-la-na {d}nanna-ar mi-ni-in-hul₂-le
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,43,a-ŋu₁₀ šag₄ kug-ge ba-ri-a-ta
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,44,{d}suen-e u₆-e ki aŋ₂-ni
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,45,{d}nanna-ar hi-li-na ba-ni-in-kur₉-re
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,46,{d}en-lil₂-le {d}utu-gin₇ kalam-ma ed₂-de₃ mu dug₃ mu-un-sa₄
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,47,{d}nin-tur₅ tud-tud-a mu-un-gub-bu
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,48,šag₄ ama-ŋu₁₀ {d}nin-sumun₂-ka-ta
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,49,nam tar-ra sag₉-ga ma-ta-e₃
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,50,ur-{d}namma-me-en ma-da ki-en-gi ki-uri {d}lamma mu-un-da-an-tuku
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,51,kalam-ma ki ur₅ sag₉-ge-bi ŋe₂₆-e-me-en zi-ŋu₁₀ he₂-u₃-tud
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,52,ug ušumgal a-šag₄ mu-da-dadag
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,53,gana₂ gi hul mu₂-a šuba₂ nu-mu-u₈-da-lu
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,54,edimₓ-ma ezen-gin₇ du₃-a-ba ŋiri₃ si mu-un-da-ab-sa₂
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,55,lu₂ a-šag₄-ga nir-ŋal₂-bi mu-un-DU gaba-na ib₂-ta-an-zig₃
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,56,dumu ukur₃-ra u₂ il₂-i-de₃ ŋen-na ama-ni-ir mu-un-gi₄-gi₄
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,57,a-ma-ru gi₄-ba i-ti ma-gi₄
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,58,{d}en-lil₂-le ud dug₃-dug₃-ga-na maš₂-e bi₂-in-pad₃-de₃-en
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,59,ki-en-gi-ra gu₃ zid mu-un-de₂ e₂-a in-da-an-zig₃-ge-en
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,60,ŋeštug₂ daŋal igi-ŋal₂-tuku-ŋu₁₀-še₃
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,61,an lugal-e šu-ŋu₁₀-še₃ ba-an-šum₂
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,62,ki-en-gi-ra uz₃-saŋ-bi ŋe₂₆-e-me-en
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,63,sag₉-ga-me-en
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,64,
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,65,kalam-ma-me-en
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,66,tum₂-mu
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,67,
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,68,
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,69,en-me-en zi
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,70,ur-{d}namma an-še₃ tud-da kug-ge-eš
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,71,unken igi-ŋu₁₀-še₃ si im-sa₂
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,72,erin₂ silim-ma kalam šu-a gi₄-gi₄ {d}en-lil₂-le ma-ra-an-šum₂
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,73,ŋi₆-par₄-ra {tug₂}gada nam-mi-la₂
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,74,ŋiš-nu₂ gi-rin-na ki-nu₂ dug₃-ba mu-nu₂
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,75,uŋ₃-e u₂ nir-ŋal₂ bi₂-ib₂-gu₇-en {d}en-ki-im-du-bi-me-en
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,76,sipad zid udu-ni dirig ŋal₂-la-me-en
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,77,tur₃ amaš daŋal ŋal₂ bi₂-taka₄ gaba-ri-ŋu₁₀ nu-tuku
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,78,sipad u₂ naŋ-ŋa₂-bi šuba₂ ma-šar₂
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,79,nam-en-na-bi u₃-me-ni-tag
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,80,buru₁₄ mah-ŋu₁₀ ni₂-bi il₂-il₂-i niŋ₂-kud nu-ak-e
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,81,a₂ aŋ₂-ŋa₂-ŋu₁₀ bad₃ gal kur-ra-ka a-ne hul₂-la mu-e
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,82,iri-ŋa₂ ki-sur-ra ki-en-gi-ra giri₁₇-zal-bi ma-dug₃
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,83,ki-en-gi id₂-ba a šu bi₂-ba ŋiš gu₂-ba mu-zig₃
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,84,saŋ-ur-saŋ-bi {ŋeš}šudul₄-bi mu-zig₃
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,85,kur-ra-ka zag-la₂-bi mu-du₈
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,86,urim₅{ki} šu-ba im-mi-gi₄
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,87,kur-ra-na bi₂-gi₄
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,88,še-bi ma₂-gur₈-ra-ke₄ bi₂-la₂ ŋa₂-nun-bi bi₂-gi₄
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,89,dumu e₂-a-ni im-mi-gi₄ dusu-bi mu-gi₄
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,90,gu-ti-um{ki} lu₂-ŠAG₄×TAR-a-ke₄ šu sis-na mu-du₈
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,91,i-{d}utu ka-ba um-mi-gi₄
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,92,bad₃ bi₂-šub-ba bi₂-gi₄ šag₄ su₃-ra-ŋu₁₀ iri mu-gul eš₃ urim₅{ki}
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,93,ŋuruš gu₂-tuku {d}en-lil₂-la₂-me-en nidba
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,94,uŋ₃ daŋal-bi
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,95,an-da
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,96,dug₃
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,97,
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,99,
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,100,{ŋeš}šinig
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,101,iri-a ŋišbun-e
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,102,e-ne di hul₂-la ŋar-ra-še₃ ŋe₂₆-e
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,103,id₂ lugal-la e₂ {d}en-lil₂-la₂-še₃ he₂-ŋal₂ mu-un-da-kur₉
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,104,kar-ŋeštin-na {d}en-lil₂-la₂-še₃ ma₂ na-an-ga-mu-ni-in-ri
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,105,kar-za-gin₃-na {d}nanna-ka ma₂ na-an-ga-mu-ni-in-ri
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,106,{d}en-lil₂-ra kurun₂ lal₃ ba-an-na-de₂
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,107,sipad ur-{d}namma-me-en til₃ niŋ₂-ba-ŋu₁₀ he₂-a
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,108,{d}nanna lugal-ŋu₁₀ e₂-gal-la-na mu-na-du₃
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,109,e₂-kiš-nu-ŋal₂ hur-saŋ sig₇-ga-gin₇ ki gal-la bi₂-gub
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,110,gi-gun₄-na-bi kug-sig₁₇ {na₄}za-gin₃-na dub-ba-an ba-la₂
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,111,šu dug₄-ga-e {d}nanna-a-me-en
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,112,šeš {d}gilgameš₂ gu-la-me-en
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,113,dumu tud-da {d}nin-sumun₂-ka-me-en numun nam-en-na-me-en
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,114,an-ta nam-lugal ma-ra-ed₃
+c.2.4.1.3,A praise poem of Ur-Namma (Ur-Namma C),,115,sipad ur-{d}namma-me-en za₃-mi₂-ŋu₁₀ dug₃-ga-am₃

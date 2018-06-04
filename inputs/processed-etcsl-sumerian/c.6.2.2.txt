@@ -1,0 +1,54 @@
+id_text,text_name,version,l_no,text
+c.6.2.2,Proverbs: from Susa,MDP 27 206,1,KASKAL{mušen} gu₃ de₂-e {ŋeš}kiri₆ me-ta-bi-e
+c.6.2.2,Proverbs: from Susa,MDP 27 206,2,bi-za-za-a gu₃ de₂-e a-ambar-ra-am me-ta-bi-e
+c.6.2.2,Proverbs: from Susa,MDP 27 206,3,dar{mušen} gu₃ de₂-e a-šag₄-ga me-ta-bi-e
+c.6.2.2,Proverbs: from Susa,MDP 27 89,1,ka i₃-ŋal₂ šu nu-ni-ŋal₂
+c.6.2.2,Proverbs: from Susa,MDP 27 102,1,ur-gir₁₅ dab₅-ba pu₂ nu-zalag-ge-en
+c.6.2.2,Proverbs: from Susa,MDP 27 82,1,uru-gur₄-e ŋiš-šu dab₅-ba ga-ba-al al-du₃-du₃
+c.6.2.2,Proverbs: from Susa,MDP 27 216,1,nir-ŋal₂ kug-zu ukur₃ šu da-ma-a
+c.6.2.2,Proverbs: from Susa,MDP 27 216,2,šu ŋar ŋal₂-la a-ra-ta-a
+c.6.2.2,Proverbs: from Susa,MDP 27 214,1,tug₂-a du₈ nu-zu
+c.6.2.2,Proverbs: from Susa,MDP 27 214,2,še in-zu tug₂
+c.6.2.2,Proverbs: from Susa,MDP 27 214,3,
+c.6.2.2,Proverbs: from Susa,MDP 27 214,4,i₃-par₃-re-eš
+c.6.2.2,Proverbs: from Susa,MDP 27 214,5,i₃-ŋa₂-re-eš šu ba-X-re-eš
+c.6.2.2,Proverbs: from Susa,MDP 27 96,1,nu-ki-MI
+c.6.2.2,Proverbs: from Susa,MDP 27 96,2,dub-sar sar
+c.6.2.2,Proverbs: from Susa,MDP 27 96,3,lugal eš₃ gal ku₄-ku₄
+c.6.2.2,Proverbs: from Susa,MDP 27 96,4,šaŋan-la₂ šag₄-ta ga-MI
+c.6.2.2,Proverbs: from Susa,MDP 27 99,1,e₂ niŋ₂-si niŋ₂-gur₁₁ kar-kar-ra
+c.6.2.2,Proverbs: from Susa,MDP 27 99,2,še saŋ šag₄
+c.6.2.2,Proverbs: from Susa,MDP 27 99,3,niŋ₂-NE-erin saŋ-DU
+c.6.2.2,Proverbs: from Susa,MDP 27 112,1,uŋ₃ kur-ra kingal-ba he₂-a
+c.6.2.2,Proverbs: from Susa,MDP 27 112,2,diŋir ŋiš tuku šu
+c.6.2.2,Proverbs: from Susa,MDP 27 112,3,sig₅ ab-ba-bi u₂
+c.6.2.2,Proverbs: from Susa,MDP 27 212,1,iri{ki}-be₂-e-ne diŋir-be₂-e-ne ugnim-be₂-e-ne
+c.6.2.2,Proverbs: from Susa,MDP 27 212,2,ma-da ki ha-ma-zi₂-ta
+c.6.2.2,Proverbs: from Susa,MDP 27 212,3,a-a ma₂-gan-an-na{ki}-ta {d}nin-i₃-si-na{ki} TU-TU-ta
+c.6.2.2,Proverbs: from Susa,MDP 18 48,1,za-e nam-diŋir-zu a-ba-a an-da-sa₂
+c.6.2.2,Proverbs: from Susa,MDP 18 48,2,a-ba mu-na-ab-sag₉-ga
+c.6.2.2,Proverbs: from Susa,MDP 27 101,1,dam tuku dam-a-ni-ta dam igi kar₂-kar₂
+c.6.2.2,Proverbs: from Susa,MDP 27 101,2,ŋe₂₆-e me-te kar₂-kar₂
+c.6.2.2,Proverbs: from Susa,MDP 27 111,1,diŋir ŋiš tuku šu
+c.6.2.2,Proverbs: from Susa,MDP 27 111,2,a-ga-bi mu-un-ze₂-DI-a
+c.6.2.2,Proverbs: from Susa,MDP 27 113,1,iri{ki}-zu ki sag₉
+c.6.2.2,Proverbs: from Susa,MDP 27 113,2,mu-zu
+c.6.2.2,Proverbs: from Susa,MDP 27 114,1,sipad {d}utu ga₁₄-ra-du-um
+c.6.2.2,Proverbs: from Susa,MDP 27 114,2,{ŋeš}ŋidru-zu he₂-ŋal₂
+c.6.2.2,Proverbs: from Susa,MDP 27 215,1,kaš nu-zu si nu-su
+c.6.2.2,Proverbs: from Susa,MDP 27 215,2,kaš sa-a ba-ab-dug₃
+c.6.2.2,Proverbs: from Susa,MDP 27 217,1,e₂-ni tuku e₂-a-ni-še₃
+c.6.2.2,Proverbs: from Susa,MDP 27 217,2,e₂ tuku ama tuku ama-ni-še₃
+c.6.2.2,Proverbs: from Susa,MDP 27 258,1,{ŋeš}isimu₂{sar} i₃-ŋal₂
+c.6.2.2,Proverbs: from Susa,MDP 27 258,2,šu ŋar saŋ he₂-gi₄-gi₄
+c.6.2.2,Proverbs: from Susa,MDP 27 90,1,šu-ne šu-ne-ne {ŋeš}ŋidru-gin₇ tu₆-ni ka₅-a ŋar
+c.6.2.2,Proverbs: from Susa,MDP 27 91 and MDP 27 92,1,a i₃-pad₃-de₃ mu-dub ba-ni-ib₂-naŋ
+c.6.2.2,Proverbs: from Susa,MDP 27 100,1,e dam-ŋu₁₀ {e₂}amaš-e la-ba-na-ak-ku-am₃
+c.6.2.2,Proverbs: from Susa,MDP 27 103,1,iri-ŋu₁₀ nu-la₂-a ba-e-šub-e lu₂ šub-ba nu-tuku
+c.6.2.2,Proverbs: from Susa,MDP 27 105,1,nu-KU me niŋ₂ dul a-ba mu-zu
+c.6.2.2,Proverbs: from Susa,MDP 27 106,1,du-da ba-an-lu
+c.6.2.2,Proverbs: from Susa,MDP 27 107,1,ki aŋ₂ mi₂ dug₄-ga zi-šag₄-ŋal₂-la
+c.6.2.2,Proverbs: from Susa,MDP 27 109,1,di inim ga-ra-dug₄ ŋeštug₂ ŋizzal he₂-em-ši-a
+c.6.2.2,Proverbs: from Susa,MDP 27 110,1,igi-zu igi-zu he₂-a dug₃-zu he₂-ši-du
+c.6.2.2,Proverbs: from Susa,MDP 27 211,1,ama-a-ni kud-am₃ a₂ la₂-am₃
+c.6.2.2,Proverbs: from Susa,MDP 27 213,1,kingal zid ki aŋ₂ nam-me-en-na ib₂-ba-a

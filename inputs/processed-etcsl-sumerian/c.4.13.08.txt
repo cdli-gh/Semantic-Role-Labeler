@@ -1,0 +1,28 @@
+id_text,text_name,version,l_no,text
+c.4.13.08,An adab to Nanna (Nanna H),,A1,en zid nam tar-ra {d}nin-lil₂-le tud-da
+c.4.13.08,An adab to Nanna (Nanna H),,A2,{d}suen dumu ki aŋ₂ {d}nin-lil₂-la₂
+c.4.13.08,An adab to Nanna (Nanna H),,A3,e₂-kur-re e₂ {d}en-lil₂-la₂-ka
+c.4.13.08,An adab to Nanna (Nanna H),,A4,{d}suen gaba-šu-ŋar nu-mu-ni-tuku-am₃
+c.4.13.08,An adab to Nanna (Nanna H),,A5,me-zu me mah-am₃ an-ne₂ šum₂-ma-a-am₃
+c.4.13.08,An adab to Nanna (Nanna H),,A6,me al nu-di diŋir-re-e-ne
+c.4.13.08,An adab to Nanna (Nanna H),,A7,a-a-zu an kug-ge saŋ-e-eš₂ mu-ri-in-rig₇
+c.4.13.08,An adab to Nanna (Nanna H),,A8,{d}en-lil₂-le nam-e-eš₂ mu-ri-in-tar
+c.4.13.08,An adab to Nanna (Nanna H),,A9,en šu-luh kug-ga an-e gub-ba-am₃-ma
+c.4.13.08,An adab to Nanna (Nanna H),,A10,piriŋ sikil diŋir-re-e-ne
+c.4.13.08,An adab to Nanna (Nanna H),,A11,mi₂ zid dug₄-ga ud an-na-me-en
+c.4.13.08,An adab to Nanna (Nanna H),,A12,X-ni-de₂
+c.4.13.08,An adab to Nanna (Nanna H),,B1,e₂ iri an-ne₂ ki ŋar-ra
+c.4.13.08,An adab to Nanna (Nanna H),,B2,e₂ iri an-ne₂ ki ŋar-ra
+c.4.13.08,An adab to Nanna (Nanna H),,B3,e₂ {d}lugal-ban₃-da iri an-ne₂ ki ŋar-ra
+c.4.13.08,An adab to Nanna (Nanna H),,B4,e₂ iri an-ne₂ ki ŋar-ra
+c.4.13.08,An adab to Nanna (Nanna H),,B5,e₂ ki zabalam₂{ki} {d}inana iri an-ne₂ ki ŋar-ra
+c.4.13.08,An adab to Nanna (Nanna H),,B6,sa-ŋar-ra-am₃
+c.4.13.08,An adab to Nanna (Nanna H),,B7,eš₃ urim₂{ki} nam-galam-ma-bi-ta
+c.4.13.08,An adab to Nanna (Nanna H),,B8,šag₄-bi-a {d}en-ki {d}nin-ki-ne nam si-si sa₂-bi-ta
+c.4.13.08,An adab to Nanna (Nanna H),,B9,me šu ši-im-du₇-du₇-ne diŋir-diŋir a-nun-na am₃-ma-sug₂-sug₂-ge
+c.4.13.08,An adab to Nanna (Nanna H),,B10,ŋiš-gi₅-ŋal₂ sa-ŋar-ra-bi-im
+c.4.13.08,An adab to Nanna (Nanna H),,B11,urim₂{ki} eš₃ kur-ra
+c.4.13.08,An adab to Nanna (Nanna H),,B12,eš₃ urim₂{ki} eš₃ kur-ra
+c.4.13.08,An adab to Nanna (Nanna H),,B13,urim₂{ki} iri an-ne₂ ki ŋar-ra
+c.4.13.08,An adab to Nanna (Nanna H),,B14,u₁₈-ru₁₂-bi-im
+c.4.13.08,An adab to Nanna (Nanna H),,B15,a-da-ab {d}nanna-kam

@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+c.2.4.2.12,A tigi (?) for Šulgi (Šulgi L),,A1,
+c.2.4.2.12,A tigi (?) for Šulgi (Šulgi L),,A2,me₃-a šen
+c.2.4.2.12,A tigi (?) for Šulgi (Šulgi L),,A3,a-zu mu-na-a-šum₂
+c.2.4.2.12,A tigi (?) for Šulgi (Šulgi L),,A4,sipad šul-gi ni₂ kur₂-ra i₃-ru
+c.2.4.2.12,A tigi (?) for Šulgi (Šulgi L),,A5,sipad a-zu-u₃ me-teš₂ ša-mu-u₃-i-i
+c.2.4.2.12,A tigi (?) for Šulgi (Šulgi L),,A6,sa-gid₂-da-am₃
+c.2.4.2.12,A tigi (?) for Šulgi (Šulgi L),,A7,ba-ni-ra aga₃-kar₂ im-mi-sig₁₀
+c.2.4.2.12,A tigi (?) for Šulgi (Šulgi L),,A8,sumun me ŋar im-mi-ŋa₂-ar
+c.2.4.2.12,A tigi (?) for Šulgi (Šulgi L),,A9,ki-bal-a-ke₄ gu₂-kiri₆ im-mi-dug₄
+c.2.4.2.12,A tigi (?) for Šulgi (Šulgi L),,A10,kur iši su₃-ra₂-a-ba za-pa-zu
+c.2.4.2.12,A tigi (?) for Šulgi (Šulgi L),,A11,šeg₁₁ gi₄-gi₄-a-zu-ta
+c.2.4.2.12,A tigi (?) for Šulgi (Šulgi L),,A12,sug-zag-ge₄ bi₂-gu₇
+c.2.4.2.12,A tigi (?) for Šulgi (Šulgi L),,B1,
+c.2.4.2.12,A tigi (?) for Šulgi (Šulgi L),,B2,mu-dug₄
+c.2.4.2.12,A tigi (?) for Šulgi (Šulgi L),,B3,im-mi-us₂-sa
+c.2.4.2.12,A tigi (?) for Šulgi (Šulgi L),,B4,tir izi šum₂-ma-gin₇
+c.2.4.2.12,A tigi (?) for Šulgi (Šulgi L),,B5,ni₂-ba mu-ni-šu₄
+c.2.4.2.12,A tigi (?) for Šulgi (Šulgi L),,B6,ni₂-zu-da kur₂-re saŋ im-da-sag₃-ge
+c.2.4.2.12,A tigi (?) for Šulgi (Šulgi L),,B7,sa-ŋar-ra-am₃

@@ -1,0 +1,26 @@
+id_text,text_name,version,l_no,text
+c.0.2.03,OB catalogue from Urim (U1),,1,lugal-e mu-ni niŋ₂-ul-še₃
+c.0.2.03,OB catalogue from Urim (U1),,2,IR₃-{d}suen lugal
+c.0.2.03,OB catalogue from Urim (U1),,3,i₃-na-ab i-me-a
+c.0.2.03,OB catalogue from Urim (U1),,4,ŋuruš lu₂ šir₃ ra-ra
+c.0.2.03,OB catalogue from Urim (U1),,5,en₃-bar gurun-na
+c.0.2.03,OB catalogue from Urim (U1),,6,sa
+c.0.2.03,OB catalogue from Urim (U1),,7,{d}suen-i-din-na lugal
+c.0.2.03,OB catalogue from Urim (U1),,8,di₄-di₄-la₂ ud-da
+c.0.2.03,OB catalogue from Urim (U1),,9,izi
+c.0.2.03,OB catalogue from Urim (U1),,10,in-nin me huš-a
+c.0.2.03,OB catalogue from Urim (U1),,11,me-ta-am₃ me-da-di
+c.0.2.03,OB catalogue from Urim (U1),,12,šag₄ {gi}pisaŋ murub₄
+c.0.2.03,OB catalogue from Urim (U1),,13,lugal-e mu-ni niŋ₂-ul-še₃
+c.0.2.03,OB catalogue from Urim (U1),,14,en-e kur lu₂ til₃-la-še₃
+c.0.2.03,OB catalogue from Urim (U1),,15,ud huš an-ur₂-ru
+c.0.2.03,OB catalogue from Urim (U1),,16,i-a lu₂-ulu₃
+c.0.2.03,OB catalogue from Urim (U1),,17,nin mul-an-gin₇
+c.0.2.03,OB catalogue from Urim (U1),,18,e₂ ud huš an ki
+c.0.2.03,OB catalogue from Urim (U1),,19,ugu-ŋu₁₀
+c.0.2.03,OB catalogue from Urim (U1),,20,lugal-ban₃-da
+c.0.2.03,OB catalogue from Urim (U1),,21,ud eš₅-bar kiŋ₂
+c.0.2.03,OB catalogue from Urim (U1),,22,ud-ul-la
+c.0.2.03,OB catalogue from Urim (U1),,23,ma₂ niŋ₂
+c.0.2.03,OB catalogue from Urim (U1),,24,dumu e₂-dub-ba
+c.0.2.03,OB catalogue from Urim (U1),,25,šag₄ {gi}pisaŋ murub₄

@@ -1,0 +1,69 @@
+id_text,text_name,version,l_no,text
+c.1.6.3,Ninurta and the turtle,,A1,
+c.1.6.3,Ninurta and the turtle,,A2,amar anzud{mušen}
+c.1.6.3,Ninurta and the turtle,,A3,{ŋeš}ilar
+c.1.6.3,Ninurta and the turtle,,A4,amar anzud{mušen}
+c.1.6.3,Ninurta and the turtle,,A5,ur-saŋ {d}nin-urta
+c.1.6.3,Ninurta and the turtle,,A6,{ŋeš}gag
+c.1.6.3,Ninurta and the turtle,,A7,amar anzud{mušen}
+c.1.6.3,Ninurta and the turtle,,A8,
+c.1.6.3,Ninurta and the turtle,,B1,dug₄-ga-ni-ta {ŋeš}tukul-zu hul-a mu-ni-in-tag
+c.1.6.3,Ninurta and the turtle,,B2,me šu-ŋa₂ šu ba-ba-ŋu₁₀-ne me-bi abzu-še₃ ba-an-gi₄
+c.1.6.3,Ninurta and the turtle,,B3,ŋiš-hur šu-ŋa₂ šu ba-ba-ŋu₁₀-ne ŋiš-hur-bi abzu-še₃ ba-an-gi₄
+c.1.6.3,Ninurta and the turtle,,B4,dub nam-tar-ra-bi abzu-še₃ ba-an-gi₄ me ab-la₂-e-en
+c.1.6.3,Ninurta and the turtle,,B5,inim amar anzud{mušen}-še₃ {d}nin-urta lul-aš ba-an-si
+c.1.6.3,Ninurta and the turtle,,B6,{d}nin-men-na-ke₄ a-nir im-ŋa₂-ŋa₂
+c.1.6.3,Ninurta and the turtle,,B7,ŋe₂₆-e me-bi šu-ŋu₁₀-uš li-bi₂-kur₉ nam-en-bi nu-ak-e
+c.1.6.3,Ninurta and the turtle,,B8,ŋe₂₆-e e-ne-gin₇ eš₃-e abzu-a nu-mu-un-til
+c.1.6.3,Ninurta and the turtle,,B9,a-a {d}en-ki inim mu-un-dug₄-dug₄-ga-a abzu-a ba-da-an-zu
+c.1.6.3,Ninurta and the turtle,,B10,ur-saŋ {d}nin-urta amar anzud{mušen}-de₃ šu-ni bi₂-in-ti
+c.1.6.3,Ninurta and the turtle,,B11,ki {d}en-ki-ka₃-še₃ abzu-še₃ im-ma-da-te
+c.1.6.3,Ninurta and the turtle,,B12,{d}u₄-ta-u₁₈-lu amar anzud{mušen}-de₃ abzu-še₃ ba-an-gi₄
+c.1.6.3,Ninurta and the turtle,,B13,en-e ur-saŋ-ra ba-ši-hul₂
+c.1.6.3,Ninurta and the turtle,,B14,a-a {d}en-ki ur-saŋ {d}nin-urta-ra ba-ši-hul₂
+c.1.6.3,Ninurta and the turtle,,B15,en {d}nu-dim₂-mud-e mi₂ zid mu-un-i-i-de₃
+c.1.6.3,Ninurta and the turtle,,B16,ur-saŋ-e diŋir šeš-zu-ne-a diŋir na-me ur₅-gin₇ nu-mu-un-ak-e
+c.1.6.3,Ninurta and the turtle,,B17,mušen {ŋeš}tukul kalag-ga-zu bi₂-dab₅-ba-še₃
+c.1.6.3,Ninurta and the turtle,,B18,ud me-da ud ul-le₂-še₃ gu₂-bi ŋiri₃-zu ba-gub-be₂-en
+c.1.6.3,Ninurta and the turtle,,B19,diŋir gal-gal-e-ne a₂ nam-ur-saŋ-ŋa₂-zu me-teš₂ he₂-i-i-ne
+c.1.6.3,Ninurta and the turtle,,B20,a-a-zu {d}en-lil₂-le niŋ₂-dug₄-zu he₂-ak
+c.1.6.3,Ninurta and the turtle,,B21,{d}nin-men-na-ke₄ kiŋ₂-sig₁₀-ga-zu na-an-dim₂-e
+c.1.6.3,Ninurta and the turtle,,B22,za-e-gin₇ ni₂ na-ab-tuku diŋir na-me igi-zu-še₃ šu si sa₂ na-an-sa₂-e
+c.1.6.3,Ninurta and the turtle,,B23,itid-da eš₃-e abzu-a igi-du₈-a e₂-zu saŋ he₂-us₂
+c.1.6.3,Ninurta and the turtle,,B24,an zag gal-la mu-zu he₂-pad₃-de₃
+c.1.6.3,Ninurta and the turtle,,B25,ur-saŋ nam-tar-ra-bi šag₄-bi nu-hul₂
+c.1.6.3,Ninurta and the turtle,,B26,ki-gub-ba-ni a-ŋi₆ i-im-ku₁₀-ku₁₀-ge i-sig₇-sig₇-ge
+c.1.6.3,Ninurta and the turtle,,B27,šag₄-bi niŋ₂ gal-gal i-im-bal-bal šag₄-bi i₃-kur₂-kur₂
+c.1.6.3,Ninurta and the turtle,,B28,inim da-bi nu-ub-tuku-a bar-bi i-im-dug₄-dug₄
+c.1.6.3,Ninurta and the turtle,,B29,ur-saŋ {d}nin-urta igi-bi ki-šar₂-ra ba-ni-in-ŋar
+c.1.6.3,Ninurta and the turtle,,B30,lu₂ na-me nu-ub-dug₄ šag₄-bi zi
+c.1.6.3,Ninurta and the turtle,,B31,en gal {d}en-ki ki ni₂-te-na-ke₄ inim šag₄-bi ba-X-zu
+c.1.6.3,Ninurta and the turtle,,B32,eš₃-e abzu-a a-ŋi₆ mud i-im-tuku₄-tuku₄-e
+c.1.6.3,Ninurta and the turtle,,B33,sukkal {d}isimudₓ-de₃ e₂-e ŋiri₃ mu-un-ru-gu₂
+c.1.6.3,Ninurta and the turtle,,B34,ur-saŋ {d}nin-urta ed₂-de₃ nu-mu-un-še-še
+c.1.6.3,Ninurta and the turtle,,B35,sukkal {d}isimudₓ-de₃-eš₂ šu-ni ba-an-zig₃
+c.1.6.3,Ninurta and the turtle,,B36,{d}en-ki-ke₄ im abzu-a ba-al-gu₇ ba-da-an-dim₂
+c.1.6.3,Ninurta and the turtle,,B37,ki sun₅-na kan₄ abzu-a ba-al-gu₇ ba-da-an-gub
+c.1.6.3,Ninurta and the turtle,,B38,{d}en-ki-ke₄ ki-lul-la-ke₄ mu-un-na-ab-dug₄-dug₄
+c.1.6.3,Ninurta and the turtle,,B39,ki-gub-ba ba-al-gi₄-še₃ ba-da-an-tum₃
+c.1.6.3,Ninurta and the turtle,,B40,ba-al-gu₇ eŋer-ra-ni sa-bi ba-da-an-dab₅
+c.1.6.3,Ninurta and the turtle,,B41,ur-saŋ {d}nin-urta ŋiri₃-bi ba-da-an-gi₄
+c.1.6.3,Ninurta and the turtle,,B42,{d}en-ki nu-zu-gin₇ a-na-am₃ ne-e im-me
+c.1.6.3,Ninurta and the turtle,,B43,umbin-ŋiri₃-bi ki bi₂-in-hur habrud hul ba-da-an-dun
+c.1.6.3,Ninurta and the turtle,,B44,ur-saŋ {d}nin-urta šag₄-bi ba-da-an-šub
+c.1.6.3,Ninurta and the turtle,,B45,ur-saŋ-e ed₃-de₃ nu-mu-un-zu-am₃
+c.1.6.3,Ninurta and the turtle,,B46,ba-al-gu₇ ŋiri₃ umbin-ŋiri₃-bi ba-an-sur-sur
+c.1.6.3,Ninurta and the turtle,,B47,en gal {d}en-ki-ke₄ gu₃ mu-un-na-de₂-e
+c.1.6.3,Ninurta and the turtle,,B48,me kur-ta mu-ni-in-niŋin₂-niŋin₂ mu-pad₃-de₃
+c.1.6.3,Ninurta and the turtle,,B49,ŋe₂₆-ra saŋ ŋiš ra-ŋu₁₀-uš igi-zu mu-e-ŋar-ra-am₃
+c.1.6.3,Ninurta and the turtle,,B50,X-bil₂-ga gal-gal di ŋe₂₆-e bi₂-ib₂-ŋa₂-ŋa₂ ŋe₂₆-e bi₂-ib₂-zi-de₃
+c.1.6.3,Ninurta and the turtle,,B51,za-e ŋe₂₆-ra a-gin₇ igi-zu mu-ŋar-ra
+c.1.6.3,Ninurta and the turtle,,B52,ki-gub-ba-zu a-na-am₃ mu-ra-an-dab₅ a-ra₂-bi a-na-gin₇-nam
+c.1.6.3,Ninurta and the turtle,,B53,nam-kalag-ga-zu me-še₃ ba-an-ŋen nam-ur-saŋ-zu me-a
+c.1.6.3,Ninurta and the turtle,,B54,hur-saŋ gal-gal-e mu-ni-in-gul-gul e-ne-eš₂ a-na-am₃ mu-ed₃-de₃
+c.1.6.3,Ninurta and the turtle,,B55,{d}nin-men-na-ke₄ inim-bi ba-da-an-pad₃
+c.1.6.3,Ninurta and the turtle,,B56,tug₂ bar-ra-na al-bir₇-re im-sar-sar-re
+c.1.6.3,Ninurta and the turtle,,B57,ug gu₇-gu₇-ŋu₁₀-uš za-e a-ba-a mu-ra-ab-tum₂
+c.1.6.3,Ninurta and the turtle,,B58,lu₂ saŋ-bi mu-un-bul-bul ba-X-X-un-GIL-X za-e a-ba-a mu-ra-ab-tum₂
+c.1.6.3,Ninurta and the turtle,,B59,{d}am-an-ki mu-bi nu-me-a u₄-gu₇-gu₇-nu-de₂-de₂ mu-bi-im
+c.1.6.3,Ninurta and the turtle,,B60,nam-uš₂ šu ŋar nu-tuku-a za-e a-ba-a mu-ra-ab-tum₂

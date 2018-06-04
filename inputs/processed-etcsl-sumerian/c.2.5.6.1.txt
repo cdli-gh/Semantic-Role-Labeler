@@ -1,0 +1,96 @@
+id_text,text_name,version,l_no,text
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,1,mah-a-ni zag nu-sa₂
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,2,ŋi₆ u₃-na kar₂-kar₂
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,3,ni₂ me-lem₄ gur₃-ru
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,4,diŋir gal-gal-e-ne hu-luh-ha im-du₈-du₈
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,5,dug₄-ga-ni an-gin₇ mah {d}en-lil₂-gin₇ u₁₈-ru
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,6,{d}inana saŋ-kal me niŋ₂-nam-ma zag dib nin-e-ne
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,7,ŋiš-hur nam-lugal-la šu du₇-du₇ ki-bi gi₄-gi₄-de₃
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,8,saŋ gig₂ si sa₂-sa₂-e-de₃ us₂ gen₆-na dab₅-be₂-de₃
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,9,ŋeštug₂-ga-ni nam-gub šag₄-ga-ni zid-de₃-eš-e nam-de₆
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,10,{d}ur-{d}nin-urta nam-sipad zi-ŋal₂-la-še₃ uŋ₃ šar₂-ra mi-ni-in-pad₃
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,11,nam tar-ra me zid hal-ha diŋir gal-gal-e-ne-še₃
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,12,e₂-kur ki-tuš kug an {d}en-lil₂-la₂ ni₂ su zig₃ gur₃-ru-še₃
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,13,lugal-ra šu-ni im-ma-an-dab₅ sun₅-na-bi mi-ni-in-kur₉
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,14,in-nin e-ne-da nu an ki-a nam nu-tar-re-de₃
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,15,an {d}en-lil₂-da barag-ge₄ si-a-na ad mu-un-na-ni-ib-gi₄-gi₄
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,16,ki-ru-gu₂ ₁-a-kam
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,17,an gal dug₄-ga-zu niŋ₂ mah-am₃ a-ba-a šu mi-ni-ib-bal-e
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,18,a-a {d}en-lil₂ nam gal tar-ra-zu sag₂ di nu-zu-a
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,19,{d}ur-{d}nin-urta šul a₂ aŋ₂-ŋa₂-zu-ne-ne mu-un-zu-a-ar
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,20,nam-sipad zi-ŋal₂ uŋ₃ šar₂-ra du-ri₂-še₃ saŋ-e-eš rig₇-ga-na-ab-ze₂-en
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,21,e₂ iri{ki} du₃-du₃ kalam gen₆-ne₂ šag₄ kug-ta mu-u₈-de₆
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,22,kur-kur-re a₂ aŋ₂-ŋa₂-bi mu-un-zu a₂ gal he₂-aŋ₂-e
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,23,šibir-a-ni ki-bal he₂-en-gam-e us₂ gen₆ he₂-bi₂-ib-dab₅-be₂
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,24,sig-ta igi-nim-še₃ kalam-ma rab₃-gin₇ šu he₂-em-ri-ri-e
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,25,ka-ta e₃-a-ni
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,26,udu-gin₇ ka u₂-gu₇ ha-ba-kiŋ₂-kiŋ₂ a naŋ ha-ba-ŋa₂-ŋa₂
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,27,ki-ru-gu₂ ₂-kam-ma-am₃
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,28,{d}ur-{d}nin-urta mu su₃-ra₂-še₃ uŋ₃-ŋa₂ {d}utu-gin₇ dalla he₂-ni-in-e₃
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,29,ŋiš-gi-ŋal₂-bi-im
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,30,diŋir numun e₃ a-a niŋ₂-nam šar₂-ra-ke₄
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,31,lugal-ra gu₃ zid mu-na-an-de₂ nam mu-ni-ib-tar-re
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,32,{ŋeš}erin suh me-te kisal e₂-kur-ra
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,33,{d}ur-{d}nin-urta kalam-ma ŋissu-zu ni₂ he₂-eb-ši-te-en-te-en
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,34,kur-kur-re sipad zid-bi he₂-me-en
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,35,{d}utu-gin₇ di si sa₂ ku₅-ru-zu-uš igi-bi he₂-em-ši-ŋal₂-e
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,36,barag nam-lugal-la suhuš gen₆-na-ba
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,37,{d}ur-{d}nin-urta dur₂ ŋar-ra-zu-ne saŋ an-še₃ he₂-ni-in-il₂
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,38,aga zid-de₃ me-te he₂-em-mi-in-ŋal₂
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,39,ni₂ su zig₃ ur-mah nam-lugal-la tug₂-ba₁₃-še₃ he₂-em-mur₁₀
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,40,ki-ru-gu₂ ₃-kam-ma-am₃
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,41,e₂-an-ka me-bi ha-ba-gub-be₂
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,42,{d}ur-{d}nin-urta bad₃ gal-zu ŋe₂₆-e-me-en ud ul du-ri₂-še₃
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,43,ŋiš-gi₄-ŋal₂-bi-im
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,44,erim₂-ŋal₂-za ud-gin₇ gu₃ bi₂-ra
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,45,me-lem₄-zu muru₉ dugud-da-gin₇ kur nu-še-ga-zu he₂-em-dul
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,46,barag-barag gal-gal ni₂ er₉-e-ne
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,47,gi dili du₃-a-gin₇ kilib₃-ba-bi saŋ he₂-em-da-sag₃-ge-ne
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,48,
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,49,{tum₉}u₁₈-lu-gin₇ zi-zi-da-zu-ne
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,50,kur ki-bal-zu sig₁₀-ge u₃-mu-e-ak
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,51,uŋ₃-bi šaŋa-a um-mu-lah₅
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,52,i₃-si-in{ki} iri me gal-gal-la-za
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,53,{d}ur-{d}nin-urta {ŋeš}šudul gu₂-ba ŋar-ni
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,54,an gal a-a diŋir-re-e-ne-ke₄
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,55,{d}ur-{d}nin-urta sipad ŋiš tuku-ni-ir nam ul-še₃ nu-kur₂-ru mu-ni-in-tar
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,56,ki-ru-gu₂ ₄-kam-ma-am₃
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,57,en eš-bar an ki šu-na ŋal₂ kur gal {d}en-lil₂-le
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,58,lugal-ra mu-ni an-zag-še₃ pa e₃ im-ma-an-ak
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,59,{d}ur-{d}nin-urta nam-nir nam-šul-la am-gin₇ gu₂ he₂-ni-peš
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,60,{d}er₉-ra ur-saŋ-gin₇ me X-an-tuku-tuku
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,61,{d}nin-urta en ud huš erim₂-ma dumu šu ŋar gi₄-ŋu₁₀
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,62,ki me₃-ka ka-tab-zu he₂-a ŋiškim he₂-mu-e-til₃-le
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,63,kur gu₂-erim₂ gu₂-bi-da zar-re-eš ha-ma-ab-sal-e
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,64,šu-luh kug e₂-kur-ra ud šu₂-uš-e gub-ba
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,65,nidba-zu banšur mah unu₂ gal-ŋa₂ su₃-ra₂-še₃ he₂-em-mi-in-ŋal₂
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,66,saŋ he₂-e-il₂ gu₂ an-še₃ he₂-e-zig₃ til₃ nu-kur₂-ru za-a-am₃
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,67,ki-ru-gu₂ ₅-kam-ma-am₃
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,68,nam tar-ra an gal {d}nu-nam-nir en niŋ₂-zi-ŋal₂-la-še₃
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,69,{d}a-nun-na diŋir gal-gal-e-ne he₂-am₃ ba-ni-in-ne-eš
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,70,saŋ gig₂ ki-tuš-ba ge-en-gen₆-ne₂ kur-kur us₂-a sig₁₀-ge₅
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,71,uŋ₃ ka teš₂ ŋa₂-ŋa₂ ŋiri₃-ni-še₃ gam-e
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,72,{d}inana dumu gal {d}suen-na nitalam ki aŋ₂-ŋa₂-ni
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,73,saŋ keše₂ me niŋ₂-nam-ma mu-un-ur₄-ur₄ šu-ni-še₃ mu-u₈-ŋar
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,74,₂-na-ne-ne ki {d}en-lil₂-la₂-ta hul₂-la nam-ta-e₃
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,75,e₂-gal ki-tuš lal₃ niŋ₂ dug₃-ba dur₂ ki ba-ni-in-ŋal₂-le-eš
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,76,lugal-la-ni nu-til-e zid-de₃-eš na-mu-un-e
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,77,ki-ru-gu₂ ₆-kam-ma-am₃
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,78,šul me-dim₂ sag₉ sig₇ še-er-še-er-ra saŋ il₂-e-de₃
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,79,hi-li ul gur₃-ru me-te na-aŋ₂-u₃-mu-un-na barag kug-ge du₇-re₆
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,80,{d}ur-{d}nin-urta me kal-kal-la-zu ša₃-ab-ŋu₁₀ im-mi-ir
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,81,i-bi₂ zid il₂-la-za mi-ni-in-pad₃-de₃ mu pad₃-da-ŋu₁₀-me-en
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,82,an gal-e kur-zag til-la-ba su₃-ud-še₃ bi₂-in-dirig-ge
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,83,ur₂ kug nam-til₃-la ud-zu sud-sud-de₃
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,84,šul {d}en-lil₂-le e₂-kur-ta a₂-bi mu-un-da-an-aŋ₂
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,85,barag mi₂ zid-de₃-eš dug₄-ga-ŋu₁₀ muš₃ nam-bi₂-ga-ga-an
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,86,{d}nanna an kug-ga pa e₃-a ka-na-aŋ₂-e u₆ di-gin₇
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,87,{d}ur-{d}nin-urta-ŋu₁₀ kur-kur-re hi-li hu-mu-u₈-ši-ak-e
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,88,ki-ru-gu₂ ₇-kam-ma-am₃
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,89,{d}ur-{d}nin-urta-ŋu₁₀ {d}mu-ul-lil₂-le nam-sipad ka-na-aŋ₂-ŋa₂-kam zid-de₃-eš mu-un-pad₃-de₃-en
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,90,ŋiš-gi₄-ŋal₂-bi-im
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,91,kug eš-bar zid dug₄-ga nu-kur₂-ru-ŋu₁₀-uš
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,92,a₂ nun he₂-em-te-ŋal₂
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,93,X-an-tuku-tuku
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,94,
+c.2.5.6.1,A šir-namgala (?) to Inana for Ur-Ninurta (Ur-Ninurta A),,95,{d}inana-kam

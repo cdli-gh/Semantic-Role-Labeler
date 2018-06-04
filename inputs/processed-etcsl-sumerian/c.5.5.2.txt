@@ -1,0 +1,113 @@
+id_text,text_name,version,l_no,text
+c.5.5.2,An elegy on the death of Nannaya,,1,ab-ba ki re-a-še₃ dumu-ni-ir kiŋ₂ bi₂-in-gi₄
+c.5.5.2,An elegy on the death of Nannaya,,2,dumu ki ba₉-ra₂ ŋen-na re ud-ba ba-ra-an-bad
+c.5.5.2,An elegy on the death of Nannaya,,3,ab-ba uru₂{ki}-a tuš-a-ra tur₅-ra gaba ba-ri
+c.5.5.2,An elegy on the death of Nannaya,,4,sud-aŋ₂ kal-la kur sud-da pad₃-da tur₅-ra gaba ba-ri
+c.5.5.2,An elegy on the death of Nannaya,,5,sag₉-sag₉ lu₂ inim zil₂-zil₂-le tur₅-ra gaba ba-ri
+c.5.5.2,An elegy on the death of Nannaya,,6,alan sud tuku saŋ-du tuku teš₂-bi tur₅-ra gaba ba-ri
+c.5.5.2,An elegy on the death of Nannaya,,7,gal-zu ŋiš-hur-ra me-te unken-na tur₅-ra gaba ba-ri
+c.5.5.2,An elegy on the death of Nannaya,,8,lu₂ gen₆-na ni₂ teŋ₃-ŋe₂₆ diŋir-bi tur₅-ra gaba ba-ri
+c.5.5.2,An elegy on the death of Nannaya,,9,tur₅-ra u₂ nu-gu₇ gaba ba-ri tur₅-ra ba-an-dab₅
+c.5.5.2,An elegy on the death of Nannaya,,10,ka u₃-ba-e-šu₂ ninda nu-mu-un-šu₂-šu₂ šag₄-sug₄-ga ba-an-nu₂
+c.5.5.2,An elegy on the death of Nannaya,,11,dub-gin₇ bar-gin₇ ni₂-ŋal₂-la ib₂-gurud-da mu-un-la₂
+c.5.5.2,An elegy on the death of Nannaya,,12,ur-saŋ gaba ur₄-ur₄ ŋiri₃ nu-mu-un-da-bad-de₃
+c.5.5.2,An elegy on the death of Nannaya,,13,tur₅-ra-a-ni-ta nam-dumu-ni i-si-iš i₃-gu₇
+c.5.5.2,An elegy on the death of Nannaya,,14,šag₄ sag₃-sag₃-ge i-si-iš
+c.5.5.2,An elegy on the death of Nannaya,,15,dub zu nibru{ki}-a ki-lul-la ba-an-ug₅
+c.5.5.2,An elegy on the death of Nannaya,,16,inim-bi kaskal su₃-ra₂-še₃ dumu-ni-ir ba-an-na-te
+c.5.5.2,An elegy on the death of Nannaya,,17,dumu ad-da-a-ni-ta nu-ub-da-la₂-a-gin₇
+c.5.5.2,An elegy on the death of Nannaya,,18,kiŋ₂ in-ši-gi₄-in₄-nam nu-ub-da-gur-ra-am₃
+c.5.5.2,An elegy on the death of Nannaya,,19,dumu er₂ in-pad₃ sahar-ta ma-ra-da-šub šir₃ nam-nar mu-un-na-ab-e
+c.5.5.2,An elegy on the death of Nannaya,,20,{m}lu₂-diŋir-ra šag₄ i-lu ab-sar-re
+c.5.5.2,An elegy on the death of Nannaya,,21,ab-ba ki-lul-la ba-an-ug₅-ga-ta
+c.5.5.2,An elegy on the death of Nannaya,,22,{m}{d}nanna-a šag₄ hul dim₂-ma-ni-ta kur-še₃ ba-ab-DU-a
+c.5.5.2,An elegy on the death of Nannaya,,23,dam-zu niŋ₂ ud-bi-ta nitalam-a-ni na-nam me-da nu-mu-un-su-a
+c.5.5.2,An elegy on the death of Nannaya,,24,{tum₉}dal-ha-mun-gin₇ ud ma-ra-ab-kaš₄-kaš₄-e u₁₈-lu ma-ab-sag₃-ge
+c.5.5.2,An elegy on the death of Nannaya,,25,a₂-e₃-gin₇ za-e ma-ra-ab-ak-e dim₂-ma-ni in-kur₂
+c.5.5.2,An elegy on the death of Nannaya,,26,al-lib mu-na-ŋar i-gi₄-in-zu i-im-ši-tud-tud-de₃
+c.5.5.2,An elegy on the death of Nannaya,,27,im-ma-ab-gur-re ab₂-gin₇ gu₃
+c.5.5.2,An elegy on the death of Nannaya,,28,a-nir an-DAG er₂ im-ma-še₈-še₈
+c.5.5.2,An elegy on the death of Nannaya,,29,mu-un-šu₂ u₃ niŋ₂-zid ba-an-dab₅
+c.5.5.2,An elegy on the death of Nannaya,,30,
+c.5.5.2,An elegy on the death of Nannaya,,31,X-a-ur₄-ur₄ mu-da-ab-ZA
+c.5.5.2,An elegy on the death of Nannaya,,32,šu mu-ra-ab-tag-ge šag₄
+c.5.5.2,An elegy on the death of Nannaya,,33,zi-zi ud zal-še₃
+c.5.5.2,An elegy on the death of Nannaya,,34,ki dur₂-ru-na-ta lukur {d}nin-urta-ke₄ ma-ra-da-šub
+c.5.5.2,An elegy on the death of Nannaya,,35,diŋir sig₇-ga-gin₇
+c.5.5.2,An elegy on the death of Nannaya,,36,an-gul-a-ni hul
+c.5.5.2,An elegy on the death of Nannaya,,37,šag₄
+c.5.5.2,An elegy on the death of Nannaya,,38,
+c.5.5.2,An elegy on the death of Nannaya,,39,uŋ₃ daŋal-la še
+c.5.5.2,An elegy on the death of Nannaya,,40,suh₃-suh₃ šen-šen-na nin-diŋir {d}nuska
+c.5.5.2,An elegy on the death of Nannaya,,41,X-ra-an-sil₂-sil₂-e ma-ra-an-SU-e
+c.5.5.2,An elegy on the death of Nannaya,,42,ma-X-nam
+c.5.5.2,An elegy on the death of Nannaya,,43,
+c.5.5.2,An elegy on the death of Nannaya,,44,ur₂-zu-ta
+c.5.5.2,An elegy on the death of Nannaya,,45,
+c.5.5.2,An elegy on the death of Nannaya,,46,X-de₂-e
+c.5.5.2,An elegy on the death of Nannaya,,47,dumu tur-zu dumu lugal-la-gin₇ mu-da-ak-a
+c.5.5.2,An elegy on the death of Nannaya,,48,a-na-am₃ i₃-gu₇
+c.5.5.2,An elegy on the death of Nannaya,,49,a-na-am₃ i₃-naŋ
+c.5.5.2,An elegy on the death of Nannaya,,50,lal₃ i₃-nun
+c.5.5.2,An elegy on the death of Nannaya,,51,{ŋeš}banšur i₃-zu-ta mu-un-da-ŋa₂-ŋa₂
+c.5.5.2,An elegy on the death of Nannaya,,52,er₂ im-ŋa₂-ŋa₂-a-ni er₂ arhuš
+c.5.5.2,An elegy on the death of Nannaya,,53,i-im-sig₇-sig₇-ga-a-ni ki aŋ₂ šag₄ kug-ga-kam
+c.5.5.2,An elegy on the death of Nannaya,,54,še ur₄-ur₄ saŋ
+c.5.5.2,An elegy on the death of Nannaya,,55,amar mušen-e amar he-en-gi₄-gi₄ al-il₂-il₂
+c.5.5.2,An elegy on the death of Nannaya,,56,e₂-gi₄-a dumu tur-zu me-na me-na-am₃ bi₂-in-dug₄-ga-a
+c.5.5.2,An elegy on the death of Nannaya,,57,ugu-ne-ne-a bi₂-in-šub
+c.5.5.2,An elegy on the death of Nannaya,,58,ma-ra-an-si-ig
+c.5.5.2,An elegy on the death of Nannaya,,59,ur₂ e₂-ke₄
+c.5.5.2,An elegy on the death of Nannaya,,60,ad dug₃-dug₃-ga-X u₃-sa₂-a
+c.5.5.2,An elegy on the death of Nannaya,,61,
+c.5.5.2,An elegy on the death of Nannaya,,62,i-lu nu-gul-e
+c.5.5.2,An elegy on the death of Nannaya,,63,ad-da-ŋu₁₀ šag₄-zu he₂-huŋ-ŋe₂₆
+c.5.5.2,An elegy on the death of Nannaya,,64,{m}{d}nanna-a ur₅-zu he₂-sag₉
+c.5.5.2,An elegy on the death of Nannaya,,65,en ensi₂ er₃-ra-bi a-ab-X
+c.5.5.2,An elegy on the death of Nannaya,,66,šu nam-uš₂-ta kar-ra
+c.5.5.2,An elegy on the death of Nannaya,,67,šu nam-uš₂ niŋ₂ bi₂-ib-si lu₂
+c.5.5.2,An elegy on the death of Nannaya,,68,nam-uš₂ niŋ₂ dug₃ diŋir-ra-kam ki nam tar-ra
+c.5.5.2,An elegy on the death of Nannaya,,69,šag₄-bal-bal-zu dug₃-zu
+c.5.5.2,An elegy on the death of Nannaya,,70,dumu-munus-zu
+c.5.5.2,An elegy on the death of Nannaya,,71,ab-ba iri{ki}-za-a-kam kana₅
+c.5.5.2,An elegy on the death of Nannaya,,72,ki-sikil iri{ki}-za-a-kam
+c.5.5.2,An elegy on the death of Nannaya,,73,saŋ {na₄}kin₂-kin₂-X er₂-zu
+c.5.5.2,An elegy on the death of Nannaya,,74,e₂ im-ma-ni-ŋa₂-ŋa₂
+c.5.5.2,An elegy on the death of Nannaya,,75,kug in-taka₄ še bi₂-in-tuku niŋ₂-gur₁₁ daŋal
+c.5.5.2,An elegy on the death of Nannaya,,76,ibila suhuš gen₆-na
+c.5.5.2,An elegy on the death of Nannaya,,77,lu₂-ug₅-ge-zu šag₄
+c.5.5.2,An elegy on the death of Nannaya,,78,zag-zu a₂ hul-la za-e ma-ra-kiŋ₂-ŋa₂
+c.5.5.2,An elegy on the death of Nannaya,,79,šu ŋar gen₆ lugal sipad diŋir-za-a-kam
+c.5.5.2,An elegy on the death of Nannaya,,80,sa₂-ŋar gen₆ {d}utu-u₃-kam
+c.5.5.2,An elegy on the death of Nannaya,,81,lu₂-bi lu₂ nam kud he₂-a nam-uš₂
+c.5.5.2,An elegy on the death of Nannaya,,82,ŋiri₃-paₓ-ra₂-ni lu₂
+c.5.5.2,An elegy on the death of Nannaya,,83,{u₂}numun li-li-a-ni tuku mu-bi
+c.5.5.2,An elegy on the death of Nannaya,,84,niŋ₂-gur₁₁-bi buru₅{mušen} dal-a-gin₇
+c.5.5.2,An elegy on the death of Nannaya,,85,ki X-ib-la₂-e kalam-ma
+c.5.5.2,An elegy on the death of Nannaya,,86,inim niŋ₂ sag₉-ga he₂-en-tum₂ šag₄ dug₃ he₂-ri-ib-ŋa₂-ŋa₂
+c.5.5.2,An elegy on the death of Nannaya,,87,{m}{d}nanna-a ur₅-zu he₂-sag₉ šag₄-zu he₂-ši-huŋ-ŋe₂₆
+c.5.5.2,An elegy on the death of Nannaya,,88,{d}utu en gal a-ra-li-ke₄
+c.5.5.2,An elegy on the death of Nannaya,,89,ki ku₁₀-ku₁₀ ud-še₃ u₃-mu-ni-in-tud di kud-zu i₃-kud-de₃
+c.5.5.2,An elegy on the death of Nannaya,,90,{d}nanna-a ud nu₂-a nam-zu he₂-tar-re
+c.5.5.2,An elegy on the death of Nannaya,,91,{d}nergal {d}en-lil₂ kur-ra-ke₄ igi-bi-a sag₉-ni
+c.5.5.2,An elegy on the death of Nannaya,,92,ki-TAR gu₇ mu-zu he₂-pad₃-de₃ u₂ dug₃ he₂-ri-ib-gu₇-e
+c.5.5.2,An elegy on the death of Nannaya,,93,bar-ra nin kur-ra he₂-me-en arhuš hu-mu-ra-an-tuku-tuku
+c.5.5.2,An elegy on the death of Nannaya,,94,ki-naŋ a dug₃-ga e₂-zu he₂-ni-ib-us₂-X
+c.5.5.2,An elegy on the death of Nannaya,,95,e₂-a he₂-bi₂-in-KU en {d}nin-ŋiš-zid-da
+c.5.5.2,An elegy on the death of Nannaya,,96,kalag-ga {d}gilgameš₂ silim
+c.5.5.2,An elegy on the death of Nannaya,,97,{d}ne-ti u₃ {d}e-ta₂-na a₂-tah-zu
+c.5.5.2,An elegy on the death of Nannaya,,98,diŋir kur-ra-ke₄ šudu₃-zu he₂-em-ša₄-X
+c.5.5.2,An elegy on the death of Nannaya,,99,muš₃-am₃ diŋir-zu he₂-em-me nam-zu
+c.5.5.2,An elegy on the death of Nannaya,,100,diŋir iri{ki}-za-a-kam šag₄ šu niŋin₂
+c.5.5.2,An elegy on the death of Nannaya,,101,šag₄ zu₂ keše₂ šul-a-lum ha-ra-du₈
+c.5.5.2,An elegy on the death of Nannaya,,102,nam-tag-ga e₂-e-ke₄ šid-bi he₂-en-gaz
+c.5.5.2,An elegy on the death of Nannaya,,103,niŋ₂-hul dim₂-ma-zu kur-ta ge-en₆-na-bi
+c.5.5.2,An elegy on the death of Nannaya,,104,eŋer-zu he₂-sag₉
+c.5.5.2,An elegy on the death of Nannaya,,105,he₂-dab₅
+c.5.5.2,An elegy on the death of Nannaya,,106,{d}udug {d}lamma
+c.5.5.2,An elegy on the death of Nannaya,,107,dumu u₃-tu-ud-da-zu nam-saŋ-še₃ he₂-ni-sar
+c.5.5.2,An elegy on the death of Nannaya,,108,dumu-munus-zu diŋir he₂-tuku-tuku
+c.5.5.2,An elegy on the death of Nannaya,,109,dam-zu he₂-til₃ im-ri-a-zu he₂-daŋal
+c.5.5.2,An elegy on the death of Nannaya,,110,he₂-ŋal₂ saŋ sag₉-ga ud šu₂-uš-e he₂-ni-gur₃-ru
+c.5.5.2,An elegy on the death of Nannaya,,111,a-pap-za kurun niŋ₂ dug₃-ga muš₂ nam-ba-an-tum₂-mu
+c.5.5.2,An elegy on the death of Nannaya,,112,e₂-e-zu diŋir-za-kam du-ri₂-še₃ he₂-a

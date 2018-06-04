@@ -1,0 +1,98 @@
+id_text,text_name,version,l_no,text
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,1,a-ba-a mu-un-ba-al-e a-ba-a mu-un-ba-al-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,2,{id₂}asila-kug a-ba mu-un-ba-al-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,3,{id₂}pa₅-bi-luh a-ba mu-un-ba-al-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,4,ur-{d}namma tuku mu-un-ba-al-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,5,tuku mu-un-ba-al-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,6,{d}en-lil₂-le {d}aš-im₂-babbar
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,7,a-ra₂-bi ku₆-a dal-bi mušen-a
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,8,a dug₃-bi ku₆-a dal-bi mušen-a
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,9,u₂-lal₃-a mu-un-du suhur{ku₆} am₃-gur-gur
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,10,u₂-lal₃-a mu-un-du suhur{ku₆} am₃-gur-gur
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,11,gi-zi-bi lal₃-am₃ ku₆ ha-ma-gu₇-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,12,gi-zi-bi lal₃-am₃ ku₆ ha-ma-gu₇-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,13,ki ŋar-ra-bi-ta ku₆ mušen sug₄-ga-am₃
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,14,ki ŋar-ra-bi-ta ku₆ mušen sug₄-ga-am₃
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,15,lugal eridug{ki}-ga uₓ-a-zu sug₄-ga-am₃
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,16,{d}nu-dim₂-mud lugal eridug{ki}-ga uₓ-a-zu sug₄-ga-am₃
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,17,a dug₃ hu-mu-un-tum₂-mu {ŋeš}dusu-e ha-ma-la₂-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Nibru,18,a dug₃ hu-mu-un-tum₂-mu {ŋeš}dusu-e ha-ma-la₂-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,1,a-ba-a mu-un-ba-al-e a-ba-a mu-un-ba-al-e id₂ a-ba-a mu-un-ba-al-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,2,{id₂}keše₂-kug a-ba-a mu-un-ba-al-e id₂ a-ba-a mu-un-ba-al-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,3,{id₂}pa₅-bi-luh a-ba-a mu-un-ba-al-e id₂ a-ba-a mu-un-ba-al-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,4,{d}ur-{d}namma kug tuku mu-un-ba-al-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,5,šul zid niŋ₂-tuku mu-un-ba-al-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,6,lugal-ŋu₁₀ barag-za {d}en-lil₂-le en {d}aš-im₂-babbar
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,7,šul {d}suen barag-za {d}en-lil₂-le en {d}aš-im₂-babbar
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,8,lugal šag₄ zid-ta nam tar-ra nam-nir-ra saŋ il₂
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,9,{d}ur-{d}namma šul igi il₂-la kur gal {d}en-lil₂-le
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,10,{d}nu-nam-nir-re ki-en-gi ki-uri-a ŋe₂₆-e mu-un-suh-en
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,11,nibru{ki}-a hur-saŋ nam-til₃-la-ka nam-ŋu₁₀ im-mi-in-tar
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,12,saŋ-ki zalag-ga-ni mu-un-ši-in-bar nam-lugal ma-an-šum₂
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,13,urim₂{ki}-ma e₂-mud-kur-ra-ka
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,14,{ŋeš}gu-za-ŋa₂ suhuš-bi
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,15,ŋidru kug uŋ₃ šar₂ si sa₂-sa₂-e šu-ŋa₂
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,16,šibir ešgiri₂ uŋ₃ daŋal lu-a
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,17,en {d}aš-im₂-babbar-ke₄ zi ud sud-sud
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,18,{d}en-lil₂-le ub-da ₄-ba
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,19,mu da-ri₂ mu ka-ge ba-ab-du₇
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,20,{d}en-ki-ke₄ ŋeštug₂ daŋal-la-ŋu₁₀ saŋ-e-eš mu-rig₇
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,21,ŋe₂₆-e iri{ki}-ŋa₂ id₂ he₂-ŋal₂-la mu-ba-al {id₂}keše₂-kug mu-sa₄
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,22,urim₂{ki}-ma id₂ he₂-ŋal₂-la mu-ba-al {id₂}keše₂-kug mu-sa₄
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,23,mu da-ri₂ ka-ge ba-ab-du₇-am₃ {id₂}pa₅-bi-luh mušen-am₃
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,24,ŋe₂₆-e iri-ŋa₂ a-ra₂-a-bi ku₆-am₃ dirig-bi mušen-am₃
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,25,urim₂{ki}-ma a-ra₂-a-bi ku₆-am₃ dirig-bi mušen-am₃
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,26,ŋe₂₆-e id₂-ŋa₂ u₂-lal₃-e mu-un-du₃ suhur{ku₆}-e am₃-gur-gur-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,27,urim₂{ki}-ma u₂-lal₃-e mu-un-du₃ suhur{ku₆}-e am₃-gur-gur-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,28,ŋe₂₆-e iri-ŋa₂ gi-zi-bi lal₃-am₃ ab₂-e ha-ma-gu₇-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,29,urim₂{ki}-ma gi-zi-bi lal₃-am₃ ab₂-e ha-ma-gu₇-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,30,ŋe₂₆-e ku₆ mušen sug₄-ga-am₃
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,31,urim₂{ki}-ma
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,32,ŋe₂₆-e id-ŋa₂ a-ra₂-a hu-mu-un-tum₃ {ŋeš}dusu-e hu-mu-un-na-la₂-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,33,urim₂{ki}-ma id-ŋa₂ a-ra₂-a hu-mu-un-tum₃ {ŋeš}dusu-e hu-mu-un-na-la₂-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,34,lugal-bi lugal eridug{ki}-ga uₓ-a-zu sug₄-am₃
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,35,{d}nu-dim-mud lugal eridug{ki}-ga uₓ-a-zu sug₄-am₃
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,36,lugal an ub-da ₄-ba šag₄ {d}en-lil₂-la₂ dug₃-ge-en
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,37,{d}ur-{d}namma u₂-a nibru{ki} saŋ us₂ urim₂{ki}-ma
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,38,iti₆-še₃ kalam urim₂{ki}-ma-še₃
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,39,asila ud mi-ni-ib-zal-zal-e-ne
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Unknown Provenance,40,{d}ur-{d}namma lugal urim₂{ki}-ma za₃-mi₂-zu dug₃-ga-am₃
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,1,
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,2,a-ba mu-un-ba-al-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,3,{id₂}X-X-luh-ha a-ba mu-un-ba-al-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,4,id₂ a-ba mu-un-ba-al-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,5,{id₂}{ŋeš}ŋisal-a-ŋar-ra a-ba mu-un-ba-al-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,6,id₂ a-ba mu-un-ba-al-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,7,ur-{d}namma kug tuku mu-un-ba-al-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,8,id₂ a-ba mu-un-ba-al-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,9,{d}šul-gi niŋ₂-tuku mu-un-ba-al-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,10,id₂ a-ba mu-un-ba-al-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,11,lugal šag₄ zid-da nam tar-ra nam-nir-ra saŋ il₂
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,12,ur-{d}namma šul igi il₂-la kur gal-e {d}en-lil₂-la₂-ke₄
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,13,{d}nun-nam-nir ki-en-gi ki-uri-e me-am₃ mu-un-suh-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,14,nibru{ki}-e hur-saŋ nam-til₃-la-ka nam-ŋi₆ im-mi-in-tar
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,15,urim₅{ki}-e e₂-mud-kur-ra-kam
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,16,{ŋeš}gu-za-ŋa₂ suhuš-bi im-mi-in-gen₆
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,17,aga me-lem₄ me-teš₂ nam-lugal-la saŋ-ŋa₂ im-mi-ŋal₂
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,18,{ŋeš}ŋidru kug uŋ₃ šar₂ si-si-e sa₂ šu-ŋa₂ im-mi-in-sa₂
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,19,ešgiri₂ šibir eš₂-giri₁₇ zi-ŋal₂ lah₆-lah₆-e šu-ŋu₁₀-uš
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,20,saŋ e₂ u₆ di-da-bi im-mi-in-sa₂
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,21,
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,22,
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,24,e₂-kiš-nu-ŋal₂ saŋ kun ŋal₂-la
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,25,e₂-temen-ni₂-gur₃-ru ki-tuš šag₄ hul₂-la
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,26,ur₂-bi im-mi-in-gen₆
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,27,gu₂-da am-bi šu₂
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,28,kug-babbar-ra gub-ba-am₃ im-mi-ir-mi-ri
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,29,na-ri-ŋu₁₀ ud he₂-ŋal₂-la bal {id₂}keše₂-kug mu-še
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,30,mu da-ri ka-ge₅ du-a-ba {id₂}pa₅-bi-luh-ha mu-še
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,31,ŋe₂₆ iri{ki}-ŋa₂ a-ra₂-bi ku₆-ab te-li-bi mu-še-na
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,32,{id₂}keše₂-kug iri{ki}-bi ku₆-ab te-li-bi mu-še-na
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,33,{id₂}pa₅-bi-luh a-ra₂-bi ku₆-ab te-li-bi mu-še-na
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,34,he₂-ŋal₂-bi ku₆ mušen ma-ra-ab-de₆ e₂-kiš-nu-ŋal₂-še₃
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,35,gu₂-gu₂-bi {u₂}munzer lu₂-a u₂-lal₃-e gu₇-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,36,a-gar₃ gal-bi še gu-nu mu₂-mu₂ {ŋeš}tir-gin₇ su-su-u₃-e
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,37,lugal an ub-da ₄-bi še-ga {d}en-lil₂-la₂
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,38,ur-{d}namma sipad u₂-a ki-en-gi ki-uri-e ki aŋ₂ {d}en-lil₂-la₂
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,39,niŋ₂ urim₂{ki}-ma-ke₄ sila-am₃ ud mi-ni-in-za-e-en-za-e-le za-e-me-en
+c.2.4.1.4,Ur-Namma the canal-digger (Ur-Namma D),Urim,40,ur-{d}namma lugal mu da-a-ri za₃-mi₂-zu dug₃-ga

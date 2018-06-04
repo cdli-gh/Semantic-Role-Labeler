@@ -1,0 +1,2 @@
+id_text,text_name,version,l_no,text
+c.2.4.4.9,A praise poem of Šu-Suen (Šu-Suen I),,1,{d}šu-{d}suen lugal en gaba-ŋal₂

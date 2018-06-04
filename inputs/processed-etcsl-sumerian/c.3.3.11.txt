@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+c.3.3.11,Letter from Inim-Inana to Enlil-massu,,1,{m}{d}en-lil₂-mas-su u₃-na-a-dug₄
+c.3.3.11,Letter from Inim-Inana to Enlil-massu,,2,{m}inim-{d}inana-ke₄ na-ab-be₂-a
+c.3.3.11,Letter from Inim-Inana to Enlil-massu,,3,inim na-me ma-an-ne-eš-ma lul-aš ba-hul₂-le
+c.3.3.11,Letter from Inim-Inana to Enlil-massu,,4,{d}lamma ud til₃-la-a kal-le lugal-šu₂
+c.3.3.11,Letter from Inim-Inana to Enlil-massu,,5,{m}na-bi-{d}en-lil₂ u₃ {d}en-lil₂-al-sag₉
+c.3.3.11,Letter from Inim-Inana to Enlil-massu,,6,um-mi-a šu igi du-zu-ne
+c.3.3.11,Letter from Inim-Inana to Enlil-massu,,7,{d}nin-imma₃ diŋir-zu
+c.3.3.11,Letter from Inim-Inana to Enlil-massu,,8,u₃ {d}nisaba nin ŋeštug₂ daŋal-la-ke₄
+c.3.3.11,Letter from Inim-Inana to Enlil-massu,,9,ŋeštug₂ ha-ra-ab-šum₂-mu-ne
+c.3.3.11,Letter from Inim-Inana to Enlil-massu,,10,niŋ₂ im-ma im-sar-re-a
+c.3.3.11,Letter from Inim-Inana to Enlil-massu,,11,iri šu-bi nu-gi₄ al-me-a nu-e-zu-u₃
+c.3.3.11,Letter from Inim-Inana to Enlil-massu,,12,₂ giŋ₄ kug-babbar ₁ tug₂ ₂ {tug₂}bar-sig₉
+c.3.3.11,Letter from Inim-Inana to Enlil-massu,,13,lu₂-gen₆-na šu mu-ra-da₁₃-da₁₃ šu ti-ba-ab
+c.3.3.11,Letter from Inim-Inana to Enlil-massu,,14,ha-la da₁₃-da₁₃ ama-zu šu nam-bi₂-te-en-teŋ₃
+c.3.3.11,Letter from Inim-Inana to Enlil-massu,,15,a-ma-ru-kam

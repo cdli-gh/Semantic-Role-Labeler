@@ -1,0 +1,35 @@
+id_text,text_name,version,l_no,text
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,1,{d}en-lil₂ dug₄-ga u₁₈-ru di zu galam daŋal-la-am₃
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,2,ka-aš bar e₃ dug₄-ga-ni nu-kam₃-me-da umuš šu-ni-še₃ ŋar
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,3,{d}iš-me-{d}da-gan ŋuruš kalag sa su piriŋ šul kalag ni₂-ŋal₂-la
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,4,dili-Xbr-ni mah en mu dug₃ sa₄-a-ni kur šar₂-ra pad₃-da
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,5,e-ne-da zi-ŋal₂-la im-mi-in-lu-a
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,6,a₂-bad₃ uŋ₃ dur₂-ru-na-bi-še₃ saŋ gig₂ šu mu-na-šum₂-ma
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,7,nesaŋ kur-ra-da si ša-mu-na-ni-ib-sa₂-aš
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,8,e₂-gal dug₃-ga-na ki la-ba-na-tag-ge
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,9,ud-ba {d}iš-me-{d}da-gan šul ur-saŋ er₉ dub₃-ŋal₂-e-ne-ke₄
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,10,nibru{ki} iri numun uŋ₃ šar₂-ra i-i til₃-le u₃-tud ŋal₂-la-še₃
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,11,kaš₄ di hu-luh-e ŋi₆ an-bar₇-ba gub-bu muš₃ nu-tum₂-mu
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,12,ud šu₂-uš niŋ₂-nam tum₃ di gal-e-eš na-an-ŋar
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,13,zig₃-ga-ni u₁₈-lu a-ma-ru tum₉ sumur-ba du-a
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,14,a₂-na ba₉-ra₂-a-ba ŋa₂-ŋa₂-ŋa₂-da-na su₃-ud-bi-še₃ ŋir₂-ŋir₂-re
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,15,piriŋ huš edin-na-gin₇ usu nam-šul-ba du-a
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,16,dub₃ kaskal-la bad-bad-da-ni-a ŋiš-la₂ me₃
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,17,{anše}si₂-si₂ har-ra-an-na kun sud-sud-X
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,18,maš₂-tarah-gin₇ kaš₄-kaš₄-e
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,19,du₁₀-ub šu bar-ra nu-kuš₂-u₃
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,20,dumu niŋ₂ tum₂-tum₂ {d}en-lil₂-la₂-ka
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,21,niŋ₂ šag₄ hul₂-hul₂ {d}nin-lil₂-la₂-ka
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,22,lugal-e eš₃ za-gin₃-na-še₃ muš₃ la-ba-ra-tum₂-mu
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,23,ud-ba {d}iš-me-{d}da-gan {urud}alan mir-re-e kaš₄-kaš₄-e hu-luh-ha-na
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,24,e₂-ni₂-guru₃ barag kal-kal-la-na
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,25,mu-ni-in-gub še-er-zid-de₃-eš bi₂-in-gun₃
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,26,nun gal zag an-na en dug₄-ga nu-kam₃-me-da
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,27,saŋ-ki zalag igi zid il₂-la-na
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,28,he₂-en-ši-ni-ŋal₂ sipad zid tud-da-ni-še₃
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,29,lugal a₂ niŋ₂-hul dim₂-ma ib₂-ši-aŋ₂-e-a
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,30,mu-sar-ra-ba šu bi₂-ib₂-ra-a mu-ni bi₂-ib₂-sar-a
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,31,aš₂ bal-a-ba-ke₄-eš lu₂-kur₂ šu ba-an-zi-zi-i-a
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,32,lu₂-ba {d}en-lil₂ lugal-ŋu₁₀ {d}nin-lil₂ nin-ŋu₁₀ nam ha-ba-an-da-ku₅-ru-ne
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,33,{d}en-ki {d}iškur {d}ezina₂ {d}šakkan₂ en he₂-ŋal₂-la-ke₄-ne
+c.2.5.4.19,A dedication of a statue (Išme-Dagan S),,34,he₂-ŋal₂ an ki-a a-ba-da-an-gi₄-eš hul-bi

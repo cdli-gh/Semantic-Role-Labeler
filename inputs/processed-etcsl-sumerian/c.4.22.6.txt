@@ -1,0 +1,51 @@
+id_text,text_name,version,l_no,text
+c.4.22.6,Ninisina and the gods (Ninisina F),,A1,mu-na-sug₂-sug₂-ge-eš
+c.4.22.6,Ninisina and the gods (Ninisina F),,A2,{d}nin-isin₂-na nin me gal-gal-la-ra
+c.4.22.6,Ninisina and the gods (Ninisina F),,A3,me kug me sikil-la šu he₂-en-na-du₇-du₇
+c.4.22.6,Ninisina and the gods (Ninisina F),,A4,me-ni me an-ne₂ saŋ-e-eš rig₇-ga-ni
+c.4.22.6,Ninisina and the gods (Ninisina F),,A5,kur gal {d}en-lil₂-le nam-e-eš mu-ni-in-tar
+c.4.22.6,Ninisina and the gods (Ninisina F),,A6,e₂ {d}en-lil₂-la₂-ta e₃-ni
+c.4.22.6,Ninisina and the gods (Ninisina F),,A7,eridug{ki} ki dug₃-ga am₃-ma-da-an-ku₄-ku₄
+c.4.22.6,Ninisina and the gods (Ninisina F),,A8,eš₃-e abzu-a dur₂ ba-ni-in-ŋar
+c.4.22.6,Ninisina and the gods (Ninisina F),,A9,a-a-ni {d}en-ki-ke₄ dub₃-ba nam-mi-in-tuš
+c.4.22.6,Ninisina and the gods (Ninisina F),,A10,{d}nin-isin₂-na-ra mi₂ zid na-mu-un-e
+c.4.22.6,Ninisina and the gods (Ninisina F),,A11,unu₂ šuba hi-li ba-an-te
+c.4.22.6,Ninisina and the gods (Ninisina F),,A12,{d}nin-isin₂-na-ra gu₂-na he₂-eb-du₃
+c.4.22.6,Ninisina and the gods (Ninisina F),,A13,gada babbar-ra hi-li im-ma-an-te
+c.4.22.6,Ninisina and the gods (Ninisina F),,A14,dumu an kug-ga-ra bar-ra he-em-mi-in-dul
+c.4.22.6,Ninisina and the gods (Ninisina F),,A15,en {d}nu-dim₂-mud-e nam-e-eš mu-ni-in-tar
+c.4.22.6,Ninisina and the gods (Ninisina F),,B1,mu-de₃-nu₂
+c.4.22.6,Ninisina and the gods (Ninisina F),,B2,asila₃-a ud mu-un-di-ni-ib-zal-e
+c.4.22.6,Ninisina and the gods (Ninisina F),,B3,šag₄-ge pad₃-da-zu
+c.4.22.6,Ninisina and the gods (Ninisina F),,B4,nitalam₃ ki aŋ₂-zu en {d}pa-bil₂-saŋ-ŋe₂₆
+c.4.22.6,Ninisina and the gods (Ninisina F),,B5,dug₄-mu-un-di-ni-ib dug₄-mu-un-di-ni-ib
+c.4.22.6,Ninisina and the gods (Ninisina F),,B6,me gal-gal me ₅₀ he₂-du₇
+c.4.22.6,Ninisina and the gods (Ninisina F),,B7,šu du₇-a unu₂ šuba sud-sud
+c.4.22.6,Ninisina and the gods (Ninisina F),,B8,nin mu gal-la-ni
+c.4.22.6,Ninisina and the gods (Ninisina F),,B9,kur gal {d}en-lil₂-le nam-e-eš mu-ni-tar
+c.4.22.6,Ninisina and the gods (Ninisina F),,B10,eš₃ nibru{ki} dur-an-ki-a-kam
+c.4.22.6,Ninisina and the gods (Ninisina F),,B11,ki {d}en-lil₂-la₂-ka
+c.4.22.6,Ninisina and the gods (Ninisina F),,B12,e-ne he₂-en-na-nam-ma-am₃
+c.4.22.6,Ninisina and the gods (Ninisina F),,C1,ŋal₂-la e-ne he₂-en-na-nam-ma-am₃
+c.4.22.6,Ninisina and the gods (Ninisina F),,C2,X{ki}-e an-na-ka
+c.4.22.6,Ninisina and the gods (Ninisina F),,C3,{d}ŋa₂-tum₃-dug₃ e-ne he₂-en-na-nam-ma-am₃
+c.4.22.6,Ninisina and the gods (Ninisina F),,C4,an-ne₂ us₂-sa-a-na
+c.4.22.6,Ninisina and the gods (Ninisina F),,C5,mul dumu-saŋ e-ne he₂-en-na-nam-ma-am₃
+c.4.22.6,Ninisina and the gods (Ninisina F),,C6,ŋir₂-su{ki}-e eš₃ numun i-i-ka
+c.4.22.6,Ninisina and the gods (Ninisina F),,C7,nin-ŋu₁₀ ama {d}ba-u₂ e-ne he₂-en-na-nam-ma-am₃
+c.4.22.6,Ninisina and the gods (Ninisina F),,C8,umma{ki}-a šeg₁₂-kur-šag₄-ga-ka
+c.4.22.6,Ninisina and the gods (Ninisina F),,C9,mir-re gu₇ e-ne he₂-en-na-nam-ma-am₃
+c.4.22.6,Ninisina and the gods (Ninisina F),,C10,Xbr-X{ki}-ka
+c.4.22.6,Ninisina and the gods (Ninisina F),,D1,ušum lu₂-ra nu₂ kilib₃-ba eme ed₃-de₃
+c.4.22.6,Ninisina and the gods (Ninisina F),,D2,nin-ŋu₁₀ {d}nun-gal e-ne he₂-en-na-nam-ma-am₃
+c.4.22.6,Ninisina and the gods (Ninisina F),,D3,nin-ŋu₁₀ lagaš{ki}-a am₃-ma-da-an-ku₄-ku₄
+c.4.22.6,Ninisina and the gods (Ninisina F),,D4,iri{ki} kug ki šag₄-ge pad₃-da-ni
+c.4.22.6,Ninisina and the gods (Ninisina F),,D5,nitalam₃ ki aŋ₂-ŋa₂-ni en {d}pa-bil₂-saŋ-ŋe₂₆
+c.4.22.6,Ninisina and the gods (Ninisina F),,D6,mu-da-an-ŋar
+c.4.22.6,Ninisina and the gods (Ninisina F),,D7,X-na₈-na₈-e-ne
+c.4.22.6,Ninisina and the gods (Ninisina F),,D8,im-dug₃-ge-ne
+c.4.22.6,Ninisina and the gods (Ninisina F),,D9,mu-ne-šum₂
+c.4.22.6,Ninisina and the gods (Ninisina F),,D10,mu-de₃-nu₂
+c.4.22.6,Ninisina and the gods (Ninisina F),,D11,asila₃-a ud mu-un-di-ni-ib-zal-e
+c.4.22.6,Ninisina and the gods (Ninisina F),,D12,{d}nin-isin₂-na za₃-mi₂-zu dug₃-ga-am₃
+c.4.22.6,Ninisina and the gods (Ninisina F),,D13,{d}nin-isin₂-na-kam

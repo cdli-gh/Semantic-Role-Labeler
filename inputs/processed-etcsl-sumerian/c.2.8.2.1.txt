@@ -1,0 +1,91 @@
+id_text,text_name,version,l_no,text
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A1,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A2,nam-en-bi ak-de₃ mu-un-X
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A3,šu iri
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A4,hul-da
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A5,nu-mu-un-tuku
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A6,keše₂-ni-me-en
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A7,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A8,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A9,nam-da-X-a-ni-še₃
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A10,um-ma-ri saŋ gig₂-ga en
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A11,{id₂}buranuna ki-bi-da-ke₄ ha-ba-da-X
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A12,{id₂}idigna
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A13,gu₂ {id₂}ir-ni-na-ta garaš₂ bi-ib₂-du₃
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A14,ha-am-mu-ra-bi lugal {d}gibil mu-X
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A15,{d}en-lil₂-le nam-a-ni-še₃
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A16,{d}en-ki-ke₄ nam-ur-saŋ
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A17,{d}suen-na mu-un-X
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A18,{d}utu maš-maš
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A19,ka piriŋ
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A20,niŋ₂ šag₄-ge de₆-a-ni
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A21,{d}iškur nam-ur-saŋ
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A22,{d}marduk nam-kalag la-X
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A23,{d}inana me
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A24,ni₂-tuku
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,A25,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,B1,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,B2,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,B3,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,B4,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,B5,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,C1,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,C2,e-ri nam-lu₂-ulu₃
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,C3,a-ri nam-zu
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,C4,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,C5,sag₃-ge
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,C6,nam-zu
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,C7,saŋ tah-tah
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,C8,kur gal
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,C9,mu-un-dug₄-eš
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,C10,me lugal-la-ke₄
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,C11,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,C12,{d}en-lil₂ saŋ
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,C13,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,C14,nam-en-bi ak
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,C15,ak
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,C16,ib₂
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,C17,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,D1,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,D2,{d}en-ki-ke₄
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,D3,kalam-ta e₃-a
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,D4,me-te nam-diŋir
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,D5,ib₂-ni
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,D6,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,D7,ŋar-ŋar-ra
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,D8,niŋ₂-hul₂-e
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,D9,en₃-du-bi i-i-e
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,D10,alan-zu la-ba-da-an-kur₉-re
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,D11,ud-da-ni-še₃
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,D12,zu šu mi-ni-ib₂-DU.DU
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,D13,{d}en-lil₂ šag₄-zu mu-un-na-dim₂
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,D14,ba-da-an-kur₉-re
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,D15,nam kal-kal
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,D16,lu₂
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,D17,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,E1,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,E2,lu₂
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,E3,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,E4,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,F1,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,F2,nun-bi {d}marduk lu₂ mu-un-X
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,F3,aš₂ gig-ga
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,F4,ib₂-ba gu-la {d}marduk
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,F5,mu-ru-ub diŋir gal-gal-e-ne
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,F6,an-še₃ nam ha-X
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,F7,{ŋeš}tukul mi-X
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,F8,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,F9,šeg₁₂-X ni₂ te-a-ni
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,F10,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,F11,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,F12,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,F13,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,F14,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,F15,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,F16,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,F17,
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,F18,hul
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,F19,nam ha-la
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,F20,mu-un-na-DU-X
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,F21,saŋ gig₂-ga
+c.2.8.2.1,A praise poem of Hammu-rābi (Hammu-rābi A),,F22,

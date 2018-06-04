@@ -1,0 +1,137 @@
+id_text,text_name,version,l_no,text
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,1,barag mah-a dur₂ ŋar-ra
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,2,ni₂ gur₃-ru u₆ di-de₃ gub-ba
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,3,{d}nin-isin₂-na hu-ul-hu-le-eš₂ sig₇-ga
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,4,me ur₄-ur₄ ŋarza₂ im-pad₃-de₃
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,5,{d}nin-isin₂-na-ke₄ nam-galam-ma gu₂ nam-mi-in-KU
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,6,nam-galam-ma u₂-a me na-ur₄-ur₄-re
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,7,{d}nin-isin₂-na-ke₄ nam-galam-ma u₂-a me na-ur₄-ur₄-re
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,8,me mah šu-še₃ na-ŋa₂-ŋa₂-ŋa₂
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,9,tug₂ gal-e u-gun₃ im-ma-ak-e inim im-ma-ab-sag₉-ge
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,10,bulug-kiŋ₂-gur₄-ra igi mu-un-sig₁₀-ge
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,11,{d}nin-isin₂-na-ke₄ ŋiri₂-GAG-e u₃-sar im-ma-ak-e
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,12,me nam-a-zu šu im-du₇-du₇
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,13,dumu-ni lugal ŋir₂-si-ra
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,14,{d}da-mu lu₂ sag₉-ga šu-ni ba-ab-šum₂-mu
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,15,dumu-ŋu₁₀ niŋ₂ nam-a-zu-ka ŋizzal he₂-em-ma-ak
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,16,{d}da-mu niŋ₂ nam-a-zu-ka ŋizzal he₂-em-ma-ak
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,17,{tug₂}bar-sig₉-ge šu im-ma-an-ti šu im-gur-gur-re
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,18,{tug₂}bar-sig₉ dig-dig-e im-ma-ak-e
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,19,im al-dug₄-ga im-ku₇-ku₇-e
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,20,uš₂ lugud-e šu im-šu₂-ur-šu₂-ur-re
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,21,simₓ-simₓ-ma šu kum₂ mu-na-ak-e
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,22,nin-ŋu₁₀ šag₄-zu ama kalam-ma-ka
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,23,a-zu gal saŋ gig₂-ga-kam
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,24,{d}nin-isin₂-na dumu an-na-ke₄
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,25,dumu-ni lugal ŋir₂-si-ra
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,26,{d}da-mu lu₂ sag₉-ga šu-ni ba-ab-šum₂-mu
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,27,dumu-ŋu₁₀ niŋ₂ nam-a-zu-ka ŋizzal he₂-em-ma-ak
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,28,{d}da-mu niŋ₂ nam-a-zu-ka ŋizzal he₂-em-ma-ak
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,29,eš-bar kiŋ₂-ŋa₂ za₃-mi₂ mi-ri₂-in-dug₄
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,30,kug {d}nin-isin₂-na nam-išib mu-na-ak-e
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,31,{d}en-ki-ke₄ abzu nun-na-ta saŋ-e-eš mu-ni-in-rig₇
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,32,šag₄-gig lipiš-gig lu₂-ulu₃-ra mu-na-kar-re
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,33,lu₂-ulu₃-bi muš ki bil₂-gin₇ i-im-bal-bal-e
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,34,muš ki-uš₂-a-gin₇ e-ne dag i₃-si-il-e
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,35,šag₄-ŋu₁₀ lipiš-ŋu₁₀ gibil-la-bi im-me
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,36,nin-ŋu₁₀ nam-išib-e šu gal mu-un-du₇-du₇
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,37,{d}nin-isin₂-na-ke₄ tu₆ bi₂-in-dug₄ ba-sag₉
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,38,i₃-nun-e nam-šub ba-an-šum₂
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,39,bur gal-la-na ba-ni-in-de₂
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,40,šu sed-da-na nam-ma-an-de₆
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,41,lu₂-ulu₃-bi tum₉-gin₇ kuš-a-na im-ma-an-di-ni-ib-ed₂-de₃
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,42,izi {u₂}numun₂ zi-zi-da-gin₇ ni₂-ba mu-un-te-en-te-en
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,43,diŋir nam-lu₂-ulu₃ sizkur a-ra-zu-a mu-na-an-sug₂-sug₂-ge-eš
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,44,inim-bi-da an-ra {d}en-lil₂-ra
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,45,kug {d}nin-isin₂-na ki mah-a-na mu-un-ne-de₃-en-ku₄-ku₄
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,46,{d}udug hul {d}lamma hul lu₂-ra šub-ba
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,47,{d}dim₃-me {d}dim₃-me-a-bi kur₉-ra ŋi₆ u₃-na
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,48,nam-tar a₂-sag₃-ga lu₂-ra nu-ed₃-de₃
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,49,lu₂-ra sug₂-ge-eš u₃ mu-ni-ib-kar
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,50,diŋir niŋ₂ mu-un-ni-ra-a-ni
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,51,saŋ-ŋu₁₀-a ba-an-di-ni-ib-šub-ba
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,52,lu₂-bi ensi-ra mu-un-pad₃-de₃ eŋer-ra mu-un-zu-zu
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,53,lu₂-ulu₃ nam-tar um-ma-an-dirig-ga
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,54,kug {d}nin-isin₂-na sizkur mu-na-ab-be₂ a-ra-zu mu-na-ab-be₂
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,55,nin-ŋu₁₀ ka tar DU-za za im-DU.DU
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,56,tu₆-zu lu₂-ra mu-un-ta-ed₃-de₃
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,57,šul diŋir tuku he₂-em-mu-un-ak
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,58,eŋer-ba šu-si-zu u₃-mu-ne-ur₃
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,59,ni₂-zu me-teš₂-e ši-im-i-i
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,60,mu-zu dug₃-ge-eš-e im-pad₃-de₃
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,61,nin-ŋu₁₀ ni₂-te-na ki mu-un-kiŋ₂-kiŋ₂-e
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,62,niŋ₂ nu-sig₉-ge en₃ nam-ši-in-tar
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,63,niŋ₂ nu-dim₂-me-de₃ ŋeštug₂-ga-ni na-an-gub
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,64,nam-nu-u₈-gig-e hi-li
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,65,lu₂ nin-ŋu₁₀ me ŋar-ŋar-ra-ba šu ba-ra-an-ti
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,66,ud-ba unu₇ šuba nu-ŋal₂-la-am₃
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,67,unu₇ šuba gu₂-a nu-ŋal₂-la-am₃
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,68,{d}nin-isin₂-na-ke₄ inim-e bi₂-in-sig₁₀-ge
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,69,šuba na-ur₁₁-ru numun-e-eš na-ŋa₂-ŋa₂
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,70,in-nin₉ nu-u₈-gig gal an-na-ke₄
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,71,unu₇ šuba inim-e bi₂-ib-sig₁₀-ge
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,72,še-er-zid ed₂-de₃ zag keše₂-de₃-de₃
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,73,asil₃-la₂ saŋ-ŋa₂ mu-ni-ŋal₂
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,74,šar₂ ki-sikil li-li ŋa₂-ŋa₂-de₃
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,75,bahar₂-ra-ke₄ si sa₂-e-de₃ gi-dur kud-de₃ nam tar-re-de₃
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,76,{ŋeš}ig niŋin₃-ŋar-ra-ke₄ šu us₂-u₃-de₃ ki ra-ra-de₃
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,77,dumu lu₂ ur₂-ra da an-ri-ri gu₃ nun sud-sud-de₃
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,78,šag₄ ki-še₃ ŋa₂-ŋa₂-de₃ saŋ šu bal ak-de₃
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,79,nam-nu-u₈-gig zi-ki-in-ne-en tukum di-de₃ IM.DI luh-e-de₃
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,80,me gal-gal-e pa e₃ u₃-bi₂-ak
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,81,nin-ŋu₁₀ me-te si na-an-ga-am₃-dug₄
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,82,{d}nin-isin₂-na-ke₄ silim zid-de₃-eš na-e
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,83,nin munus šul a₂ mah {d}en-lil₂-la₂-me-en
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,84,munus sag₉-ga {d}nin-isin₂-na-me-en dumu an kug-ga-me-en
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,85,a-a-ŋu₁₀ an lugal sipad diŋir-re-e-ne
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,86,kalam-e barag kug-ga ba-e-tuš
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,87,ama-ŋu₁₀ {d}uraš nin diŋir-re-e-ne
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,88,an-da ki-nu₂ kug-ga šag₄ kuš₂-u₃ e-ne su₃-ud gal ba-e-dug₄
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,89,ki-ulutim₂-ŋu₁₀ an kug ki sikil
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,90,e₂-ŋu₁₀ e₂ i₃-si-in{ki} bulug an ki
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,91,tir šim {ŋeš}erin-na ir-bi nu-gul-e
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,92,šag₄-bi kur he₂-ŋal₂-la ki us₂-sa
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,93,e₂-ŋu₁₀ kur dilmun{ki} nu-me-a {ŋeš}ŋišnimbar-ta ba-an-tud
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,94,i₃-si-in{ki} kur dilmun{ki} nu-me-a {ŋeš}ŋišnimbar-ta ba-an-tud
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,95,zu₂-lum-bi gada mah ŋiš la₂-gin₇ guru₇-še₃ ba-an-dub
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,96,{d}a-nun-na diŋir gal-gal-e-ne mu-da-gu₇-u₃-ne
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,97,e₂-ŋu₁₀ ki silim-ma giri₁₇-zal ki-ulutim₂ kalam-ma
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,98,ŋi₆ u₃-na iti₆-gin₇ ma-e₃
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,99,an-bar₇-gana₂ ud-ud-gin₇ ma-e₃
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,100,nitalam-ŋu₁₀ en {d}pa-bil-saŋ dumu {d}en-lil₂-ke₄
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,101,šag₄-ba e-ne mu-da-an-nu₂ ki-nu₂ mu-ni-ib-dug₃-ge
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,102,id₂-ŋu₁₀ {id₂}kir₁₁-sig he₂-ŋal₂ gu₇-e gig-še₃ ba-dul₅-la₂
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,103,šag₄-ba a zal-le ma-ra-il₂-il₂
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,104,gu₂-gu₂-bi lal₃ ŋeštin ba-an-mu₂ maš₂-bi ma-sud-e
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,105,kur gal {d}en-lil₂-le šag₄-ga-ni um-ma-an-hu-luh-ha-ta
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,106,kur-da saŋ-ki um-ma-da-an-gid₂
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,107,ki-bal-da nam im-ma-da-an-kud
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,108,ki-bal kur saŋ-ki gid₂-da-ni-še₃
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,109,a-a-ŋu₁₀ {d}en-lil₂-le im-ma-ši-in-gi₄-gi₄
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,110,munus šul-me-en ur-saŋ kalag-ga-me-en ŋe₂₆-e-me-en im-ši-du-un
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,111,sipad ki-bal-ba ŋeštug₂-ga-na im-ma-ni-ib-dab₅-be₂
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,112,ka u₃-mu-da-an-tar ka u₃-mu-da-an-sig₉
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,113,e-ne-ra ŋeštug₂-ga u₃-mu-na-ni-in-u₁₈-lu
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,114,iri-ba hul-a-ba lu₂ nu-mu-un-ši-zu-zu
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,115,sipad-bi u₂-gu₇-a-na lu₂ nu-mu-ši-pad₃-de₃
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,116,a-gin₇ u₃-mu-dab₅-dab₅ buru₁₄-gin₇ u₃-mu-su₃-su₃
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,117,še-gin₇ ŋiš-ba₉-ra₂ šu um-ma-ni-ti
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,118,izi-gin₇ {u₂}numun₂-bur-gin₇ e-ne um-ma-an-la₂
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,119,{ŋeš}tukul sag₃-ge saŋ ŋiš ra-ra-ŋu₁₀
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,120,a-a-ŋu₁₀ {d}en-lil₂-ra nibru{ki}-še₃ ka ga-mu-na-ab-de₆
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,121,nin me huš-a dur₂ ŋar-ra-me-en
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,122,an kug-ta nam-išib šum₂-ma-me-en
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,123,e₂-gal-ta niŋ₂-saŋ zig₃-ga-me-en
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,124,barag mah-ta me šu ti-a-me-en
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,125,peš₁₀-ŋal₂ gaba-ŋal₂ an uraš-a-me-en
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,126,nin gal diŋir-re-e-ne-me-en
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,127,ni₂-ŋu₁₀ huš-am₃ kalam-ma mu-un-ri
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,128,su zig₃-ŋu₁₀ kur-kur-ra ši-im-ri
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,129,a₂ aŋ₂-ŋa₂-ŋu₁₀ lu₂ nu-mu-un-ši-zu-zu
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,130,munus-me-en ur-saŋ-me-en šul-la-me-en a₂-ŋal₂ kalam-ma-me-en
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,131,an mu-dur₇-ra-gin₇ mu-da-gam-e-en
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,132,ki-a a-ŋi₆-gin₇ mu-da-šub-šub
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,133,{ŋeš}rab₃ kalam-ma uŋ₃ šu ri-ri-me-en
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,134,mir-gin₇ du uŋ₃-še₃ šag₄ huŋ-e
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,135,šudu₃ a-ra-zu ŋiš tuku-me-en kug {d}nin-isin₂-na za₃-mi₂
+c.4.22.1,A šir-gida to Ninisina (Ninisina A),,136,šir₃-gid₂-da {d}nin-isin₂-na-kam

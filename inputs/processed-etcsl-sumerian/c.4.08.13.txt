@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A1,u₄-ru-u₄-ru
+c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A2,aŋ₂ ga-ša-an-an-ka u₄-ru
+c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A3,aŋ₂ me ur₃-ru u₄-ru
+c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A4,aŋ₂ nu-nus zid-ŋu₁₀
+c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A5,ki-sikil zid-ŋu₁₀
+c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A6,he₂-nun {d}dumu-zid-da
+c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A7,{d}ušumgal-an-na
+c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A8,aŋ₂ ga-ša-an gu
+c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A9,ga-ša-an-e₂-gal-la
+c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,A10,
+c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,B1,
+c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,B2,
+c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,B3,
+c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,B4,
+c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,B5,šir₃-nam-šub-ba-kam
+c.4.08.13,A šir-namšub to Inana (Dumuzid-Inana M),,B6,šir₃-nam-šub

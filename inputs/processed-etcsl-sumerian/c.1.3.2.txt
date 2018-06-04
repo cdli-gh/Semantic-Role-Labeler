@@ -1,0 +1,185 @@
+id_text,text_name,version,l_no,text
+c.1.3.2,Inana and Ebih,,1,in-nin me huš-a ni₂ gur₃-ru me gal-la u₅-a
+c.1.3.2,Inana and Ebih,,2,{d}inana a₂-an-kar₂ kug šu du₇ mud-bi gu₂ e₃
+c.1.3.2,Inana and Ebih,,3,me₃ gal-gal-la hub₂ dar ak {kuš}gur₂₁-bi ki us₂-sa
+c.1.3.2,Inana and Ebih,,4,ud mar-uru₅-a šu tag dug₄-ga
+c.1.3.2,Inana and Ebih,,5,nin gal {d}inana šen-šen-na sa₂ sig₁₀-sig₁₀-ge₅ gal-zu
+c.1.3.2,Inana and Ebih,,6,kur gul-gul ti a₂-ta i-ni-in-ug₇ kur-re a₂ ba-e-šum₂
+c.1.3.2,Inana and Ebih,,7,piriŋ-gin₇ an ki-a šeg₁₁ i-ni-in-gi₄ uŋ₃-e su i₃-ni-in-sag₃
+c.1.3.2,Inana and Ebih,,8,am gal-gin₇ kur gu₂-erim₂-ŋal₂-la u₃-na ba-gub-be₂-en
+c.1.3.2,Inana and Ebih,,9,piriŋ huš-gin₇ uru₁₆-na nu-še-ga ze₂-za bi₂-ib₂-te-en-te-en
+c.1.3.2,Inana and Ebih,,10,nin-ŋu₁₀ an-gin₇ buluŋ₃-ŋa₂-za
+c.1.3.2,Inana and Ebih,,11,ki-sikil {d}inana ki-gin₇ mah-a-za
+c.1.3.2,Inana and Ebih,,12,{d}utu lugal-gin₇ e₃-a-za a₂ daŋal sud-sud-za
+c.1.3.2,Inana and Ebih,,13,an-na du-a-za ni₂ huš gur₃-ru-za
+c.1.3.2,Inana and Ebih,,14,ki-a ud še-er-zid gur₃-ru-za
+c.1.3.2,Inana and Ebih,,15,hur-saŋ-ŋa₂ ŋen-na sa za-gin₃ e₃-a-za
+c.1.3.2,Inana and Ebih,,16,kur gi-rin-na a tu₅-a-za
+c.1.3.2,Inana and Ebih,,17,kur šuba₂ kur ki sikil u₃-tu-ud-da-za
+c.1.3.2,Inana and Ebih,,18,za-gin₃ ur₅-gin₇ ni₂-ba dur₂-dur₂-ra-za
+c.1.3.2,Inana and Ebih,,19,en ul en šar₂-gin₇ šita₂ gur₄-gur₄-ra-za
+c.1.3.2,Inana and Ebih,,20,me₃-ba {ŋeš}tukul ur₃-ra-gin₇ saŋ gur₄-gur₄-re-za
+c.1.3.2,Inana and Ebih,,21,saŋ gig₂-ga šir₃-re-eš bi₂-ib-ra
+c.1.3.2,Inana and Ebih,,22,kur-kur-re i-lu-lam-ma-bi dug₃-ge-eš im-mi-ib₂-be₂
+c.1.3.2,Inana and Ebih,,23,nin me₃ dumu gal {d}suen-na
+c.1.3.2,Inana and Ebih,,24,ki-sikil {d}inana me-teš₂-e ga-i-i
+c.1.3.2,Inana and Ebih,,25,in-nin-me-en an niŋin₂-na-ŋu₁₀-ne ki niŋin₂-na-ŋu₁₀-ne
+c.1.3.2,Inana and Ebih,,26,{d}inana-me-en an niŋin₂-na-ŋu₁₀-ne ki niŋin₂-na-ŋu₁₀-ne
+c.1.3.2,Inana and Ebih,,27,elam{ki} su-bir₄{ki}-a niŋin₂-na-ŋu₁₀-ne
+c.1.3.2,Inana and Ebih,,28,kur lu₅-lu₅-bi-a niŋin₂-na-ŋu₁₀-ne
+c.1.3.2,Inana and Ebih,,29,kur-šag₄-ga du₇-du₇-da-ŋu₁₀-ne
+c.1.3.2,Inana and Ebih,,30,in-nin₉-me-en kur-re te-a-me-en ni₂-bi na-ma-ra-ab-ak
+c.1.3.2,Inana and Ebih,,31,{d}inana-me-en kur-re te-a-me-en ni₂-bi na-ma-ra-ab-ak
+c.1.3.2,Inana and Ebih,,32,hur-saŋ ebih{ki}-ke₄ te-a-me-en ni₂-bi na-ma-ra-ab-ak
+c.1.3.2,Inana and Ebih,,33,ni₂-bi-ta na-ma-ra-ab-ak-gin₇
+c.1.3.2,Inana and Ebih,,34,giri₁₇-bi ki-še₃ na-ma-ra-ab-te-a-gin₇
+c.1.3.2,Inana and Ebih,,35,nundum sahar-ra na-ma-ni-ib-ur₃-ra-gin₇
+c.1.3.2,Inana and Ebih,,36,hur-saŋ zig₃ šu-ŋu₁₀ ga-am₃-mi-ib-si ni₂-ŋu₁₀ ga-mi-ib-zu
+c.1.3.2,Inana and Ebih,,37,a₂ mah-bi-še₃ gud mah ga-ba-ši-gub
+c.1.3.2,Inana and Ebih,,38,a₂ tur-bi-še₃ gud tur ga-ba-ši-gub
+c.1.3.2,Inana and Ebih,,39,hub₂ ga-mu-un-šu₂ ešemen {d}inana kug ga-mu-ni-in-sar
+c.1.3.2,Inana and Ebih,,40,hur-saŋ-ŋa₂ me₃ ga-ba-ab-de₆ šen-šen si ga-ba-ab-sa₂
+c.1.3.2,Inana and Ebih,,41,ti mar-uru₅-a si ga-ba-ab-sa₂
+c.1.3.2,Inana and Ebih,,42,a₂-sag₃ ebih₂-gin₇ ga-ba-ab-sur-sur
+c.1.3.2,Inana and Ebih,,43,ŋiš-gid₂-da niŋ₂-su-ub ga-ba-ab-ak
+c.1.3.2,Inana and Ebih,,44,{ŋeš}ilar {kuš}gur₂₁ si ga-na-ab-sa₂-sa₂
+c.1.3.2,Inana and Ebih,,45,{ŋeš}tir us₂-sa-bi-še₃ izi ga-am₃-sag₃
+c.1.3.2,Inana and Ebih,,46,hul-du-bi-še₃ {urud}ha-zi-in ga-ba-ši-gub
+c.1.3.2,Inana and Ebih,,47,a-niŋin₂-ba {d}gibil₆ lu₂ sikil-la kiŋ₂ ga-ba-an-du₃-du₃
+c.1.3.2,Inana and Ebih,,48,hur-saŋ aratta{ki} šu nu-teŋ₃-ŋe₂₆ ni₂-bi ga-ba-ni-ib₂-sud
+c.1.3.2,Inana and Ebih,,49,iri an-ne₂ nam ba-an-kud-da-gin₇ ki-bi na-an-gi₄-gi₄
+c.1.3.2,Inana and Ebih,,50,{d}en-lil₂-le saŋ-ki gid₂-da-gin₇ gu₂-bi na-an-zi-zi
+c.1.3.2,Inana and Ebih,,51,kur-re in-di₃-ŋu₁₀ he₂-kur-ku
+c.1.3.2,Inana and Ebih,,52,ebih{ki}-e ka tar-ŋu₁₀ he₂-si-il-le me-teš₂ hu-mu-i-i
+c.1.3.2,Inana and Ebih,,53,{d}inana dumu {d}suen-na-ke₄
+c.1.3.2,Inana and Ebih,,54,{tug₂}pala₃-a ba-an-mur₁₀ ul gu₂ ba-an-e₃
+c.1.3.2,Inana and Ebih,,55,ni₂ me-lem₄ huš-a saŋ-ki-na še-er-ka-an ba-ni-in-dug₄
+c.1.3.2,Inana and Ebih,,56,zi-pa-aŋ₂ kug-ga-na {na₄}gug gi-rin-na si ba-ni-in-sa₂-sa₂
+c.1.3.2,Inana and Ebih,,57,šita saŋ ₇-e zid-da-na nam-šul ba-ni-in-ak
+c.1.3.2,Inana and Ebih,,58,dur {na₄}za-gin₃-na ŋiri₃-ni bi₂-in-de₆
+c.1.3.2,Inana and Ebih,,59,an-usan-na nir mi-ni-ib-e₃
+c.1.3.2,Inana and Ebih,,60,kan₄ u₆ di sila-ba bi₂-in-gub
+c.1.3.2,Inana and Ebih,,61,an-ra ne-saŋ mu-un-na-an-gub sizkur mu-na-ab-be₂
+c.1.3.2,Inana and Ebih,,62,an {d}inana-da hul₂-la-e
+c.1.3.2,Inana and Ebih,,63,mu-un-gid₂ ki-na ba-e-tuš
+c.1.3.2,Inana and Ebih,,64,zag gal an-na-ka ba-e-si
+c.1.3.2,Inana and Ebih,,65,an a-a-ŋu₁₀ silim ma-ra-ab-be₂-en inim-ŋu₁₀-uš ŋeštug₂-zu
+c.1.3.2,Inana and Ebih,,66,an-ne₂ an-ba ni₂-ŋu₁₀ mi-ni-in-ri
+c.1.3.2,Inana and Ebih,,67,za-e-me-en inim-ŋu₁₀ an ki-a gaba-ri la-ba-e-ni-tuku
+c.1.3.2,Inana and Ebih,,68,an-bar-ra {ŋeš}silig-ga-am₃
+c.1.3.2,Inana and Ebih,,69,an-ti-bal ma-an-si-um
+c.1.3.2,Inana and Ebih,,70,ki-gal sig₁₀-ge₅ {ŋeš}gu-za suhuš gen₆-na
+c.1.3.2,Inana and Ebih,,71,a₂ nam-šita₄ šu ŋa₂-ŋa₂ mu-bu-um-gin₇ gam
+c.1.3.2,Inana and Ebih,,72,₆ la₂-e ki ha-ha-ze₂
+c.1.3.2,Inana and Ebih,,73,₄ la₂-e haš₂ gid₂-gid₂-i
+c.1.3.2,Inana and Ebih,,74,kaskal gaz-e har-ra-an-na zag-še₃
+c.1.3.2,Inana and Ebih,,75,lugal-bi-ir an-na-ka iti₆-gin₇ e₃-a
+c.1.3.2,Inana and Ebih,,76,ti a₂-ta e₃-a a-gar₃-e {ŋeš}kiri₆ tir zu₂ bir₅-gin₇ zi-zi
+c.1.3.2,Inana and Ebih,,77,{ŋeš}gana₂-ur₃ ki-bal sig₁₀-sig₁₀-ge₅
+c.1.3.2,Inana and Ebih,,78,abul-a-ba {ŋeš}si-ŋar gid₂-de₃ {ŋeš}ig-bi bi₂-ib-gub-be₂
+c.1.3.2,Inana and Ebih,,79,an lugal šu-ŋu₁₀ he₂-em-mu-e-šum₂ a₂
+c.1.3.2,Inana and Ebih,,80,lugal-la zid-da-na he₂-ni-in-kur₉ ki-bal gul-gul-lu-de₃
+c.1.3.2,Inana and Ebih,,81,kur-ur₂-ra sur₂-du₃{mušen}-gin₇ saŋ hu-mu-da-dub₂-be₂
+c.1.3.2,Inana and Ebih,,82,an lugal mu-zu zag kalam-ma gu-gin₇ ga-an-ši-BAD
+c.1.3.2,Inana and Ebih,,83,kur-kur-ra muš ki-in-dar-ra-gin₇ šu hu-mu-da-dub₂-be₂-eš
+c.1.3.2,Inana and Ebih,,84,muš-saŋ-kal kur-bi-ta ed₃-da-gin₇ da-ga hu-mu-da-an-du
+c.1.3.2,Inana and Ebih,,85,kur-ra a₂ he₂-bi₂-in-ŋar igi he₂-ni-in-bar gid₂-da-bi ha-ba-zu
+c.1.3.2,Inana and Ebih,,86,har-ra-an kug an-na-ka-še₃ he₂-ni-e₃ buru₃-da-bi ha-ba-zu
+c.1.3.2,Inana and Ebih,,87,diŋir-re-e-ne ga-an-ne-dirig-X-Xbr
+c.1.3.2,Inana and Ebih,,88,{d}inana-me-en {d}a-nun-na-ke₄-ne u₃-ba-DU
+c.1.3.2,Inana and Ebih,,89,a-gin₇ ŋe₂₆-e kur-re an ki-a ni₂-ŋu₁₀ la-ba-ni-ib-ta-a-ta
+c.1.3.2,Inana and Ebih,,90,{d}inana-me-en kur-re an ki-a ni₂-ŋu₁₀ la-ba-ni-ib-ta-a-ta
+c.1.3.2,Inana and Ebih,,91,hur-saŋ ebih{ki}-a-ke₄ kur-re an ki-a ni₂-ŋu₁₀ la-ba-ni-ib-ta-a-ta
+c.1.3.2,Inana and Ebih,,92,ni₂-bi-ta na-ma-ra-ab-ak-gin₇
+c.1.3.2,Inana and Ebih,,93,giri₁₇-bi ki-še₃ na-ma-ab-te-a-gin₇
+c.1.3.2,Inana and Ebih,,94,nundum sahar-ra na-ma-ni-ib-ur₃-ra-gin₇
+c.1.3.2,Inana and Ebih,,95,hur-saŋ zig₃ šu-ŋu₁₀ ga-am₃-mi-ib-si ni₂-ŋu₁₀ ga-mi-ib-zu
+c.1.3.2,Inana and Ebih,,96,a₂ mah-bi-še₃ gud mah ga-ba-ši-gub
+c.1.3.2,Inana and Ebih,,97,a₂ tur-bi-še₃ gud tur ga-ba-ši-gub
+c.1.3.2,Inana and Ebih,,98,ga-mu-un-šub e-šen {d}inana kug ga-mu-ni-in-sar
+c.1.3.2,Inana and Ebih,,99,hur-saŋ-ŋa₂ me₃ ga-ba-lah₅ šen-šen ga-ba-ab-sar-sar
+c.1.3.2,Inana and Ebih,,100,ti mar-uru₅-am₃ si ga-ba-ab-sa₂
+c.1.3.2,Inana and Ebih,,101,a₂-sag₃ ebih₂-bi ga-ba-ab-sur-sur
+c.1.3.2,Inana and Ebih,,102,ŋiš-gid₂-da niŋ₂-su-ub ga-ba-ab-ak
+c.1.3.2,Inana and Ebih,,103,{ŋeš}ilar {kuš}gur₂₁ si ga-am₃-ma-ab-sa₂-sa₂
+c.1.3.2,Inana and Ebih,,104,tir us₂-sa-bi-še₃ izi ga-am₃-sag₃
+c.1.3.2,Inana and Ebih,,105,hul-du-bi-še₃ {urud}ha-zi-in ga-ba-ši-gub
+c.1.3.2,Inana and Ebih,,106,a-niŋin₂-ba {d}gibil₆ lu₂ sikil-la kiŋ₂ ga-ba-an-tuku-tuku
+c.1.3.2,Inana and Ebih,,107,hur-saŋ aratta{ki} šu nu-teŋ₃-ŋe₂₆ ni₂-bi ga-ba-ni-ib₂-sud
+c.1.3.2,Inana and Ebih,,108,iri an-ne₂ nam ba-kud-da-gin₇ ki-bi na-an-gi₄-gi₄
+c.1.3.2,Inana and Ebih,,109,{d}en-lil₂-le saŋ-ki gid₂-da-gin₇ gu₂-bi na-an-zi-zi
+c.1.3.2,Inana and Ebih,,110,kur-re in-di₃-ŋu₁₀ he₂-kur-ku
+c.1.3.2,Inana and Ebih,,111,ebih{ki} ka tar-ŋu₁₀ he₂-si-il-le me-teš₂ hu-mu-i-i
+c.1.3.2,Inana and Ebih,,112,an lugal diŋir-re-e-ne-ke₄ mu-na-ni-ib-gi₄-gi₄
+c.1.3.2,Inana and Ebih,,113,lu₂-tur-ŋu₁₀ kur-re al bi₂-dug₄ šag₄-bi a-na ab-ak
+c.1.3.2,Inana and Ebih,,114,{d}inana-me-en kur-re al bi₂-dug₄ šag₄-bi a-na ab-ak
+c.1.3.2,Inana and Ebih,,115,hur-saŋ ebih{ki} al bi₂-dug₄ šag₄-bi a-na ab-ak
+c.1.3.2,Inana and Ebih,,116,ki-gub diŋir-re-e-ne-ke₄ ni₂ huš im-da-ri-ri
+c.1.3.2,Inana and Ebih,,117,ki-tuš kug {d}a-nun-na-ke₄-ne su zig₃ im-du₈-du₈
+c.1.3.2,Inana and Ebih,,118,ni₂-bi huš-a kalam-ma mu-un-ri
+c.1.3.2,Inana and Ebih,,119,hur-saŋ-ŋa₂ me-lem₄-bi huš-a kur-kur mu-un-ri
+c.1.3.2,Inana and Ebih,,120,sukud-da-bi an-na šag₄-bi nir mi-ni-ib-e₃
+c.1.3.2,Inana and Ebih,,121,{ŋeš}kiri₆ nisig-bi gurun im-la₂ giri₁₇-zal im-du₈-du₈
+c.1.3.2,Inana and Ebih,,122,ŋiš mah-bi aga₃ an-na u₆ di-de₃ ba-gub
+c.1.3.2,Inana and Ebih,,123,ebih{ki}-a ŋiš-an-dul₃ pa mul-mul-la-ba ug tab-ba mu-un-lu
+c.1.3.2,Inana and Ebih,,124,šeg₉ lu-lim-bi ni₂-ba mu-un-lu
+c.1.3.2,Inana and Ebih,,125,am-bi u₂ lu-a mu-un-gub
+c.1.3.2,Inana and Ebih,,126,tarah-bi ha-šu-ur₂ hur-saŋ-ŋa₂-ka e-ne su₃-ud-bi im-me
+c.1.3.2,Inana and Ebih,,127,ni₂-bi huš-a nu-mu-e-da-ku₄-ku₄
+c.1.3.2,Inana and Ebih,,128,hur-saŋ-ŋa₂ me-lem₄-bi huš-am₃
+c.1.3.2,Inana and Ebih,,129,ki-sikil {d}inana saŋ nu-mu-e-de₃-ŋa₂-ŋa₂
+c.1.3.2,Inana and Ebih,,130,ur₅-gin₇ hu-mu-na-ab-ak
+c.1.3.2,Inana and Ebih,,131,nu-gig ib₂-ba-ni lipiš bal-a-ni
+c.1.3.2,Inana and Ebih,,132,e₂ me₃-ka ŋal₂ ba-an-taka₄
+c.1.3.2,Inana and Ebih,,133,{ŋeš}ig za-gin₃-na šu ba-an-us₂
+c.1.3.2,Inana and Ebih,,134,me₃ mah ba-ra-an-e₃ ud gal ki bi₂-in-us₂
+c.1.3.2,Inana and Ebih,,135,kug {d}inana-ke₄ mar-uru₅ sa₂ bi₂-in-dug₄
+c.1.3.2,Inana and Ebih,,136,mar-uru₅ zig₃-ga sahar hul bi₂-ib-zig₃
+c.1.3.2,Inana and Ebih,,137,im-hul zig₃-ga šika im-bar-re
+c.1.3.2,Inana and Ebih,,138,nin-ŋu₁₀ hur-saŋ-ŋa₂ ba-du₇-du₇
+c.1.3.2,Inana and Ebih,,139,ŋiri₃-ni ₂-a-bi mu-un-sub₂
+c.1.3.2,Inana and Ebih,,140,ŋiri₂ a₂ ₂-a-bi u₃-sar ba-an-ak
+c.1.3.2,Inana and Ebih,,141,ebih{ki}-a gu₂-bi {u₂}numun₂-bur-gin₇ šu ba-an-ši-in-ti
+c.1.3.2,Inana and Ebih,,142,šag₄-bi zu₂ ŋiri₂-a ba-ni-in-ra
+c.1.3.2,Inana and Ebih,,143,ka gal gu₃-an-ne₂-si-gin₇ mu-un-si-il-le
+c.1.3.2,Inana and Ebih,,144,ebih{ki}-e na₄ su ni₂-ba-ke₄
+c.1.3.2,Inana and Ebih,,145,bar-bi-a dub-dab₅ he₂-em-mi-ib-za
+c.1.3.2,Inana and Ebih,,146,a₂-ta ri-a-ta muš-šag₄-tur₃ gal-gal-la uš₁₁ mu-un-gu₂-guru₅-gu₂
+c.1.3.2,Inana and Ebih,,147,{ŋeš}tir-bi aš₂ bi₂-in-dug₄ ŋiš-bi nam ba-an-kud
+c.1.3.2,Inana and Ebih,,148,{ŋeš}al-la-nu-um-bi enmen-ba mi-ni-in-ug₇
+c.1.3.2,Inana and Ebih,,149,bar-bi-a izi mi-ni-in-ri i-bi₂-bi bi₂-in-mu₂
+c.1.3.2,Inana and Ebih,,150,in-nin-e kur-re me bi₂-in-tal₂
+c.1.3.2,Inana and Ebih,,151,kug {d}inana-ke₄ a-la-ni-gin₇ bi₂-in-dim₂
+c.1.3.2,Inana and Ebih,,152,hur-saŋ ebih{ki}-ke₄ im-ma-ŋen gu₃ im-ma-de₂-e
+c.1.3.2,Inana and Ebih,,153,hur-saŋ il₂-la-zu-še₃ sukud-da-zu-še₃
+c.1.3.2,Inana and Ebih,,154,sag₉-ga-zu-še₃ sig₇-ga-zu-še₃
+c.1.3.2,Inana and Ebih,,155,tug₂-ba₁₃ kug-ga mur₁₀-ra-zu-še₃
+c.1.3.2,Inana and Ebih,,156,an-ne₂ šu si sa₂-a-zu-še₃
+c.1.3.2,Inana and Ebih,,157,giri₁₇ ki-še₃ nu-te-a-zu-še₃
+c.1.3.2,Inana and Ebih,,158,nundum sahar-ra nu-ur₃-ra-zu-še₃
+c.1.3.2,Inana and Ebih,,159,mu-ug₅-ge-en šag₄ sig₉-ga mu-un-sig₁₀-ge-en
+c.1.3.2,Inana and Ebih,,160,am-si-gin₇ si-za mi-ni-ib₂-dab₅-be₂-en
+c.1.3.2,Inana and Ebih,,161,am gal-gin₇ a₂ gur₄-gur₄-ra-za ki mu-e-ši-ib-us₂
+c.1.3.2,Inana and Ebih,,162,gud-gin₇ a₂ mah-zu ki ba-e-te-en hul-bi mu-ri-ib₂-us₂
+c.1.3.2,Inana and Ebih,,163,igi-za er₂-ra si ba-ni-in-sa₂
+c.1.3.2,Inana and Ebih,,164,šag₄-za a-nir-ra ba-ni-in-ŋar
+c.1.3.2,Inana and Ebih,,165,bar-bi-a mušen šag₄ sag₃-ga-ke₄ gud₃ im-ma-ni-us₂
+c.1.3.2,Inana and Ebih,,166,₂-kam-ma-še₃ ni₂ huš na-kur-ku silim zid-de₃-eš na-e
+c.1.3.2,Inana and Ebih,,167,a-a-ŋu₁₀ {d}mu-ul-lil₂-le šag₄ kur-kur-ra-ka ni₂ gal-ŋu₁₀ mi-ni-in-ri
+c.1.3.2,Inana and Ebih,,168,a₂ zid-da-ŋu₁₀ {ŋeš}tukul mi-ni-in-ri
+c.1.3.2,Inana and Ebih,,169,a₂ gab₂-bu-ŋu₁₀ ri-ri-me-en
+c.1.3.2,Inana and Ebih,,170,mir-ŋu₁₀ {ŋeš}gana₂-ur₃ zu₂ gal-gal-la in-si-il-si-il-e
+c.1.3.2,Inana and Ebih,,171,e₂-gal mu-du₃ niŋ₂ dirig bi₂-ak
+c.1.3.2,Inana and Ebih,,172,{ŋeš}gu-za mi-ni-gub suhuš-bi mi-ni-ge-en
+c.1.3.2,Inana and Ebih,,173,kur-ŋar-ra ŋiri₂ ba-da-ra mu-na-šum₂
+c.1.3.2,Inana and Ebih,,174,gala-ra {kuš}ub li-li-is₃ mu-na-šum₂
+c.1.3.2,Inana and Ebih,,175,pi-li-pi-li saŋ šu bal mu-ni-ak
+c.1.3.2,Inana and Ebih,,176,kur-re u₃-ma-ŋa₂ saŋ ba-šum₂
+c.1.3.2,Inana and Ebih,,177,hur-saŋ ebih{ki} u₃-ma-ŋu₁₀ saŋ ba-ra-šum₂
+c.1.3.2,Inana and Ebih,,178,a mah e₃-a-gin₇ u₃-ba-ŋen
+c.1.3.2,Inana and Ebih,,179,a zig₃-ga-gin₇ ŋiš-keše₂-ra₂ ba-sur
+c.1.3.2,Inana and Ebih,,180,kur-ra u₃-ma-ŋu₁₀ im-ma-gub
+c.1.3.2,Inana and Ebih,,181,ebih{ki}-e u₃-ma-ŋu₁₀ im-ma-gub
+c.1.3.2,Inana and Ebih,,182,ebih{ki} hul-a dumu gal {d}suen-na
+c.1.3.2,Inana and Ebih,,183,ki-sikil {d}inana za₃-mi₂
+c.1.3.2,Inana and Ebih,,184,{d}nisaba za₃-mi₂

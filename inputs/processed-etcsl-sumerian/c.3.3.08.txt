@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+c.3.3.08,Letter from Šamaš-ṭāb to Ilak-niʾid,,1,{m}i-la-ak-ni-id u₃-na-dug₄
+c.3.3.08,Letter from Šamaš-ṭāb to Ilak-niʾid,,2,{m}{d}UTU-DUG₃-e na-ab-be₂-a
+c.3.3.08,Letter from Šamaš-ṭāb to Ilak-niʾid,,3,kaskal itid ₁ ud ₁₅-kam ud he₂-bi₂-DU
+c.3.3.08,Letter from Šamaš-ṭāb to Ilak-niʾid,,4,šag₄ ni-qum{ki}-ma-še₃ a-na-še-am₃ itid-da ud ₃-kam-ma-bi
+c.3.3.08,Letter from Šamaš-ṭāb to Ilak-niʾid,,5,a₂ aŋ₂-ŋa₂-zu na-ma-tum₃
+c.3.3.08,Letter from Šamaš-ṭāb to Ilak-niʾid,,6,bar-zu en₃ bi₂-in-tar ŋiri₃-zu si ba-ab-sa₂
+c.3.3.08,Letter from Šamaš-ṭāb to Ilak-niʾid,,7,₂ anše-ŋiš-am₃ kug-bi ₄ giŋ₄
+c.3.3.08,Letter from Šamaš-ṭāb to Ilak-niʾid,,8,₁ šag₄-ga-du₃ gada kug-bi MAŠ giŋ₄
+c.3.3.08,Letter from Šamaš-ṭāb to Ilak-niʾid,,9,a₂ {ŋeš}ma₂-zu ₁ giŋ₄
+c.3.3.08,Letter from Šamaš-ṭāb to Ilak-niʾid,,10,a₂ mas-su {ŋeš}ma₂-zu ₁ ₁/₃ giŋ₄-am₃
+c.3.3.08,Letter from Šamaš-ṭāb to Ilak-niʾid,,11,a bi₂-si-ig
+c.3.3.08,Letter from Šamaš-ṭāb to Ilak-niʾid,,12,zig₃-ga dili-dili-zu šag₄-bi-ta nu-ŋal₂
+c.3.3.08,Letter from Šamaš-ṭāb to Ilak-niʾid,,13,₂ gun₂ siki da-gal-tum-ma kug-bi ha-ra-da-šid
+c.3.3.08,Letter from Šamaš-ṭāb to Ilak-niʾid,,14,niŋ₂-sam₂-ma kug ₁ ₂/₃ ma-na-kam nagga-a gi₄-ma-ni-ib
+c.3.3.08,Letter from Šamaš-ṭāb to Ilak-niʾid,,15,{na₄}du₈-ši-a {na₄}nir₇-igi {na₄}nir₇-muš-ŋir₂
+c.3.3.08,Letter from Šamaš-ṭāb to Ilak-niʾid,,16,ŋeštug₂-zu he₂-en-ŋal₂
+c.3.3.08,Letter from Šamaš-ṭāb to Ilak-niʾid,,17,kug dili-dili-zu saŋ-bi ha-ra-ab-dab₅ im-ma hu-mu-ra-ab-tag
+c.3.3.08,Letter from Šamaš-ṭāb to Ilak-niʾid,,18,ud-da-ta a₂ aŋ₂-ŋa₂-zu he₂-em-tum₃
+c.3.3.08,Letter from Šamaš-ṭāb to Ilak-niʾid,,19,a-ma-ru-kam

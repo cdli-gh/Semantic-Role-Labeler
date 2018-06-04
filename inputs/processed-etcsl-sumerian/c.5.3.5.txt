@@ -1,0 +1,190 @@
+id_text,text_name,version,l_no,text
+c.5.3.5,The debate between Bird and Fish,,1,ud ul re-ta nam dug₃ tar-ra-a-ba
+c.5.3.5,The debate between Bird and Fish,,2,an {d}en-lil₂ an ki ŋiš-hur-bi mu-un-ŋar-re-eš-a-ba
+c.5.3.5,The debate between Bird and Fish,,3,en ŋeštug₂ daŋal-la-ke₄
+c.5.3.5,The debate between Bird and Fish,,4,{d}en-ki lugal nam-tar-ra ₃-kam-ma-bi na-nam
+c.5.3.5,The debate between Bird and Fish,,5,mu-un-ur₄-ur₄ dur₂ ki ba-an-ŋar
+c.5.3.5,The debate between Bird and Fish,,6,a zi-šag₄-ŋal₂ numun zid u₃-tud šu-še₃ im-ma-ab-la₂
+c.5.3.5,The debate between Bird and Fish,,7,{id₂}idigna {id₂}buranun-na zag-ga ba-an-la₂ a kur-kur-ra mi-ni-in-tum₃-uš
+c.5.3.5,The debate between Bird and Fish,,8,id₂ tur-tur-ra šu luh ba-an-ak sur₃-sur₃ mi-ni-ŋar-ŋar
+c.5.3.5,The debate between Bird and Fish,,9,{d}en-ki-ke₄ tur₃ amaš šu bi₂-in-daŋal sipad unud bi₂-in-tuku
+c.5.3.5,The debate between Bird and Fish,,10,iri{ki} a₂-dam ki-a bi₂-in-ŋar-ŋar saŋ gig₂ mi-ni-in-lu
+c.5.3.5,The debate between Bird and Fish,,11,lugal-e nam-sipad-bi-še₃ mu-un-tuku nam-nun-bi-še₃ mu-un-il₂
+c.5.3.5,The debate between Bird and Fish,,12,lugal ud-dam kur-kur-ra mu-un-e₃
+c.5.3.5,The debate between Bird and Fish,,13,{d}en-ki-ke₄ ambar-ambar-ra zu₂ bi₂-in-keše₂ gi sumun gi henbur₂ bi₂-in-mu₂
+c.5.3.5,The debate between Bird and Fish,,14,pu₂ umah ku₆ mušen mi-ni-lu-ug
+c.5.3.5,The debate between Bird and Fish,,15,ki niŋ₂ zi pa-an-pa-ne-ne gu₇ naŋ-bi-še₃ ba-an-šum₂
+c.5.3.5,The debate between Bird and Fish,,16,he₂-ŋal₂-la diŋir-re-e-ne-ke₄ zag-bi-a ši-in-gub
+c.5.3.5,The debate between Bird and Fish,,17,{d}nu-dim₂-mud nun mah en ŋeštug₂ daŋal-la-ke₄
+c.5.3.5,The debate between Bird and Fish,,18,u₃-mu-un-dim₂-dim₂
+c.5.3.5,The debate between Bird and Fish,,19,ku₆ mušen-bi ŋiš-gi ambar-ra im-mi-in-si
+c.5.3.5,The debate between Bird and Fish,,20,ki-gub-bi in-ne-en-pad₃
+c.5.3.5,The debate between Bird and Fish,,21,ŋiš-hur-bi igi-bi im-mi-in-zu
+c.5.3.5,The debate between Bird and Fish,,22,ud-bi-a ku₆-e ambar-ra nunuz ki ba-ni-in-tag
+c.5.3.5,The debate between Bird and Fish,,23,mušen-e ka ŋiš-gi-a-ka gud₃ im-ma-ni-ib-us₂
+c.5.3.5,The debate between Bird and Fish,,24,mušen-e ku₆ engur-ra-ke₄ mi-ni-ib-hu-luh
+c.5.3.5,The debate between Bird and Fish,,25,ku₆-e im-ma-gub gu₃ im-ma-de₂-e
+c.5.3.5,The debate between Bird and Fish,,26,ni₂ i₃-buluŋ₅ ga-ba-al mu-ni-in-du₃
+c.5.3.5,The debate between Bird and Fish,,27,du₁₄-še₃ sila ba-zig₃ u₃-na-bi ba-an-gub
+c.5.3.5,The debate between Bird and Fish,,28,ku₆-e mušen-ra bir-ra-bi inim mu-na-ni-ib₂-be₂
+c.5.3.5,The debate between Bird and Fish,,29,mušen du₈-du₈ su-lum mar nu-ŋal₂
+c.5.3.5,The debate between Bird and Fish,,30,ze₂-za engur-ra za-pa-aŋ₂ nundum bur₂-re buluŋ₅-ŋa₂
+c.5.3.5,The debate between Bird and Fish,,31,mah-bi gu₇-gu₇ ba-zal šag₄-za hul-bi sur-sur
+c.5.3.5,The debate between Bird and Fish,,32,edin gub-ba-za zu₂ mu-e-da-ra-ah mi-ni-ib-sar-sar-re-ne
+c.5.3.5,The debate between Bird and Fish,,33,ab-sin₂-na dumu engar-ra-ke₄-ne gu₂ sa nam-mi-ri-ak
+c.5.3.5,The debate between Bird and Fish,,34,nu-{ŋeš}kiri₆-ke₄ pu₂-{ŋeš}kiri₆-pu₂-{ŋeš}kiri₆-a sa na-mu-e-ri-gub
+c.5.3.5,The debate between Bird and Fish,,35,{kuš}da-lu-uš₂-ta a₂-ni nu-ŋa₂-ŋa₂ dub₃ nu-mu-e-ši-ib-gam-e
+c.5.3.5,The debate between Bird and Fish,,36,mu₂-sar-ra niŋ₂ mu-ni-ib-hul-hul su nu-mu-un-da-dug₃-ge
+c.5.3.5,The debate between Bird and Fish,,37,a-šag₄ ki duru₅ ŋal₂-ŋal₂-la-ba ŋiri₃-zu nu-zil₂-zil₂-i
+c.5.3.5,The debate between Bird and Fish,,38,mušen teš₂ nu-zu kisal-e še₁₀ sud-sud
+c.5.3.5,The debate between Bird and Fish,,39,kisal-luh tur e₂-a sa la₂-e eš₂ hub₂ mi-ni-in-sar-re
+c.5.3.5,The debate between Bird and Fish,,40,za-pa-aŋ₂-zu-ta e₂-e im-suh₃-suh₃ gu₃ mu-e-ši-ib-šub-be₂
+c.5.3.5,The debate between Bird and Fish,,41,e₂ gurušta-ka mu-ni-ib-ku₄-ku₄-ne
+c.5.3.5,The debate between Bird and Fish,,42,gud udu-gin₇ mi-ni-ib-mu₇-e-ne
+c.5.3.5,The debate between Bird and Fish,,43,a sed₄ {dug}a-sig-ga ma-ra-de₂-e-ne
+c.5.3.5,The debate between Bird and Fish,,44,za-e sa₂-dug₄-še₃ mu-e-da-an-gid₂-i-ne
+c.5.3.5,The debate between Bird and Fish,,45,mušen-du₃-e a₂ la₂-ta mu-ni-ib-tum₂-tum₂-mu
+c.5.3.5,The debate between Bird and Fish,,45A,šu-KU₆-de₃ e₂-gal-am₃ mu-ni-ib-ku₄-ku₄
+c.5.3.5,The debate between Bird and Fish,,46,pa-zu igi-zu i₃-im-keše₂-keše₂-re-ne
+c.5.3.5,The debate between Bird and Fish,,47,gu₃ de₂-de₂-zu ki-še-er nu-tuku dal-dal-zu a-na-am₃
+c.5.3.5,The debate between Bird and Fish,,48,gu₃ hul-zu-ta ŋi₆ hu-luh-en u₃ dug₃ nu-mu-un-ku-ku-ne
+c.5.3.5,The debate between Bird and Fish,,49,mušen ambar-ta e₃-ba-ra za-pa-aŋ₂-zu ugu-ŋu₁₀-ta
+c.5.3.5,The debate between Bird and Fish,,50,pu₂-saŋ sahar-dub-ba-ka e₃-ni-ib ur₅-ra-am₃ me-te-zu-um
+c.5.3.5,The debate between Bird and Fish,,51,ud-bi-a ku₆-e mušen-ra in-še₃ mu-ni-in-dub₂
+c.5.3.5,The debate between Bird and Fish,,52,mušen bar gun₃-gun₃ igi gun₃-gun₃ sag₉-ga-ni-še₃ mu-un-zu
+c.5.3.5,The debate between Bird and Fish,,53,in ku₆-e a-na mu-ni-ib-dub₂-ba šag₄-še₃ nu-mu-un-gid₂-de₃
+c.5.3.5,The debate between Bird and Fish,,54,i-gi₄-in-zu emeda u₅-a-aš mu-ni-in-dug₄
+c.5.3.5,The debate between Bird and Fish,,55,inim-še₃ gu₂-ni nu-mu-na-ab-šum₂-mu gu₃ hul mu-un-ta-an-e₃
+c.5.3.5,The debate between Bird and Fish,,56,ud-bi-a mušen-e ku₆-ra mu-na-ni-ib-gi₄-gi₄
+c.5.3.5,The debate between Bird and Fish,,57,a-gin₇ šag₄-zu šag₄ gur₄-ra im-de₆ ni₂-zu mu-e-sun₅-sun₅
+c.5.3.5,The debate between Bird and Fish,,58,ka-zu du₆-dam ka im-ta-ab-niŋin₂ eŋer-zu-še₃ igi nu-bar-re
+c.5.3.5,The debate between Bird and Fish,,59,tugul kud a₂-šu-ŋiri₃ kud ŋiri₃-zu gu₂ bal-zu-še₃
+c.5.3.5,The debate between Bird and Fish,,60,ir nu-dug₃-ga a-ha-an ši-du₃-du₃ ugu-za giri₁₇ ur₅-ur₅
+c.5.3.5,The debate between Bird and Fish,,61,gu₂-a-zu si sa₂-bi {gi}buniŋₓ nu-ub-dab₅-be₂
+c.5.3.5,The debate between Bird and Fish,,62,lu₂ lah₄-a-zu šu-ni su-ni-še₃ nu-ub-tag-ge
+c.5.3.5,The debate between Bird and Fish,,63,engur mah sug daŋal-la-ba ŋe₂₆-e gal₅-la₂-zu-me-en
+c.5.3.5,The debate between Bird and Fish,,64,u₂ dug₃-ga-bi nu-mu-e-ši-ib-gu₇-en gu₃-ŋu₁₀ mu-un-te-te
+c.5.3.5,The debate between Bird and Fish,,65,id₂-da nir-ŋal₂-la-bi nu-mu-un-DU.DU u₁₈-lu-ŋu₁₀ mu-e-dul-dul
+c.5.3.5,The debate between Bird and Fish,,66,igi-ŋu₁₀-ta ŋiš-gi-ŋiš-gi-a mu-un-gir₅-gir₅-re-de₃-en
+c.5.3.5,The debate between Bird and Fish,,67,di₄-di₄-la₂-zu-ta sa₂-dug₄-še₃ ma-a-an-ŋar šag₄-gal-ŋu₁₀-še₃ mu-e-šum₂
+c.5.3.5,The debate between Bird and Fish,,68,gal-gal-zu ki ŋišbun-na-ka su-bur₂-ŋu₁₀ na-nam
+c.5.3.5,The debate between Bird and Fish,,69,pu₂ ab zu mu-e-da-BAD-en
+c.5.3.5,The debate between Bird and Fish,,70,ŋe₂₆-e mušen sag₉-ga gal-zu-me-en
+c.5.3.5,The debate between Bird and Fish,,71,kiŋ₂ sag₉-ga u-gun₃ tag-ga-ŋu₁₀-še₃
+c.5.3.5,The debate between Bird and Fish,,72,lal₃-har kug-zu kiŋ₂ li-bi₂-ib-sig₁₀-ga
+c.5.3.5,The debate between Bird and Fish,,73,e₂-gal lugal-la-ka he₂-du₇-me-en
+c.5.3.5,The debate between Bird and Fish,,74,kisal-a mu₇-mu₇-ŋu₁₀ me-te-aš im-mi-in-ŋar
+c.5.3.5,The debate between Bird and Fish,,75,akkil ŋar-ra-ŋa₂ niŋ₂ ku₇-ku₇-da-bi
+c.5.3.5,The debate between Bird and Fish,,76,su-bar šul-gi dumu {d}en-lil₂-la₂-ra dug₃-ge-eš im-mi-ŋal₂
+c.5.3.5,The debate between Bird and Fish,,77,gurun niŋ₂-du₈-hum {ŋeš}kiri₆-{ŋeš}kiri₆ pu₂-{ŋeš}kiri₆-a sa₂-dug₄ gal-gal-ŋu₁₀-še₃
+c.5.3.5,The debate between Bird and Fish,,78,ba-ba zid₂ munu₄ gu₂-nida imŋaŋa niŋ₂ ka dug₃-ge-ŋa₂
+c.5.3.5,The debate between Bird and Fish,,79,ur₅-ta nam-mah-ŋu₁₀ a-gin₇ nu-e-zu gu₂ ki-še₃ la₂-a-ni
+c.5.3.5,The debate between Bird and Fish,,80,ud-bi-a mušen-e ku₆-ra in-še₃ mu-ni-in-dub₂
+c.5.3.5,The debate between Bird and Fish,,81,ku₆ lipiš-tuku a₂ nam-ur-saŋ-ŋa₂ gur₄-ra nir-ŋal₂
+c.5.3.5,The debate between Bird and Fish,,82,muru₉ dugud-gin₇ ki nam-mi-in-us₂ a-da-min₃-e ba-an-gub
+c.5.3.5,The debate between Bird and Fish,,83,in mušen-e a-na-am₃ mu-ni-in-dub₂-ba šag₄-še₃ nu-mu-un-na-an-gid₂
+c.5.3.5,The debate between Bird and Fish,,84,gu₂ ki-še₃ la-ba-an-da-an-ŋar inim bur₂-bi im-me
+c.5.3.5,The debate between Bird and Fish,,85,₂-kam-ma-še₃ ku₆-e mušen-ra mu-na-ni-ib-gi₄-gi₄
+c.5.3.5,The debate between Bird and Fish,,86,ka ur₂ gu₂-guru₅ ŋiri₃ su-ul-su-ul ka ha-la eme sal-sal
+c.5.3.5,The debate between Bird and Fish,,87,nam nu-zu-a-ta gu₃ e-da-ra-ah ni₂-zu ad li-bi₂-gi₄
+c.5.3.5,The debate between Bird and Fish,,88,mah gu₇-gu₇ saŋ šu zig₃ bi₂-ib₂-dug₄-ga kisal-e še₁₀ si-si
+c.5.3.5,The debate between Bird and Fish,,89,kisal-luh tur e₂-e sa la₂-e eš₂ mu-ri-ib₂-sar-re
+c.5.3.5,The debate between Bird and Fish,,90,muhaldim {lu₂}lunga₃-e i₃-du₈ e₂-a til₃-la zi mu-e-da-an-ni-re-eš
+c.5.3.5,The debate between Bird and Fish,,91,mušen nam-mah-ŋu₁₀ eŋer-bi nu-e-zukum-zukum bar-ŋa₂ en₃ li-bi₂-in-tar
+c.5.3.5,The debate between Bird and Fish,,92,sig₉-ga kalag-ga-ŋa₂ nu-mu-e-de₃-zu inim u₃-bu-bu-ul i₃-bal
+c.5.3.5,The debate between Bird and Fish,,93,niŋ₂ ak-ŋa₂ ki-bi u₃-mu-e-kiŋ₂ dirig-še₃ ni₂ sun₅-ni-ib
+c.5.3.5,The debate between Bird and Fish,,94,inim-zu nam-tag dugud im-ma-ab-tum₃ ni₂-zu ad li-bi₂-gi₄
+c.5.3.5,The debate between Bird and Fish,,95,ŋe₂₆-e ku₆-me-en he₂-ŋal₂ eš₃ sikil-la teš₂-ba ŋar-a-me-en
+c.5.3.5,The debate between Bird and Fish,,96,nidba gal-gal e₂-kur za-gin₃-še₃ saŋ il₂-la du-me-en
+c.5.3.5,The debate between Bird and Fish,,97,{d}ezina₂-gin₇ šag₄-ŋar kalam-ma-še₃ ba-ŋal₂-le-en a₂-tah-ni ŋe₂₆-e-me-en
+c.5.3.5,The debate between Bird and Fish,,98,uŋ₃-e ŋeštug₂-ga ma-an-du₃-du₃ igi-bi mu-ši-ŋal₂
+c.5.3.5,The debate between Bird and Fish,,99,buru₁₄ ezen-gin₇ mu-da-hul₂-le-eš en₃ tar-ŋu₁₀ i₃-ŋal₂
+c.5.3.5,The debate between Bird and Fish,,100,mušen niŋ₂ gal-gal a-na mu-e-dim₂-ma-zu gur₄-ra-ba ga-ri-ib-zu
+c.5.3.5,The debate between Bird and Fish,,101,sun₇-na ka lul-la bal-e-zu šu-za ga-ba-ni-ib-si
+c.5.3.5,The debate between Bird and Fish,,102,ud-bi-a ku₆-e mušen-ra sa₂ im-sig₁₀-sig₁₀-ge
+c.5.3.5,The debate between Bird and Fish,,103,sig₉-ga lul-ba a₂-ba mu-un-DU.DU
+c.5.3.5,The debate between Bird and Fish,,104,ud mušen gud₃ ba-zig₃-ga-gin₇ amar-bi-še₃ niŋ₂-gu₇-bi tum₃-de₃
+c.5.3.5,The debate between Bird and Fish,,105,ku₆-e ki sig₉-ga a₂-ba mu-un-kiŋ₂-kiŋ₂
+c.5.3.5,The debate between Bird and Fish,,106,gud₃ ŋar-ra u₂ sig₁₀-sig₁₀-ga-ni eš₃ lil₂-la₂ mu-un-sag₃
+c.5.3.5,The debate between Bird and Fish,,107,e₂ du₃-du₃-a-ni mu-un-gul-gul erim₃-ma-ni mu-un-bu
+c.5.3.5,The debate between Bird and Fish,,108,nunuz ŋar-ŋar-ra-ni bi₂-in-gaz-gaz ab-ba im-mi-in-šu₂
+c.5.3.5,The debate between Bird and Fish,,109,ku₆-e mušen-ra mu-ni-in-sig₁₀-sig₁₀ a-e ba-da-an-kar
+c.5.3.5,The debate between Bird and Fish,,110,ud-bi-a mušen igi piriŋ-ŋa₂ umbin hu-ri₂-in{mušen}-na
+c.5.3.5,The debate between Bird and Fish,,111,gud₃-bi-še₃ a₂ dub₂ i₃-ak-e dal-le-bi saŋ im-gi₄
+c.5.3.5,The debate between Bird and Fish,,112,{tum₉}mar-uru₅ an-šag₄-ga-še₃ bu₄-bu₄-gin₇ an-na mu-un-ni₁₀-ni₁₀
+c.5.3.5,The debate between Bird and Fish,,113,mušen-e gud₃-bi-še₃ igi tab-ba a₂-ur₂ ba-bur₂-bur₂
+c.5.3.5,The debate between Bird and Fish,,114,gud₃ ŋar-ra u₂ sig₁₀-sig₁₀-ga-ni edin daŋal i₃-zukum-e
+c.5.3.5,The debate between Bird and Fish,,115,ka-bi nu-gig-gin₇ an-šag₄-ga gu₃ mu-un-dub₂-dub₂-be₂
+c.5.3.5,The debate between Bird and Fish,,116,mušen-e ku₆-ra mu-un-ni₁₀-ni₁₀ ambar i₃-kiŋ₂-kiŋ₂
+c.5.3.5,The debate between Bird and Fish,,117,mušen-e ku₆-ra engur-ra igi im-ma-an-du₈ ŋeštug₂ ba-ši-in-gub
+c.5.3.5,The debate between Bird and Fish,,118,i-gi₄-in-zu a-e ba-da-kar umbin mu-ni-in-la₂
+c.5.3.5,The debate between Bird and Fish,,119,agargara tur-tur-bi teš₂-bi bi₂-in-ŋar-ŋar zar-re-eš mu-un-du₈-du₈
+c.5.3.5,The debate between Bird and Fish,,120,mušen-e šu ŋar-bi im-mi-in-gi₄ šag₄-bi
+c.5.3.5,The debate between Bird and Fish,,121,₂-kam-ma-še₃ mušen-e ku₆-ra mu-un-na-ni-ib-gi₄-gi₄
+c.5.3.5,The debate between Bird and Fish,,122,galam-ma hu-ru u₂ hub₂ ŋalga suh₃ ku₆ nam-ta-e₃-X
+c.5.3.5,The debate between Bird and Fish,,123,kar ni₁₀-ni₁₀ ka-ga₁₄-bi nu-gu₇ šag₄-gal ud šu₂-uš-e
+c.5.3.5,The debate between Bird and Fish,,124,šah₂ is-hab₂ še₁₀ ni₂-bi gu₇-gu₇ saŋ šu bi₂-in-dug₄-ga
+c.5.3.5,The debate between Bird and Fish,,125,lu₂ en-nu-uŋ₃ ŋa₂-ŋa₂ bad₃-da til₃-la ni₂-bi-ta sur-ra
+c.5.3.5,The debate between Bird and Fish,,126,ku₆ ŋa₂-ra izi-gin₇ mu-un-bar₇ ki šakir₃ mu-un-ŋar
+c.5.3.5,The debate between Bird and Fish,,127,nu-zu-a-zu saŋ šu bal ba-ab-gid₂ šu uš₂-a i-ni-su₃
+c.5.3.5,The debate between Bird and Fish,,128,šag₄ gur₄-ra ni₂-bi ak-a-ba ni₂-bi mu-un-gul-gul
+c.5.3.5,The debate between Bird and Fish,,129,ŋe₂₆-e mušen an-na dal-dal-me-en ki-a du-du-me-en
+c.5.3.5,The debate between Bird and Fish,,130,DU.DU-ŋu₁₀-še₃ an mu sa₄-a-ba a-la mu-un-ši-ŋal₂-le-me-en
+c.5.3.5,The debate between Bird and Fish,,131,ku₆-e nun-gal-e-ne ba-šum₂-mu-uš
+c.5.3.5,The debate between Bird and Fish,,132,numun saŋ-ŋa₂-me-en amar-ŋu₁₀ amar saŋ-ŋa₂-am₃
+c.5.3.5,The debate between Bird and Fish,,133,e₂-kur za-gin₃-še₃ saŋ il₂-la mu-un-ŋen
+c.5.3.5,The debate between Bird and Fish,,134,ud ul-le₂-a-še₃
+c.5.3.5,The debate between Bird and Fish,,135,sig₉-ga-gin₇ uŋ₃ šar₂-re im-me
+c.5.3.5,The debate between Bird and Fish,,136,ur₅-ta nam-mah-ŋu₁₀ eŋer-bi nu-zu gu₂ ki-še₃ la₂-a-ni
+c.5.3.5,The debate between Bird and Fish,,137,₂-kam-ma-še₃ mušen-e ku₆-e in-še₃ mu-ni-in-dub₂
+c.5.3.5,The debate between Bird and Fish,,138,ud-bi-a ku₆-e mušen-ra ka ba-ab-du₈ igi huš um-mi-in-ši-il₂
+c.5.3.5,The debate between Bird and Fish,,139,ka lul-la-ta ni₂ na-an-sukud-de₃ di-kud-me i₃-dab₅
+c.5.3.5,The debate between Bird and Fish,,140,di-kud ka-aš bar-me {d}en-ki-ke₄ di-me ga-ba-an-na-gub
+c.5.3.5,The debate between Bird and Fish,,141,₂-na-ne-ne zag saga₁₁-be₂-eš du₁₄ hul mu₂-be₂-eš
+c.5.3.5,The debate between Bird and Fish,,142,gur₄-ra nam-mah-bi zu-zu-u₃-de₃
+c.5.3.5,The debate between Bird and Fish,,143,murub₄ eridug{ki}-ga du₁₄ ki ba-ni-ib₂-us₂ a-da-min₃ i₃-ak-e-ne
+c.5.3.5,The debate between Bird and Fish,,144,za-pa-aŋ₂ gud-gin₇ lum-lum-e
+c.5.3.5,The debate between Bird and Fish,,145,kušum i₃-tag-tag-ge
+c.5.3.5,The debate between Bird and Fish,,146,lugal {d}šul-gi dumu {d}en-lil₂-la₂-ra
+c.5.3.5,The debate between Bird and Fish,,147,saŋ il₂ ni₂ mu-te-en di-da-am₃ i₃-kiŋ₂-kiŋ₂
+c.5.3.5,The debate between Bird and Fish,,148,en dug₄-ga zid-da inim-ŋu₁₀-uš ŋeštug₂-zu
+c.5.3.5,The debate between Bird and Fish,,149,mu-e-re-sig₁₀ nunuz ki ba-ni-in-tag
+c.5.3.5,The debate between Bird and Fish,,150,saŋ-e-eš mu-un-rig₇ gu₇ naŋ-bi-še₃ ba-an-šum₂
+c.5.3.5,The debate between Bird and Fish,,151,mu-e-ni-ŋar-ra
+c.5.3.5,The debate between Bird and Fish,,152,e₂-ŋu₁₀ ba-gul-gul
+c.5.3.5,The debate between Bird and Fish,,153,gud₃ u₂ sig₁₀-sig₁₀-ga-ŋu₁₀ eš₃ lil₂-e bi₂-in-sag₃
+c.5.3.5,The debate between Bird and Fish,,154,e₂-ŋu₁₀ mu-un-gul-gul erim₃-ma-ŋu₁₀ mu-un-bu
+c.5.3.5,The debate between Bird and Fish,,155,nunuz-ŋu₁₀ mu-ni-in-gaz-gaz ab-e um-mi-ib-šu₂
+c.5.3.5,The debate between Bird and Fish,,156,dug₄-ga-ŋu₁₀ en₃ tar-re di-ŋu₁₀ gur-a-ni
+c.5.3.5,The debate between Bird and Fish,,157,igi tab-ba ni₂ ki-še₃ ba-ab-la₂
+c.5.3.5,The debate between Bird and Fish,,158,inim mu-un-dab₅-ba-e
+c.5.3.5,The debate between Bird and Fish,,159,mah-am₃ šag₄-ta im-mi-ib₂-dug₄
+c.5.3.5,The debate between Bird and Fish,,160,inim-zu inim kug-ga-am₃ niŋ₂ šag₄ dug₃-ge-dam
+c.5.3.5,The debate between Bird and Fish,,161,en-na-me-še₃ du₁₄-da mu₂-mu₂-de₃ ba-an-dab₅-dab₅-be₂-eš
+c.5.3.5,The debate between Bird and Fish,,162,dab₅-ba-gin₇ dalla mu-na-ta-e₃
+c.5.3.5,The debate between Bird and Fish,,163,ud du₇-du₇-gin₇ teš₂-bi mu-un-du₇-du₇
+c.5.3.5,The debate between Bird and Fish,,164,si sa₂ dug₃-ge-eš ha-ma-ŋa₂-ŋa₂
+c.5.3.5,The debate between Bird and Fish,,165,ŋiš-hur me si sa₂ ki-ur₃-me ga-ba-e-zu
+c.5.3.5,The debate between Bird and Fish,,166,{d}en-ki lugal abzu-ke₄ sa₂ pad₃-de₃ inim-ma gal-zu-me-en
+c.5.3.5,The debate between Bird and Fish,,167,ku₆ mušen-bi-da im-ma-ni-ib₂-gi₄-gi₄
+c.5.3.5,The debate between Bird and Fish,,168,mušen e₂-kur-ra DU.DU-bi he₂-du₇ mu₇-mu₇-bi dug₃-ga-am₃
+c.5.3.5,The debate between Bird and Fish,,169,{ŋeš}banšur kug {d}en-lil₂-la₂-ta mušen palil-zu
+c.5.3.5,The debate between Bird and Fish,,170,e₂ diŋir gal-gal-e-ne-ka za-pa-aŋ₂ mu-un-na-ŋa₂-ŋa₂
+c.5.3.5,The debate between Bird and Fish,,171,za-pa-aŋ₂-bi-še₃ diŋir {d}a-nun-na im-ši-hul₂-hul₂-le-eš
+c.5.3.5,The debate between Bird and Fish,,172,kiŋ₂-sig unu₂ gal diŋir-re-e-ne-ke₄ me-te-aš im-mi-ib-ŋal₂
+c.5.3.5,The debate between Bird and Fish,,173,e₂-gal lugal-la-ke₄ mur ša₄-bi dug₃-ga
+c.5.3.5,The debate between Bird and Fish,,174,{ŋeš}banšur šul-gi dumu {d}en-lil₂-la₂-ka saŋ an-še₃ X-il₂
+c.5.3.5,The debate between Bird and Fish,,175,lugal zi su₃-ud-ŋal₂
+c.5.3.5,The debate between Bird and Fish,,176,piriŋ-bi
+c.5.3.5,The debate between Bird and Fish,,177,ku₆ nam-nun-na
+c.5.3.5,The debate between Bird and Fish,,178,ud-bi-a ku₆ mušen
+c.5.3.5,The debate between Bird and Fish,,180,dub₂
+c.5.3.5,The debate between Bird and Fish,,182,
+c.5.3.5,The debate between Bird and Fish,,183,kalam-ma
+c.5.3.5,The debate between Bird and Fish,,184,he₂-ŋal₂ ab sikil
+c.5.3.5,The debate between Bird and Fish,,185,{d}en-ki saŋ-e-eš mu-un-rig₇
+c.5.3.5,The debate between Bird and Fish,,186,X-dab₅-be₂-en X-ni₁₀-ni₁₀
+c.5.3.5,The debate between Bird and Fish,,187,abzu eridug{ki}-ga mušen
+c.5.3.5,The debate between Bird and Fish,,188,ku₆ mušen-bi-da a-da-min₃ dug₄-ga
+c.5.3.5,The debate between Bird and Fish,,189,mušen-e ku₆-e dirig-ga-a-ba
+c.5.3.5,The debate between Bird and Fish,,190,a-a {d}en-ki za₃-mi₂

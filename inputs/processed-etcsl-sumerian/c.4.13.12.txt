@@ -1,0 +1,54 @@
+id_text,text_name,version,l_no,text
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,1,dumu nun nir an-na kur un₃-na daŋal bur₂
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,2,i-lim ud-ŋal₂ ri-a-na ni₂ il₂-la
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,3,mah saŋ an-ne₂ us₂-sa
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,4,ud-sakar itid gen₆-ne₂ ni₂ pa e₃ ak-a
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,5,{d}nanna šid zu igi dug₃ hu-mu-ri-in-du₈
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,6,{d}aš-im₂-babbar ud gal an kug-ga u₁₈-ru daŋal tag-ga uŋ₃ šar₂-ra ba-dul
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,7,ŋiš-gi₄-ŋal₂-bi-im
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,8,su₃-ra₂-aŋ₂ nun men-na saŋ il₂
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,9,nu-kur₂-ru ul-še₃ kalam gen₆-ne₂
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,10,mah he₂-ŋal₂-la dub₃ bar-re
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,11,nam-lugal-e
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,12,si mul-mul an-na ŋal₂
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,13,itid ki-en-gi ki-a
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,14,e₂-kur-ra su-lim gu₂
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,15,bal-re suh₁₀ kug dili-ni
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,16,su₃-ra₂-aŋ₂ zid an-e daŋal dirig {d}aš-im₂-babbar gal-bi
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,17,ŋiš-gi₄-ŋal₂-bi-im
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,18,{d}nanna ušum an ki idim-ma gal gub-bu
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,19,itid ud-sakar gen₆-ne₂ mu ki-bi-še₃ an-ŋar
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,20,{d}suen en an-na dili-zu-ne mah-me-en
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,21,en ud an-na ul-le-še₃ nam-gub
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,22,mu nam-he₂-a-ka šu peš-peš-e-de₃
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,23,a-eštub{ku₆} he₂-ŋal₂ nu-silig-ge kar-ra gen₆-ne₂-de₃
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,24,ubur an-na-ke₄ si sa₂-e-de₃ giri₁₇-zal ki us₂-u₃-de₃
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,25,še gu-nu tum₃-de₃ DU-de₃
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,26,e₂-kiš-nu-ŋal₂-la barag mah-bi gen₆-ne₂-de₃
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,27,{d}nanna nam-lugal kalam-ma-ka ki-gub-bi gen₆-ne₂-de₃
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,28,dug₄-ga-ba
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,29,X-ni-ib-mu₂-mu₂
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,30,
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,31,šag₄ su₃-ra₂
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,32,urim₂{ki} iri ki šag₄-ge pad₃-da-zu
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,33,an {d}en-lil₂-la₂-ka he₂-em-mi-la₂
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,34,mah-a-ni igi dug₃ hu-mu-e-ri-dug₃
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,35,ki ni₂ dub₂-bu-za dur₂ ki u₃-ba-e-ni-ŋar
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,36,agrun-kug-ga nam zid-bi tar-ra
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,37,en {d}aš-im₂-babbar kur gal {d}en-lil₂-le šag₄-ga-ni nam-de₆
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,38,hur-saŋ-galam-ma-na
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,39,su zig₃ il₂-la ni₂ huš ri-a-na
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,40,eš₃-e urim₂{ki}-ma nam dug₃ mi-ni-ib-tar-re
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,41,uŋ₃ daŋal ud ul-še₃ a₂ he₂-ni-mah
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,42,še gu-nu
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,43,nam-he₂
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,44,saŋ ha-X-Xbr-il₂
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,45,ki-bi gi₄-a saŋ
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,46,niŋ₂ šu nu-teŋ₃-ŋe₂₆-da saŋ-e-eš he₂-rig₇
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,47,ki-ru-gu₂
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,48,mah {d}nin-lil₂-le tud-da nam
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,49,en {d}aš-im₂-babbar dumu kug an-na hi-li nam
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,50,mah dug₄-ga zid nu-kur₂-ru
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,51,{d}nanna a₂ nun he₂-em-te-ŋal₂
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,52,u₁₈-ru-bi-im
+c.4.13.12,A šir-namgala to Nanna (Nanna L),,53,šir₃-nam-gala {d}nanna-kam

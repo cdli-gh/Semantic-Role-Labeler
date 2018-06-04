@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+c.3.3.22,Letter from X to the god Nanna,,1,{d}nanna dumu-saŋ {d}en-lil₂-la₂ šudu₃-de₃ ki aŋ₂-ra
+c.3.3.22,Letter from X to the god Nanna,,2,u₃-na-a-dug₄
+c.3.3.22,Letter from X to the god Nanna,,3,en iti₆ daŋal bur₂ men an uraš-a
+c.3.3.22,Letter from X to the god Nanna,,4,en gal lu₂ til₃-til₃ ki aŋ₂-me-en a-a saŋ gig₂-ga
+c.3.3.22,Letter from X to the god Nanna,,5,lugal šag₄-la₂ sug₄ si-il u₃ du₈ mu-un-zu-a
+c.3.3.22,Letter from X to the god Nanna,,6,diŋir arhuš sud šag₄ gur-ru a-ra-zu-e ŋiš tuku
+c.3.3.22,Letter from X to the god Nanna,,7,u₃-ne-de₃-tah
+c.3.3.22,Letter from X to the god Nanna,,8,nam-en-na šu du₇ aga zid gur₃-ru-me-en
+c.3.3.22,Letter from X to the god Nanna,,9,muš₃-me huš ulutim₂-ta nir-ra alan kug hi-li du₈-du₈
+c.3.3.22,Letter from X to the god Nanna,,10,nam-mah-zu kur-kur-ra dul-la
+c.3.3.22,Letter from X to the god Nanna,,11,me-lem₄-zu an kug-ga šu₂-a
+c.3.3.22,Letter from X to the god Nanna,,12,ni₂ gal-zu su zig₃ im-du₈-du₈
+c.3.3.22,Letter from X to the god Nanna,,13,kalam-e zag dib
+c.3.3.22,Letter from X to the god Nanna,,14,ud e₃-ta ud šu₂-uš-e za-e mah-me-en
+c.3.3.22,Letter from X to the god Nanna,,15,an-šag₄-ta ma-ra-an-šum₂ an šu-zu-uš mu-un-ŋar
+c.3.3.22,Letter from X to the god Nanna,,16,an ki-bi-ta lugal-bi za-e-me-en nam-bi i₃-tar-re

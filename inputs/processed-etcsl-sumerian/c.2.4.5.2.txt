@@ -1,0 +1,88 @@
+id_text,text_name,version,l_no,text
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A1,
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A2,me-teš₂
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A3,zi-šag₄-ŋal₂-la-ke₄ šag₄-zu
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A4,{d}meš₃-lam-ta-e₃-a su₃-u₄-ra₂
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A5,ki-ru-gu₂ ₄-kam-ma-am₃
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A6,a₂ mah nun {d}i-bi₂-{d}suen-ŋu₁₀
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A7,ŋiš-gi₄-ŋal₂-bi-im
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A8,ši-im-dirig-ge-en lugal-ŋu₁₀ ši-im-dirig-ge-en ne-zu an-zag-še₃
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A9,en {d}lugal-er₉-ra ši-im-dirig-ge-en ne-zu an-zag-še₃
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A10,me-zu me galam-ma me nu-sig₁₀-ge₅-da
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A11,ab ku-kur ŋal₂-la ni₂ huš ri-a-me-en
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A12,diŋir er₉ kalam-ma til₃-la-me-en
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A13,ni₂ gal an ki-a dul-la-me-en
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A14,ki-ru-gu₂ ₅-kam-ma-am₃
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A15,nam-mah-zu ga-i-i
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A16,ši-im-dirig-ge-en lugal-ŋu₁₀ ši-im-dirig-ge-en ne-zu an-zag-še₃
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A17,ŋiš-gi₄-ŋal₂-bi-im
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A18,ur-saŋ zid me-teš₂-e ga-i-i
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A19,en {d}lugal-er₉-ra me-teš₂ ga-i-i
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A20,{ŋeš}rab₃ gal mah diŋir-re-e-ne-me-en
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A21,ni₂ gal kalam-ma ša-mu-ri-a-me-en
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A22,ku-kur dugud kur-ra du₆-ul-la-me-en
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A23,id₂-zu id₂ kalag-ga-am₃ id₂ nam tar-ra-am₃
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A24,id₂ mah ki ud e₃ igi nu-bar-re-dam
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A25,ma₂-gur₈ mah a ku-kur-ra u₅-a
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A26,gu₂ si-a nam-lu₂-ulu₃-ka
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A27,en {d}lugal-er₉-ra ŋiri₃-zu um-mi-gub
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A28,nun kur-ra-ke₄-ne ša-mu-e-ši-gam-e-de₃-eš
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A29,bur₃-ra ud zalag ša-mu-un-ne-ri-ib-e₃
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A30,ra šu-zu-še₃ ša-mu-u₈-ŋal₂
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A31,en {d}lugal-er₉-ra an-zag-še₃ mah-me-en
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A32,ki-ru-gu₂ ₆-kam-ma-am₃
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A33,a₂ mah nun {d}i-bi₂-{d}suen-ŋu₁₀
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A34,ŋiš-gi₄-ŋal₂-bi-im
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A35,lugal-ŋu₁₀ nam-mah-za ga-am₃-dug₄
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A36,en {d}lugal-er₉-ra nam-mah-za ga-am₃-dug₄
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A37,za-e mah-me-en dili-zu i₃-mah-me-en
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A38,diŋir er₉-ra diŋir-re-e-ne-er rib-ba
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A39,lugal sukuₓ-ra₂ an-ne₂-e us₂-sa
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A40,diŋir er₉ en zid ni₂-te-na
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A41,{d}id₂-lu₂-ru-gu₂ šag₄ diŋir-re-e-ne
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A42,en ka-aš bar niŋ₂-erim₂-e hul gig
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A43,{d}suen-gin₇ niŋ₂-si-sa₂-e ki aŋ₂
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A44,en nam tar-tar-ra an {d}en-lil₂-la₂-me-eš
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A45,niŋ₂-nam an ki ŋal₂-ŋal₂-la-a-ba
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A46,nam tar-re-bi gal-bi mu-un-u₂-us₂
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A47,{d}en-lil₂-le saŋ-e-eš mu-un-rig₇
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A48,nun-e-ne {d}i-bi₂-{d}suen-ŋu₁₀
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A49,nam-ma-ni mah bad₃ gal kur
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A50,me gal-gal šu du₇ dumu {d}en-lil₂-la₂-ka
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A51,{d}lugal-er₉-ra-gin₇ hul-ŋal₂ saŋ
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A52,{d}meš₃-lam-ta-e₃-a a₂ mah-a-na gal-bi
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A53,a₂ mah-a-na gal-bi ši-im-mi-DU
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A54,ka du₈-a kur-ra šu ur₃-ur₃
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A55,tar-re erim₂ zar-re-eš i₃-sal-le
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A56,en {d}lugal-er₉-ra a₂ mah-a-na gal-bi
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A57,a₂ mah-a-na gal-bi ši-im-mi-in-DU
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A58,ŋiškim sag₉-ga
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A59,lugal-la-me-eš
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A60,šu ŋa₂-ŋa₂-me-eš
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,A61,
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,B1,ur-saŋ gal-me-eš nam-mah-bi a-ri-a sug₄-ga-am₃
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,B2,₂-na-ne-ne lugal id₂-da-me-eš
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,B3,{d}id₂-lu₂-ru-gu₂ lu₂ zid dadag-ga-am₃
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,B4,lu₂-erim₂ {ŋeš}rab₃-gin₇ šu ri-ri-a-me-eš
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,B5,kisiga{ki} iri ul ki ŋar-ra-ba
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,B6,zid-du nu-dab₅-be₂ erim₂-du nu-dib-be₂
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,B7,ki šag₄ kuš₂ an {d}en-lil₂-la₂-me-eš
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,B8,ki ni₂ dub₂
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,B9,ki gal an-še₃
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,B10,ki nam tar-re an {d}en-lil₂-la₂
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,B11,me-bi kug-kug-ga-am₃
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,B12,lu₂
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,B13,
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,C1,me-bi hu-ul-hu-le-eš sig₇-ga-am₃
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,C2,me ₇-na gal-le-eš ŋar-ra-am₃
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,C3,me še-er-ka-an nun-e abzu-ta nun še-er-ka-an dug₄-ga-am₃
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,C4,{d}meš₃-lam-ta-e₃-a en {d}lugal-er₉-ra
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,C5,nam-ur-saŋ-bi kur-re
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,C6,nam-mah-bi zag an ki-še₃ zag an ki-še₃ pa e₃ ak-a
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,C7,ki-ru-gu₂ ₁₀-kam-ma-am₃
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,C8,a₂ mah nun {d}i-bi₂-{d}suen-ŋu₁₀
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,C9,ŋiš-gi₄-ŋal₂-bi-im
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,C10,kalag-bi ud kalam-ma šu ur₃-ur₃
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,C11,{d}meš₃-lam-ta-e₃-a en {d}lugal-er₉-ra za₃-mi₂-zu dug₃-ga-am₃
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,C12,ki-šu₂-bi-im
+c.2.4.5.2,A šir-namgala to Mešlamta-ea and Lugal-era for Ibbi-Suen (Ibbi-Suen B),,C13,šir₃-nam-gala {d}meš₃-lam-ta-e₃-a u₃ {d}lugal-er₉-ra

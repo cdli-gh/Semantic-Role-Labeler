@@ -1,0 +1,209 @@
+id_text,text_name,version,l_no,text
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,1,an-gin₇ dim₂-ma dumu {d}en-lil₂-la₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,2,{d}nin-urta {d}en-lil₂-gin₇ dim₂-ma {d}nin-tur₅-e tud-da
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,3,a₂-ŋal₂ diŋir {d}a-nun-na-ke₄-ne hur-saŋ-ta e₃-a
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,4,ni₂ huš ri-a dumu {d}en-lil₂-la₂ ne₃-ni-ta nir-ŋal₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,5,lugal-ŋu₁₀ ši-mah-e-en nam-mah-zu me-teš₂ he₂-i-i
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,6,{d}nin-urta ši-mah-e-en nam-mah-zu me-teš₂ he₂-i-i
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,7,lugal kur-kur-ra nam a₂ gur-ra-zu-še₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,8,ur-saŋ {d}en-lil₂-la₂ nam a₂ kalag-ga-zu-še₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,9,ur-saŋ huš-a me an-gin₇ mu-e-il₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,10,dumu {d}en-lil₂-la₂ me ki-gin₇ mu-e-il₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,11,me kur-ra an-gin₇ dugud-da-am₃ mu-e-il₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,12,me eridug{ki}-ga ki-gin₇ mah-am₃ mu-e-il₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,13,diŋir-re-e-ne ki-a mu-e-su-ub-be₂-eš
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,14,{d}a-nun-na-ke₄-ne šu ŋar-ŋar-ra-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,15,{d}nin-urta a₂ nam-ur-saŋ-ŋa₂ šu du₇-a-me-en
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,16,lugal-la dug₄-ga-ni ud-dam
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,17,en {d}nin-urta-ke₄ inim-ma-ni ud-dam
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,18,kur gu₂-erim₂-ŋal₂-še₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,19,bad₃ ki-bal-a-še₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,20,men-na hur-saŋ
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,21,en su-lim-e huš-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,22,an ki-bi-da huš-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,23,dug₄
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,24,ib₂ dug₄-ga-ni kur ad₆
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,25,igi huš-a-ni
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,26,am si mu₂-e
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,27,šeg₉ lu-lim
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,28,am gal kur-ra
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,29,a₂ me₃ eš₂ da-da-ra ba-an-du₈
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,30,lugal-e a₂ nam-ur-saŋ-ŋa₂-ni-še₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,31,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ nam a₂ kalag-ga-še₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,32,šeg₉-saŋ-₆ e₂ za-gin₃ uru₁₆-na-ta nam-ta-an-e₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,33,ušum ur-saŋ bad₃ gal kur-ra-ta nam-ta-an-e₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,34,ma₂-gi₄-lum abzu-ka-ni nam-ta-an-e₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,35,gud-alim sahar me₃-ka-ni nam-ta-an-e₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,36,ku-li-an-na an-šar₂ ki-šar₂-ta nam-ta-an-e₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,37,niŋ₂-babbar₂-ra sahar hur-saŋ-ŋa₂-ta nam-ta-an-e₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,38,urud niŋ₂ kalag-ga hur-saŋ dar-ra-ta nam-ta-an-e₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,39,mušen anzud{mušen} {ŋeš}ha-lu-ub₂-har-ra-an-ta nam-ta-e₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,40,muš-saŋ-₇ kur-ra-ta nam-ta-an-e₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,41,mu-un-na-an-zi-zi
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,42,X-an-dug₄
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,43,šag₄ mu-un-hul
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,44,X-an-dug₄
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,45,tun₃ mu-un-dab₅
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,46,šu ba-ni-ti
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,47,ur-saŋ kur ad₆-e-eš mu-un-ak
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,48,en {d}nin-urta gul kur ad₆-eš mu-un-ak
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,49,zar-re-eš mu-un-du₈-du₈
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,50,lugal-e a₂ nam-ur-saŋ-ŋa₂-ni-še₃ šu na-mi-ni-in-gi₄
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,51,ur-saŋ {d}nin-urta a₂ nam-ur-saŋ-ŋa₂-ni-še₃ šu na-mi-ni-in-gi₄
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,52,{ŋeš}gigir za-gin₃-na ni₂ huš gur₃-ru-na
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,53,am dab₅-dab₅-ba-ni {ŋeš}gag-a bi₂-in-la₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,54,ab₂ dab₅-ba-ni a₂ {ŋeš}šudul bi₂-in-la₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,55,šeg₉-saŋ-₆ sahar-gi₄-a bi₂-in-la₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,56,ušum ur-saŋ saŋ dur₂-ra-ka bi₂-in-la₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,57,ma₂-gi₄-lum še-er-du₈-na-ka bi₂-in-la₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,58,gud-alim ad-us₂-a bi₂-in-la₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,59,ku-li-an-na {ŋeš}ki-ŋiri₃-a bi₂-in-la₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,60,niŋ₂-babbar₂-ra erin₂-saŋ-ŋa₂ bi₂-in-la₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,61,urud niŋ₂ kalag-ga kiš-gag šag₄-ga-ka bi₂-in-la₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,62,mušen anzud{mušen} gaba-ŋal₂-la bi₂-in-la₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,63,muš-saŋ-₇ tum za-gin₃-na-ka bi₂-in-la₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,64,{ŋeš}gigir me₃-a tum₂-ma-na
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,65,en {d}nin-urta-ke₄ ŋiri₃-ni nam-mi-in-gub
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,66,ud-an-ne₂ diŋir igi tab-tab
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,67,lugal-an-ba₉-ra₂ en sun₄ igi-še₃ mu-na-ŋen
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,68,ni₂ kur-kur-ra {d}lugal-kur-dub₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,69,en {d}nin-urta-ke₄ eŋer-ra-ni nam-mi-in-us₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,70,piriŋ abzu-ta
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,71,ni₂ me-lem₄ an-na
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,72,{d}a-nun-na diŋir gal-gal-e-ne
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,73,lugal a-ma-ru ba-ur₃-ta
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,74,{d}nin-urta ud ki-bal-a a-ma-ru ba-ur₃-ta
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,75,ud-dam an-ur₂-ra dum-dam mu-ni-ib₂-za
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,76,du-ni inim {d}en-lil₂-la₂ e₂-kur-še₃ ŋa₂-ŋa₂-da
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,77,ur-saŋ diŋir-re-e-ne kuš₇ kalam-ma su-su-da
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,78,nibru{ki}-še₃ an ba₉-ra₂ la-ba-da-te-a-da
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,79,{d}nuska sukkal-mah {d}en-lil₂-la₂ e₂-kur-ta gaba
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,80,en {d}nin-urta-ra silim-ma mu-un-na-ab-be₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,81,lugal-ŋu₁₀ ur-saŋ šu du₇-a ni₂-zu-še₃ ŋeštug₂-zu
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,82,{d}nin-urta ur-saŋ šu du₇-a ni₂-zu-še₃ ŋeštug₂-zu
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,83,me-lem₄-zu e₂ {d}en-lil₂-la₂-ka tug₂-gin₇ im-dul
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,84,{ŋeš}gigir-za gu₃ dug₃ mur ša₄-bi
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,85,ŋiri₃ gub-ba-zu an ki tuku₄-e-bi
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,86,a₂ il₂-a-zu ŋissu
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,87,{d}a-nun-na diŋir gal-gal-e-ne niŋ₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,88,a-a-zu ki-tuš-a-ni nam-mi-ib-hu-luh-X
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,89,{d}en-lil₂-la₂ ki-tuš-a-ni nam-mi-ib-hu-luh-X
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,90,a-a-zu a₂ nam-ur-saŋ-ŋa₂-zu niŋ₂ ha-ra-ba-ba-e
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,91,{d}en-lil₂ a₂ nam-ur-saŋ-ŋa₂-zu niŋ₂ ha-ra-ba-ba-e
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,92,lugal {ŋeš}rab₃ an-na gu₂-gal diŋir-re-e-ne
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,93,kišib-la₂ {d}en-lil₂-la₂ zi-šag₄-ŋal₂ e₂-kur-ra
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,94,ur-saŋ kur saŋ um-ma-ab-gi₄-a-aš
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,95,zag-zu a-a-zu diŋir ₁ nu-um-ma-ši-in-gi₄-gi₄
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,96,{d}nin-urta kur saŋ um-ma-ab-gi₄-a-aš
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,97,zag-zu {d}en-lil₂-le diŋir ₁ nu-um-ma-ši-in-gi₄-gi₄
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,98,inim-bi ka-ga₁₄-na um-ma-da-ŋal₂-la
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,99,{kuš}usan₃ bar-us₂ e₂-su-lum-ma-ka bi₂-in-sud
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,100,mi-tum a₂ me₃ zag {kuš}e₂-a-ka bi₂-in-us₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,101,e₂ {d}en-lil₂-la₂-še₃ am₃-ma-da-an-ku₄-ku₄
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,102,am dab₅-dab₅-ba-ni e₂-e si bi₂-in-sa₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,103,immal₂ dab₅-ba-ni am-gin₇
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,104,iri lah₆-lah₆-a-ni al-ŋa₂-ŋa₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,105,{d}a-nun-na-ke₄-ne me ŋar di
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,106,kur gal {d}en-lil₂-le giri₁₇ šu am₃-ŋal₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,107,{d}aš-im₂-babbar-re u₃-gul mu-un-na-ŋa₂-ŋa₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,108,ama gal {d}nin-lil₂-le šag₄ ki-ur₃-a-ni-ta
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,109,en {d}nin-urta-ra mi₂ zid na-mu-un-ne
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,110,am a₂ huš il₂-il₂ dumu {d}mu-ul-lil₂ kur-ba mu-e-tu₁₁-tu₁₁
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,111,ur-saŋ u₃-mu-un {d}nin-urta
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,112,ki-bal
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,113,en {d}nin-urta-ke₄ mu-na-ni-ib₂-gi₄-gi₄
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,114,ama-ŋu₁₀ dili-ŋu₁₀
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,115,{d}nin-lil₂ dili-ŋu₁₀ dili-ŋu₁₀-še₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,116,me₃ an-gin₇ keše₂-am₃ X-ab-sa₂-e
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,117,a-ma-ru-gin₇
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,118,kur gi-sig-gin₇ dub₂-bu
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,119,me₃-ŋu₁₀ a mah e₃-a-gin₇ kur-re ba-ra-ab-e₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,120,su piriŋ sa piriŋ-ŋa₂ ki-bal-a zi-zi-i
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,121,diŋir am₃-gig hur-saŋ-ŋa₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,122,buru₅{mušen}-gin₇ a₂-ba mu-un-da-dub₂-dub₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,123,am ba₉-ra₂ u₂-a mu-un-sug₂-ge-eš
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,124,me-lem₄ an-gin₇ dugud-da-a saŋ nu-mu-un-ŋa₂-ŋa₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,125,hur-saŋ galam-ma en-me-en ki-šar₂-ra saŋ
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,126,hur-saŋ-bi {na₄}ŋiš-nu₁₁-gal {na₄}za-gin₃ šu-ŋu₁₀-še₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,127,{d}a-nun-na-ke₄-e-ne peš₂-gin₇ a₂-ur₂-bi im-dab₅-be₂-ne
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,128,kur-re a₂ nam-ur-saŋ-ŋa₂-ŋu₁₀ ki-bi u₃-mu-X-gi₄
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,129,a₂ zid-da-ŋu₁₀ šar₂-ur₃-ŋu₁₀ mu-da-an-ŋal₂-la-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,130,a₂ gab₂-bu-ŋu₁₀ šar₂-gaz-ŋu₁₀ mu-da-an-ŋal₂-la-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,131,ud zu₂ ₅₀-ŋu₁₀ mi-tum an-na-ŋu₁₀ mu-da-an-ŋal₂-la-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,132,meš₃ kur gal ed₃-de₃ ud-ba-nu-il₂-la-ŋu₁₀ mu-da-an-ŋal₂-la-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,133,{ŋeš}tukul ušumgal-gin₇ ad₆ gu₇-a aga-silig-ŋu₁₀ mu-da-an-ŋal₂-la-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,134,niŋ₂ mu-da-an-ŋal₂-la-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,135,mu-da-an-ŋal₂-la-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,136,{sa}al-kad₄ ki-bal-a {sa}al-kad₄-ŋu₁₀ mu-da-an-ŋal₂-la-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,137,kur šu-bi nu-šub-bu {sa}šu₂-uš-gal-ŋu₁₀ mu-da-an-ŋal₂-la-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,138,muš-mah ka ₇ saŋ ŋiš ra-ra DUB.GAG-ŋu₁₀ mu-da-an-ŋal₂-la-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,139,kur gu₂-guru₅ dug₄-dug₄ ŋiri₂ gal ŋiri₂ an-na-ŋu₁₀ mu-da-an-ŋal₂-la-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,140,a-ma-ru me₃-a šita₂ saŋ ₅₀-ŋu₁₀ mu-da-an-ŋal₂-la-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,141,mir lu₂-ra te-a {ŋeš}pan mar-uru₅-ŋu₁₀ mu-da-an-ŋal₂-la-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,142,e₂ ki-bal tum₄-tum₄ {ŋeš}ilar {kuš}gur₂₁-ŋu₁₀ mu-da-an-ŋal₂-la-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,143,a₂-tah ŋuruš-a ŋiš-gid₂-da-ŋu₁₀ mu-da-an-ŋal₂-la-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,144,ud-gin₇ zalag mu-un-e₃ kur-ra-šu-ur₃-ur₃-ŋu₁₀ mu-da-an-ŋal₂-la-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,145,an ki uŋ₃ gen₆-ne₂ erim₂-a₂-bi-nu-šub-bu-ŋu₁₀ mu-da-an-ŋal₂-la-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,146,ni₂ me-lem₄-ma-ni kalam-ma dul-la
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,147,a₂ zid-da-ŋu₁₀ gal-bi tum₂-ma
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,148,kug-sig₁₇ za-gin₃-na šu du₇-a u₆ di-de₃ gub ŋiškim-til₃-ŋu₁₀ mu-da-ŋal₂-la-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,149,{ŋeš}tukul galam-ma mah gal dirig-ga me₃ nir-ŋal₂ gaba-ri nu-tuku
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,150,ki šen-šen me-te kišib-la₂-ŋu₁₀ {ŋeš}šita₂ saŋ ₅₀-ŋu₁₀ mu-da-ŋal₂-la-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,151,{ŋeš}tukul {d}gira₂-gin₇ ki-bal-a ma₅-ma₅ {ŋeš}mi-tum saŋ ₅₀-ŋu₁₀ mu-da-ŋal₂-la-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,152,a-a-ŋu₁₀ me₃-ŋu₁₀ ha-ma-ni-ib₂-ku₄-ku₄-de₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,153,{d}en-lil₂ a₂ nam-ur-saŋ-ŋa₂-ŋu₁₀ a he₂-em-tu₅-tu₅-de₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,154,a₂ huš {ŋeš}tukul-ŋa₂ a gub₂-ba ha-ma-ni-ib₂-be₂-de₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,155,ŋišgal gi-rin-na gu₂-en-na si ha-ma-ab-sa₂-e-de₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,156,{ŋeš}gigir an-na-ŋu₁₀ ki-gal-la he₂-em-mi-in-gub-bu-de₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,157,ur-saŋ dab₅-ba-ŋu₁₀ am du₇-du₇-gin₇ saman he₂-me-šub
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,158,lugal dab₅-ba-ŋu₁₀ ud an-na-gin₇ giri₁₇ šu ha-ma-an-ŋal₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,159,kalag-ga kur gaba nu-gi₄-me-en
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,160,{d}nin-urta-me-en mu-ŋu₁₀-še₃ giri₁₇ ki su-ub ha-ma-ak-ne
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,161,šu mah saŋ piriŋ-ŋa₂ {d}en-lil₂-la₂ ne₃-ni-še₃ tud-da-me-en
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,162,ud an-na {ŋeš}rab₃ diŋir-re-e-ne
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,163,an-ne₂ a₂ gal-la-ni-še₃ pad₃-da-me-en
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,164,zi-šag₄-ŋal₂ {d}inana-me-en
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,165,ur-saŋ nam tar-ra {d}en-ki-da me huš tum₂-a-me-en
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,166,nam-lugal-ŋu₁₀ zag an ki-še₃ pa he₂-em-ma-ni-ib₂-e₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,167,a₂-ŋal₂ diŋir-re-e-ne-me-en ni₂ gal he₂-X-ab-ri
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,168,iri ki aŋ₂-ŋu₁₀ eš₃ nibru{ki} an-gin₇ gu₂ he₂-eb₂-us₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,169,iri-ŋu₁₀ iri šeš-ŋu₁₀-ne-ka gu₂-gal-bi he₂-a
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,170,e₂-ŋu₁₀ e₂ šeš-ŋu₁₀-ne-ka zi-bi he₂-a
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,171,ki-sur-ra uru₂-ŋa₂ pu₂ a dug₃-ga ki-en-gi-ra he₂-a
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,172,{d}a-nun-na diŋir šeš-ŋu₁₀-ne he₂-em-ši-gam-e-de₃-eš
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,173,mušen dal-a-bi uru₂-ŋa₂ gud₃ he₂-em-ma-an-us₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,174,lu₂-kar-ra-bi ŋissu-ŋu₁₀-še₃ ni₂ he₂-em-ši-ib-te-en-te-en
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,175,e₂ {d}en-lil₂-la₂-ta e₃-a-ni
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,176,saŋ-ki zalag-ga ur-saŋ-e-ne
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,177,inim sag₉-ga {d}nin-urta-ka-ke₄
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,178,{d}nin-kar-nun-na-ke₄ ŋiš ba-an-tuku-ta
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,179,en {d}nin-urta-ra mu-na-gub sizkur₂ mu-na-ab-be₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,180,lugal-ŋu₁₀ iri ki aŋ₂-ŋa₂-zu šag₄-zu he₂-em-ma-huŋ
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,181,en {d}nin-urta iri ki aŋ₂-ŋa₂-zu šag₄-zu he₂-em-ma-huŋ
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,182,eš₃ nibru{ki} iri ki aŋ₂-ŋa₂-zu šag₄-zu he₂-em-ma-huŋ
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,183,e₂-šu-me-ša₄ e₂ ki aŋ₂-zu dili ku₄-ku₄-da-zu-ne
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,184,nitalam-zu-ur₂ ki-sikil {d}nin-nibru{ki}
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,185,šag₄-ga dug₄-mu-un-na-ab bar-ra dug₄-mu-un-na-ab
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,186,inim dug₃ lugal-la su₃-ra₂-še₃ dug₄-mu-un-na-ab
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,187,a nun-e ri-a {d}nin-kar-nun-na-ke₄
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,188,ud-ba sizkur₂ ba-ni
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,189,šag₄ kadra a sed su₃-a-ni
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,190,niŋ₂ nam-he₂-a bi₂-in-dug₄-ga-ni
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,191,me niŋ₂ ud ul-e pa e₃ ak-e
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,192,e₂-šu-me-ša₄ pa e₃ dib-dib-be₂-da-ni
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,193,šag₄ {d}nin-urta-ke₄ ba-sag₉
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,194,en {d}nin-urta-ke₄ igi zid mu-un-X-bar
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,195,e₂-šu-me-ša₄ e₂ ki aŋ₂-ŋa₂-ni dili-ni ku₄-ku₄-da-ni
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,196,nitalam-ni-ir ki-sikil {d}nin-nibru{ki}
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,197,šag₄-ga mu-un-na-ab-be₂ bar-ra mu-un-na-ab-be₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,198,inim dug₃ lugal-la su₃-ra₂-še₃ mu-un-na-ab-be₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,199,ur-saŋ nam-ur-saŋ-ŋa₂-ni pa e₃ bi₂-in-ak-a
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,200,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,201,nam-mah-a-ni e₂ {d}en-lil₂-la₂-ke₄ ki ba-ni-ib-us₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,202,en kur gul-gul gaba-ri nu-tuku-a
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,203,me₃ mah-bi sumur-bi du₇-du₇
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,204,ur-saŋ gal a₂ e₃-a
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,205,kalag-ga a-ma-ru {d}en-lil₂-la₂
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,206,{d}nin-urta dumu mah e₂-kur-ra
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,207,nir-ŋal₂ a-a ugu-na za₃-mi₂-zu dug₃-ga-am₃
+c.1.6.1,Ninurta's return to Nibru: a šir-gida to Ninurta,,208,šir₃-gid₂-da {d}nin-urta-ka

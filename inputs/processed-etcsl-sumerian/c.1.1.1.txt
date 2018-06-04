@@ -1,0 +1,306 @@
+id_text,text_name,version,l_no,text
+c.1.1.1,Enki and Ninhursaŋa,,1,iri{ki} kug-kug-ga-am₃ e-ne ba-am₃-me-en-ze₂-en kur dilmun{ki} kug-ga-am₃
+c.1.1.1,Enki and Ninhursaŋa,,2,ki-en-gi kug-ga e-ne ba-am₃-me-en-ze₂-en kur dilmun{ki} kug-ga-am₃
+c.1.1.1,Enki and Ninhursaŋa,,3,kur dilmun{ki} kug-ga-am₃ kur dilmun sikil-am₃
+c.1.1.1,Enki and Ninhursaŋa,,4,kur dilmun{ki} sikil-am₃ kur dilmun{ki} dadag-ga-am₃
+c.1.1.1,Enki and Ninhursaŋa,,5,dili-ni-ne dilmun{ki}-a u₃-bi₂-in-nu₂
+c.1.1.1,Enki and Ninhursaŋa,,6,ki {d}en-ki dam-a-ni-da ba-an-da-nu₂-a-ba
+c.1.1.1,Enki and Ninhursaŋa,,7,ki-bi sikil-am₃ ki-bi dadag-ga-am₃
+c.1.1.1,Enki and Ninhursaŋa,,8,dili-ni-ne dilmun{ki}-a u₃-bi₂-in-nu₂
+c.1.1.1,Enki and Ninhursaŋa,,9,ki {d}en-ki {d}nin-sikil-la ba-an-da-nu₂-a-ba
+c.1.1.1,Enki and Ninhursaŋa,,10,ki-bi sikil-am₃ ki-bi dadag-ga-am₃
+c.1.1.1,Enki and Ninhursaŋa,,11,dilmun{ki}-a uga{mušen} gu₃-gu₃ nu-mu-ni-be₂
+c.1.1.1,Enki and Ninhursaŋa,,12,dar{mušen}-e gu₃ dar{mušen}-re nu-mu-ni-ib-be₂
+c.1.1.1,Enki and Ninhursaŋa,,13,ur-gu-la saŋ ŋiš nu-ub-ra-ra
+c.1.1.1,Enki and Ninhursaŋa,,14,ur-bar-ra-ke₄ sila₄ nu-ub-kar-re
+c.1.1.1,Enki and Ninhursaŋa,,15,ur-gir₁₅ maš₂ gam-gam nu-ub-zu
+c.1.1.1,Enki and Ninhursaŋa,,16,šah₂ še gu₇-gu₇-e nu-ub-zu
+c.1.1.1,Enki and Ninhursaŋa,,17,nu-mu-un-su₂ munu₄ ur₃-ra barag₂-ga-ba
+c.1.1.1,Enki and Ninhursaŋa,,18,mušen-e an-na munu₄-bi na-an-gu₇-e
+c.1.1.1,Enki and Ninhursaŋa,,19,tum₁₂{mušen}-e saŋ nu-mu-un-da-RU-e
+c.1.1.1,Enki and Ninhursaŋa,,20,igi-gig-e igi-gig-me-en nu-mu-ni-be₂
+c.1.1.1,Enki and Ninhursaŋa,,21,saŋ-gig-e saŋ-gig-me-en nu-mu-ni-be₂
+c.1.1.1,Enki and Ninhursaŋa,,22,um-ma-bi um-ma-me-en nu-mu-ni-be₂
+c.1.1.1,Enki and Ninhursaŋa,,23,ab-ba-bi ab-ba-me-en nu-mu-ni-be₂
+c.1.1.1,Enki and Ninhursaŋa,,24,ki-sikil a nu-tu₅-a-ni iri-a nu-mu-ni-ib-sig₁₀-ge
+c.1.1.1,Enki and Ninhursaŋa,,25,lu₂ id₂-da bal-e ŋi₆-de₃ nu-mu-ni-be₂
+c.1.1.1,Enki and Ninhursaŋa,,26,niŋir-e zag-ga-na nu-um-niŋin₂-niŋin₂
+c.1.1.1,Enki and Ninhursaŋa,,27,nar-e e-lu-lam nu-mu-ni-be₂
+c.1.1.1,Enki and Ninhursaŋa,,28,zag iri-ka i-lu nu-mu-ni-be₂
+c.1.1.1,Enki and Ninhursaŋa,,29,{d}nin-sikil-la a-a-ni {d}en-ki-ra gu₃ mu-na-de₂-e
+c.1.1.1,Enki and Ninhursaŋa,,30,iri mu-e-šum₂ iri mu-e-šum₂ nam-ŋu₁₀ šum₂-ma-zu
+c.1.1.1,Enki and Ninhursaŋa,,31,dilmun iri mu-e-šum₂ iri mu-e-šum₂ nam-ŋu₁₀ šum₂-ma-zu
+c.1.1.1,Enki and Ninhursaŋa,,32,mu-e-šum₂ iri mu-e-šum₂ nam-ŋu₁₀ šum₂-ma-zu
+c.1.1.1,Enki and Ninhursaŋa,,33,iri kar id₂-da nu-un-tuku-a
+c.1.1.1,Enki and Ninhursaŋa,,34,mu-e-šum₂ iri mu-e-šum₂ nam-ŋu₁₀ šum₂-ma-zu
+c.1.1.1,Enki and Ninhursaŋa,,35,
+c.1.1.1,Enki and Ninhursaŋa,,36,iri a-šag₄ a-gar₃ ab-sin₂ nu-un-tuku-a
+c.1.1.1,Enki and Ninhursaŋa,,40,{d}utu an-na gub-be₂-e
+c.1.1.1,Enki and Ninhursaŋa,,41,gir₁₆ DU-a gaba EZEN{ki}-na-ta
+c.1.1.1,Enki and Ninhursaŋa,,42,e₂-suhur si {d}nanna-a-ta
+c.1.1.1,Enki and Ninhursaŋa,,43,ka a ki-a DU.DU-ta a dug₃ ki-ta
+c.1.1.1,Enki and Ninhursaŋa,,44,ŋiri₃-ma-an gal-la-za a he₂-em-ta-ed₃-de₃
+c.1.1.1,Enki and Ninhursaŋa,,45,iri-zu a he₂-ŋal₂-la hu-mu-ra-na₈-na₈
+c.1.1.1,Enki and Ninhursaŋa,,46,dilmun{ki} a he₂-ŋal₂-la hu-mu-ra-na₈-na₈
+c.1.1.1,Enki and Ninhursaŋa,,47,pu₂ a sis-a-zu pu₂ a dug₃-ga he₂-em
+c.1.1.1,Enki and Ninhursaŋa,,48,iri-zu e₂-gun₂ kar-ra kalam-ma-ka he₂-a
+c.1.1.1,Enki and Ninhursaŋa,,49,dilmun{ki} e₂-gun₂ kar-ra kalam-ma-ka he₂-a
+c.1.1.1,Enki and Ninhursaŋa,,49A,kur tu-uk-ri-iš{ki} kug-sig₁₇ ha-ra-li
+c.1.1.1,Enki and Ninhursaŋa,,49B,{na₄}za-gin₃ hu-mu-ra-bal-bal-e
+c.1.1.1,Enki and Ninhursaŋa,,49C,kur me-luh-ha{ki} {na₄}gug niŋ₂ al di kal-la
+c.1.1.1,Enki and Ninhursaŋa,,49D,{ŋeš}meš₃ šag₄-gan ŋiš-ab-ba sig₅-ga
+c.1.1.1,Enki and Ninhursaŋa,,49E,ma₂ gal-gal hu-mu-ra-ab-sa₂
+c.1.1.1,Enki and Ninhursaŋa,,49F,kur mar-ha-ši{ki} na₄ kal-la {na₄}du₈-ši-a
+c.1.1.1,Enki and Ninhursaŋa,,49G,gaba
+c.1.1.1,Enki and Ninhursaŋa,,49H,kur ma₂-gan{ki} urud niŋ₂ kalag-ga usu-Xbr
+c.1.1.1,Enki and Ninhursaŋa,,49I,{na₄}esi {na₄}U {na₄}šu-min₃
+c.1.1.1,Enki and Ninhursaŋa,,49K,kur ab-ba{ki}-ke₄ {ŋeš}esi me-te-bi lugal-la
+c.1.1.1,Enki and Ninhursaŋa,,49L,kur za-lam-ŋar{ki} siki gun₃ sag₉-ga
+c.1.1.1,Enki and Ninhursaŋa,,49M,kur elam{ki}-ma siki igi saŋ₅ gu₂-un-gu₂-un hu-mu-ra-ab-bal-bal-e
+c.1.1.1,Enki and Ninhursaŋa,,49N,eš₃ urim₂{ki} barag nam-lugal-la iri{ki}
+c.1.1.1,Enki and Ninhursaŋa,,49O,še-i₃-ŋiš tug₂ mah tug₂ sig₅ ma₂ gal-gal hu-mu-ra-ab-sa₂
+c.1.1.1,Enki and Ninhursaŋa,,49P,a-ab-ba daŋal-la he₂-ŋal₂-bi
+c.1.1.1,Enki and Ninhursaŋa,,49Q,iri{ki} ki-tuš-bi ki-tuš dug₃-ga-am₃
+c.1.1.1,Enki and Ninhursaŋa,,49R,dilmun{ki} ki-tuš-bi ki-tuš dug₃-ga-am₃
+c.1.1.1,Enki and Ninhursaŋa,,49S,še-bi še di₄-di₄-la₂-am₃
+c.1.1.1,Enki and Ninhursaŋa,,49T,zu₂-lum-bi zu₂-lum gu-ul-gu-la
+c.1.1.1,Enki and Ninhursaŋa,,49U,buru₁₄-bi ₃-am₃
+c.1.1.1,Enki and Ninhursaŋa,,49V,ŋiš-bi ŋiš
+c.1.1.1,Enki and Ninhursaŋa,,50,i₃-ne-eš₂ {d}utu ud ne-a
+c.1.1.1,Enki and Ninhursaŋa,,51,{d}utu an-na gub-be₂-e
+c.1.1.1,Enki and Ninhursaŋa,,52,gir₁₆ DU-a gaba EZEN{ki}-na-ta
+c.1.1.1,Enki and Ninhursaŋa,,53,e₂-suhur si {d}nanna-a-ta
+c.1.1.1,Enki and Ninhursaŋa,,54,ka a ki-a DU.DU-ta a dug₃ ki-ta mu-na-ra-DU
+c.1.1.1,Enki and Ninhursaŋa,,55,ŋiri₃-ma-an gal-la-na a im-ta-ed₃-de₃
+c.1.1.1,Enki and Ninhursaŋa,,56,iri-ni a he₂-ŋal₂-la im-ta-na₈-na₈
+c.1.1.1,Enki and Ninhursaŋa,,57,dilmun{ki} a he₂-ŋal₂-la im-ta-na₈-na₈
+c.1.1.1,Enki and Ninhursaŋa,,58,pu₂ a sis-a-ni pu₂ a dug₃-ga na-nam
+c.1.1.1,Enki and Ninhursaŋa,,59,a-šag₄ a-gar₃ ab-sin₂-a-ni še mu-na-ab-X-šum₂
+c.1.1.1,Enki and Ninhursaŋa,,60,iri-ni e₂-gun₂ kar-ra kalam-ma-ka na-nam
+c.1.1.1,Enki and Ninhursaŋa,,61,dilmun{ki} e₂-gun₂ kar-ra kalam-ma-ka na-nam
+c.1.1.1,Enki and Ninhursaŋa,,62,i₃-ne-eš₂ {d}utu ud ne-a ur₅ he₂-na-nam-ma
+c.1.1.1,Enki and Ninhursaŋa,,63,dili-ni ŋeštug₂-ge tuku-a {d}nin-tur₅ ama kalam-ma-še₃
+c.1.1.1,Enki and Ninhursaŋa,,64,{d}en-ki-ke₄ ŋeštug₂-ge tuku-a {d}nin-tur₅ ama kalam-ma-še₃
+c.1.1.1,Enki and Ninhursaŋa,,65,ŋiš₃-a-ni eg₂-a ba-an-ši-in-dun-e
+c.1.1.1,Enki and Ninhursaŋa,,66,ŋiš₃-a-ni gi-a gir₅-gir₅-e ba-an-ši-gir₅-gir₅-e
+c.1.1.1,Enki and Ninhursaŋa,,67,ŋiš₃-a-ni bar-še₃ mah-he ša-ba-ra-an-zi-zi
+c.1.1.1,Enki and Ninhursaŋa,,68,gu₃ bi₂-in-de₂ ambar-ra lu₂ nu-mu-un-dab-be₂
+c.1.1.1,Enki and Ninhursaŋa,,69,{d}en-ki-ke₄ gu₃ bi₂-in-de₂
+c.1.1.1,Enki and Ninhursaŋa,,70,zi an-na i₃-pad₃
+c.1.1.1,Enki and Ninhursaŋa,,71,nu₂-a ambar-ra nu₂-a ambar-ra giri₁₇-zal
+c.1.1.1,Enki and Ninhursaŋa,,72,{d}en-ki-ke₄ a {d}dam-gal-nun-na-ka-ni mi-ni-in-dug₄
+c.1.1.1,Enki and Ninhursaŋa,,73,{d}nin-hur-saŋ-ŋa₂-ke₄ a šag₄-ga ba-ni-in-ri
+c.1.1.1,Enki and Ninhursaŋa,,74,a šag₄-ga šu ba-ni-in-ti a {d}en-ki-ka₃-ka
+c.1.1.1,Enki and Ninhursaŋa,,75,ud ₁-am₃ itid ₁-a-ni
+c.1.1.1,Enki and Ninhursaŋa,,76,ud ₂-am₃ itid ₂-a-ni
+c.1.1.1,Enki and Ninhursaŋa,,77,ud ₃-am₃ itid ₃-a-ni
+c.1.1.1,Enki and Ninhursaŋa,,78,ud ₄-am₃ itid ₄-a-ni
+c.1.1.1,Enki and Ninhursaŋa,,79,ud ₅-am₃ itid ₅-a-ni
+c.1.1.1,Enki and Ninhursaŋa,,80,ud ₆-am₃ itid ₆-a-ni
+c.1.1.1,Enki and Ninhursaŋa,,81,ud ₇-am₃ itid ₇-a-ni
+c.1.1.1,Enki and Ninhursaŋa,,82,ud ₈-am₃ itid ₈-a-ni
+c.1.1.1,Enki and Ninhursaŋa,,83,ud ₉-am₃ itid ₉-a-ni itid nam-munus-a-ka
+c.1.1.1,Enki and Ninhursaŋa,,84,i₃ li-gin₇ i₃ li-gin₇ i₃-he-nun-na-gin₇
+c.1.1.1,Enki and Ninhursaŋa,,85,{d}nin-tur₅ ama kalam-ma-ka
+c.1.1.1,Enki and Ninhursaŋa,,86,i₃ li-gin₇
+c.1.1.1,Enki and Ninhursaŋa,,87,{d}nin-nisig in-tu-ud
+c.1.1.1,Enki and Ninhursaŋa,,88,{d}nin-nisig gu₂ id₂-da-ke₄ še₃-mi-ni-ib-e₃
+c.1.1.1,Enki and Ninhursaŋa,,89,{d}en-ki-ke₄ ambar-ra im-da-la₂ e-ne im-da-la₂ e-ne
+c.1.1.1,Enki and Ninhursaŋa,,90,sukkal-a-ni {d}isimud₄-de₃ gu₃ mu-na-de₂-e
+c.1.1.1,Enki and Ninhursaŋa,,91,lu₂-tur sag₉-ga-e ne nu-mu-un-su-ub-be₂
+c.1.1.1,Enki and Ninhursaŋa,,92,{d}nin-nisig sag₉-ga-e ne nu-mu-un-su-ub-be₂
+c.1.1.1,Enki and Ninhursaŋa,,93,sukkal-a-ni {d}isimud₄-de₃ mu-na-ni-ib-gi₄-gi₄
+c.1.1.1,Enki and Ninhursaŋa,,94,lu₂-tur sag₉-ga-e ne nu-mu-un-su-ub-be₂
+c.1.1.1,Enki and Ninhursaŋa,,95,{d}nin-nisig sag₉-ga-e ne nu-mu-un-su-ub-be₂
+c.1.1.1,Enki and Ninhursaŋa,,96,lugal-ŋu₁₀ im-dirig ga-ri im-dirig ga-ri
+c.1.1.1,Enki and Ninhursaŋa,,97,ŋiri₃-ni ₁-a {ŋeš}ma₂-a bi₂-in-gub
+c.1.1.1,Enki and Ninhursaŋa,,98,₂-kam-ma bar-rim₄-ma nam-mi-in-gub
+c.1.1.1,Enki and Ninhursaŋa,,99,gaba im-ma-an-tab ne im-ma-an-su-ub
+c.1.1.1,Enki and Ninhursaŋa,,100,{d}en-ki-ke₄ a šag₄-ga ba-ni-in-ri
+c.1.1.1,Enki and Ninhursaŋa,,101,a šag₄-ga šu ba-ni-in-ti a {d}en-ki-ka₃-ka
+c.1.1.1,Enki and Ninhursaŋa,,102,ud ₁-am₃ itid ₁-am₃
+c.1.1.1,Enki and Ninhursaŋa,,103,ud ₂-am₃ itid ₂-am₃
+c.1.1.1,Enki and Ninhursaŋa,,104,ud ₉-am₃ itid ₉-am₃ itid nam-munus-a-ka
+c.1.1.1,Enki and Ninhursaŋa,,105,i₃ li-gin₇ i₃ li-gin₇ i₃-he-nun-na-gin₇
+c.1.1.1,Enki and Ninhursaŋa,,106,{d}nin-nisig i₃ li-gin₇ i₃ li-gin₇ i₃-he-nun-na-gin₇
+c.1.1.1,Enki and Ninhursaŋa,,107,{d}nin-kur-ra in-tu-ud
+c.1.1.1,Enki and Ninhursaŋa,,108,{d}nin-kur-ra gu₂ id₂-da-ke₄ še₃-mi-ni-ib-e₃
+c.1.1.1,Enki and Ninhursaŋa,,109,{d}en-ki-ke₄ ambar-ra im-da-la₂ e-ne im-da-la₂ e-ne
+c.1.1.1,Enki and Ninhursaŋa,,110,sukkal-a-ni {d}isimud₄-de₃ gu₃ mu-na-de₂-e
+c.1.1.1,Enki and Ninhursaŋa,,111,lu₂-tur sag₉-ga-e ne nu-mu-un-su-ub-be₂
+c.1.1.1,Enki and Ninhursaŋa,,112,{d}nin-kur-ra sag₉-ga-e ne nu-mu-un-su-ub-be₂
+c.1.1.1,Enki and Ninhursaŋa,,113,sukkal-a-ni {d}isimud₄-de₃ mu-na-ni-ib-gi₄-gi₄
+c.1.1.1,Enki and Ninhursaŋa,,114,lu₂-tur sag₉-ga-e ne su-ub-bu-ma-ni
+c.1.1.1,Enki and Ninhursaŋa,,115,{d}nin-kur-ra sag₉-ga-e ne su-ub-bu-ma-ni
+c.1.1.1,Enki and Ninhursaŋa,,116,lugal-ŋu₁₀ im-dirig ga-ri im-dirig ga-ri
+c.1.1.1,Enki and Ninhursaŋa,,117,ŋiri₃-ni ₁-a {ŋeš}ma₂-a bi₂-in-gub
+c.1.1.1,Enki and Ninhursaŋa,,118,₂-kam-ma bar-rim₄-ma nam-mi-in-gub
+c.1.1.1,Enki and Ninhursaŋa,,119,gaba im-ma-an-tab ne im-ma-an-su-ub
+c.1.1.1,Enki and Ninhursaŋa,,120,{d}en-ki-ke₄ a šag₄ ba-ni-in-ri
+c.1.1.1,Enki and Ninhursaŋa,,121,a šag₄-ga šu ba-ni-in-ti a {d}en-ki-ka₃-ka
+c.1.1.1,Enki and Ninhursaŋa,,122,ud ₁-am₃ itid ₁-a-ni
+c.1.1.1,Enki and Ninhursaŋa,,123,ud ₉-am₃ itid ₉-a-ni itid nam-munus-a-ka
+c.1.1.1,Enki and Ninhursaŋa,,124,i₃ li-gin₇ i₃ li-gin₇ i₃-he-nun-na-gin₇
+c.1.1.1,Enki and Ninhursaŋa,,125,{d}nin-kur-ra i₃ li-gin₇ i₃ li-gin₇ i₃-he-nun-na
+c.1.1.1,Enki and Ninhursaŋa,,126,{d}uttu munus NI-buluŋ₃ in-tu-ud
+c.1.1.1,Enki and Ninhursaŋa,,126A,{d}nin-kur-ra {d}nin-imma₃ ši-im-ma-an-tu-ud
+c.1.1.1,Enki and Ninhursaŋa,,126B,lu₂-tur i₃-buluŋ₃-e ul im-ma-an-ti
+c.1.1.1,Enki and Ninhursaŋa,,126C,{d}nin-imma₃ gu₂ id₂-da-kam
+c.1.1.1,Enki and Ninhursaŋa,,126D,{d}en-ki-ke₄ ma₂-ta im-ta-gid₂-de₃ im-da-la₂
+c.1.1.1,Enki and Ninhursaŋa,,126E,{d}nin-imma₃ gu₂ id₂-da-kam igi
+c.1.1.1,Enki and Ninhursaŋa,,126F,sukkal-a-ni {d}isimudₓ-ra gu₃ mu-na-de₂-e
+c.1.1.1,Enki and Ninhursaŋa,,126G,lu₂-tur sag₉-ga-gin₇ ŋe₂₆-e ne nam-in-su-ub
+c.1.1.1,Enki and Ninhursaŋa,,126H,{d}nin-imma₃ sag₉-ga-gin₇ ŋe₂₆-e ŋiš₃ nam-in-du₃
+c.1.1.1,Enki and Ninhursaŋa,,126I,sukkal-a-ni {d}isimudₓ-e mu-na-ni-ib-gi₄-gi₄
+c.1.1.1,Enki and Ninhursaŋa,,126K,lugal-ŋu₁₀ i-im-dirig ga-ri i-im-dirig ga-ri
+c.1.1.1,Enki and Ninhursaŋa,,126L,ŋiri₃-ni ₁-am₃ ma₂-a bi₂-gub
+c.1.1.1,Enki and Ninhursaŋa,,126M,₂-kam-ma-am₃ bar-rim₄-ma u₃-bi₂-gub
+c.1.1.1,Enki and Ninhursaŋa,,126N,gaba šu im-mi-in-dab₅ ur₂-ra-na nu₂-a
+c.1.1.1,Enki and Ninhursaŋa,,126O,lu₂-tur ŋiš₃ im-mi-in-dug₄ ne im-ma-ni-in-su-ub
+c.1.1.1,Enki and Ninhursaŋa,,126P,{d}en-ki-ke₄ {d}nin-imma₃ a šag₄ mu-ni-in-ri
+c.1.1.1,Enki and Ninhursaŋa,,126Q,a šag₄-ga šu ba-ni-in-ti a {d}en-ki-ka₃-kam
+c.1.1.1,Enki and Ninhursaŋa,,126R,munus-e ud ₁-bi itid ₁-bi na-nam
+c.1.1.1,Enki and Ninhursaŋa,,126S,ud ₂-bi itid ₂-bi na-nam
+c.1.1.1,Enki and Ninhursaŋa,,126T,ud ₃-bi itid ₃-bi na-nam
+c.1.1.1,Enki and Ninhursaŋa,,126U,ud ₄-bi itid ₄-bi na-nam
+c.1.1.1,Enki and Ninhursaŋa,,126V,ud ₅-bi itid ₅-bi na-nam
+c.1.1.1,Enki and Ninhursaŋa,,126W,ud ₆-bi itid ₆-bi na-nam
+c.1.1.1,Enki and Ninhursaŋa,,126X,ud ₇-bi itid ₇-bi na-nam
+c.1.1.1,Enki and Ninhursaŋa,,126Y,ud ₈-bi itid ₈-bi na-nam
+c.1.1.1,Enki and Ninhursaŋa,,126Z,ud ₉-bi itid nam-munus-a-ni na-nam
+c.1.1.1,Enki and Ninhursaŋa,,126AA,i₃ li-gin₇ i₃ li-gin₇ i₃-he-nun-na-gin₇
+c.1.1.1,Enki and Ninhursaŋa,,126BB,{d}nin-imma₃ i₃ li-gin₇ i₃-he-nun-na-gin₇
+c.1.1.1,Enki and Ninhursaŋa,,126CC,{d}uttu munus NI-buluŋ₃ in-tu-ud
+c.1.1.1,Enki and Ninhursaŋa,,127,{d}nin-tur₅-re {d}uttu-ra gu₃ mu-na-de₂-e
+c.1.1.1,Enki and Ninhursaŋa,,128,na ga-e-de₅ na de₅-ŋu₁₀ he₂-e-dab₅
+c.1.1.1,Enki and Ninhursaŋa,,129,inim ga-ra-ab-dug₄ inim-ŋu₁₀-še₃ ŋeštug₂-zu
+c.1.1.1,Enki and Ninhursaŋa,,130,lu₂ ₁-am₃ ambar-ra im-da-la₂ e-ne im-da-la₂ e-ne
+c.1.1.1,Enki and Ninhursaŋa,,131,{d}en-ki-ke₄ ambar-ra im-da-la₂ e-ne im-da-la₂ e-ne
+c.1.1.1,Enki and Ninhursaŋa,,132,igi im-X
+c.1.1.1,Enki and Ninhursaŋa,,142,
+c.1.1.1,Enki and Ninhursaŋa,,143,{d}uttu munus NI-buluŋ₃
+c.1.1.1,Enki and Ninhursaŋa,,144,
+c.1.1.1,Enki and Ninhursaŋa,,145,
+c.1.1.1,Enki and Ninhursaŋa,,146,šag₄-za
+c.1.1.1,Enki and Ninhursaŋa,,147,ukuš₂ sur-ra-X de₆-um
+c.1.1.1,Enki and Ninhursaŋa,,148,{ŋeš}hašhur gu ul-ul-ba de₆-um
+c.1.1.1,Enki and Ninhursaŋa,,149,{ŋeš}ŋeštin ga-ra-an-ba de₆-um
+c.1.1.1,Enki and Ninhursaŋa,,150,e₂-a saman₂-ŋu₁₀ he₂-dab₅
+c.1.1.1,Enki and Ninhursaŋa,,151,{d}en-ki-ke₄ saman₂-ŋu₁₀ he₂-bi₂-in-dab₅
+c.1.1.1,Enki and Ninhursaŋa,,152,₂-kam-ma a si-si-da-ni
+c.1.1.1,Enki and Ninhursaŋa,,153,eg₂ a bi₂-in-si
+c.1.1.1,Enki and Ninhursaŋa,,154,pa₅ a bi₂-in-si
+c.1.1.1,Enki and Ninhursaŋa,,155,kislah a bi₂-in-si
+c.1.1.1,Enki and Ninhursaŋa,,156,nu-{ŋeš}kiri₆ sahar-ra hul₂-a-na
+c.1.1.1,Enki and Ninhursaŋa,,157,gu₂-ni gu₂-da im-ši-in-la₂-e-de₃
+c.1.1.1,Enki and Ninhursaŋa,,158,a-ba-me-en {ŋeš}kiri₆
+c.1.1.1,Enki and Ninhursaŋa,,159,{d}en-ki-ke₄ nu-{ŋeš}kiri₆-X
+c.1.1.1,Enki and Ninhursaŋa,,164,ukuš₂ sur-ra-na im-ma-na-an-de₆
+c.1.1.1,Enki and Ninhursaŋa,,165,{ŋeš}hašhur gu ul-ul-ba im-ma-na-an-de₆
+c.1.1.1,Enki and Ninhursaŋa,,166,{ŋeš}ŋeštin ga-ra-an-ba im-ma-na-an-de₆ ur₂-ra-ni bi₂-in-si-si
+c.1.1.1,Enki and Ninhursaŋa,,167,{d}en-ki-ke₄ igi-ni im-ma-an-sig₇-sig₇ ŋidru šu bi₂-in-du₈
+c.1.1.1,Enki and Ninhursaŋa,,168,{d}en-ki-ke₄ {d}uttu-ra ŋiri₃ im-ma-an-gub
+c.1.1.1,Enki and Ninhursaŋa,,169,e₂-na al-dub₂-dub₂-e ŋal₂-u₃ ŋal₂-u₃
+c.1.1.1,Enki and Ninhursaŋa,,170,a-ba-me-en za-e-me-en
+c.1.1.1,Enki and Ninhursaŋa,,171,ŋe₂₆-e nu-{ŋeš}kiri₆ ukuš₂ {ŋeš}hašhur {ŋeš}ŋeštin he₂-am₃-še₃ ga-mu-ra-ab-šum₂
+c.1.1.1,Enki and Ninhursaŋa,,172,{d}uttu šag₄ hul₂-la-ni-ta e₂-e ŋal₂ ba-an-taka₄
+c.1.1.1,Enki and Ninhursaŋa,,173,{d}en-ki-ke₄ {d}uttu-ra munus NI-buluŋ₃
+c.1.1.1,Enki and Ninhursaŋa,,174,ukuš₂ sur-ra-na ba-na-ab-šum₂-mu
+c.1.1.1,Enki and Ninhursaŋa,,175,{ŋeš}hašhur gu ul-ul-ba ba-na-ab-šum₂-mu
+c.1.1.1,Enki and Ninhursaŋa,,176,{ŋeš}ŋeštin ga-ra-an-ba ba-na-ab-šum₂-mu
+c.1.1.1,Enki and Ninhursaŋa,,177,kaš {gi}ba-an gu-la
+c.1.1.1,Enki and Ninhursaŋa,,178,{d}uttu munus NI-buluŋ₃ gabu₂ mu-na-ab-sig₁₀-ge šu mu-na-sag₃-ge
+c.1.1.1,Enki and Ninhursaŋa,,179,{d}en-ki-ke₄ {d}uttu-ra ul im-ma-ni-in-ti
+c.1.1.1,Enki and Ninhursaŋa,,180,gaba šu im-mi-in-dab ur₂-ra-na nu₂-a
+c.1.1.1,Enki and Ninhursaŋa,,181,haš₂ mu-un-tag-tag-ge šu mu-un-tag-tag-ge
+c.1.1.1,Enki and Ninhursaŋa,,182,gaba šu im-mi-in-dab₅ ur₂-ra-na nu₂-a
+c.1.1.1,Enki and Ninhursaŋa,,183,lu₂-tur ŋiš₃ im-in-du₃ ne im-ma-ni-in-su-ub
+c.1.1.1,Enki and Ninhursaŋa,,184,{d}en-ki-ke₄ {d}uttu a šag₄ mu-ni-in-ri
+c.1.1.1,Enki and Ninhursaŋa,,185,a šag₄-ga šu ba-ši-in-ti a {d}en-ki-ka₃-kam
+c.1.1.1,Enki and Ninhursaŋa,,186,{d}uttu munus sag₉-ga a₂ haš₂-ŋu₁₀ im-me a₂ bar-ŋu₁₀ a₂ ša₃-ba-ŋu₁₀ im-me
+c.1.1.1,Enki and Ninhursaŋa,,187,{d}nin-hur-saŋ-ŋa₂ a haš₂-ta ba-an-tag-tag
+c.1.1.1,Enki and Ninhursaŋa,,190,u₂-ŋiš im-ma-an-mu₂
+c.1.1.1,Enki and Ninhursaŋa,,191,u₂-lal₃ im-ma-an-mu₂
+c.1.1.1,Enki and Ninhursaŋa,,192,u₂-sar-ra im-ma-an-mu₂
+c.1.1.1,Enki and Ninhursaŋa,,193,{u₂}A.NUMUN₂ im-ma-an-mu₂
+c.1.1.1,Enki and Ninhursaŋa,,194,{u₂}a-tu-tu im-ma-an-mu₂
+c.1.1.1,Enki and Ninhursaŋa,,195,{u₂}aš-tal₂-tal₂ im-ma-an-mu₂
+c.1.1.1,Enki and Ninhursaŋa,,196,{u₂}X im-ma-an-mu₂
+c.1.1.1,Enki and Ninhursaŋa,,197,{u₂}am-ha-ru im-ma-an-mu₂
+c.1.1.1,Enki and Ninhursaŋa,,198,{d}en-ki-ke₄ ambar-ra im-da-la₂ e-ne im-da-la₂ e-ne
+c.1.1.1,Enki and Ninhursaŋa,,199,sukkal-a-ni {d}isimud₄-de₃ gu₃ mu-na-de₂-e
+c.1.1.1,Enki and Ninhursaŋa,,200,u₂ ŋe₂₆-e nam-bi li-bi₂-tar-re
+c.1.1.1,Enki and Ninhursaŋa,,201,a-na-am₃ ne-e a-na-am₃ ne-e
+c.1.1.1,Enki and Ninhursaŋa,,202,sukkal-a-ni {d}isimud₄-de₃ mu-na-ni-ib₂-gi₄-gi₄
+c.1.1.1,Enki and Ninhursaŋa,,203,lugal-ŋu₁₀ u₂-ŋiš mu-na-ab-be₂
+c.1.1.1,Enki and Ninhursaŋa,,204,mu-na-kud-de₃ ba-gu₇-e
+c.1.1.1,Enki and Ninhursaŋa,,205,lugal-ŋu₁₀ u₂-lal₃ mu-na-ab-be₂
+c.1.1.1,Enki and Ninhursaŋa,,206,mu-na-bur₁₂-re ba-gu₇-e
+c.1.1.1,Enki and Ninhursaŋa,,207,lugal-ŋu₁₀ u₂-sar-ra mu-na-ab-be₂
+c.1.1.1,Enki and Ninhursaŋa,,208,mu-na-kud-de₃ ba-gu₇-e
+c.1.1.1,Enki and Ninhursaŋa,,209,lugal-ŋu₁₀ {u₂}A.NUMUN₂ mu-na-ab-be₂
+c.1.1.1,Enki and Ninhursaŋa,,210,mu-na-bur₁₂-re ba-gu₇-e
+c.1.1.1,Enki and Ninhursaŋa,,211,lugal-ŋu₁₀ {u₂}a-tu-tu mu-na-ab-be₂
+c.1.1.1,Enki and Ninhursaŋa,,212,mu-na-kud-de₃ ba-gu₇-e
+c.1.1.1,Enki and Ninhursaŋa,,213,lugal-ŋu₁₀ {u₂}aš-tal₂-tal₂ mu-na-ab-be₂
+c.1.1.1,Enki and Ninhursaŋa,,214,mu-na-bur₁₂-re ba-gu₇-e
+c.1.1.1,Enki and Ninhursaŋa,,215,lugal-ŋu₁₀ {u₂}X mu-na-ab-be₂
+c.1.1.1,Enki and Ninhursaŋa,,216,mu-na-kud-de₃ ba-gu₇-e
+c.1.1.1,Enki and Ninhursaŋa,,217,lugal-ŋu₁₀ {u₂}am-ha-ru mu-na-ab-be₂
+c.1.1.1,Enki and Ninhursaŋa,,218,mu-na-bu-re ba-gu₇-e
+c.1.1.1,Enki and Ninhursaŋa,,219,{d}en-ki-ke₄ u₂ nam-bi bi₂-in-tar šag₄-ba ba-ni-in-zu
+c.1.1.1,Enki and Ninhursaŋa,,220,{d}nin-hur-saŋ-ŋa₂-ke₄ mu {d}en-ki nam-erim₂ ba-an-kud
+c.1.1.1,Enki and Ninhursaŋa,,221,i-bi₂ na-aŋ₂-til₃-la en-na ba-ug₅-ge-a i-bi₂ ba-ra-an-bar-re-en
+c.1.1.1,Enki and Ninhursaŋa,,222,{d}a-nun-na-ke₄-ne sahar-ta im-mi-in-durunₓ-ne-eš
+c.1.1.1,Enki and Ninhursaŋa,,223,ka₅-a {d}en-lil₂-ra mu-na-da-ab-be₂
+c.1.1.1,Enki and Ninhursaŋa,,224,ŋe₂₆-e {d}nin-hur-saŋ-ŋa₂ mu-e-ši-tum₂-mu-un a-na-am₃ niŋ₂-ba-ŋu₁₀
+c.1.1.1,Enki and Ninhursaŋa,,225,{d}en-lil₂-le ka₅-a mu-na-ni-ib₂-gi₄-gi₄
+c.1.1.1,Enki and Ninhursaŋa,,226,za-e {d}nin-hur-saŋ-ŋa₂ mu-e-tum₂-mu-un-nam
+c.1.1.1,Enki and Ninhursaŋa,,227,iri-ŋa₂ ₂ ŋiš-gana₂ ga-ri-du₃ mu-zu he₂-pad₃-de₃
+c.1.1.1,Enki and Ninhursaŋa,,228,ka₅-a su-ni ₁-am₃ im-ma-an-peš₅-peš₅
+c.1.1.1,Enki and Ninhursaŋa,,229,siki-ni ₁-am₃ im-ma-an-bur₂-bur₂
+c.1.1.1,Enki and Ninhursaŋa,,230,igi-ni ₁-am₃ šembizid bi₂-in-ŋar
+c.1.1.1,Enki and Ninhursaŋa,,235,nibru{ki}-še₃ mu-ŋen-ne-en {d}en-lil₂
+c.1.1.1,Enki and Ninhursaŋa,,236,urim₂{ki}-še₃ mu-ŋen-ne-en {d}nanna
+c.1.1.1,Enki and Ninhursaŋa,,237,larsam{ki}-še₃ mu-ŋen-ne-en {d}utu
+c.1.1.1,Enki and Ninhursaŋa,,238,unug{ki}-še₃ mu-ŋen-ne-en {d}inana
+c.1.1.1,Enki and Ninhursaŋa,,239,i₃-me-a zi-ŋu₁₀ mu-X-tum₂-mu
+c.1.1.1,Enki and Ninhursaŋa,,240,
+c.1.1.1,Enki and Ninhursaŋa,,241,{d}nin-hur-saŋ-ŋa₂
+c.1.1.1,Enki and Ninhursaŋa,,245,
+c.1.1.1,Enki and Ninhursaŋa,,246,
+c.1.1.1,Enki and Ninhursaŋa,,247,{d}nin-hur-saŋ-ŋa₂-ke₄ e₂ kaš₄ im-ma-an-dug₄
+c.1.1.1,Enki and Ninhursaŋa,,248,{d}a-nun-na-ke₄-ne tug₂-ga-ni ba-an-dab₅-be₂-eš
+c.1.1.1,Enki and Ninhursaŋa,,249,im-ma-an-ak-eš
+c.1.1.1,Enki and Ninhursaŋa,,250,nam im-ma-an-tar-eš
+c.1.1.1,Enki and Ninhursaŋa,,251,šu im-ma-an-bur₂-ru-uš
+c.1.1.1,Enki and Ninhursaŋa,,252,{d}nin-hur-saŋ-ŋa₂-ke₄ {d}en-ki gal₄-la-na ba-ni-in-tuš
+c.1.1.1,Enki and Ninhursaŋa,,253,šu bar-ba
+c.1.1.1,Enki and Ninhursaŋa,,254,šeš-ŋu₁₀ a-na-zu a-ra-gig
+c.1.1.1,Enki and Ninhursaŋa,,255,ugu-dilim₂-ŋu₁₀ ma-gig
+c.1.1.1,Enki and Ninhursaŋa,,256,{d}ab-u₂ im-ma-ra-an-tu-ud
+c.1.1.1,Enki and Ninhursaŋa,,257,šeš-ŋu₁₀ a-na-zu a-ra-gig
+c.1.1.1,Enki and Ninhursaŋa,,258,pa siki-ŋu₁₀ ma-gig
+c.1.1.1,Enki and Ninhursaŋa,,259,{d}nin-siki-la₂ im-ma-ra-an-tu-ud
+c.1.1.1,Enki and Ninhursaŋa,,260,šeš-ŋu₁₀ a-na-zu a-ra-gig giri₁₇-ŋu₁₀ ma-gig
+c.1.1.1,Enki and Ninhursaŋa,,261,{d}nin-giri₁₇-u₃-tud im-ma-ra-an-tu-ud
+c.1.1.1,Enki and Ninhursaŋa,,262,šeš-ŋu₁₀ a-na-zu a-ra-gig ka-ŋu₁₀ ma-gig
+c.1.1.1,Enki and Ninhursaŋa,,263,{d}nin-ka-si im-ma-ra-an-tu-ud
+c.1.1.1,Enki and Ninhursaŋa,,264,šeš-ŋu₁₀ a-na-zu a-ra-gig zi-ŋu₁₀ ma-gig
+c.1.1.1,Enki and Ninhursaŋa,,265,{d}na-zi im-ma-ra-an-tu-ud
+c.1.1.1,Enki and Ninhursaŋa,,266,šeš-ŋu₁₀ a-na-zu a-ra-gig a₂-ŋu₁₀ ma-gig
+c.1.1.1,Enki and Ninhursaŋa,,267,{d}a₂-zi-mu₂-a im-ma-ra-an-tu-ud
+c.1.1.1,Enki and Ninhursaŋa,,268,šeš-ŋu₁₀ a-na-zu a-ra-gig ti-ŋu₁₀ ma-gig
+c.1.1.1,Enki and Ninhursaŋa,,269,{d}nin-ti im-ma-ra-an-tu-ud
+c.1.1.1,Enki and Ninhursaŋa,,270,šeš-ŋu₁₀ a-na-zu a-ra-gig zag-ŋu₁₀ ma-gig
+c.1.1.1,Enki and Ninhursaŋa,,271,{d}en-sa₆-ag im-ma-ra-an-tu-ud
+c.1.1.1,Enki and Ninhursaŋa,,272,di₄-di₄-la₂-la₂ ba-tud-de₃-en-na-aš niŋ₂-ba nam-la₂
+c.1.1.1,Enki and Ninhursaŋa,,273,{d}ab-u₂ lugal u₂ he₂-a
+c.1.1.1,Enki and Ninhursaŋa,,274,{d}nin-siki-la₂ en ma₂-gan-na he₂-a
+c.1.1.1,Enki and Ninhursaŋa,,275,{d}nin-giri₁₇-u₃-tud {d}nin-a-zu ha-ba-an-tuku-tuku
+c.1.1.1,Enki and Ninhursaŋa,,276,{d}nin-ka-si niŋ₂ šag₄ si he₂-a
+c.1.1.1,Enki and Ninhursaŋa,,277,{d}na-zi u₃-mu-un-dar-a ha-ba-an-tuku-tuku
+c.1.1.1,Enki and Ninhursaŋa,,278,{d}a₂-zi-mu₂-a {d}nin-ŋiš-zid-da ha-ba-an-tuku-tuku
+c.1.1.1,Enki and Ninhursaŋa,,279,{d}nin-ti nin itid-e he₂-a
+c.1.1.1,Enki and Ninhursaŋa,,280,{d}en-sa₆-ag en dilmun-na he₂-a
+c.1.1.1,Enki and Ninhursaŋa,,281,{d}en-ki za₃-mi₂

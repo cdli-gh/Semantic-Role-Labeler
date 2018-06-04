@@ -1,0 +1,53 @@
+id_text,text_name,version,l_no,text
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,1,šul {d}utu im-ma-an-ri
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,2,ur₅-ra-aš-ta mu-e-tum₃-tum₃
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,3,še-er-zid piriŋ gal ur-saŋ an-šag₄ kug-ta e₃-a
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,4,ud me-lem₄-ni kalam-ma bi₂-dul₄ ni₂ gal mu-da-ri
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,5,{d}utu lugal niŋ₂-si-sa₂ a zid-de₃-eš₂ tum₂-ma
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,6,šen-na dalla mu-na-ni-in-e₃ sipad zid šul-gi-ke₄
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,7,am gal an kug-ta šul {d}utu izi-ŋar-gin₇ ŋa₂-ŋa₂ ud kalam-ma igi-ŋal₂
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,8,kur-kur-ra me-lem₄ ur₅-ra-aš
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,9,diŋir si sa₂ {d}a-nun-ke₄-ne ušumgal kug sud-sud
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,10,dumu-saŋ {d}suen-ne₂ mi₂ dug₄-ga en dug₄-ga tud-da
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,11,šul-gi-ra {d}utu-u₃ nam-lugal kalam-ma mu-na-an-šum₂
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,12,piriŋ zag ₃-gin₇ kur u₃-mu-tuku₄-tuku₄ ki-bal mu-hul-Xbr
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,13,lu₂ gu₂-erim₂-ŋal₂ {d}nanna-a-ka gu₂
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,14,saŋ-ŋa₂ gal diŋir-re-ne
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,15,aŋ₂
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,16,
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,17,{d}utu sipad šag₄ X-ni-ir
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,18,šul-gi niŋ₂-si-sa₂
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,19,gug-kal-la
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,20,dumu {d}nin-sumun₂
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,21,uŋ₃-e ni₂ gal
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,22,šu dug₄-ga na-me lu₂
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,23,sa-gid₂-da-am₃
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,24,{d}utu lugal-ra nam dug₃ tar-mu-ni-ib
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,25,ŋiš-gi₅-ŋal₂ sa-gid₂-da-kam
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,26,mah-am₃
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,27,bi₂-i₃-sag₉-sag₉
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,28,sipad šul-gi piriŋ pad₃ ki-bal-a
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,29,iri en-na nu-huŋ ni₂-bi-a
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,30,šul {d}utu uŋ₃ u₈-gin₇ lu-a
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,31,eš₃ kug za-gin₃-na hul₂-la-da
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,32,saŋ il₂ gal-še₃
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,33,ab₂-šilam-gin₇ saŋ il₂
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,34,
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,35,ni₂-bi-a pa hu-mu-X-e₃
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,36,
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,37,šul-gi {d}utu
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,38,tir šim {ŋeš}erin-na-da
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,39,lugal en an-na me-lem₄ sud₄-sud₄
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,40,barag mah an-na ki kug-ga-ta ud
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,41,en-ne₂ kur-kur-ra an kug-ta si mah
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,42,šul {d}utu niŋ₂ nam-sikil-la-zu-ta mu-na-da-lug-ga
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,43,nam-til₃ niŋ₂ dug₃ ha-la-zu he₂-am₃ dumu {d}nin-sumun₂-ka
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,44,sa-ŋar-ra-am₃
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,45,šul {d}utu sipad šag₄-ge bi₂-i₃-pad₃
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,46,šul-gi sipad zid lugal mu he₂-ŋal₂-la₂ nam-še₃ tar-ra-am₃
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,47,sipad zid {d}utu-u₃ nam tar-ra-ra
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,48,{d}en-lil₂-le eš₃-e nibru{ki}-ta saŋ-e-eš₂ mu-ni-rig₇
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,49,ŋiš-gi₅-ŋal₂ sa-ŋar-ra-kam
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,50,en me gal-gal-la {d}nin-gal-e tud-da
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,51,šul {d}utu en me gal-gal-la {d}nin-gal-e tud-da
+c.2.4.2.17,An adab (?) to Utu for Šulgi (Šulgi Q),,52,pad₃

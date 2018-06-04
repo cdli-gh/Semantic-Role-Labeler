@@ -1,0 +1,62 @@
+id_text,text_name,version,l_no,text
+c.1.7.7,The šumunda grass,,1,ab-ba na mu-un-de ab-ba na mu-un-de
+c.1.7.7,The šumunda grass,,2,im ba-šeŋ₃-ŋa₂-ba e₂-ŋar₈ ba-gul-la-ba
+c.1.7.7,The šumunda grass,,3,šika bar₇-bar₇-ra ba-šeŋ₃-ŋa₂-ba
+c.1.7.7,The šumunda grass,,4,lu₂-ra lu₂ gi₄-ba gaba ba-ri-a-ba
+c.1.7.7,The šumunda grass,,5,mu ba-dug₄-ga-ba in-ga-an-dug₄
+c.1.7.7,The šumunda grass,,6,še ba-su-ub-ba in-ga-an-su-ub
+c.1.7.7,The šumunda grass,,7,ud im-e ŋe₂₆-e ga-šeŋ₃ im-mi-in-dug₄-ga-ba
+c.1.7.7,The šumunda grass,,8,ud e₂-ŋar₈-e ŋe₂₆-e ga-gul im-mi-in-dug₄-ga-ba
+c.1.7.7,The šumunda grass,,9,ud a-ma-ru ŋe₂₆-e ga-ur₃-ur₃ im-mi-in-dug₄-ga-ba
+c.1.7.7,The šumunda grass,,10,an in-dug₄ ki in-tu-ud
+c.1.7.7,The šumunda grass,,11,{u₂}šumunda in-ga-an-tu-ud
+c.1.7.7,The šumunda grass,,12,ki in-tu-ud an in-dug₄
+c.1.7.7,The šumunda grass,,13,{u₂}šumunda in-ga-an-tu-ud
+c.1.7.7,The šumunda grass,,14,gi lum-lum-ma-ni izi ba-an-la₂
+c.1.7.7,The šumunda grass,,15,ri-a-ri-a-bi gaba ba-ri-a-bi
+c.1.7.7,The šumunda grass,,16,um-ma ud-da ba-ra-ab-taka₄-a
+c.1.7.7,The šumunda grass,,17,ab-ba ud-da ba-ra-ab-taka₄-a
+c.1.7.7,The šumunda grass,,18,gala-mah mu-da ba-ra-ab-taka₄-a
+c.1.7.7,The šumunda grass,,19,mu-lu a-ma-ru-ta ba-ra-ab-taka₄-a
+c.1.7.7,The šumunda grass,,20,{u₂}šumunda kiŋ₂-gi₄-a ba-an-gaz
+c.1.7.7,The šumunda grass,,21,kiŋ₂-gi₄-a ba-an-gaz sahar-tu₁₁-be₂ ba-tuš
+c.1.7.7,The šumunda grass,,22,{u₂}šumunda izi la₂-la₂ am₃-me u₂-du₃-a-ni nu-ub-be₂
+c.1.7.7,The šumunda grass,,23,u₂ nu-mu-dub₂-dub₂-be₂ u₂ nu-mu-bur₂-bur₂-re
+c.1.7.7,The šumunda grass,,24,u₂ nu-mu-bur₂-bur₂-re ma-a um-ma-an-du₃
+c.1.7.7,The šumunda grass,,25,tukum mu-un-gub-be₃ tukum mu-un-nu₂-e
+c.1.7.7,The šumunda grass,,26,izi um-ma-an-šum₂ daŋal-ba ŋen-na-ni
+c.1.7.7,The šumunda grass,,27,{u₂}šumunda ki-gub-ba-ni a-a sis-na
+c.1.7.7,The šumunda grass,,28,izi ga-ba-ŋar ga-ba-ŋar im-ma-ni-in-du₇-e
+c.1.7.7,The šumunda grass,,29,ur₂ e₂-an-na-ke₄ izi im-ma-ni-ri
+c.1.7.7,The šumunda grass,,30,šu im-ma-ni-in-du₃ šu im-ma-ni-in-la₂
+c.1.7.7,The šumunda grass,,31,inim ka-na um-ma-da-ŋal₂-la
+c.1.7.7,The šumunda grass,,32,ga-ša-an-an-na-ke₄ uga{mušen} ba-e-dab₅ ugu-ni-še₃ ba-gub
+c.1.7.7,The šumunda grass,,33,sipad-de₃ e-ze₂-ni ma-a-a-ba mu-da-ab-šub
+c.1.7.7,The šumunda grass,,34,ga-ša-an-an-na-ke₄ uga{mušen} ba-e-dab₅-ba
+c.1.7.7,The šumunda grass,,35,im ba-šeŋ₃-ŋa₂-ba e₂-ŋar₈ ba-gul-la-ba
+c.1.7.7,The šumunda grass,,36,šika bar₇-bar₇-ra ba-šeŋ₃-ŋa₂-ba
+c.1.7.7,The šumunda grass,,37,{d}dumu-zid-de₃ gaba ba-ri-a-bi
+c.1.7.7,The šumunda grass,,38,im ba-da-šeŋ₃ e₂-ŋar₈ ba-da-gul
+c.1.7.7,The šumunda grass,,39,tur₃ ba-da-gul amaš ba-da-bur₁₂
+c.1.7.7,The šumunda grass,,40,id₂-da a-ŋi₆ hul ba-an-da-šub
+c.1.7.7,The šumunda grass,,41,ambar-ra im-hul ba-an-da-šub
+c.1.7.7,The šumunda grass,,42,na-aŋ₂ {id₂}idigna {id₂}buranuna-ke₄
+c.1.7.7,The šumunda grass,,43,{id₂}idigna {id₂}buranuna-ke₄ u₂ gid₂-da ba-an-mu₂
+c.1.7.7,The šumunda grass,,44,u₂ gid₂-da aŋ₂ zu-a
+c.1.7.7,The šumunda grass,,50,u₂-du₃-a-ni mu-ub-be₂ u₂ mu-dub₂-dub₂-be₂
+c.1.7.7,The šumunda grass,,51,{u₂}šumunda izi la₂
+c.1.7.7,The šumunda grass,,52,{u₂}šumunda izi la₂ am₃-ma-an-du₃
+c.1.7.7,The šumunda grass,,53,izi la₂ am₃-ma-an-du₃ en₃ mu-un-na-tar-re
+c.1.7.7,The šumunda grass,,54,ga-ša-an-an-na-ra {lu₂}azlag tug₂-ga-ni dan₃-dan₃-na
+c.1.7.7,The šumunda grass,,55,ga-ša-an-an-na nagar {ŋeš}bal-e šu bi₂-in-dab₅-ba
+c.1.7.7,The šumunda grass,,56,ga-ša-an-an-na bahar₂-e {dug}sila₃ am₃-kir₃-kir₃
+c.1.7.7,The šumunda grass,,57,bahar₂ {dug}utul₂ kug mu-un-na-an-šum₂ sipad-de₃ e-ze₂-ni mu-na-ab-ga
+c.1.7.7,The šumunda grass,,58,sipad-de₃ e-ze₂-ni mu-na-ab-ga en₃ mu-un-na-tar-re
+c.1.7.7,The šumunda grass,,59,u₂ giri₁₇-zal u₂ giri₁₇-zal buru₁₄-gin₇ mu-na-ab-ga
+c.1.7.7,The šumunda grass,,60,gu₃ an-e ba-te gu₃ ki-še₃ ba-te
+c.1.7.7,The šumunda grass,,61,gu₃ šu niŋin₂-na-ni an-ur₂-ra tug₂-gin₇ im-mi-in-dul gada-gin₇ im-mi-in-bur₂
+c.1.7.7,The šumunda grass,,62,saŋ-du {u₂}šumunda-ke₄ {tum₉}u₁₈-lu-{tum₉}u₁₈-lu bi₂-in-šub
+c.1.7.7,The šumunda grass,,63,{u₂}šumunda mu-zu
+c.1.7.7,The šumunda grass,,64,u₂ he₂-me-en
+c.1.7.7,The šumunda grass,,65,u₂ hul gig-ga he₂-me-en
+c.1.7.7,The šumunda grass,,66,mu-zu

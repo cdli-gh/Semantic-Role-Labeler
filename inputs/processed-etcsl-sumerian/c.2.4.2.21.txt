@@ -1,0 +1,32 @@
+id_text,text_name,version,l_no,text
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,1,{d}nergal
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,2,ni₂ gal i ganzer
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,3,ni₂ me-lem₄-ma-bi sa-bar-ra
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,4,an-ne₂ ki-e ni₂-bi
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,5,šag₄-ba-tuku ₂-kam-ma-am₃
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,6,ur-saŋ am a₂ gur-gur ab₂-gin₇
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,7,mu huš-zu ni₂ su zig₃ bar-re-dam
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,8,ulu₃-gin₇-nam ki-bal šub-šub-bu-me-en
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,9,kur niŋ₂-daŋal-ba si-ŋar-bi-me-en
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,10,e₂-meš₃-lam za-e tuš-a-zu-ne
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,11,hul₂-hul₂-le šag₄-ge₈ guru₆
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,12,uŋ₃-e gu₂ ši-im-si ŋiri₃-zu-še₃
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,13,bar-sud ₂-kam-ma-am₃
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,14,ki-bal-e nam-nir-ŋal₂-zu {d}meš₃-lam-ta-e₃-a
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,15,ki-bal-e šul ši-im-mi-niŋin₂-niŋin₂
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,16,{d}nergal nam-nir-ŋal₂-zu ki-bal-e
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,17,a-a-zu ki gal-bi ši-im-ma-an-aŋ₂
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,18,nam-ur-saŋ-zu uŋ₃-e im-mi-zu
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,19,a-a-zu {d}en-lil₂-le ki gal-bi ši-im-ma-an-aŋ₂
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,20,nam-ur-saŋ-zu uŋ₃-e im-mi-zu
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,21,ur-saŋ uŋ₃-e diŋir kur-ra niŋin
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,22,ki-bal-e ba-ni-dug₄
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,23,{d}nergal uŋ₃-e diŋir kur-ra niŋin
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,24,ki dib-ba-zu erin₂ teš₂-bi-še₃ hul
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,25,an-ša₄-an{ki} ti-da-nu-um-ma
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,26,{d}nergal ki dib-ba erin₂ teš₂-bi-še₃ hul
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,27,sa-gid₂-da-am₃
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,28,ur-saŋ šul-gi-ra zi
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,29,a₂
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,30,ŋiš-gi₄-ŋal₂-bi-im
+c.2.4.2.21,An adab (?) to Nergal for Šulgi (?) (Šulgi U),,x,

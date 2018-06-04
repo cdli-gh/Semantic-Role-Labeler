@@ -1,0 +1,242 @@
+id_text,text_name,version,l_no,text
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,1,an-ta e₃-a-ra an-ta e₃-a-ra silim-ma ga-na-ab-be₂-en
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,2,nu-u₈-gig an-ta e₃-a-ra silim-ma ga-na-ab-be₂-en
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,3,nin gal an-na {d}inana-ra silim-ma ga-na-ab-be₂-en
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,4,izi-ŋar kug an-e si-a-ra
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,5,su₃-ra₂-aŋ₂ {d}inana-ra ud-gin₇ zalag-ge-ra
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,6,nin gal an-na {d}inana-ra silim-ma ga-na-ab-be₂-en
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,7,nu-u₈-gig nin ni₂ gur₃-ru {d}a-nun-na-ke₄-ne
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,8,nir-ŋal₂ an ki si gal si-a
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,9,dumu gal {d}suen-na {d}inana-ra silim-ma ga-na-ab-be₂-en
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,10,nam-mah-a-na nam-gal-la-na nam-nir-ŋal₂ buluŋ₃-ŋa₂-na
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,11,an-usan-na dalla e₃-a-na
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,12,izi-ŋar kug an-e si-a-na
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,13,{d}nanna {d}utu-gin₇ an-na gub-ba-na
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,14,sig-ta igi-nim-še₃ kur-kur-ra zu-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,15,nu-u₈-gig an-na-ka nam-gal-la-na
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,16,in-nin₉-ra šir₃-re-eš ga-na-ab-be₂-en
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,17,ki-ru-gu₂ ₁-a-kam
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,18,e₃-a-ni ur-saŋ-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,19,ŋiš-gi₄-ŋal₂-bi-im
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,20,an-na nam-mi-in-gub u₃-sumun₂ zid an-na-kam
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,21,ki-a nir mi-ni-in-ŋal₂ nin kur-kur-ra-kam
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,22,abzu eridug{ki}-ga me šu ba-ni-in-ti
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,23,a-a-ni {d}en-ki-ke₄ saŋ-e-eš mu-ni-in-rig₇
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,24,nam-en nam-lugal-la šu-ni-še₃ mu-u₈-ŋar
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,25,an-da barag gal-la dur₂ mu-da-an-ŋar
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,26,{d}en-lil₂-da kalam-ma-na nam mu-un-di-ni-ib-tar-re
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,27,itid-da ud-sakar-ra me šu du₇-du₇-de₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,28,diŋir kalam-ma-ke₄ gu₂ mu-na-an-si-si-iš
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,29,{d}a-nun-na gal-gal im-ši-gam-e-de₃-eš
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,30,sizkur a-ra-zu-a ši-im-ma-sug₂-sug₂-ge-eš
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,31,nam-šita kur-kur-ra mu-na-da-ab-be₂-ne
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,32,nin-ŋu₁₀ di kalam-ma ki-bi-še₃ i₃-kud-de₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,32A,{d}inana-ke₄ ka-aš bar kalam-ma {d}en-lil₂-da i₃-bar-re
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,33,saŋ gig₂-ga-ni igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,34,ki-ru-gu₂ ₂-kam-ma-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,35,{ŋeš}al-ŋar kug-ga-ke₄ šu mu-na-tag-ge
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,36,kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,37,nin gal an-na {d}inana-ra silim-ma ga-na-ab-be₂-en
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,38,ub₃ kug li-li-is₃ kug šu mu-na-tag-ge
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,39,kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,40,nin gal an-na {d}inana-ra silim-ma ga-na-ab-be₂-en
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,41,balaŋ kug li-li-is₃ kug šu mu-na-dar-e
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,42,kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,42A,nam-mah-a-na nam-gal-a-na
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,42B,nam-nir-ŋal₂ buluŋ₃-a-na
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,42C,an-u₂-sa₁₁-an-na dalla e₃-a-ra
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,43,dumu gal {d}suen-na {d}inana-ra silim-ma ga-na-ab-be₂-en
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,44,ki-ru-gu₂ ₃-kam-ma-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,45,saŋ-ur-saŋ-e-ne suh mu-na-an-dub-dub-bu-uš
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,46,kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,47,gu₂-bar niŋ₂-dara₂ gun₃ mu-na-an-gun₃-gun₃-ne-eš
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,48,kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,49,kuš nam-diŋir-ra su-bi-a mu-un-ŋal₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,50,kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,51,lu₂ zid nin saŋ-tuku munus um-ma gal-gal-la
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,52,kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,53,balaŋ niŋ₂ sed-de₃ ba-KU-a zag mi-ni-ib-gub-gub-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,54,kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,55,{tug₂}niŋ₂-la₂ a₂ me₃ da-da-ra-še₃ mu-dug₄
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,56,kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,57,ŋiš-gid₂-da a₂ me₃ šu-bi-a mu-un-ŋal₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,58,kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,59,ki-ru-gu₂ ₄-kam-ma-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,60,a₂ zid-da-bi tug₂ nitah₂ bi₂-in-mur₁₀
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,61,kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,62,nin gal an-na {d}inana-ra silim-ma ga-na-ab-be₂-en
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,63,a₂ gab₂-bu-bi-a tug₂ nam-munus mu-ni-si-ig
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,64,kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,65,nin gal an-na {d}inana-ra silim-ma ga-na-ab-be₂-en
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,66,ešemen₂ gu-du gun₃-a a-da-min₃ mu-na-e
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,67,kug inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,68,dumu gal {d}suen-na {d}inana-ra silim-ma ga-na-ab-be₂-en
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,69,ki-ru-gu₂ ₅-kam-ma-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,70,ŋuruš {ŋeš}rab₃ ŋar-ra mu-na-šir₃-šir₃-re-eš
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,71,kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,72,ki-sikil šu-gi₄-a saŋ-ki gu₂ la₂-e
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,73,kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,74,ŋiri₂ ba-da-ra igi-ni-še₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,75,kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,76,kur-ŋar-ra ed₃-da ba-da-ra šu bi₂-in-du₈-uš
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,77,kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,78,ŋiri₂ uš₂ dul₄-dul₄-e urin i₃-su₃-e
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,79,kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,80,barag gu₂-en-na-ka uš₂ i₃-bal-bal-e
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,81,tigi šem₃ {kuš}a₂-la₂-e gu₃ nun mu-ni-ib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,82,nu-u₈-gig an sikil-la dili-ni nam-mi-in-gub
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,83,kur-kur saŋ gig₂ uŋ₃ udu-gin₇ lu-a
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,84,nin-ŋu₁₀ an-šag₄-ta u₆ dug₃-ge-eš im-me
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,84A,kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,85,nin an-usan-na {d}inana mah-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,86,ki-sikil {d}inana me-teš₂ mu-e-i-i
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,87,nin an-usan an-zag-še₃ la₂-a
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,88,ki-ru-gu₂ ₆-kam-ma-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,89,an-usan-na mul dalla e₃-a {mul}dili-bad ud gal an kug-ge si-a
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,90,nin an-usan-na ur-saŋ-ŋa₂ an-ta nam-ta-an-e₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,91,uŋ₃-e kur-kur-ra igi mu-un-ši-ib-il₂-il₂-i
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,92,nitah₂ mu-un-sikil-e munus mu-un-zalag-ga
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,93,gud-de₃ {ŋeš}šudul-bi-a saŋ mu-ni-ib-bal-e
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,94,udu-bi amaš-bi-a sahar mu-na-an-dub-dub-bu-uš
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,95,maš₂-anše lu-a {d}šakkan₂-na niŋ₂-zi-ŋal₂ edin-na
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,96,niŋ₂-ur₂-₄ an niŋ₂-daŋal-ba
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,97,pu₂-{ŋeš}kiri₆ mu₂-sar ŋiš-gi sig₇-ga
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,98,ku₆ engur-ra-ke₄ mušen an-na-ke₄
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,99,nin-ŋu₁₀ ki-nu₂-bi-še₃ ŋiri₃ mu-ni-ib-ul₄-e
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,100,zi-ŋal₂ uŋ₃ lu-a dub₃ mu-un-ši-gam-e
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,101,nin-ŋu₁₀ gu₃ de₂-a bur-šu-ma-e-ne
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,102,gu₇ naŋ gal-gal-e niŋ₂ mi-ni-ib-gu-ul-gu-ul-lu-ne
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,103,nin-ŋu₁₀ kalam-ma-na ni₂ mu-ni-ib-te-en-ten
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,104,ešemen kalam-ma ezem-ma du₃-du₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,105,šul-e nitalam-a-ni šag₄ ša-mu-un-di-ni-ib-kuš₂-u₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,106,nin-ŋu₁₀ an-šag₄-ta u₆ dug₃-ge-eš im-me
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,107,kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,108,nin an-usan-na {d}inana mah-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,109,ki-sikil {d}inana me-teš₂ mu-e-i-i
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,110,nin an-usan-na an-zag-še₃ mah-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,111,ki-ru-gu₂ ₇-kam-ma-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,112,an-zib₂-ba zag hi-li an-na me-te an daŋal-la
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,113,ŋi₆ u₃-na iti₆-gin₇ mu-un-e₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,114,an-bar₇-gana₂ ud-ud-gin₇ mu-un-e₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,115,ama₅ kalam-ma-ka u₂ dug₃ ŋar-ra-ba
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,116,kur-kur saŋ gig₂ uŋ₃ gu₂ si-a-ba
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,116A,ama₅ kalam-ma-ka du₈-du₈ ŋar-ra-ba
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,117,ur₃-ra nu₂-a bad₃-da nu₂-a
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,118,mu-na-an-sug₂-ge-eš inim-bi mu-na-an-tum₃-uš
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,119,ud-bi-a inim mu-ni-in-zu erim₂-du mu-ni-in-zu
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,120,erim₂-du di erim₂ ba-ab-šum₂-mu hul-ŋal₂ mu-un-gul-le
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,121,si sa₂-ra igi zid mu-un-ši-bar nam dug₃ mi-ni-in-tar
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,122,nin-ŋu₁₀ an-šag₄-ta u₆ dug₃-ge-eš im-me
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,123,kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,124,nin an-še₃ la₂-a {d}inana mah-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,125,ki-sikil {d}inana me-teš₂ mu-e-i-i
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,126,nin an-še₃ lu-a an-zag-še₃ mah-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,127,ki-ru-gu₂ ₈-kam-ma-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,128,nin sag₉ hi-li an-na ur-saŋ-am₃ an-ta nam-ta-an-e₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,129,zag-si an-na-ka he-du₇ am₃-mi-in-gur₃-ru
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,130,an-da ki mah-a-na šag₄ mu-un-di-ni-ib-kuš₂-u₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,131,šul-la ur-saŋ-ŋa₂ dili-ni he₂-pad₃-de₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,132,ŋiš-gi₄-ŋal₂-bi-im
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,133,kalag-ga-am₃ nir-ŋal₂-am₃ buluŋ₃-ŋa₂-am₃ mah gal-la-am₃ nam-šul-am₃ dirig-ga-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,134,šag₄-ba-tuku-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,135,nin u₆ di kalam-ma mul dili {mul}dili-bad
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,136,nin an-še₃ la₂-a ur-saŋ-ŋa₂ an-ta nam-ta-an-e₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,137,kur-kur-re mu-un-ši-hu-luh-e
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,138,uŋ₃ saŋ gig₂-ga zid gu₂ mu-un-na-an-ŋar
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,139,šul kaskal-la du har-ra-an mu-un-na-ŋa₂-ŋa₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,140,gud-de₃ {ŋeš}šudul-bi-a saŋ mu-ni-ib-il₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,140A,i-lu šir₃ gud sub₂-sub₂-ba edin-na dug₄
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,140B,engar an im-du u₃-a
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,140C,gud-de₃ {ŋeš}šudul-bi-še₃ kalam-ma
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,141,ama₅ kalam-ma-ka niŋ₂ mu-un-da-lu-lu
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,142,kug {d}inana-ra ŋiri₃ mu-un-ši-ib-ul₄-e
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,143,nin-ŋu₁₀ an-šag₄-ta dug₃-ge-eš hu-mu-un-ŋa₂-ŋa₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,144,edin-na ki sikil-ba ki sag₉-ga-bi
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,145,ur₃-re ur₃-bad₃-da ur₃-bad₃ dur₂-ra-ka
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,146,ki-šu-tag nam-lu₂-ulu₃-ka
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,147,na-izi sig₉ tir šim {ŋeš}erin-na-gin₇ mu-na-ab-us₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,148,{udu}a-lum udu zulumhi udu niga ŋiš mu-ni-ib-tag-ge
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,149,nu-u₈-gig-ra ki mu-na-an-sikil-e šu-luh mu-na-an-ŋa₂-ŋa₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,150,i₃-nun zu₂-lum ga-ar₃ niŋ₂-sa-ha ₇-bi
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,151,{ŋeš}banšur kalam-ma-ka nesaŋ mu-na-ab-si
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,152,kurun gig₂ mu-na-ra-de₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,153,kurun babbar mu-na-ra-de₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,154,kurun gig₂ {kaš}ulušin
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,155,nin-ŋu₁₀-ra {kaš}ulušin
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,156,{dug}šag₄-gub {dug}lam-sa₂-ri du-bu-ul-da-ba-al mu-un-da-ab-za
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,157,šu-tu-bu-ur lal₃ i₃-nun-ta šar₂-ra
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,157A,ku-bu-ul-lum i₃-nun-ta šar₂-ra
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,158,{ninda}gug₂-e lal₃ zu₂-lum-ma ninda mu-na-ab-ak-e
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,159,kurun ud zal-la eša zid₂ lal₃-a
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,160,lal₃ ŋeštin ud e₃-a mu-na-ab-bal-bal-e
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,161,diŋir lu-u₁₈-lu gu₇-a naŋ-a-da ša-mu-un-na-an-sug₂-sug₂-ge-eš
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,162,nu-u₈-gig-ra ki kug ki sikil-la ninda mu-gu₇-e
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,163,nin-ŋu₁₀ an-šag₄-ta u₆ dug₃-ge-eš im-me
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,164,kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,165,nin an-še₃ la₂-a {d}inana mah-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,166,ki-sikil {d}inana me-teš₂ mu-e-i-i
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,167,nin an-še₃ la₂-a an-zag-še₃ mah-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,168,ki-ru-gu₂ ₉-kam-ma-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,169,e₂-gal e₂ na de₅ kalam-ma-ka {ŋeš}rab₃ kur-kur-ra-kam
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,170,e₂ {d}id₂-lu₂-ru-gu₂ saŋ gig₂-ga uŋ₃ gu₂ si-a-ba
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,171,{d}nin-e₂-gal-la-ra barag mu-na-an-ri
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,172,lugal diŋir-am₃ šag₄-bi-a mu-un-da-an-til₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,173,nam kur-kur-ra tar-re-da-ni
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,174,ud saŋ zid-de₃ igi kar₂-kar₂-de₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,175,ud nu₂-a me šu du₇-du₇-de₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,176,zag-mu ud ŋarza-ka
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,177,nin-ŋu₁₀-ra ki-nu₂ ba-da-an-ŋar
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,178,{u₂}numun₂-bur₂{sar} šim {ŋeš}erin-na-da mu-un-sikil-e-ne
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,179,nin-ŋu₁₀ ki-nu₂-bi-še₃ mu-na-ab-ŋa₂-ŋa₂-ne
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,180,bar-ba {tug₂}niŋ₂-barag₂-ge si mu-di-ni-ib-sa₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,181,{tug₂}niŋ₂-barag₂ šag₄ hul₂-la ki-nu₂ dug₃-dug₃-ge-da
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,182,nin-ŋu₁₀ ur₂ kug-ge a mi-ni-in-tu₅-tu₅
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,183,ur₂ lugal-la-še₃ a im-ma-tu₅-tu₅
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,184,ur₂ {d}i-din-{d}da-gan-še₃ a im-ma-tu₅-tu₅
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,185,kug {d}inana-ke₄ naŋa im-ma-an-su-ub-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,186,i₃ šim {ŋeš}erin-na ki am₃-sud-e
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,187,lugal ur₂ kug-še₃ saŋ il₂-la mu-un-ŋen
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,187A,ur₂ {d}i-din-{d}da-gan-še₃ saŋ il₂-la mu-un-ŋen
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,188,ur₂ {d}inana-ka-še₃ saŋ il₂-la mu-un-ŋen
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,189,{d}ama-ušumgal-an-na ki-nu₂ mu-un-da-ab-ak-e
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,190,ur₂ kug-ga-ni-a mi₂ zid am₃-i-i-de₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,191,nin-e ur₂ kug-ga ki-nu₂ mi-ni-in-sug₄-ga-ta
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,192,kug {d}inana-ke₄ ur₂ kug-ga ki-nu₂ mi-ni-in-sug₄-ga-ta
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,193,ki-nu₂-a-na šag₄ ša-mu-un-di-ni-ib-kuš₂-u₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,194,{d}i-din-{d}da-gan-na ki aŋ₂-ŋu₁₀ he₂-me-en
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,195,ne-saŋ sig₁₀-ga-še₃ šu-luh ŋar-ŋar-ra-še₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,196,na-izi sig₉-ga-še₃ na li mu₂-a-še₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,197,nidba sug₂-ga-še₃ bur sug₂-sug₂-ga-še₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,198,e₂-gal-mah-a-ni-a im-ma-da-an-ku₄-ku₄
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,199,nitalam ki aŋ₂-ŋa₂-ni gu₂-da mu-ni-in-la₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,200,kug {d}inana-ke₄ gu₂-da mu-ni-in-la₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,201,{ŋeš}gu-za barag gal-la ud-de₃-eš₂ am₃-e₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,202,lugal {d}utu-gin₇ zag-ge₄ mu-di-ni-ib-sig₉
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,203,he₂-ŋal₂ giri₁₇-zal-e nam-he₂-a igi-ni-še₃ si im-sa₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,204,ŋišbun niŋ₂ dug₃-ga mu-un-na-an-ni-ŋal₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,205,saŋ gig₂-ga igi-ni-še₃ si im-sa₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,206,ŋiš-gu₃-di ulu₃-ta eme ŋar-ra
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,207,{ŋeš}al-ŋar gu₃ dug₃-ga e₂-gal me-te-bi
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,208,{ŋeš}za₃-mi₂ ki ur₅ sag₉-ge nam-lu₂-ulu₃-ke₄
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,209,nar-e šir₃ šag₄ hul₂-la-ka-ni mu-ni-in-pad₃-pad₃-de₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,210,lugal-e gu₇-a naŋ-a-da šu si ba-an-sa₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,211,{d}ama-ušumgal-an-na gu₇-a naŋ-da šu si ba-an-sa₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,212,e₂-gal ezem-ma-am₃ lugal hul₂-la-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,213,uŋ₃-e nam-he₂-a ud i₃-zal-e-de₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,214,{d}ama-ušumgal-an-na hul₂-hul₂-e am₃-gub
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,215,{ŋeš}gu-za gi-rin-na ud ha-ba-ni-ib-sud-de₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,216,barag nam-lugal-la-ka saŋ gu₂ mu-ni-in-ŋal₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,217,nin-ŋu₁₀ za₃-mi₂ an ki-ke₄-ne za₃-mi₂ ma-ni-in-dug₄
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,218,nu-u₈-gig an ki-da tud-da-me-en
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,219,nu-u₈-gig-e ki kug ki sikil-la šir₃-ra mu-na-an-ŋal₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,220,hi-li saŋ gig₂ me-te unken-na
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,221,{d}inana dumu gal {d}suen-na
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,222,nin an-usan-na za₃-mi₂-zu dug₃-ga-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,223,nin-ŋu₁₀ an-šag₄-ta u₆ dug₃-ge-eš im-me
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,224,kug {d}inana-ra igi-ni-še₃ i₃-dib-be₂
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,225,nin an-še₃ la₂-a {d}inana mah-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,226,ki-ru-gu₂ ₁₀-kam-ma-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,227,kalag-ga-am₃ nir-ŋal₂-am₃ buluŋ₃-ŋa₂-am₃ mah gal-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,228,nam-šul-la dirig-ga-am₃
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,229,ŋiš-gi₄-ŋal₂-bi-im
+c.2.5.3.1,A šir-namursaŋa to Ninsiana for Iddin-Dagan (Iddin-Dagan A),,230,šir₃-nam-ur-saŋ-ŋa₂ {d}nin-si-an-na-ka

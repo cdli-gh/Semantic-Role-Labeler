@@ -1,0 +1,37 @@
+id_text,text_name,version,l_no,text
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,6,gibil-la
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,7,inim mah
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,8,id₂-lu₂-ru-gu₂ a-ra₂ mah
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,9,mu-še₃ mu-ri-in-sa₄
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,10,lu₂ zid kug-sig₁₇ mu-un-dadag-ge-en
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,11,lu₂-erim₂-e ud za-ha-al-e ba-ab-šum₂-mu-un
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,12,umuš ŋalga dim₂-ma ga zid-de₃-eš gu₇-a
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,13,e-ne ad gal dug₄-dug₄
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,14,gal-zu mah dumu-saŋ {d}en-ki-ke₄
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,15,u₃-tud kilib-ba-bi mu-e-šum₂-mu
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,16,{d}asar-lu₂-hi ŋeštug₂ bad a-a-ni-gin₇ gal-zu
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,17,igi-ŋal₂-tuku niŋ₂-nam buru₃-buru₃-e e-ne-ra niŋ₂-nam
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,18,nir-ŋal₂ dumu abzu ŋeštug₂ kug šu du₇ {d}marduk ŋalga tum₂
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,19,alan mah an ki-a me niŋ₂-nam-ma igi zu-zu
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,20,dumu ŋeštug₂ daŋal šu du₇ a-ra₂ si gal gi hal-hal-la-ke₄
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,21,{d}asar-lu₂-hi uru₅ mah nam gal tar-re
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,22,šu bar a-ra₂ niŋ₂-nam nu-zu-zu
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,23,an gal an ki-še₃ me ba-a
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,24,mu₇-mu₇ mu-e-šub-eš
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,25,diŋir igi sag₉ igi ni₁₀-ni₁₀ nam-lu₂-ulu₃
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,26,ulutim₂ hi-li sud tibira gal-an-zu kiŋ₂ gal-le ak
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,27,ad gal di-kud eš₃ mah-a inim-ma nu-kam₃-me
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,28,a-ra₂-ni mah šir₃-ra-ni ga-am₃-ed₃ mu-ni pa ga-am₃-e₃
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,29,saŋ gun₃-gun₃-nu abzu sukkal-mah eridug{ki}-ga
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,30,{d}asar-lu₂-hi nir-ŋal₂
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,31,enkum ninkum
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,32,abgal abrig₂ MUNUS.LAGAR.BAD MUNUS.LAGAR.ME
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,33,ka kug ba-a-zu igi-bi hu-mu-un-ši-ŋal₂
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,34,ud šu₂-uš-e e₃-bi za-ra hu-mu-ra-an-sig₁₀-ga₁₄
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,35,šu sikil ŋiri₃ sikil niŋ₂-nam kug-ku₃-ug šu-luh dadag-ga
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,36,nam-šita₄ e₂-abzu zu₂ keše₂-bi za-e-me-en
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,37,kuara{ki} iri ki aŋ₂ šag₄-ge pad₃-da-zu
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,38,hul₂-la hu-mu-u₈-da-an-tuš
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,39,{d}asar-lu₂-hi nun šag₄ daŋal mu-še₃ mu-ri-in-sa₄
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,40,muš₂-bi-še₃ bi₂-in-ak
+c.4.01.1,A hymn to Asarluhi (Asarluhi A),,41,nam-nin-e

@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+c.6.1.24,Proverbs: collection 24,,1,
+c.6.1.24,Proverbs: collection 24,,2,šah₂ niga ab-šum-de₃ niŋ₂ i₃-gu₇-a-ŋu₁₀ ga-ab-sug₆-e-še
+c.6.1.24,Proverbs: collection 24,,3,{šah₂}ze₂-eh tur-e šu al-gu₄-ud-gu₄-ud-de₃ sag₉-ga-aš-am₃ ŋe₂₆-e nu-gu₇-e-še
+c.6.1.24,Proverbs: collection 24,,4,e₂ gul-gul-e kug i₃-gul-e
+c.6.1.24,Proverbs: collection 24,,5,e₂ gul-e kug-sig₁₇ i₃-gul-e
+c.6.1.24,Proverbs: collection 24,,6,dam u₃-mu-un-si gam-am₃ geme₂ ug₅-ga-am₃
+c.6.1.24,Proverbs: collection 24,,7,u₃-mu-un-si gam-am₃ arad ug₅-ga-am₃
+c.6.1.24,Proverbs: collection 24,,8,ga-gid₂ mu-un-da-ku₅-ru šu-bi bar edin-na mu-da-an-DU
+c.6.1.24,Proverbs: collection 24,,9,im-ba am₃-ŋa₂-ŋa₂
+c.6.1.24,Proverbs: collection 24,,10,ba-ab-ak
+c.6.1.24,Proverbs: collection 24,,11,saŋ bul-e id₂-da bal-e
+c.6.1.24,Proverbs: collection 24,,12,{kuš}ummud zi lu₂-kam {kuš}e-sir₂ igi lu₂-kam
+c.6.1.24,Proverbs: collection 24,,13,dam dim₄-ma lu₂-kam dumu-nitah ŋissu lu₂-kam
+c.6.1.24,Proverbs: collection 24,,14,dumu-munus saŋ šu ŋar lu₂-kam e₂-gi₄-a gal₅-la₂ lu₂-kam
+c.6.1.24,Proverbs: collection 24,,15,{d}utu bar-ra šu he₂-en-ne-šu₂ ni₂-zu šu nu-zu-a kur₉-ni-ib
+c.6.1.24,Proverbs: collection 24,,16,kaš ga-an-ze₂-eb-ba ušur nu-mu-un-kal-e
+c.6.1.24,Proverbs: collection 24,,x,

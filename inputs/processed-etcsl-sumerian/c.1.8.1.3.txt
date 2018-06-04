@@ -1,0 +1,496 @@
+id_text,text_name,version,l_no,text
+c.1.8.1.3,The death of Gilgameš,Nibru,A1,ur-saŋ ba-nu₂ hur nu-mu-e-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Nibru,A2,ba-nu₂ hur nu-mu-e-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Nibru,A3,a₂-ur₂ sag₉-sag₉ ba-nu₂ hur nu-mu-e-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Nibru,A4,ba-nu₂ hur nu-mu-e-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Nibru,A5,niŋ₂-erim₂ ba-nu₂ hur nu-mu-e-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Nibru,A6,nitah ba-nu₂ hur nu-mu-e-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Nibru,A7,ŋešpu₂ lirum šu du₇-a ba-nu₂ hur nu-mu-e-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Nibru,A8,lu₂ ŋal₂-e ba-nu₂ hur nu-mu-e-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Nibru,A9,en kul-aba₄{ki}-ke₄ ba-nu₂ hur nu-mu-e-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Nibru,A10,igi kug-zu dug₄-dug₄-ga ba-nu₂ hur nu-mu-e-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Nibru,A11,lib₄-lib₄ ma-da-e ba-nu₂ hur nu-mu-e-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Nibru,A12,hur-saŋ ed₃-de₃-de₃ ba-nu₂ hur nu-mu-e-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Nibru,A13,ŋiš-nu₂ nam-tar-ra-ka ba-nu₂ hur nu-mu-e-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Nibru,A14,ki-nu₂ u₃-u₈-a-u₈ ba-nu₂ hur nu-mu-e-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Nibru,A15,gub-ba nu-ub-sig₁₀-ge tuš-a nu-ub-sig₁₀-ge a-nir im-ŋa₂-ŋa₂
+c.1.8.1.3,The death of Gilgameš,Nibru,A16,u₂-gu₇ nu-ub-sig₁₀-ge a naŋ nu-ub-sig₁₀-ge a-nir im-ŋa₂-ŋa₂
+c.1.8.1.3,The death of Gilgameš,Nibru,A17,nam-tar-ra {ŋeš}ig-šu-ur ba-an-da-ha-za-a zig₃-ga nu-ub-sig₁₀-ge
+c.1.8.1.3,The death of Gilgameš,Nibru,A18,ku₆ nun ku₆ keše₂ ak-a-gin₇ tur₅-ra ba-an-la₂-la₂
+c.1.8.1.3,The death of Gilgameš,Nibru,A19,maš-da₃ ŋiš-bur₂-ra dab₅-ba-a-gin₇ ki-nu₂
+c.1.8.1.3,The death of Gilgameš,Nibru,A20,nam-tar šu nu-tuku ŋiri₃ nu-tuku-a
+c.1.8.1.3,The death of Gilgameš,Nibru,A21,nam-tar
+c.1.8.1.3,The death of Gilgameš,Nibru,A22,
+c.1.8.1.3,The death of Gilgameš,Nibru,A29,
+c.1.8.1.3,The death of Gilgameš,Nibru,A30,hur-saŋ gal la₂
+c.1.8.1.3,The death of Gilgameš,Nibru,A31,
+c.1.8.1.3,The death of Gilgameš,Nibru,A32,
+c.1.8.1.3,The death of Gilgameš,Nibru,A33,da-ab-be₂
+c.1.8.1.3,The death of Gilgameš,Nibru,A34,
+c.1.8.1.3,The death of Gilgameš,Nibru,A35,iri ak
+c.1.8.1.3,The death of Gilgameš,Nibru,A37,
+c.1.8.1.3,The death of Gilgameš,Nibru,A38,
+c.1.8.1.3,The death of Gilgameš,Nibru,B1,
+c.1.8.1.3,The death of Gilgameš,Nibru,B2,šu
+c.1.8.1.3,The death of Gilgameš,Nibru,B3,an-na nesaŋ kug
+c.1.8.1.3,The death of Gilgameš,Nibru,B4,ud ₆-kam-ma tur₅-ra
+c.1.8.1.3,The death of Gilgameš,Nibru,B5,ir-gin₇ kuš-na
+c.1.8.1.3,The death of Gilgameš,Nibru,B6,en {d}gilgameš₂ tur₅-ra
+c.1.8.1.3,The death of Gilgameš,Nibru,B7,unug{ki} kul-aba₄{ki}
+c.1.8.1.3,The death of Gilgameš,Nibru,B8,inim dug₄-ga ma-da
+c.1.8.1.3,The death of Gilgameš,Nibru,B9,ud-bi-a en {d}gilgameš₂
+c.1.8.1.3,The death of Gilgameš,Nibru,B10,ŋiš-nu₂ nam-tar-ra ba-nu₂
+c.1.8.1.3,The death of Gilgameš,Nibru,B11,lugal-e u₃-sa₂ muš₃
+c.1.8.1.3,The death of Gilgameš,Nibru,B12,ma-mu₂-bi
+c.1.8.1.3,The death of Gilgameš,Nibru,B13,pu-uh₂-ru-um
+c.1.8.1.3,The death of Gilgameš,Nibru,B14,
+c.1.8.1.3,The death of Gilgameš,Nibru,C1,X-du-un
+c.1.8.1.3,The death of Gilgameš,Nibru,C2,X-ši-du-un
+c.1.8.1.3,The death of Gilgameš,Nibru,C3,X-ši-du-un
+c.1.8.1.3,The death of Gilgameš,Nibru,C4,mu-da-zig₃
+c.1.8.1.3,The death of Gilgameš,Nibru,C5,mu-da-bar-ra
+c.1.8.1.3,The death of Gilgameš,Nibru,C6,mu-e-da-ŋar
+c.1.8.1.3,The death of Gilgameš,Nibru,C7,he₂-na-nam diŋir-da an-da-šid
+c.1.8.1.3,The death of Gilgameš,Nibru,C8,ka-aš i₃-bar-re
+c.1.8.1.3,The death of Gilgameš,Nibru,C9,{d}dumu-zid-gin₇ he₂-NE-NI-dugud
+c.1.8.1.3,The death of Gilgameš,Nibru,C10,{d}gilgameš₂-e
+c.1.8.1.3,The death of Gilgameš,Nibru,C11,ba-ab-ra-ah
+c.1.8.1.3,The death of Gilgameš,Nibru,C12,nun-na-bi
+c.1.8.1.3,The death of Gilgameš,Nibru,C13,sug₄-ga-am₃
+c.1.8.1.3,The death of Gilgameš,Nibru,C14,en kul-aba₄{ki}-a-ke₄
+c.1.8.1.3,The death of Gilgameš,Nibru,C15,ur-saŋ kur šuba₂-a-ke₄
+c.1.8.1.3,The death of Gilgameš,Nibru,C16,ŋiš-kiŋ₂-ti diŋir-re-e-ne
+c.1.8.1.3,The death of Gilgameš,Nibru,C17,i₃-hul₂-le-en-de₃-en
+c.1.8.1.3,The death of Gilgameš,Nibru,C18,{d}nin-sumunₓ-ka
+c.1.8.1.3,The death of Gilgameš,Nibru,C19,{d}lugal-ban₃-da
+c.1.8.1.3,The death of Gilgameš,Nibru,C20,en {d}nu-dim₂-mud-e
+c.1.8.1.3,The death of Gilgameš,Nibru,D1,har-ra-an dib-dib-ba a-na me-a-bi
+c.1.8.1.3,The death of Gilgameš,Nibru,D2,mu-un-ed₃-da
+c.1.8.1.3,The death of Gilgameš,Nibru,D3,saŋ ŋiš ra-ra-da
+c.1.8.1.3,The death of Gilgameš,Nibru,D4,X-gub-bu-nam ud-da ud ul-le₂-a-aš
+c.1.8.1.3,The death of Gilgameš,Nibru,D5,ki ŋar-ŋar-ra-ba
+c.1.8.1.3,The death of Gilgameš,Nibru,D6,sa₂ mi-ni-in-dug₄-ga
+c.1.8.1.3,The death of Gilgameš,Nibru,D7,ha-lam-ma libir-ra ud ul-le₂-a
+c.1.8.1.3,The death of Gilgameš,Nibru,D8,im-ta-an-ed₃-da
+c.1.8.1.3,The death of Gilgameš,Nibru,D9,si im-sa₂-sa₂-a
+c.1.8.1.3,The death of Gilgameš,Nibru,D10,a-ma-ru gu₂-kiŋ₂ kalam-ma mu-un-ZU-a
+c.1.8.1.3,The death of Gilgameš,Nibru,D11,ulu₃-da
+c.1.8.1.3,The death of Gilgameš,Nibru,E1,ib-SU
+c.1.8.1.3,The death of Gilgameš,Nibru,E2,
+c.1.8.1.3,The death of Gilgameš,Nibru,E3,ib-sa₄-za-na
+c.1.8.1.3,The death of Gilgameš,Nibru,E4,si-si-ig dumu {d}utu-ke₄
+c.1.8.1.3,The death of Gilgameš,Nibru,E5,kur-ra ki ku₁₀-ku₁₀-ka ud hu-mu-na-an-ŋa₂-ŋa₂
+c.1.8.1.3,The death of Gilgameš,Nibru,E6,nam-lu₂-ulu₃ niŋ₂ a-na sa₄-a-ba
+c.1.8.1.3,The death of Gilgameš,Nibru,E7,alan-bi ud ul-le₂-a-še₃ a-ba-da-an-dim₂
+c.1.8.1.3,The death of Gilgameš,Nibru,E8,šul ŋuruš igi du₈ ud-sakar-gin₇ zag-du₈ hu-mu-ta-an-ak-eš
+c.1.8.1.3,The death of Gilgameš,Nibru,E9,igi-bi-a ŋešpu₂ lirum-ma si a-ba-da-ab-sa₂
+c.1.8.1.3,The death of Gilgameš,Nibru,E10,itid NE-NE-ŋar ezen gidim-ma-ke₄-ne
+c.1.8.1.3,The death of Gilgameš,Nibru,E11,e-ne-da nu-me-a igi-bi-a ud nam-ba-an-ŋa₂-ŋa₂
+c.1.8.1.3,The death of Gilgameš,Nibru,E12,kur gal {d}en-lil₂-le a-a diŋir-re-e-ne-ke₄
+c.1.8.1.3,The death of Gilgameš,Nibru,E13,en {d}gilgameš₂ ma-mu₂-da bal-da-bi
+c.1.8.1.3,The death of Gilgameš,Nibru,E14,{d}gilgameš₂ nam-zu nam-lugal-še₃ mu-de₆ til₃ da-ri₂-še₃ nu-mu-un-de₆
+c.1.8.1.3,The death of Gilgameš,Nibru,E15,nam nam-til₃-la-ke₄ šag₄ hul nam-ba-dim₂-e
+c.1.8.1.3,The death of Gilgameš,Nibru,E16,ur₅ nam-ba-e-ug₇-e šag₄ nam-ba-e-sag₃-ge
+c.1.8.1.3,The death of Gilgameš,Nibru,E17,niŋ₂-gig ak nam-lu₂-u₁₈-lu-ke₄ ne-en de₆-a ma-ra-dug₄
+c.1.8.1.3,The death of Gilgameš,Nibru,E18,niŋ₂ gi-dur kud-da-zu ne-en de₆-a ma-ra-dug₄
+c.1.8.1.3,The death of Gilgameš,Nibru,E19,ud ku₁₀-ku₁₀ nam-lu₂-u₁₈-lu-kam sa₂ mi-ri-ib-dug₄
+c.1.8.1.3,The death of Gilgameš,Nibru,E20,ki dili nam-lu₂-u₁₈-lu-kam sa₂ mi-ri-ib-dug₄
+c.1.8.1.3,The death of Gilgameš,Nibru,E21,a-ŋi₆ gaba nu-ru-gu₂ sa₂ mi-ri-ib-dug₄
+c.1.8.1.3,The death of Gilgameš,Nibru,E22,me₃ ka-re nu-me-a sa₂ mi-ri-ib-dug₄
+c.1.8.1.3,The death of Gilgameš,Nibru,E23,šen-šen nu-sa₂-a sa₂ mi-ri-ib-dug₄
+c.1.8.1.3,The death of Gilgameš,Nibru,E24,ŋiš-ŋiš-la₂ šu kar-kar-re nu-me-a sa₂ mi-ri-ib-dug₄
+c.1.8.1.3,The death of Gilgameš,Nibru,E25,iri₁₁-gal šag₄ zu₂ keše₂-zu nam-ba-du-un
+c.1.8.1.3,The death of Gilgameš,Nibru,E26,igi {d}utu-še₃
+c.1.8.1.3,The death of Gilgameš,Nibru,E27,tug₂ šu-sar
+c.1.8.1.3,The death of Gilgameš,Nibru,E28,igi ŋen
+c.1.8.1.3,The death of Gilgameš,Nibru,F1,
+c.1.8.1.3,The death of Gilgameš,Nibru,F2,en-ki-du₁₀ ŋuruš an-ta-zu
+c.1.8.1.3,The death of Gilgameš,Nibru,F3,ur₃-a al-dur₂-ru-ne-eš
+c.1.8.1.3,The death of Gilgameš,Nibru,F4,₁ am₃-nu₂
+c.1.8.1.3,The death of Gilgameš,Nibru,F5,ki-ni ₁ am₃-nu₂
+c.1.8.1.3,The death of Gilgameš,Nibru,F6,lugal kug-bi
+c.1.8.1.3,The death of Gilgameš,Nibru,F7,nu-ni₁₀-ni₁₀-dam
+c.1.8.1.3,The death of Gilgameš,Nibru,F8,mu-e-ši-du
+c.1.8.1.3,The death of Gilgameš,Nibru,F9,lu₂-ga mu-e-ši-du
+c.1.8.1.3,The death of Gilgameš,Nibru,F10,mu-e-ši-du
+c.1.8.1.3,The death of Gilgameš,Nibru,F11,mu-e-ši-du
+c.1.8.1.3,The death of Gilgameš,Nibru,F12,mu-e-ši-du
+c.1.8.1.3,The death of Gilgameš,Nibru,F13,mu-e-ši-du
+c.1.8.1.3,The death of Gilgameš,Nibru,F14,mu-e-ši-du
+c.1.8.1.3,The death of Gilgameš,Nibru,G1,bi₂-dugud
+c.1.8.1.3,The death of Gilgameš,Nibru,G2,{d}gilgameš₂-e
+c.1.8.1.3,The death of Gilgameš,Nibru,G3,bi₂-in-bur₂-ra-ta
+c.1.8.1.3,The death of Gilgameš,Nibru,G4,bi₂-in-ne-en-bur₂-ra
+c.1.8.1.3,The death of Gilgameš,Nibru,G5,mu-ni-ib-gi₄-gi₄-ne
+c.1.8.1.3,The death of Gilgameš,Nibru,G6,er₂ e-ne ba-še₈-še₈
+c.1.8.1.3,The death of Gilgameš,Nibru,G7,a-na-aš ba-dim₂
+c.1.8.1.3,The death of Gilgameš,Nibru,G8,ha-za {d}nin-tur₅ nu-ub-tu-ud
+c.1.8.1.3,The death of Gilgameš,Nibru,G9,im-ta-an-e₃
+c.1.8.1.3,The death of Gilgameš,Nibru,G10,nu-ŋal₂-am₃
+c.1.8.1.3,The death of Gilgameš,Nibru,G11,lu₂ lirum-ma sa-hir ba-da-ab-e
+c.1.8.1.3,The death of Gilgameš,Nibru,G12,mušen an-na zag sa gur-u₃ šu-ta nu-e₃
+c.1.8.1.3,The death of Gilgameš,Nibru,G13,ku₆ engur-ra NUMUN₂-e igi nu-un-du₈
+c.1.8.1.3,The death of Gilgameš,Nibru,G14,šu-KU₆ tur sa ba-ur₃-ra-ta im-me-ni-dab₅-be₂
+c.1.8.1.3,The death of Gilgameš,Nibru,G15,lu₂ na-me kur-ra šag₄ ed₃-da
+c.1.8.1.3,The death of Gilgameš,Nibru,G16,ud ul-le₂-a-ta a-ba-a igi im-mi-in-du₈-a
+c.1.8.1.3,The death of Gilgameš,Nibru,G17,za-a-gin₇-nam lugal na-me-a nam ši-im-mi-in-tar
+c.1.8.1.3,The death of Gilgameš,Nibru,G18,nam-lu₂-ulu₃ niŋ₂ a-na mu sa₄-a-ba
+c.1.8.1.3,The death of Gilgameš,Nibru,G19,a-ba-am₃ e-ne lu₂ za-a-gin₇-nam nam
+c.1.8.1.3,The death of Gilgameš,Nibru,G20,nam-šagina kur-ra
+c.1.8.1.3,The death of Gilgameš,Nibru,G21,za-e gidim-zu
+c.1.8.1.3,The death of Gilgameš,Nibru,G22,di-da i₃-kud
+c.1.8.1.3,The death of Gilgameš,Nibru,H1,kul-aba₄{ki} zig₃
+c.1.8.1.3,The death of Gilgameš,Nibru,H2,unug{ki} zig₃-ga-bi
+c.1.8.1.3,The death of Gilgameš,Nibru,H3,kul-aba₄{ki} zig₃-ga-bi
+c.1.8.1.3,The death of Gilgameš,Nibru,H4,murub₄ itid ₁-a-kam
+c.1.8.1.3,The death of Gilgameš,Nibru,H5,ud nu-₅-am₃ ud nu-₁₀-am₃
+c.1.8.1.3,The death of Gilgameš,Nibru,H6,{id₂}buranuna ŋiš
+c.1.8.1.3,The death of Gilgameš,Nibru,H7,{na₄}iškila-bi
+c.1.8.1.3,The death of Gilgameš,Nibru,H8,ud-bi-a murub₄ {id₂}buranun-na-ka ki bi₂-in-dar
+c.1.8.1.3,The death of Gilgameš,Nibru,H9,na₄ ba-da-an-du₃
+c.1.8.1.3,The death of Gilgameš,Nibru,H10,na₄-a ba-da-an-du₃
+c.1.8.1.3,The death of Gilgameš,Nibru,H11,{na₄}esi kalag-ga-kam
+c.1.8.1.3,The death of Gilgameš,Nibru,H12,suhub₄-bi na₄ kalag-ga-kam
+c.1.8.1.3,The death of Gilgameš,Nibru,H13,kug-sig₁₇ niŋ₂ de₂-a-kam
+c.1.8.1.3,The death of Gilgameš,Nibru,H14,{na₄}šu-u dugud im-ta-an-ur₃
+c.1.8.1.3,The death of Gilgameš,Nibru,H15,{na₄}šu-u dugud im-ta-an-ur₃
+c.1.8.1.3,The death of Gilgameš,Nibru,H16,X-ni-in-kur₉
+c.1.8.1.3,The death of Gilgameš,Nibru,H17,ul-le₂-a-še₃
+c.1.8.1.3,The death of Gilgameš,Nibru,H18,bi₂-ib₂-pad₃-de₃-a
+c.1.8.1.3,The death of Gilgameš,Nibru,H19,na-an-pad₃-de₃
+c.1.8.1.3,The death of Gilgameš,Nibru,H20,{d}gilgameš₂-e
+c.1.8.1.3,The death of Gilgameš,Nibru,H21,ba-ni-in-ŋar
+c.1.8.1.3,The death of Gilgameš,Nibru,H22,ki aŋ₂-ŋa₂-ni
+c.1.8.1.3,The death of Gilgameš,Nibru,I1,
+c.1.8.1.3,The death of Gilgameš,Nibru,I2,
+c.1.8.1.3,The death of Gilgameš,Nibru,I3,ŋal₂ bi₂-in-taka₄
+c.1.8.1.3,The death of Gilgameš,Nibru,I4,X-da-an-ur₃
+c.1.8.1.3,The death of Gilgameš,Nibru,I5,mu-un-bar-bar-e
+c.1.8.1.3,The death of Gilgameš,Nibru,I6,en {d}gilgameš₂-a
+c.1.8.1.3,The death of Gilgameš,Nibru,I7,giri₁₇ mu-un-na-hur-e
+c.1.8.1.3,The death of Gilgameš,Nibru,I8,siki mu-un-na-ze₂-e
+c.1.8.1.3,The death of Gilgameš,Nibru,I9,
+c.1.8.1.3,The death of Gilgameš,Nibru 2,1,dam ki aŋ₂-ŋa₂-ni dumu ki aŋ₂-ŋa₂-ni
+c.1.8.1.3,The death of Gilgameš,Nibru 2,2,dam tam dam ban₃-da ki aŋ₂-ŋa₂-ni
+c.1.8.1.3,The death of Gilgameš,Nibru 2,3,nar-a-ni sagiₓ šu ki aŋ₂-ŋa₂-ni
+c.1.8.1.3,The death of Gilgameš,Nibru 2,4,kindagal ki aŋ₂-ŋa₂-ni ki aŋ₂-ŋa₂-ni
+c.1.8.1.3,The death of Gilgameš,Nibru 2,5,ŋiri₃-sig₁₀-ga e₂-gal ki aŋ₂-ŋa₂-ni
+c.1.8.1.3,The death of Gilgameš,Nibru 2,6,niŋ₂ šu dug₄-ga ki aŋ₂-ŋa₂-ni
+c.1.8.1.3,The death of Gilgameš,Nibru 2,7,e₂-gal na rig₇-ga šag₄ unug{ki}-ga ki-bi-a a-ba-da-an-nu₂
+c.1.8.1.3,The death of Gilgameš,Nibru 2,8,{d}gilgameš₂ dumu {d}nin-sumun₂-ka
+c.1.8.1.3,The death of Gilgameš,Nibru 2,9,{d}ereš-ki-gal-la-še₃ igi-du₈-bi ba-an-la₂
+c.1.8.1.3,The death of Gilgameš,Nibru 2,10,{d}nam-tar-ra kadra-bi ba-an-la₂
+c.1.8.1.3,The death of Gilgameš,Nibru 2,11,{d}dim₃-pi-kug u₆ di ba-an-la₂
+c.1.8.1.3,The death of Gilgameš,Nibru 2,12,{d}ne-et-ti niŋ₂-ba-bi ba-an-la₂
+c.1.8.1.3,The death of Gilgameš,Nibru 2,13,{d}nin-ŋiš-zid-da u₃ {d}dumu-zid-ra niŋ₂-ba-bi ba-an-la₂
+c.1.8.1.3,The death of Gilgameš,Nibru 2,14,{d}en-ki {d}nin-ki {d}en-mul {d}nin-mul
+c.1.8.1.3,The death of Gilgameš,Nibru 2,15,{d}en-du₆-kug-ga {d}nin-du₆-kug-ga
+c.1.8.1.3,The death of Gilgameš,Nibru 2,16,{d}en-inda-šurum-ma {d}nin-da-šurum-ma
+c.1.8.1.3,The death of Gilgameš,Nibru 2,17,{d}en-mu-utu-la₂ {d}en-me-en-šar₂-ra
+c.1.8.1.3,The death of Gilgameš,Nibru 2,18,ama a-a {d}en-lil₂-la₂-ra
+c.1.8.1.3,The death of Gilgameš,Nibru 2,19,šul-pa-e₃ en {ŋeš}banšur-ke₄
+c.1.8.1.3,The death of Gilgameš,Nibru 2,20,{d}su-mu-gan₂ {d}nin-hur-saŋ-ŋa₂-ke₄
+c.1.8.1.3,The death of Gilgameš,Nibru 2,21,{d}a-nun-na du₆ kug-ga-ke₄-ne
+c.1.8.1.3,The death of Gilgameš,Nibru 2,22,{d}nun-gal-e-ne du₆ kug-ga-ke₄-ne
+c.1.8.1.3,The death of Gilgameš,Nibru 2,23,en ug₅-ga-ra lagar ug₅-ga-ra
+c.1.8.1.3,The death of Gilgameš,Nibru 2,24,lu₂-mah nin-diŋir ug₅-ga-ra
+c.1.8.1.3,The death of Gilgameš,Nibru 2,25,gudug šag₄-gada-la₂ ug₅-ga-ra
+c.1.8.1.3,The death of Gilgameš,Nibru 2,26,igi du₈
+c.1.8.1.3,The death of Gilgameš,Nibru 2,27,šu sag₉-ga
+c.1.8.1.3,The death of Gilgameš,Nibru 2,28,{d}en-X niŋ₂-ba-bi ba-an-la₂
+c.1.8.1.3,The death of Gilgameš,Nibru 2,29,nam {d}nin-sumun₂ tag-ga ba-an-nu₂
+c.1.8.1.3,The death of Gilgameš,Nibru 2,30,{d}gilgameš₂ dumu {d}nin-sumun₂-ka
+c.1.8.1.3,The death of Gilgameš,Nibru 2,31,ki-bal lu₂ im-ma-an-de₂
+c.1.8.1.3,The death of Gilgameš,Nibru 2,32,X-bar-bar-re
+c.1.8.1.3,The death of Gilgameš,Nibru 2,33,giri₁₇ mu-un-na-an-hur
+c.1.8.1.3,The death of Gilgameš,Nibru 2,34,nam-lu₂-ulu₃ iri{ki}-na-ke₄
+c.1.8.1.3,The death of Gilgameš,Nibru 2,35,niŋ₂-u₂-rum nu-ŋa₂-ŋa₂
+c.1.8.1.3,The death of Gilgameš,Nibru 2,36,sahar-ra ba-an-sal-sal-e-eš
+c.1.8.1.3,The death of Gilgameš,Nibru 2,37,ud-bi-a en tur-re en {d}gilgameš₂-e
+c.1.8.1.3,The death of Gilgameš,Nibru 2,38,muš₃ nu-tum₂-mu {d}en-lil₂-la₂-še₃
+c.1.8.1.3,The death of Gilgameš,Nibru 2,39,{d}gilgameš₂ dumu {d}nin-sumun₂-ka
+c.1.8.1.3,The death of Gilgameš,Nibru 2,40,isimu₂ lugal gaba-ri-a-bi nu-ub-tu-ud
+c.1.8.1.3,The death of Gilgameš,Nibru 2,41,nu-kiŋ₂-kiŋ₂ zag-še₃ nu-ŋal₂-la
+c.1.8.1.3,The death of Gilgameš,Nibru 2,42,{d}gilgameš₂ en kul-aba₄{ki}-ka za₃-mi₂-zu dug₃-ga-am₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,A1,am gal-e ba-nu₂ hur nu-mu-un-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Me-Turan,A2,en {d}gilgameš₂ ba-nu₂ hur nu-mu-un-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Me-Turan,A3,šag₄ ₁-ša₄ ba-nu₂ hur nu-mu-un-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Me-Turan,A4,ur-saŋ zag da-ra ba-nu₂ hur nu-mu-un-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Me-Turan,A5,usu šag₄ ₁-ša₄ ba-nu₂ hur nu-mu-un-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Me-Turan,A6,niŋ₂-erim₂ tur-tur-ra ba-nu₂ hur nu-mu-un-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Me-Turan,A7,igi kug-zu dug₄-dug₄-ga ba-nu₂ hur nu-mu-un-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Me-Turan,A8,lib₄-lib₄-bi ma-da ba-nu₂ hur nu-mu-un-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Me-Turan,A9,hur-saŋ ed₂-de zu ba-nu₂ hur nu-mu-un-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Me-Turan,A10,en kul-aba-ke₄ ba-nu₂ hur nu-mu-un-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Me-Turan,A11,ŋiš-nu₂ nam-tar-ra-ke₄ ba-nu₂ hur nu-mu-un-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Me-Turan,A12,ki-nu₂ u₃-u₈-a-u₈ ba-nu₂ hur nu-mu-un-da-an-zi-zi
+c.1.8.1.3,The death of Gilgameš,Me-Turan,A13,gub-ba nu-ub-sig₉-ga tuš nu-ub-sig₉-ga a-nir ib-ŋa₂-ŋa₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,A14,u₂-gu₇ nu-ub-sig₉-ga a naŋ nu-ub-sig₉-ga a-nir ib-ŋa₂-ŋa₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,A15,nam-tar-ra ig-šu-ur₂ ba-ha-za zi-zi nu-ub-sig₉-ga
+c.1.8.1.3,The death of Gilgameš,Me-Turan,A16,ku₆ NUN-gin₇ pu₂ ak-a tur₅-ra ba-la₂-la₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,A17,maš₂-nitah dab-ba-gin₇ ki-nu₂ ba-X-Xbr
+c.1.8.1.3,The death of Gilgameš,Me-Turan,A18,nam-tar-ra šu nu-tuku ŋiri₃ nu-tuku lu₂ ŋe₂₆-e
+c.1.8.1.3,The death of Gilgameš,Me-Turan,A19,zid-da
+c.1.8.1.3,The death of Gilgameš,Me-Turan,B1,ud-bi-a en tur-re en {d}gilgameš₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,B2,ra di
+c.1.8.1.3,The death of Gilgameš,Me-Turan,B3,ur lugal-la
+c.1.8.1.3,The death of Gilgameš,Me-Turan,B4,nun nam-kug-zu
+c.1.8.1.3,The death of Gilgameš,Me-Turan,B5,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,C1,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,C2,igi
+c.1.8.1.3,The death of Gilgameš,Me-Turan,C3,ud-bi-a
+c.1.8.1.3,The death of Gilgameš,Me-Turan,C4,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,C5,ud-bi-a en tur-re en {d}gilgameš₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,C6,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,C7,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,C8,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,C9,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,D1,ba-da-nu₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,D2,ib-ŋal₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,D3,har-ra-an dib
+c.1.8.1.3,The death of Gilgameš,Me-Turan,D4,šika kud-da
+c.1.8.1.3,The death of Gilgameš,Me-Turan,D5,hur nu
+c.1.8.1.3,The death of Gilgameš,Me-Turan,D6,al-la₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,D7,ba-an-nu-us₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,D8,zig₃-ga-ta
+c.1.8.1.3,The death of Gilgameš,Me-Turan,D9,en hul-bi
+c.1.8.1.3,The death of Gilgameš,Me-Turan,D10,la₂-la₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,D11,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,E1,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,E2,ba-an-ŋar
+c.1.8.1.3,The death of Gilgameš,Me-Turan,E3,nu-ub-ta-kur₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,E4,ŋa₂-ŋa₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,E5,šar₂-šar₂-re
+c.1.8.1.3,The death of Gilgameš,Me-Turan,E6,{d}gilgameš₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,E7,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F1,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F2,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F3,ud-bi-a en tur-re en {d}gilgameš
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F4,ŋiš-nu₂ nam-tar-ra-ka ba-nu₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F5,ud si ra-ra
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F6,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F7,pu-uh-rum ki saŋ-ki diŋir-re-ne-ke₄
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F8,en {d}gilgameš₂ mu-ni-te-a-ba
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F9,mu-un-na-be₂-eš en {d}gilgameš₂ mu-ni-še₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F10,inim-zu har-ra-an di-id-bi-a a-na-am₃ me-a-bi
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F11,{ŋeš}erin ŋiš dili kur-bi ga-an-e-de₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F12,{d}hu-wa-wa tir-bi-ta saŋ ŋiš ra-ra-za
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F13,na-du₃-a ud ul-la₂-še₃ me-gub-bu-uš me-da ud-še₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F14,e₂ diŋir-re-e-ne ki ŋar-ŋar-ra-a-ba
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F15,zi-ud-su₃-ta-aš ki-tuš-bi-a saŋ im-ma-ni-ti
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F16,me ki-en-gi-ra-ke₄ ki ud-ba ba-ha-la-me-eš ud ul-le-še₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F17,a₂ aŋ₂-ŋa₂ bi-lu-da₁₀ kalam-ma-aš im-ta-a-ni
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F18,šu-luh ka-luh si mu-un-si-sa₂-e
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F19,a-ta
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F23,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F24,mu-ra nam-ba-an-tum₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F25,a-ra₂ {d}en-lil₂ {d}en-ki-ra im-ma-ab-ba-e-ne
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F26,an {d}en-lil₂ {d}en-ki im-ma-ni-ib-gi₄-gi₄
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F27,ud re-ta ud sud-da re-ta
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F28,ŋi₆ re-ta ŋi₆ sud-da re-ta
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F29,mu re-ta mu sud-da re-ta
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F30,pu-uh-ru-um a-ma-ru ba-ur₃-ra-ta
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F31,numun nam-lu₂-ulu₃ ha-la-me-de₃-e-ed-nam
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F32,murub₄-me-a zi saŋ-dili-me-en nam-til₃-am₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F33,zi-ud-su₃-ra₂ mu nam-lu₂-ulu₃ nam-til₃-am₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F34,ud-bi-ta zi an-na zi ki-a mu-un-pad₃-da-nam
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F35,ud-bi-ta nam-lu₂-ulu₃-ur₂ nu-mu-til₃-am₃ BI-e-ed-nam
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F36,e-ne-eš₂ {d}gilgameš₂ igi-bi ba-ni-ib-tu
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F37,šu nam ama-a-ni nu-mu-un-da-kar-kar-re-ed-nam
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F38,{d}gilgameš₂ gidim-bi-ta ki-ta ug₅-ga
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F39,šagina kur-ra he₂-ak-e palil gidim he₂-nam
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F40,di-da mu-un-kud-da ka-aš bar bar-re
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F41,dug₄-ga-a-ni inim {d}nin-ŋiš-zid-da {d}dumu-zid-da-gin₇ ba-e-dugud
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F42,ud-bi-a en tur-re {d}gilgameš
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F43,nam-lu₂-ulu₃ niŋ₂ na₂ til₃-la-ba šag₄ sag₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F44,ur₅ nam-ba-ug₅-ga šag₄ nam-ba-sag₃-ga
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F45,niŋ₂ zi ŋar ug₅
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F46,šul ŋuruš igi du ud-sakar-ra
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F63,igi ŋen ki-sig₁₀-ga a-nun-na-ke₄-ne diŋir gal-gal-ne dur₂-ru-na-ba
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F64,ki en nu₂-a-še₃ lagar nu₂-a-še₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F65,lu₂-mah nin-diŋir nu₂-a-še₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F66,gu-da₂ mu-un-na gada mu-un-na-še₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F67,nin-diŋir mu-un-na-a gen₆-na mu-un-na-še₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F68,ki a-a-zu pap-bi-ga-a-zu
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F69,ama-zu nin₉-zu lu₂-ga-a-zu
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F70,gu-li kal-la-zu du₂-us₂-sa-a-zu
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F71,gu-li {d}en-ki-du ŋuruš an-ta-a-zu
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F72,ensi₂ lugal-e iri-gal al-pad₃-de₃-eš
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F73,ki ugula ugnim nu₂-a-še₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F74,nu-ban₃-da erin₂-na nu₂-a-še₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F78,e₂ lu₂-ga-a-ta lu₂-ga me-ši-du-un
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F79,za-zu mu-ši-du-un kal-la-zu mu-ši-du-un
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F80,ab-ba iri{ki}-za-a-kam mu-ši-du-un
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F81,ur₅ nam-u₂-ga šag₄ nam-ba-sag₃-ge
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F82,e-ne-eš₂ {d}a-nun-na murub₄-ta mu-da-ši-da
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F83,tab-us₂ diŋir gal-gal-e-ne mu-un-da-an-šid
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F84,šagina kur-ra
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F85,di-da mu-un-kud-de₃ X-še₃-bar-re
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F86,dug₄-ga-ni inim nin-ŋiš-zid-da dumu-zid-da-ke₄ bi-dugud
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F87,ud-bi-a en tur-re en {d}gilgameš₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F88,i-zi-im
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F89,igi-ni šu
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F90,ma-mu-da
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F91,ma-mu-da
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F92,na₄
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F93,šag₄ kuš₂-u₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F94,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F95,ud dub₃-ba ama ugu-ŋu₁₀
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F96,{d}nin-sumun₂ ha-ma-dim₂-ma
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F97,hur-saŋ gal tu-u₄-bu
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F98,nam-tar šu nu-tuku ŋiri₃ nu-tuku šu kar-ra
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F99,ra-ra-ŋu₁₀
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F100,ma-mu-da-Xbr-bi en nu-dim₂-mu-da₁₀ igi-bi ba-ni-ib-tu
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F101,pu-uh-rum ki saŋ-ki diŋir-re-ne-ke₄
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F102,en {d}gilgameš₂ mu-ni-te-a-ba
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F103,mu-un-na-ab-be₂-eš en {d}gilgameš₂ mu-ni-še₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F104,inim-zu har-ra-an di-ib-bi-a a-na bi-a-bi
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F105,{ŋeš}erin ŋiš dili kur-bi ga-an-e-de₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F106,{d}hu-wa-wa tir-bi-ta saŋ ŋiš ra-ra-za
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F107,na-du₃-a ud ul-la-še₃ me-gub-X
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F108,e₂ diŋir-re-ne ki ŋar-ŋar-ra-a-ba
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F109,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F110,me ki-en-gi-ra-ke₄ ki ud-ba ba-ha-la-me-eš ud ul-le-še₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F111,a₂ aŋ₂-ŋa₂ bi-lu-da₁₀ kalam-ma-aš im-ta-a-ni
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F112,šu-luh ka-luh si mu-na-ab-si-sa₂-e
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F113,a-ta gu₂-kiŋ₂ kur-kur-ra
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F114,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F115,me-tum₃-ma
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F116,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F117,{d}gilgameš₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F118,a-ra₂ {d}en-lil₂ {d}en-ki-ra im-ma-ab-ba-e-ne
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F119,an {d}en-lil₂ {d}en-ki im-ma-ni-ib-gi₄-gi₄
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F120,ud re-ta ud sud₄-da re-ta
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F121,ŋi₆ re-ta ŋi₆ sud₄-da re-ta
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F122,mu re-ta mu sud₄-da re-ta
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F123,pu-uh-rum a-ma-ru ba-ba-ur₃-ra-ta
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F124,numun nam-lu₂-ulu₃ ha-la-me-de₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F125,murub₄-me-a zi saŋ-dili-me-en nam-til₃-am₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F126,zi-us₂-ra₂ dili mu nam-lu₂-ulu₃ nam-til₃-am₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F127,ud-bi-ta zi an-na zi ki-a mu-un-pad₃-da-nam
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F128,ud-bi-ta nam-lu₂-ulu₃-ur₂ nu-mu-un-til₃-am₃ mu-ni-pad₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F129,e-ne-eš₂ {d}gilgameš₂ igi-bi ba-ni-ib-tu
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F130,šu nam ama-a-ni nu-mu-un-da-kar-kar-ed-nam
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F131,{d}gilgameš₂ gidim-bi-ta ki-ta ug₅-ga
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F132,šagina kur-ra he₂-ak-a palil gidim-bi he₂-nam
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F133,di-da mu-un-kud-da₂ ka-aš bar ba-bar-re
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F134,dug₄-ga-ni inim {d}nin-ŋiš-zid-da dumu-zid-da-ke₄ ba-e-dugud
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F135,ud-bi-a en tur-re en {d}gilgameš₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F136,nam-lu₂-ulu₃ niŋ₂ na₂ til₃-la-ba šag₄ sag₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F137,ur₅ nam-ba-ug₅-ga šag₄ nam-ba-sag₃-ga
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F138,niŋ₂ zi ŋar ug₅
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F139,šul ŋuruš igi du₈-a ud-sakar-ra
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F140,e-ne-da nu igi-bi-a ud nam
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F141,si-si-ig dumu {d}utu-ke₄
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F142,ki-bi ku₃-ku₃-ga ud-še₃ mi-ni-in-ŋar
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F143,niŋ₂ ak-a nam-lu₂-ulu₃-zu i-de₆ ma-ra-an-tum₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F144,niŋ₂ gi-dur kud-da-zu i-de₆ ma-ra-an-tum₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F145,ud ku₃-ku₃ nam-lu₂-ulu₃ sa₂ me-ri-ib-tu
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F146,ki-in dili nam-lu₂-ulu₃ sa₂ me-ri-ib-tu
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F147,a-ŋi₆-a gaba nu-ur₂-gu sa₂ me-ri-ib-tu
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F148,šen-šen nu-sa₂-a sa₂ me-ri-ib-tu
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F149,me₃ ka-re-a nu-me-a sa₂ me-ri-ib-tu
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F150,hul-e šu nu-kar-kar-re sa₂ me-ri-ib-tu
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F151,iri-gal šag₄ zu₂ keše₂-da nam-ba-an-ed₂-de₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F152,igi {d}utu-kam he₂-bi ma-an-tah
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F153,šu-sar-gin₇ he₂-bur₂ šum₂-gin₇ he₂-ak-e
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F154,igi ŋen ki-sig₃-ga {d}a-nun-ke₄-ne diŋir gal-gal-ne dur₂-ru-na-ba
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F155,ki en nu₂-a-še₃ lagar nu₂-a-še₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F156,lu₂-mah nin-diŋir nu₂-a-še₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F157,gu₂-da mu-un-nu₂-a gada mu-un-na-še₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F158,nin-diŋir nu₂-aš gen₆-na mu-un-na-a-še₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F159,ki a-a-zu pap-bil-ga-a-zu
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F160,ama-zu nin₉-zu lu₂-ga-zu
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F161,gu₅-li kal-la-zu du₂-us₂-sa-a-zu
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F162,gu₅-li {d}en-ki-du₁₀ ŋuruš an-ta-a-zu
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F163,ensi₂ lugal-e iri-gal-la al-pad₃-de₃-eš
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F164,ki ugula ugnim nu₂-a-še₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F165,nu-ban₃-da erin₂-na nu₂-a-še₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F166,iri-gal a-ra-li lu₂ ke₄-en-ke₄-na-a-ba
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F167,lu₂ su-na-bi
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F168,e₂ nin₉-a-ta nin₉ me-ši-du-un
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F169,e₂ lu₂-ga-a-ta lu₂-ga me-ši-du-un
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F170,za-a-zu mu-ši-du-un kal-la-zu mu-ši-du-un
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F171,ab-ba iri{ki}-za-kam mu-ši-du-un
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F172,ur₅ nam-ba-ug₅-ga šag₄ nam-ba-sig-ga
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F173,e-ne {d}a-nun-na šid
+c.1.8.1.3,The death of Gilgameš,Me-Turan,F174,tab-us₂ diŋir gal-gal-e-ne mu-un-da-an-šid
+c.1.8.1.3,The death of Gilgameš,Me-Turan,G1,ba-a-ŋal₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,G2,nu₂-e
+c.1.8.1.3,The death of Gilgameš,Me-Turan,G3,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,G4,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,G5,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H1,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H2,ba-sag₉
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H3,nam ud dug₃-ge-eš
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H4,ud dug₃-ge-eš
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H5,ki-ŋa₂ igi udug
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H6,šidim-a-ni tag-ga-a-gin₇ ki-mah-a-ni i₃-hur
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H7,diŋir-bi {d}en-ki saŋ-du niŋ₂-niŋin₂-na-a-ba
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H8,ma-mu-da ki-bur₂-Xbr-ni igi-bi ba-ni-ib-du₈
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H9,maš-ŋi₆-bi ur lugal-la bi-in-bur₂ lu₂ na-me nu-bur₂-bur₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H10,en-e iri{ki}-na-a zig₃-ga ba-ni-du₈
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H11,niŋir-e kur-kur-ra si gu₃ ba-ni-ra
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H12,unug{ki} zig₃-ga {id₂}buranunₓ-na ŋal₂ bi₂-in-taka₄
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H13,kul-aba₄{ki} zig₃-ga {id₂}buranunₓ-na a e₃-a
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H14,unug{ki} zig₃-ga-a-bi a-ma-ru-kam
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H15,kul-aba₄ zig₃-ga-a-bi dungu mu-un-ŋar-ra-am₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H16,murub₄-ba itid ₁-kam ba-ra-an-zal
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H17,ud nu-₅-am₃ ud nu-₁₀-am₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H18,{id₂}buranunₓ-na ŋal₂ bi-in-taka₄ a-u₂-bi ba-an-e₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H19,iškila-bi {d}utu u₆ di-de₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H20,ud-bi-a murub₄ {id₂}buranunₓ-na-kam a-bi ba-da-zig₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H21,ki-mah-bi na₄ ba-da-an-du
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H22,ki e₂-ŋar₈-bi na₄ ba-da-an-du
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H23,{ŋeš}ig na₄ kan₄ ba-da-an-du
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H24,{ŋeš}saŋ-kul i-dib-ba na₄ kalag-ga-am₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H25,{ŋeš}nu-uk-ku-iš-bi na₄ kalag-ga-am₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H26,ŋiš-ur₃ kug-sig₁₇ im-du₃-a-ne
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H27,na₄ sud₄-a dugud im-da-a-ri
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H28,sahar gig₂ niŋ₂-nam ba-e-ed-dugud
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H29,ud ul-le-še₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H30,mu-un-ne-pad₃-de₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H31,kiŋ₂-kiŋ₂ muš-bi nam-ba-ni-pad₃-de₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H32,e₂ kalag-ga šag₄ unug{ki}-ga ba-ni-ŋar
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H33,dam ki aŋ₂-a-ni dumu tur ki aŋ₂-a-ni
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H34,dam tam dam ban₃-da ki aŋ₂-ŋa₂-a-ni
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H35,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H36,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H37,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H38,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H39,il₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H40,il₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,H41,il₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,I1,{d}gilgameš₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,I2,mu-un-na-sag₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,I3,saŋ u₂ sag₉-ga mu-ni-šid
+c.1.8.1.3,The death of Gilgameš,Me-Turan,I4,mu-lu-ug sag₉-ga
+c.1.8.1.3,The death of Gilgameš,Me-Turan,I5,an-ku₄-ku₄ kan₄-ba
+c.1.8.1.3,The death of Gilgameš,Me-Turan,I6,{id₂}buranun-na ŋal₂ bi-taka₄ a-bi
+c.1.8.1.3,The death of Gilgameš,Me-Turan,I7,a bi-bar-bar-re
+c.1.8.1.3,The death of Gilgameš,Me-Turan,I8,ud-bi-a en tur-re en {d}gilgameš₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,I9,mu-un-na-an-hur
+c.1.8.1.3,The death of Gilgameš,Me-Turan,I10,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,J1,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,J2,še
+c.1.8.1.3,The death of Gilgameš,Me-Turan,J3,{d}gilgameš-e
+c.1.8.1.3,The death of Gilgameš,Me-Turan,J4,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,J5,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,J6,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,J7,nam-ba-us₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,J8,ŋa₂-ŋa₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,J9,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,J10,lu₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,J11,
+c.1.8.1.3,The death of Gilgameš,Me-Turan,K1,iri{ki}-še₃ šar₂-re
+c.1.8.1.3,The death of Gilgameš,Me-Turan,K2,sahar-ra ba-an-šar₂-šar₂-re
+c.1.8.1.3,The death of Gilgameš,Me-Turan,K3,en {d}gilgameš₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,K4,ur₂-ra-a-ni ba-hul šag₄-ga-a-ni ba-sag₃
+c.1.8.1.3,The death of Gilgameš,Me-Turan,K5,nam-lu₂-ulu₃ niŋ₂-ŋa₂-a mu-un-sa₄-a-ba
+c.1.8.1.3,The death of Gilgameš,Me-Turan,K6,alan-bi ud ul-la-ta ba-dim₂-dim₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,K7,e₂ diŋir-re-e-ne zag-še₃ ŋar-ŋar-ra
+c.1.8.1.3,The death of Gilgameš,Me-Turan,K8,mu-bi dug₄-dug₄-ga nam-ba-e-da-ha-la-me-eš
+c.1.8.1.3,The death of Gilgameš,Me-Turan,K9,{d}a-ru-ru nin₉ gal {d}en-lil₂-la₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,K10,nam-mu-še₃ isimu₂{sar} mu-un-na-an-šum₂
+c.1.8.1.3,The death of Gilgameš,Me-Turan,K11,alan-bi ud ul-le-ta ba-dim₂-dim₂ kalam-ma bi₂-ib-dug₄-ga
+c.1.8.1.3,The death of Gilgameš,Me-Turan,K12,{d}ereš-ki-gal ama {d}nin-a-zu-ke₄ za₃-mi₂-zu dug₃-ga

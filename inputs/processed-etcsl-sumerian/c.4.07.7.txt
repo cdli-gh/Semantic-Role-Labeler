@@ -1,0 +1,79 @@
+id_text,text_name,version,l_no,text
+c.4.07.7,A šir-namšub to Inana (Inana G),,1,di-da-ŋu₁₀-ne di-da-ŋu₁₀-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,2,ga-ša-an er₉-ra mu-lu₂ u₃-X-še₃ mu-lu u₃-NE
+c.4.07.7,A šir-namšub to Inana (Inana G),,3,ga-ša-an-ŋen abzu-še₃ di-da-ŋu₁₀-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,4,ga-ša-an-an-na-ŋen abzu-še₃ di-da-ŋu₁₀-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,5,abzu e₂-nun-še₃ di-da-ŋu₁₀-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,6,uru₂-ze₂-eb{ki} ze₂-eb-še₃ di-da-ŋu₁₀-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,7,e₂-engur-ra-še₃ di-da-ŋu₁₀-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,8,e₂-an-na e₂ {d}mu-ul-lil₂-la₂-še₃ di-da-ŋu₁₀-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,9,šag₄-ge a ru-še₃ di-da-ŋu₁₀-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,10,bur gal-gal an-ne₂ sug₂-ga-še₃ di-da-ŋu₁₀-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,11,bur sikil-e aŋ₂-ŋa₂-še₃ di-da-ŋu₁₀-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,12,a a zid-de₃ šu e₃-ba-še₃ di-da-ŋu₁₀-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,13,u₃-mu-un {d}am-an-ki šu e₃-ba-še₃ di-da-ŋu₁₀-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,14,{d}dam-gal-nun-na šu e₃-ba-še₃ di-da-ŋu₁₀-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,15,{d}asar-lu₂-hi šu e-ba-še₃ di-da-ŋu₁₀-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,16,ur mu-da-ri piriŋ mu-da-ri
+c.4.07.7,A šir-namšub to Inana (Inana G),,17,{ŋeš}taškarin mu-da-ri {ŋeš}ha-lu-ub₂ mu-da-ri
+c.4.07.7,A šir-namšub to Inana (Inana G),,18,ga-ša-an-an-na-ŋen tur-tur-e šu i-im-ti
+c.4.07.7,A šir-namšub to Inana (Inana G),,19,e-re₇-da-ŋu₁₀-ne e-re₇-da-ŋu₁₀-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,20,a e₃ me-e ŋen-na a e₃ me-e ŋen-na
+c.4.07.7,A šir-namšub to Inana (Inana G),,21,ga-ša-an-ŋen ambar-ra di-da-ŋu₁₀-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,22,ambar-ra me-e ŋen-na
+c.4.07.7,A šir-namšub to Inana (Inana G),,23,ka me₃-ka di-da-ŋu₁₀-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,24,ud zalag-zalag e₃-a-bi ŋen-na
+c.4.07.7,A šir-namšub to Inana (Inana G),,25,igi me₃-ka di-da-ŋu₁₀-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,26,ud zalag-zalag e₃-a-bi ŋen-na
+c.4.07.7,A šir-namšub to Inana (Inana G),,27,eŋer me₃-ka us₂-sa-ŋu₁₀-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,28,aŋ₂-hul-bi ze₂-še₃ ŋen-na
+c.4.07.7,A šir-namšub to Inana (Inana G),,29,e₂ {d}mu-ul-lil₂-la₂ kur₉-ra-ŋu₁₀-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,30,munus kur-ra dirig-ga-bi ŋen-na
+c.4.07.7,A šir-namšub to Inana (Inana G),,31,kur-kur-ra inim me-ri ba-ni-in-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,32,mu-ud-da-na-ŋu₁₀ igi-ŋa₂ ba-e-tuš
+c.4.07.7,A šir-namšub to Inana (Inana G),,33,e₂ diŋir-diŋir-re-ne a-da-min₃ mu-un-de₃-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,34,{d}utu-de₃ {d}nanna-de₃ a-da-min₃ mu-de₃-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,35,{d}sud₃ a-ab-sikil-la₂ kug-bi-ta a-da-min₃ mu-de₃-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,36,id₂-de₃ id₂-de₃ id₂ dirig-gin₇ dam-gin₇ ze₂-eb uru₂-gin₇ ze₂-eb ur₅-gin₇ ze₂-eb nu-ŋal₂
+c.4.07.7,A šir-namšub to Inana (Inana G),,37,id₂-de₃ id₂ nun-e id₂ dirig-gin₇
+c.4.07.7,A šir-namšub to Inana (Inana G),,38,id₂-de₃ {id₂}buranun-na id₂ dirig-gin₇
+c.4.07.7,A šir-namšub to Inana (Inana G),,39,{id₂}buranun-na-ke₄ id₂ dirig-gin₇
+c.4.07.7,A šir-namšub to Inana (Inana G),,40,
+c.4.07.7,A šir-namšub to Inana (Inana G),,41,mu-lu da
+c.4.07.7,A šir-namšub to Inana (Inana G),,42,ze₂-eb uru₂-gin₇ ze₂-eb ur₅-gin₇ ze₂-eb nu-ŋal₂
+c.4.07.7,A šir-namšub to Inana (Inana G),,43,{d}am-an-ki am iri-ze₂-ba im-da-ŋen-na-gin₇
+c.4.07.7,A šir-namšub to Inana (Inana G),,44,ama e₂-mah-a {d}dam-gal-nun-na im-da-ŋen-na-gin₇
+c.4.07.7,A šir-namšub to Inana (Inana G),,45,{d}asar-lu₂-hi dumu uru₂-ze₂-ba im-da-ŋen-na-gin₇
+c.4.07.7,A šir-namšub to Inana (Inana G),,46,{d}mu-ul-lil₂-le mu-un-gu₇-a-gin₇ mu-un-naŋ-a-gin₇
+c.4.07.7,A šir-namšub to Inana (Inana G),,47,dib-gin₇ ze₂-eb uru₂-gin₇ ze₂-eb ur₅-gin₇ ze₂-eb nu-ŋal₂
+c.4.07.7,A šir-namšub to Inana (Inana G),,48,ne-en šag₄-ŋu₁₀ ba-ma-al
+c.4.07.7,A šir-namšub to Inana (Inana G),,49,a zid-de₃ šu e-ba-še₃
+c.4.07.7,A šir-namšub to Inana (Inana G),,50,a lu₂ zid-de₃ šu bi₂-in-e₃-ba-a-še₃
+c.4.07.7,A šir-namšub to Inana (Inana G),,51,mu-lu-bi e₂ šag₄-ga mu-nu₂ gi-rin-NE bi₂-in-ak
+c.4.07.7,A šir-namšub to Inana (Inana G),,52,e₂-an-na-ka gada la₂-e na ba-e-na-aŋ₂
+c.4.07.7,A šir-namšub to Inana (Inana G),,53,u₃-mu-un-ra a mu-un-ma-al mu-na-ab-be₂-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,54,ninda mu-un-ma-al mu-un-na-ab-be₂-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,55,e₂-gal-la im-te-en mu-un-na-ab-be₂-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,56,{d}dumu-zid e₂-e-am₃ ki-am₃ dadag-ga
+c.4.07.7,A šir-namšub to Inana (Inana G),,57,ama {d}inana ama {d}inana du₆-zu du-zu
+c.4.07.7,A šir-namšub to Inana (Inana G),,58,ama {d}inana {d}inana an-na tug₂-zu tug₂-zu
+c.4.07.7,A šir-namšub to Inana (Inana G),,59,tug₂ gig₂-zu tug₂ babbar-zu
+c.4.07.7,A šir-namšub to Inana (Inana G),,60,mu-lu e₂-a ŋen-na-ŋu₁₀ te-e-am₃
+c.4.07.7,A šir-namšub to Inana (Inana G),,61,i-lu te-am₃ ad ša₄ ša₃-ba
+c.4.07.7,A šir-namšub to Inana (Inana G),,62,me-e-bi te-am₃ me ba-tuš-u₃-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,63,ki-bi te-am₃ ki am₃-gub-bu-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,64,am₃-mi-in-gub-bu-ne am₃-mi-in-gub-bu-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,65,{d}mu-ul-lil₂ ki-ur₃-ra am₃-mi-in-gub-bu-ne
+c.4.07.7,A šir-namšub to Inana (Inana G),,66,am igi ka-na-aŋ₂-ŋa₂ mu-lu₂-bi de₃-en-til₃
+c.4.07.7,A šir-namšub to Inana (Inana G),,67,aŋ₂ ni₂-bi aŋ₂ ni₂-bi de₃-ak
+c.4.07.7,A šir-namšub to Inana (Inana G),,68,lu₂-bi agrun-na inim si sa₂ de₃-bi₂-in-ak
+c.4.07.7,A šir-namšub to Inana (Inana G),,69,a-ga e₂-gal-la₂-ka inim si sa₂ en-na
+c.4.07.7,A šir-namšub to Inana (Inana G),,70,in-nin₉ ubur-zu gan₂-ne₂-zu he₂-a
+c.4.07.7,A šir-namšub to Inana (Inana G),,71,{d}inana ubur-zu gan₂-ne₂-zu he₂-a
+c.4.07.7,A šir-namšub to Inana (Inana G),,72,gan₂-ne₂ daŋal-e gu de₂-a-zu
+c.4.07.7,A šir-namšub to Inana (Inana G),,73,gan₂-ne₂ daŋal-e še de₂-a-zu
+c.4.07.7,A šir-namšub to Inana (Inana G),,74,a bal-am₃-ta mu-lu₂ ŋar-am₃-ta
+c.4.07.7,A šir-namšub to Inana (Inana G),,75,a bal-bal-am₃-ta mu-lu₂ ŋar-ŋar-am₃-ta
+c.4.07.7,A šir-namšub to Inana (Inana G),,76,mu-lu dug₄-ga-ra
+c.4.07.7,A šir-namšub to Inana (Inana G),,77,ne-en ga-ra-na₈-na₈
+c.4.07.7,A šir-namšub to Inana (Inana G),,78,šir₃-nam-šub {d}inana-kam

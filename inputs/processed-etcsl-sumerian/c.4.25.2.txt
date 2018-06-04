@@ -1,0 +1,42 @@
+id_text,text_name,version,l_no,text
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,1,šubur-e šu mu₂-mu₂ gal-an-zu
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,2,šubur-e šu mu₂-mu₂ gal-an-zu
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,3,akkil{ki}-ke₄ šu mu₂-mu₂ gal-an-zu
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,4,iri-na akkil{ki}-a dur₂ ba-ni-in-ŋar
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,5,šubur-e akkil{ki}-a dur₂ ki ba-ni-in-ŋar
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,6,šubur-e šu
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,7,ga-ša-an-šubur {d}nin-tur₅ šu
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,8,šubur šu
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,9,ga-ša-an-šubur
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,10,an-ra mu-e-ni-il₂-X
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,11,a-a {d}en-lil₂ u₃-mu-un kur-kur-ra-ra
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,12,{d}nin-lil₂ nin ki-ur₃ ki gal-la-ra
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,13,{d}am-an-ki am uru₂-ze₂-eb-ba-ra
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,14,munus zid {d}dam-gal-nun-na-ra
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,15,urim₂{ki}-ma {d}aš-im₂-babbar-ra
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,16,ga-ša-an-gal-e agrun-kug-ga-na
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,17,kur gal {d}en-lil₂-le
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,18,u₃-mu-un-urta-a-ra
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,19,ga-ša-an-hur-saŋ-ŋa₂-ra
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,20,šul {d}utu eš₃ e₂-babbar-ra zid-da
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,21,emeda ga-ša-an-iri₁₁-gal-la
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,22,ki zabalam₂{ki}-a kug ga-ša-an-an-na
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,23,{d}mu-ul-lil₂-e diŋir gal-gal si sa₂
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,24,sa-gid₂-da-am₃
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,25,šubur barag mah-a dur₂ ŋar-ra-zu-X
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,26,ga-ša-an-šubur-e dur₂ ŋar-ra-zu-X
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,27,barag a-a {d}en-lil₂-la-ke₄ dur₂ ŋar-ra-zu-X
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,28,{d}en-lil₂ {d}nin-lil₂-la₂-ke₄ dur₂ ŋar-ra-zu-X
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,29,me-e ama-ŋu₁₀-gin₇ ka₃-ka₃-a ama-ŋu₁₀-gin₇ ga-u₅
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,30,ga-ša-an-šubur-ra ka₃-ka₃-a ama-ŋu₁₀-gin₇ ga-u₅
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,31,sukkal zid e₂-an-na-ŋu₁₀
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,32,{d}nin-šubur e₂-an-na-ŋu₁₀
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,33,sukkal-mah an ki-bi-me-en
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,34,{d}nin-šubur an ki-bi-me-en
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,35,sukkal zid {d}a-nun-na-ke₄-ne
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,36,{d}nin-šubur {d}a-nun-na-ke₄-ne
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,37,sukkal zid diŋir kalam-ma-ke₄
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,38,{d}nin-šubur diŋir kalam-ma-ke₄
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,39,sukkal zid ama kalam-ma-ke₄
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,40,{d}nin-šubur ama kalam-ma-ke₄ ga-u₅
+c.4.25.2,A hymn to Ninšubur (Ninšubur B),,41,{d}nin-šubur-ra-kam

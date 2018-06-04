@@ -1,0 +1,72 @@
+id_text,text_name,version,l_no,text
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,1,an ki su₃-ra₂-aŋ₂ bi₂-mu₂-mu₂
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,2,nun zid ib-ta-e₃-a
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,3,{d}suen kur gal-e en nun-še₃ tud-da
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,4,
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,5,gaba-ŋal₂ an ki-a lugal-bi na-nam
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,6,en {d}aš-im₂-babbar su₃-ra₂-aŋ₂ bi₂-mu₂-mu₂
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,7,{d}suen su₃-ra₂-aŋ₂ bi₂-mu₂-mu₂
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,8,{d}X su₃-ra₂-aŋ₂ bi₂-mu₂-mu₂
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,9,diŋir ud-da su₃-ra₂-aŋ₂ bi₂-mu₂-mu₂
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,10,gaba-ŋal₂ an ki-a lugal-bi na-nam
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,11,an sikil-la ki-še₃ pa am₃-e₃
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,12,eš-bar an-na-kam sa₂ gal mu-un-ŋa₂-ŋa₂
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,13,temen si sa₂-a me šar₂ mi-ni-in-ed₂-e
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,14,šul nun-še₃ il₂-la {d}i-bi-{d}suen-ŋu₁₀
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,15,bal su₃-ud nam-he₂-a im-ma-ni-in-pad₃-de₃
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,16,en {d}aš-im₂-babbar ki-še₃ pa am₃-e₃
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,17,eš-bar an-na-kam sa₂ gal mu-un-ŋa₂-ŋa₂
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,18,temen si sa₂-a me šar₂ mi-ni-in-ed₂-e
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,19,šul nun-še₃ il₂-la {d}i-bi-{d}suen-ŋu₁₀
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,20,bal su₃-ud nam-he₂-a im-ma-ni-in-pad₃-da
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,21,ki nim-ma kur-zag-še₃ gal-bi mu-ni-ib-e₃
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,22,me kug-bi šen-am₃ ŋiš-hur nam-mi-ni-in-du₇
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,23,niŋ₂-nam še-er-ka-an-ba igi su₃-ud mi-ni-in-il₂
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,24,aga du₇ me ud su₃-ra₂ dug₄-ga nu-kam₃-me-de₃
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,25,{d}i-bi-{d}suen-ŋu₁₀-ur₂ til₃ ša-mu-e-da-ab-su₃-ud-de₃
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,26,en {d}aš-im₂-babbar gal-bi mu-ni-ib-e₃
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,27,me kug-bi šen-am₃ ŋiš-hur nam-mi-ni-in-du₇
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,28,niŋ₂-nam še-er-ka-an-ba igi su₃-ud mi-ni-in-il₂
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,29,aga du₇ me ud su₃-ra₂ dug₄-ga nu-kam₃-me-de₃
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,30,{d}i-bi-{d}suen-ŋu₁₀-ur₂ til₃ ša-mu-e-da-ab-su₃-ud-de₃
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,31,en ŋiš-nu₁₁ an ki
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,32,un₃-e ŋiš-he₂-a me-te
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,33,daŋal DU-bi
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,34,me šar₂-bi mi-ni-ib-si aŋ₂
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,35,{d}i-bi₂-{d}suen-ŋu₁₀
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,36,en {d}aš-im₂-babbar men-bi
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,37,un₃-e ŋiš-he₂-a
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,38,daŋal DU-bi
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,39,me šar₂-bi
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,40,{d}i-bi₂-₃₀-ŋu₁₀
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,41,sa-gid₂-da-am₃
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,42,an-ne₂ ud dug₃ kug
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,43,aga zid me ud su₃-ra₂ ŋidru nam-lugal-la
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,44,{d}en-lil₂-le ki aŋ₂ nam-en nam mu-un-tar
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,45,nam-ur-saŋ ba-tud pa e₃ am₃-mi-ni-mah
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,46,{d}en-ki-ke₄ nam-he₂ ud giri₁₇-zal mu₂-mu₂
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,47,{id₂}idigna {id₂}buranun-na a-u₃-ba daŋal
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,48,{d}nin-tur₅ numun i-i saŋ zi-ŋal₂ u₃-tud
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,49,iri a₂-dam uŋ₃ lu-a ni₂-bi-a
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,50,{d}nanna ud zu₂ keše₂ ŋiš-hur gen₆-ne₂
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,51,itid zal-le mu da-ri₂ ud ki-še₃
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,52,saŋ-kal nam-nun-na {d}i-bi₂-₃₀-ŋu₁₀
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,53,sig nim zag an ki e-ne-er ni₂
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,54,{d}i-bi₂-₃₀ a₂ mah kalag-ga nam-ur-saŋ-ŋa₂
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,55,nam-šul-la zag dib kur-re ŋiri₃ saga₁₁ di
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,56,eš-bar-e kiŋ₂-ŋa₂ uŋ₃-e ŋalga šum₂-mu
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,57,{d}utu niŋ₂-si-sa₂ niŋ₂-du₇-e bi₂-in-DU
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,58,nin zid {d}nin-irigal ama kul-ab{ki}-a-ke₄
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,59,nam-šita a-ra-zu mah ud ki-bi šu
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,60,nin mu mah
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,61,zi su₃-ud-ŋal₂
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,62,sa-ŋar-ra-am₃
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,63,šul {d}suen-na
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,64,saŋ-eš₂ mu-ni-in-rig₇ lugal an-na-ra
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,65,ŋiš-gi₄-ŋal₂-bi-im
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,66,un₃-na su₃-ra₂-aŋ₂-bi na-nam
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,67,ŋiš-he₂-a su₃-ra₂-aŋ₂-bi na-nam
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,68,{d}i-bi₂-₃₀-ŋu₁₀ bal su₃-ra₂ mu nam-he₂
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,69,til₃ ša-mu-e-da-ab-sud-de₃
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,70,u₁₈-ru₁₂-bi
+c.2.4.5.3,An adab to Suen for Ibbi-Suen (Ibbi-Suen C),,71,a-da-ab {d}suen-na

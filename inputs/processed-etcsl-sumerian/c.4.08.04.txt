@@ -1,0 +1,24 @@
+id_text,text_name,version,l_no,text
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,1,di-da-ŋu₁₀-ne di-da-ŋu₁₀-ne
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,2,e₂ di-da-ŋu₁₀-ne di-da-ŋu₁₀-ne
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,3,ga-ša-an-na-ŋu₁₀ i-bi₂ mu-ši-in-bar
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,4,šeš-e ta ma-ra-an-dug₄ ma-ra-an-tah
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,5,šag₄ ki-ig-ga aŋ₂ hi-li aŋ₂ ku₇-ku₇-dam
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,6,kug ga-ša-an-na-ŋu₁₀ aŋ₂-še₃ ma-ra-an-ba
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,7,ki-bi i-bi₂-ŋu₁₀ ma-ra-ŋu₁₀-ne
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,8,mu-lu ki-ig-ga aŋ₂-ŋu₁₀ gaba im-ma-an-de₅
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,9,hi-li mu-e-ši-in-te dili mu-e-da-hul₂
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,10,šeš-e e₂-ni-a im-ma-ni-in-kur₉-re-en
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,11,mu-nu₂ lal₃ hab₂-ba bi₂-in-nu₂-en
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,12,ze₂-ba kal-la-ŋu₁₀ ša₃-ab-ŋu₁₀ a-ba-nu₂
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,13,dili-dili-ta eme ak dili-dili-ta
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,14,šeš i-bi₂ sag₉-sag₉-ŋu₁₀ ₅₀-am₃ mu-un-ak
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,15,lu₂ sig₉-ga-gin₇ mu-na-de₃-gub
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,16,ki-ta tuku₄-e-da si-a mu-na-ni-in-ŋar
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,17,šeš-ŋu₁₀ ib₂-ba-na šu gub-bu-de₃
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,18,ze₂-ba kal-la-ŋu₁₀ ud mu-un-di-ni-ib-zal-e
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,19,šu ba-am₃-mu-u₈ nin₉-ŋu₁₀ šu ba-am₃-mu-u₈
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,20,ŋen nin₉ ki aŋ₂-ŋu₁₀ e₂-gal-la ga-ŋen
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,21,igi ad-da-ŋa₂ dumu tur he₂-me-en
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,22,{d}ba-u₂ lu₂ ha-ba-zu šu ba-e-re-ši-bar-re
+c.4.08.04,A balbale to Inana (Dumuzid-Inana D),,23,bal-bal-e {d}inana-kam

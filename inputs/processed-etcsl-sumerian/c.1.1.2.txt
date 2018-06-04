@@ -1,0 +1,143 @@
+id_text,text_name,version,l_no,text
+c.1.1.2,Enki and Ninmah,,1,ud re-a-ta ud an ki-bi-ta ba-an-dim₂-ma-ba
+c.1.1.2,Enki and Ninmah,,2,ŋi₆ re-a-ta ŋi₆ an ki-bi-ta ba-an-dim₂-ma-ba
+c.1.1.2,Enki and Ninmah,,3,mu re-a-ta mu nam ba-tar-ra-ba
+c.1.1.2,Enki and Ninmah,,4,{d}a-nun-na-ke₄-ne ba-tu-ud-da-a-ba
+c.1.1.2,Enki and Ninmah,,5,{d}ama-{d}inana nam-NIR.PA-še₃ ba-tuku-a-ba
+c.1.1.2,Enki and Ninmah,,6,{d}ama-{d}inana an ki-a ba-hal-hal-la-a-ba
+c.1.1.2,Enki and Ninmah,,7,{d}ama-{d}inana ba-a-peš u₃-tud-da-a-ba
+c.1.1.2,Enki and Ninmah,,8,diŋir kurum₆-ma-bi unu₂-bi-še₃ ba-ab-keše₂-a-ba
+c.1.1.2,Enki and Ninmah,,9,diŋir šar₂-šar₂ kiŋ₂-ŋa₂ al-sug₂-ge-eš diŋir tur-tur du₂-lum im-il₂-il₂-e-ne
+c.1.1.2,Enki and Ninmah,,10,diŋir id₂ im dun-dun-u₃-ne sahar-bi ha-ra-li im-dub-dub-be₂-ne
+c.1.1.2,Enki and Ninmah,,11,diŋir im ar₃-ar₃-re-ne zi-bi inim am₃-ma-ŋar-re-ne
+c.1.1.2,Enki and Ninmah,,12,ud-ba ŋeštug₂ daŋal mud diŋir šar₂-šar₂ ŋal₂-ŋal₂
+c.1.1.2,Enki and Ninmah,,13,{d}en-ki-ke₄ engur buru₃ a-sur-ra ki diŋir na-me šag₄-bi u₆ nu-um-me
+c.1.1.2,Enki and Ninmah,,14,ki-nu₂-ni i₃-nu₂ u₃ ku nu-um-zi-zi
+c.1.1.2,Enki and Ninmah,,15,diŋir er₂-ra im-pad-pad-ne a-nir ŋal₂ i₃-ak im-me-ne
+c.1.1.2,Enki and Ninmah,,16,lu₂ ku-ra i₃-nu₂-a-ra ki-nu₂-bi nu-um-zi-zi-ra
+c.1.1.2,Enki and Ninmah,,17,{d}namma-ke₄ ama palil u₃-tud diŋir šar₂-šar₂-ra-ke₄-ne
+c.1.1.2,Enki and Ninmah,,18,er₂-ra diŋir-re-e-ne dumu-ni-ir ba-ši-in-de₆
+c.1.1.2,Enki and Ninmah,,19,mu-un-ši-nu₂-u₃-nam u₃ mu-un-ši-ku-ku-na-nam
+c.1.1.2,Enki and Ninmah,,20,nu-mu-un-zi-zi
+c.1.1.2,Enki and Ninmah,,21,dim₃-me₂-er šu dim₂-dim₂-ma-zu gu₂-bi im-tu₁₀-tu₁₀-ne
+c.1.1.2,Enki and Ninmah,,22,du₅-mu-ŋu₁₀ ki-nu₂-zu zig₃-ga i-bi₂ ma-al-la-zu-ta na-aŋ₂-kug-zu u₃-mu-e-kiŋ₂-ŋa₂
+c.1.1.2,Enki and Ninmah,,23,kiŋ₂-sig₁₀ dim₃-me₂-er-e-ne-ke₄ u₃-mu-e-dim₂ du₂-lum-bi ha-ba-tu-lu-ne
+c.1.1.2,Enki and Ninmah,,24,{d}en-ki-ke₄ inim ama-na {d}namma-ke₄ ki-nu₂-na ba-ta-zig₃
+c.1.1.2,Enki and Ninmah,,25,hal-an-kug niŋin₂ šag₄ kuš₂-u₃-da-na haš im-mi-ni-ra
+c.1.1.2,Enki and Ninmah,,26,ŋeštug₂ ŋizzal en₃ tar nam-kug-zu mud me-dim₂ niŋ₂-nam-ma SIG₇-EN SIG₇-HI im-ta-an-e₃
+c.1.1.2,Enki and Ninmah,,27,{d}en-ki-ke₄ a₂-ni ba-ši-in-de₆ ŋeštug₂ i₃-ni₁₀-ni₁₀-e
+c.1.1.2,Enki and Ninmah,,28,{d}en-ki-ke₄ mud me-dim₂ ni₂-te-a-na šag₄-bi ŋeštug₂-ta u₃-mu-ni-de₅-ge
+c.1.1.2,Enki and Ninmah,,29,ama-ni {d}namma-ra gu₃ mu-un-na-de₂-e
+c.1.1.2,Enki and Ninmah,,30,ama-ŋu₁₀ mud mu-ŋar-ra-zu i₃-ŋal₂-la-am₃ zub-sig₃ diŋir-re-e-ne keše₂-i₃
+c.1.1.2,Enki and Ninmah,,31,šag₄ im ugu abzu-ka u₃-mu-e-ni-in-šar₂
+c.1.1.2,Enki and Ninmah,,32,SIG₇-EN SIG₇-HI im mu-e-kir₃-kir₃-re-ne za-e me-dim₂ u₃-mu-e-ni-ŋal₂
+c.1.1.2,Enki and Ninmah,,33,{d}nin-mah-e an-ta-zu he₂-ak-e
+c.1.1.2,Enki and Ninmah,,34,{d}nin-imma₃ {d}šu-zi-an-na {d}nin-ma-da {d}nin-barag
+c.1.1.2,Enki and Ninmah,,35,{d}nin-mug {d}ŠAR.ŠAR.GABA {d}nin-gun₃-na
+c.1.1.2,Enki and Ninmah,,36,tud-tud-a-zu ha-ra-gub-bu-ne
+c.1.1.2,Enki and Ninmah,,37,ama-ŋu₁₀ za-e nam-bi u₃-mu-e-tar {d}nin-mah zub-sig₃-bi he₂-keše₂
+c.1.1.2,Enki and Ninmah,,38,i₃-du₃ nam-lu₂-ulu₃
+c.1.1.2,Enki and Ninmah,,39,nam-lu₂-ulu₃ am₃-ma-X
+c.1.1.2,Enki and Ninmah,,40,saŋ-e saŋ am₃-ma-X
+c.1.1.2,Enki and Ninmah,,41,dim₂-zu unu₆ ga-a-am₃
+c.1.1.2,Enki and Ninmah,,42,ŋiš-nu₁₁ mi-ni-in-il₂ nam-lu₂-ulu₃
+c.1.1.2,Enki and Ninmah,,43,sag₂ numun₂-e mi-ni-in-ri u₃-tud na-bi mu-de₅
+c.1.1.2,Enki and Ninmah,,44,{d}en-ki-ke₄ kiŋ₂ ni₁₀-ni₁₀-da mi-ni-in-la₂ šag₄-bi ba-hul₂
+c.1.1.2,Enki and Ninmah,,45,ama-ni {d}namma {d}nin-mah-še₃ ŋišbun na-am₃-ma-ni-in-ŋar
+c.1.1.2,Enki and Ninmah,,46,gu₂ SIG₇-EN SIG₇-HI nun-ne-ke₄ nam-tar gi saŋ ninda i-im-gu₇-e
+c.1.1.2,Enki and Ninmah,,47,an-e {d}en-lil₂-bi en {d}nu-dim₂-mud-e maš kug i-im-šeŋ₆-šeŋ₆
+c.1.1.2,Enki and Ninmah,,48,diŋir šar₂-šar₂-ra-ke₄-e-ne ka tar i-im-si-il-le-ne
+c.1.1.2,Enki and Ninmah,,49,en ŋeštug₂ daŋal-la a-ba-a ŋeštug₂ i₃-de₅-ge
+c.1.1.2,Enki and Ninmah,,50,en gal {d}en-ki-ke₄ niŋ₂ ak-ak-zu-še₃ a-ba-a i₃-sig₁₀-ge
+c.1.1.2,Enki and Ninmah,,51,a-a tud-da-gin₇ me nam tar-tar-ra me za-e al-me-en-na
+c.1.1.2,Enki and Ninmah,,52,{d}en-ki-ke₄ {d}nin-mah-e kaš im-na₈-na₈-ne šag₄-bi ul mu-un-te
+c.1.1.2,Enki and Ninmah,,53,{d}nin-mah-e {d}en-ki-ra gu₃ mu-na-de₂-e
+c.1.1.2,Enki and Ninmah,,54,me-dim₂ na-aŋ₂-lu₂-ulu₃-ta sag₉-ge hul ma-al-la-a-kam
+c.1.1.2,Enki and Ninmah,,55,ki šag₄ gi₄-a-ŋu₁₀ na-aŋ₂-tar bi₂-ib-sig₁₀-ge bi₂-ib-hul-e
+c.1.1.2,Enki and Ninmah,,56,{d}en-ki-ke₄ {d}nin-mah-e mu-na-ni-ib-gi₄-gi₄
+c.1.1.2,Enki and Ninmah,,57,nam-tar šag₄-ge de₆-a-zu sag₉-ge hul ma-al ga-am₃-ši-ib₂-la₂
+c.1.1.2,Enki and Ninmah,,58,{d}nin-mah-e im ugu abzu-a šu-ni mu-ni-in-ti
+c.1.1.2,Enki and Ninmah,,59,lu₂ gi šu šu₂-šu₂ sa₂-sa₂-de₃ nu-gam lu₂-u₃ am₃-ma-ni-in-dim₂
+c.1.1.2,Enki and Ninmah,,60,{d}en-ki-ke₄ lu₂ gi šu šu₂-šu₂ sa₂-sa₂-de₃ nu-gam igi du₈-a-ni-ta
+c.1.1.2,Enki and Ninmah,,61,nam-bi i-ni-in-tar saŋ lugal-la-ke₄ am₃-ma-ni-in-gub
+c.1.1.2,Enki and Ninmah,,62,gi₄-bi ŋiš-nu₁₁ gi₄-gi₄ lu₂ u₆-e am₃-ma-ni-in-dim₂
+c.1.1.2,Enki and Ninmah,,63,{d}en-ki-ke₄ ŋiš-nu₁₁ gi₄-gi₄ lu₂ u₆-e igi du₈-a-ni-ta
+c.1.1.2,Enki and Ninmah,,64,nam-bi i-ni-in-tar nam-nar mi-ni-in-ba
+c.1.1.2,Enki and Ninmah,,65,gal ušumgal-la igi lugal-la-ke₄ am₃-ma-ni-in-gub
+c.1.1.2,Enki and Ninmah,,66,peš-bi ŋiri₃ ₂ hum ŋiri₃ dab₅-ba-a am₃-ma-ni-in-dim₂
+c.1.1.2,Enki and Ninmah,,67,{d}en-ki-ke₄ ŋiri₃ ₂ hum ŋiri₃ dab₅-ba igi du₈-a-ni-ta
+c.1.1.2,Enki and Ninmah,,68,kiŋ₂ kug-babbar-dim₂ me-lem₄-ma-ni
+c.1.1.2,Enki and Ninmah,,69,peš-gi lu₂ a sur-sur-ra am₃-ma-ni-dim₂
+c.1.1.2,Enki and Ninmah,,70,{d}en-ki-ke₄ lu₂ a sur-sur-ra igi du₈-a-ni-ta
+c.1.1.2,Enki and Ninmah,,71,a mu₇-mu₇ mi-ni-in-tu₅ nam-tar su-bi am₃-ma-ni-in-zig₃
+c.1.1.2,Enki and Ninmah,,72,peš-peš-gi munus nu-u₃-tud am₃-ma-ni-in-dim₂
+c.1.1.2,Enki and Ninmah,,73,{d}en-ki-ke₄ munus nu-u₃-tud igi du₈-a-ni-ta
+c.1.1.2,Enki and Ninmah,,74,nam-bi mi-ni-in-tar e₂-mi₂-a-ke₄ am₃-ma-ni-in-du₃
+c.1.1.2,Enki and Ninmah,,75,peš-bal-gi lu₂ su-ba ŋiš₃ nu-ŋar gal₄-la nu-ŋar am₃-ma-ni-dim₂
+c.1.1.2,Enki and Ninmah,,76,{d}en-ki-ke₄ lu₂ su-ba ŋiš₃ nu-ŋar gal₄-la nu-ŋar igi du₈-a-ni-ta
+c.1.1.2,Enki and Ninmah,,77,{d}nibru{ki} tiru-e mu-e mu-ni-in-sa₄-a
+c.1.1.2,Enki and Ninmah,,78,igi lugal-la-ke₄ gub-bu-de₃ nam-bi a-ma-ni-in-tar
+c.1.1.2,Enki and Ninmah,,79,{d}nin-mah-e im niŋin₂ šu-na ki-a mu-un-šub lul-aš lib mu-un-ŋar
+c.1.1.2,Enki and Ninmah,,80,en gal {d}en-ki-ke₄ {d}nin-mah-a-ra gu₃ mu-un-na-de₂-e
+c.1.1.2,Enki and Ninmah,,81,lu₂ šu dim₂-ma-zu-še₃ nam-bi i-ni-in-tar ninda i-ni-in-šum₂
+c.1.1.2,Enki and Ninmah,,82,ŋe₂₆-e ga-na ga-mu-ra-ab-dim₂ za-e u₃-tud-bi nam-bi tar-ra-ab
+c.1.1.2,Enki and Ninmah,,83,{d}en-ki-ke₄ me-dim₂ saŋ-ŋa₂ ka šag₄-ba a-ma-ni-dim₂
+c.1.1.2,Enki and Ninmah,,84,{d}nin-mah-a-ra gu₃ mu-un-na-de₂-e
+c.1.1.2,Enki and Ninmah,,85,a ŋiš₃ ak šag₄ munus-a-ka ri-a a šag₄-ga-na munus-bi mu-un-u₃-tud
+c.1.1.2,Enki and Ninmah,,86,{d}nin-mah u₃-tud-bi-še₃ am₃-mi-ni-gub
+c.1.1.2,Enki and Ninmah,,87,munus-bi ud-bi šag₄-ba i-in-šub
+c.1.1.2,Enki and Ninmah,,87A,{d}nin-mah i₃-si-ig
+c.1.1.2,Enki and Ninmah,,88,gi₄-bi u₄-mu-ul a-za-ad-bi gig-ga ki nam-X-bi gig-ga igi-bi gig-ga gu₂-bi gig-ga
+c.1.1.2,Enki and Ninmah,,89,zi til-til ti sur-sur mur gig-ga šag₄ gig-ga lipiš gig-ga
+c.1.1.2,Enki and Ninmah,,90,šu-bi a-za-ad la₂-la₂ ka-bi-še₃ ninda nu-ŋar murgu₂ saŋ-du ze₂-re
+c.1.1.2,Enki and Ninmah,,91,zag-še sur ŋiri₃ sur-sur a-gar₃ nu-DU am₃-ma-ni-in-dim₂
+c.1.1.2,Enki and Ninmah,,92,{d}en-ki-ke₄ {d}nin-mah-ra gu₃ mu-na-de₂-e
+c.1.1.2,Enki and Ninmah,,93,lu₂ šu dim₂-ma-zu nam i-ni-in-tar ninda mi-ni-šum₂
+c.1.1.2,Enki and Ninmah,,94,za-e lu₂ šu dim₂-ŋu₁₀-uš nam-bi tar-ra-ab ninda he₂-X-šum₂
+c.1.1.2,Enki and Ninmah,,95,{d}nin-mah-e u₄-mu-ul igi du₈-a-ni-ta e-ne-še₃ ba-e-gi₄
+c.1.1.2,Enki and Ninmah,,96,u₄-mu-ul mu-na-te en₃ mu-na-tar-tar-re dug₄-ga nu-zu-e
+c.1.1.2,Enki and Ninmah,,97,ninda gu₇-a-ni-še₃ mu-na-ab-de₆ šu nu-mu-na-da-gid₂-de₃
+c.1.1.2,Enki and Ninmah,,98,{ŋeš}gur₈-u₆ šag₄ nu-mu-na-nu₂ nu-mu-da-an-ŋal₂-ŋal₂
+c.1.1.2,Enki and Ninmah,,99,gub nu-mu-da-tuš nu-mu-da-nu₂ e₂ ninda nu-mu-da-gu₇
+c.1.1.2,Enki and Ninmah,,100,{d}nin-mah-e {d}en-ki-ra inim-ma mu-X-gi₄-gi₄
+c.1.1.2,Enki and Ninmah,,101,lu₂ šu dim₂-ma-zu lu₂ til₃-la in-nu lu₂ ug₅-ga in-nu il₂-bi nu-mu-da
+c.1.1.2,Enki and Ninmah,,102,{d}en-ki-ke₄ {d}nin-mah-e mu-na-ni-ib-gi₄-gi₄
+c.1.1.2,Enki and Ninmah,,103,lu₂ gi šu sig-ra nam mi-ni-tar ninda mi-ni-in-šum₂
+c.1.1.2,Enki and Ninmah,,104,lu₂ ŋiš-nu₁₁ gi₄-gi₄-ra nam mi-ni-tar ninda mi-ni-in-šum₂
+c.1.1.2,Enki and Ninmah,,105,lu₂ ŋiri₃ hum dab₅-ra nam mi-ni-tar ninda mi-ni-in-šum₂
+c.1.1.2,Enki and Ninmah,,106,lu₂ a sur-sur-ra nam mi-ni-tar ninda mi-ni-in-šum₂
+c.1.1.2,Enki and Ninmah,,107,munus nu-u₃-tud-ra nam mi-ni-tar ninda mi-ni-in-šum₂
+c.1.1.2,Enki and Ninmah,,108,lu₂ su-ba ŋiš₃ nu-ŋar gal₄-la nu-ŋar-ra nam mi-ni-tar ninda mi-ni-in-šum₂
+c.1.1.2,Enki and Ninmah,,109,nin₉-ŋu₁₀
+c.1.1.2,Enki and Ninmah,,110,
+c.1.1.2,Enki and Ninmah,,111,
+c.1.1.2,Enki and Ninmah,,112,{d}nin-mah-e {d}en-ki-ra gu₃ mu-na-de₂-e
+c.1.1.2,Enki and Ninmah,,113,aŋ₂-ŋa₂
+c.1.1.2,Enki and Ninmah,,114,aŋ₂-ŋa₂
+c.1.1.2,Enki and Ninmah,,115,
+c.1.1.2,Enki and Ninmah,,116,aŋ₂-ŋa₂
+c.1.1.2,Enki and Ninmah,,117,aŋ₂-ŋa₂
+c.1.1.2,Enki and Ninmah,,118,aŋ₂-ŋa₂
+c.1.1.2,Enki and Ninmah,,119,
+c.1.1.2,Enki and Ninmah,,120,
+c.1.1.2,Enki and Ninmah,,121,
+c.1.1.2,Enki and Ninmah,,122,mu-ni-in-kur₉-re
+c.1.1.2,Enki and Ninmah,,123,a₂-še₃ an nu-mu-e-tuš ki nu-mu-e-tuš i-bi₂ il₂-la-zu ka-na-aŋ₂-ŋa₂ nu-ed₂-en
+c.1.1.2,Enki and Ninmah,,124,ki za-e nu-tuš-en e₂-ŋu₁₀ du₃-a inim-zu mu nu-tuku
+c.1.1.2,Enki and Ninmah,,125,ki za-e nu-til₃-en iri-ŋu₁₀ du₃-a niŋ₂-ŋu₁₀ lib ba-sig₉-ge-en
+c.1.1.2,Enki and Ninmah,,126,iri-ŋu₁₀ gel-le-eŋ₃-ŋa₂ e₂-ŋu₁₀ gul-la du₅-mu-ŋu₁₀ šu dab₅-ba
+c.1.1.2,Enki and Ninmah,,127,lu₂-kar-ra-ŋen e₂-kur-ta e₃-ŋen
+c.1.1.2,Enki and Ninmah,,128,ud me-e niŋ₂-ŋu₁₀ šu-zu-ta šu la-ba-ra-e₃
+c.1.1.2,Enki and Ninmah,,129,{d}en-ki-ke₄ {d}nin-mah-ra mu-na-ni-ib-gi₄-gi₄
+c.1.1.2,Enki and Ninmah,,130,inim ka-zu e₃-a a-ba-a i₃-kur₂-re
+c.1.1.2,Enki and Ninmah,,131,u₄-mu-ul dab₅-ba ur₂-zu-ta šu ŋal₂-ab-ta
+c.1.1.2,Enki and Ninmah,,132,{d}nin-mah kiŋ₂-ŋa₂-zu he₂-bi₂-la₂-la₂ šu nu-du₇ ma-dab₅ a-ba-am₃ saŋ mu-un-ŋa₂-ŋa₂
+c.1.1.2,Enki and Ninmah,,133,lu₂ me-dim₂-ŋu₁₀ eŋer-zu-še₃ tuku-a ka-bi šu he₂-bi₂-ŋal₂
+c.1.1.2,Enki and Ninmah,,134,ud-da ŋiš₃-ŋu₁₀ me-teš₂ ha-ba-i-i ŋeštug₂ de₅-ge-zu he₂-ŋal₂
+c.1.1.2,Enki and Ninmah,,135,enkum ninkum
+c.1.1.2,Enki and Ninmah,,136,ud ŋiri₃ šub-šub gu₂ ka tar-zu he₂-si-il-le-ne
+c.1.1.2,Enki and Ninmah,,137,nin₉-ŋu₁₀ a₂ nam-ur-saŋ-ŋa₂
+c.1.1.2,Enki and Ninmah,,138,šir₃ nam-dub
+c.1.1.2,Enki and Ninmah,,139,diŋir ŋiš tuku-a-bi u₄-mu-ul du₃ e₂-ŋu₁₀ he₂-ak-e
+c.1.1.2,Enki and Ninmah,,140,{d}nin-mah-e en gal {d}en-ki-ke₄ zag nu-mu-ni-in-ša₄
+c.1.1.2,Enki and Ninmah,,141,a-a {d}en-ki za₃-mi₂-zu dug₃-ga

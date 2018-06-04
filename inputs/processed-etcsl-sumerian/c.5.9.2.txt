@@ -1,0 +1,197 @@
+id_text,text_name,version,l_no,text
+c.5.9.2,The heron and the turtle,,A1,ŋiš-gi a-na gu₃ mu-un-de₂ mu₂-a-bi dug₃-ga-am₃
+c.5.9.2,The heron and the turtle,,A2,ŋiš-gi daŋal tu-tu-ub-ba{ki}-a-ka mu₂-a-bi dug₃-ga-am₃
+c.5.9.2,The heron and the turtle,,A3,ambar-ra kiri₈-tab-ba{ki}-a-ka mu₂-a-bi dug₃-ga-am₃
+c.5.9.2,The heron and the turtle,,A4,a-dar-ra akšak{ki}-a-ka mu₂-a-bi dug₃-ga-am₃
+c.5.9.2,The heron and the turtle,,A5,sug zu₂ keše₂-da {d}en-ki-ka₃-ka mu₂-a-bi dug₃-ga-am₃
+c.5.9.2,The heron and the turtle,,A6,sug ban₃-da sug {d}en-ki-ka₃-ka mu₂-a-bi dug₃-ga-am₃
+c.5.9.2,The heron and the turtle,,A7,{gi}bar-bar {d}en-ki-ka₃-ka mu₂-a-bi dug₃-ga-am₃
+c.5.9.2,The heron and the turtle,,A8,urim₂{ki}-ma gi-zi di₄-di₄-la₂ mu₂-a-bi dug₃-ga-am₃
+c.5.9.2,The heron and the turtle,,A9,urim₂{ki}-ma ab₂ lu amar lu-a re mu₂-a-bi dug₃-ga-am₃
+c.5.9.2,The heron and the turtle,,A10,ud-bi-a a gi-ta nam-kud amaš-e pa nam-e₃
+c.5.9.2,The heron and the turtle,,A11,{u₂}aš-tal₂-tal₂ ŋiš-gi-ta numun-bi sal-sal-e
+c.5.9.2,The heron and the turtle,,A12,{u₂}ku-mul tur-tur ki-ta nam-ta-an-e₃ nam-di₄-di₄-la₂ dug₃-ga-am₃
+c.5.9.2,The heron and the turtle,,A13,{gi}en₃-bar tur-re suh₁₀ nam-dub-dub nam-ki-sikil dug₃-ga-am₃
+c.5.9.2,The heron and the turtle,,A14,{gi}ub-zal iri-bi-da nam-da-DI nam-ŋuruš dug₃-ga-am₃
+c.5.9.2,The heron and the turtle,,A15,{gi}pe-el-la₂ ur₂-ra saŋ-še₃ nam-ib-dul e₂-gi₄-a dug₃-ga-am₃
+c.5.9.2,The heron and the turtle,,A16,{gi}pe-el-la₂ ur₂-ra saŋ-še₃ nam-ta-ab-gi₄ dumu ban₃-da dug₃-ga-am₃
+c.5.9.2,The heron and the turtle,,A17,{gi}gašam-e ki am₃-buru₃-e nam-ab-ba dug₃-ga-am₃
+c.5.9.2,The heron and the turtle,,A18,gi-zi ni₂-bi-a nam-mu-un-šu₂ nam-um-ma dug₃-ga-am₃
+c.5.9.2,The heron and the turtle,,A19,ŋiš-gi sig₇-ga-bi saŋ nam-il₂ gu₃-de₂-a dug₃-ga-am₃
+c.5.9.2,The heron and the turtle,,A20,{ŋeš}ildag₂ šita₃-na saŋ nam-il₂ nam-lugal-la dug₃-ga-am₃
+c.5.9.2,The heron and the turtle,,A21,pa mul-mul-la dumu lugal-la dug₃-ga-am₃
+c.5.9.2,The heron and the turtle,,A22,ud-bi-a zag ŋiš-gi-e ki-a tuš-e u₃-gul mu-na-ŋa₂-ŋa₂
+c.5.9.2,The heron and the turtle,,A23,igira₂{mušen} nunuz ga-bur₁₂ ga-de₆ ab-e
+c.5.9.2,The heron and the turtle,,A24,mušen-e lu₂ kadra-ke₄ kadra na-ak-e
+c.5.9.2,The heron and the turtle,,A25,igira₂{mušen} lu₂ kadra-ke₄ kadra na-ak-e
+c.5.9.2,The heron and the turtle,,A26,ku₆ im-dab₅ nunuz im-de₅-de₅-ge zag im-ma-ni-in-tag
+c.5.9.2,The heron and the turtle,,A27,u₂-lal₃-e suhur{ku₆}-e zag im-ma-ni-in-tag
+c.5.9.2,The heron and the turtle,,A28,eštub{ku₆}-e gi-zi di₄-di₄-la₂ zag im-ma-ni-in-tag
+c.5.9.2,The heron and the turtle,,A29,kiŋ₂-tur-e {u₂}li-gi₄-li-gi₄-a zag im-ma-ni-in-tag
+c.5.9.2,The heron and the turtle,,A30,agargara{ku₆}-e niŋ₂ zig₃-ga-ni zag-bar-ra zag im-ma-ni-in-tag
+c.5.9.2,The heron and the turtle,,A31,igira₂{mušen} nunuz nam-šum ab-ba na-gaz-gaz
+c.5.9.2,The heron and the turtle,,A32,mušen-e lu₂ kadra-ke₄ u₃-gul mu-un-na-ŋa₂-ŋa₂
+c.5.9.2,The heron and the turtle,,A33,igira₂{mušen} lugal {d}en-ki e₂-a ba-ši-in-kur₉ gu₃ mu-un-na-de₂-e
+c.5.9.2,The heron and the turtle,,A34,ki daŋal šum₂-ma-ab nunuz ki ha-ba-ni-in-tag
+c.5.9.2,The heron and the turtle,,A35,mu-na-da-ab-šum₂-mu
+c.5.9.2,The heron and the turtle,,A36,mu-na-ŋa₂-ŋa₂
+c.5.9.2,The heron and the turtle,,A37,ab-ba na-nam
+c.5.9.2,The heron and the turtle,,A38,gi mušen-na-ka
+c.5.9.2,The heron and the turtle,,A39,nunuz ki ba-ni-in-tag
+c.5.9.2,The heron and the turtle,,A40,ŋiš-gi daŋal tu-tu-ub-ba{ki}-ke₄ nunuz ki ba-ni-in-tag
+c.5.9.2,The heron and the turtle,,A41,ambar-ra kiri₈-tab{ki}-a-ke₄ nunuz ki ba-ni-in-tag
+c.5.9.2,The heron and the turtle,,A42,a-dar-ra akšak{ki}-a-ke₄ nunuz ki ba-ni-in-tag
+c.5.9.2,The heron and the turtle,,A43,sug zu₂ keše₂-da {d}en-ki-ka₃-ke₄ nunuz ki ba-ni-in-tag
+c.5.9.2,The heron and the turtle,,A44,sug ban₃-da sug eridug{ki}-ga-ke₄ nunuz ki ba-ni-in-tag
+c.5.9.2,The heron and the turtle,,A45,{gi}bar-bar {d}en-ki-ka₃-ke₄ nunuz ki ba-ni-in-tag
+c.5.9.2,The heron and the turtle,,A46,urim₂{ki}-ma gi-zi di₄-di₄-la₂ nunuz ki ba-ni-in-tag
+c.5.9.2,The heron and the turtle,,A47,urim₂{ki}-ma ab₂ lu amar lu-a re nunuz ki ba-ni-in-tag
+c.5.9.2,The heron and the turtle,,A48,ud-bi-a niŋ₂-bun₂-na lu₂ du₁₄ mu₂-a-ke₄ lu₂ har-ra-an gig-ga-ke₄
+c.5.9.2,The heron and the turtle,,A49,igira₂{mušen} igira₂{mušen}-da du₁₄ ga-nam mu-da-mu₂
+c.5.9.2,The heron and the turtle,,A50,niŋ₂-bun₂-na igira₂{mušen}-da du₁₄ ga-nam mu-da-mu₂
+c.5.9.2,The heron and the turtle,,A51,lu₂ igi-ni-ta igi muš-ke₄ du₁₄ ga-nam mu-da-mu₂
+c.5.9.2,The heron and the turtle,,A52,ka-ga₁₄-ni ka muš-a-ke₄ du₁₄ ga-nam mu-da-mu₂
+c.5.9.2,The heron and the turtle,,A53,eme-ni eme muš-a-ke₄ du₁₄ ga-nam mu-da-mu₂
+c.5.9.2,The heron and the turtle,,A54,gug-ni gug ur tur-ra-ke₄ du₁₄ ga-nam mu-da-mu₂
+c.5.9.2,The heron and the turtle,,A55,šu sal-sal-e me-ri sal-sal-e du₁₄ ga-nam mu-da-mu₂
+c.5.9.2,The heron and the turtle,,A56,niŋ₂-bun₂-na šeg₁₂ udun-na-ke₄ du₁₄ ga-nam mu-da-mu₂
+c.5.9.2,The heron and the turtle,,A57,šag₄ mu₂-sar-ra-ke₄ du₁₄ ga-nam mu-da-mu₂
+c.5.9.2,The heron and the turtle,,A58,{ŋeš}al-gin₇ im-ma ud zal-la re du₁₄ ga-nam mu-da-mu₂
+c.5.9.2,The heron and the turtle,,A59,{ŋeš}dusu sahar-ra nu-luh-ha-e du₁₄ ga-nam mu-da-mu₂
+c.5.9.2,The heron and the turtle,,A60,niŋ₂-bun₂-na lu₂-{ŋeš}har-mušen-na lu₂-dub₃-ŋar-ra-e
+c.5.9.2,The heron and the turtle,,A61,igira₂ gi du₃-a-ni mu-na-an-bu-bu
+c.5.9.2,The heron and the turtle,,A62,gud₃ us₂-sa-ni ba-ni-in-suh₃-suh₃
+c.5.9.2,The heron and the turtle,,A63,dumu-ni a-e ba-ni-in-ra
+c.5.9.2,The heron and the turtle,,A64,mušen-e lu₂ igi ku₁₀-ku₁₀-ga-ke₄
+c.5.9.2,The heron and the turtle,,A65,niŋ₂-bun₂-na saŋ-ki-ni umbin um-mi-in-la₂
+c.5.9.2,The heron and the turtle,,A66,uš₂-bi gaba-na im-mi-in-šu₂-šu₂
+c.5.9.2,The heron and the turtle,,A66A,sahar-e a šag₄
+c.5.9.2,The heron and the turtle,,A67,igira₂{mušen} er₂ im-ma-an-pad₃ šeₓ-šeₓ i₃-ŋa₂-ŋa₂
+c.5.9.2,The heron and the turtle,,A68,mušen-me-en gud₃ sug₄-ga-ŋu₁₀ u₃-um-DU
+c.5.9.2,The heron and the turtle,,A68A,igira₂{mušen}-me-en
+c.5.9.2,The heron and the turtle,,A68B,lugal-ŋu₁₀ di-ŋu₁₀ ga-ba-ed₃ ka
+c.5.9.2,The heron and the turtle,,A69,lugal-ŋu₁₀ di-ŋu₁₀ he₂-kud-de₃ ka-aš-ŋu₁₀ he₂-bar-re
+c.5.9.2,The heron and the turtle,,A70,{d}en-ki-ke₄ di-ŋu₁₀ he₂-kud-de₃ ka-aš-ŋu₁₀ he₂-bar-re
+c.5.9.2,The heron and the turtle,,A71,inim-inim-ma-ŋu₁₀ en eridug{ki}-ga-ke₄
+c.5.9.2,The heron and the turtle,,A72,₂-kam-ma-še₃ mušen lu₂ kadra kadra-a na-ak-e
+c.5.9.2,The heron and the turtle,,A73,igira₂{mušen}-e lu₂ kadra-ke₄ kadra-a na-ak-e
+c.5.9.2,The heron and the turtle,,A74,ku₆ im-dab₅ nunuz im-de₅-de₅-ge zag im-ma-ni-ib-tag
+c.5.9.2,The heron and the turtle,,A75,u₂-lal₃-e suhur{ku₆}-e u₂-lal₃-e zag im-ma-ni-ib-tag
+c.5.9.2,The heron and the turtle,,A76,eštub{ku₆}-e gi-zi di₄-di₄-la₂ zag im-ma-ni-ib-tag
+c.5.9.2,The heron and the turtle,,A77,kiŋ₂-tur-e {u₂}li-gi₄-li-gi₄ zag im-ma-ni-ib-tag
+c.5.9.2,The heron and the turtle,,A78,agargara{ku₆}-e niŋ₂ zig₃-ga-ni zag-bar-ra zag im-ma-ni-ib-tag
+c.5.9.2,The heron and the turtle,,A79,i₃-buru₃ ki-a saŋ an-še₃
+c.5.9.2,The heron and the turtle,,A80,lugal {d}en-ki-ra e₂-a ba-ši-in-kur₉ gu₃ mu-un-na-de₂-e
+c.5.9.2,The heron and the turtle,,A81,lugal-ŋu₁₀ ŋiš-gi daŋal mu-e-šum₂ nunuz ki ha-ba-ni-ib-tag
+c.5.9.2,The heron and the turtle,,A82,ŋiš-gi daŋal-e tu-tu-ub-ba-ke₄ nunuz ki ha-ba-ni-ib-tag
+c.5.9.2,The heron and the turtle,,A83,ambar-ra kiri₈-tab{ki}-a-ke₄ nunuz ki ha-ba-ni-ib-tag
+c.5.9.2,The heron and the turtle,,A84,a-dar-ra akšak{ki}-a-ke₄ nunuz ki ha-ba-ni-ib-tag
+c.5.9.2,The heron and the turtle,,A85,sug zu₂ keše₂-da {d}en-ki-ka₃-ke₄ nunuz ki ha-ba-ni-ib-tag
+c.5.9.2,The heron and the turtle,,A86,sug ban₃-da sug eridug{ki}-ga-ke₄ nunuz ki ha-ba-ni-ib-tag
+c.5.9.2,The heron and the turtle,,A87,{gi}bar-bar-a {d}en-ki-ka₃-ke₄ nunuz ki ha-ba-ni-ib-tag
+c.5.9.2,The heron and the turtle,,A88,urim₂{ki}-ma gi-zi di₄-di₄-la₂ nunuz ki ha-ba-ni-ib-tag
+c.5.9.2,The heron and the turtle,,A89,urim₂{ki}-ma ab₂ lu amar lu-a re nunuz ki ha-ba-ni-ib-tag
+c.5.9.2,The heron and the turtle,,A90,ud-bi-a niŋ₂-bun₂-na lu₂ du₁₄ mu₂-a-ke₄ lu₂ har-ra-an gig-ga-ke₄
+c.5.9.2,The heron and the turtle,,A91,lu₂ igi-ni-ta igi muš-a-ke₄ lu₂ har-ra-an gig-ga-ke₄
+c.5.9.2,The heron and the turtle,,A92,ka-ga₁₄-ni-ta ka muš-a-ke₄ lu₂ har-ra-an gig-ga-ke₄
+c.5.9.2,The heron and the turtle,,A93,eme-a-ni-ta eme muš-a-ke₄ lu₂ har-ra-an gig-ga-ke₄
+c.5.9.2,The heron and the turtle,,A94,gug-a-ni gug ur tur-ra-ke₄ lu₂ har-ra-an gig-ga-ke₄
+c.5.9.2,The heron and the turtle,,A95,šu sal-sal-la me-ri sal-sal-la lu₂ har-ra-an gig-ga-ke₄
+c.5.9.2,The heron and the turtle,,A96,niŋ₂-bun₂-na šeg₁₂ udun-na-ke₄ lu₂ har-ra-an gig-ga-ke₄
+c.5.9.2,The heron and the turtle,,A97,šag₄ mu₂-sar-ra-ke₄ lu₂ har-ra-an gig-ga-ke₄
+c.5.9.2,The heron and the turtle,,A98,{ŋeš}al-gin₇ im-ma ud zal-la re lu₂ har-ra-an gig-ga-ke₄
+c.5.9.2,The heron and the turtle,,A99,dusu sahar-ra nu-luh-ha-e lu₂ har-ra-an gig-ga-ke₄
+c.5.9.2,The heron and the turtle,,A100,niŋ₂-bun₂-na lu₂-{ŋeš}har-mušen-na lu₂-dub₃-ŋar-ra-e
+c.5.9.2,The heron and the turtle,,A101,igira₂{mušen} gi du₃-a-ŋu₁₀ ba-ni-in-bur₁₂-bur₁₂
+c.5.9.2,The heron and the turtle,,A102,gud₃ us₂-sa-a-ŋu₁₀ ba-ni-in-suh₃-suh₃
+c.5.9.2,The heron and the turtle,,A103,dumu-ŋu₁₀ a-e ba-ni-in-ra-ra
+c.5.9.2,The heron and the turtle,,A104,mušen-me-en lu₂ igi ku₁₀-ku₁₀-ga-ke₄
+c.5.9.2,The heron and the turtle,,A105,niŋ₂-bun₂-na saŋ-ki-ŋu₁₀ umbin bi₂-in-la₂
+c.5.9.2,The heron and the turtle,,A106,uš₂-ŋu₁₀ gaba-ŋa₂ a-e im-mi-in-šu₂-šu₂
+c.5.9.2,The heron and the turtle,,A107,nun-e sukkal {d}isimud-ra gu₃ mu-un-na-de₂-e
+c.5.9.2,The heron and the turtle,,A108,sukkal {d}isimud-ŋu₁₀ mu dug₃ an-na-ŋu₁₀
+c.5.9.2,The heron and the turtle,,A109,{d}en-ki-ra i₃-gub-be₂-en ud-ul a-ra-zu
+c.5.9.2,The heron and the turtle,,A110,zi-pa-tum a₂ gabu₂-ba u₃-bi₂-in-sur-ra
+c.5.9.2,The heron and the turtle,,A111,pisaŋ zabar-ra u₃-bi₂-in-dim₂
+c.5.9.2,The heron and the turtle,,A112,gi šu-a ak gu-a am₃-ši-šu₂
+c.5.9.2,The heron and the turtle,,A113,u₃-mu-e-ši-la₂
+c.5.9.2,The heron and the turtle,,A114,saŋ gu-še₃ gu u₃-mu-e-ši-la₂
+c.5.9.2,The heron and the turtle,,A115,de₅-ga niŋ₂-silaŋ-ŋa₂-ka u₃-mu-e-kal
+c.5.9.2,The heron and the turtle,,A116,ušur bar-ra a u₃-mu-e-de₆
+c.5.9.2,The heron and the turtle,,A117,sug zu₂ keše₂-da {d}en-ki-ka₃-ke₄ u₃-mu-e-ŋar
+c.5.9.2,The heron and the turtle,,A118,ud-bi-a niŋ₂ šu-gur-ra ha-ba-tuš-e
+c.5.9.2,The heron and the turtle,,A120,
+c.5.9.2,The heron and the turtle,,A121,{d}isimud-de₃ ŋizzal ba-ši-in-ak
+c.5.9.2,The heron and the turtle,,A122,zi-pa-tum a₂ gabu₂-ba u₃-bi₂-in-sur-ra
+c.5.9.2,The heron and the turtle,,A123,pisaŋ zabar-ra u₃-bi₂-in-dim₂
+c.5.9.2,The heron and the turtle,,A124,gi šu-a u₃-bi₂-in-šu₂
+c.5.9.2,The heron and the turtle,,A125,saŋ gu-še₃ gu um-ši-la₂
+c.5.9.2,The heron and the turtle,,A126,de₅-ga niŋ₂-silaŋ-ŋa₂ im-mi-in-kal
+c.5.9.2,The heron and the turtle,,A127,ušur bar-ra a um-mi-in-de₆
+c.5.9.2,The heron and the turtle,,A128,sug zu₂ keše₂-da {d}en-ki-ka₃-ke₄ a im-mi-in-ra
+c.5.9.2,The heron and the turtle,,A129,ud-bi-a niŋ₂ ŋe₂₆-e nun-e im-ma-gub-gub-be₂-en
+c.5.9.2,The heron and the turtle,,A130,niŋ₂-bun₂-na nun-ra gu₃ mu-na-de₂-e
+c.5.9.2,The heron and the turtle,,A131,nun he₂-me-en e-ne
+c.5.9.2,The heron and the turtle,,A132,izi-ta gur-ra
+c.5.9.2,The heron and the turtle,,A133,diŋir nu-me-en
+c.5.9.2,The heron and the turtle,,A134,
+c.5.9.2,The heron and the turtle,,A135,lugal {d}en-ki
+c.5.9.2,The heron and the turtle,,A136,nun he₂-me-en e-ne
+c.5.9.2,The heron and the turtle,,A137,šag₄-ŋu₁₀
+c.5.9.2,The heron and the turtle,,A138,nun he₂-me-en inim-zu e-ne
+c.5.9.2,The heron and the turtle,,A139,tur-ra-ŋu₁₀ e₂-ŋar₈ im-ma-gul
+c.5.9.2,The heron and the turtle,,A140,nun he₂-me-en bar-zu a-na bi₂-dug₄
+c.5.9.2,The heron and the turtle,,A141,šu lu₂ i₃-me-en nam
+c.5.9.2,The heron and the turtle,,A142,šeg₁₂
+c.5.9.2,The heron and the turtle,,A159,gu-zu ₁-am₃
+c.5.9.2,The heron and the turtle,,A160,gud du₇-ra
+c.5.9.2,The heron and the turtle,,A161,₁-am₃ šen mah
+c.5.9.2,The heron and the turtle,,A162,an ur-saŋ an en a₂-še im-keše₂-e
+c.5.9.2,The heron and the turtle,,A163,numun-zu ₁-am₃
+c.5.9.2,The heron and the turtle,,A164,ŋiš mah
+c.5.9.2,The heron and the turtle,,A165,urud niŋ₂ kalag-ga-ŋu₁₀
+c.5.9.2,The heron and the turtle,,A166,a dug₃-ga ad-da
+c.5.9.2,The heron and the turtle,,A167,ud-bi-a u₆-nir-ra igi-ni
+c.5.9.2,The heron and the turtle,,A168,lugal {d}en-ki-ke₄ u₆-nir-ra ga-na mu-un-ŋal₂
+c.5.9.2,The heron and the turtle,,A169,šeg₁₂ u₆-nir gal-e abzu-ke₄ igi-ni
+c.5.9.2,The heron and the turtle,,A170,šeg₁₂ abzu an-ta bar-ra
+c.5.9.2,The heron and the turtle,,A171,umbin-si-ni mu-dur₇ ba-ra-an-de₆ dim₃-gi₄-še₃ ba-an-du₃
+c.5.9.2,The heron and the turtle,,A172,dim₃-gi₄ ki-a im-ma-ni-in-si-ir
+c.5.9.2,The heron and the turtle,,A173,gu-zu ki ba-ni-in-e₃
+c.5.9.2,The heron and the turtle,,A174,tur-tur-bi a šu-ta bi₂-in-de₂
+c.5.9.2,The heron and the turtle,,A175,gal-gal-bi a ŋiri₃-ta bi₂-in-de₂
+c.5.9.2,The heron and the turtle,,A176,gu ba-buluŋ₃ gu ba-sukuₓ-ra₂-ta
+c.5.9.2,The heron and the turtle,,A177,im-mi-in-e-keše₂-da-ta
+c.5.9.2,The heron and the turtle,,A178,
+c.5.9.2,The heron and the turtle,,A185,lugal-e
+c.5.9.2,The heron and the turtle,,A186,
+c.5.9.2,The heron and the turtle,,A188,X-in-ak
+c.5.9.2,The heron and the turtle,,A189,kal-e
+c.5.9.2,The heron and the turtle,,A190,ab-šen-šen-e X-gi₄-gi₄-NE
+c.5.9.2,The heron and the turtle,,A191,mu-un-na-ab-dab₅-ba-ne
+c.5.9.2,The heron and the turtle,,A192,mu-un-na-ab-KA-e-ne
+c.5.9.2,The heron and the turtle,,A193,edin-na mu-un-ši-ib-ru-gu₂-ne
+c.5.9.2,The heron and the turtle,,A194,ŋiš mu-un-ši-ib-la₂-e-ne
+c.5.9.2,The heron and the turtle,,A195,sa-par₄ im-ma-an-sal-e-ne
+c.5.9.2,The heron and the turtle,,A196,nu-un-dab₅ sa-par₄ im-ma-da-dab₅
+c.5.9.2,The heron and the turtle,,A197,nu-un-dab₅ sa-par₄ im-ma-an-barag₂
+c.5.9.2,The heron and the turtle,,A198,nam-tag dili-dili-bi si mu-na-ab-sa₂-a
+c.5.9.2,The heron and the turtle,,A199,bi₂-in-ra
+c.5.9.2,The heron and the turtle,,A200,bi₂-in-ra
+c.5.9.2,The heron and the turtle,,A201,
+c.5.9.2,The heron and the turtle,,A202,
+c.5.9.2,The heron and the turtle,,A203,{d}en-ki-ka₃-ka
+c.5.9.2,The heron and the turtle,,A204,mu-ni-ib₂-tar-re
+c.5.9.2,The heron and the turtle,,A205,he₂-me-en
+c.5.9.2,The heron and the turtle,,A206,he₂-me-en
+c.5.9.2,The heron and the turtle,,A207,he₂-me-en
+c.5.9.2,The heron and the turtle,,A208,he₂-me-en
+c.5.9.2,The heron and the turtle,,B1,dab₅
+c.5.9.2,The heron and the turtle,,B2,X-ši-ib-la₂
+c.5.9.2,The heron and the turtle,,B3,{d}en-ki-ka₃-ke₄
+c.5.9.2,The heron and the turtle,,B4,nu-um-dab₅ sa-par₄
+c.5.9.2,The heron and the turtle,,B5,niŋ₂-bun₂-na niŋ₂ nun-e
+c.5.9.2,The heron and the turtle,,B6,{d}en-ki-ke₄ niŋ₂ umbin-na nam si mu-na-ab-sa₂
+c.5.9.2,The heron and the turtle,,B7,šag₄-ga-ni ₅-am₃
+c.5.9.2,The heron and the turtle,,B8,bar-ra-ni ₁₀-am₃
+c.5.9.2,The heron and the turtle,,B9,ki-in-dar

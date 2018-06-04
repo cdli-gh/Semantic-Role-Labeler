@@ -1,0 +1,63 @@
+id_text,text_name,version,l_no,text
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,1,{lu₂}ki-sikil kun-sig₃ mul-mul-la sig₇ sag₉-ga-am₃
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,2,{d}inana kun-sig₃ mul-mul-la sig₇ sag₉-ga-am₃
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,3,{lu₂}ki-sikil kun-sig₃ tarah lu-lim lu-lim-ma
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,4,{d}inana kun-sig₃ tarah lu-lim lu-lim-e
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,5,{lu₂}ki-sikil še-zar-maš-gin₇ gun₃-a lugal-ra tum₂-ma
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,6,{d}inana še-zar-maš-gin₇ gun₃-a {d}dumu-zid-ra tum₂-ma
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,7,{lu₂}ki-sikil še-zar gu₂-nida-a hi-li šu gi₄-a-ŋen
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,8,{d}inana še-zar gu₂-nida-a hi-li šu gi₄-a-ŋen
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,9,nin-ŋen nin-ŋen hi-li gur₃-ru-ŋen
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,10,me-e ki-sikil-ŋen nin-ŋen hi-li gur₃-ru-ŋen
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,11,nin a an-ne₂ ru-a-ŋen hi-li gur₃-ru-ŋen
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,12,u₅ ze₂-ba u₅ ze₂-ba ir-si-im ze₂-ba-ŋen
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,13,ma₂ he₂-em-ši-ib-us₂-e
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,14,ma₂ he₂-em-ši-ib-us₂-e
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,15,nin-ŋen e₂ en-ni-a mu-un-da-an-di-di-in
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,16,{d}inana-ŋen mu-un-da-an-di-di-in
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,17,mu-un-da-an-di-di-in
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,18,{e₂}pa-pah mu-un-da-an-di-di-in
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,19,e₂-e kab-dug₄-ga mu-un-da-an-di-di-in
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,20,mu-ti-in-e ga-ŋu₁₀ ga-ga-ŋu₁₀ di-di du₅-mu-u₅-zu
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,21,{d}ama-ušum-ŋu₁₀ ga-ŋu₁₀ ga-ga-ŋu₁₀ di-di du₅-mu-u₅-zu
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,22,{d}ama-ušumgal-an-na ga-ŋu₁₀ ga-ga-ŋu₁₀ di-di du₅-mu-u₅-zu
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,23,{u₂}numun₂-še₃ ga-ŋu₁₀ ga-ŋu₁₀-še₃ ga-ŋu₁₀ di-di du₅-mu-u₅-zu
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,24,{ŋeš}asal₂ ki sed₅-še₃ ga-ŋu₁₀ di-di du₅-mu-u₅-zu
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,25,{u₂}in-uš u₂ sikil-še₃ ga-ŋu₁₀ di-di du₅-mu-u₅-zu
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,26,{u₂}rib-ba ki halba₂-še₃ ga-ŋu₁₀ di-di du₅-mu-u₅-zu
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,27,amaš kug-ga amaš mu-ti-in-na-ŋa₂-še₃ di-di du₅-mu-u₅-zu
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,28,amaš kug-ge amaš {d}dumu-zid-ŋa₂-še₃ di-di du₅-mu-u₅-zu
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,29,sa-gid₂-da-am₃
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),A,30,mu-ru-bi a dug₄ aŋ₂ de₃-en-dug₄
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),B,1,aŋ₂ tur-re
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),B,2,aŋ₂ tur-re
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),B,3,šu aŋ₂ mah-e
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),B,4,šu aŋ₂ tur-re
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),B,5,niŋ₂-šu aŋ₂ ir-ir-ŋu₁₀ aŋ₂
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),B,6,udu aŋ₂ gu₇-gu₇-ŋu₁₀ u₂
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),B,7,mu-nu₁₀-de₃ tur₃ ki nu-mu-un-pad₃-de₃
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),B,8,sipad-de₃ amaš ki nu-mu-un-pad₃-de₃
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),B,9,u₅ gur₃-ru-ŋu₁₀ u₅ nu-un-gur₃-ru
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),B,10,gur₃-ru-ŋu₁₀ ga nu-un-gur₃-ru
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),B,11,hul-ŋal₂-e
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),B,12,
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),B,13,
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),C,1,
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),C,2,en-e ga ma-ar mu-un-lu gu₂
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),C,3,{d}dumu-zid-de₃ u₅ ma-ar mu-un-lu gu₂
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),C,4,u₅ gur₃-ru-ni u₅ mu-un-lu
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),C,5,ga gur₃-ru-ni ga mu-un-lu
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),C,6,ga u₅ gur₃-ru-ni e₂-a nu-mu-ni-in-kur₉
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),C,7,in-nin₉-e i₃ li saŋ he₂-em-me-eb-šeš₂-e
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),C,8,mu-tin-na ga-ŋu₁₀ ga-ga-ŋu₁₀ di-di du₅-mu-u₅-zu
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),C,9,{d}ama-ušum-ŋu₁₀ ga-ŋu₁₀ ga-ga-ŋu₁₀ di-di du₅-mu-u₅-zu
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),C,10,{d}ama-ušumgal-an-na ga-ŋu₁₀ ga-ga-ŋu₁₀ di-di du₅-mu-u₅-zu
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),C,11,{u₂}numun₂-še₃ ga-ŋu₁₀ ga-ŋu₁₀ di-di du₅-mu-u₅-zu
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),C,12,{ŋeš}asal₂-e ki sed-de₃ ga-ŋu₁₀ di-di du₅-mu-u₅-zu
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),C,13,{u₂}rib-ba ki hal-bi-še₃ ga-ŋu₁₀ di-di du₅-mu-u₅-zu
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),C,14,{u₂}in-nu-uš u₂ sikil-še₃ ga-ŋu₁₀ du₅-mu-u₅-zu
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),C,15,amaš kug-ge amaš mu-ud-na-ŋa₂-še₃ di-di du₅-mu-u₅-zu
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),C,16,amaš kug-ge amaš {d}dumu-zid-ŋa₂-še₃ di-di du₅-mu-u₅-zu
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),C,17,nu-u₈-gig-ge
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),C,18,su₈-ba {d}dumu-zid
+c.4.08.18,A song of Inana and Dumuzid (Dumuzid-Inana R),C,19,šir₃

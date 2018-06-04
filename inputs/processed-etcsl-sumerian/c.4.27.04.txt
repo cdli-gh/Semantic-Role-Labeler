@@ -1,0 +1,25 @@
+id_text,text_name,version,l_no,text
+c.4.27.04,A tigi to Ninurta (Ninurta D),,1,ŋiš ga-šub-šub tir ga-sag₃-sag₃ ama-ŋu₁₀ hu-mu-da-an-zu
+c.4.27.04,A tigi to Ninurta (Ninurta D),,2,{d}nin-urta-me-en ŋiš ga-šub-šub tir ga-sag₃-sag₃ ama-ŋu₁₀ hu-mu-da-an-zu
+c.4.27.04,A tigi to Ninurta (Ninurta D),,3,{urud}tun₃ gu₂-gur₅-ru ga-am₃-dug₄ ama-ŋu₁₀ hu-mu-da-an-zu
+c.4.27.04,A tigi to Ninurta (Ninurta D),,4,{urud}tun₃ gal-gin₇ bad₃ ga-šub-šub ama-ŋu₁₀ hu-mu-da-an-zu
+c.4.27.04,A tigi to Ninurta (Ninurta D),,5,ŋiri₃ niŋin₂-a-gin₇ erin₂-bi ga-dub₂-dub₂ ama-ŋu₁₀ hu-mu-da-an-zu
+c.4.27.04,A tigi to Ninurta (Ninurta D),,6,ud-de₃ ma₂-uru₅-gin₇ teš₂ ga-am₃-gu₇ ama-ŋu₁₀ hu-mu-da-an-zu
+c.4.27.04,A tigi to Ninurta (Ninurta D),,7,ur-saŋ me₃ sumur-ra saŋ mu-un-dub₂-dub₂-be₂
+c.4.27.04,A tigi to Ninurta (Ninurta D),,8,en-e ki-bal nu-še-ga nam im-ma-kud-de₃
+c.4.27.04,A tigi to Ninurta (Ninurta D),,9,{ŋeš}gud-si-AŠ uš₁₁-zu ga-mu-ni-gur₈
+c.4.27.04,A tigi to Ninurta (Ninurta D),,10,abula-zu ŋiš u₃-bi₂-tar sa₂ ga-am₃-dug₄
+c.4.27.04,A tigi to Ninurta (Ninurta D),,11,an-za-gar₃-zu {kuš}gur₂₁ u₃-bi₂-la₂ sahar-re-eš ga-mu-dub-dub
+c.4.27.04,A tigi to Ninurta (Ninurta D),,12,iri {d}en-lil₂-le nam ku₅-ra₂-gin₇
+c.4.27.04,A tigi to Ninurta (Ninurta D),,13,iri {d}nin-urta hul-a-gin₇ du₆-du₆-da
+c.4.27.04,A tigi to Ninurta (Ninurta D),,14,sa-gid₂-da-am₃
+c.4.27.04,A tigi to Ninurta (Ninurta D),,15,e lugal a₂ šum₂-ma {d}en-lil₂-la₂ kur šu-še₃ ŋar-u₃
+c.4.27.04,A tigi to Ninurta (Ninurta D),,16,en {d}nin-urta a₂ šum₂-ma {d}en-lil₂-la₂ kur šu-še₃ ŋar-u₃
+c.4.27.04,A tigi to Ninurta (Ninurta D),,17,en pa₅-šeš an-na a₂ šum₂-ma {d}en-lil₂-la₂ kur šu-še₃ ŋar-u₃
+c.4.27.04,A tigi to Ninurta (Ninurta D),,18,en {d}nin-urta
+c.4.27.04,A tigi to Ninurta (Ninurta D),,29,ki-sikil {d}nin-nibru{ki} nin
+c.4.27.04,A tigi to Ninurta (Ninurta D),,30,en {d}nin-urta lugal-ŋu₁₀
+c.4.27.04,A tigi to Ninurta (Ninurta D),,31,{d}ig-alim-ma lugal-ŋu₁₀
+c.4.27.04,A tigi to Ninurta (Ninurta D),,32,{d}šul-šag₄-ga-na lugal-ŋu₁₀
+c.4.27.04,A tigi to Ninurta (Ninurta D),,33,sa-ŋar-ra-am₃ šu-ta e-ne di-dam
+c.4.27.04,A tigi to Ninurta (Ninurta D),,34,tigi {d}nin-urta-ka-kam

@@ -1,0 +1,28 @@
+id_text,text_name,version,l_no,text
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,A2,u₃-na-a-dug₄
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,A3,ad gi₄-gi₄ en₃ tar-tar
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,A4,diŋir me ba-a inim dug₃-dug₃ u₃-luh gi-rin saŋ-ŋa₂
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,A5,diŋir gada la₂ abzu saŋŋa gal ba-an-gi₄ sag₉ dug₄-ga-ni saŋ-ba du
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,A6,igi tarah abzu uru₁₇-bi en ŋeštug₂ daŋal til-la-ni
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,A7,lagar₃ ad-hal an-na zu-a diŋir na-me nu-mu-e-da-sa₂
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,A8,en {d}lamma-{d}lamma igi dug₃ gal nir gub-bu
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,A9,nidba šum₂ {d}a-nun-na diŋir gal-gal-e-ne
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,A10,na de₅ e₃ utah-ha-ke₄ kug {d}inana-ra tum₂-ma
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,A11,e-ne-da nu nam-en nam-lugal-la {ŋeš}ŋidru mah la-ba-an-šum₂
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,A12,{d}nin-šubur diŋir šag₄-la₂ sug₄ šudu₃ a-ra-zu ŋiš tuku u₃-ne-de₃-tah
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,A13,{m}kug-{d}nanna šim-mu₂ dumu lugal-ka-gen₆-na arad-zu na-be₂-a
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,A14,šu-gi₄ nu-silim-me-en ŋiš-šu dab₅-be
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,A15,
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,B1,
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,B2,gul-gin₇ mu-ni-ib₂-gul-gul-e
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,B3,nam-uš₂ kur₂-ra igi tur-ŋu₁₀ ba-an-du₃ ak-ŋu₁₀ in nam-ma-ŋa₂-ŋa₂
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,B4,gu₅-li-ŋu₁₀ e-sir₂-ra ka nu-mu-un-ba gu₂ ki-še₃ bi₂-in-ŋar
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,B5,tukum-bi diŋir-ŋu₁₀-ra an-na-kam
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,B6,šag₄ ib₂-ba-zu ga-ab-huŋ-e ur₅-zu he₂-bur₂-e
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,B7,maškim hul ŋa₂-ŋa₂-da he₂-eb₂-si-il su-ŋa₂ he₂-da-ab-dal
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,B8,a₂-sag₃ ŋiš-ge-en-gen₆-na-ŋu₁₀ he₂-eb₂-zi-zi ud ku₁₀-ku₁₀-ŋu₁₀ he₂-NE-en-zalag
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,B9,nir dugud-da-zu nu-mu-da-il₂ ab-gul dug₄-ga-ab
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,B10,arad sun₅-na-me nam-mu-til-e-de₃ ab-gul dug₄-ga-ab
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,B11,ga-gin₇ za-ra-ta nam-gur₄-zu
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,B12,ki-ŋu₁₀-še₃
+c.3.3.39,Letter from Kug-Nanna to the god Ninšubur,,B13,

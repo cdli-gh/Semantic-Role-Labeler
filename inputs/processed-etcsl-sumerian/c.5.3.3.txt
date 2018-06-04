@@ -1,0 +1,296 @@
+id_text,text_name,version,l_no,text
+c.5.3.3,The debate between Winter and Summer,,1,an-ne₂ nam-nir-ra saŋ mi-ni-in-il₂ ud dug₃ am₃-mi-e₃
+c.5.3.3,The debate between Winter and Summer,,2,ŋiš-hur ba-an-sig₁₀ uŋ₃-e daŋal bi₂-in-tag
+c.5.3.3,The debate between Winter and Summer,,3,{d}en-lil₂-le ki-a gud gal-gin₇ ŋiri₃-ni nam-mi-in-gub
+c.5.3.3,The debate between Winter and Summer,,4,ud dug₃ nam-he₂-a buluŋ₃-e-de₃
+c.5.3.3,The debate between Winter and Summer,,5,ŋi₆ giri₁₇-zal-e pa e₃ ak-de₃
+c.5.3.3,The debate between Winter and Summer,,6,gu mu₂-mu₂-de₃ še daŋal-e-de₃
+c.5.3.3,The debate between Winter and Summer,,7,a-eštub{ku₆} kar-ra gen₆-ne₂-de₃
+c.5.3.3,The debate between Winter and Summer,,8,nam-he₂-a ud sud₄-su₁₃-ru-de₃
+c.5.3.3,The debate between Winter and Summer,,9,e₂-me-eš an-na niŋ₂-keše₂ ak-de₃
+c.5.3.3,The debate between Winter and Summer,,10,en-te-en a he₂-ŋal₂-la kar-ra gen₆-ne₂-de₃
+c.5.3.3,The debate between Winter and Summer,,11,{d}en-lil₂ lugal kur-kur-ra-ke₄ ŋeštug₂-ga-ni na-an-gub
+c.5.3.3,The debate between Winter and Summer,,12,hur-saŋ gal-gal-la ŋiš₃ bi₂-in-dug₄ kur-re ha-la ba-an-šum₂
+c.5.3.3,The debate between Winter and Summer,,13,e₂-me-eš en-te-en he₂-ŋal₂ zi kalam-ma šag₄-ga mu-ni-in-ri
+c.5.3.3,The debate between Winter and Summer,,14,{d}en-lil₂-le ki ŋiš₃ dug₄-ga-ni am-gin₇ mur im-ša₄
+c.5.3.3,The debate between Winter and Summer,,15,hur-saŋ-e ud ki-bi-še₃ nam-zal ŋi₆ haš₄ nam-mi-ib-dug₄
+c.5.3.3,The debate between Winter and Summer,,16,e₂-me-eš en-te-en i₃-he-nun-na-gin₇ šu nam-ta-ab-us₂
+c.5.3.3,The debate between Winter and Summer,,17,am gal-gin₇ temen-na hur-saŋ-ŋa₂-ka u₂ sikil mu-un-gu₇-e
+c.5.3.3,The debate between Winter and Summer,,18,šag₄-tum₂-šag₄-tum₂ hur-saŋ-ŋa₂-ka gu₂ mu-un-peš-peš-e
+c.5.3.3,The debate between Winter and Summer,,19,{d}en-lil₂-le e₂-me-eš en-te-en-bi-da nam am₃-mi-ib₂-tar-re
+c.5.3.3,The debate between Winter and Summer,,20,e₂-me-eš-ra iri a₂-dam ki ŋa₂-ŋa₂
+c.5.3.3,The debate between Winter and Summer,,21,kur gal {d}en-lil₂-ra buru₁₄ he₂-ŋal₂-la ku₄-ku₄
+c.5.3.3,The debate between Winter and Summer,,22,a-gar₃ gal-gal-e kiŋ₂-gi₄-a-aš gi₄-gi₄ gud-de₃ gana₂ ŋa₂-ŋa₂
+c.5.3.3,The debate between Winter and Summer,,23,en-te-en-ra he₂-ŋal₂ a-eštub nam-he₂ zi kalam-ma
+c.5.3.3,The debate between Winter and Summer,,24,gan₂-ne₂ gana₂ zid-de₃ še ŋa₂-ŋa₂ niŋ₂-nam ŋar-ŋar-re
+c.5.3.3,The debate between Winter and Summer,,25,{d}en-lil₂-le e₂-me-eš en-te-en-bi-da nam-še₃ im-mi-in-tar
+c.5.3.3,The debate between Winter and Summer,,26,en-te-en-e gaba hur-saŋ-ŋa₂-ta
+c.5.3.3,The debate between Winter and Summer,,27,a-eštub{ku₆} nam-he₂ zi kalam-ma šu-še₃ im-ma-ab-la₂
+c.5.3.3,The debate between Winter and Summer,,28,{id₂}idigna {id₂}buranuna-bi-da gud gal-gin₇ ŋiri₃-bi nam-mi-in-gub
+c.5.3.3,The debate between Winter and Summer,,29,gan₂-ne₂ gana₂ zid-de₃ {d}en-lil₂-la₂-ka šu ba-ni-in-ba-ba
+c.5.3.3,The debate between Winter and Summer,,30,a-ab-ba-ka ambar ba-ni-ib₂-dim₂-dim₂
+c.5.3.3,The debate between Winter and Summer,,31,ab-ba ku₆ mušen ni₂-ba mu-un-u₃-tud
+c.5.3.3,The debate between Winter and Summer,,32,ŋiš-gi ki-šar₂-ba gi sumun gi henbur₂ gi ba-ni-ib₂-gur-gur
+c.5.3.3,The debate between Winter and Summer,,33,e₂-me-eš dumu ur-saŋ {d}en-lil₂-la₂-ke₄
+c.5.3.3,The debate between Winter and Summer,,34,a-gar₃ gal-gal-ta a nam-ta-an-ŋar
+c.5.3.3,The debate between Winter and Summer,,35,gan₂-ne₂ gana₂ zid-de₃ a sed₄
+c.5.3.3,The debate between Winter and Summer,,36,gana₂ lu₂ bal-a šu mu-un-ak-da
+c.5.3.3,The debate between Winter and Summer,,37,mu ge-en-ge-en-bi-še₃ nam-tu₁₁
+c.5.3.3,The debate between Winter and Summer,,38,X-ib₂-du₇
+c.5.3.3,The debate between Winter and Summer,,39,X-in-gi
+c.5.3.3,The debate between Winter and Summer,,40,nam-mi-in-lu-X
+c.5.3.3,The debate between Winter and Summer,,41,numun kal nam-ta-ŋar
+c.5.3.3,The debate between Winter and Summer,,42,
+c.5.3.3,The debate between Winter and Summer,,44,
+c.5.3.3,The debate between Winter and Summer,,45,en-te-en kug
+c.5.3.3,The debate between Winter and Summer,,46,gud-de₃ {ŋeš}šudul-a saŋ
+c.5.3.3,The debate between Winter and Summer,,47,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ gana₂ zid
+c.5.3.3,The debate between Winter and Summer,,48,a-gar₃ gal-gal še
+c.5.3.3,The debate between Winter and Summer,,49,gan₂-ne₂ gana₂ zid {d}en-lil₂-la₂-ka niŋ₂ mu-ni-in-ŋar-ŋar
+c.5.3.3,The debate between Winter and Summer,,50,en-te-en-e u₈-e sila₄ bi₂-in-tu-ud ud₅-de₃ maš₂ ba-an-šum₂
+c.5.3.3,The debate between Winter and Summer,,51,ab₂ amar-bi-ta im-da-an-lu-lu i₃ ga mu-un-ŋar-ŋar
+c.5.3.3,The debate between Winter and Summer,,52,an-edin-na šeg₉-bar lu-lim-e šag₄ ba-ni-in-hul₂-hul₂
+c.5.3.3,The debate between Winter and Summer,,53,mušen an-na-ke₄ ki daŋal-la gud₃ ba-ni-in-u₂-us₂
+c.5.3.3,The debate between Winter and Summer,,54,ku₆ ambar-ra-ke₄ ŋiš-gi-a nunuz mu-ni-ib₂-nu₂-nu₂
+c.5.3.3,The debate between Winter and Summer,,55,pu₂-{ŋeš}kiri₆-pu₂-{ŋeš}kiri₆-a lal₃ ŋeštin ki ba-ni-in-tag-tag
+c.5.3.3,The debate between Winter and Summer,,56,ŋiš ki mu₂-a gurun bi₂-in-il₂
+c.5.3.3,The debate between Winter and Summer,,57,sar-sar-re gu im-mi-in-tag-tag nisig mu-un-ŋar-ŋar
+c.5.3.3,The debate between Winter and Summer,,58,še ab-sin₂-na gu₂ ba-ni-in-peš
+c.5.3.3,The debate between Winter and Summer,,59,{d}ezina₂-e ki-sikil sag₉-ga-gin₇ ni₂ pa e₃ bi₂-in-ak
+c.5.3.3,The debate between Winter and Summer,,60,buru₁₄ ezen gal {d}en-lil₂-la₂-ke₄ saŋ an-še₃ nam-mi-il₂
+c.5.3.3,The debate between Winter and Summer,,61,e₂-me-eš-e e₂ e₂-duru₅ ki bi₂-in-ŋar tur₃ amaš mu-un-daŋal-daŋal
+c.5.3.3,The debate between Winter and Summer,,62,a-gar₃ gal-gal-e hi-li mi-ni-in-šar₂-šar₂
+c.5.3.3,The debate between Winter and Summer,,63,gaba-ba gada gu₂-na ki ba-ni-in-tag-tag
+c.5.3.3,The debate between Winter and Summer,,64,buru₁₄ he₂-ŋal₂-la e₂-a mu-ni-in-kur₉ guru₇ gu₂ bi₂-in-gur-gur
+c.5.3.3,The debate between Winter and Summer,,65,iri a₂-dam ki-a bi₂-in-ŋar-ŋar e₂ kalam-ma mu-un-du₃
+c.5.3.3,The debate between Winter and Summer,,66,e₂ diŋir-re-e-ne hur-saŋ-gin₇ ki sikil-la bi₂-in-mu₂
+c.5.3.3,The debate between Winter and Summer,,67,e₂-nam-til₃-la ki-tuš kug nam-lugal-la barag mah-a tum₂-ma
+c.5.3.3,The debate between Winter and Summer,,68,kur gal {d}en-lil₂-ra nam-he₂-a ki mu-na-ni-in-us₂
+c.5.3.3,The debate between Winter and Summer,,69,e₂-me-eš dumu ur-saŋ {d}en-lil₂-la₂-ke₄
+c.5.3.3,The debate between Winter and Summer,,70,e₂-nam-til₃-la e₂ {d}en-lil₂-la₂-še₃ nidba na-gid₂-i
+c.5.3.3,The debate between Winter and Summer,,71,maš₂-anše gud udu hur-saŋ-ŋa₂
+c.5.3.3,The debate between Winter and Summer,,72,šeg₉ šeg₉-bar lulim šag₄-gan
+c.5.3.3,The debate between Winter and Summer,,73,{udu}bar-sal {udu}a-lum niga {udu}gukkal-ib₂-la₂-e
+c.5.3.3,The debate between Winter and Summer,,74,šah₂ šag₄ ŋiš-gi-a gu₂ peš-a ze₂-da uh ba-al-gi₄
+c.5.3.3,The debate between Winter and Summer,,75,mušen gud₃-ba nam-a-a ak nunuz-bi-da dab₅-ba
+c.5.3.3,The debate between Winter and Summer,,76,niŋ₂ buru₁₄ zid₂ munu₄ hi-hi-a i₃ ga tur₃ amaš-a
+c.5.3.3,The debate between Winter and Summer,,77,gib gu₂-nida gu₂ tur gu₂ gal-bi gi-gur dub-e dab₅-ba
+c.5.3.3,The debate between Winter and Summer,,78,šum₂-sikil{sar} ab-sin₂-ba dur dab₅-ba za-ha-din{sar} šum₂-sikil-lum{sar}
+c.5.3.3,The debate between Winter and Summer,,79,numun lu-ub₂{sar} za₃-hi-li-a{sar} dim-gi₄{sar} X{sar}
+c.5.3.3,The debate between Winter and Summer,,88,e₂-me-eš dumu ur-saŋ {d}en-lil₂-la₂-ke₄ ŋiš im-ma-ni-in-tag-tag
+c.5.3.3,The debate between Winter and Summer,,89,en-te-en dumu nir-ŋal₂ {d}en-lil₂-la₂-ke₄ šu dadag-e
+c.5.3.3,The debate between Winter and Summer,,90,a nam-til₃-la-ke₄ taka₄ bi₂-in-la₂-la₂ ŋal₂ im-taka₄
+c.5.3.3,The debate between Winter and Summer,,91,gud bi₂-in-gur-gur gud bi₂-in-sig₁₀-sig₁₀
+c.5.3.3,The debate between Winter and Summer,,92,udu a-da-min₃ ŋar-ra niga bar-ba ŋiri₂-tab-ba
+c.5.3.3,The debate between Winter and Summer,,93,{na₄}du₈-ši-a kug-sig₁₇ kug-babbar {kuš}lu-ub₂/{kuš}lu-ub₂-šir-e pad₃-da
+c.5.3.3,The debate between Winter and Summer,,94,{ŋeš}erin {ŋeš}šu-ur₂-men₅ {ŋeš}taškarin gid₂-da
+c.5.3.3,The debate between Winter and Summer,,95,na₄ bi₂-ib-te gu₂-un kalam-ma
+c.5.3.3,The debate between Winter and Summer,,96,{ŋeš}peš₃ ma₂-ri₂ pa še-er-gu
+c.5.3.3,The debate between Winter and Summer,,97,a sed₄ gu₂-un hur-saŋ-ŋa₂
+c.5.3.3,The debate between Winter and Summer,,98,lal₃ hab₂-hab₂ {kaš}dida a₂-dam
+c.5.3.3,The debate between Winter and Summer,,99,bibra{mušen} e-sig{mušen} šu-ur₃-ra{mušen} bibad{mušen} niga
+c.5.3.3,The debate between Winter and Summer,,100,suhur{ku₆} en-te-en-e buluŋ₃-ŋa₂
+c.5.3.3,The debate between Winter and Summer,,101,{ŋeš}nu-ur₂-ma gal pu₂-ta šu su-ub-ba ŋeštin ga-ra-an gal nim
+c.5.3.3,The debate between Winter and Summer,,102,u₂-kuš₈ en-te-en-na šag₄-sug₄ im saŋ-ŋa₂ e₃-a
+c.5.3.3,The debate between Winter and Summer,,103,lu-ub₂{sar} gal-gal AGA gal-e kud-da du₅-la₂ ga-raš{sar} gid₂-da
+c.5.3.3,The debate between Winter and Summer,,104,en-te-en-e gu₂-un ŋar-ra-bi-še₃ ni₂-ba mi-ni-in-ŋar-ŋar
+c.5.3.3,The debate between Winter and Summer,,105,e₂-nam-til₃-la e₂ {d}en-lil₂-la₂-še₃
+c.5.3.3,The debate between Winter and Summer,,106,e₂-me-eš en-te-en-bi-da maš₂ kadra si ba-ni-in-sa₂-sa₂-eš
+c.5.3.3,The debate between Winter and Summer,,107,₂-na-ne-ne am gal du₇-du₇-gin₇ u₃-na ba-an-sug₂-ge-eš
+c.5.3.3,The debate between Winter and Summer,,108,en-te-en a₂ kuš₂-a zag-še kuš₂-a-ni-še₃
+c.5.3.3,The debate between Winter and Summer,,109,še ab-sin₂-na gu₂ peš-a-ni-še₃
+c.5.3.3,The debate between Winter and Summer,,110,gib ziz₂ a šu-ta im-mi-in-dug₄-ga-na
+c.5.3.3,The debate between Winter and Summer,,111,nu-erim₂-gin₇ bar-ta im-ta-gub da-bi nu-mu-un-tag-ge
+c.5.3.3,The debate between Winter and Summer,,112,ur₅-da en-te-en-ra ninim mu-na-te e₂-me-eš-ra du₁₄ bi₂-in-ŋar
+c.5.3.3,The debate between Winter and Summer,,113,e₂-me-eš šeš-ŋu₁₀ ni₂ silim-eš na-an-e-en
+c.5.3.3,The debate between Winter and Summer,,114,niŋ₂ buru₁₄ kadra e₂-gal-še₃ a-na mu-e-de₆-a-zu
+c.5.3.3,The debate between Winter and Summer,,115,a₂ kuš₂-a-zu-gin₇ na-ra-dim₂ ni₂ na-an-bur₂-bur₂-en
+c.5.3.3,The debate between Winter and Summer,,116,lu₂ du-lum-bi mu-e-il₂-a-gin₇
+c.5.3.3,The debate between Winter and Summer,,117,nam-engar-bi mu-e-ak-a-gin₇
+c.5.3.3,The debate between Winter and Summer,,118,a-eštub{ku₆}-ba nam-ku₃-ŋal₂-bi mu-e-dim₂-dim₂-ma-gin₇
+c.5.3.3,The debate between Winter and Summer,,119,še a-gar₃-a-gar₃-ra im-du₈ an-na-ka mi-ni-in-e₃-a-gin₇
+c.5.3.3,The debate between Winter and Summer,,120,a₂ kuš₂-a-ŋu₁₀-ta e₂-gal-la a-gin₇ im-da-kur₉-re-en
+c.5.3.3,The debate between Winter and Summer,,121,maš₂-anše gud udu hur-saŋ-ŋa₂ a-na mu-e-de₆-a-zu
+c.5.3.3,The debate between Winter and Summer,,122,nam
+c.5.3.3,The debate between Winter and Summer,,134,u₂
+c.5.3.3,The debate between Winter and Summer,,135,
+c.5.3.3,The debate between Winter and Summer,,136,šu-ta
+c.5.3.3,The debate between Winter and Summer,,137,nu-{ŋeš}kiri₆-zu sa₂-dug₄ ba-ra-X e₂-gal ba-ra-mu-X
+c.5.3.3,The debate between Winter and Summer,,138,pu₂-{ŋeš}kiri₆ lal₃ ŋeštin
+c.5.3.3,The debate between Winter and Summer,,139,{ŋeš}al gul-la-bi ki-in-X ba-ra-am₃-mi-X
+c.5.3.3,The debate between Winter and Summer,,140,nisig ŋar-ra-zu babbar-hi{sar} gu₃ de₂-bi
+c.5.3.3,The debate between Winter and Summer,,141,kan₄ e₂-gal-la-ka a-na a-na
+c.5.3.3,The debate between Winter and Summer,,142,a-šag₄-ga a₂-zu dugud-bi
+c.5.3.3,The debate between Winter and Summer,,143,še mu-e-de₆ in-nu-bi me-a gud-de₃ a-na
+c.5.3.3,The debate between Winter and Summer,,144,kislah-zu ŋiš u₃-um-me-ra-ah gud še₁₀-bi
+c.5.3.3,The debate between Winter and Summer,,145,sa-hir-ra-zu šu im-ti in-nu-zu il₂
+c.5.3.3,The debate between Winter and Summer,,146,maš₂-anše na-kam-tum niŋ₂-bi
+c.5.3.3,The debate between Winter and Summer,,147,e₂ e₂-duru₅-zu udu gud-zu-ta
+c.5.3.3,The debate between Winter and Summer,,148,ŋiš-gi-bi
+c.5.3.3,The debate between Winter and Summer,,149,{ŋeš}dehi₃ sig₇-sig₇ šu-zu {ŋeš}ad₅-da u₃-bi₂-kud
+c.5.3.3,The debate between Winter and Summer,,150,na-kam-tum ŋar šurum gud du₈-du₈
+c.5.3.3,The debate between Winter and Summer,,151,e₂-me-eš arad₂ lu₂ kiŋ₂-ŋa₂ gub-ba a₂-ni muš₃ nu-tum₃-mu
+c.5.3.3,The debate between Winter and Summer,,152,lu₂ huŋ-ŋa₂ šag₄-gal ni₂-ba-še₃ gana₂ kalam-ma ni₁₀-ni₁₀
+c.5.3.3,The debate between Winter and Summer,,153,ud-bi-a en-te-en-e e₂-me-eš-ra in-še₃ mu-ni-in-dub₂
+c.5.3.3,The debate between Winter and Summer,,154,e₂-me-eš ur-saŋ du₁₄ nu-mu-un-ŋar in la-ga ba-an-kiŋ₂-kiŋ₂
+c.5.3.3,The debate between Winter and Summer,,155,ud buru₁₄-a ur₅-da nir mu-un-ŋal₂ da-ni bi₂-in-taka₄
+c.5.3.3,The debate between Winter and Summer,,156,gud mah-gin₇ u₂ hi-a mu-un-gu₇-e saŋ im-il₂-il₂-e
+c.5.3.3,The debate between Winter and Summer,,157,₂-kam-ma-še₃ e₂-me-eš en-te-en-ra mu-na-ni-ib-gi₄-gi₄
+c.5.3.3,The debate between Winter and Summer,,158,en-te-en da gir₄-da hu-mu-tuš-en saŋ e-ne-še₃ u₃-tu-ud-da
+c.5.3.3,The debate between Winter and Summer,,159,in-ta dugud-bi ki nam-us₂-en tuš-bi šu nu-mu-un-ti
+c.5.3.3,The debate between Winter and Summer,,160,kiŋ₂-ŋa₂ niŋ₂-gig-bi-da kalam-ma du₈-du₈-uš
+c.5.3.3,The debate between Winter and Summer,,161,gu₃ ra-ah gu₂-NE-ta nu-mu-e-zi-zi-i e₂-še₃ igi nu-mu-un-bar-re
+c.5.3.3,The debate between Winter and Summer,,162,dub-sar-tur bar-am₃ niŋ₂-gig-ga {u₂}numun₂ ki-nu₂-bi-še₃ nu-ze₂
+c.5.3.3,The debate between Winter and Summer,,163,nar ŋišbun-na šu nu-bar-re zag-bi-a ni₁₀-ni₁₀
+c.5.3.3,The debate between Winter and Summer,,164,en-te-en in-ta ki nam-us₂-en edin-še₃ mu-un-ti
+c.5.3.3,The debate between Winter and Summer,,165,a₂ kalag-ga-ŋa₂ e₂-e ga-mu-ni-e₃ igi hu-mu-un-de₃-du₈
+c.5.3.3,The debate between Winter and Summer,,166,bal gub-ba-ŋu₁₀ mu-a itid ₇-am₃ kiŋ₂-ŋa₂-ka
+c.5.3.3,The debate between Winter and Summer,,167,sig₉-ga nu-mu-un-ši-ib-be₂
+c.5.3.3,The debate between Winter and Summer,,170,a₂-ŋu₁₀
+c.5.3.3,The debate between Winter and Summer,,171,nu-kuš₂-u₃ saŋ us₂ a-šag₄-ga la-la mu-gub-be₂-en
+c.5.3.3,The debate between Winter and Summer,,172,numun ka-ba numun-ŋu₁₀
+c.5.3.3,The debate between Winter and Summer,,173,en-te-en nam-gu₃-ra ki nu-um-di-ni-ib-ŋar-ra
+c.5.3.3,The debate between Winter and Summer,,174,a-gar₃-a-gar₃-ta a um-ta-haš bur u₃-mu-ni-ib-nu₂-nu₂
+c.5.3.3,The debate between Winter and Summer,,175,ki nam-šu-KU₆-da um-mi-ŋar-ŋar ku₆ guru₇ u₃-mu-dub-dub
+c.5.3.3,The debate between Winter and Summer,,176,saŋ-tun₃ mah a-a {d}en-lil₂-la₂-me-en
+c.5.3.3,The debate between Winter and Summer,,177,gan₂-ne₂ gana₂ zid-de₃ eš₂ mi-ni-ib-ur₃-ur₃-en
+c.5.3.3,The debate between Winter and Summer,,178,gud-de₃ gana₂ šu-ta a-ba-ŋar-ŋar
+c.5.3.3,The debate between Winter and Summer,,179,ki duru₅-a a₂ um-mi-DU.DU gana₂ kiŋ₂ ŋiškim u₃-mu-ak
+c.5.3.3,The debate between Winter and Summer,,180,a-gar₃ gal-gal gana₂ zid šu-nim-ta kiŋ₂ nu-mu-ra-ab-ak-en
+c.5.3.3,The debate between Winter and Summer,,181,še-eštub a-tur₃-ra gu₂ he₂-ni-in-gid₂ dub-ba-an ba-ra-ni-in-tuku
+c.5.3.3,The debate between Winter and Summer,,182,engar-zu gud-de₃ a-na du-u₃ gud ba-ra-mu-da-ab-sumur-re
+c.5.3.3,The debate between Winter and Summer,,183,en-te-en gud-ra igi-nim-ma a₂
+c.5.3.3,The debate between Winter and Summer,,184,lu₂ ki-nu₂-a ki-nu₂-da nu-DI
+c.5.3.3,The debate between Winter and Summer,,185,ud-bi-a e₂-me-eš en-te-en-ra in-še₃ mu-ni-dub₂
+c.5.3.3,The debate between Winter and Summer,,186,igi-ŋal₂-tuku ŋiš-hur-e kiŋ₂-ŋa₂
+c.5.3.3,The debate between Winter and Summer,,187,in-ta dugud gub-bu
+c.5.3.3,The debate between Winter and Summer,,188,
+c.5.3.3,The debate between Winter and Summer,,189,₂-kam-ma-še₃ en-te-en-e e₂-me-eš-ra mu-na-ni-ib-gi₄-gi₄
+c.5.3.3,The debate between Winter and Summer,,190,e₂-me-eš dusu₂ u₂ ki-buru₁₄ gu₇-a ka si-il-la₂ gu₃ di
+c.5.3.3,The debate between Winter and Summer,,191,kunga ki u₂ zar-ra la₂ da kar-kar-re
+c.5.3.3,The debate between Winter and Summer,,192,gud buru₁₄ {ŋeš}gag-sila₃-ta gu₂ ze₂-a saman-e saŋ bal-e
+c.5.3.3,The debate between Winter and Summer,,193,lu₂-kurun-na ki-buru₁₄-še₃ ŋen-na {dug}sila₃ šu-še₃ la₂
+c.5.3.3,The debate between Winter and Summer,,194,lu₂ zid₂ še sa-a ha-ab-lum ak saŋ e-ne dug₄-ga
+c.5.3.3,The debate between Winter and Summer,,195,šar₂-ra-ab-du₈ ni₂ bur₂-bur₂-ra šag₄ a-šag₄-ga nu-zu
+c.5.3.3,The debate between Winter and Summer,,196,e₂-me-eš šeš-ŋu₁₀ a₂ kuš₂-a-ŋu₁₀-a ni₂ buluŋ₅ u₃-mu-ni-e₃
+c.5.3.3,The debate between Winter and Summer,,197,zag-mu-ka še e₂-a u₃-mu-ni-in-kur₉ guru₇ gu₂ bi₂-in-gur-gur
+c.5.3.3,The debate between Winter and Summer,,198,dirig u₃-me-de₆ {tug₂}bar-dul₅ {tug₂}niŋ₂-lam₂-zu bal-a-kam
+c.5.3.3,The debate between Winter and Summer,,199,{urud}ha-zi-in ₂ ma-na lu₂ u₃-mu-ra-an-šum₂ edin-zu-še₃ ba-du-un
+c.5.3.3,The debate between Winter and Summer,,200,e₂-me-eš šeš-ŋu₁₀ a-šag₄-ga du₈ ki duru₅ nam-ta-šub-bu
+c.5.3.3,The debate between Winter and Summer,,201,lu₂ ŋa₂-nun-na saŋ-zu-še₃ i₃-gub a₂ mu-da-an-aŋ₂-e
+c.5.3.3,The debate between Winter and Summer,,202,an-edin-na {ŋeš}ma-nu ŋiš gal
+c.5.3.3,The debate between Winter and Summer,,203,gu-ru-um ni₂-zu tir-tir
+c.5.3.3,The debate between Winter and Summer,,205,{ŋeš}ma₂-la₂-za gu₂-un u₃-mu-ni-de₆ ni₂-zu nam-mu-ni-gid₂
+c.5.3.3,The debate between Winter and Summer,,206,u₂ ŋa₂-nun-na sa₂ u₃-bi₂-dug₄ igi-ŋu₁₀-uš
+c.5.3.3,The debate between Winter and Summer,,207,udu ur₃-ra-ke₄ a-na-a i₃-gu₇-e {gi}ub₄-zal-zu kuš₂-u₃
+c.5.3.3,The debate between Winter and Summer,,208,lu₂-gi-ze bar-hu-da ze₂-de₃ ŋen gi sumun-e dar-dar
+c.5.3.3,The debate between Winter and Summer,,209,šidim uŋ₃-il₂ e₂-a gub-ba a₂-ni muš₃ nu-tum₂-mu
+c.5.3.3,The debate between Winter and Summer,,210,bahar₂ im ba-al izi il₂ ŋiš il₂ dug
+c.5.3.3,The debate between Winter and Summer,,211,uš-bar {tug₂}aktum-za a₂-ŋar-bi {tug₂}bar-dul₅-zu tuku₅-u₃
+c.5.3.3,The debate between Winter and Summer,,212,{lu₂}lunga bappir šu-kin-zu ki-buru₁₄-ta du₈-i₃
+c.5.3.3,The debate between Winter and Summer,,213,muhaldim ninda ŋišbun gal-gal-la e₂-me-eš-e e₃-ni-ib
+c.5.3.3,The debate between Winter and Summer,,214,šidim gal ur₃-ur₃-ra a₂-ŋar-bi mu-un-ri
+c.5.3.3,The debate between Winter and Summer,,215,lu₂ {kuš}suhub₂ {kuš}e-sir₂-e-sir₂ libir sed₄ im-ma-DU
+c.5.3.3,The debate between Winter and Summer,,216,e₂-me-eš šeš-ŋu₁₀ bal gub-ba-ŋu₁₀-še₃ en-na u₃-mu-du-un
+c.5.3.3,The debate between Winter and Summer,,217,tur mah-e a₂ mu-e-da-an-aŋ₂-e sa-zu nu-TAR-e
+c.5.3.3,The debate between Winter and Summer,,218,kalam-ma niŋ₂-gur₁₁ u₃-mu-e-ni-ŋar-ŋar na-kam-tum u₃-mu-e-ŋar
+c.5.3.3,The debate between Winter and Summer,,219,a₂-ŋa₂-a zag-še kuš₂-a-za ŋe₂₆-e lugal-bi-me-en
+c.5.3.3,The debate between Winter and Summer,,220,ud muru₉-e he₂-ŋal₂ an-na-ke₄ ki um-ma-ni-us₂
+c.5.3.3,The debate between Winter and Summer,,221,a numun saŋ-ŋa₂-ke₄ hur-saŋ-ta zag um-mi-tag-tag
+c.5.3.3,The debate between Winter and Summer,,222,še nim-e še sig a-ba-ab-tah e₂-saŋ u₃-mu-un-šub
+c.5.3.3,The debate between Winter and Summer,,223,engar zid gan₂-ne₂ igi tab-ba a₂ hul₂-la i-i
+c.5.3.3,The debate between Winter and Summer,,224,anše il₂-il₂-la i₃-gub-gub-be₂ iri-še₃ nir mu-un-ŋal₂
+c.5.3.3,The debate between Winter and Summer,,225,šeš-ŋu₁₀ {ŋeš}apin kug e₂ dal-la u₃-mu-ni-ŋar
+c.5.3.3,The debate between Winter and Summer,,226,na-kam-tum a-na ŋar-ŋar-ra-zu izi-gin₇ gu₃ mi-ni-in-ed₂-en
+c.5.3.3,The debate between Winter and Summer,,227,gu₇ naŋ gal-gal-e ba-tuš-en
+c.5.3.3,The debate between Winter and Summer,,228,kalam-ta saŋ-a im-ta-ab-ed₃-de₃-en
+c.5.3.3,The debate between Winter and Summer,,229,lugal-ŋu₁₀ mu pad₃-da {d}nanna dumu {d}en-lil₂-la₂-ra
+c.5.3.3,The debate between Winter and Summer,,230,{d}i-bi₂-{d}suen {tug₂}šutur {tug₂}hur-saŋ u₃-mu-ni-in-mur₁₀
+c.5.3.3,The debate between Winter and Summer,,231,{tug₂}bar-dul₅ {tug₂}niŋ₂-lam₂-ma mi₂ u₃-ba-ni-dug₄
+c.5.3.3,The debate between Winter and Summer,,232,ezen diŋir-re-e-ne-ke₄ šu u₃-mu-ši-ib-du₇-du₇
+c.5.3.3,The debate between Winter and Summer,,233,{d}a-nun-na-ke₄-ne bar kug-ba tug₂ u₃-mu-ne-ŋal₂-ŋal₂
+c.5.3.3,The debate between Winter and Summer,,234,e₂-nam-til₃-la ki-tuš kug nam-lugal-la an-ne₂ ŋar-ra-na
+c.5.3.3,The debate between Winter and Summer,,235,ki ur₅ sag₉-ge ŋišbun niŋ₂ dug₃-ga si ba-ni-sa₂-sa₂-eš
+c.5.3.3,The debate between Winter and Summer,,236,šem₃ {kuš}a₂-la₂ si-ŠIR₃ ŋiš-gu₃-di ni₂-ba u₃-mu-na-du₁₂
+c.5.3.3,The debate between Winter and Summer,,237,tigi za-am-za-am niŋ₂ šag₄ hul₂-la-zu ud mi-ni-ib-zal-zal-e
+c.5.3.3,The debate between Winter and Summer,,238,ŋe₂₆-e ŋeštin lu-lu-me-en gu₇ naŋ gal-gal-me-en
+c.5.3.3,The debate between Winter and Summer,,239,tug₂ i₃ dug₃-ge ba-ab-du₇-me-en
+c.5.3.3,The debate between Winter and Summer,,240,niŋ₂-tug₂-ba {tug₂}šutur {tug₂}aktum-ma a₂ ba-ni-e₃-a-me-en
+c.5.3.3,The debate between Winter and Summer,,241,kum₂-ma dugud e₂-me-eš saŋ ki-en-gi-ra zi-bi tum₂-tum₂-de₃
+c.5.3.3,The debate between Winter and Summer,,242,uŋ₃ saŋ gig₂-ga ur₂-bi-a ki-nu₂ ŋar-ŋar-ra-bi
+c.5.3.3,The debate between Winter and Summer,,243,{tug₂}niŋ₂-barag₂ nim mu-ra-be₄-be₄ {tug₂}aktum mu-ra-sah₆
+c.5.3.3,The debate between Winter and Summer,,244,{ŋeš}niŋ₂-keše₂-da a₂ mu-ra-ab-kuš₂-u₃ e₂-gal ma-ra-ŠEŠ-ŠEŠ
+c.5.3.3,The debate between Winter and Summer,,245,{ŋeš}gu₂-ne-saŋ-ŋa₂-ke₄ mu-un-kiŋ₂-kiŋ₂ en₃ tar mu-ni-ŋal₂
+c.5.3.3,The debate between Winter and Summer,,246,{d}nin-ka-si-ke₄ a₂-tah-a-ni-me-en kaš mu-un-na-ab-dug₃-ge-en
+c.5.3.3,The debate between Winter and Summer,,247,a sed₄ gu₂-un hur-saŋ-ŋa₂ a-na mu-e-tum₂-tum₂-mu
+c.5.3.3,The debate between Winter and Summer,,248,dug ma₂-aš-gan-na um-mi-in-X
+c.5.3.3,The debate between Winter and Summer,,249,dug pu₂ dug hu-ru-um gaba-ba
+c.5.3.3,The debate between Winter and Summer,,250,ŋeštin gur₄-gur₄-ra tum₉ sed₄-de₃ um-ma-ni-in-sig₁₀-sig₁₀
+c.5.3.3,The debate between Winter and Summer,,251,lugal-ŋu₁₀ e₂-gal mah-a-ni mu-ni-in-dug₃-dug₃-ge-en
+c.5.3.3,The debate between Winter and Summer,,252,lu₂ ni₂ sed₄-da lugal-ŋa₂-me-en
+c.5.3.3,The debate between Winter and Summer,,253,{ŋeš}gag-ku₆-la₂-e niŋ₂ ma-ab-si-si
+c.5.3.3,The debate between Winter and Summer,,254,an-ta-ŋu₁₀ {kuš}a-ŋa₂-la₂-zu šu te-ba-ab e₃-ba-ra
+c.5.3.3,The debate between Winter and Summer,,255,engar še du-lum-ma nu-du₈-u₃
+c.5.3.3,The debate between Winter and Summer,,256,engar im ₂ šeŋ₃ hul gig
+c.5.3.3,The debate between Winter and Summer,,257,nu-{ŋeš}kiri₆ babbar-hi{sar} dim nu-zu gi-gur guru₅-zu
+c.5.3.3,The debate between Winter and Summer,,258,za-e ŋa₂-a-da a-na mu-da-ab-sa₂-e-en ur₃ ki-nu₂-zu kiŋ₂-ŋa₂
+c.5.3.3,The debate between Winter and Summer,,259,₂-kam-ma-še₃ en-te-en-e e₂-me-eš-ra in-še₃ mu-ni-in-dub₂
+c.5.3.3,The debate between Winter and Summer,,260,e₂-me-eš dumu ur-saŋ {d}en-lil₂-la₂-ke₄
+c.5.3.3,The debate between Winter and Summer,,261,a₂ kalag-ga-na šag₄-ga-a mu-un-zu ur₅-da nir mu-un-ŋal₂
+c.5.3.3,The debate between Winter and Summer,,262,in en-te-en-e a-na mu-ni-in-dub₂-ba-aš
+c.5.3.3,The debate between Winter and Summer,,263,i-gi₄-in-zu mi₂-am₃ na-mu-ni-in-dug₄
+c.5.3.3,The debate between Winter and Summer,,264,₂-kam-ma-še₃ e₂-me-eš-e en-te-en-ra mu-na-ni-ib-gi₄-gi₄
+c.5.3.3,The debate between Winter and Summer,,265,en-te-en a₂ dirig ni₂ na-ab-gur₄-re-en ki gur₄-zu u₃-mu-zu
+c.5.3.3,The debate between Winter and Summer,,266,iri-a ki-ur₃-zu ga-mu-ra-ab-dug₄ nam-ba-an-ŠEŠ-ŠEŠ-e-de₃-en
+c.5.3.3,The debate between Winter and Summer,,267,za-e lu₂ mar-za i₃-me-en-na-gin₇ lu₂ hu-nu in-ga-me-en
+c.5.3.3,The debate between Winter and Summer,,268,da gir₄ gu₂ izi udun sa-du₃-zu-um
+c.5.3.3,The debate between Winter and Summer,,269,na-gada sipad u₈ sila₄ dugud-da-gin₇
+c.5.3.3,The debate between Winter and Summer,,270,lu₂ hu-hu-nu da gir₄-ta udun-še₃ udun-ta da gir₄-še₃
+c.5.3.3,The debate between Winter and Summer,,271,udu-gin₇ igi-za mu-un-sub₂-sub₂-be₂-eš
+c.5.3.3,The debate between Winter and Summer,,272,gaba ud-da da-gum-da-gum-ma di ba-ni-ib-dab₅-be₂-en
+c.5.3.3,The debate between Winter and Summer,,273,iri-a zu₂ ur₅ zu₂ ra-ah ma-ra-an-ŋar-re-eš
+c.5.3.3,The debate between Winter and Summer,,274,ud a-ba-sa₉-a-e e-sir₂-e-sir₂-ra lu₂ nu-mu-ni-in-dib-be₂
+c.5.3.3,The debate between Winter and Summer,,275,arad₂ lu₂ da gir₄-ta hul₂-la e₂-a ud šu₂-šu₂-u₃
+c.5.3.3,The debate between Winter and Summer,,276,geme₂ lu₂ a-ŋi₆ {ŋeš}epir-a nu-gub-bu tug₂-da ud zal-zal-e
+c.5.3.3,The debate between Winter and Summer,,277,a-šag₄ en-te-en-e kiŋ₂ nu-ak-e
+c.5.3.3,The debate between Winter and Summer,,278,ab-sin₂-bi šag₄-še₃ nu-gid₂-da
+c.5.3.3,The debate between Winter and Summer,,279,še-bi ki-šar₂-ba nu-šub-ba buru₄{mušen}-dugud-de₃ de₆-a
+c.5.3.3,The debate between Winter and Summer,,280,nisig gu₂-guru₅ lu₂ du₅-la₂ nisig-bi ganba-ka nu-du₇
+c.5.3.3,The debate between Winter and Summer,,281,gi sumun il₂ {gi}dusu dub₃-sa-dar-a lu₂ ma-an-zi-la₂
+c.5.3.3,The debate between Winter and Summer,,282,a₂ dirig ka du₈-zu na-an-bi₂-ib-be₂ ŋiš-hur me ga-zu
+c.5.3.3,The debate between Winter and Summer,,283,₂-kam-ma-še₃ e₂-me-eš-e en-te-en-ra in-še₃ mu-ni-in-dub₂
+c.5.3.3,The debate between Winter and Summer,,284,ud-bi-a e₂-kur ezem-ma ki-en-gi he₂-ŋal₂-la
+c.5.3.3,The debate between Winter and Summer,,285,₂-na-ne-ne dub₃ bi₂-in-ŋal₂-le-eš u₃-na ba-an-sug₂-ge-eš
+c.5.3.3,The debate between Winter and Summer,,286,e₂-me-eš en-te-en-bi-da gud mah-gin₇ teš₂-bi a₂ si-il-le-de₃
+c.5.3.3,The debate between Winter and Summer,,287,kisal mah-a am-gin₇ dub₃ i-ni-ib₂-ŋar ki ki ba-ni-ib-us₂
+c.5.3.3,The debate between Winter and Summer,,288,en-te-en-e inim-ma gud mah-gin₇ saŋ im-il₂-il₂-e
+c.5.3.3,The debate between Winter and Summer,,289,a-a {d}en-lil₂ nam-ku₅-ŋal₂ mu-e-šum₂ a he₂-ŋal₂-la mu-e-de₆
+c.5.3.3,The debate between Winter and Summer,,290,a-gar₃-a-gar₃-ra zag ba-ni-tag-tag guru₇ gu₂ bi₂-gur-gur
+c.5.3.3,The debate between Winter and Summer,,291,še ab-sin₂-na gu₂ ba-ni-in-peš
+c.5.3.3,The debate between Winter and Summer,,292,{d}ezina₂-e ki-sikil sag₉-ga-gin₇ ni₂ pa e₃ bi₂-ak
+c.5.3.3,The debate between Winter and Summer,,293,e₂-me-eš šar₂-ra-ab-du ni₂ bur₂-bur₂-ra šag₄ a-šag₄-ga nu-zu
+c.5.3.3,The debate between Winter and Summer,,294,a₂ kuš₂-a zag-še kuš₂-a-ŋu₁₀ zag ma-ra-an-tag
+c.5.3.3,The debate between Winter and Summer,,295,e₂-gal lugal-la-ke₄ gu₂-un si ba-ni-X-sa₂-sa₂
+c.5.3.3,The debate between Winter and Summer,,296,en-te-en-e šag₄ inim-ma nir mi-ni-in-ŋal₂
+c.5.3.3,The debate between Winter and Summer,,297,e₂-me-eš saŋ-ki niŋ₂-nam mu-un-kiŋ₂ zi im-ma-da-ab-gi₄
+c.5.3.3,The debate between Winter and Summer,,298,e₂-me-eš {d}en-lil₂-ra ni₂ te-bi-a inim mu-na-ni-ib₂-be₂
+c.5.3.3,The debate between Winter and Summer,,299,{d}en-lil₂ di-zu niŋ₂ kal-kal-la-am₃ inim kug-zu inim mah-am₃
+c.5.3.3,The debate between Winter and Summer,,300,di dab₅-ba-zu niŋ₂ nu-kur₂-ru-dam a-ba šu mi-ni-ib₂-bal-e
+c.5.3.3,The debate between Winter and Summer,,301,šeš šeš-da du₁₄ mu₂-mu₂ i₃-ŋal₂ u₃ dug₃-ge i₃-ŋal₂
+c.5.3.3,The debate between Winter and Summer,,302,en₃-tukum-še₃ e₂-gal-la u₃-mu-e-DU.DU uŋ₃-e u₆-e me-e
+c.5.3.3,The debate between Winter and Summer,,303,u₃-mu-e-tuš ni₂ na-an-pi-il-pi-il-le-de₃-en teš₂-bi ga-ba-ra-si-il
+c.5.3.3,The debate between Winter and Summer,,304,{d}en-lil₂-le e₂-me-eš en-te-en-bi-da mu-ne-ni-in-gi₄-gi₄
+c.5.3.3,The debate between Winter and Summer,,305,a zi-šag₄-ŋal₂ kur-kur-ra-ka en-te-en ku₃-ŋal₂-bi-im
+c.5.3.3,The debate between Winter and Summer,,306,engar diŋir-re-e-ne-ke₄ niŋ₂-nam mu-un-na-ŋar-ŋar
+c.5.3.3,The debate between Winter and Summer,,307,e₂-me-eš dumu-ŋu₁₀ en-te-en šeš-zu-da a-na mu-e-da-ab-sa₂-e-en
+c.5.3.3,The debate between Winter and Summer,,308,{d}en-lil₂-le inim mah dug₄-ga-ni šag₄-bi galam kad₄-dam
+c.5.3.3,The debate between Winter and Summer,,309,di dab₅-ba-ni niŋ₂ nu-kur₂-ru-dam a-ba-a šu mi-ni-ib-bal-e
+c.5.3.3,The debate between Winter and Summer,,310,e₂-me-eš en-te-en-ra im-ma-an-ši-in-gam u₃-gul mu-na-an-ŋa₂-ŋa₂
+c.5.3.3,The debate between Winter and Summer,,311,e₂-a-na {kaš}ulušin kurun si ba-ni-in-sa₂-sa₂
+c.5.3.3,The debate between Winter and Summer,,312,zag-bi-a ŋišbun niŋ₂ dug₃-ge ud mi-ni-ib-zal-zal-e-ne
+c.5.3.3,The debate between Winter and Summer,,313,e₂-me-eš en-te-en-ra kug-sig₁₇ kug-babbar za-gin₃ mu-un-na-ba-ba-e
+c.5.3.3,The debate between Winter and Summer,,314,nam-šeš nam-dub₃-sa i₃ li-gin₇ i-im-bal-bal-e-ne
+c.5.3.3,The debate between Winter and Summer,,315,murub₄-ba inim dug₃-ga ŋa₂-ŋa₂-de₃ teš₂-bi ba-dug₃-ge-eš
+c.5.3.3,The debate between Winter and Summer,,316,e₂-me-eš en-te-en-bi-da a-da-min₃ dug₄-ga
+c.5.3.3,The debate between Winter and Summer,,317,en-te-en engar zid {d}en-lil₂-la₂ e₂-me-eš-ra dirig-ga-ba
+c.5.3.3,The debate between Winter and Summer,,318,kur gal a-a {d}en-lil₂ za₃-mi₂

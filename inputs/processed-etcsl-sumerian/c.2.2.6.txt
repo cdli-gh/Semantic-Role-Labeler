@@ -1,0 +1,192 @@
+id_text,text_name,version,l_no,text
+c.2.2.6,The lament for Eridug,Nibru,A5,ud te-eš dug₄-ga tug₂-gin₇ ba-e-dul gada-gin₇ ba-e-bur₂
+c.2.2.6,The lament for Eridug,Nibru,A6,eridug{ki}-ga tug₂-gin₇ ba-e-dul gada-gin₇ ba-e-bur₂
+c.2.2.6,The lament for Eridug,Nibru,A7,iri-a ud huš-e šeg₁₁ mi-ni-ib-gi₄-gi₄
+c.2.2.6,The lament for Eridug,Nibru,A8,eridug{ki}-ga ud huš-e šeg₁₁ mi-ni-ib-gi₄-gi₄
+c.2.2.6,The lament for Eridug,Nibru,A9,za-pa-aŋ₂-bi niŋ₂-me-ŋar u₁₈-lu-gin₇ ba-e-dul uŋ₃-bi
+c.2.2.6,The lament for Eridug,Nibru,A10,eridug{ki} niŋ₂-me-ŋar u₁₈-lu-gin₇ ba-e-dul uŋ₃-bi
+c.2.2.6,The lament for Eridug,Nibru,A11,lugal-bi iri-ni iri kur₂-gin₇ bar-ta ba-ra-gub er₂ gig mu-un-še₈-še₈
+c.2.2.6,The lament for Eridug,Nibru,A12,a-a {d}en-ki iri-ni iri kur₂-gin₇ bar-ta ba-ra-gub er₂ gig mu-un-še₈-še₈
+c.2.2.6,The lament for Eridug,Nibru,A13,nam iri hul-a-na er₂ gig mu-un-še₈-še₈
+c.2.2.6,The lament for Eridug,Nibru,A14,nin-bi mušen dal-a-gin₇ iri-ni ba-ra-e₃
+c.2.2.6,The lament for Eridug,Nibru,A15,ama e₂-mah-a kug {d}dam-gal-nun-na iri-ni ba-ra-e₃
+c.2.2.6,The lament for Eridug,Nibru,A16,iri me kug-kug-ga me-bi šu ba-ab-bal
+c.2.2.6,The lament for Eridug,Nibru,A17,ŋarza me gal-gal-la-kam me-bi ba-da-kur₂
+c.2.2.6,The lament for Eridug,Nibru,A18,eridug{ki}-ga igi ni₁₀-ni₁₀-bi ba-kur₂ šu suh₃-a ba-ab-dug₄
+c.2.2.6,The lament for Eridug,Nibru,A19,ud hul du₃-a iri-ta ba-ra-ŋen kalam i₃-ur₄-ur₄-re
+c.2.2.6,The lament for Eridug,Nibru,A20,ud sig₅ hul nu-ŋal₂-la sag₉-ga nu-zu hul nu-zu-e
+c.2.2.6,The lament for Eridug,Nibru,A21,su-bir₄{ki}-e a-gin₇ im-mi-ib₂-ŋar šu im-ma-da-an-šub
+c.2.2.6,The lament for Eridug,Nibru,A22,iri-a ud zalag-ga e₃-a ud ba-da-ku₁₀-ku₁₀
+c.2.2.6,The lament for Eridug,Nibru,A23,eridug{ki}-ga ud zalag-ga e₃-a ud ba-da-ku₁₀-ku₁₀
+c.2.2.6,The lament for Eridug,Nibru,A24,{d}utu an-ur₂-ra šu₂-a-gin₇ an-usan-še₃ ba-du₃
+c.2.2.6,The lament for Eridug,Nibru,A25,iri an-ne₂ nam ba-an-ku₅-ra₂-gin₇ ni₂-bi-a ba-an-gul
+c.2.2.6,The lament for Eridug,Nibru,A26,{d}en-lil₂-le saŋ-ki gid₂-da-gin₇ eridug{ki} eš₃ abzu gu₂ ki-še₃ ba-ni-ib-ŋar
+c.2.2.6,The lament for Eridug,Nibru,A27,ki-ru-gu₂ ₁-kam-ma-am₃
+c.2.2.6,The lament for Eridug,Nibru,A28,a uru₂ gul-la e₂ gul-la-ri gig-ga-bi im-me
+c.2.2.6,The lament for Eridug,Nibru,A29,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.6,The lament for Eridug,Nibru,A30,₂-kam-ma-še₃ ud-de₃ iri mu-un-gul-gul ad-bi gig-ga-am₃
+c.2.2.6,The lament for Eridug,Nibru,A31,giri₁₆ im-ma-ni-ib₂-ŋar
+c.2.2.6,The lament for Eridug,Nibru,A32,a-nir ba-da-an-tab
+c.2.2.6,The lament for Eridug,Nibru,A33,abul-la-bi {ŋeš}si-ŋar bi₂-in-kud {ŋeš}ig-bi ud-de₃ im-ma-gub
+c.2.2.6,The lament for Eridug,Nibru,A34,gub-ba uŋ₃ zar-re-eš ba-an-sal
+c.2.2.6,The lament for Eridug,Nibru,A35,mu-un-du₈ ni₂-bi-a ba-an-gul
+c.2.2.6,The lament for Eridug,Nibru,A36,er₂-ra mu-un-kur₉
+c.2.2.6,The lament for Eridug,Nibru,A37,pe-el
+c.2.2.6,The lament for Eridug,Nibru,A39,ulutim₂-bi mu-un-kur₂
+c.2.2.6,The lament for Eridug,Nibru,A40,ulutim₂-bi mu-un-kur₂
+c.2.2.6,The lament for Eridug,Nibru,A41,bad₃-bi mu-un-ni₁₀-ni₁₀ ur₂-ba ba-ni-ib₂-bal
+c.2.2.6,The lament for Eridug,Nibru,A42,iri ki sikil-la zal-a-ni sahar-ra ur₂ mi-ni-ib₂-si
+c.2.2.6,The lament for Eridug,Nibru,A43,u₆-nir eš₃ an-ne₂ us₂-sa-bi sahar-tu₁₁-e ba-an-ŋar
+c.2.2.6,The lament for Eridug,Nibru,A44,ŋiš-bur₂-ba me-te e₂-a-ke₄ ni₂ il₂-il₂-a il₂-bi ba-e-suh
+c.2.2.6,The lament for Eridug,Nibru,A45,kan₄ u₆-nir-gal-an-ki-ni₂-huš-ri-a-bi
+c.2.2.6,The lament for Eridug,Nibru,A46,{ŋeš}ig za-gin₃-bi gu₂-guru₅ bi₂-in-dug₄ {ŋeš}saŋ-kul-bi ba-du₃
+c.2.2.6,The lament for Eridug,Nibru,A47,ŋiš-kan₄-na-bi ba-ra-an-bur₁₂ e₂ igi ba-ab-kur₂
+c.2.2.6,The lament for Eridug,Nibru,A48,ki-ru-gu₂ ₂-kam-ma-am₃
+c.2.2.6,The lament for Eridug,Nibru,A49,eridug{ki} gul-la-ri gul-la-bi gig-ga-am₃
+c.2.2.6,The lament for Eridug,Nibru,A50,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.6,The lament for Eridug,Nibru,A51,kan₄ igi piriŋ-ŋa₂ ki nam tar-re-ba
+c.2.2.6,The lament for Eridug,Nibru,A52,{ŋeš}tir e₂-a he₂-du₇-bi ba-ra-an-guz
+c.2.2.6,The lament for Eridug,Nibru,A53,{d}ka-he₂-ŋal₂ {d}igi-he₂-ŋal₂ i₃-du₈ e₂-a
+c.2.2.6,The lament for Eridug,Nibru,A54,ud nu-dug₄-ga-ba mu-un-gul-gul-lu-uš mu-un-kur₂-kur₂-ru-uš
+c.2.2.6,The lament for Eridug,Nibru,A55,kan₄ uz-ga gurušta nidba gal-gal gul-la
+c.2.2.6,The lament for Eridug,Nibru,A56,ku₆ mušen-bi muš₃ ba-ni-ib₂-tum₂ gul-la
+c.2.2.6,The lament for Eridug,Nibru,A57,e₂ kug {na₄}za-gin₃-na zal-a-ni er₂
+c.2.2.6,The lament for Eridug,Nibru,A58,huŋ-ŋa₂ šagina
+c.2.2.6,The lament for Eridug,Nibru,A59,ezem-ma gal-e
+c.2.2.6,The lament for Eridug,Nibru,A60,šir₃ kug šir₃ ha-mun
+c.2.2.6,The lament for Eridug,Nibru,A61,šem₃ {kuš}a₂-la₂
+c.2.2.6,The lament for Eridug,Nibru,A62,me gal me šar₂-ra
+c.2.2.6,The lament for Eridug,Nibru,A63,ki diŋir an ki-a
+c.2.2.6,The lament for Eridug,Nibru,A64,di lugal-e ŋidru kug a₂ zid-da
+c.2.2.6,The lament for Eridug,Nibru,A65,en lu₂-mah nin-diŋir
+c.2.2.6,The lament for Eridug,Nibru,A66,sukkal {d}isimud-de₃ a₂
+c.2.2.6,The lament for Eridug,Nibru,A67,e₂ lu₂ nu-zu-ba da-bi
+c.2.2.6,The lament for Eridug,Nibru,A68,eridug{ki} eš₃ abzu sig₉-ga-bi
+c.2.2.6,The lament for Eridug,Nibru,A69,tug₂ mah-he su-ub-ba lu₂-erim₂-e
+c.2.2.6,The lament for Eridug,Nibru,A70,lu₂ uŋ₃
+c.2.2.6,The lament for Eridug,Nibru,A71,u₃-mun-bi a bal-bal-e-da uš₂-ni im-bal
+c.2.2.6,The lament for Eridug,Nibru,A72,an sig₇-ga-gin₇ ul-še₃ tag-ga-am₃
+c.2.2.6,The lament for Eridug,Nibru,A73,gu₂-da ba-an-la₂
+c.2.2.6,The lament for Eridug,Nibru,A74,ki-ru-gu₂ ₃-kam-ma-am₃
+c.2.2.6,The lament for Eridug,Nibru,A75,
+c.2.2.6,The lament for Eridug,Nibru,A76,
+c.2.2.6,The lament for Eridug,Nibru,A77,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.6,The lament for Eridug,Nibru,A78,ur₅ uš₂-a šag₄ sag₃-ga
+c.2.2.6,The lament for Eridug,Nibru,A79,kug tum₁₂{mušen}-ma-gin₇
+c.2.2.6,The lament for Eridug,Nibru,A80,
+c.2.2.6,The lament for Eridug,Nibru,A81,mušen uru₂ gul-la-ke₄ gud₃
+c.2.2.6,The lament for Eridug,Nibru,A82,u₃-ku-ku{mušen} mušen šag₄ sag₃-ga-ke₄ ki
+c.2.2.6,The lament for Eridug,Nibru,A83,šag₄ dab₅
+c.2.2.6,The lament for Eridug,Nibru,A84,{ŋeš}kiši₁₆ kur-ra-ke₄ zu₂ ba-ni-ib₂-keše₂
+c.2.2.6,The lament for Eridug,Nibru,A85,{ŋeš}kiši₁₆ kur-ra-ke₄ gar₃
+c.2.2.6,The lament for Eridug,Nibru,A86,{urud}šen kug lu₂ igi nu-bar-re-da
+c.2.2.6,The lament for Eridug,Nibru,A87,šimaški{ki} elam{ki} lu₂ ha-lam-ma igi i-ni-in-bar
+c.2.2.6,The lament for Eridug,Nibru,A88,e₂-ŊEŠTUG₂.{d}NISABA e₂ ŋeštug₂ ba-šu₂
+c.2.2.6,The lament for Eridug,Nibru,A89,me abzu še-er-ka-an dug₄-ga ba-ab-DU
+c.2.2.6,The lament for Eridug,Nibru,A90,gi₁₆-sa kug erim₃ ŋar-ŋar-a ki ŋar-ra-ba
+c.2.2.6,The lament for Eridug,Nibru,A91,muru₉-gin₇ ki us₂-sa
+c.2.2.6,The lament for Eridug,Nibru,A92,buru₅{mušen}-gin₇ a₂-bur₂-bi sar-sar-ra ba-e-re₇-eš
+c.2.2.6,The lament for Eridug,Nibru,A93,kug {na₄}za-gin₃ ba-ab-DU
+c.2.2.6,The lament for Eridug,Nibru,A94,eridug{ki} niŋ₂ ba-ab-dug₄
+c.2.2.6,The lament for Eridug,Nibru,A95,eš₃ bar
+c.2.2.6,The lament for Eridug,Nibru,A96,an-šeŋ₆-ŋa₂ X-in-du₃
+c.2.2.6,The lament for Eridug,Nibru,A97,tir hur-saŋ-ŋa₂
+c.2.2.6,The lament for Eridug,Nibru,A98,
+c.2.2.6,The lament for Eridug,Nibru,A99,
+c.2.2.6,The lament for Eridug,Nibru,B1,a-a {d}en-ki i-lu ni₂-te-na
+c.2.2.6,The lament for Eridug,Nibru,B2,ki-ru-gu₂ ₄-kam-ma-am₃
+c.2.2.6,The lament for Eridug,Nibru,B3,a-a {d}en-ki i-lu ni₂-te-na gu₃ gig im-me
+c.2.2.6,The lament for Eridug,Nibru,B4,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.6,The lament for Eridug,Nibru,B5,nam-bi-še₃ {d}en-ki lugal abzu-ke₄
+c.2.2.6,The lament for Eridug,Nibru,B6,iri-ni iri kur₂-gin₇ bar-ta ba-da-gub gu₂ ki-še₃ ba-an-la₂
+c.2.2.6,The lament for Eridug,Nibru,B7,nin-bi ab₂ zid arhuš-a kug {d}dam-gal-nun-na
+c.2.2.6,The lament for Eridug,Nibru,B8,gaba-ni i₃-hur-re igi-ni i₃-hur-re gu₃ nir-ra im-me
+c.2.2.6,The lament for Eridug,Nibru,B9,šu ₂-a-na ŋiri₂ ba-da-ra šu bi₂-in-du₈ teš₂-bi i₃-gu₇-e
+c.2.2.6,The lament for Eridug,Nibru,B10,siki-ni {u₂}numun₂-bur-gin₇ i₃-ze₂-e i-lu gig ŋa₂-ŋa₂
+c.2.2.6,The lament for Eridug,Nibru,B11,uru₂ munus-zu nu-til-la a-la-zu nu-gi₄-a-ŋu₁₀ me-a er₂-zu ba-gig
+c.2.2.6,The lament for Eridug,Nibru,B12,uru₂-ze₂-eb{ki} uru₂ munus-zu nu-til-la a-la-zu nu-gi₄-a-ŋu₁₀ me-a er₂-zu ba-šeš₂
+c.2.2.6,The lament for Eridug,Nibru,B13,gud-gin₇ mah-za ba-e-šub-be₂-en hul mu-šub-be₂
+c.2.2.6,The lament for Eridug,Nibru,B14,dim₂-ma-me-en šag₄-ŋu₁₀
+c.2.2.6,The lament for Eridug,Nibru,B15,ga-ša-an-e
+c.2.2.6,The lament for Eridug,Nibru,C1,
+c.2.2.6,The lament for Eridug,Nibru,C2,su₃-ud-da-aš diŋir gal-gal-e-ne
+c.2.2.6,The lament for Eridug,Nibru,C3,u₃-mu-un {d}mu-ul-lil₂ lugal kur-kur-ra-ke₄
+c.2.2.6,The lament for Eridug,Nibru,C4,ki-en-gi-ra i-bi₂ hul he₂-en-ši-bar ŋiri₃-bal-a he₂-em-gul
+c.2.2.6,The lament for Eridug,Nibru,C5,ki-ur₃ ki gal zag he₂-bi₂-in-tag
+c.2.2.6,The lament for Eridug,Nibru,C6,e₂-kur za-gin₃-na du₃-a-ba {ŋeš}al-e he₂-em-mi-in-ra
+c.2.2.6,The lament for Eridug,Nibru,C7,zag he₂-bi-in-tag šu li-bi₂-in-dag
+c.2.2.6,The lament for Eridug,Nibru,C8,kiŋ₂-sig unu₂ gal-ni mu-ni he₂-pad₃-de₃
+c.2.2.6,The lament for Eridug,Nibru,C9,{d}a-ru-ru nin₉ {d}mu-ul-lil₂-la₂-ke₄
+c.2.2.6,The lament for Eridug,Nibru,C10,iri-ni iri-saŋ-rig₇ zag he₂-bi₂-in-tag
+c.2.2.6,The lament for Eridug,Nibru,C11,keš₃{ki} ki-ulutim₂ kalam-ma-ke₄
+c.2.2.6,The lament for Eridug,Nibru,C12,itima kug ud nu-zu-ba uŋ₃-e igi he₂-ni-in-bar
+c.2.2.6,The lament for Eridug,Nibru,C13,zag he₂-bi₂-in-tag šu li-bi₂-in-tag
+c.2.2.6,The lament for Eridug,Nibru,C14,kiŋ₂-sig unu₂ gal-ni mu-ni he₂-pad₃-de₃
+c.2.2.6,The lament for Eridug,Nibru,C15,u₃-mu-un {d}nanna u₃-mu-un {d}aš-im₂-babbar
+c.2.2.6,The lament for Eridug,Nibru,C16,iri-ni urim₂{ki}-ma zag he₂-bi₂-in-tag
+c.2.2.6,The lament for Eridug,Nibru,C17,šag₄-mar-ra-ka ka-na-aŋ₂-bi he₂-en-til
+c.2.2.6,The lament for Eridug,Nibru,C18,e₂-kiš-nu-ŋal₂ aŋ₂-gig-ga he₂-bi₂-ak šag₄-bi he₂-bi₂-ra
+c.2.2.6,The lament for Eridug,Nibru,C19,zag he₂-bi₂-in-tag šu li-bi₂-in-dag
+c.2.2.6,The lament for Eridug,Nibru,C20,kiŋ₂-sig unu₂ gal-ni mu-ni he₂-pad₃-de₃
+c.2.2.6,The lament for Eridug,Nibru,C21,{d}ga-ša-an-an-na ga-ša-an an ki-ke₄
+c.2.2.6,The lament for Eridug,Nibru,C22,iri-ni unug{ki}-ga zag he₂-bi₂-in-tag
+c.2.2.6,The lament for Eridug,Nibru,C23,e₂-an-na e₂ ub ₇ izi ₇ kar-kar-re-de₃ an
+c.2.2.6,The lament for Eridug,Nibru,C24,zag he₂-bi₂-in-tag šu li-bi₂-in-dag
+c.2.2.6,The lament for Eridug,Nibru,C25,kiŋ₂-sig unu₂ gal-ni mu-ni he₂-pad₃-de₃
+c.2.2.6,The lament for Eridug,Nibru,C26,mu-ud-na-ŋu₁₀ uru₂-zu uru₂-ze₂-eb{ki}-gin₇ gul-la a-ba-a igi mu-ni-in-du₈
+c.2.2.6,The lament for Eridug,Nibru,C27,ki-ru-gu₂ ₆-kam-ma-am₃
+c.2.2.6,The lament for Eridug,Nibru,C28,mu-ud-na-ŋu₁₀ me-na ba-du₃-e me-na ba-gul-e me-teš₂ abzu
+c.2.2.6,The lament for Eridug,Nibru,C29,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.6,The lament for Eridug,Nibru,C30,u₃-mu-un {d}am-an-ki uru₂-zu uru₂-ze₂-eb gul-la a-ba-a mu-ni-in-du₈
+c.2.2.6,The lament for Eridug,Nibru,C31,eš₃ abzu e₂-zu-gin₇ hul-a a-ba-a igi mu-ni-in-du₈
+c.2.2.6,The lament for Eridug,Nibru,C32,ki-šu-tag-ga-ni lu₂ nu-ed₃-de₃
+c.2.2.6,The lament for Eridug,Nibru,C33,kiŋ₂-sig unu₂ gal-ni mu-ni li-bi₂-in-pad₃-de₃
+c.2.2.6,The lament for Eridug,Nibru,C34,{d}en-ki lugal abzu-ke₄
+c.2.2.6,The lament for Eridug,Nibru,C35,šag₄ ba-an-sag₃ ur₅-ra-ni ba-uš₂ inim nitalam-na-še₃
+c.2.2.6,The lament for Eridug,Nibru,C36,ni₂-te-a-ni i-si-iš mi-ni-ib-la₂ šag₄-ka-tab-ba ba-an-nu₂
+c.2.2.6,The lament for Eridug,Nibru,C37,lugal-ŋu₁₀ ur₅ nam-ba-ug₇-e šag₄ nam-ba-sag₃-ge
+c.2.2.6,The lament for Eridug,Nibru,C38,a-a {d}en-ki ur₅ nam-ba-ug₇-e šag₄ nam-ba-sag₃-ge
+c.2.2.6,The lament for Eridug,Nibru,C39,dumu an-na šag₄-zu ki-ur₃-zu-še₃ iri-zu-še₃ muštug₂-zu-še₃
+c.2.2.6,The lament for Eridug,Nibru,C40,iri kur₂-ra tuš-a gig-ga-am₃ iri-zu-še₃ muštug₂-zu-še₃
+c.2.2.6,The lament for Eridug,Nibru,C41,e₂ kur₂-ra tuš-a gig-ga-am₃ e₂-zu-še₃ muštug₂-zu-še₃
+c.2.2.6,The lament for Eridug,Nibru,C42,iri lu₂ ta nu-ub-da-sa₂-a iri-zu-še₃ muštug₂-zu
+c.2.2.6,The lament for Eridug,Nibru,C43,e₂ lu₂ ta nu-ub-da-sa₂-a e₂-zu muštug₂-zu
+c.2.2.6,The lament for Eridug,Nibru,C44,eridug{ki}-ga ud-bi ba-sud-sud ŋi₆-bi ba-til-til
+c.2.2.6,The lament for Eridug,Nibru,C45,aš-te-zu tuš-a hu-mu-ra-ab-be₂
+c.2.2.6,The lament for Eridug,Nibru,C46,mu-nu₂-zu nu₂-a hu-mu-ra-ab-be₂
+c.2.2.6,The lament for Eridug,Nibru,C47,e₂-zu ni₂ ten-na-ab hu-mu-ra-ab-be₂
+c.2.2.6,The lament for Eridug,Nibru,C48,barag kug-zu hul₂-la-bi dirig-bi tuš-a hu-mu-ra-ab-be₂
+c.2.2.6,The lament for Eridug,Nibru,C49,a-a-zu an lugal diŋir-re-e-ne-ke₄ šag₄-zu he₂-eb-dug₃-ge
+c.2.2.6,The lament for Eridug,Nibru,C50,lu₂-ulu₃ lu₂ sun₅-na er₂ e₂ zid dam-za mu-ra-an-de₆ igi-zu-še₃ du₁₂-a-bi
+c.2.2.6,The lament for Eridug,Nibru,C51,lu₂-ulu₃-bi šag₄-zu ha-ba-na-huŋ-ŋe₂₆
+c.2.2.6,The lament for Eridug,Nibru,C52,sizkur₂-ra dug₄-ga-na igi zid bar-mu-še-eb
+c.2.2.6,The lament for Eridug,Nibru,C53,ki-ru-gu₂ ₇-kam-ma-am₃
+c.2.2.6,The lament for Eridug,Nibru,C54,zag-zu he₂-bi₂-in-tag e₂-zu ba-e-de₃-šub
+c.2.2.6,The lament for Eridug,Nibru,C55,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.6,The lament for Eridug,Nibru,C56,ki-bi ha-ra-ab-gi₄-gi₄
+c.2.2.6,The lament for Eridug,Nibru,C57,
+c.2.2.6,The lament for Eridug,Nibru,C58,
+c.2.2.6,The lament for Eridug,Nibru,C59,lu₂ ha-lam ak-a-gin₇ saŋ nu-mu-un-X
+c.2.2.6,The lament for Eridug,UET 6 142,A1,iri me nun-na a gal-la dirig-ga a-e ba-da-ri sag₉
+c.2.2.6,The lament for Eridug,UET 6 142,A2,sug daŋal-bi ŋiri₃ ba-an-ŋa₂-ŋa₂ šag₄-ba {ŋeš}kiši₁₇ kur-ra ib₂-mu₂-mu₂
+c.2.2.6,The lament for Eridug,UET 6 142,A3,ma₂ giri₁₇-zal-la ma₂ tarah abzu a-e ba-da-ri sag₉ amaš-bi kar bi₂-ib₂-kar
+c.2.2.6,The lament for Eridug,UET 6 142,A4,{d}sir₂/sir₂ an-gub-ba u₂ lu₂ ma₂ u₅ na-nam ma₂-saŋ-ŋa₂ igi-bi-da ba-e-šu₂
+c.2.2.6,The lament for Eridug,UET 6 142,A5,e₂-a lu₂-erim₂-e mu-un-hul-uš me-bi šu suh₃-a ba-ab-dug₄
+c.2.2.6,The lament for Eridug,UET 6 142,A6,gi-gu₃-na-ke₄ e₂ kug lu₂-erim₂-e abzu
+c.2.2.6,The lament for Eridug,UET 6 142,A7,e₂-u₆-nir eš₃ an-gin₇ saŋ-bi mu-un-il₂ ŋissu-bi
+c.2.2.6,The lament for Eridug,UET 6 142,A8,kan₄ gu-la kan₄ igi piriŋ-ŋa₂ ki nam-tar-ra lu₂-erim₂-e {ŋeš}ig-bi izi ba-ab-šum₂
+c.2.2.6,The lament for Eridug,UET 6 142,A9,{d}ka-he₂-ŋal₂ {d}igi-he₂-ŋal₂-e i₃-du₈ e₂-a
+c.2.2.6,The lament for Eridug,UET 6 142,A10,{d}en-ki-ke₄ ki ŋeštug₂ uŋ₃-bi
+c.2.2.6,The lament for Eridug,UET 6 142,A11,du ki ha-lam abzu me {d}a-nun-na
+c.2.2.6,The lament for Eridug,UET 6 142,A12,bi₂-ib₂-de₂-a kalam-ma
+c.2.2.6,The lament for Eridug,UET 6 142,A13,ŋiš
+c.2.2.6,The lament for Eridug,UET 6 142,A14,šag₄ iri
+c.2.2.6,The lament for Eridug,UET 6 142,B1,eridug{ki}-ga
+c.2.2.6,The lament for Eridug,UET 6 142,B2,iri ŋiš-gi
+c.2.2.6,The lament for Eridug,UET 6 142,B3,eridug{ki}-ga gud-ab₂
+c.2.2.6,The lament for Eridug,UET 6 142,B4,šah₂ ŋiš-gi nu-me-a
+c.2.2.6,The lament for Eridug,UET 6 142,B5,eridug{ki}-ga gud-gin₇
+c.2.2.6,The lament for Eridug,UET 6 142,B6,nin iri-ke₄ e₂-ŋu₁₀
+c.2.2.6,The lament for Eridug,UET 6 142,B7,ki-ru-gu₂ ₃-kam-ma-am₃
+c.2.2.6,The lament for Eridug,UET 6 142,B8,a-a {d}en-ki a e₂-zu a iri-zu a nam-lu₂-ulu₃-zu kur-ra
+c.2.2.6,The lament for Eridug,UET 6 142,B9,ŋiš-gi₄-ŋal₂-bi-im

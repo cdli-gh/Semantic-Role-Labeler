@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+c.2.6.9.a,An excerpt from a prayer for Rīm-Sîn,,1,{ŋeš}gu-za nam-til₃-la suhuš-bi an gen₆-na-a
+c.2.6.9.a,An excerpt from a prayer for Rīm-Sîn,,2,mu nam-til₃-la-ka mu-zu he₂-em-mi-in-sa₄
+c.2.6.9.a,An excerpt from a prayer for Rīm-Sîn,,3,igi sag₉-ga-ni he₂-mu-e-ši-bar-re
+c.2.6.9.a,An excerpt from a prayer for Rīm-Sîn,,4,ŋiš he₂-ri-in-tuku
+c.2.6.9.a,An excerpt from a prayer for Rīm-Sîn,,5,ki za-za-da
+c.2.6.9.a,An excerpt from a prayer for Rīm-Sîn,,6,nam nam-til₃-la nam-e-eš hu-mu-ri-in-tar
+c.2.6.9.a,An excerpt from a prayer for Rīm-Sîn,,7,{d}ri-im-{d}suen ki aŋ₂ an-na he₂-me-en
+c.2.6.9.a,An excerpt from a prayer for Rīm-Sîn,,8,nam-lugal-zu du-ri₂ he₂-em
+c.2.6.9.a,An excerpt from a prayer for Rīm-Sîn,,9,sipad uŋ₃ šar₂ an gal-e ŋar-ra-ab

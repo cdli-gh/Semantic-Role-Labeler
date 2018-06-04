@@ -1,0 +1,43 @@
+id_text,text_name,version,l_no,text
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,1,in-nin₉ zag dib {d}a-nun-na-ke₄-ne me kilib₃-ba ur₄-ur₄
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,2,igi-zu nir-ŋal₂ an ki-bi-da kur-kur-ra igi ŋal₂
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,3,{d}inana piriŋ an-na mul-mul-lu me-zu galam-galam-ma
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,4,ŋarza-zu niŋ₂ nu-kur₂-ru-dam ŋiš-hur-zu dugud-da
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,5,bar-sud-am₃
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,6,dim₂-ma-zu abzu su₃-ra₂-am₃ igi bar-re nu-um-zu
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,7,a-ra₂ ak-a-zu niŋ₂ gal-gal-am₃ diŋir nu-me-da-sa₂
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,8,me-zu ud silim-ma-bi ba-e-de₆ niŋ₂-nam la-ba-e-da-šub
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,9,nam-lugal zu₂ keše₂-me niŋ₂-nam-ma šu-zu la-ba-ra-e₃
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,10,an lugal-da zag mu-un-de₃-ša₄ nam mu-un-di-ni-ib-tar-re
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,11,{d}en-lil₂-gin₇ ka-ta e₃-a-zu ki-bi-še₃ al-ŋa₂-ŋa₂
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,12,{d}inana mah-di an ki-a gaba-ri nu-tuku-me-en
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,13,lugal ki aŋ₂ diŋir-re-e-ne a-la mu-un-ši-ak-e
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,14,{d}ur-{d}nin-urta šul igi il₂-la-zu me-te-zu-uš en-e
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,15,{d}nin-tur₅-re hi-li mu-un-ši-in-tu-ud u₆ di-zu-še₃ ma-ra-an-gub
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,16,ŋiš-šub-ba-ni sag₉-ge mu-un-ge-en igi-za
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,17,ur₃-ra šu-nir-e he₂-du₇-a nam-nun-še₃ mu-un-il₂
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,18,ir-sim dug₃-ga ku₇-ku₇-da-ke₄ šag₄ kug-zu he₂-em-tum₃
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,19,ŋiš-nu₂ gi₄-rin hi-li si-a-za gu₂
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,20,šul ŋiš tuku nun za-a-še₃ ŋal₂-la me ul-zu-uš ha-ba-gub
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,21,{d}ur-{d}nin-urta-ke₄ uŋ₃ šar₂-re us₂ zid he₂-bi₂-ib-dab₅-be₂
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,22,sa-gid₂-da-am₃
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,23,{d}inana {d}ur-{d}nin-urta-ke₄ ud ul da-ri₂-še₃ muš₃ la-ba-da-tum₂-mu
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,24,ŋiš-gi₄-ŋal₂-bi-im
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,25,{d}inana nin an ki daŋal-la u₁₈-ru
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,26,saŋ mu₂-mu₂-mu₂ ŋi₆ u₃-na kar₂-kar₂
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,27,kur idim-ta e₃-a an uraš-a daŋal bur₂
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,28,teš₂-bi-im ama-na hi-li-bi-im
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,29,he₂-mi-ni-in-mah-en ur-{d}nin-urta-ke₄
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,30,saŋ hu-mu-ni-in-il₂ am gal-bi he₂-a
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,31,gam-gam-mu-na-ab šu he₂-em-ri-ri-e
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,32,a zid-da-ta ri-a-na šu mah-a-ni si-bi₂-ib
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,33,uŋ₃ u₂-sal-la hu-mu-un-de₃-nu₂ na-gada-bi he₂-a
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,34,{d}ur-{d}nin-urta-ke₄ uŋ₃ šar₂-re us₂ zid he₂-bi₂-ib-dab₅-be₂
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,35,sa-ŋar-ra-am₃
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,36,{d}inana ur₂ kug niŋ₂ dug₃-za {d}ur-{d}nin-urta-ke₄ nam-til₃-la ud ha-ba-ni-ib-su₃-ud-de₃
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,37,ŋiš-gi₄-ŋal₂-bi-im
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,38,nin me gal-gal-la nam-nir-ra šu du₇
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,39,{d}inana nin me gal-gal-la nam-nir-ra šu du₇
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,40,{d}ur-{d}nin-urta-ra he₂-ŋal₂ zi su₃-ud-ŋal₂ saŋ-e-eš mu-ni-rig₇
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,41,u₁₈-ru₁₂-bi-im
+c.2.5.6.4,An adab to Inana for Ur-Ninurta (Ur-Ninurta D),,42,a-dab₂ {d}inana-kam

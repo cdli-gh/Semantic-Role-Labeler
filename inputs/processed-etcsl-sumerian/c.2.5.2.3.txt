@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+c.2.5.2.3,An adab for Šu-ilīšu (Šu-ilīšu C),,1,me mah
+c.2.5.2.3,An adab for Šu-ilīšu (Šu-ilīšu C),,2,{d}šu-i₃-li₂-šu nam ud ha-ba-ni-X-su₃-ud
+c.2.5.2.3,An adab for Šu-ilīšu (Šu-ilīšu C),,3,u₁₈-ru₁₂-bi-im
+c.2.5.2.3,An adab for Šu-ilīšu (Šu-ilīšu C),,4,a-da-ab {d}X

@@ -1,0 +1,72 @@
+id_text,text_name,version,l_no,text
+c.4.80.4,A hymn to the E-kur,,1,e₂ gal kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,2,e₂ {d}en-lil₂-la₂ kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,3,e₂ {d}nin-lil₂-la₂ kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,4,e₂ itima kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,5,e₂ ud nu-zu kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,6,e₂ kan₄ mah kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,7,e₂ kan₄ silim-ma kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,8,kisal {d}en-lil₂-la₂ kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,9,hur-saŋ-galam-ma kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,10,kan₄ gal-di kug kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,11,kan₄ še nu-kud kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,12,ub-šu-unken-na kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,13,ŋa₂-ŋiš-šu₂-a kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,14,e₂ {d}nin-lil₂-la₂ kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,15,kan₄-in-nam-ra kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,16,e₂-itid-da-buru₁₄ kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,17,kisal e₂-gal-mah kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,18,e₂-itid-da-buru₁₄ mah kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,19,en-tum₂-gal-zu kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,20,in-nam-gid₂-da-zu kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,21,kan₄ {d}suen kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,22,du₆-kug ki kug kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,23,a-šag₄ e₂-dim₃-ma kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,24,an-ne₂-ŋar-ra kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,25,aš-te ki sikil kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,26,e₂-tilla₂-mah kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,27,ŋa₂-{ŋeš}apin-na kur-ra-am₃ gal
+c.4.80.4,A hymn to the E-kur,,28,sa-gid₂-da-am₃
+c.4.80.4,A hymn to the E-kur,,29,bi₂-in-dug₄ an-še₃
+c.4.80.4,A hymn to the E-kur,,30,ŋiš-gi₄-ŋal₂-bi-im
+c.4.80.4,A hymn to the E-kur,,31,bi₂-in-dug₄-ga-ra bi₂-in-dug₄-ga-ra
+c.4.80.4,A hymn to the E-kur,,32,e₂ ud-dam ša-mu-na-e₃
+c.4.80.4,A hymn to the E-kur,,33,lu₂ kur-ra bi₂-in-dug₄-ga-ra
+c.4.80.4,A hymn to the E-kur,,34,e₂ ud-dam ša-mu-na-e₃
+c.4.80.4,A hymn to the E-kur,,35,e₂ {d}en-lil₂-ka bi₂-in-dug₄-ga-ra
+c.4.80.4,A hymn to the E-kur,,36,e₂ ud-dam ša-mu-na-e₃
+c.4.80.4,A hymn to the E-kur,,37,e₂ {d}nin-lil₂-ka bi₂-in-dug₄-ga-ra
+c.4.80.4,A hymn to the E-kur,,38,e₂ ud-dam ša-mu-na-e₃
+c.4.80.4,A hymn to the E-kur,,39,e₂ {d}nin-urta-ka bi₂-in-dug₄-ga-ra
+c.4.80.4,A hymn to the E-kur,,40,e₂ ud-dam ša-mu-na-e₃
+c.4.80.4,A hymn to the E-kur,,41,e₂ dumu nun-na-ka bi₂-in-dug₄-ga-ra
+c.4.80.4,A hymn to the E-kur,,42,ki-ru-gu₂-dam
+c.4.80.4,A hymn to the E-kur,,43,e₂-e me gal-la saŋ mi-ni-ib₂-il₂
+c.4.80.4,A hymn to the E-kur,,44,šag₄-bi-ta kur šim {ŋeš}erin-na-kam
+c.4.80.4,A hymn to the E-kur,,45,e₂ {d}en-lil₂-la₂-ke₄ me gal-la saŋ mi-ni-ib-il₂
+c.4.80.4,A hymn to the E-kur,,46,šag₄-bi-ta kur šim {ŋeš}erin-na-kam
+c.4.80.4,A hymn to the E-kur,,47,e₂ {d}nin-lil₂-la₂-ke₄ me gal-la saŋ mi-ni-ib-il₂
+c.4.80.4,A hymn to the E-kur,,48,šag₄-bi-ta kur šim {ŋeš}erin-na-kam
+c.4.80.4,A hymn to the E-kur,,49,kisal {d}en-lil₂-la₂-ke₄ me gal-la saŋ mi-ni-ib-il₂
+c.4.80.4,A hymn to the E-kur,,50,šag₄-bi-ta kur šim {ŋeš}erin-na-kam
+c.4.80.4,A hymn to the E-kur,,51,kisal {d}nin-lil₂-la₂-ke₄ me gal-la saŋ mi-ni-ib-il₂
+c.4.80.4,A hymn to the E-kur,,52,šag₄-bi-ta kur šim {ŋeš}erin-na-kam
+c.4.80.4,A hymn to the E-kur,,53,sa-ŋar-ra-am₃
+c.4.80.4,A hymn to the E-kur,,54,am₃-da-hul₂-la
+c.4.80.4,A hymn to the E-kur,,55,ŋiš-gi₄-ŋal₂-bi-im
+c.4.80.4,A hymn to the E-kur,,56,lugal-bi e₂ nam-dumu zid-da lugal {d}en-lil₂-ra tum₂-ma-am₃
+c.4.80.4,A hymn to the E-kur,,57,ur-saŋ {d}nin-urta e₂ nam-dumu zid-da
+c.4.80.4,A hymn to the E-kur,,58,lugal {d}en-lil₂-ra tum₂-ma-am₃
+c.4.80.4,A hymn to the E-kur,,59,dumu-KA {d}nin-lil₂-la₂ e₂ nam-dumu zid-da
+c.4.80.4,A hymn to the E-kur,,60,lugal {d}en-lil₂-ra tum₂-ma-am₃
+c.4.80.4,A hymn to the E-kur,,61,en ur-saŋ e₂-kur-ra e₂ nam-dumu zid-da
+c.4.80.4,A hymn to the E-kur,,62,lugal {d}en-lil₂-ra tum₂-ma-am₃
+c.4.80.4,A hymn to the E-kur,,63,dumu-KA {d}en-lil₂-la₂ e₂ nam-dumu zid-da
+c.4.80.4,A hymn to the E-kur,,64,lugal {d}en-lil₂-ra tum₂-ma-am₃
+c.4.80.4,A hymn to the E-kur,,65,en {d}aš-im₂-babbar e₂ nam-dumu zid-da
+c.4.80.4,A hymn to the E-kur,,66,lugal {d}en-lil₂-ra tum₂-ma-am₃
+c.4.80.4,A hymn to the E-kur,,67,dumu nun e₂-kur-ra e₂ nam-dumu zid-da
+c.4.80.4,A hymn to the E-kur,,68,lugal {d}en-lil₂-ra tum₂-ma-am₃
+c.4.80.4,A hymn to the E-kur,,69,
+c.4.80.4,A hymn to the E-kur,,70,{d}en-lil₂-la₂ lu₂ šag₄-ga-na
+c.4.80.4,A hymn to the E-kur,,71,ŋiš-gi₄-ŋal₂-bi-im

@@ -1,0 +1,49 @@
+id_text,text_name,version,l_no,text
+c.1.3.4,Inana and Gudam,,A1,gud-dam iri{ki}
+c.1.3.4,Inana and Gudam,,B1,gud-dam
+c.1.3.4,Inana and Gudam,,B2,gud-dam
+c.1.3.4,Inana and Gudam,,B3,{d}inana
+c.1.3.4,Inana and Gudam,,B4,gud-dam šag₄ unug{ki}
+c.1.3.4,Inana and Gudam,,B5,{e₂}šutum
+c.1.3.4,Inana and Gudam,,B6,gud-dam kaš kurun
+c.1.3.4,Inana and Gudam,,B7,{zabar}aga {zabar}aga
+c.1.3.4,Inana and Gudam,,C1,{zabar}aga im-gur₄-gur₄-re
+c.1.3.4,Inana and Gudam,,C2,ti-lim-da ma₂-gur₈ kug im-bi-bi-re
+c.1.3.4,Inana and Gudam,,C3,zid₂-gu sig₅ suhur-sun₄-la₂{ku₆}
+c.1.3.4,Inana and Gudam,,C4,ku₆ šum₂-e ku₆ zu₂-lum-ma-gin₇
+c.1.3.4,Inana and Gudam,,C5,gud-dam-ra e-sir₂ unug{ki}-ga-ke₄ šar₂-am₃ mu-na-an-us₂
+c.1.3.4,Inana and Gudam,,C6,šar₂-ra {ŋeš}tukul-a mu-na-an-dur₂-ru-ne-eš
+c.1.3.4,Inana and Gudam,,C7,nar-a-ni lugal-gaba-ŋal₂ gub-bu-de₃ ba-ra-e₃
+c.1.3.4,Inana and Gudam,,C8,ugnim-e igi im-ma-an-sig₁₀
+c.1.3.4,Inana and Gudam,,C9,nar-e en₃-du-a šu i-ni-in-gi₄ sa šu-na bi₂-in-RU
+c.1.3.4,Inana and Gudam,,C10,i₃-gu₇-a-zu i₃-gu₇-a-zu
+c.1.3.4,Inana and Gudam,,C11,ninda nu-e-gu₇ uzu-zu-um i₃-gu₇
+c.1.3.4,Inana and Gudam,,C12,i₃-naŋ-a-zu i₃-naŋ-a-zu
+c.1.3.4,Inana and Gudam,,C13,kaš nu-e-naŋ uš₂-zu-um i₃-naŋ
+c.1.3.4,Inana and Gudam,,C14,gud-dam-e e-sir₂ unug{ki}-ga-ke₄ šar₂-am₃ ma-ra-mi-u₃-us₂
+c.1.3.4,Inana and Gudam,,C15,šar₂-ra-am₃ {ŋeš}tukul-a ma-ra-dur₂-ru-ne-eš
+c.1.3.4,Inana and Gudam,,C16,a-na-ak-en munus-e ŋa₂-a ma-an-dug₄-ga un-ne-DU-de₃-en
+c.1.3.4,Inana and Gudam,,C17,gud-dam-e haš₂ tibir-ra bi₂-in-ra ni₂ su-e bi₂-ib₂-us₂
+c.1.3.4,Inana and Gudam,,C18,šar₂-ur₃ a₂ nam-ur-saŋ-ŋa₂-ŋu₁₀ šu nu-um-ma-ti
+c.1.3.4,Inana and Gudam,,C19,e₂ zabalam{ki} ŋa₂-a ki-bi dal-la mi-ni-gi₄
+c.1.3.4,Inana and Gudam,,C20,{ŋeš}dal e₂-an-na pa-ba mi-ni-in-kud
+c.1.3.4,Inana and Gudam,,C21,gud-dam sila-še₃ im-ma-na-ra-e₃
+c.1.3.4,Inana and Gudam,,C22,gud-dam-e e-sir₂ unug{ki}-ga-ke₄ šar₂-ra mu-ni-in-gaz
+c.1.3.4,Inana and Gudam,,C23,šar₂-ra {ŋeš}tukul-a-na mu-ni-in-ug₇
+c.1.3.4,Inana and Gudam,,C24,{ŋeš}ig abul-la im-ma-an-guru₅-guru₅
+c.1.3.4,Inana and Gudam,,C25,a gaba-na-ka im-ma-da-an-e₃
+c.1.3.4,Inana and Gudam,,C26,šu-peš tur šu-peš {d}inana-ke₄
+c.1.3.4,Inana and Gudam,,C27,{urud}dur₁₀-tab-ba mu-na-an-bar-re-ia-ka
+c.1.3.4,Inana and Gudam,,C28,gud-dam-ra im-ma-an-ra-ah
+c.1.3.4,Inana and Gudam,,C29,gud-dam-e er₂ im-ma-an-pad₃ šeₓ-šeₓ i₃-ŋa₂-ŋa₂
+c.1.3.4,Inana and Gudam,,C30,{d}inana zi-ŋu₁₀ šum₂-ma-ab
+c.1.3.4,Inana and Gudam,,C31,gud kur-ra ga-mu-ra-ab-šum₂ tur₃-zu ga-mu-ra-ab-lu
+c.1.3.4,Inana and Gudam,,C32,udu kur-ra ga-mu-ra-ab-šum₂ amaš-zu ga-mu-ra-ab-lu
+c.1.3.4,Inana and Gudam,,C33,kug {d}inana-ke₄ mu-na-ni-ib-gi₄-gi₄
+c.1.3.4,Inana and Gudam,,C33A,gud kur-ra ŋa₂-a-ra
+c.1.3.4,Inana and Gudam,,C33B,udu kur-ra ŋa₂-a-ra
+c.1.3.4,Inana and Gudam,,C33C,{ŋeš}tukul-še₃
+c.1.3.4,Inana and Gudam,,C34,a-šag₄ zabalam{ki}-a dur₂ ŋar bi₂-e-ŋar-ra e-duru₂-bi ki-nu₂-ba
+c.1.3.4,Inana and Gudam,,C35,daŋal-ba anše ha-ra-ab-huŋ-e al hu-mu-ra-ab-be₂
+c.1.3.4,Inana and Gudam,,C36,{d}inana nam-ur-saŋ ga-am₃-dug₄
+c.1.3.4,Inana and Gudam,,C37,za₃-mi₂-zu dug₃-ga-am₃

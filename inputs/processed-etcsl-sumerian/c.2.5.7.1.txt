@@ -1,0 +1,44 @@
+id_text,text_name,version,l_no,text
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,1,en kur gal-e tud-da mah-a-ni zag nu-sa₂
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,2,{d}nin-urta gal-di an ki-a dirig {d}a-nun-ke₄-ne
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,3,palil diŋir-re-e-ne ŋiškim-til₃ an-na
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,4,gur₃-ru ud-gin₇ šeg₁₁ gi₄-gi₄ šen-šen-na gu₃ mur ak
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,5,am gal-gin₇ du₇-du₇ bad₃ ki-bal gul-gul
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,6,{d}en-lil₂-la₂-ke₄ kur šu-ni nu-e₃
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,7,{d}nu-nam-nir-ra dug₄-ga-ni ki-bi-še₃ ŋar
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,8,nam-nun-na tum₂-ma na de₅ e₂-kur-ra
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,9,sag₂ nu-di {ŋeš}rab₃ diŋir-re-e-ne
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,17,saŋ-tab-a-ni he₂-a
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,18,dumu {d}iškur-ra-ke₄
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,19,u₂ dug₃ he₂-bi₂-ib₂-gu₇-e
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,20,ŋal₂ mu sa₄ si he₂-em-sa₂-sa₂-e
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,21,e₂-šu-me-ša₄ ki-tuš ki aŋ₂-ŋa₂-ni saŋ us₂-bi he₂-a
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,22,nidba gal-gal-la-ni ud šu₂-uš-e muš nam-ba-an-tum₂-mu
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,23,{d}bur-{d}suen me-te nam-lugal-la ki aŋ₂ an-na-ke₄
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,24,mu giri₁₇-zal nam-til₃ niŋ₂ dug₃-ga ha-ba-ni-ib-su₃-re₆
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,25,sa-gid₂-da-am₃
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,26,{d}nin-urta {d}bur-{d}suen-ra ni₂-tuku-ni a₂-tah-a-ni he₂-a
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,27,ŋiš-gi₅-ŋal₂-bi-im
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,28,a₂ zid-da {d}en-lil₂-la₂ kur ki-bal gul-gul
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,29,{d}nin-urta a₂ zid-da {d}en-lil₂-la₂ kur ki-bal gul-gul
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,30,lugal zig₃-ga-ni a-ma-ru na-me saŋ nu-šum₂-mu
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,31,{d}nin-urta ud sumur me₃-a erim₂-e ŋiri₃ saga₁₁ di
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,32,nam-ur-saŋ da-da-ra-še₃ dug₄-ga šul gaba-ri nu-tuku-a
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,33,a₂ mah šum₂-ma {d}nu-nam-nir-ra šag₄ a-a-na dug₃-dug₃
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,34,dug₄-ga-dug₄-ga u₁₈-ru-zu nam-mah gal-gal-la
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,35,{d}nin-urta dug₄-ga-dug₄-ga u₁₈-ru-zu nam-mah gal-gal-la
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,36,ki-bal-a sig₁₀-sig₁₀-ge₅ gu₂ du₃-a gam-gam
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,37,ŋa₂-ŋa₂ ud-gin₇ šeg₁₁ gi₄-gi₄
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,38,
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,39,
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,40,
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,45,
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,46,sig-ta
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,47,sa-ŋar-ra-am₃
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,48,mu pad₃-da-zu {d}bur-{d}suen
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,49,ŋiš-gi₅-ŋal₂-bi-im
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,50,ur-saŋ ušum zag dib
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,51,{d}nin-urta ušum zag dib
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,52,{d}bur-{d}suen zid-de₃-eš pad₃-da-zu
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,53,u₁₈-ru₁₂-bi-im
+c.2.5.7.1,An adab to Ninurta for Būr-Suen (Būr-Suen A),,54,a-da-ab {d}nin-urta-ka-kam

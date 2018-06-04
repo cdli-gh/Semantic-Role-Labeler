@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+c.5.3.7,The debate between Date Palm and Tamarisk,,1,{ŋeš}šinig ka-ba mu-ni-in-ak bi₂-in-ba
+c.5.3.7,The debate between Date Palm and Tamarisk,,2,inim bi₂-in-dug₄ {ŋeš}ŋišnimbar-ra-še₃
+c.5.3.7,The debate between Date Palm and Tamarisk,,3,su-ŋu₁₀ su diŋir-re-e-ne-ke₄
+c.5.3.7,The debate between Date Palm and Tamarisk,,4,za-e-me-en gurun-zu mu-un-gub
+c.5.3.7,The debate between Date Palm and Tamarisk,,5,igi-ŋu₁₀-ta mu-un-ŋar
+c.5.3.7,The debate between Date Palm and Tamarisk,,6,geme₂-gin₇ igi nin-a-ni am-te
+c.5.3.7,The debate between Date Palm and Tamarisk,,7,{ŋeš}ba-an nu-mu-un-ŋa₂-ŋa₂
+c.5.3.7,The debate between Date Palm and Tamarisk,,8,šu gi₄-gi₄ za-e-me-en niŋ₂-sa-sa-ha
+c.5.3.7,The debate between Date Palm and Tamarisk,,9,ŋe₂₆-e si mu-un-DU
+c.5.3.7,The debate between Date Palm and Tamarisk,,10,ŋiri₃-sig₁₀-zu igi-ŋu₁₀-ta
+c.5.3.7,The debate between Date Palm and Tamarisk,,11,sumur-ra-a-ni-ta {ŋeš}ŋišnimbar mu-un-na-ni-ib-gi₄-gi₄
+c.5.3.7,The debate between Date Palm and Tamarisk,,12,inim bi₂-in-dug₄ {ŋeš}šinig šeš-bi-X
+c.5.3.7,The debate between Date Palm and Tamarisk,,13,tukum-bi ugu-ŋa₂-ra barag al-du₃-du₃-ne
+c.5.3.7,The debate between Date Palm and Tamarisk,,14,i-ga-in-sag₉-sag₉-ne
+c.5.3.7,The debate between Date Palm and Tamarisk,,15,diŋir nu-un-pad₃-de₃-ne im-ma-e-še
+c.5.3.7,The debate between Date Palm and Tamarisk,,16,su diŋir-re-e-ne eš₃-bi ze₂-me-en
+c.5.3.7,The debate between Date Palm and Tamarisk,,17,barag diŋir-re-e-ne mu dug₃ ib₂-sa₄-sa₄-ne
+c.5.3.7,The debate between Date Palm and Tamarisk,,18,kug-babbar kuš diŋir-re-e-ne teš₂-a
+c.5.3.7,The debate between Date Palm and Tamarisk,,19,niŋ₂ diŋir-ra niŋ₂ sag₉-zu dug₄-ga-ab

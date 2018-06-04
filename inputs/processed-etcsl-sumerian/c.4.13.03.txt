@@ -1,0 +1,61 @@
+id_text,text_name,version,l_no,text
+c.4.13.03,A balbale to Nanna (Nanna C),,A1,e₂ {d}utu e₃-a ki-en-gi-ra
+c.4.13.03,A balbale to Nanna (Nanna C),,A2,e₂-kiš-nu-ŋal₂ šu-luh dadag-ga-am₃
+c.4.13.03,A balbale to Nanna (Nanna C),,A3,e₂ {d}nanna nam-mah-za ga-ri-dug₄
+c.4.13.03,A balbale to Nanna (Nanna C),,A4,eš₃ urim₂{ki} mu-zu pa ga-an-e₃
+c.4.13.03,A balbale to Nanna (Nanna C),,A5,hur-saŋ sikil šag₄ kug-ta e₃-a
+c.4.13.03,A balbale to Nanna (Nanna C),,A6,urim₂{ki} igi-ŋal₂ an uraš-a
+c.4.13.03,A balbale to Nanna (Nanna C),,A7,e₂-temen-ni₂-guru₃-a tum₂-ma
+c.4.13.03,A balbale to Nanna (Nanna C),,A8,an-da nam-lugal mu-un-da-e-ba
+c.4.13.03,A balbale to Nanna (Nanna C),,A9,nam-mah-zu kur-kur-re
+c.4.13.03,A balbale to Nanna (Nanna C),,A10,su₃-ra₂-še₃ mu-zu pa ga-an-e₃
+c.4.13.03,A balbale to Nanna (Nanna C),,A11,šu-luh nam-en-na-ke₄ si bi₂-sa₂-a
+c.4.13.03,A balbale to Nanna (Nanna C),,A12,urim₂{ki}-ma dur₂ ki ba-ni-X-ŋar
+c.4.13.03,A balbale to Nanna (Nanna C),,A13,mu-zu dug₃-ga-am₃ nun-e
+c.4.13.03,A balbale to Nanna (Nanna C),,A14,inim kug-zu an-ra ša-mu-sag₉
+c.4.13.03,A balbale to Nanna (Nanna C),,A15,en-he₂-du₇-an-na-ŋu₁₀ an-na he₂-dirig
+c.4.13.03,A balbale to Nanna (Nanna C),,A16,šu-luh ŋi₆-par₄-ra
+c.4.13.03,A balbale to Nanna (Nanna C),,A17,me nam-en-na
+c.4.13.03,A balbale to Nanna (Nanna C),,A18,ŋi₆-par₄-ra dib-dib-be₂
+c.4.13.03,A balbale to Nanna (Nanna C),,A19,{d}aš-im₂-babbar-re
+c.4.13.03,A balbale to Nanna (Nanna C),,A21,zi
+c.4.13.03,A balbale to Nanna (Nanna C),,A22,šir₃
+c.4.13.03,A balbale to Nanna (Nanna C),,A23,šir₃ kug
+c.4.13.03,A balbale to Nanna (Nanna C),,A24,nun-e
+c.4.13.03,A balbale to Nanna (Nanna C),,A25,ŋeštug₂
+c.4.13.03,A balbale to Nanna (Nanna C),,A26,me gal-gal-la
+c.4.13.03,A balbale to Nanna (Nanna C),,A27,an {d}en-lil₂
+c.4.13.03,A balbale to Nanna (Nanna C),,A28,{d}nin-gal-la
+c.4.13.03,A balbale to Nanna (Nanna C),,A29,he₂-dirig u₃-tud
+c.4.13.03,A balbale to Nanna (Nanna C),,A30,{d}aš-im₂-babbar-re
+c.4.13.03,A balbale to Nanna (Nanna C),,A31,iti₆ niŋ₂ dug₃-gin₇
+c.4.13.03,A balbale to Nanna (Nanna C),,A32,ŋi₆-par₄ šag₄ hul₂-la-ŋu₁₀
+c.4.13.03,A balbale to Nanna (Nanna C),,A33,an {d}en-lil₂-bi
+c.4.13.03,A balbale to Nanna (Nanna C),,A34,ama {d}nin-gal hi-li
+c.4.13.03,A balbale to Nanna (Nanna C),,A35,zirruₓ
+c.4.13.03,A balbale to Nanna (Nanna C),,A36,en-he₂-du₇-an-na
+c.4.13.03,A balbale to Nanna (Nanna C),,A37,lugal-ŋu₁₀
+c.4.13.03,A balbale to Nanna (Nanna C),,A38,me gal-gal-la-ni
+c.4.13.03,A balbale to Nanna (Nanna C),,A39,šir₃ kug su₃-ra₂-aŋ₂
+c.4.13.03,A balbale to Nanna (Nanna C),,A40,mu-zu
+c.4.13.03,A balbale to Nanna (Nanna C),,A41,en-he₂-du₇-an-na an-na
+c.4.13.03,A balbale to Nanna (Nanna C),,A42,la-la lu₂-e
+c.4.13.03,A balbale to Nanna (Nanna C),,B1,lu₂ šu-luh-zu mu-un-zu-a
+c.4.13.03,A balbale to Nanna (Nanna C),,B2,hu-mu-un-ak-e
+c.4.13.03,A balbale to Nanna (Nanna C),,B3,unu sikil-la ša-ra-an-du₃
+c.4.13.03,A balbale to Nanna (Nanna C),,B4,nu₂-a nu-un-ši-ku₄-ku₄
+c.4.13.03,A balbale to Nanna (Nanna C),,B5,še-zu ŊA₂×GI sikil-la ma-ra-ar₃-ar₃-e
+c.4.13.03,A balbale to Nanna (Nanna C),,B6,ar₃-ar₃-ra-zu unu-na la-ba-e-nu₂
+c.4.13.03,A balbale to Nanna (Nanna C),,B7,niŋ₂-ar₃-ra-zu a nu-tag-ge
+c.4.13.03,A balbale to Nanna (Nanna C),,B8,munu₄-zu niŋ₂ šu bal nu-ak-dam
+c.4.13.03,A balbale to Nanna (Nanna C),,B9,e₂-gal {d}suen-na lu₂ a-na-zu mu-un-zu
+c.4.13.03,A balbale to Nanna (Nanna C),,B10,al-la₂-e gudug-e-ne-ka
+c.4.13.03,A balbale to Nanna (Nanna C),,B11,{gi}ma-sa₂-ab ku₄-ku₄-dam asil₃-la₂ di-dam
+c.4.13.03,A balbale to Nanna (Nanna C),,B12,e₂ dug₃-ge-da e₂ ŋa₂-ŋa₂-dam
+c.4.13.03,A balbale to Nanna (Nanna C),,B13,ki šu-luh kug-ga si sa₂-e-dam
+c.4.13.03,A balbale to Nanna (Nanna C),,B14,{d}nin-gal en-he₂-du₇-an-na-ŋu₁₀
+c.4.13.03,A balbale to Nanna (Nanna C),,B15,ki-bi hu-mu-na-gi₄-gi₄
+c.4.13.03,A balbale to Nanna (Nanna C),,B16,{d}nanna mi₂ ga-e-dug₄
+c.4.13.03,A balbale to Nanna (Nanna C),,B17,{d}suen mu-zu pa ga-an-e₃
+c.4.13.03,A balbale to Nanna (Nanna C),,B18,ŋiš-gi₄-ŋal₂-bi-im
+c.4.13.03,A balbale to Nanna (Nanna C),,B19,bal-bal-e {d}nanna-kam

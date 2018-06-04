@@ -1,0 +1,58 @@
+id_text,text_name,version,l_no,text
+c.5.5.1,The message of Lu-diŋira to his mother,,1,lu₂-kaš₄-e lugal-la har-ra-an-na ŋen-na
+c.5.5.1,The message of Lu-diŋira to his mother,,2,nibru{ki} ga-e-gi₄ inim-bi dug₄-ba-ab
+c.5.5.1,The message of Lu-diŋira to his mother,,3,kaskal su₃-ra₂ i-im-du-de₃-en
+c.5.5.1,The message of Lu-diŋira to his mother,,4,ama-ŋu₁₀ mud-am₃ u₃ nu-mu-ni-ku-ku
+c.5.5.1,The message of Lu-diŋira to his mother,,5,ama₅-a-ni ka-ŋiri₃ al-gib-ba
+c.5.5.1,The message of Lu-diŋira to his mother,,6,lu₂ du kaskal-la silim-ma-ŋu₁₀ en₃ al-tar-tar-re
+c.5.5.1,The message of Lu-diŋira to his mother,,7,u₃-na-a-dug₄ silim-ma-ŋu₁₀ šu-ni-še₃ ŋar-i₃
+c.5.5.1,The message of Lu-diŋira to his mother,,8,ama-ŋu₁₀ hul₂-hul₂-la-am₃ še-er-ka-an mi-ri-in-dug₄-ga
+c.5.5.1,The message of Lu-diŋira to his mother,,9,tukum-bi ama-ŋu₁₀ nu-e-zu ŋiškim ga-mu-ra-ab-šum₂
+c.5.5.1,The message of Lu-diŋira to his mother,,10,mu-bi ša-at-eš₄-tar₂ inim-bi-ta
+c.5.5.1,The message of Lu-diŋira to his mother,,11,alan muš₂-a me-dim₂ bar šu-ta ŋar-ra
+c.5.5.1,The message of Lu-diŋira to his mother,,12,diŋir sag₉-ga dag-gi₄-a-ka-ni
+c.5.5.1,The message of Lu-diŋira to his mother,,13,ud tur-ra-ni-ta nam-ma-ni tar-ra-am₃
+c.5.5.1,The message of Lu-diŋira to his mother,,14,ne₃ ni-te-am₃ e₂ ušbar-ra-ni si sa₂ mu-un-ak
+c.5.5.1,The message of Lu-diŋira to his mother,,15,diŋir nin-a-ni-še₃ sun₅-na-še₃ gub-ba
+c.5.5.1,The message of Lu-diŋira to his mother,,16,ki {d}inana-ke₄ kiŋ₂-kiŋ₂ mu-un-zu
+c.5.5.1,The message of Lu-diŋira to his mother,,17,inim lugal-la-ke₄ inim-bi li-bi-gu-ul-e
+c.5.5.1,The message of Lu-diŋira to his mother,,18,šu dim₄-ma-am₃ niŋ₂-gur₁₁ mu-un-šar₂-šar₂
+c.5.5.1,The message of Lu-diŋira to his mother,,19,ki aŋ₂ mi₂ dug₄-ga zi-šag₄-ŋal₂-la-am₃
+c.5.5.1,The message of Lu-diŋira to his mother,,20,sila₄ i₃ dug₃-ga lal₃ i₃-nun zal-le šag₄-ga-ke₄
+c.5.5.1,The message of Lu-diŋira to his mother,,21,ŋiškim ama-ŋu₁₀ ₂-kam-ma ga-mu-ra-ab-šum₂
+c.5.5.1,The message of Lu-diŋira to his mother,,22,ama-ŋu₁₀ su₃-ra₂-aŋ₂-gin₇ an-na lu-lim hur-saŋ-ŋa₂
+c.5.5.1,The message of Lu-diŋira to his mother,,23,mul a₂-gu₂-zig₃-ga ud MAŠ daŋal-la-ke₄
+c.5.5.1,The message of Lu-diŋira to his mother,,24,{na₄}gug kal-la {na₄}du₈-ši-a mar-ha-ši{ki}
+c.5.5.1,The message of Lu-diŋira to his mother,,25,gi₁₆-sa šeš lugal hi-li du₈-du₈-a
+c.5.5.1,The message of Lu-diŋira to his mother,,26,{na₄}kišib nir₂-a {d}utu-gin₇ he₂-du₇-a
+c.5.5.1,The message of Lu-diŋira to his mother,,27,har nagga šu-gur an-ta-sur-ra
+c.5.5.1,The message of Lu-diŋira to his mother,,28,lagab kug-sig₁₇ kug-babbar zalag-ga-kam
+c.5.5.1,The message of Lu-diŋira to his mother,,29,niŋ₂-zi-ŋal₂ niŋ₂ zi pa e₃ zi bur₂
+c.5.5.1,The message of Lu-diŋira to his mother,,30,{d}lamma {na₄}ŋiš-nu₁₁-gal ki-gal {na₄}za-gin₃-na gub-ba-am₃
+c.5.5.1,The message of Lu-diŋira to his mother,,31,dim₃-ma zu₂ til-la hi-li šu ŋiri₃ gur₃-ru-a
+c.5.5.1,The message of Lu-diŋira to his mother,,32,ŋiškim ama-ŋu₁₀ ₃-kam-ma ga-mu-ra-ab-šum₂
+c.5.5.1,The message of Lu-diŋira to his mother,,33,ama-ŋu₁₀ šeŋ₁₄ an-na a numun saŋ-ŋa₂-ke₄
+c.5.5.1,The message of Lu-diŋira to his mother,,34,buru₁₄ he₂-nun še gu-nu mu₂-a
+c.5.5.1,The message of Lu-diŋira to his mother,,35,{ŋeš}kiri₆ me-a i-si-iš la₂-la₂-e
+c.5.5.1,The message of Lu-diŋira to his mother,,36,{ŋeš}u₃-suh₅ a de₂-a {ŋeš}li šu tag-ga
+c.5.5.1,The message of Lu-diŋira to his mother,,37,gurun zag-mu-a niŋ₂-tu-hu-um nesaŋ-ŋa₂
+c.5.5.1,The message of Lu-diŋira to his mother,,38,pa₅-šita₃ mu₂-sar-re a hi-li-a de₆-a
+c.5.5.1,The message of Lu-diŋira to his mother,,39,zu₂-lum dilmun-na ku₇-ku₇ zu₂-lum saŋ kiŋ₂-kiŋ₂-e
+c.5.5.1,The message of Lu-diŋira to his mother,,40,ŋiškim ama-ŋu₁₀ ₄-kam-ma ga-mu-ra-ab-šum₂
+c.5.5.1,The message of Lu-diŋira to his mother,,41,ama-ŋu₁₀ ezen sizkur₂-re asil-la₂ si-a
+c.5.5.1,The message of Lu-diŋira to his mother,,42,sizkur₂ a₂-ki-tum igi du₈-de₃ huš-a
+c.5.5.1,The message of Lu-diŋira to his mother,,43,lu-lu-gu-na dumu lugal-la i-lu he₂-ŋal₂-la-kam
+c.5.5.1,The message of Lu-diŋira to his mother,,44,ki-e-ne-di hul₂-hul₂-le ŋar-ra
+c.5.5.1,The message of Lu-diŋira to his mother,,44A,gurun he₂-ŋal₂
+c.5.5.1,The message of Lu-diŋira to his mother,,45,ki aŋ₂ šag₄ ki aŋ₂ la-la nu-gi₄-gi₄-da
+c.5.5.1,The message of Lu-diŋira to his mother,,46,inim de₆-a lu₂-nam-ra ama-ni-še₃ gur-ra-am₃
+c.5.5.1,The message of Lu-diŋira to his mother,,47,ŋiškim ama-ŋu₁₀ ₅-kam-ma ga-mu-ra-ab-šum₂
+c.5.5.1,The message of Lu-diŋira to his mother,,48,ama-ŋu₁₀ {ŋeš}ŋišnimbar ir-si-im dug₃-dug₃-ga
+c.5.5.1,The message of Lu-diŋira to his mother,,49,gigir šim-li {ŋeš}mar-šum {ŋeš}taškarin
+c.5.5.1,The message of Lu-diŋira to his mother,,50,tug₂ sag₉-ga i₃ gu-la ak-a
+c.5.5.1,The message of Lu-diŋira to his mother,,51,ga-ra-an he₂-me-du gu₂ me-er-me-er-re-da
+c.5.5.1,The message of Lu-diŋira to his mother,,52,ama-ŋu₁₀ {dug}šaŋan nunuz ga-nu₁₁{mušen} i₃ saŋ šag₄-bi dirig
+c.5.5.1,The message of Lu-diŋira to his mother,,52A,munus sag₉-ga {d}lamma tuku-a
+c.5.5.1,The message of Lu-diŋira to his mother,,52B,munus {d}a-ru-ru arhuš mu-ra-an-šum₂ u₃-tud
+c.5.5.1,The message of Lu-diŋira to his mother,,53,ŋiškim a-ra-dug₄-ga-ŋu₁₀ igi dalla-bi gub-za
+c.5.5.1,The message of Lu-diŋira to his mother,,54,{m}lu₂-diŋir-ra dumu ki aŋ₂-zu silim-ma e-ne-ra dug₄-na

@@ -1,0 +1,22 @@
+id_text,text_name,version,l_no,text
+c.0.2.05,OB catalogue from Urim (U3),,A1,ki-ur₃ gal-e
+c.0.2.05,OB catalogue from Urim (U3),,A2,še-er-zid
+c.0.2.05,OB catalogue from Urim (U3),,A3,ur-saŋ a₂-ŋal₂
+c.0.2.05,OB catalogue from Urim (U3),,A4,lu₂ di lu₂-lu₂ di
+c.0.2.05,OB catalogue from Urim (U3),,A5,ŋa₂-am₃ {d}ba-u₂-ŋu₁₀
+c.0.2.05,OB catalogue from Urim (U3),,A6,en inim nun zu
+c.0.2.05,OB catalogue from Urim (U3),,A7,ur-saŋ nam-he₂-a
+c.0.2.05,OB catalogue from Urim (U3),,A8,ur-saŋ en ud huš
+c.0.2.05,OB catalogue from Urim (U3),,A9,ur-saŋ ŋe₂₆-e
+c.0.2.05,OB catalogue from Urim (U3),,A10,en me kug-kug-ga
+c.0.2.05,OB catalogue from Urim (U3),,A11,ur-saŋ en nir-ŋal₂ en
+c.0.2.05,OB catalogue from Urim (U3),,A12,
+c.0.2.05,OB catalogue from Urim (U3),,A13,
+c.0.2.05,OB catalogue from Urim (U3),,B1,
+c.0.2.05,OB catalogue from Urim (U3),,B2,
+c.0.2.05,OB catalogue from Urim (U3),,B3,
+c.0.2.05,OB catalogue from Urim (U3),,B4,ur {d}lamma
+c.0.2.05,OB catalogue from Urim (U3),,B5,
+c.0.2.05,OB catalogue from Urim (U3),,B6,ama-da nu-me-a
+c.0.2.05,OB catalogue from Urim (U3),,B7,dub hi-a
+c.0.2.05,OB catalogue from Urim (U3),,B8,dub

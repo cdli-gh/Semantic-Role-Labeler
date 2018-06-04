@@ -1,0 +1,155 @@
+id_text,text_name,version,l_no,text
+c.4.07.2,The exaltation of Inana (Inana B),,1,nin me šar₂-ra ud dalla e₃-a
+c.4.07.2,The exaltation of Inana (Inana B),,2,munus zid me-lem₄ gur₃-ru ki aŋ₂ an uraš-a
+c.4.07.2,The exaltation of Inana (Inana B),,3,nu-gig an-na suh-gir₁₁ gal-gal-la
+c.4.07.2,The exaltation of Inana (Inana B),,4,aga zid-de₃ ki aŋ₂ nam-en-na tum₂-ma
+c.4.07.2,The exaltation of Inana (Inana B),,5,me ₇-bi šu sa₂ dug₄-ga
+c.4.07.2,The exaltation of Inana (Inana B),,6,nin-ŋu₁₀ me gal-gal-la saŋ keše₂-bi za-e-me-en
+c.4.07.2,The exaltation of Inana (Inana B),,7,me mu-e-il₂ me šu-zu-še₃ mu-e-la₂
+c.4.07.2,The exaltation of Inana (Inana B),,8,me mu-e-ur₄ me gaba-za bi₂-tab
+c.4.07.2,The exaltation of Inana (Inana B),,9,ušumgal-gin₇ kur-re uš₁₁ ba-e-šum₂
+c.4.07.2,The exaltation of Inana (Inana B),,10,{d}iškur-gin₇ ki šegₓ gi₄-a-za {d}ezina₂ la-ba-e-ši-ŋal₂
+c.4.07.2,The exaltation of Inana (Inana B),,11,a-ma-ru kur-bi-ta ed₃-de₃
+c.4.07.2,The exaltation of Inana (Inana B),,12,saŋ-kal an ki-a {d}inana-bi-me-en
+c.4.07.2,The exaltation of Inana (Inana B),,13,izi bar₇-bar₇-ra kalam-e šeŋ₃-ŋa₂
+c.4.07.2,The exaltation of Inana (Inana B),,14,an-ne₂ me šum₂-ma nin ur-ra u₅-a
+c.4.07.2,The exaltation of Inana (Inana B),,15,inim kug an-na-ta inim dug₄-dug₄
+c.4.07.2,The exaltation of Inana (Inana B),,16,biluda gal-gal-la niŋ₂-zu a-ba mu-un-zu
+c.4.07.2,The exaltation of Inana (Inana B),,17,kur gul-gul ud-de₃ a₂ ba-e-šum₂
+c.4.07.2,The exaltation of Inana (Inana B),,18,ki aŋ₂ {d}en-lil₂-la₂ kalam-ma ni₂ mi-ni-ri
+c.4.07.2,The exaltation of Inana (Inana B),,19,a₂ aŋ₂-ŋa₂ an-na-ke₄ ba-gub-be₂-en
+c.4.07.2,The exaltation of Inana (Inana B),,20,nin-ŋu₁₀ za-pa-aŋ₂-zu-še₃ kur i₃-gam-gam-e
+c.4.07.2,The exaltation of Inana (Inana B),,21,ni₂ me-lem₄ u₁₈-lu-da nam-lu₂-ulu₃
+c.4.07.2,The exaltation of Inana (Inana B),,22,niŋ₂-me-ŋar ŋiri₃-bi u₃-mu-ri-gub
+c.4.07.2,The exaltation of Inana (Inana B),,23,me-ta me huš-bi šu ba-e-re-ti
+c.4.07.2,The exaltation of Inana (Inana B),,24,i-dub er₂-ra-ke₄ ŋal₂ ma-ra-ab-taka₄
+c.4.07.2,The exaltation of Inana (Inana B),,25,e₂ a-nir gal-gal-la sila-ba mu-ri-du
+c.4.07.2,The exaltation of Inana (Inana B),,26,igi me₃-ta niŋ₂ ma-ra-ta-si-ig
+c.4.07.2,The exaltation of Inana (Inana B),,27,nin-ŋu₁₀ a₂ ni₂-za {na₄}zu₂ zu₂ i₃-gu₇-e
+c.4.07.2,The exaltation of Inana (Inana B),,28,ud du₇-du₇-gin₇ i₃-du₇-du₇-de₃-en
+c.4.07.2,The exaltation of Inana (Inana B),,29,ud gu₃ ra-ra-da gu₃ im-da-ab-ra-ra-an
+c.4.07.2,The exaltation of Inana (Inana B),,30,{d}iškur-da šegₓ mu-da-an-gi₄-gi₄-in
+c.4.07.2,The exaltation of Inana (Inana B),,31,im-hul-im-hul-da im-da-kuš₂-u₃-de₃-en
+c.4.07.2,The exaltation of Inana (Inana B),,32,ŋiri₃-za nu-kuš₂-u₃ i₃-im-si
+c.4.07.2,The exaltation of Inana (Inana B),,33,balaŋ a-nir-ra-ta i-lu im-da-ab-be₂
+c.4.07.2,The exaltation of Inana (Inana B),,34,nin-ŋu₁₀ {d}a-nun-na diŋir gal-gal-e-ne
+c.4.07.2,The exaltation of Inana (Inana B),,35,su-din{mušen} dal-la-gin₇ du₆-de₃ mu-e-ši-ib-ra-aš
+c.4.07.2,The exaltation of Inana (Inana B),,36,igi huš-a-za la-ba-sug₂-ge-de₃-eš
+c.4.07.2,The exaltation of Inana (Inana B),,37,saŋ-ki huš-a-za saŋ nu-mu-un-de₃-ŋa₂-ŋa₂
+c.4.07.2,The exaltation of Inana (Inana B),,38,šag₄ ib₂-ba-za a-ba ib₂-te-en-te-en
+c.4.07.2,The exaltation of Inana (Inana B),,39,šag₄ hul-ŋal₂-la-za te-en-ten-bi mah-am₃
+c.4.07.2,The exaltation of Inana (Inana B),,40,nin ur₅ i₃-sag₉ nin šag₄ i₃-hul₂
+c.4.07.2,The exaltation of Inana (Inana B),,41,ib₂-ba nu-te-en-te-en dumu gal {d}suen-na
+c.4.07.2,The exaltation of Inana (Inana B),,42,nin kur-ra dirig-ga a-ba ki-za ba-an-tum₃
+c.4.07.2,The exaltation of Inana (Inana B),,43,hur-saŋ ki-za ba-e-de₃-gid₂-de₃-en {d}ezina₂ niŋ₂-gig-bi
+c.4.07.2,The exaltation of Inana (Inana B),,44,abul-la-ba izi mu-ni-in-ri-ri
+c.4.07.2,The exaltation of Inana (Inana B),,45,id₂-ba uš₂ ma-ra-an-de₂ uŋ₃-bi ma-ra-na₈-na₈
+c.4.07.2,The exaltation of Inana (Inana B),,46,ugnim-bi ni₂-bi-a ma-ra-ab-lah₅-e
+c.4.07.2,The exaltation of Inana (Inana B),,47,zu₂ keše₂-bi ni₂-bi-a ma-ra-ab-si-il-le
+c.4.07.2,The exaltation of Inana (Inana B),,48,ŋuruš a₂-tuku-bi ni₂-bi-a ma-ra-ab-sug₂-ge-eš
+c.4.07.2,The exaltation of Inana (Inana B),,49,iri-ba ki-e-ne-di-ba mir i-ib₂-si
+c.4.07.2,The exaltation of Inana (Inana B),,50,ŋuruš šag₄-gan-bi LU₂-eš₂ ma-ra-ab-sar-re-eš
+c.4.07.2,The exaltation of Inana (Inana B),,51,iri kur za-ra li-bi₂-in-dug₄-ga-am₃
+c.4.07.2,The exaltation of Inana (Inana B),,52,a-a ugu-zu li-bi₂-in-eš-am₃
+c.4.07.2,The exaltation of Inana (Inana B),,53,inim kug-zu bi₂-in-dug₄ ki ŋiri₃-za he₂-eb-gi₄
+c.4.07.2,The exaltation of Inana (Inana B),,54,šag₄ tur₃-bi-ta ŋiri₃ he₂-eb₂-ta-an-ze₂-er
+c.4.07.2,The exaltation of Inana (Inana B),,55,munus-bi dam-a-ni-ta sag₉-ga na-an-da-ab-be₂
+c.4.07.2,The exaltation of Inana (Inana B),,56,ŋi₆ u₃-na ad na-an-di-ni-ib-gi₄-gi₄
+c.4.07.2,The exaltation of Inana (Inana B),,57,niŋ₂ kug šag₄-ga-na nam-mu-da-an-bur₂-re
+c.4.07.2,The exaltation of Inana (Inana B),,58,u₃-sumun₂ zid-zid dumu gal {d}suen-na
+c.4.07.2,The exaltation of Inana (Inana B),,59,nin an-ra dirig-ga a-ba ki-za ba-an-tum₃
+c.4.07.2,The exaltation of Inana (Inana B),,60,me zid-de₃ nin gal nin-e-ne
+c.4.07.2,The exaltation of Inana (Inana B),,61,šag₄ kug-ta e₃-a ama ugu-ni-ir dirig-ga
+c.4.07.2,The exaltation of Inana (Inana B),,62,gal-zu igi-ŋal₂ nin kur-kur-ra
+c.4.07.2,The exaltation of Inana (Inana B),,63,zi-ŋal₂ uŋ₃ lu-a šir₃ kug-zu ga-am₃-dug₄
+c.4.07.2,The exaltation of Inana (Inana B),,64,diŋir zid me-a tum₂-ma gal-bi dug₄-ga-zu mah-am₃
+c.4.07.2,The exaltation of Inana (Inana B),,65,šag₄ su₃-ra₂ munus zid šag₄ zalag-zalag-ga me-zu ga-mu-ra-ab-dug₄
+c.4.07.2,The exaltation of Inana (Inana B),,66,ŋi₆-par₃ kug-ŋa₂ hu-mu-ši-in-kur₉-re-en
+c.4.07.2,The exaltation of Inana (Inana B),,67,en-me-en en-he₂-du₇-an-na-me-en
+c.4.07.2,The exaltation of Inana (Inana B),,68,{gi}ma-sa₂-ab i₃-gur₃-ru asil-la₂ i₃-dug₄
+c.4.07.2,The exaltation of Inana (Inana B),,69,ki-sig₁₀-ga bi₂-ib-ŋar ŋe₂₆-e nu-mu-un-til₃-le-en
+c.4.07.2,The exaltation of Inana (Inana B),,70,ud-de₃ ba-te ud mu-da-bil₂
+c.4.07.2,The exaltation of Inana (Inana B),,71,ŋissu ne ba-te u₁₈-lu-da im-mi-dul
+c.4.07.2,The exaltation of Inana (Inana B),,72,ka lal₃-ŋu₁₀ šu uh₃-a ba-ab-dug₄
+c.4.07.2,The exaltation of Inana (Inana B),,73,niŋ₂ ur₅ sag₉-sag₉-ŋu₁₀ sahar-ta ba-da-gi₄
+c.4.07.2,The exaltation of Inana (Inana B),,74,nam-ŋu₁₀ {d}suen lugal-an-ne₂
+c.4.07.2,The exaltation of Inana (Inana B),,75,an-ra dug₄-mu-na-ab an-ne₂ ha-ma-du₈-e
+c.4.07.2,The exaltation of Inana (Inana B),,76,a-da-lam an-ra ba-an-na-ab-be₂-en an-ne₂ mu-e-du₈-e
+c.4.07.2,The exaltation of Inana (Inana B),,77,nam lugal-an-ne₂ munus-e ba-ab-kar-re
+c.4.07.2,The exaltation of Inana (Inana B),,78,kur a-ma-ru ŋiri₃-ni-še₃ i₃-nu₂
+c.4.07.2,The exaltation of Inana (Inana B),,79,munus-bi in-ga-mah iri mu-un-da-ab-tuku₄-e
+c.4.07.2,The exaltation of Inana (Inana B),,80,gub-ba šag₄-ga-na ha-ma-sed-de₃
+c.4.07.2,The exaltation of Inana (Inana B),,81,en-he₂-du₇-an-na-me-en a-ra-zu ga-mu-ra-ab-dug₄
+c.4.07.2,The exaltation of Inana (Inana B),,82,er₂-ŋa₂ kaš dug₃-ga-gin₇
+c.4.07.2,The exaltation of Inana (Inana B),,83,kug {d}inana-ra šu ga-mu-ni-ri-bar di-zu ga-mu-ra-ab-dug₄
+c.4.07.2,The exaltation of Inana (Inana B),,84,{d}aš-im₂-babbar na-an-kuš₂-u₃-de₃-en
+c.4.07.2,The exaltation of Inana (Inana B),,85,šu-luh an kug-ga-ke₄ niŋ₂-nam-ma-ni in-kur₂
+c.4.07.2,The exaltation of Inana (Inana B),,86,an-da e₂-an-na ha-ba-da-an-kar
+c.4.07.2,The exaltation of Inana (Inana B),,87,diŋir lu₂ gu-la-ta ni₂ ba-ra-ba-da-te
+c.4.07.2,The exaltation of Inana (Inana B),,88,e₂-bi la-la-bi ba-ra-mu-un-gi₄ hi-li-bi ba-ra-mu-un-til
+c.4.07.2,The exaltation of Inana (Inana B),,89,e₂-bi e₂ hul-a hu-mu-un-di-ni-in-kur₉
+c.4.07.2,The exaltation of Inana (Inana B),,90,tab mu-ši-in-kur₉-ra-ni ninim-ma-ni hu-mu-un-te
+c.4.07.2,The exaltation of Inana (Inana B),,91,{d}sumun₂-zid-ŋu₁₀ lu₂ hu-mu-sar-re-en lu₂ he₂-em-mi-dab₅-be₂-en
+c.4.07.2,The exaltation of Inana (Inana B),,92,ki zi-šag₄-ŋal₂-la-ka ŋe₂₆-e a-na-me-en
+c.4.07.2,The exaltation of Inana (Inana B),,93,ki-bal hul gig {d}nanna-za-ke₄-eš an-ne₂ ha-ba-ab-šum₂-mu
+c.4.07.2,The exaltation of Inana (Inana B),,94,iri-bi an-ne₂ ha-ba-ra-an-si-il-le
+c.4.07.2,The exaltation of Inana (Inana B),,95,{d}en-lil₂-le nam ha-ba-da-an-kud-de₃
+c.4.07.2,The exaltation of Inana (Inana B),,96,dumu er₂ pad₃-da-bi ama-ni na-an-sed₄-e
+c.4.07.2,The exaltation of Inana (Inana B),,97,nin a-nir ki ŋar-ra
+c.4.07.2,The exaltation of Inana (Inana B),,98,{ŋeš}ma₂ a-nir-ra-zu ki kur₂-ra he₂-bi₂-ib-taka₄
+c.4.07.2,The exaltation of Inana (Inana B),,99,šir₃ kug-ŋa₂-ke₄-eš i₃-ug₅-ge-de₃-en
+c.4.07.2,The exaltation of Inana (Inana B),,100,ŋe₂₆-e {d}nanna-ŋu₁₀ en₃-ŋu₁₀ ba-ra-an-tar
+c.4.07.2,The exaltation of Inana (Inana B),,101,ki-lul-la he₂-eb-gul-gul-en
+c.4.07.2,The exaltation of Inana (Inana B),,102,{d}aš-im₂-babbar-e di-ŋu₁₀ ba-ra-bi₂-in-dug₄
+c.4.07.2,The exaltation of Inana (Inana B),,103,bi-in-dug₄ nam-ŋu₁₀ li-bi₂-in-dug₄ nam-ŋu₁₀
+c.4.07.2,The exaltation of Inana (Inana B),,104,u₃-ma gub-gub-ba e₂-ta ba-ra-an-e₃-en
+c.4.07.2,The exaltation of Inana (Inana B),,105,sim{mušen}-gin₇ ab-ta ba-ra-an-dal-en zi-ŋu₁₀ im-mi-gu₇
+c.4.07.2,The exaltation of Inana (Inana B),,106,{ŋeš}kiši₁₆ kur-ra-ke₄ bi₂-in-du-e-en
+c.4.07.2,The exaltation of Inana (Inana B),,107,aga zid nam-en-na mu-da-an-kar
+c.4.07.2,The exaltation of Inana (Inana B),,108,ŋiri₂ ba-da-ra ma-an-šum₂ a-ra-ab-du₇ ma-an-dug₄
+c.4.07.2,The exaltation of Inana (Inana B),,109,nin kal-kal-la an-ne₂ ki aŋ₂
+c.4.07.2,The exaltation of Inana (Inana B),,110,šag₄ kug-zu mah-a ki-bi ha-ma-gi₄-gi₄
+c.4.07.2,The exaltation of Inana (Inana B),,111,nitalam ki aŋ₂ {d}ušumgal-an-na-ka
+c.4.07.2,The exaltation of Inana (Inana B),,112,an-ur₂ an-pa nin gal-bi-me-en
+c.4.07.2,The exaltation of Inana (Inana B),,113,{d}a-nun-na-ke₄-ne gu₂ ŋiš ma-ra-an-ŋar-re-eš
+c.4.07.2,The exaltation of Inana (Inana B),,114,u₃-tud-da-ta nin ban₃-da-me-en
+c.4.07.2,The exaltation of Inana (Inana B),,115,{d}a-nun-na diŋir gal-gal-e-ne a-gin₇ ba-e-ne-dirig-ga
+c.4.07.2,The exaltation of Inana (Inana B),,116,{d}a-nun-na-ke₄-ne nundum-nundum-bi-ta ki su-ub ma-ra-ak-ke₄-ne
+c.4.07.2,The exaltation of Inana (Inana B),,117,di ni₂-ŋa₂ nu-mu-un-til di kur₂ di-ŋu₁₀-gin₇ igi-ŋa₂ mu-un-niŋin₂
+c.4.07.2,The exaltation of Inana (Inana B),,118,ŋiš-nu₂ gi-rin-na šu nu-um-mi-la₂
+c.4.07.2,The exaltation of Inana (Inana B),,119,inim dug₄-ga {d}nin-gal lu₂-ra nu-mu-na-bur₂
+c.4.07.2,The exaltation of Inana (Inana B),,120,en dadag-ga {d}nanna-me-en
+c.4.07.2,The exaltation of Inana (Inana B),,121,nin ki aŋ₂ an-na-ŋu₁₀ šag₄-zu ha-ma-sed-de₃
+c.4.07.2,The exaltation of Inana (Inana B),,122,he₂-zu he₂-zu-am₃ {d}nanna li-bi₂-in-dug₄-ga za-a-kam bi₂-in-dug₄-ga
+c.4.07.2,The exaltation of Inana (Inana B),,123,an-gin₇ mah-a-za he₂-zu-am₃
+c.4.07.2,The exaltation of Inana (Inana B),,124,ki-gin₇ daŋal-la-za he₂-zu-am₃
+c.4.07.2,The exaltation of Inana (Inana B),,125,ki-bal gul-gul-lu-za he₂-zu-am₃
+c.4.07.2,The exaltation of Inana (Inana B),,126,kur-ra gu₃ de₂-e-za he₂-zu-am₃
+c.4.07.2,The exaltation of Inana (Inana B),,127,saŋ ŋiš ra-ra-za he₂-zu-am₃
+c.4.07.2,The exaltation of Inana (Inana B),,128,ur-gin₇ ad₆ gu₇-u₃-za he₂-zu-am₃
+c.4.07.2,The exaltation of Inana (Inana B),,129,igi huš-a-za he₂-zu-am₃
+c.4.07.2,The exaltation of Inana (Inana B),,130,igi huš-bi il₂-il₂-i-za he₂-zu-am₃
+c.4.07.2,The exaltation of Inana (Inana B),,131,igi gun₃-gun₃-na-za he₂-zu-am₃
+c.4.07.2,The exaltation of Inana (Inana B),,132,uru₁₆-na nu-še-ga-za he₂-zu-am₃
+c.4.07.2,The exaltation of Inana (Inana B),,133,u₃-ma gub-gub-bu-za he₂-zu-am₃
+c.4.07.2,The exaltation of Inana (Inana B),,134,{d}nanna li-bi₂-in-dug₄-ga za-a-kam bi₂-in-dug₄-ga
+c.4.07.2,The exaltation of Inana (Inana B),,135,nin-ŋu₁₀ ib₂-gu-ul-en i₃-mah-en
+c.4.07.2,The exaltation of Inana (Inana B),,136,nin ki aŋ₂ an-na-ŋu₁₀ mir-mir-za ga-am₃-dug₄
+c.4.07.2,The exaltation of Inana (Inana B),,137,ne-mur mu-dub šu-luh si bi₂-sa₂
+c.4.07.2,The exaltation of Inana (Inana B),,138,e₂-eš₂-dam-kug ma-ra-ŋal₂ šag₄-zu na-ma-sed-de₃
+c.4.07.2,The exaltation of Inana (Inana B),,139,im-ma-si im-ma-dirig-ga-ta nin UN-gal ma-ra-dug₄
+c.4.07.2,The exaltation of Inana (Inana B),,140,niŋ₂ ŋi₆ u₃-na ma-ra-an-dug₄-ga-am₃
+c.4.07.2,The exaltation of Inana (Inana B),,141,gala-e an-bar₇-ka šu hu-mu-ra-ab-gi₄-gi₄
+c.4.07.2,The exaltation of Inana (Inana B),,142,dam dab₅-ba-za-ke₄-eš dumu dab₅-ba-za-ke₄-eš
+c.4.07.2,The exaltation of Inana (Inana B),,143,ib₂-ba-zu ib₂-gu-ul šag₄-zu nu-te-en-te-en
+c.4.07.2,The exaltation of Inana (Inana B),,144,nin gu₂-tuku nir-ŋal₂ gu₂-en-na-ke₄
+c.4.07.2,The exaltation of Inana (Inana B),,145,sizkur₂-ra-na šu ba-an-ši-in-ti
+c.4.07.2,The exaltation of Inana (Inana B),,146,šag₄ kug {d}inana ki-bi ba-an-na-ab-gi₄
+c.4.07.2,The exaltation of Inana (Inana B),,147,ud ba-an-na-dug₃ la-la ba-an-sud-sud hi-li ma-az ba-an-du₈-du₈
+c.4.07.2,The exaltation of Inana (Inana B),,148,iti₆ e₃-a-gin₇ la-la ba-an-guru₃
+c.4.07.2,The exaltation of Inana (Inana B),,149,{d}nanna u₆ zid-de₃-eš mu-un-e₃
+c.4.07.2,The exaltation of Inana (Inana B),,150,ama-ni {d}nin-gal-am₃ šudu₃ mu-na-an-ša₄
+c.4.07.2,The exaltation of Inana (Inana B),,151,ŋiš-kan₄-na-ke₄ silim-ma mu-na-ab-be₂
+c.4.07.2,The exaltation of Inana (Inana B),,152,nu-gig-ra dug₄-ga-ni mah-am₃
+c.4.07.2,The exaltation of Inana (Inana B),,153,kur gul-gul an-da me ba-a
+c.4.07.2,The exaltation of Inana (Inana B),,154,nin-ŋu₁₀ hi-li gu₂ e₃ {d}inana za₃-mi₂

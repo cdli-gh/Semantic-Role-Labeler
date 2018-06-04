@@ -1,0 +1,59 @@
+id_text,text_name,version,l_no,text
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,1,{d}i-bi₂-{d}suen lugal-ŋu₁₀-ra u₃-na-a-dug₄
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,2,{m}iš-bi-er₃-ra arad-zu na-ab-be₂-a
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,3,kaskal i₃-si-in{ki} ka-zal-lu{ki}-še₃
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,4,še sa₁₀-sa₁₀-de₃ a₂-še₃ mu-e-da-a-aŋ₂
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,5,ganba ₁ še gur-ta-am₃ še sa₂ di
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,6,₂₀ gun₂ kug-babbar še sa₁₀-sa₁₀-de₃ ba-an-ŋar
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,7,inim mar-tu lu₂-kur₂-ra šag₄ ma-da-zu kur₉-ra ŋiš bi₂-tuku
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,8,₇₂₀₀₀ še gur še du₃-a-bi šag₄ i₃-si-in{ki}-na-ke₄ ba-an-kur₉-re-en
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,9,a-da-al-la-bi mar-tu du₃-du₃-a-bi šag₄ kalam-ma-še₃ ba-an-kur₉-re-en
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,10,bad₃ gal-gal dili-dili-bi im-mi-in-dab₅-dab₅
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,11,mu mar-tu še-ba sag₃-ge nu-mu-e-da-šum₂-mu
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,12,ugu-ŋu₁₀ mu-ta-ni-kalag i₃-tuš-u₃-de₃-en
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,13,lugal-ŋu₁₀ ₆₀₀ {ŋeš}ma₂-gur₈ ₁₂₀ gur-ta-am₃ he₂-em-du₈-e
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,14,{ŋeš}ma₂ ₇₂ kalag-ga ₂₀ {ŋeš}ZA ₃₀
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,15,₅₀ ₆₀ {ŋeš}ig ma₂ ugu ma₂ ŋa₂-ŋa₂
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,16,u₃ {ŋeš}ma₂ du₃-a-bi
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,17,id₂-da {id₂}kur-ra {id₂}pa-li-iš-tum-ta
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,18,du₆ sal-la-še₃ he₂-em-ta-ed₃-de₃-eš
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,19,u₃ ŋe₂₆-e igi-ni-še₃ ga-am₃-ma-ši-ŋen
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,20,ki {ŋeš}ma₂ kar-bi ugu-ŋa₂ e-tuku
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,21,še du₃-a-bi he₂-ŋa₂-ŋa₂ he₂-e-sa₂
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,22,tukum-bi še ba-an-tur-re-en
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,23,ŋe₂₆-e še ga-mu-ra-kur₉
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,24,lugal-ŋu₁₀ elam-ma{ki} šen-šen-na zi ba-an-ir
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,25,še-ba-ni ul₄-la-bi al-til-la
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,26,lirum-lirum na-an-tah-en
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,27,nam-arad-da-ni-še₃ saŋ-zu na-an-šum₂-mu-un
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,28,u₃ eŋer-ra-ni-še₃ na-an-du-un
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,29,še mu ₁₅-ta-am₃ šag₄-gal e₂-gal-zu
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,30,u₃ iri du₃-a-bi šu-ŋu₁₀-ta i₃-ŋal₂
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,31,iri i₃-si-in{ki} nibru{ki}-a en-nu-uŋ₃ ha-ra-ab-ak-e
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,32,ugu-ŋa₂ he₂-tuku
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,33,lugal-ŋu₁₀ he₂-en-zu
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,34,lugal-ŋu₁₀ ni₂ nu-te ni₂ nu-gid₂-i šag₄-ba ŋe₂₆-e nu-te-BU
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,35,diŋir dili-dili-bi igi he₂-ni-ib₂-kiŋ₂-kiŋ₂-e ki-bi he₂-kiŋ₂-kiŋ₂
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,36,uŋ₃ daŋal-bi nam-lu₂-ulu₃-bi mah
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,37,he₂-silim-me-eš numun zid-da he₂-en-gal-le-eš
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,38,urim₂{ki} iri kug-zu an ki-da mu₂-a
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,39,nun gal-me-e saŋ-ki-bi kal-la
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,40,me šum₂-mu uš ŋiš-hur ge-en-gen₆-ne₂ sig igi-nim-ma
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,41,šu-ta he₂-kar-re he₂-eb₂-be₂
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,42,e₂-kiš-nu-ŋal₂ eš₃ an ki šu₂-šu₂ nu-tuku
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,43,elam{ki} ur-idim lu₂ niŋ₂ ha-lam-ma-ke₄
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,44,šu pe-el nu-ma-ak-e {d}lamma-bi nu-si-il
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,45,lugal-ŋu₁₀ sig₁₀-sig₁₀ gal-gal dub₃-tuku mu-un-kar
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,46,{m}i-bi-{d}suen-ka šag₄-ta-am₃ ki aŋ₂-me-eš
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,47,an {d}en-lil₂ {d}en-ki igi zid hu-mu-un-ši-bar-re-e-ne
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,48,he₂-en-ŋar igi-bi he₂-eb₂-gi₄-gi₄
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,49,abula urim₂{ki}-ma ŋal₂ da₁₃-da₁₃-da a-a
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,50,he₂-ni-ib-be₂ a-ba-am₃ lugal-ŋu₁₀-e-še
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,51,lugal {d}en-lil₂ gaba-ri nu-tuku-me-en
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,52,šag₄-zu na-an-gig-ga
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,53,šu mu-un-gi suhuš-bi mu-ri-in-ge-en
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,54,numun-bi-a šag₄-zu he₂-en-dug₃-ge
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,55,en-na lugal-ŋu₁₀ al-til₃-la nam-lugal urim₂{ki} mu-un-ak-e
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,56,niŋ₂ na-me lugal-ŋu₁₀ kiŋ₂ mu-na-ni-ib₂-gi₄
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,57,a-ma-ru-kam nam-ba-e-šub-de₃-en-ze₂-en
+c.3.1.17,Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain,,58,igi {d}utu-kam ka-ŋu₁₀ nu-bal-e

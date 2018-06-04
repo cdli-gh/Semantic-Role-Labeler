@@ -1,0 +1,21 @@
+id_text,text_name,version,l_no,text
+c.2.5.4.21,An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U),,1,e₂-kur-ra e₂
+c.2.5.4.21,An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U),,2,šu il₂-la-zu-še₃ diŋir gal-gal-e-ne
+c.2.5.4.21,An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U),,3,ur₂ kug til₃ niŋ₂ dug₃ dirig-zu-še₃
+c.2.5.4.21,An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U),,4,bal dug₃-bi-še₃ ŋal₂-ŋal₂-la
+c.2.5.4.21,An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U),,5,{d}iš-me-{d}da-gan dumu {d}en-lil₂-la₂
+c.2.5.4.21,An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U),,6,e₂-gal-mah e₂ nam-nin-a-za
+c.2.5.4.21,An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U),,7,nun-ne₂ {ŋeš}meš₃ pa mul-la
+c.2.5.4.21,An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U),,8,nam-til₃-la-ni dug₃-ge daŋal {d}iš-me-{d}da-gan
+c.2.5.4.21,An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U),,9,ki DAG.KISIM₅×X kug dumu an-na
+c.2.5.4.21,An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U),,10,eŋer-bi
+c.2.5.4.21,An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U),,11,di kud-ba kur-re he₂-si
+c.2.5.4.21,An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U),,12,igi bar šeg₁₂ e₂-kur-ra-ka
+c.2.5.4.21,An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U),,13,sa-ŋar-ra-am₃
+c.2.5.4.21,An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U),,14,{d}da-gan sipad {d}iš-me-da-gan-na dumu {d}en-lil₂-la₂-X {tug₂}pala bar-še₃ šu
+c.2.5.4.21,An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U),,15,ŋiš-gi₄-ŋal₂ sa-ŋar-ra-bi-im
+c.2.5.4.21,An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U),,16,en mah me an-na me ki gal
+c.2.5.4.21,An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U),,17,{d}da-gan en mah me an-na me ki gal
+c.2.5.4.21,An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U),,18,{d}iš-me-{d}da-gan kalam-ma mi-ni-in-suh šu
+c.2.5.4.21,An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U),,19,u₁₈-ru₁₂-bi-im
+c.2.5.4.21,An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U),,20,a-da-ab {d}da-gan-kam

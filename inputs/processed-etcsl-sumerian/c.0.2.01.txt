@@ -1,0 +1,63 @@
+id_text,text_name,version,l_no,text
+c.0.2.01,OB catalogue from Nibru (N2),,1,lugal-me-en šag₄-ta
+c.0.2.01,OB catalogue from Nibru (N2),,2,lugal mi₂ dug₄-ga
+c.0.2.01,OB catalogue from Nibru (N2),,3,en-e niŋ₂-du₇-e
+c.0.2.01,OB catalogue from Nibru (N2),,4,nin me šar₂-ra
+c.0.2.01,OB catalogue from Nibru (N2),,5,{d}en-lil₂ su₃-ra₂-še₃
+c.0.2.01,OB catalogue from Nibru (N2),,6,nam₂ nun-e
+c.0.2.01,OB catalogue from Nibru (N2),,7,ud re-a
+c.0.2.01,OB catalogue from Nibru (N2),,8,in-nin me huš-a
+c.0.2.01,OB catalogue from Nibru (N2),,9,e₂ ud huš an ki
+c.0.2.01,OB catalogue from Nibru (N2),,10,en-e kur lu₂ til₃-la-še₃
+c.0.2.01,OB catalogue from Nibru (N2),,11,šul me₃-ka
+c.0.2.01,OB catalogue from Nibru (N2),,12,lu₂-kiŋ₂-gi₄-a ag
+c.0.2.01,OB catalogue from Nibru (N2),,13,gud-dam iri{ki}
+c.0.2.01,OB catalogue from Nibru (N2),,14,i₃-a lum-lum
+c.0.2.01,OB catalogue from Nibru (N2),,15,bur-šu-ma gal
+c.0.2.01,OB catalogue from Nibru (N2),,16,ku₆-ŋu₁₀ e₂ du₃
+c.0.2.01,OB catalogue from Nibru (N2),,17,hur-saŋ an ki-bi-da
+c.0.2.01,OB catalogue from Nibru (N2),,18,saŋ-ki gid₂-da
+c.0.2.01,OB catalogue from Nibru (N2),,19,edin i-lu ŋar-u₃
+c.0.2.01,OB catalogue from Nibru (N2),,20,ud re-a
+c.0.2.01,OB catalogue from Nibru (N2),,21,ud re-a
+c.0.2.01,OB catalogue from Nibru (N2),,22,iri na-nam
+c.0.2.01,OB catalogue from Nibru (N2),,23,nin me zid-da
+c.0.2.01,OB catalogue from Nibru (N2),,24,iri na-nam
+c.0.2.01,OB catalogue from Nibru (N2),,25,e {ŋeš}al-e {ŋeš}al-e
+c.0.2.01,OB catalogue from Nibru (N2),,26,lugal-e mu-ni niŋ₂-ul-e
+c.0.2.01,OB catalogue from Nibru (N2),,27,ud ul re-ta
+c.0.2.01,OB catalogue from Nibru (N2),,28,ki-ur₃ gal-e
+c.0.2.01,OB catalogue from Nibru (N2),,29,an-ne₂ nam-nir-ŋal₂
+c.0.2.01,OB catalogue from Nibru (N2),,30,ŋiš-gi a-na gu₃ mu-un-de₂
+c.0.2.01,OB catalogue from Nibru (N2),,31,u₅ ŋiš-gi kug-ta
+c.0.2.01,OB catalogue from Nibru (N2),,32,tur₃-ra-na
+c.0.2.01,OB catalogue from Nibru (N2),,33,tur₃ me nun-e
+c.0.2.01,OB catalogue from Nibru (N2),,34,ud šu bal ak-de₃
+c.0.2.01,OB catalogue from Nibru (N2),,35,iri me zid-da
+c.0.2.01,OB catalogue from Nibru (N2),,36,ud huš ki-en-gi-ra
+c.0.2.01,OB catalogue from Nibru (N2),,37,ud huš an-ur₂-ra
+c.0.2.01,OB catalogue from Nibru (N2),,38,ud ul an ki-ta
+c.0.2.01,OB catalogue from Nibru (N2),,39,lugal-ban₃-da
+c.0.2.01,OB catalogue from Nibru (N2),,40,šeg₁₂ kur šuba-ta
+c.0.2.01,OB catalogue from Nibru (N2),,41,an gal-ta ki gal-še₃
+c.0.2.01,OB catalogue from Nibru (N2),,42,en mah-di an ki
+c.0.2.01,OB catalogue from Nibru (N2),,43,{gi}en₃-bar-ra gurun-na
+c.0.2.01,OB catalogue from Nibru (N2),,44,in-nin me gal-gal-la
+c.0.2.01,OB catalogue from Nibru (N2),,45,ud gal piriŋ an-na
+c.0.2.01,OB catalogue from Nibru (N2),,46,en gal men gur₃-ru kul-aba{ki}
+c.0.2.01,OB catalogue from Nibru (N2),,47,nam₂ nun-e
+c.0.2.01,OB catalogue from Nibru (N2),,48,iri gud huš
+c.0.2.01,OB catalogue from Nibru (N2),,49,e₂-u₆-nir
+c.0.2.01,OB catalogue from Nibru (N2),,50,me-še₃-am₃ i₃-du-de₃-en
+c.0.2.01,OB catalogue from Nibru (N2),,51,ŋa₂-nu ki-ŋu₁₀-še₃
+c.0.2.01,OB catalogue from Nibru (N2),,52,ŋa₂-nu ga-na ga-ab-sa₂-sa₂-en-de₃-en
+c.0.2.01,OB catalogue from Nibru (N2),,53,ud-ul-ur₁₁-ra
+c.0.2.01,OB catalogue from Nibru (N2),,54,me-ta-am₃ am₃-du-un
+c.0.2.01,OB catalogue from Nibru (N2),,55,me-ta-am₃ am₃-di-di-in
+c.0.2.01,OB catalogue from Nibru (N2),,56,eme-gir₁₅ e-zu-u₃
+c.0.2.01,OB catalogue from Nibru (N2),,57,a-na-am₃ a₂ aŋ₂-ŋa₂
+c.0.2.01,OB catalogue from Nibru (N2),,58,di₄-di₄-la₂ ud-da
+c.0.2.01,OB catalogue from Nibru (N2),,59,eŋer dub-me-ka
+c.0.2.01,OB catalogue from Nibru (N2),,60,lu₂ lil₂-la₂
+c.0.2.01,OB catalogue from Nibru (N2),,61,dim₂-ma-ni-us₂-a-ni
+c.0.2.01,OB catalogue from Nibru (N2),,62,a dug₃-ga ur-ra

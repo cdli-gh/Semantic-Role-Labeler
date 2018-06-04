@@ -1,0 +1,67 @@
+id_text,text_name,version,l_no,text
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,1,nin mul-an-gin₇ gun₃-a dub za-gin₃ šu du₈
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,2,{d}nisaba immal₂ gal {d}uraš-e tud-da
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,3,šeg₉-bar naŋa kug-ga ga zid gu₇-a
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,4,gi ₇-e ka ba-a
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,5,me gal ₅₀-e šu du₇-a
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,6,nin-ŋu₁₀ a₂-nun-ŋal₂ e₂-kur-ra
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,7,ušumgal ezen-e dalla e₃-a
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,8,{d}a-ru-ru kalam-ma im-ta dug₄
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,9,ki im-si ud-da šag₄ kuš₂-u₃
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,10,kur i₃-he-nun-ta mi₂ zid dug₄-ga
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,11,ŋeštug₂ ŋar kur gal-e tud-da
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,12,munus zid dub-sar mah an-na saŋ-tun₃ {d}en-lil₂-la₂
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,13,gal-zu igi-ŋal₂ diŋir-re-e-ne
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,14,ab-sin₂-na še gu mu₂-mu₂-de₃
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,15,{d}ezina₂ nam-en-na u₆ di-de₃
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,16,barag gal ₇-e mi₂ zid di-dam
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,17,gu zi-zi-dam še zi-zi-dam
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,18,buru₁₄ ezen gal {d}en-lil₂-la₂-ke₄
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,19,nam-nun gal-la-ni su nam-mi-in-su-ub
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,20,tug₂-ba₁₃ kug šag₄-ge nam-mi-in-mur₁₀
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,21,nidba nu-ŋal₂-la ŋa₂-ŋa₂-de₃
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,22,ne-saŋ gal kurun₂-na de₂-e-de₃
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,23,diŋir nam₂-nir-ra {d}en-lil₂ huŋ-e-de₃
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,24,{d}ku₃-su₃ arhuš sud {d}ezina₂ huŋ-e-de₃
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,25,en gal mu-un-huŋ-e ezen mu-un-huŋ-e
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,26,en gal kalam-ma im-ma-huŋ-e
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,27,ki-sikil {d}nisaba šudu₃-de₃ mu-un-gub
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,28,nidba sikil-la si nam-mi-in-sa₂
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,29,e₂-ŊEŠTUG₂.{d}NISABA-ke₄ ŋal₂ nam-mi-in-taka₄
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,30,dub za-gin₃ dub₃-ba nam-mi-in-ŋar
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,31,dub mul-an kug-ta šag₄ im-ma-da-kuš₂-u₃
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,32,aratta{ki} e₂-za-gin₃-na šu-ni-še₃ mu-un-ŋar
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,33,ereš₂{ki} he-nun-na mu-un-du₃-u₃-nam
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,34,šeg₁₂ naŋa di₄-di₄-la₂ ki ŋar-ra
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,35,ŋeštug₂ nam-galam-ma saŋ-e-eš rig₇-ga
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,36,abzu men gal eridug{ki} eš₃ hal-ha-la
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,37,nun nun hal-ha-la
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,38,engar gal nam-nun-na e₂ ni₂ gur₃-ru nagar eridug{ki}-ga
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,39,lugal šu-luh-luh-ha-ke₄ en muš₃ en gal-la {d}en-ki-ke₄
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,40,e₂-engur-ra ki-tuš-a-ni
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,41,abzu eridug{ki}-ga du₃-du₃-a-ni
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,42,hal-an-kug šag₄ kuš₂-u₃-da-ni
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,43,e₂ {ŋeš}taškarin tun₃ bar-ra-ni
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,44,abgal siki bar-ra du₈-a-ni
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,45,e₂ ŋeštug₂-ga-ke₄ ŋal₂ taka₄-a-ni
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,46,{ŋeš}ig ŋeštug₂-ga sila-ba gub-ba-ni
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,47,unu₂ gal {ŋeš}erin-a til₃-la-ni
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,48,šita {ŋeš}ŋišnimbar šu du₈-a-ni
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,49,šita-ba tug₂-ba₁₃ sag₃-sag₃-a-ni
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,50,{d}nisaba um-me gal-gal-la ₇ mu-un-na-dug₄
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,51,{d}nisaba munus zid munus sag₉-ga munus kur-ra tud-da
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,52,{d}nisaba tur₃-ra i₃ he₂-me-en amaš-a gara₂ he₂-me-en
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,53,e₂ niŋ₂-gur₁₁-ra kišib-ŋal₂ he₂-me-en
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,54,e₂-gal-la aŋrig zid he₂-me-en
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,55,guru₇-du₆ guru₇-maš-a guru₇ gu₂ gur he₂-me-en
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,56,nun-e {d}nisaba-ra mi₂ dug₄-ga
+c.4.16.1,A hymn to Nisaba (Nisaba A),Old Babylonian,57,a-a {d}en-ki za₃-mi₂-zu dug₃-ga-am₃
+c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,1,nin mul-an gun₃-a
+c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,2,dub za-gin₃ šu du₈
+c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,3,{d}nisaba gal immalₓ uraš-še₃ tud-da
+c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,4,naŋa kug-ge ga zid gu₇-a
+c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,5,gi ₇-na ka ba-a
+c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,6,me gal ₅₀ šu du₇-a
+c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,7,nin-ŋu₁₀ a₂-nun-ŋal₂ e₂-kur-ra
+c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,8,a-ru₁₂-ru₁₂ kalam-ma
+c.4.16.1,A hymn to Nisaba (Nisaba A),Ur III,9,im-da dug₄

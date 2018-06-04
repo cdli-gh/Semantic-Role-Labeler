@@ -1,0 +1,23 @@
+id_text,text_name,version,l_no,text
+c.0.2.13,OB catalogue from Nibru (N6),,1,in-nin₉ barag gal an ki
+c.0.2.13,OB catalogue from Nibru (N6),,2,en eš-bar an ki šu-na ŋal₂
+c.0.2.13,OB catalogue from Nibru (N6),,3,šul me-dim₂ sag₉ sig₇ še-še-er-ra
+c.0.2.13,OB catalogue from Nibru (N6),,4,diŋir nam-he u₃-tud-da an-na
+c.0.2.13,OB catalogue from Nibru (N6),,5,lu₂ en nun-na lu₂ nun-na
+c.0.2.13,OB catalogue from Nibru (N6),,6,gud-dam a₂ bar šu ŋal₂
+c.0.2.13,OB catalogue from Nibru (N6),,7,lugal gu₂-za suh₁₀-bi ši-du₈ nam-lugal-zu
+c.0.2.13,OB catalogue from Nibru (N6),,8,ur-saŋ kal-kal-la giri₁₇ šu du₃
+c.0.2.13,OB catalogue from Nibru (N6),,9,šuba-a na-nam niŋ₂ gun₃-na
+c.0.2.13,OB catalogue from Nibru (N6),,10,šuba la₂ šuba la₂
+c.0.2.13,OB catalogue from Nibru (N6),,11,ŋe₂₆-e u₂-lal₃-a mu-zu
+c.0.2.13,OB catalogue from Nibru (N6),,12,lugal hi-li gur₃-ru
+c.0.2.13,OB catalogue from Nibru (N6),,13,lu-lu-a-bi lu-lu
+c.0.2.13,OB catalogue from Nibru (N6),,14,e₂ sikil ki sikil-a
+c.0.2.13,OB catalogue from Nibru (N6),,15,kur gal kur-ra a₂ aŋ₂ gal
+c.0.2.13,OB catalogue from Nibru (N6),,16,e₂ ud-gin₇ ki-gal-la gub-ba
+c.0.2.13,OB catalogue from Nibru (N6),,17,egir₃ šu dadag me giri₁₇-zal dug₃
+c.0.2.13,OB catalogue from Nibru (N6),,18,nin an-gin₇ mah bal-bal
+c.0.2.13,OB catalogue from Nibru (N6),,19,nun nam-DUB ma₂ nam-DUB
+c.0.2.13,OB catalogue from Nibru (N6),,20,e-el-lu ama mu-gi₁₇-ib
+c.0.2.13,OB catalogue from Nibru (N6),,21,me-e nu-sag₃-ge en-ra
+c.0.2.13,OB catalogue from Nibru (N6),,22,ab₂ nun-e an-na kur un₃-na

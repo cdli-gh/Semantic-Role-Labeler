@@ -1,0 +1,312 @@
+id_text,text_name,version,l_no,text
+c.6.2.1,Proverbs: from Nibru,Ni 4166,A1,
+c.6.2.1,Proverbs: from Nibru,Ni 4166,A2,kur
+c.6.2.1,Proverbs: from Nibru,Ni 4166,A3,šu-ni
+c.6.2.1,Proverbs: from Nibru,Ni 4166,A4,ki sug₆-ga
+c.6.2.1,Proverbs: from Nibru,Ni 4166,A5,
+c.6.2.1,Proverbs: from Nibru,Ni 4166,A6,ŋiri₃ niŋ₂-ŋiri₃
+c.6.2.1,Proverbs: from Nibru,Ni 4166,A7,ur-mah
+c.6.2.1,Proverbs: from Nibru,Ni 4166,A8,
+c.6.2.1,Proverbs: from Nibru,Ni 4166,A9,
+c.6.2.1,Proverbs: from Nibru,Ni 4166,A10,dam
+c.6.2.1,Proverbs: from Nibru,Ni 4166,A11,
+c.6.2.1,Proverbs: from Nibru,Ni 4166,B1,
+c.6.2.1,Proverbs: from Nibru,Ni 4166,B2,al-tar-zu gub-X
+c.6.2.1,Proverbs: from Nibru,Ni 4166,B3,e₂ dirig-ga a-šag₄-ga
+c.6.2.1,Proverbs: from Nibru,Ni 4166,B4,ušumgal-e gaba gi₄ nu-BAD ah₆
+c.6.2.1,Proverbs: from Nibru,Ni 4166,B5,e₂-a du₃-du₃-u₃
+c.6.2.1,Proverbs: from Nibru,Ni 4166,B6,
+c.6.2.1,Proverbs: from Nibru,Ni 4166,B7,banšur kalag-ga-ka
+c.6.2.1,Proverbs: from Nibru,Ni 4166,B8,za-pa-aŋ₂-bi-e
+c.6.2.1,Proverbs: from Nibru,Ni 4166,B9,ur-mah nu-til ši-im-mu₂-e
+c.6.2.1,Proverbs: from Nibru,Ni 4166,B10,gu₂ kaš₄
+c.6.2.1,Proverbs: from Nibru,Ni 4166,B11,du₃-a
+c.6.2.1,Proverbs: from Nibru,Ni 4166,B12,e₃
+c.6.2.1,Proverbs: from Nibru,Ni 4166,B13,dam-gara₃ im-us₂
+c.6.2.1,Proverbs: from Nibru,Ni 4166,B14,a e₂-gal-la am₃-e₃
+c.6.2.1,Proverbs: from Nibru,Ni 4166,B15,
+c.6.2.1,Proverbs: from Nibru,Ni 4166,B16,
+c.6.2.1,Proverbs: from Nibru,Ni 4166,B17,
+c.6.2.1,Proverbs: from Nibru,Ni 4166,C1,e₂-še₃
+c.6.2.1,Proverbs: from Nibru,Ni 4166,C2,iri{ki} nu-ŋa₂-ŋa₂
+c.6.2.1,Proverbs: from Nibru,Ni 4166,C3,{u₂}sas ga hi-iz{sar}-kam
+c.6.2.1,Proverbs: from Nibru,Ni 4166,C4,hi-a-da
+c.6.2.1,Proverbs: from Nibru,Ni 4166,C5,ad-KID gaba ud šar₂
+c.6.2.1,Proverbs: from Nibru,Ni 4166,C6,šar₂-šar₂
+c.6.2.1,Proverbs: from Nibru,Ni 4166,C7,a₂ du₇-du₇
+c.6.2.1,Proverbs: from Nibru,Ni 4166,C8,niŋ₂-u₂-rum
+c.6.2.1,Proverbs: from Nibru,Ni 4166,C9,
+c.6.2.1,Proverbs: from Nibru,Ni 4166,C10,
+c.6.2.1,Proverbs: from Nibru,Ni 4166,C11,
+c.6.2.1,Proverbs: from Nibru,Ni 4166,C12,
+c.6.2.1,Proverbs: from Nibru,Ni 4166,C13,
+c.6.2.1,Proverbs: from Nibru,N 4248,A1,
+c.6.2.1,Proverbs: from Nibru,N 4248,A2,
+c.6.2.1,Proverbs: from Nibru,N 4248,A3,
+c.6.2.1,Proverbs: from Nibru,N 4248,A4,bi₂-ib-BAD-e
+c.6.2.1,Proverbs: from Nibru,N 4248,A5,mu-ni-hal-na
+c.6.2.1,Proverbs: from Nibru,N 4248,A6,la₂-am₃
+c.6.2.1,Proverbs: from Nibru,N 4248,A7,ib-pad₃-de₃
+c.6.2.1,Proverbs: from Nibru,N 4248,A8,
+c.6.2.1,Proverbs: from Nibru,N 4248,A9,kug-ŋa₂-ke₄-eš
+c.6.2.1,Proverbs: from Nibru,N 4248,A10,kug-sig₁₇-ŋa₂-ke₄-eš
+c.6.2.1,Proverbs: from Nibru,N 4248,A11,dub-šen-ŋa₂-ke₄-eš
+c.6.2.1,Proverbs: from Nibru,N 4248,A12,dub-šen-dilim₂-ŋa₂-ke₄-eš
+c.6.2.1,Proverbs: from Nibru,N 4248,A13,ŋe₂₆-e ba-til-de₃-en-e-še
+c.6.2.1,Proverbs: from Nibru,N 4248,A14,X-na-dug₃-ga
+c.6.2.1,Proverbs: from Nibru,N 4248,A15,X-an-gu₇-e
+c.6.2.1,Proverbs: from Nibru,N 4248,B1,
+c.6.2.1,Proverbs: from Nibru,N 4248,B2,
+c.6.2.1,Proverbs: from Nibru,N 4248,B3,
+c.6.2.1,Proverbs: from Nibru,N 4248,B4,
+c.6.2.1,Proverbs: from Nibru,N 4248,B5,hur-hur-re
+c.6.2.1,Proverbs: from Nibru,N 4248,B6,an-ta
+c.6.2.1,Proverbs: from Nibru,N 4248,B7,nin-a-ne
+c.6.2.1,Proverbs: from Nibru,N 4248,B8,
+c.6.2.1,Proverbs: from Nibru,N 4248,B9,
+c.6.2.1,Proverbs: from Nibru,N 3395,A1,
+c.6.2.1,Proverbs: from Nibru,N 3395,A2,du₈-bi-ib šukur₂ nu-ŋar-re
+c.6.2.1,Proverbs: from Nibru,N 3395,A3,e-ri-in-nam
+c.6.2.1,Proverbs: from Nibru,N 3395,A4,di-bi-da an-ša₄-an{ki}-na
+c.6.2.1,Proverbs: from Nibru,N 3395,A5,dim₃-šah₂ mar-ha-ši{ki}
+c.6.2.1,Proverbs: from Nibru,N 3395,A6,gul-lum me-luh-ha{ki}
+c.6.2.1,Proverbs: from Nibru,N 3395,A7,til-lu-ug sa₁₂-ti-um{ki}
+c.6.2.1,Proverbs: from Nibru,N 3395,A8,{ŋeš}asal₂ ga-raš{sar}-gin₇ šab-šab-e
+c.6.2.1,Proverbs: from Nibru,N 3395,A9,{ŋeš}al im-NI-sahar-a ŋar-ra {d}nin-kilim-ma iri-na
+c.6.2.1,Proverbs: from Nibru,N 3395,B1,inim ŋar-ra MAŠ gur šag₄ edin-a
+c.6.2.1,Proverbs: from Nibru,N 3395,B2,en-gin₇ dab₅-ba
+c.6.2.1,Proverbs: from Nibru,N 3395,B3,šu nu-us₂
+c.6.2.1,Proverbs: from Nibru,N 3395,B4,ki nu-ši-la₂
+c.6.2.1,Proverbs: from Nibru,N 3395,B5,ki-in-du-a al-hur
+c.6.2.1,Proverbs: from Nibru,N 3395,B6,{f}kar-ke₄ gi-dub sila šub
+c.6.2.1,Proverbs: from Nibru,N 3395,B7,lu₂ šub-ba na-an-ŋar
+c.6.2.1,Proverbs: from Nibru,N 3395,B8,anše edin-na-gin₇ lul ŋar-ra
+c.6.2.1,Proverbs: from Nibru,N 3395,B9,ba-NIM-ma
+c.6.2.1,Proverbs: from Nibru,N 3395,B10,lahtan-na ud šu₂-a
+c.6.2.1,Proverbs: from Nibru,N 3395,B11,ki-umun₂ giri₁₇ šu du₈-a
+c.6.2.1,Proverbs: from Nibru,N 3395,B12,e-gi-ru-ne
+c.6.2.1,Proverbs: from Nibru,N 3395,B13,
+c.6.2.1,Proverbs: from Nibru,Ni 4469,A1,he₂-e-a
+c.6.2.1,Proverbs: from Nibru,Ni 4469,A2,ninda-ni niŋ₂-ussu
+c.6.2.1,Proverbs: from Nibru,Ni 4469,A3,he₂-am₃
+c.6.2.1,Proverbs: from Nibru,Ni 4469,A4,lu₂ nu-mu-un-šu₂-šu₂
+c.6.2.1,Proverbs: from Nibru,Ni 4469,A5,dub-ba-kam
+c.6.2.1,Proverbs: from Nibru,Ni 4469,A6,
+c.6.2.1,Proverbs: from Nibru,Ni 4469,A7,
+c.6.2.1,Proverbs: from Nibru,Ni 4469,A8,
+c.6.2.1,Proverbs: from Nibru,Ni 4469,A9,si-mu-ur-ru-um i₃-dab₅ bad₃-bi nu-un-gul
+c.6.2.1,Proverbs: from Nibru,Ni 4469,A10,e₂-an-na i₃-du₃ u₃-mu-un-šub
+c.6.2.1,Proverbs: from Nibru,Ni 4469,A11,nam-lugal kalag-ga igi nu-mu-ni-du₈
+c.6.2.1,Proverbs: from Nibru,Ni 4469,A12,ur₅ na-an-na šag₄ sig-ga kur-ra ba-ra-an-de₆
+c.6.2.1,Proverbs: from Nibru,Ni 4469,B1,
+c.6.2.1,Proverbs: from Nibru,Ni 4469,B2,
+c.6.2.1,Proverbs: from Nibru,Ni 4469,B3,
+c.6.2.1,Proverbs: from Nibru,Ni 4469,B4,
+c.6.2.1,Proverbs: from Nibru,Ni 4469,B5,gabu₂-ba
+c.6.2.1,Proverbs: from Nibru,Ni 4469,B6,ar₂-ar₂-e lu₂
+c.6.2.1,Proverbs: from Nibru,Ni 4469,B7,a-na-aš-am₃ saŋ
+c.6.2.1,Proverbs: from Nibru,Ni 4469,C1,
+c.6.2.1,Proverbs: from Nibru,Ni 4469,C2,X-SU-SU
+c.6.2.1,Proverbs: from Nibru,Ni 4469,C3,
+c.6.2.1,Proverbs: from Nibru,Ni 13186,A1,
+c.6.2.1,Proverbs: from Nibru,Ni 13186,A2,
+c.6.2.1,Proverbs: from Nibru,Ni 13186,A3,
+c.6.2.1,Proverbs: from Nibru,Ni 13186,A4,
+c.6.2.1,Proverbs: from Nibru,Ni 13186,A5,maš₂ šu
+c.6.2.1,Proverbs: from Nibru,Ni 13186,A6,
+c.6.2.1,Proverbs: from Nibru,Ni 13186,A7,šu gid₂
+c.6.2.1,Proverbs: from Nibru,Ni 13186,A8,₁/₃
+c.6.2.1,Proverbs: from Nibru,Ni 13186,A9,
+c.6.2.1,Proverbs: from Nibru,Ni 13186,B1,lu₂
+c.6.2.1,Proverbs: from Nibru,Ni 13186,B2,lu₂ nu-me-en
+c.6.2.1,Proverbs: from Nibru,Ni 13186,B3,
+c.6.2.1,Proverbs: from Nibru,Ni 13186,B4,
+c.6.2.1,Proverbs: from Nibru,Ni 13186,B5,
+c.6.2.1,Proverbs: from Nibru,Ni 13186,B6,
+c.6.2.1,Proverbs: from Nibru,Ni 9697,A1,
+c.6.2.1,Proverbs: from Nibru,Ni 9697,A2,
+c.6.2.1,Proverbs: from Nibru,Ni 9697,A3,mu-na-ab-kiŋ₂
+c.6.2.1,Proverbs: from Nibru,Ni 9697,A4,gi₄-gi₄-da-ni
+c.6.2.1,Proverbs: from Nibru,Ni 9697,A5,e₂-a-na ba-ra-an-gi
+c.6.2.1,Proverbs: from Nibru,Ni 9697,A6,lu₂ gaba-ŋal₂
+c.6.2.1,Proverbs: from Nibru,Ni 9697,A7,šu im-ma-ab-gur
+c.6.2.1,Proverbs: from Nibru,Ni 9697,B1,im-ma-an-kud
+c.6.2.1,Proverbs: from Nibru,Ni 9697,B2,X-an-tur₅-tur₅-de₃-en
+c.6.2.1,Proverbs: from Nibru,Ni 9697,B3,im-sam₂
+c.6.2.1,Proverbs: from Nibru,Ni 9697,B4,ug₅
+c.6.2.1,Proverbs: from Nibru,Ni 9697,B5,ba-an-du₈
+c.6.2.1,Proverbs: from Nibru,Ni 9697,B6,
+c.6.2.1,Proverbs: from Nibru,Ni 9824,A1,me-bi na-ab-ta-ab-ha-lam-me-en-ze₂-en
+c.6.2.1,Proverbs: from Nibru,Ni 9824,A2,gud-de₃ ki-gub-bi na-ab-ta-ab-kur₂-ru-de₃-en-ze₂-en
+c.6.2.1,Proverbs: from Nibru,Ni 9824,A3,gud DU-a {ŋeš}tukul a-ab-am₃
+c.6.2.1,Proverbs: from Nibru,Ni 9824,A4,a-a igi i-ni-bar nam-tar-ŋu₁₀ ba-dib-ba
+c.6.2.1,Proverbs: from Nibru,Ni 9824,A5,
+c.6.2.1,Proverbs: from Nibru,Ni 9824,B1,
+c.6.2.1,Proverbs: from Nibru,Ni 9824,B2,
+c.6.2.1,Proverbs: from Nibru,Ni 9824,B3,
+c.6.2.1,Proverbs: from Nibru,Ni 9824,B4,
+c.6.2.1,Proverbs: from Nibru,Ni 9824,B5,ŋe₂₆-e ba-am₃-til₃-la
+c.6.2.1,Proverbs: from Nibru,Ni 9824,C1,e₂-{na₄}kinkin-na du₁₄ he₂-en-ŋal₂
+c.6.2.1,Proverbs: from Nibru,Ni 9824,C2,geme₂ niŋ₂ zuh-a
+c.6.2.1,Proverbs: from Nibru,Ni 9824,C3,he₂-em-ma-ab-ed₃-de₃
+c.6.2.1,Proverbs: from Nibru,Ni 9832,A1,
+c.6.2.1,Proverbs: from Nibru,Ni 9832,A2,he₂-a
+c.6.2.1,Proverbs: from Nibru,Ni 9832,A3,šag₄-ŋu₁₀
+c.6.2.1,Proverbs: from Nibru,Ni 9832,A4,
+c.6.2.1,Proverbs: from Nibru,Ni 9832,B1,
+c.6.2.1,Proverbs: from Nibru,Ni 9832,B2,ŋiri₃
+c.6.2.1,Proverbs: from Nibru,Ni 9832,B3,pad₃
+c.6.2.1,Proverbs: from Nibru,Ni 9832,B4,
+c.6.2.1,Proverbs: from Nibru,Ni 9832,B5,šu-si
+c.6.2.1,Proverbs: from Nibru,Ni 9832,B6,{na₄}kinkin bur₁₂-ra-gin₇
+c.6.2.1,Proverbs: from Nibru,Ni 9832,B7,al-du₇-du₇-du₇-de₃-en
+c.6.2.1,Proverbs: from Nibru,N 6119 and N 4047,1,al-gu₇
+c.6.2.1,Proverbs: from Nibru,N 6119 and N 4047,2,saŋ a-tar-zu nam-ŋu₁₀
+c.6.2.1,Proverbs: from Nibru,N 6119 and N 4047,3,niŋ₂-kas₇-ŋu₁₀
+c.6.2.1,Proverbs: from Nibru,N 6119 and N 4047,4,X-ab-ak-e-še
+c.6.2.1,Proverbs: from Nibru,N 6119 and N 4047,5,ud-da-tuš-a ga-na ₁-am₃
+c.6.2.1,Proverbs: from Nibru,N 6119 and N 4047,6,dug₄-ga-ab šu tu-tu-ba ib₂-ŋu₁₀
+c.6.2.1,Proverbs: from Nibru,N 6119 and N 4047,7,₅₀ ma-na-am₃ ab-gu-ul-e-še
+c.6.2.1,Proverbs: from Nibru,N 6119 and N 4047,8,ud-da-tuš-a ugu iri-ke₄ a-tar i₃-ak-e
+c.6.2.1,Proverbs: from Nibru,N 6119 and N 4047,9,ugu-ni a-tar mu-ni-ib-ak-e-eš
+c.6.2.1,Proverbs: from Nibru,N 6119 and N 4047,10,er₂ i₃-še₈-še₈
+c.6.2.1,Proverbs: from Nibru,Ni 3318,A1,
+c.6.2.1,Proverbs: from Nibru,Ni 3318,A2,ka₅-a šag₄ ba-ab-su
+c.6.2.1,Proverbs: from Nibru,Ni 3318,A3,ubur ama-bi ba-an-had₂
+c.6.2.1,Proverbs: from Nibru,Ni 3318,A4,ka₅-a ama-bi
+c.6.2.1,Proverbs: from Nibru,Ni 3318,A5,X-dirig
+c.6.2.1,Proverbs: from Nibru,Ni 3318,A6,ka₅-a ŋeštug₂-bi
+c.6.2.1,Proverbs: from Nibru,Ni 3318,B1,
+c.6.2.1,Proverbs: from Nibru,Ni 3318,B2,
+c.6.2.1,Proverbs: from Nibru,Ni 3318,B3,šag₄-ta
+c.6.2.1,Proverbs: from Nibru,Ni 3318,B4,
+c.6.2.1,Proverbs: from Nibru,Ni 4338 + 4340,1,
+c.6.2.1,Proverbs: from Nibru,Ni 4338 + 4340,2,igi u₃-bi₂-in-du₈
+c.6.2.1,Proverbs: from Nibru,Ni 4338 + 4340,3,genna a-ba
+c.6.2.1,Proverbs: from Nibru,Ni 4338 + 4340,4,nu-me-a
+c.6.2.1,Proverbs: from Nibru,Ni 4338 + 4340,5,mu-un-il₂-en-e-še
+c.6.2.1,Proverbs: from Nibru,Ni 4338 + 4340,6,dur₂-ru šu-ni
+c.6.2.1,Proverbs: from Nibru,Ni 4338 + 4340,7,a-na-gin₇-nam
+c.6.2.1,Proverbs: from Nibru,Ni 4338 + 4340,8,mu-ra-ab-kal-la-ge
+c.6.2.1,Proverbs: from Nibru,Ni 4338 + 4340,9,mu-ra-ab-kal-la-ge
+c.6.2.1,Proverbs: from Nibru,Ni 4338 + 4340,10,
+c.6.2.1,Proverbs: from Nibru,Ni 4122,1,
+c.6.2.1,Proverbs: from Nibru,Ni 4122,2,ah uš₇ sahar nu-gi₄-a
+c.6.2.1,Proverbs: from Nibru,Ni 4122,3,eme ak an-bar₇ an-dul₃ nu-ŋa₂-ŋa₂
+c.6.2.1,Proverbs: from Nibru,Ni 4122,4,gu₂ urin gal-la
+c.6.2.1,Proverbs: from Nibru,Ni 4122,5,niŋ₂-gig {d}X
+c.6.2.1,Proverbs: from Nibru,Ni 4122,6,
+c.6.2.1,Proverbs: from Nibru,Ni 4122,7,
+c.6.2.1,Proverbs: from Nibru,Ni 4122,8,
+c.6.2.1,Proverbs: from Nibru,Ni 4122,9,
+c.6.2.1,Proverbs: from Nibru,Ni 4300,A1,
+c.6.2.1,Proverbs: from Nibru,Ni 4300,A2,
+c.6.2.1,Proverbs: from Nibru,Ni 4300,A3,
+c.6.2.1,Proverbs: from Nibru,Ni 4300,A4,nam-tar-ŋu₁₀ gu₃-nam ama-ŋu₁₀ mu-da-kur₂
+c.6.2.1,Proverbs: from Nibru,Ni 4300,A5,
+c.6.2.1,Proverbs: from Nibru,Ni 4300,A6,
+c.6.2.1,Proverbs: from Nibru,Ni 4300,A7,
+c.6.2.1,Proverbs: from Nibru,Ni 4300,A8,
+c.6.2.1,Proverbs: from Nibru,Ni 4300,B1,
+c.6.2.1,Proverbs: from Nibru,Ni 5327,1,u₅-munu₄{mušen}
+c.6.2.1,Proverbs: from Nibru,Ni 5327,2,tilla₂
+c.6.2.1,Proverbs: from Nibru,Ni 5327,3,u₅-munu₄{mušen}
+c.6.2.1,Proverbs: from Nibru,Ni 5327,4,
+c.6.2.1,Proverbs: from Nibru,Ni 5327,5,du₃
+c.6.2.1,Proverbs: from Nibru,Ni 5327,6,e-ne
+c.6.2.1,Proverbs: from Nibru,Ni 5327,7,u₅-munu₄{mušen}
+c.6.2.1,Proverbs: from Nibru,Ni 5327,8,ki lu₂
+c.6.2.1,Proverbs: from Nibru,Ni 5327,9,
+c.6.2.1,Proverbs: from Nibru,Ni 4099,1,
+c.6.2.1,Proverbs: from Nibru,Ni 4099,2,aŋ₂ erin₂-bi ŋuruš
+c.6.2.1,Proverbs: from Nibru,Ni 4099,3,
+c.6.2.1,Proverbs: from Nibru,Ni 4099,4,
+c.6.2.1,Proverbs: from Nibru,Ni 4099,5,
+c.6.2.1,Proverbs: from Nibru,Ni 4099,6,
+c.6.2.1,Proverbs: from Nibru,Ni 4099,7,za-e
+c.6.2.1,Proverbs: from Nibru,Ni 4099,8,za-a-X
+c.6.2.1,Proverbs: from Nibru,N 3059,1,lu₂ na-me nu-ub-tuku
+c.6.2.1,Proverbs: from Nibru,N 3059,2,ab-dab₅-be₂
+c.6.2.1,Proverbs: from Nibru,N 3059,3,dam teš₂-tuku lugal zu-a
+c.6.2.1,Proverbs: from Nibru,N 3059,4,ga-ba-al ba-an-du₃-e
+c.6.2.1,Proverbs: from Nibru,N 3059,5,ab-kud-de₃
+c.6.2.1,Proverbs: from Nibru,N 3059,6,
+c.6.2.1,Proverbs: from Nibru,N 3059,7,
+c.6.2.1,Proverbs: from Nibru,N 5225,1,al-ur₁₁-ru gur nu-um-da-X-X-e
+c.6.2.1,Proverbs: from Nibru,N 5225,2,lu₂-tur-re ga-ba-al mu-ni-in-du₃-uš-a
+c.6.2.1,Proverbs: from Nibru,N 5225,3,lu₂ gu-la du₁₄ ha-ra-ni-ib-mu₂-mu₂
+c.6.2.1,Proverbs: from Nibru,N 5225,4,lu₂-tur-re ama-ni ki an-aŋ₂
+c.6.2.1,Proverbs: from Nibru,N 5225,5,šeš-gal šeš-gal
+c.6.2.1,Proverbs: from Nibru,N 5225,6,lu₂ nesaŋ-ke₄ nesaŋ ŋen-na-ke₄
+c.6.2.1,Proverbs: from Nibru,N 5225,7,
+c.6.2.1,Proverbs: from Nibru,Ni 9829,1,
+c.6.2.1,Proverbs: from Nibru,Ni 9829,2,
+c.6.2.1,Proverbs: from Nibru,Ni 9829,3,nam
+c.6.2.1,Proverbs: from Nibru,Ni 9829,4,kur₂-ra
+c.6.2.1,Proverbs: from Nibru,Ni 9829,5,
+c.6.2.1,Proverbs: from Nibru,Ni 9829,6,
+c.6.2.1,Proverbs: from Nibru,Ni 9829,7,
+c.6.2.1,Proverbs: from Nibru,Ni 5271,1,tum₃-tum₃
+c.6.2.1,Proverbs: from Nibru,Ni 5271,2,am₃-zur-re
+c.6.2.1,Proverbs: from Nibru,Ni 5271,3,ur₅ in-da-ur₅
+c.6.2.1,Proverbs: from Nibru,Ni 5271,4,ur₅ kisim gu-du-ka
+c.6.2.1,Proverbs: from Nibru,Ni 5271,5,ur₅-ra tud-da
+c.6.2.1,Proverbs: from Nibru,Ni 5271,6,izi-ka nu₂
+c.6.2.1,Proverbs: from Nibru,N 7577 + N 7578,1,
+c.6.2.1,Proverbs: from Nibru,N 7577 + N 7578,2,šu
+c.6.2.1,Proverbs: from Nibru,N 7577 + N 7578,3,šag₄ diŋir-ŋa₂
+c.6.2.1,Proverbs: from Nibru,N 7577 + N 7578,4,
+c.6.2.1,Proverbs: from Nibru,N 7577 + N 7578,5,šu
+c.6.2.1,Proverbs: from Nibru,Ni 3981,1,sizkur₂-re nam-til₃-ni i₃-u₃-tud
+c.6.2.1,Proverbs: from Nibru,Ni 3981,2,me-a
+c.6.2.1,Proverbs: from Nibru,Ni 3981,3,me-a igi
+c.6.2.1,Proverbs: from Nibru,Ni 3981,4,dumu lu₂ niŋ₂-si-sa₂ u₂-šim-e ba-nu₂
+c.6.2.1,Proverbs: from Nibru,Ni 3981,5,
+c.6.2.1,Proverbs: from Nibru,CBS 12666,1,
+c.6.2.1,Proverbs: from Nibru,CBS 12666,2,
+c.6.2.1,Proverbs: from Nibru,CBS 12666,3,
+c.6.2.1,Proverbs: from Nibru,CBS 12666,4,ba-an-ug₅
+c.6.2.1,Proverbs: from Nibru,N 1905,1,
+c.6.2.1,Proverbs: from Nibru,N 1905,2,gul-lu
+c.6.2.1,Proverbs: from Nibru,N 1905,3,ba-an-de₆
+c.6.2.1,Proverbs: from Nibru,N 1905,4,šag₄ ba-an-de₆
+c.6.2.1,Proverbs: from Nibru,N 3884,1,kar₂
+c.6.2.1,Proverbs: from Nibru,N 3884,2,
+c.6.2.1,Proverbs: from Nibru,N 3884,3,lil₂-la₂
+c.6.2.1,Proverbs: from Nibru,N 3884,4,X-sa₄-a-me-en
+c.6.2.1,Proverbs: from Nibru,CBS 14213,1,a₂ aŋ₂-ŋa₂ ₁-am₃
+c.6.2.1,Proverbs: from Nibru,CBS 14213,2,šag₄-zu ga-bi₂-ib-dug₃
+c.6.2.1,Proverbs: from Nibru,CBS 14213,3,nam-a₂-ŋal₂-ŋu₁₀
+c.6.2.1,Proverbs: from Nibru,IM 58660,1,nu-mu-un-su dam-eŋer-ra-ni na-ab-be₂-a
+c.6.2.1,Proverbs: from Nibru,IM 58660,2,a-na nu-mu-un-su-a-me-eš
+c.6.2.1,Proverbs: from Nibru,IM 58660,3,dam nitalam in-nu
+c.6.2.1,Proverbs: from Nibru,N 4909,1,
+c.6.2.1,Proverbs: from Nibru,N 4909,2,lu₂ niŋ₂ gur-ra-ka
+c.6.2.1,Proverbs: from Nibru,N 4909,3,
+c.6.2.1,Proverbs: from Nibru,N 5569,1,sig₉-ga-ar nam-ba-an-na-kur₂
+c.6.2.1,Proverbs: from Nibru,N 5569,2,kalag-ga-ar nam-ba-an-še₈-še₈
+c.6.2.1,Proverbs: from Nibru,N 5569,3,gašam-še₃ a₂-ni
+c.6.2.1,Proverbs: from Nibru,CBS 3811,1,gud sa ab-kud-kud
+c.6.2.1,Proverbs: from Nibru,CBS 3811,2,{ŋeš}šudul-a nu₂-nu₂
+c.6.2.1,Proverbs: from Nibru,CBS 5971,1,
+c.6.2.1,Proverbs: from Nibru,CBS 5971,2,in-naŋ
+c.6.2.1,Proverbs: from Nibru,CBS 7968,1,mu {d}gu-la nin-ŋa₂-še₃ šub-ba
+c.6.2.1,Proverbs: from Nibru,CBS 7968,2,ŋe₂₆-e igi-ŋa₂ ki-gub-ba nu-tuku-a
+c.6.2.1,Proverbs: from Nibru,IM 58400,1,e₂ lu₂-ka {im}šu-rin-na na-an-sar-re
+c.6.2.1,Proverbs: from Nibru,IM 58400,2,ninda-bi i₃-bi₂
+c.6.2.1,Proverbs: from Nibru,N 6194,1,ŋen za-e dumu-me-e-ke₄
+c.6.2.1,Proverbs: from Nibru,N 6194,2,za-e nu-me-en-na-ta
+c.6.2.1,Proverbs: from Nibru,UM 55-21-38,1,an-na ba-an-DU
+c.6.2.1,Proverbs: from Nibru,UM 55-21-38,2,an-na ba-an-zig₃
+c.6.2.1,Proverbs: from Nibru,UM 55-21-278,1,ka₅-a zu₂ bi₂-in-sud₂-sud₂
+c.6.2.1,Proverbs: from Nibru,UM 55-21-278,2,saŋ nam-mi-bul-bul
+c.6.2.1,Proverbs: from Nibru,3N-T 232 + 244,1,pa₅ {ŋeš}kiri₆-ke₄ a na-an-tum₃
+c.6.2.1,Proverbs: from Nibru,3N-T 232 + 244,2,niŋ₂-ki i₃-ŋal₂
+c.6.2.1,Proverbs: from Nibru,CBS 6551,1,gud-ŋu₁₀ ga mu-ra-ab-tum₂-tum₂-e
+c.6.2.1,Proverbs: from Nibru,CBS 7867,1,lu₂ še-ŋiš-i₃ gu₇-a-gin₇ bid₃-da-ni an-dur₂
+c.6.2.1,Proverbs: from Nibru,CBS 11372,1,dug₄-ga-dug₄-ga šag₄ lu₂-ulu₃-kam ŋal₂-la
+c.6.2.1,Proverbs: from Nibru,N 2182,1,saŋ
+c.6.2.1,Proverbs: from Nibru,N 5925,1,ninda-ni šah₂-ta šu ur₃ am₃-me
+c.6.2.1,Proverbs: from Nibru,UM 29-16-394,1,lugal iri šag₄-ge pad₃-da he₂-til₃
+c.6.2.1,Proverbs: from Nibru,3N-T 161,1,me-zu nu-mu-zu
+c.6.2.1,Proverbs: from Nibru,3N-T 772,1,gud si gal-gal-zu ma-ra-an-gi₄-gi₄-de₃

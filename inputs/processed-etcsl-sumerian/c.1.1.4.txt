@@ -1,0 +1,131 @@
+id_text,text_name,version,l_no,text
+c.1.1.4,Enki's journey to Nibru,,1,ud re-a nam ba-tar-ra-ba
+c.1.1.4,Enki's journey to Nibru,,2,mu he₂-ŋal₂ an u₃-tud-da
+c.1.1.4,Enki's journey to Nibru,,3,uŋ₃-e u₂-šim-gin₇ ki in-dar-ra-ba
+c.1.1.4,Enki's journey to Nibru,,4,en abzu lugal {d}en-ki-ke₄
+c.1.1.4,Enki's journey to Nibru,,5,{d}en-ki en nam tar-tar-re-de₃
+c.1.1.4,Enki's journey to Nibru,,6,e₂-a-ni kug {na₄}za-gin₃-na teš₂-bi ba-ni-in-du₃
+c.1.1.4,Enki's journey to Nibru,,7,kug {na₄}za-gin₃-bi ud kar₂-kar₂-a-ka
+c.1.1.4,Enki's journey to Nibru,,8,eš₃-e abzu-a ul im-ma-ni-in-de₆
+c.1.1.4,Enki's journey to Nibru,,9,suh₁₀ kug galam dug₄-ga abzu-ta e₃-a
+c.1.1.4,Enki's journey to Nibru,,10,en {d}nu-dim₂-mud-ra mu-un-na-sug₂-sug₂-ge-eš
+c.1.1.4,Enki's journey to Nibru,,11,e₂ kug-ga i-ni-in-du₃ {na₄}za-gin₃-na i-ni-in-gun₃
+c.1.1.4,Enki's journey to Nibru,,12,gal-le-eš kug-sig₁₇-ga šu tag ba-ni-in-dug₄
+c.1.1.4,Enki's journey to Nibru,,13,eridug{ki}-ga e₂ gu₂-a bi₂-in-du₃
+c.1.1.4,Enki's journey to Nibru,,14,šeg₁₂-bi inim dug₄-dug₄ ad gi₄-gi₄
+c.1.1.4,Enki's journey to Nibru,,15,gi-sal-la-bi gud-gin₇ mur im-ša₄
+c.1.1.4,Enki's journey to Nibru,,16,e₂ {d}en-ki-ke₄ gu₃ nun di-dam
+c.1.1.4,Enki's journey to Nibru,,17,e₂-e lugal-bi-ir ŋi₆-a ar₂ im-ma-ab-de₆ dug₃-bi mu-un-ŋa₂-ŋa₂
+c.1.1.4,Enki's journey to Nibru,,18,lugal {d}en-ki-ra sukkal {d}isimud-de₃ mi₂ dug₃-ge-eš im-me
+c.1.1.4,Enki's journey to Nibru,,19,e₂-e im-ma-ŋen gu₃ im-ma-de₂-e
+c.1.1.4,Enki's journey to Nibru,,20,šeg₁₂-e im-ma-ŋen gu₃ im-ma-ab-šum₂-mu
+c.1.1.4,Enki's journey to Nibru,,21,e₂ kug {na₄}za-gin₃-na ki ŋar-ra
+c.1.1.4,Enki's journey to Nibru,,22,temen-bi abzu-a sig₉-ga
+c.1.1.4,Enki's journey to Nibru,,23,nun-e abzu-ta mi₂ dug₄-ga
+c.1.1.4,Enki's journey to Nibru,,24,{id₂}idigna {id₂}buranun-na mah ni₂ šu ti-a
+c.1.1.4,Enki's journey to Nibru,,25,abzu {d}en-ki-ke₄ ul-la bi₂-in-tum₂-mu
+c.1.1.4,Enki's journey to Nibru,,26,{ŋeš}saŋ-kul-zu gaba-šu-ŋar nu-tuku
+c.1.1.4,Enki's journey to Nibru,,27,{ŋeš}si-ŋar-zu ur-mah ni₂ gur₃-ru
+c.1.1.4,Enki's journey to Nibru,,28,ŋiš-ur₃-zu gud an-na suh₁₀ kug galam dug₄-ga
+c.1.1.4,Enki's journey to Nibru,,29,{gi}kid-zu za-gin₃-na ŋiš-ur₃-še₃ gun₃-a
+c.1.1.4,Enki's journey to Nibru,,30,nir-gam-ma-zu gud si gur₃-ru
+c.1.1.4,Enki's journey to Nibru,,31,kan₄-zu ur-mah lu₂ šu ti-a
+c.1.1.4,Enki's journey to Nibru,,32,kun₄-zu ug lu₂-ra ed₃-de₃
+c.1.1.4,Enki's journey to Nibru,,33,abzu ki sikil me-te-ŋal₂
+c.1.1.4,Enki's journey to Nibru,,34,e₂-engur-ra lugal-zu ŋiri₃ im-ma-ri-in-gub
+c.1.1.4,Enki's journey to Nibru,,35,{d}en-ki lugal abzu-ke₄
+c.1.1.4,Enki's journey to Nibru,,36,temen-zu {na₄}gug im-ma-da-an-sa₂
+c.1.1.4,Enki's journey to Nibru,,37,za-gin₃-na mi₂ im-ma-ri-in-dug₄
+c.1.1.4,Enki's journey to Nibru,,38,e₂ {d}en-ki-ke₄ lal₃-har-ra kug kurum₇ ak
+c.1.1.4,Enki's journey to Nibru,,39,gud lugal-bi-ir us₂-a sig₁₀-ga
+c.1.1.4,Enki's journey to Nibru,,40,ni₂-bi-še₃ mur ša₄ teš₂-bi-še₃ ad gi₄-gi₄
+c.1.1.4,Enki's journey to Nibru,,41,e₂-engur-ra {d}en-ki-ke₄ gi dub-ba-an kug la₂-am₃
+c.1.1.4,Enki's journey to Nibru,,42,šag₄-zu-ta barag mah ki ŋar-ra
+c.1.1.4,Enki's journey to Nibru,,43,zag-du₈-zu aškud₂ kug an-na
+c.1.1.4,Enki's journey to Nibru,,44,abzu ki sikil ki nam tar-ra
+c.1.1.4,Enki's journey to Nibru,,45,en ŋeštug₂-ga lugal {d}en-ki
+c.1.1.4,Enki's journey to Nibru,,45A,{d}en-ki en nam tar-tar-re-de₃
+c.1.1.4,Enki's journey to Nibru,,46,{d}nu-dim₂-mud en eridug{ki}-ga-ke₄
+c.1.1.4,Enki's journey to Nibru,,47,šag₄ šeg₉-bar-ra lu₂ igi nu-bar-re-dam
+c.1.1.4,Enki's journey to Nibru,,48,abgal-zu siki bar-ra bi₂-in-du₈
+c.1.1.4,Enki's journey to Nibru,,49,eridug{ki} {d}en-ki-ke₄ ki aŋ₂-ŋa₂-ni
+c.1.1.4,Enki's journey to Nibru,,50,e₂-engur-ra šag₄-bi he₂-ŋal₂ sug₄-ga
+c.1.1.4,Enki's journey to Nibru,,51,abzu zi kalam-ma ki aŋ₂ {d}en-ki-ke₄
+c.1.1.4,Enki's journey to Nibru,,52,e₂ zag-ga du₃-a me galam-ma tum₂-ma
+c.1.1.4,Enki's journey to Nibru,,53,eridug{ki} ŋissu-zu ab-šag₄-ga la₂-a
+c.1.1.4,Enki's journey to Nibru,,54,a-ab-ba zig₃-ga gaba-šu-ŋar nu-tuku
+c.1.1.4,Enki's journey to Nibru,,55,id₂ mah ni₂-ŋal₂-la su kalam-ma zi-zi
+c.1.1.4,Enki's journey to Nibru,,56,e₂-engur-ra uru₂ mah ki us₂-sa
+c.1.1.4,Enki's journey to Nibru,,57,e₂ da engur-ra piriŋ abzu šag₄-ga
+c.1.1.4,Enki's journey to Nibru,,58,e₂ mah {d}en-ki-ke₄ ŋeštug₂ kalam-e šum₂-mu
+c.1.1.4,Enki's journey to Nibru,,59,akkil-zu id₂ mah zig₃-ga-gin₇
+c.1.1.4,Enki's journey to Nibru,,60,lugal {d}en-ki-ra mu-un-na-tuku-am₃
+c.1.1.4,Enki's journey to Nibru,,61,e₂ kug-ga-ni-še₃ dug₃-bi mu-un-ŋa₂-ŋa₂
+c.1.1.4,Enki's journey to Nibru,,62,{ŋeš}za₃-mi₂ {ŋeš}al-ŋar {ŋeš}balaŋ al-ŋar-sur₉-da
+c.1.1.4,Enki's journey to Nibru,,63,{ŋeš}har-har {ŋeš}sa-bi₂-tum {ŋeš}mi-ri₂-tum e₂ sig₉-ga
+c.1.1.4,Enki's journey to Nibru,,64,ad dug₃-ga nundum bur₂-re balaŋ-ŋa₂
+c.1.1.4,Enki's journey to Nibru,,65,šag₄ ni₂-ba-ka ad ha-ba-ni-ib-ša₄
+c.1.1.4,Enki's journey to Nibru,,66,{ŋeš}al-ŋar kug {d}en-ki-ke₄ ni₂-ba mu-un-na-du₁₂
+c.1.1.4,Enki's journey to Nibru,,67,nar ₇-e ad he₂-em-mi-ib-ša₄
+c.1.1.4,Enki's journey to Nibru,,68,dug₄-ga {d}en-ki-ke₄ šu nu-bal-e-de₃
+c.1.1.4,Enki's journey to Nibru,,69,ki-bi-še₃ ŋal₂-la-am₃
+c.1.1.4,Enki's journey to Nibru,,70,sukkal {d}isimud-de₃ šeg₁₂-e gu₃ ba-an-šum₂
+c.1.1.4,Enki's journey to Nibru,,71,e₂-engur-ra-ke₄ šir₃ dug₃-ge-eš im-me
+c.1.1.4,Enki's journey to Nibru,,72,mu-un-du₃-a-ba mu-un-du₃-a-ba
+c.1.1.4,Enki's journey to Nibru,,73,eridug{ki} {d}en-ki-ke₄ im-ma-an-il₂-la-ba
+c.1.1.4,Enki's journey to Nibru,,74,hur-saŋ galam kad₅-dam a-e ba-dirig
+c.1.1.4,Enki's journey to Nibru,,75,zag-ga-a-ni ŋiš-gi-a ba-an-KU
+c.1.1.4,Enki's journey to Nibru,,76,{ŋeš}kiri₆ sig₇-ga gurun il₂-la-a-ba
+c.1.1.4,Enki's journey to Nibru,,77,mušen-e ŋi₆ haš₄-bi mu-un-ŋa₂-ŋa₂
+c.1.1.4,Enki's journey to Nibru,,78,suhur{ku₆}-e u₂-lal₃-e e-ne mu-un-e
+c.1.1.4,Enki's journey to Nibru,,79,eštub{ku₆}-e gi-zi di₄-di₄-la₂ kun mu-un-na-sud-e
+c.1.1.4,Enki's journey to Nibru,,80,{d}en-ki zig₃-ga-na ku₆ i-zi-eš₂ na-zig₃
+c.1.1.4,Enki's journey to Nibru,,81,abzu-e u₆ am₃-ma-gub
+c.1.1.4,Enki's journey to Nibru,,82,engur-ra hul₂-la mu-ni-ib-de₆
+c.1.1.4,Enki's journey to Nibru,,83,a-ab-ba-gin₇ ni₂ mu-un-da-ŋal₂
+c.1.1.4,Enki's journey to Nibru,,84,id₂ mah-gin₇ su zig₃ mu-un-da-ri
+c.1.1.4,Enki's journey to Nibru,,85,{id₂}buranun-na u₁₈-lu sumur mu-un-da-an-zig₃
+c.1.1.4,Enki's journey to Nibru,,86,{ŋeš}gi-muš-a-ni {d}nirah-a-ni
+c.1.1.4,Enki's journey to Nibru,,87,{ŋeš}ŋisal-a-ni gi tur-tur-a-ni
+c.1.1.4,Enki's journey to Nibru,,88,{d}en-ki u₅-a-ni mu he₂-ŋal₂ sug₄-ga
+c.1.1.4,Enki's journey to Nibru,,89,{ŋeš}ma₂ ni₂-bi nam-du₈ eš₂ ni₂-bi nam-dab₅
+c.1.1.4,Enki's journey to Nibru,,90,e₂ eridug{ki}-ga-ke₄ im-ma-kar-ra
+c.1.1.4,Enki's journey to Nibru,,91,id₂-de₃ lugal-bi-ir ad im-mi-ib-gi₄-gi₄
+c.1.1.4,Enki's journey to Nibru,,92,gu₃-bi gu₃ amar-ra gu₃ ab₂ dug₃-ga-ke₄
+c.1.1.4,Enki's journey to Nibru,,93,{d}en-ki-ke₄ gud im-ma-ab-gaz-e udu im-ma-ab-šar₂-re
+c.1.1.4,Enki's journey to Nibru,,94,{kuš}a₂-la₂ nu-ŋal₂-la ki-bi-še₃ sa₂ im-dug₄
+c.1.1.4,Enki's journey to Nibru,,95,ub₃ zabar nu-ŋal₂-la ki-bi-še₃ im-mi-in-e₃
+c.1.1.4,Enki's journey to Nibru,,96,nibru{ki}-še₃ ŋiri₃-ni dili mu-un-gub
+c.1.1.4,Enki's journey to Nibru,,97,gi-gun₄-na eš₃-e nibru{ki}-a im-ma-da-an-ku₄-ku₄
+c.1.1.4,Enki's journey to Nibru,,98,{d}en-ki-ke₄ kaš-kaš-e ba-te kurun₂-kurun₂-e ba-te
+c.1.1.4,Enki's journey to Nibru,,99,kurun₂ gal zabar-ra ba-ni-in-de₂
+c.1.1.4,Enki's journey to Nibru,,100,{kaš}ulušin dili-am₃ ba-ni-in-sur
+c.1.1.4,Enki's journey to Nibru,,101,{dug}ku-kur-ru₂ kaš dug₃-dug₃-ga duh-bi bi₂-in-sa₂-sa₂
+c.1.1.4,Enki's journey to Nibru,,102,ka-bi lal₃ zu₂-lum-ma niŋ₂ er₉ ba-ni-in-ak
+c.1.1.4,Enki's journey to Nibru,,103,duh-bi niŋ₂ lal₃-lal₃ dili-a sed-še₃ bi₂-in-du₈
+c.1.1.4,Enki's journey to Nibru,,104,{d}en-ki-ke₄ eš₃-e nibru{ki}-am₃
+c.1.1.4,Enki's journey to Nibru,,105,a-a-ni {d}en-lil₂-ra ninda mu-un-gu₇-e
+c.1.1.4,Enki's journey to Nibru,,106,an ki mah-a im-ma-an-tuš
+c.1.1.4,Enki's journey to Nibru,,107,an-ra {d}en-lil₂ im-ma-ni-in-us₂
+c.1.1.4,Enki's journey to Nibru,,108,{d}nin-tur₅ zag gal-la im-mi-in-tuš
+c.1.1.4,Enki's journey to Nibru,,109,{d}a-nun-na ki-us₂-ki-us₂-bi im-mi-in-dur₂-ru-ne-eš
+c.1.1.4,Enki's journey to Nibru,,110,lu₂-e-ne kaš i₃-na₈-na₈-ne kurun im-dug₃-ge-ne
+c.1.1.4,Enki's journey to Nibru,,111,{zabar}aga im-gur₄-gur₄-re-e-ne
+c.1.1.4,Enki's journey to Nibru,,112,zabar-e {d}uraš-e a-da-min₃ mu-un-di-ne
+c.1.1.4,Enki's journey to Nibru,,113,ti-lim-da ma₂-gur₈ kug im-ba-ba-re-e-ne
+c.1.1.4,Enki's journey to Nibru,,114,kaš ba-dug₄ kurun₂ ba-dug₃-ga-ta
+c.1.1.4,Enki's journey to Nibru,,115,e₂-ta ŋiri₃-bi-a ba-ra-ŋar-ra-ta
+c.1.1.4,Enki's journey to Nibru,,116,{d}en-lil₂ nibru{ki}-a hul₂-la mu-ni-ib-de₆
+c.1.1.4,Enki's journey to Nibru,,117,{d}en-lil₂-le {d}a-nun-na-ke₄-ne gu₃ mu-na-de₂-e
+c.1.1.4,Enki's journey to Nibru,,118,diŋir gal-gal-la i₃-sug₂-ge-en-za-na
+c.1.1.4,Enki's journey to Nibru,,119,{d}a-nun-na ub-šu-unken-na-ka si mu-un-sa₂-sa₂-e-en-za-na
+c.1.1.4,Enki's journey to Nibru,,120,dumu-ŋu₁₀ e₂ mu-un-du₃ lugal {d}en-ki-ke₄
+c.1.1.4,Enki's journey to Nibru,,121,eridug{ki} hur-saŋ-gin₇ ki-ta ba-ra-ri
+c.1.1.4,Enki's journey to Nibru,,122,ki dug₃-ga-am₃ e₂ im-ma-an-du₃
+c.1.1.4,Enki's journey to Nibru,,123,eridug{ki} ki sikil lu₂ nu-ku₄-ku₄-da
+c.1.1.4,Enki's journey to Nibru,,124,e₂ kug-ga du₃-a za-gin₃-na gun₃-a
+c.1.1.4,Enki's journey to Nibru,,125,e₂ tigi ₇-e si sa₂-e nam-šub šum₂-ma
+c.1.1.4,Enki's journey to Nibru,,126,šir₃ kug teš₂ e₂ ki al-dug₃-ga
+c.1.1.4,Enki's journey to Nibru,,127,eš₃ abzu nam dug₃ {d}en-ki-ke₄ me galam-ma tum₂-ma
+c.1.1.4,Enki's journey to Nibru,,128,eridug{ki} e₂ kug-ga du₃-a-ba
+c.1.1.4,Enki's journey to Nibru,,129,a-a {d}en-ki za₃-mi₂

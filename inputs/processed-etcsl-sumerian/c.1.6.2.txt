@@ -1,0 +1,712 @@
+id_text,text_name,version,l_no,text
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,0,an lugal diŋir-re-e-ne-ke₄ nir-ŋal₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,1,lugal ud me-lem₄-bi nir-ŋal₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,2,{d}nin-urta saŋ-kal usu mah tuku kur a-ga-na lah₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,3,a-ma-ru mir-DU nu-kuš₂-u₃ ki-bal ŋa₂-ŋa₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,4,ur-saŋ me₃-še₃ ti-na gub-bu
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,5,en šu silig-ga {ŋeš}mi-tum-še₃ ŋal₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,6,gu₂ nu-še-ga še-gin₇ gur₁₀ su-ub-bu
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,7,{d}nin-urta lugal dumu a-a-ni kalag-ga-ni-še₃ hul₂-la
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,8,ur-saŋ ni₂ ulu₃-gin₇ kur-ra dul-lu
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,9,{d}nin-urta aga zid {d}ŠE.TIR-an-na igi nim ŋir₂ du₇-du₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,10,sun₄ nun-e a za-gin₃ ru-a ušum ni₂-ba gur-gur
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,11,zag piriŋ-e muš-e-eš eme ed₂-de₃ gu₃-an-ne₂-si ka si-il-le
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,12,{d}nin-urta lugal {d}en-lil₂-le ni₂-te-na dirig-ga
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,13,ur-saŋ {sa}šu₂-uš-gal lu₂-erim₂-ra šu₂-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,14,{d}nin-urta ni₂ ŋissu-zu kalam-ma la₂-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,15,sumur ki-bal-še₃ tum₃ unken-bi dul-dul
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,16,{d}nin-urta lugal dumu a-a-ni-ir su₃-ud-bi-še₃ giri₁₇ šu ŋal₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,17,{ŋeš}gu-za barag mah-e si-a-ni ni₂ gal gur₃-ru-ni
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,18,ezen ŋar-ra-ni hul₂-la-na daŋal-bi tuš-a-ni
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,19,an {d}en-lil₂-da zag ša₄-a-ni kurun dug₃-ge-da-ni
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,20,{d}ba-u₂ a-ra-zu lugal-la-ka u₃-gul ŋa₂-ŋa₂-da-ni
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,21,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ nam tar-re-da-ni
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,22,ud-bi-a en-na {ŋeš}tukul-a-ni kur-ra igi mi-ni-ŋal₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,23,šar₂-ur₃-e an-ta lugal-bi-ir gu₃ mu-na-de₂-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,24,en ŋišgal an-na gu₂-en barag-ge si
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,25,{d}nin-urta dug₄-ga-zu nu-kur₂-ru nam tar-ra-zu šu zid-de₃-eš ŋar
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,26,lugal-ŋu₁₀ an-e ki sig₇-ga ŋiš₃ im-ma-dug₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,27,{d}nin-urta ur-saŋ ni₂ nu-zu a₂-sag₃ mu-un-ši-ib-tu-ud
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,28,dumu um-me ga nu-tuš-a ne₃ ga gu₇-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,29,lugal-ŋu₁₀ buluŋ₃ a-a nu-zu gab₂-gaz kur-ra-ka
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,30,šul IR-ta e₃-a igi teš₂ nu-ŋal₂-la
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,31,{d}nin-urta nitah ni₂ il₂-il₂-i alan-da hul₂-la
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,32,ur-saŋ-ŋu₁₀ gud-dam zag-ŋu₁₀ ga-bi₂-ib₂-us₂-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,33,lugal-ŋu₁₀ lu₂ iri-ni-še₃ gur-ra ama-ni-še₃ ak-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,34,kur-ra šag₄ i-ni-bal numun-bi ba-tal₂-tal₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,35,teš₂-ba mu bi₂-ib₂-sa₄ u₂ lugal-bi-še₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,36,murub₄-ba am gal-gin₇ a₂ ba-ni-ib-il₂-il₂-i
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,37,{na₄}šu-u {na₄}saŋ-kal {na₄}esi {na₄}u₂-si-um {na₄}ka-gen₆-na
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,38,ur-saŋ {na₄}nu₁₁ gar₃-ra-du-um-bi iri{ki} im-ma-ab-lah₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,39,kur-ra zu₂ kušu₂-a mu-ne-mu₂ ŋiš mi-ni-ib-ur₃-ur₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,40,a₂-ba iri{ki}-ba diŋir-be₂-ne ki-bi-še₃ ba-an-gam-e-eš
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,41,lugal-ŋu₁₀ ur₅-re barag ba-ri a₂ tu-lu nu-gi₄-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,42,{d}nin-urta en za-gin₇ kalam-ma di-bi ši-in-ga-kud-de₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,43,a₂-sag₃-a me-lem₄-ba a-ba šu mi-ni-ib-tu-tu
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,44,saŋ-ki-ba gal-gal a-ba ib₂-ta-ŋa₂-ŋa₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,45,su₂ im-sag₃ ni₂ su-e bi₂-ib-us₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,46,igi-bi ki-bi-še₃ ba-ni-ib-ŋar
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,47,lugal-ŋu₁₀ kur-re nidba-bi ki-bi-še₃ ba-ab-su
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,48,ur-saŋ a-a-zu-še₃ en₃ mu-e-ši-tar
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,49,dumu {d}en-lil₂-la₂ en a₂ mah-zu-uš ki mu-e-ši-ib₂-kiŋ₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,50,lugal-ŋu₁₀ kalag-ga-zu-še₃ ad mu-e-ši-ib-gi₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,51,{d}nin-urta zag-zu ur-saŋ ₁ nu-tuš-a ba-ab-dug₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,52,UR.GA-ru-še₃ a₂ mu-e-ši-ib-aŋ₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,53,ur-saŋ nam-lugal-zu tum₃-de₃ tar-tar-ra mu-un-ŋal₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,54,{d}nin-urta me abzu-zu šu si sa₂-bi ŋiškim i-im-til₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,55,igi im-sag₃-sag₃ ki-tuš im-kur₂-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,56,a₂-sag₃-e ud šu₂-uš ki-sur-ra a₂-ba mi-ni-ib-ku₄-ku₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,57,{ŋeš}rab₃ diŋir-re-e-ne na-dab₅-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,58,tarah an-na kur umbin ba-e-zukum
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,59,{d}nin-urta en dumu {d}en-lil₂-la₂ a-na zig₃-bi mu-un-gi₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,60,a₂-sag₃ zig₃-ga-bi šu la-ba-ŋal₂ dugud-da-bi im-gu-ul
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,61,ugnim-bi-ta ib₂-ta-de₆ erin₂-bi igi la-ba-teŋ₃-ŋe₂₆
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,62,ur₅-ra kalag-ga-bi saŋ im-gi₄ {ŋeš}tukul-e ŋiš la-ba-ab-kiŋ₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,63,{d}nin-urta ŠEN.ŠITA₂ šukur mah-e su-bi nu-dar-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,64,ur-saŋ na-me-gin₇ na-ra-dim₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,65,en me mah-e a₂-kuš₃ sud-sud
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,66,še-er-zid me-te diŋir-re-e-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,67,gud muš₃-ba am gal murgu tuku lal₃ gal-zu ur₅-ra
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,68,{d}nin-urta alan-za {d}en-ki-ke₄ igi bar-bar-ra-ŋu₁₀
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,69,{d}u₄-ta-u₁₈-lu en dumu {d}en-lil₂-la₂ a-na ak-ŋu₁₀
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,70,en-e u₃-u₈ bi₂-in-dug₄ an ba-sag₃ ki ŋiri₃-ni-še₃ ba-tuš
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,71,a₂-ba i-ni-in-gi₄ {d}en-lil₂ ba-suh₃ e₂-kur-ra ba-ta-e₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,72,kur ba-gul ki ud-ba ba-ku₁₀-ku₁₀ {d}a-nun-na ba-tar-ra-aš
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,73,ur-saŋ-e haš₂ tibir-ra bi₂-in-ra diŋir ba-bir-bir-re-eš
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,74,{d}a-nun-na udu-gin₇ ki-šar₂-ra ba-e-e₁₁-ne-re₇-eš
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,75,en zig₃-ga-ni an-ne₂ im-us₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,76,{d}nin-urta me₃-še₃ du-ni gaba danna bi₂-in-sa₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,77,ud-dam i₃-du₇-du₇ ki-bal-še₃ tum₉ ₈ mu-un-u₅
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,78,ŋiš-gid₂-da a₂ i₃-ur₄-ur₄-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,79,{ŋeš}mi-tum-e kur-še₃ ka ba-ab-du₈
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,80,{ŋeš}tukul-e gu₂-erim₂-še₃ teš₂-bi i₃-gu₇-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,81,im-hul u₁₈-lu ŋiš-a mu-un-du₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,82,mar-uru₅ še-ba mu-un-ne-en-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,83,ur-saŋ-ra uru₂ mah saŋ gi₄-a igi-še₃ mu-un-na-ŋen
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,84,sahar i₃-zi-zi sahar i₃-ŋa₂-ŋa₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,85,du₆-du₆ dul₂-la₂ mu-un-sig₉-ge₄ a-ga-zig₃ i₃-tu₁₁-be₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,86,u₃-dub₂ i₃-šeŋ₃ izi i₃-sud-sud-sud izi lu₂ ba-an-zal-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,87,ŋiš mah ur₂-bi-a mu-un-bal-e {ŋeš}tir-ra guru₅ i-i
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,88,ki šag₄-bi šu ba-ši-ri-ri a gig-ga i-i
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,89,{id₂}idigna i₃-suh₃ i₃-ur₄-ur₄ i₃-lu₃ šu im-tu-bu-ur
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,90,{ŋeš}ma₂-kar-nun-ta-e₃-a me₃-še₃ ŋiri₃ im-mi-ib₂-ul₄-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,91,uŋ₃-bi ki du-bi nu-un-zu e₂-ŋar₈ du₃ i₃-ak-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,92,mušen dal-le-bi saŋ ib₂-ta-de₆ a₂-bi ki mu-un-teŋ₃-ŋe₂₆-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,93,ku₆-bi engur-ra ud mi-ni-ib-ra ka mu-un-ba-ba-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,94,edin-na maš₂-anše-bi u₂-ku-uk mi-ni-ib-dug₄ bir₅-re-eš šu mi-ni-hu-uz₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,95,a-ŋi₆ zig₃-bi gul-bi kur gul-gul
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,96,ur-saŋ {d}nin-urta ki-bal-a im-ma-DU i₃-tuku
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,97,lu₂ im₂-ma-bi kur-ra im-ra iri-ba bu-du-ug im-za
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,98,gud a-ra-bi giriš-gin₇ ŋir₂-ŋir₂-e ugu-ugu-bi mu-un-šu₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,99,šu-bi {u₂}KI.KAL-gin₇ teš₂ ŋiš mu-un-ri
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,100,saŋ-bi e₂-ŋar₈-e kaš₄ bi₂-ib-kar-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,101,kur-ra ŋiš-nu₁₁-bi dili ba₉-ra₂ nu-ŋa₂-ŋa₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,102,zi-bi gaba-bi i-im-il₂-il₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,103,uŋ₃-bi tur₅-ra šu gu₂ zag bi₂-ib₂-la₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,104,ki-a aš₂ im-mi-ib-sar-re-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,105,ud tud-da a₂-sag₃ ud ha-lam-ma-bi-a ba-ni-ib-ŋa₂-ŋa₂-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,106,en-e ki-bal-a-še₃ uš₁₁ ze₂-a i-ni-in-de₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,107,du-ni ze₂ mu-un-us₂ lipiš sumur mu-un-tag
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,108,id₂ mah-gin₇ mi-ni-ib-be₂ i₃-ur₄-ru gu₂-erim₂-še₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,109,{ŋeš}tukul saŋ piriŋ₃-ŋa₂-ni-a šag₄ mu-un-na-ab-zalag-ge
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,110,mušen-gin₇ i₃-dal-e kur mu-na-ab-zukum-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,111,nu-še-ga tum₃-de₃ a₂ dub₂ i₃-ak-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,112,a-na ak-e zu-zu-de₃ an-ur₂ im-niŋin₂-niŋin₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,113,ul du gaba mu-un-ru-gu₂ inim-bi mu-un-na-ab-tum₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,114,nu-kuš₂-u₃ la-ba-tuš-u₃ a₂-bi mar-uru₅ de₆
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,115,šar₂-ur₃-re en {d}nin-urta-ra a gu₃ a-na bi₂-ib-dab₅
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,116,ad gi₄-a kur-ra šu im-mi-ib-gi₄-gi₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,117,en {d}nin-urta-ra sig₁₀-ge₅ ak mu-na-bur₂-bur₂-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,118,inim dug₄-ga a₂-sag₃-a gu-gin₇ i₃-si-il-le
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,119,ur-saŋ ni₂-zu-še₃ dug₃-ge-eš mu-na-ab-be₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,120,{ŋeš}tukul-e ki aŋ₂-ra gu₂-da mu-ni-in-la₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,121,šar₂-ur₃-e en {d}nin-urta-ra gu₃ mu-na-de₂-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,122,ur-saŋ a-RU-ub {sa}šu₂-uš me₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,123,{d}nin-urta lugal {ŋeš}šita₂ an-na erim₂-še₃ nu-ru-gu₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,124,kalag-ga ud ki-bal-a du₃ a-ŋi₆-a buru₁₄ su-su
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,125,lugal me₃ igi im-ŋar mu-un-ri-eš
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,126,{d}nin-urta sa-par₃-gin₇ u₃-mu-e-dub {gi}šutug mah-gin₇ u₃-mu-e-šub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,127,en mir-DU an-na {ŋeš}gag-a {ŋeš}tukul-e a tu₅-bi₂-ib₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,128,{d}nin-urta ur-saŋ ug₅-ga-za mu-bi he₂-pad₃-de₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,129,ku-li-an-na ušum niŋ₂-babbar₂-ra
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,130,urud niŋ₂ kalag-ga ur-saŋ šeg₉-saŋ-₆
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,131,ma₂-gi₄-lum en {d}saman-an-na
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,132,gud-alim lugal {ŋeš}ŋišnimbar
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,133,mušen anzud{mušen} muš-saŋ-₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,134,{d}nin-urta kur-ra he₂-mu-e-ni-ug₅
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,135,en me₃ ne-en rib-ba-še₃ ba-ra-ab-ši-ŋen-ne₂-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,136,{ŋeš}tukul sag₃-ge ezen nam-ŋuruš-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,137,ešemen {d}inana-ke₄ a₂-zu ba-ra-ni-zig₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,138,en me₃ mah-e la-ba-e-du-un na-ab-ul₄-en ŋiri₃ ki-a si-bi₂-ib
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,139,{d}nin-urta a₂-sag₃-e kur-ra ŋiri₃ mu-e-ši-ni-gub-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,140,ur-saŋ aga-na gal sig₇-ga
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,141,dumu-saŋ {d}nin-lil₂-le hi-li-a nu-til-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,142,en zid en-ra nun-e tu-ud-da
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,143,ur-saŋ {d}suen-gin₇ si mu₂-mu₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,144,lugal kalam-ma-ra til₃ ud su₃-ra₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,145,usu mah an-na-ra an ba₉-ra₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,146,a ur₄-ra peš₁₀ sa ur₄-ra
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,147,{d}nin-urta en ni₂ huš ri-a kur-ra saŋ šum₂-mu
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,148,ur-saŋ gal tab-ba nu-tuku-tuku
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,149,a₂-še a₂-sag₃-ge nu-sig₁₀-ge
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,150,{d}nin-urta ŋuruš-zu kur-ra nam-ba-ni-ib-ku₄-ku₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,151,ur-saŋ dumu ka silim-ma a-a-na
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,152,gal-zu sa₂ galam-ma-ta ed₃-de₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,153,{d}nin-urta en dumu {d}en-lil₂-la₂ ŋeštug₂ daŋal diŋir še
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,154,en-e haš₂ mu-un-gid₂ dur₃ mu-dur₂-ru
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,155,zu₂ keše₂-da zag mu-ni-in-keše₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,156,mah su₃-ra₂-ni kur-ra bi₂-in-la₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,157,uŋ₃-ba mi-ni-in-e₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,158,bad₃ tuš-a-ke₄ sa₂ ba-an-dug₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,159,me₃ saŋ-gin₇ ki-bal-a ba-an-ŋen
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,160,ŋiš-gid₂-da-ni a₂ im-ma-an-aŋ₂ gu-bi-še₃ im-la₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,161,en-e {ŋeš}tukul-a-ni gu₃ ba-an-de₂ zu₂ keše₂-bi-še₃ ba-ŋen
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,162,ur-saŋ-e me₃-še₃ saŋ ba-an-šum₂ an ki-e ba-la₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,163,{ŋeš}ilar {kuš}gur₂₁-e si bi₂-in-sa₂ kur ba-gul ba-sal
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,164,zag zu₂ keše₂ me₃ {d}nin-urta-ka-še₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,165,ur-saŋ-e {ŋeš}tukul-a-ni-še₃ da-da-ra di-da-ni
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,166,{d}utu la-ba-gub {d}suen ba-an-kur₉
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,167,kur-ra saŋ di-da ba-da-ha-lam ud esir-re-eš ba-an-du₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,168,a₂-sag₃ me₃ saŋ-ba mu-un-zig₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,169,an nam {ŋeš}tukul-še₃ ur₂-ba mi-ni-in-bur₁₂ šu im-ma-an-ti
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,170,muš-gin₇ saŋ ki-a im-mi-ib₂-be₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,171,ur-idim lu₂-erim₂-še₃ kun sud dim₃-ma ug₅-ge
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,172,a da-bi-a mu-un-sur-sur-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,173,a₂-sag₃ {d}nin-urta dumu {d}en-lil₂-la₂-še₃ e₂-ŋar₈-gin₇ mu-un-ši-gul-lu
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,174,ud nam-tag-ga-gin₇ gu₃ huš bi₂-ib₂-ra
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,175,muš-saŋ-kal-gin₇ kalam-ma šeg₁₁ bi₂-in-gi₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,176,kur-ra a mi-ni-ib₂-had₂ {ŋeš}šinig mi-ni-ib₂-ur₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,177,ki-a su bi₂-ib₂-dar simₓ-ma bi₂-ib₂-ŋar
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,178,ŋiš-gi izi ba-ab-šum₂ an-e uš₂ bi₂-ib₂-tu₅
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,179,šag₄-ge ti ba-ab-bal uŋ₃-bi sag₂ ba-ab-dug₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,180,i₃-ne-eš₂ ud-da a-šag₄-ga uh₃ gig₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,181,me-da ur₂ an-na he-me-da-gin₇ su₂-a-še₃ ur₅ he₂-en-na-nam-ma-am₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,182,an ib₂-dub₂ ba-tuš šag₄ šu ba-ši-ib-ri
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,183,{d}en-lil₂ ib₂-ur₄-ur₄ da-še₃ im-ši-ib-ri
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,184,{d}a-nun-na-ke₄-ne e₂-ŋar₈-e ba-ab-ha-ha-za
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,185,tum₁₂{mušen}-gin₇ e₂ ni₂ te-ta gu₃ im-ma-ni-ib₂-be₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,186,kur gal {d}en-lil₂-le {d}nin-lil₂-ra gu₃ mu-na-de₂-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,187,nitalam-ŋu₁₀ dumu-ŋu₁₀ nu-ba-tuš ŋe₂₆-e a-na mu-zi-zi
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,188,en teš₂ e₂-kur-ra lugal rab₃ mah a-a-na
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,189,{ŋeš}erin abzu-a mu₂-a aga ŋissu daŋal-la
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,190,dumu ki ni₂ dub₂-bu-ŋu₁₀ nu-ba-tuš šu-ŋu₁₀ a-ba ba-gid₂-i-de₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,191,{ŋeš}tukul en-ra ki aŋ₂ lugal-bi-ir ŋiš tuku
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,192,šar₂-ur₃-re en {d}nin-urta-ra
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,193,nibru{ki}-še₃ a-a-ni-ir
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,194,ni₂ me-lem₄ tug₂-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,195,ba-an-la₂ en ur₅-re-eš
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,196,{ŋeš}tukul-e {d}en-lil₂-ra gu₃ mu-na-de₂-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,197,dumu-zu-ur₂ a₂-sag₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,198,
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,211,kur-kur
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,212,in-da-sa₂ ki-bal ŋiri₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,213,ud nu-dib-ba igi-ŋu₁₀ ba-ab-ŋal₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,214,a₂ he₂-en-ŋal₂ en-zu gaba-zu mu-un-zig₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,215,{d}nin-urta ni₂-te-a-na ŋiškim i-im-til₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,216,X-un-til-la i-im-gub a ud-gin₇ ba-an-ta-had₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,217,zi dug₃-ge-eš mi-ni-pa-aŋ₂ hul₂-hul₂-le i-im-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,218,ur-saŋ {d}nin-urta-ka-še₃ tum₉-tum₉ hul sukud-de₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,219,e-ne-am₃ kur na-mu-un-tum₃ a₂-ni u₆ im-me
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,220,i₃-ne-eš a₂ im-ma-aŋ₂ inim im-ma-ab-dab₅-be₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,221,X-ib-šar₂ ŋiškim til₃-la dirig nam-ba-ŋir₂-ŋir₂-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,222,a-šag₄ he₂-em-mi-in-dab₅ uŋ₃ nam-ta-ab-la₂-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,223,gan₂-e numun na-an-ga-ma-ab-kal-le
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,224,{d}en-lil₂-me-en nam a-na-tar-ra-ŋa₂ mu-bi na-ab-ha-lam-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,225,{ŋeš}tukul-e šag₄ im-huŋ haš₂ ba-ni-in-ra
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,226,šar₂-ur₃-re dub₃ i-ni-in-bad ki-bal-a i-in-bur₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,227,en {d}nin-urta-ra hul₂-la-a inim mu-na-ni-ib-be₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,228,lugal-ŋu₁₀ a-na bi₂-in-dug₄-ga-ta
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,229,a-ma-ru uš₇ X-da-ŋar-a lu₂-ra su₃-su₃-de₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,230,a₂-sag₃ ne₃-ba šu a-ba-ni-ti ze₂ ba-ni-in-sud
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,231,dumu-ŋu₁₀ e₂-kur-ra hu-mu-da-ku₄-ku₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,232,{d}nin-urta uŋ₃-ŋu₁₀ su₃-ud-še₃ me-teš₂ hu-mu-i-i
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,233,en dug₄-ga a-a-na-še₃ ŋal₂-la
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,234,usu mah {d}en-lil₂-la₂ na-an-gub-be₂-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,235,ud ki-bal kur zid₂-gin₇ peš-e-de₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,236,{d}nin-urta kišib-la₂ {d}en-lil₂-la₂ ŋen-a na-ŋal₂-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,237,lugal-ŋu₁₀ a₂-sag₃ im-du₃-a e₂-ŋar₈ gag ak-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,238,bad₃ dirig-ga šu nu-ru-gu₂-da
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,239,ur₅ gu₇-u₃-bi nu-be₄-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,240,nu-zi-zi-i
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,241,nam-ug₅-ge nu-zu-e saŋ-ba mu-ri-ib-us₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,242,im-hul saŋ-ŋa₂ mu-un-dab₅-be₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,243,lugal-ŋu₁₀ me₃ ŋiš-bar-re ba-ni-ib₂-sa₂-sa₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,244,{d}nin-urta {ŋeš}tukul šukur ka ba-ab-du₈
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,245,ŋiš-gid₂-da kur-re i-in-si
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,246,en-e dungu-še₃ a₂ sud
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,247,ud ku₁₀-ku₁₀-ga-še₃ ba-an-kur₉
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,248,ud-gin₇ gu₃ ba-an-de₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,249,ŋiš-gid₂-da
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,250,{d}nin-urta
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,251,en-e tum₉
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,252,me₃-ni kur-ra bar-us₂ ba-ni-ib-ra
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,253,šar₂-ur₃-e tum₉ an-še₃ ba-te uŋ₃-bi sag₂ ba-ab-dug₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,254,KA.GAG.KA-gin₇ i₃-bu-bu-de₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,255,ah₆-bi iri ni₂-ba mu-un-gul-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,256,{ŋeš}tukul zag saga₁₁ di-da kur-re izi ba-šum₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,257,mi-tum-e zu₂ sis-a saŋ im-tu₁₀-tu₁₀
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,258,šita lipiš dirig-ga-e giri₁₇ i₃-dub-dub-be₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,259,ŋiš-gid₂-da ki-a ba-ab-du₃ sur₃ mud-e bi₂-ib-tum₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,260,ki-bal-a ga-gin₇ ur-e ba-an-de₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,261,lu₂-erim₂-e i-zig₃ dam dumu-bi gu₃ ba-an-de₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,262,en {d}nin-urta-ra a₂ nu-mu-e-zig₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,263,{ŋeš}tukul-e kur sahar-da im-da-ab-šar₂ peš a₂-sag₃-a nu-ub-tuku₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,264,šar₂-ur₃-e en-ra šu gu₂-bi-še₃ ba-an-na-ni-ib-ri-ri
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,265,e ur-saŋ a-na in-ga-ra-ŋal₂-la
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,266,mir kur-ra-ke₄ ba-ra-bi₂-tag-tag-ge₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,267,{d}nin-urta en dumu {d}en-lil₂-la₂ ud-gin₇ ši-in-ga-du₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,268,u₃-bu-bu-ul e₃-a-bi nu-dug₃-ga
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,269,aš-gin₇ giri₁₇ e₃-a-bi nu-sig₁₀-ge
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,270,en inim gib šag₄-še₃ nu-ra-gid₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,271,lugal-ŋu₁₀ diŋir-gin₇ mu-ra-an-du₃ a-ba saŋ ma-ra-ab-us₂-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,272,ur-saŋ muru₉-a ki ba-ab-us₂ naŋa-am₃ ki
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,273,{d}nin-urta dur₃ kur-ra mu-ni-in-sar-sar-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,274,ni₂ me-lem₄-e sahar i₃-ur₄-ru šika im-e-eš i₃-šeŋ₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,275,ki-bal-a piriŋ zu₂ sis mu-un-ra lu₂ nu-mu-ni-in-dab₅-be₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,276,mir mir-ra lil₂ teš₂ im-gaz-za-ta ur₅ tu₁₁ mu-e-ak-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,277,amaš lil₂-la₂-en-da igi tab-ba a ki-a mi-ni-ib-had₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,278,ud teš₂-e ri-a uŋ₃ im-til a₂-šu-du₇ nu-tuku
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,279,lu₂-erim₂ zi šag₄-ge nu-ŋal₂-la
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,280,ur-saŋ gal en gaba-zu zig₃-ga-ab sig₉-ga-bi im-me
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,281,en-e kur-ra dum-dam mu-ni-ib-za šeg₁₁ gi₄ nu-mu-un-gul-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,282,ur-saŋ-e gu₃ ki-bal nu-de₂ IGI.U nam-mi-ŋar
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,283,niŋ₂ im-hul-hul im-ZI ba-ab-gi₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,284,gu₂-erim₂-e saŋ ŋiš mi-ni-ib-ra-ra kur-ra i-si-iš ba-ab-ŋar
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,285,en-e erin₂ niŋ₂ ga-ab-kar di-gin₇ šu i₃-ni₁₀-ni₁₀-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,286,ŋiš-nu₁₁-gin₇ kur-ra a₂-sag₃-ge igi huš ba-ši-in-il₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,287,ki-bal te-eš ba-ni-in-dug₄-ga mu-un-gul
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,288,{d}nin-urta erim₂-e mu-ni-in-dib AB.ŊAR-gin₇ mu-un-si
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,289,a₂-sag₃ ni₂ me-lem₄-bi gub-ba sig-še₃ ba-ši-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,290,sig-še₃ ba-ši-gub nim-še₃ u₆ bi₂-in-dug₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,291,a-gin₇ mu-un-lu₃-lu₃ kur-ra sag₂ bi₂-in-dug₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,292,{u₂}numun₂-gin₇ mu-un-bur₁₂ {u₂}numun₂-gin₇ mu-un-ze₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,293,ni₂ me-lem₄-ma-ni kalam-ma dul-lu
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,294,a₂-sag₃ še šeŋ₆-ŋa₂-gin₇ mu-un-dub₂ numun-bi im-da-DI
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,295,šeg₁₂ si-il-la₂-gin₇ teš₂-ba bi₂-in-ŋar
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,296,šu-gal-an-zu-bi ne-mur-ra-gin₇-nam zid₂-de₃-eš mu-un-dub-dub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,297,im-du₃-a im-bi suh-a-gin₇ teš₂-bi im-mi-in-ŋar
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,298,ur-saŋ-e niŋ₂ šag₄-ga-na mu-un-sa₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,299,{d}nin-urta en dumu {d}en-lil₂-la₂ ba-sed-de₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,300,kur-ra ud-ta im-ma-ra-zal
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,301,{d}utu silim-ma mu-na-an-dug₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,302,en-e ib₂-la₂ {ŋeš}tukul a tug₂ uš₂-a mu-un-tu₅
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,303,ur-saŋ-e saŋ-ki šu bi₂-ib-ur₃ ad₆-a za-pa-aŋ₂ bi₂-in-ŋar
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,304,AB.ŊAR-gin₇ a₂-sag₃ ug₅-ga-na ma₂ gaz ak-da-ni
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,305,diŋir kalam-ma mu-un-na-sug₂-ge-eš
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,306,dur₃ kuš₂-a-gin₇ mu-un-na-gurud-de₃-eš
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,307,en-e a-ra₂ mah-a-ni-še₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,308,{d}nin-urta dumu {d}en-lil₂-la₂ šu-ta silim ba-ab-sag₃-sag₃-ge-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,309,šar₂-ur₃-e an-ta lugal-bi-ir mi₂ zid-de₃-eš mu-un-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,310,en meš₃ mah gan₂-e a dug₄-ga ur-saŋ a-ba za-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,311,lugal-ŋu₁₀ zag-zu ba-ra-ga-an-til ba-ra-ga-an-gub ba-ra-ga-u₃-tud
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,312,{d}nin-urta ud-da-ta kur-ra lu₂ ba-ra-ra-an-zi-zi
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,313,lugal-ŋu₁₀ šeg₁₁ dili gi₄-a-za
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,314,ŋiš-gan₂-nu a-gin₇ mi₂ bi₂-ib-tag
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,315,mir ki-bal mu-ni-in-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,316,en {d}nin-urta
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,317,a₂-sag₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,318,
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,323,ŋiš-gana₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,324,a₂-sag₃ ki-bal-a {u₂}numun₂-gin₇ bur₁₂-ra {u₂}numun₂-gin₇ ze₂-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,325,en {d}nin-urta-ke₄ {ŋeš}tukul-a-ni
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,326,zag ki-gin₇ gub-bu ul-la-ŋa₂ šag₄-ge
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,327,ud-da-ta a₂-sag₃ nam-ba-DI na₄ mu-bi he₂-em
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,328,na₄ {na₄}zalag mu-bi he₂-em na₄ mu-bi he₂-em
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,329,ur₅-ra-am₃ bar-bi irigal he₂-em
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,330,nam-ur-saŋ-bi en-ra he₂-em
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,331,{ŋeš}tukul ub-ub-da gub-bu nam tar-re-da
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,332,me₃ mah-e kalam-ma-ta be₄-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,334,ud-bi-a a silim ki-ta du a-gar₃-ra nu-um-de₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,335,a sed du₈-du₈-du₈-u₃ ud zal-le-da-gin₇ kur-ra e₂-ri-a ba-ni-ib₂-il₂-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,336,diŋir kalam-ma ba-sug₂-ge-eš-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,337,{ŋeš}al {ŋeš}dusu-bi mu-un-la₂-eš-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,338,ur₅-ra-am₃ eš₂-gar₃-bi i₃-me-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,339,uŋ₃ tar-bi-še₃ e₂ lu₂ gu₃ ba-an-de₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,340,{id₂}idigna nam-gu-la-ba an-še₃ u₅-bi nu-il₂-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,341,kun-bi a-ab-ba-e li-bi₂-la₂-a a dug₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,342,nesaŋ kar-re lu₂ nu-gid₂-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,343,šag₄-ŋar hul-a niŋ₂ nu-tu-ud
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,344,id₂ tur-tur-re šu luh lu₂ li-bi₂-in-ak sahar nu-mu-da-an-zi-zi-i
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,345,gana₂ zid-da a nu-šub-šub-be₂ eg₂ ak nu-ŋal₂-la
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,346,kur-kur-re ab-sin₂-na nu-gub-bu še bir-a i-im-ak
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,347,en-e ŋeštug₂ mah im-gub-be₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,348,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ gal-bi i₃-ŋa₂-ŋa₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,349,gu-ru-um na₄ kur-ra mi-ni-in-ak
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,350,dungu dirig-ga-gin₇ a₂ bi₂-in-sud-su₃-ud
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,351,bad₃ mah-gin₇ kalam-ma igi-ba bi₂-in-tab-ba
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,352,{ŋeš}bal ki-šar₂-ra mu-ni-in-ŋar
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,353,ur-saŋ-e mu-un-galam iri teš₂-bi mu-un-uš₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,354,a kalag-ga na₄ im-da-an-sa₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,355,i₃-ne-eš₂ a kur da-ri₂-še₃ ki-a nu-um-ed₃-de₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,356,i₃-bir-bir-am₃ gu₂ ba-ni-in-ŋar
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,357,kur-ra sug-e ba-ni-ib₂-gu₇-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,358,mu-un-ur₄-ur₄ {id₂}idigna im-ma-an-šum₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,359,a-eštub{ku₆} a-gar₃-ra mi-ni-in-de₂-de₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,360,i₃-ne-eš₂ ud-da niŋ₂ ki-šar₂-ra-ke₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,361,lugal kalam-ma en {d}nin-urta-ra su₃-ud-bi-še₃ mu-un-hul₂-e-eš
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,362,gan₂-ne₂ še gu-nu a mi-ni-in-šum₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,363,buru₁₄ pu₂-kiri₆-ke₄ šu im-mi-in-il₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,364,guru₇-du₆-de₃ gu₂ im-mi-in-gur-gur
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,365,en-e kalam-ta kar im-ta-an-ed₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,366,diŋir-re-e-ne ur₅-bi mu-un-sag₉
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,367,{d}nin-urta a-a-ni me-teš₂ me-i-i-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,368,ud-bi-a munus-ra arhuš-a sa₂ nam-ga-mu-ni-ib₂-dug₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,369,{d}nin-mah-e ki ŋiš₃ dug₄-ga-ni-še₃ u₃ nu-um-ši-ib₂-ku-ku
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,370,siki u₈ dugud-gin₇ bar-ra bi₂-in-dul
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,371,i-lu kur ŋiri₃ nu-ŋal₂-la-bi gal-gal-bi mi-ni-ib₂-be₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,372,u₃-mu-un a₂ mah-a-ni kur-re nu-il₂-i
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,373,ur-saŋ gal an-gin₇ ib₂-ba-na a₂-bi lu₂ nu-teŋ₃-ŋe₂₆
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,374,ud sumur ki-a du uš₁₁ gaba-ba ŋar-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,375,en ši {d}mu-ul-lil₂-la₂ men saŋ-e du₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,376,nu-zu
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,377,še-er-ma-al saŋ ma-an-ze₂-eŋ₃ dam mu-un-gub-bu-na-ŋu₁₀
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,378,mu-ud-da-na in-ši-tu-ud ba-an-us₂ hur nu-mu-da-ab-ŋar-ra
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,379,du₅-mu {d}mu-ul-lil₂-la₂ šu mu-un-dag i-bi₂-ni na-ma-an-il₂-la
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,380,šul zid munus zid-de₃ ba-an-dug₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,381,e₂-šu-me-ša₄ ki i-bi₂ il₂-la-ni in-ne-a-ŋen-na
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,382,gu da-an-ši-in-kud u₃-mu-un er₉-ra-še₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,383,ga-ša-an-ŋen dili-ŋu₁₀-ne ga-an-ši-ŋen en da gi₁₆-sa-še₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,384,a₂-še ŋe₂₆-e u₆ mu-na-ni-in-dug₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,385,si sa₂ du₅-mu di-kud {d}mu-ul-lil₂-la₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,386,ur-saŋ gal aŋ₂ sag₉-ga a-a-na he₂-em-da-ri-am₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,387,munus-e šir₃ kug-ge-eš i₃-aŋ₂-ŋe₂₆
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,388,{d}nin-mah-e en {d}nin-urta-ra mu-ni-ib-be₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,389,igi nam-til₃-la-ka-ni mu-un-ši-in-bar gu₃ mu-na-de₂-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,390,munus kur-še₃ i-im-ŋen-ne-en-na-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,391,{d}nin-mah nam-ŋu₁₀-še₃ ki-bal-a mu-un-kur₉-re-en-na-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,392,me₃ ni₂ huš-ba ri-a-ŋa₂ la-ba-an-sud-de₃-en-na-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,393,ur-saŋ-me-en gu-ru-um ŋar-ra-ŋa₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,394,hur-saŋ mu-bi he₂-em za-e nin-bi he₂-em
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,395,i₃-ne-eš₂ nam tar-ra {d}nin-urta-ka
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,396,ud-da {d}nin-hur-saŋ-ŋa₂ di-še₃ ur₅ he₂-en-na-nam-ma-am₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,397,šag₄-tum₂-bi šim ha-ra-an-mu₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,398,gu₂-gu₂-bi lal₃ ŋeštin ha-ra-an-mu₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,399,{ŋeš}erin {ŋeš}šu-ur₂-men₂ {ŋeš}za-ba-lum {ŋeš}taškarin du₈-du₈-bi ha-ra-an-mu₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,400,kiri₆-gin₇ niŋ₂-sa-ha šu hu-mu-ra-ni-ib-tag
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,401,hur-saŋ-e ir nam-diŋir-ra hu-mu-ra-an-gu-ul-gu₂-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,402,kug-sig₁₇ kug-babbar hu-mu-ra-ab-bal-e HI.IB.LAL₃ hu-mu-ra-ab-ak
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,403,urud nagga hu-mu-ra-ab-zal-le gun₂-bi hu-mu-ra-an-ak
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,404,kur-re maš₂-anše ha-ra-ab-lu-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,405,hur-saŋ-e niŋ₂-ur₂-₄-e numun ha-ra-ni-ib-i-i
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,406,za-e nin-me-en i₃-da-sa₂-sa₂-a an-gin₇ ni₂ huš gur₃-ru
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,407,diŋir mah inim dirig-ge hul gig
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,408,munus zid nin-hur-saŋ ki-sikil
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,409,{d}nin-tur₅ a₂ sed-bi dab₅-be₂-še₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,410,te-e-mu-da nin me mah ma-ra-an-šum₂ za-e he₂-em-il₂-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,411,en-e kur-ra nam mu-ni-in-tar-re du-ni eš₃ nibru{ki}-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,412,munus zid me-ni me dirig-ga nin nagar šag₄-ga
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,413,{d}a-ru-ru nin₉ gal {d}en-lil₂-la₂ gaba-na ba-e-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,414,ur-saŋ gal ur-saŋ ug₅-ga-za
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,415,u₃-mu-un a-a-ni-gin₇ dug₄-ga-ni nu-kur₂-ru na-aŋ₂ nu-um-mi-tar
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,416,en-e {na₄}u₂-e gu₃ ba-de₂-e in-di₃ bi₂-ib-kur-ku
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,417,en ib₂-ba kalam-ma inim mu-na-ni-ib-be₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,418,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ aš₂ im-mi-ib₂-sar-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,419,{na₄}u₂ kur-ra ma-an-zig₃-ge-en-na-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,420,šu sig₁₀-ge₅-ŋu₁₀-še₃ mu-e-gib-ba-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,421,nam ug₅-ge-ŋu₁₀ ba-e-kud-da-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,422,en {d}nin-urta-me-en ki-tuš mah-ŋa₂ ba-e-hu-luh-en-na-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,423,kalag-ga šul e₂-ŋar₈ tuku dirig-ga-me-en alan-zu he₂-em-ta-be₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,424,piriŋ gal usu-bi-ta nir-ŋal₂-la-am₃ he₂-me-ze-er-ze-re-de₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,425,usu-tuku a-gar₅-re šu he₂-gid₂-de₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,426,ŋuruš {na₄}u₂ šeš-zu zid₂-gin₇ he₂-me-dub-bu-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,427,li-li-a-zu šu ha-ba-ab-zig₃-ge-en ad₆-ba zu₂ e₃-ni-ib
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,428,ŋuruš-me-en gu₃ de₂-zu he₂-ŋal₂ GAN.SUM-gin₇ he₂-til-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,429,am gal lu₂ šar₂-re gaz-za-gin₇ niŋ₂-ba-bi ŋar-ra
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,430,{na₄}u₂ {ŋeš}tukul-ta ur-gir₁₅ me₃-ta
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,431,niŋ₂ sipad-tur-re al-sar-re-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,432,en-me-en {na₄}gug me-re-kul-la-za mu-bi he₂-sa₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,433,i₃-ne-eš₂ nam tar-ra {d}nin-urta-ka
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,434,ud-da {na₄}u₂ ub-tag {na₄}gug buru₃-da ur₅ he₂-en-na-nam-ma
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,435,ur-saŋ-e {na₄}šu-u {na₄}ga-sur-ra-ke₄ gu₃ im-ma-de₂-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,436,en-e a ri-a bi₂-ib₂-šid-de₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,437,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ nam am₃-mi-ib₂-tar-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,438,{na₄}šu-u {ŋeš}tukul-ŋa₂ saŋ bi₂-dim₂-za-na-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,439,{na₄}ga-sur-ra gud-gin₇ u₃-na ma-an-sug₂-ge-en-za-na-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,440,am-gin₇ a₂ sahar-ra me-er-re-dim₂-za-na-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,441,giriš-gin₇ šu ha-ba-e-en-ze₂-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,442,ni₂ me-lem₄-ŋu₁₀ ba-e-de₃-en-dul
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,443,a₂ mah-ŋa₂ la-ba-an-zig₃-ge-en-za-na-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,444,kug-dim₂-e zi-ni-še₃ he₂-pa-an-pa
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,445,umun₂ ki nam-dumu-ni-še₃ ha-ba-X-na-aŋ₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,446,u₂-saŋ diŋir-re-e-ne-ke₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,447,ud itid-da zag-ge he₂-em-de₃-si-si-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,448,lugal-ŋu₁₀ {na₄}saŋ-kal-e ba-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,449,{na₄}gul-gul {na₄}saŋ-ŋar-ra gu₃ ba-an-de₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,450,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ nam am₃-mi-ni-ib-tar-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,451,{na₄}saŋ-kal ma-dal-le-na-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,452,{na₄}gul-gul zu₂ keše₂-da ma-an-ŋir₂-ŋir₂-re-na-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,453,{na₄}saŋ-ŋar saŋ mu-e-bul-bul-a-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,454,en-me-en zu₂ ŋa₂-ra mu-e-sud₂-sud₂-da-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,455,{na₄}saŋ-ŋar {na₄}saŋ-kal-e he₂-sig₁₀-ge
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,456,šul zid {na₄}gul-gul-e he₂-gul-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,457,saŋ nu-kal-la si-ig ha-ma-ra-an-ze₂-eŋ₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,458,šag₄-ŋar kalam-ma-še₃ ŋar-ba-ni-ib šu iri{ki}-za he₂-eb-si
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,459,saŋ he₂-sal ur-saŋ geme₂-e-ne he₂-me-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,460,ul₄-ab sar-ra-ab hu-mu-ra-ab-be₂ mu-bi he₂-sa₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,461,i₃-ne-eš₂ nam tar-ra {d}nin-urta-ka
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,462,ud-da kalam-e kiŋ₂ gig di-še₃ ur₅ he₂-en-na-nam
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,463,lugal-ŋu₁₀ {na₄}esi-a im-ma-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,464,šag₄ dab₅-ba gen₆-ne₂-eš zu-ba šir₃-re-eš im-mi-ib-be₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,465,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ nam am₃-mi-ib₂-tar-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,466,{na₄}esi me₃-zu a-ga-ba kur₂-ra
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,467,i-bi₂ dugud-gin₇ ma-an-du₃-u₃-nam
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,468,a₂ nu-mu-e-zig₃ ŋa₂-a-ra saŋ nu-mu-e-šum₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,469,lul-am₃ en dili-ni ur-saŋ-ŋa₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,470,{d}nin-urta dumu {d}en-lil₂-la₂-ra a-ba mu-da-ab-sa₂-e im-mi-dug₄-ga-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,471,kur igi-nim-ta he₂-mu-e-zi-zi-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,472,kur ma₂-gan{ki}-ta he₂-mu-e-ŋa₂-ŋa₂-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,473,za-e urud niŋ₂ kalag-ga kuš-gin₇ u₃-mu-e-HI
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,474,en-me-en a₂ nam-ur-saŋ-ŋa₂-ŋu₁₀ šu gal-bi he₂-ni-du₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,475,lugal ud su₃-ra₂ mu-ni i₃-ŋa₂-ŋa₂-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,476,alan-bi ud ul-le₂-a-aš u₃-mu-un-dim₂-ma
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,477,e₂-ninnu e₂ giri₁₇-zal sug₄-ŋa₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,478,ki-a-naŋ-ba um-mi-gub-be₂ me-te-aš he₂-em-ši-ŋal₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,479,lugal-ŋu₁₀ na₄-e im-ma-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,480,{na₄}na-ta su im-ta-du₃-du₃-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,481,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ aš₂ im-mi-ib-sar-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,482,na₄ a₂-še ŋe₂₆ bi₂-dug₄-ga-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,483,{na₄}na me-ŋa₂ ŋiš ba-e-šub-bu-za-na-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,484,za-e dim₂-me-de₃ šah-gin₇ nu₂-ba
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,485,gurud-da kiŋ₂-še₃ na-an-ak-e-en tur-tur-bi til-la
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,486,zu-a-zu a-da he₂-mu-e-da-gi₄-gi₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,487,lugal-ŋu₁₀ {na₄}e-le-el-e im-ma-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,488,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ nam im-mi-ni-ib₂-tar-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,489,{na₄}e-le-el ŋeštug₂ tuku kur du₁₄ mu₂-a-ba ni₂-ŋu₁₀ he₂-me-ni-ri
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,490,ki-bal-a uŋ₃ teš₂-ba ri-a-ŋa₂ mu-ŋu₁₀ he₂-em-mi-ib-sa₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,491,silim-ma-zu-ta nam-ba-e-re-be₆
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,492,gur₄-ra-zu tur-re-bi he₂-gig
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,493,me-ŋu₁₀ bar-zu-a si ha-ra-ni-ib₂-sa₂-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,494,{ŋeš}tukul sag₃-ge ur-saŋ ug₅-ga-ŋa₂ šu gal-bi he₂-ni-du₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,495,kisal mah-ŋa₂-a ki-gal ha-ra-ab-ri
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,496,kalam-e u₆ dug₃-ge-eš he₂-a-e kur-kur he₂-mi-i-i
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,497,ur-saŋ {na₄}ka-gen₆-na-e ba-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,498,nam-kalag-ga-bi-še₃ gu₃ ba-an-de₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,499,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ nam am₃-mi-ib-tar-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,500,šul ni₂-tuku ŋiš-nu₁₁ bar-še₃ ŋal₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,501,{na₄}ka-gen₆-na ki-bal-a-ta gu₃ mu-e-re-ŋal₂-la
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,502,šu-ŋu₁₀ sa₂ nu-mu-ri-ib-dug₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,503,da₃-da₃-ta la-ba-an-da-la₂-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,504,kalam-ma ŋiri₃-zu ba-ab-sig₉-ge-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,505,mar-za {d}utu me-zu he₂-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,506,di-kud-gin₇ kur-kur-ra si sa₂-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,507,šu-gal-an-zu pag-du₃ niŋ₂-nam-ma-ka
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,508,nam-kug-sig₁₇-še₃ he₂-en-na-kal-le-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,509,šul ba-dab₅-be₂-na u₃ ba-ra-e-ši-ku-un en-na til₃-la-zu-še₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,510,i₃-ne-eš₂ nam tar-ra {d}nin-urta-kam
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,511,ud-da {na₄}ka-gen₆-na til₃-la ur₅ he₂-en-na-nam-ma
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,512,ur-saŋ-e {na₄}ŋiš-nu₁₁-gal-e ba-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,513,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ nam am₃-mi-ib-tar-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,514,{na₄}ŋiš-nu₁₁ su ud-gin₇ kar₂-kar₂-ka
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,515,kug luh-ha šul e₂-gal-e du₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,516,šu dili-zu-a mu-e-ni-zi-zi-i
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,517,saŋ kur-zu-a ki mu-e-ni-su-ub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,518,{ŋeš}tukul nu-mu-ra-sag₃ a₂ la-ba-ri-gur
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,519,ur-saŋ šeg₁₁ gi₄-ŋu₁₀-u₈ ba-ab-gub-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,520,niŋ₂ sag₉-ga mu-zu he₂-pad₃-de₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,521,erim₃ kalam-ma šu-za he₂-em-si kišib-ŋal₂-bi he₂-me-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,521A,{d}a-nun-na
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,522,lugal-ŋu₁₀ {na₄}algameš-e ba-gub igi dul₂ ba-an-ak
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,523,en ib₂-ba kalam-ma inim mu-na-ni-ib-be₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,524,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ aš₂ im-mi-ib-sar-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,525,a-gin₇ du-ŋu₁₀-še₃ en₃ mu-e-ši-tar
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,526,ŋiš-kiŋ₂-ti-ŋu₁₀-še₃ igi ŋen-na
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,527,{na₄}algameš sa₂-dug₄ ud-da gur₃-ru za-dim₂-e-ne he₂-me-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,528,lugal-ŋu₁₀ {na₄}du₈-ši-a ba-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,529,{na₄}nir {na₄}gug {na₄}za-gin₃-na gu₃ ba-an-de₂-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,530,{na₄}amaš-pa-e₃ {na₄}ša-ba {na₄}hu-ri₂-zum {na₄}gug-gazi {na₄}mar-ha-li
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,531,{na₄}e-gi-zag-ga {na₄}gi-rin-hi-li-ba {na₄}an-zu₂-gul-me {na₄}nir₂-muš-ŋir₂{ki}
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,532,en-e zi {kuš}ummud-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,533,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ nam am₃-mi-ib-tar-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,534,a-na ba-du-un nitah munus dim₂-ma u₃ za-e-gin₇ ki-ŋu₁₀-še₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,535,nam-tag nu-e-tuku šu-zu e₂-ŋar₈-e ba-da-ab-us₂-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,536,ki inim-ma-ka ni₂ mu-e-ni-buluŋ₃-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,537,ad gi₄-gi₄-da ŋe₂₆-e mu-e-ni-buluŋ₃-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,538,pu-uh₂-ru-um-ma šagina mu-e-ni-ŋar-ra-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,539,nir lal₃ kurun-na ha-ba-pad₃-de₃-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,540,kug-ga zid-de₃-eš mi₂ he₂-en-ne-en-ze₂-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,541,u₂-saŋ diŋir-re-e-ne-ke₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,542,kur-kur-re giri₁₇ ki šu₂-šu₂-zu giri₁₇ šu ha-ra-ab-tag-ge
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,543,lugal-ŋu₁₀ {na₄}ŋiri₂-zu₂-gal-la-ke₄ ba-gub igi dul₂ ba-an-ak
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,544,en ib₂-ba kalam-ma inim mu-na-ni-ib-be₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,545,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ aš₂ im-mi-ib-sar-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,546,e {na₄}ŋiri₂-zu₂-gal-la lu₂ ₂ a-na-bi
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,547,am kur-zu-a si he₂-me-ni-bur₂ U₃.GAN-še₃ nu₂-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,548,nu-mu-e-sig₁₀-ge saŋ mi-ri-ib-us₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,549,barag-gin₇ mu-un-si-il-le lu₂ he₂-ta-sig-ge
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,550,tibira za-ra ha-ra-ŋal₂ umbin he₂-tag-ge
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,551,šul usu niŋ₂ kur₂ de₆-a-zu
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,552,nagar lu₂ kiŋ₂ ga-ab-sam₂-a di-di-da
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,553,a dug₄-ga-gin₇ a he₂-ri-ib-gi₄-gi₄ munu₄-e-eš he₂-gaz-gaz
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,554,lugal-ŋu₁₀ {na₄}im-an-e ba-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,555,{na₄}al-li₂-ga gu₃ ba-an-de₂-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,556,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ nam im-mi-ib-tar-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,557,{na₄}im-ma-an kur-ra šeg₁₁ mu-X-gi₄-gi₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,558,gu₃ huš me₃ gu₃ huš bi₂-ib-ra-X
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,559,izi-gin₇ mu-la₂-en-ze₂-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,560,ud-gin₇ mu-dub-bu-un-ze₂-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,561,{u₂}numun₂-gin₇ mu-sag₃-ge-en-ze₂-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,562,{u₂}numun₂-gin₇ mu-e-bur₁₂-re-en-ze₂-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,563,a-ba šu in-ne-ši-in-de₆
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,564,{na₄}im-ma-an gu₃ de₂-zu na-an-kal-am₃ en₃-zu na-an-tar-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,565,{na₄}im-ma-an {na₄}al-li₂-ga e₂-gal-la du-u₃-zu na-an-sa₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,566,lugal-ŋu₁₀ {na₄}maš-da im-ma-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,567,{na₄}dub-ba-an {na₄}u₂-ru-tum-e gu₃ ba-an-de₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,568,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ in-di₃ bi₂-ib-kur-ku
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,569,{na₄}maš-da {na₄}dub-ba-an ga-an-ze-er bar₇-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,570,{na₄}u₂-ru-tum na-me nu-gub-bu
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,571,{na₄}ga-sur-ra zi murgu₂-še₃ šub-bu he₂-em-ta-ab-KA×NE-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,572,ki-bal-a sur₃-gin₇ ma-mu₂-un-ze₂-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,573,kur sa-ba mu-e-ši-gub-bu-un-za-na-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,574,{na₄}maš-da udu-gin₇ he₂-sur-sur-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,575,{na₄}dub-ba-an niŋ₂ ze₂-re-de₃ he₂-bi₂-sag₃-ge-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,576,{na₄}u₂-ru-tum mi-tum-gin₇ u₃-sar he₂-ak-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,577,zabar hu-ut-pa diŋir-re-e-ne-ka
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,578,ŋiri₂ huš sa-sa-da giŋ₄-e he₂-bi₂-sag₃-ge-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,579,lugal-ŋu₁₀ {na₄}ša-ga-ra im-ma-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,580,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ nam im-mi-ib-tar-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,581,{na₄}ša-ga-ra saŋ edin-na dili-bi du saŋ-du tibir ra
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,582,kur-ra a₂ dab₅-ba-e-ŋa₂ mu-e-ni-zukum
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,583,me₃-ba la-la mu-e-ni-ŋar-ra-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,584,ad-KID-e gi he₂-em-ta-gu₄-ud-e ki-nu₂-za he₂-bi₂-šub-be₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,585,ama ugu-za he₂-bi₂-tur-tur zig₃-ga-ab-zu nam-me
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,586,a₂-aš₂-zu-a lu₂ na-an-ni-til₃-le
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,587,u₂-gu ba-an-de₂-zu uŋ₃-e nam-me
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,588,me da-ri₂-še₃ du₃-a ki ni₂ dub₂-bu {d}nin-hur-saŋ-ka-še₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,589,ka tar-re-de₃ barag-ba u₃-bi₂-in-gurud-de₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,590,{kaš}dida nam udu-še₃ lu₂ ha-ra-ab-zil-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,591,zid₂ dub-dub-ba-bi he₂-hul₂-le-en ki-bur₂-ru-zu he₂-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,592,lugal-ŋu₁₀ {na₄}mar-hu-ša ba-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,593,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ nam im-mi-ib-tar-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,594,{na₄}mar-hu-ša ki-ŋu₁₀-uš gu mu-un-X-ma-te-en ba-dab₅-be₂-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,595,šer₇-da iri-za-ka im-šub-be₂-en bi₂-X-na-ak-Xbr
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,596,{na₄}bur šaŋan he₂-me-en a he₂-em-da-an-sim-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,597,{na₄}mar-hu-ša u-gun₃ he₂-ni-tag-ge en sag₉-ba
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,598,kirid-da kug-ga šu gal he₂-em-mi-du₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,599,{na₄}mar-hu-ša e₂ diŋir-re-e-ne-ka me-te-aš he₂-em-mi-ŋal₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,600,ur-saŋ haš₂-tum-e ba-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,601,en ib₂-ba kalam-ma inim mu-na-ni-ib-be₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,602,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ nam im-mi-ni-ib-tar-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,603,{na₄}haš₂-tum kur-ra šeg₁₁ X-gi₄-gi₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,604,gu₃ huš me₃-a-še₃ gu₃ huš bi₂-ib-ra
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,605,šeg₁₁ gi₄-zu lil₂-la₂-am₃ kur-ra mi-ni-ib₂-ge-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,606,ŋuruš-me-en {na₄}haš₂-tum ki tag-ga-za mu-bi he₂-sa₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,607,i₃-ne-eš nam tar-ra {d}nin-urta-ka
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,608,ud-da {na₄}haš₂-tum di-še₃ ur₅ he₂-en-na-nam-ma-am₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,609,lugal-ŋu₁₀ {na₄}dur-ul₃-e im-ma-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,610,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ nam im-mi-ib-tar-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,611,{na₄}dur-ul₃ mu-dur₇ kug šul igi ha-az-za lu₂ im-ma-an-gul-lu-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,612,kur-ra giri₁₇ šu mu-e-ni-ŋal₂-la
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,613,a₂-še ŋe₂₆-e {ŋeš}si-ŋar he₂-kud
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,614,lugal-ŋu₁₀ en {d}nin-urta-ra igi-ni-še₃ ha-ba-gub-bu-nam im-mi-dug₄-ga-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,615,mu-zu pad₃-de₃-ba ni₂ ha-ba-ab-buluŋ₅
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,616,gal-zu-a kug ga-ab-sam₂ di-de₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,617,kur-kur-re nar-gin₇ gi-di-da he₂-em-mu-e-sar-re-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,618,lugal-ŋu₁₀ {na₄}šegₓ-šegₓ-e ba-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,619,{na₄}en-ge-en {na₄}{d}ezim₂-ma gu₃ im-ma-de₂-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,620,{na₄}ug-gun₃ {na₄}he₂-em
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,621,{na₄}ma-da-nu-um {na₄}saŋ-gir₁₁-mud
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,622,{na₄}X {na₄}mur-suh₃-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,623,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ nam im-mi-ib-tar-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,624,tag-tag-ga
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,625,šu nam-X-tum₃ giri₁₇ tag-tag-ga
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,626,zag us₂ sa us₂ šag₄ uš gu₇ az-gin₇ ŋiri₃ hum-mu
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,627,he₂-en-na-GA-za mu-e-ši-du-de₃-en i₃-ne-eš tab-ba di-za
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,628,gu₂-ne-ne-ta ki ha-ba-ab-te-en-ze₂-en a-ba šu in-ne-ši-in-de₆
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,629,{ŋeš}tukul he₂-me-en {ŋeš}ig he₂-en-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,630,kalag-ga gu₂-ni ha-ba-ra-sig₉-ge
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,631,lirum-ta dug₃ DU.DU-DU.DU-am₃-da-ab ud zal-le ki he₂-teŋ₃-ŋe₂₆
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,632,ud šu₂-uš ki-la₂ tuku-e he₂-zi-zi-i
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,633,šul da-ri₂ kalam-ma igi he₂-en-de₃-saŋ₅-saŋ₅
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,634,ur-saŋ {na₄}kur-ga-ra-nu-um-e ba-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,635,{na₄}bal-e gu₃ ba-de₂-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,636,en-e šem-bi sig₇-sig₇-ga-bi
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,637,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ nam am₃-mi-ib-tar-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,638,lu₂ ga-ba-ra-ab-e₃ im-mi-dug₄-ga
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,639,us₂ zid-ba mu-e-ši-in-dub-bu-na
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,640,ŋuruš lu₂ ar₂-e mi-ri-gu₇-am₃ saŋ-gin₇ mu-un-ti-en
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,641,gašam tur-ra mi₂ hu-mu-ne-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,642,ezen gidim-ma-ke₄ he₂-em-ma-sag₉-ge
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,643,itid-da ud ₉ ŋuruš ud-sakar-ra-ke₄ hu-mu-ra-an-ak
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,644,biluda {d}nin-hur-saŋ-ŋa₂-ka-še₃ X-an-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,645,ur-saŋ-e kur mu-un-si edin-na di-di-na
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,646,uŋ₃-gin₇ PA.A.PA-ba mi-ni-e₃ a₂ mah
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,647,{d}nin-urta hul₂-hul₂-e im-DU {ŋeš}ma₂-gur₈ ki aŋ₂-ŋa₂-ni
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,648,en-e {ŋeš}ma₂-kar-nun-ta-e₃-a ŋiri₃-ni nam-mi-in-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,649,a-igi-lu-e-ne šir₃ dug₃-ge-eš im-mi-ib-be₂-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,650,en-ra mi₂ zid-de₃-eš₂ mu-un-ne-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,651,{d}nin-urta dumu {d}en-lil₂-la₂-ra šudu₃ su₃-ra₂-še₃ mu-na-ab-mu₂-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,652,diŋir zag dib-ba ur-saŋ-e-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,653,en {d}nin-urta lugal diŋir {d}a-nun-ke₄-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,654,bar-us₂ zid-da-na sun₄ ba-la₂-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,655,a e₃-a gu₂-erim₂-e mu-ni-šub-bu
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,656,nam-mah gal-gal-za a-ba mu-e-da-ab-sa₂-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,657,ur-saŋ a-ma-ru gaba šu nu-ŋa₂-ŋa₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,658,{d}en-ki {d}nin-ki-e-ne saŋ nu-un-da-ŋa₂-ŋa₂-ŋa₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,659,ur-saŋ iri lah₄ kur-re gu₂ ŋar-ŋar
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,660,dumu {d}en-lil₂-la₂ a-ba mu-e-da-an-e₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,661,{d}nin-urta en dumu {d}en-lil₂-la₂ ur-saŋ a-ba za-a-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,662,lugal-ŋu₁₀ ur-saŋ za-a sa₂-dug₄-zu-še₃ ŋal₂-la
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,663,mu-ni-gin₇ si sa₂ ŋiri₃-zu mu-un-dab₅-be₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,664,e₂-za niŋ₂-du₇-e pa ma-ra-ni-in-e₃-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,665,eš₃-za sahar-ta ma-ra-ra-an-il₂-la
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,666,ezen-zu niŋ₂ ha-ba-ab-gu-ul-gu-ul-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,667,ŋarza kug-zu šu hu-mu-ra-ab-du₇-du₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,668,mu nam-til₃-la-na dug₄-ge ba-ab-du₇ kalam-ma ha-ra-an-i-i
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,669,en-ra šag₄ an-na he₂-en-na-huŋ
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,670,ne {d}en-lil₂-la₂ {d}nin-urta-ra
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,671,ki-sikil ama {d}ba-u₂ ud-de₃-eš he₂-en-na-e₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,672,en-ra ma₂ nesaŋ-a mu-na-ni-ib₂-be₂-ne
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,673,ma₂ ni₂-bi dirig-ga-e gu₂ im-mar-mar-Xbr
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,674,ma₂-kar-nun-ta-e₃-a a₂ kug mu-un-su₃-ud
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,675,ur-saŋ {ŋeš}tukul sag₃-ge silim-ma-ni-še₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,676,{d}a-nun-na-ke₄-ne gaba
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,677,giri₁₇ ki-še₃ ba-ab-te-eš šu gaba
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,678,en-e a-ra-zu-a šudu₃ mu-un-na-ša₄-aš
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,679,mir-ra hu-mu-ni-ib₂-huŋ-X
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,680,{d}nin-urta lugal {d}utu-u₁₈-lu gu₂ an-še₃ he₂-ni-zig₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,681,a-a-ni {d}en-lil₂-le nam mu-ni-ib₂-tar-re
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,682,mu mah-zu-še₃ dirig-ga
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,683,tuš ki ha-ba-ni-in-ŋar
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,684,gaba he₂-du₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,685,lugal me₃ ki-bal-a ud an-na saŋ-e-eš he₂-rig₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,686,{ŋeš}tukul mar-uru₅ kur-re izi šum₂-mu
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,687,ur-saŋ an ki-ke₄ saŋ-e-eš he₂-rig₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,688,lugal ud-zu-še₃ kaskal ha-ba-sig
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,689,{d}nin-urta kur-ra du-zu nir hu-mu-ni-ŋal₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,690,ur-bar dab₅-be₂-da šu bar-ra-gin₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,691,ud-zu-še₃ ki-bal-a-še₃ dug₃ nim-ta he₂-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,692,hur-saŋ ba-e-šum₂-ma ki-bi na-an-gi₄-gi₄
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,693,iri-bi du₆-du₆-da ha-ba-ab-šid
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,694,barag-barag gal-gal-bi zi nu-mu-un-ši-pa-an
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,695,šita₂ an-na bal sag₉-ga nu-kur₂-ru
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,696,til₃ ud su₃-ra₂ ŋiškim {d}en-lil₂-la₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,697,lugal usu an-na niŋ₂-ba-zu he₂-a
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,698,ur-saŋ-e a₂-sag₃ mu-un-ug₅-ga-aš
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,699,en-e gu-ru-um-bi mu-un-ak-aš
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,700,na₄ ha-ba-sa₂ im-mi-in-dug₄-ga-aš
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,701,ušum šeg₁₁ gi₄ mu-ni-UD-a-aš
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,702,ur-saŋ-e a-e saŋ an-ta ŋiri₃ im-ma-ŋar-ra-aš
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,703,gan₂-ne₂ zid-de₃ šu in-gi₄-a-aš
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,704,{ŋeš}apin he₂-ŋal₂ pa bi₂-in-e₃-a-aš
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,705,en-e ab-sin₂ gub-bu mu-un-ŋar-ra-aš
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,706,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ guru₇-du₆ guru₇-maš-a gu₂ bi₂-in-gur-gur-ra-aš
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,707,in-nin me a₂-bi-ta e₃-a dug₄-ge mah dib-ba
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,708,{d}nisaba munus zid gal-an-zu kur-kur-ra dirig-ga
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,709,igi zu₂ keše₂-da nam-en nam-lugal-la im saŋ di ŋal₂-la-bi-im
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,710,ŋeštug₂ mah {d}en-ki du₆ kug-ga-ta saŋ-e-eš rig₇-ga
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,711,{d}nin-urta dumu {d}en-lil₂-la₂-ke₄ zag-ba nam-mi-in-gub
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,712,munus mul-an nun-e abzu-ta gal-le-eš-e sig₇-ga
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,713,in-nin ŊEŠTUG₂.{d}NISABA šag₄-ge uš gu₇
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,714,sa₂-ŋar dili dim₂-ma ŋalga sud
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,715,a₂-ŋal₂ saŋ gig₂-ga dub ŋal₂ mu a-na-tuku
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,716,gu la₂-a-na mušen dib-be₂-da nu-du₈-u₃-da
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,717,kiŋ₂ ak-bi-še₃ dirig mu-un-ŋa₂-ŋa₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,718,u₃-en₃ nu-ša₄ {d}suen-da ud šid-e
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,719,bad₃ zabar lu₂ nu-ed₃-de₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,720,gašam igi niŋin₂-na
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,721,saŋ gig₂-ga en₃ tar-re uŋ₃-e inim si sa₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,722,gaba-ri {d}en-lil₂-la₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,723,munus zid mul an-da šag₄ kuš₂-u₃ {d}nisaba za₃-mi₂
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,724,en gal {d}en-lil₂-la₂ {d}nin-urta dumu mah e₂-kur-ra
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,725,nir-ŋal₂ a-a ugu-na za₃-mi₂-zu dug₃-ga-am₃
+c.1.6.2,Ninurta's exploits: a šir-sud (?) to Ninurta,,726,šir₃-sud {d}nin-urta-ka

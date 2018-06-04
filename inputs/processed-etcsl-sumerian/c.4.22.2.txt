@@ -1,0 +1,27 @@
+id_text,text_name,version,l_no,text
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,1,i₃ li duru₅ i₃ li duru₅ i₃ li he₂-en-na-tum₂ na-aŋ₂ i₃ li duru₅
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,2,i₃ lum-ma he₂-en-na-tum₂
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,3,TUM.KU sag₉-ga-ŋu₁₀ ul-la
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,4,ga-ša-an-ŋu₁₀ ga-ša-an sir₂-sir₂-e ama-ugu-ku-ku
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,5,ga-ša-an-ŋu₁₀ kurun-a tuš-a-ra
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,6,ga-ša-an-i₃-si-in{ki}-na kurun-a tuš-a-ra
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,7,izi an-na mu₂-mu₂-de₃
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,8,ga-ša-an-ŋu₁₀ sim{mušen}-gin₇ a tu₅-tu₅-a
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,9,i₃ {ŋeš}erin-na i₃ ha-šu-ur₂-ra-ka
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,10,i₃ {ŋeš}erin-na šim dim₃-me-er ki aŋ₂-ŋa₂
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,11,i₃ šim-gig i₃ šim
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,12,i₃ ab₂ kug-ge ga ab₂-šilam-ma
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,13,i₃-nun tur₃ kug ga-ga amaš-gin₇ ga-ga
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,14,i₃ šim-gin₇ an-šag₄-ge ed₃
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,15,i₃ ligidba i₃ {ŋeš}erin babbar-ra mul-ma-al he₂-em-mi-ib₂-za
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,16,zi-pa-aŋ₂-ŋa₂-na i₃ šim erin-na-ka
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,17,gaba-ni i₃ {ŋeš}erin babbar-ra-ka
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,18,igi-ba i₃-a he₂-ni-ib₂-gun₅-gun₅-e i₃ li he₂-en-na-su₃
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,19,gu₂ sa-ni i₃ šim {ŋeš}erin-na-ka hu-mu-ni-ib₂-gun₅-gun₅-e
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,20,siki-ur₂ siki-pa dub-dub-ba-ni i₃ li he₂-en-na-an-su₃
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,21,gu₂-bar za-gin₃ gur-gur-ra-ni i₃ li he₂-em-su₃-su₃
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,22,šu ŋiri₃ aŋ₂ lum-ma lam-ma-ni i₃ li he₂-em-luh-e
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,23,ŋiš-ge-en-gen₆-na alan šu du₇-a-ni i₃-a he₂-en-nu₂
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,24,munus-e ab₂ a-e ŋar-ra-gin₇ i₃ li he₂-la₂-e
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,25,₂₄
+c.4.22.2,A šir-namšub to Ninisina (Ninisina B),,26,šir₃-nam-šub {d}nin-isin₂-na-kam

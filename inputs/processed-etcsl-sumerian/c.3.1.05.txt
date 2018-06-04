@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+c.3.1.05,Letter from Aradŋu to Šulgi about Aba-indasa's missing troops,,1,lugal-ŋu₁₀-ra u₃-na-dug₄
+c.3.1.05,Letter from Aradŋu to Šulgi about Aba-indasa's missing troops,,2,arad₂-ŋu₁₀ arad₂-zu na-ab-be₂-a
+c.3.1.05,Letter from Aradŋu to Šulgi about Aba-indasa's missing troops,,3,{m}a-ba-in-da-sa₂-a ugula erin₂ zu₂ keše₂ lugal niŋ₂ mu-da-an-gi₄
+c.3.1.05,Letter from Aradŋu to Šulgi about Aba-indasa's missing troops,,4,lugal-ŋu₁₀ bar inim-ma ha-ba-zu-zu-de₃
+c.3.1.05,Letter from Aradŋu to Šulgi about Aba-indasa's missing troops,,5,ud zi-mu-dar-ra-še₃ igi-ŋu₁₀ bi₂-ib-ŋar-ra
+c.3.1.05,Letter from Aradŋu to Šulgi about Aba-indasa's missing troops,,6,kaskal lugal-ŋu₁₀ erin₂ zig₃-ga-ŋu₁₀
+c.3.1.05,Letter from Aradŋu to Šulgi about Aba-indasa's missing troops,,7,{m}a-ba-in-da-sa₂-a erin₂-bi igi u₃-bi₂-in-kar₂
+c.3.1.05,Letter from Aradŋu to Šulgi about Aba-indasa's missing troops,,8,₂ li-mu-um erin₂-bi nu-ŋal₂
+c.3.1.05,Letter from Aradŋu to Šulgi about Aba-indasa's missing troops,,9,saŋ-ŋa₂ nu-un-DU igi nu-un-GI
+c.3.1.05,Letter from Aradŋu to Šulgi about Aba-indasa's missing troops,,10,ha-ra-kalag lugal-ŋu₁₀ mu-un-dab₅
+c.3.1.05,Letter from Aradŋu to Šulgi about Aba-indasa's missing troops,,11,šer₇-da lugal nu-AŠ
+c.3.1.05,Letter from Aradŋu to Šulgi about Aba-indasa's missing troops,,12,šu
+c.3.1.05,Letter from Aradŋu to Šulgi about Aba-indasa's missing troops,,13,ka ŋar
+c.3.1.05,Letter from Aradŋu to Šulgi about Aba-indasa's missing troops,,14,niŋ₂ lugal-ŋu₁₀ ab-be₂-na-ŋu₁₀
+c.3.1.05,Letter from Aradŋu to Šulgi about Aba-indasa's missing troops,,15,lugal-ŋu₁₀ he₂-en-zu

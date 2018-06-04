@@ -1,0 +1,83 @@
+id_text,text_name,version,l_no,text
+c.2.1.4,Sargon and Ur-Zababa,,A1,eš₃ ma₂-gur₈-gin₇
+c.2.1.4,Sargon and Ur-Zababa,,A2,gir₄ mah-bi
+c.2.1.4,Sargon and Ur-Zababa,,A3,id₂-bi a hul₂-la da-ri₂
+c.2.1.4,Sargon and Ur-Zababa,,A4,a-gar₃-bi {ŋeš}al-e ri-e-de₃ gana₂
+c.2.1.4,Sargon and Ur-Zababa,,A5,e₂ kiš{ki}-a iri lil₂-la-gin₇ maš-gana₂ gi₄-gi₄-de₃
+c.2.1.4,Sargon and Ur-Zababa,,A6,lugal-bi sipad ur-{d}za-ba₄-ba₄
+c.2.1.4,Sargon and Ur-Zababa,,A7,e₂ kiš{ki}-a-ka {d}utu-gin₇ am₃-e₃
+c.2.1.4,Sargon and Ur-Zababa,,A8,nam-lugal-la-na bal-bi šu kur₂-ru-de₃ e₂-gal-la su₃-ra₂-X-Xbr
+c.2.1.4,Sargon and Ur-Zababa,,A9,an {d}en-lil₂ inim kug-ga-ne-ne-a zid-de₃-eš
+c.2.1.4,Sargon and Ur-Zababa,,A10,ki ud-bi šar-ru-um-ki-in iri-ni iri
+c.2.1.4,Sargon and Ur-Zababa,,A11,ad-da-ni la-i-bu-um ama-ni
+c.2.1.4,Sargon and Ur-Zababa,,A12,šar-ru-um-ki-in šag₄ dug₃-ga
+c.2.1.4,Sargon and Ur-Zababa,,A13,mu im-ta-tu-ud-da-aš
+c.2.1.4,Sargon and Ur-Zababa,,B1,ud ne ud te-en-e um-ma-te-a-ta
+c.2.1.4,Sargon and Ur-Zababa,,B2,{m}šar-ru-um-ki-in sa₂-dug₄ e₂-gal-še₃ im-de₆-a-ba
+c.2.1.4,Sargon and Ur-Zababa,,B3,itima kug ki-tuš kug-ga-ni-a im-ma-da-an-nu₂
+c.2.1.4,Sargon and Ur-Zababa,,B4,šag₄-ga-ni-še₃ mu-un-zu eme-na nu-ŋa₂-ŋa₂ lu₂-da nu-mu-un-da-ab-be₂
+c.2.1.4,Sargon and Ur-Zababa,,B5,{m}šar-ru-um-ki-in sa₂-dug₄ e₂-gal-še₃ šu ba-ab-te-a-ta
+c.2.1.4,Sargon and Ur-Zababa,,B6,MUŠ₃.KA.UL mu-un-sig₁₀-ga {ŋeš}gu₂-ne-saŋ-ŋa₂ mu-un-dab₅-be₂
+c.2.1.4,Sargon and Ur-Zababa,,B7,kug {d}inana-ke₄ da-bi-a muš₃ nu-tum₂-me
+c.2.1.4,Sargon and Ur-Zababa,,B8,ud ₅-am₃ ud ₁₀-am₃ ba-zal-la-ta
+c.2.1.4,Sargon and Ur-Zababa,,B9,lugal {d}ur-{d}za-ba₄-ba₄ im-da-la₂ ki-tuš-bi-ta mi-ni-ib-hu-luh
+c.2.1.4,Sargon and Ur-Zababa,,B10,piriŋ-gin₇ šag₄ pap-hal-la-na kaš₃ biz-biz šag₄-ba uš₂ lugud si-a-ba
+c.2.1.4,Sargon and Ur-Zababa,,B11,i₃-kuš₂ ku₆ a mun lug-ga-gin₇ zi mu-un-di-ni-ib-ir-ir
+c.2.1.4,Sargon and Ur-Zababa,,B12,ud-ba MUŠ₃.KA.UL e₂-kurun₂ {d}ezina₂-ka
+c.2.1.4,Sargon and Ur-Zababa,,B13,{m}šar-ru-um-ki-in u₃-sa₂-gin₇ la-ba-nu₂ ma-mu₂-de₃ ba-nu₂
+c.2.1.4,Sargon and Ur-Zababa,,B14,kug {d}inana-ke₄ ma-mu₂ id₂ mud-še₃ mu-un-gir₅-gir₅
+c.2.1.4,Sargon and Ur-Zababa,,B15,{m}šar-ru-um-ki-in dum-dam-ma-na zu₂ ki-še₃ ba-da-ab-ra-ah
+c.2.1.4,Sargon and Ur-Zababa,,B16,dum-dum-bi lugal {d}ur-{d}za-ba₄-ba₄ ŋiš tuku-tuku-da-ni
+c.2.1.4,Sargon and Ur-Zababa,,B17,lugal-ra ki kug-ga-ni-še₃ im-ma-da-an-sun₅-ne-eš
+c.2.1.4,Sargon and Ur-Zababa,,B18,{m}šar-ru-um-ki-in ki {d}ur-{d}za-ba₄-ba₄-še₃ im-ma-da-an-sun₅-ne
+c.2.1.4,Sargon and Ur-Zababa,,B19,MUŠ₃.KA.UL ma-mu₂ ŋi₆ u₃-na u₃-mu-ri-du₈
+c.2.1.4,Sargon and Ur-Zababa,,B20,{m}šar-ru-um-ki-in lugal-a-ni im-ma-ni-ib-gi₄-gi₄
+c.2.1.4,Sargon and Ur-Zababa,,B21,lugal-ŋu₁₀ ma-mu₂-ŋu₁₀ u₃-mu-ri-dug₄-ga
+c.2.1.4,Sargon and Ur-Zababa,,B22,{lu₂}ki-sikil ₁-am₃ an-gin₇ sukud-da-ni ki-gin₇ daŋal-la-ni
+c.2.1.4,Sargon and Ur-Zababa,,B23,suhuš bad₃-da-gin₇ ŋar-ŋar-ra
+c.2.1.4,Sargon and Ur-Zababa,,B24,id₂ mah id₂ mud-še₃ ŋa₂-ra mu-un-gir₅-re-de₃-en
+c.2.1.4,Sargon and Ur-Zababa,,B25,{d}ur-{d}za-ba₄-ba₄ nundum bi₂-in-gu₇ ni₂ šag₄-še₃ ba-gid₂
+c.2.1.4,Sargon and Ur-Zababa,,B26,sukkal-a-ni gu₃ mu-na-de₂-e
+c.2.1.4,Sargon and Ur-Zababa,,B27,nin₉ e-ŋu₁₀ kug {d}inana-ke₄
+c.2.1.4,Sargon and Ur-Zababa,,B28,mud-še₃ u-ŋu₁₀ mu-un-kur₉-re
+c.2.1.4,Sargon and Ur-Zababa,,B29,{m}šar-ru-um-ki-in MUŠ₃.KA.UL id₂ mah mu-un-gir₅-gir₅
+c.2.1.4,Sargon and Ur-Zababa,,B30,{m}be-li₂-iš-ti-kal₂ gal:simug lu₂ šag₄-ga de₆-a-ŋu₁₀ im sar-sar
+c.2.1.4,Sargon and Ur-Zababa,,B31,inim ga-ra-ab-dug₄ inim-ŋu₁₀ he₂-dab₅
+c.2.1.4,Sargon and Ur-Zababa,,B32,na de₅-ga-ŋu₁₀ ŋizzal he₂-em-ši-ak
+c.2.1.4,Sargon and Ur-Zababa,,B33,ne-eš₂ MUŠ₃.KA.UL zabar-šu-ŋa₂ a-ra-X-ab-de₆
+c.2.1.4,Sargon and Ur-Zababa,,B34,e₂-sikil-la e₂ nam tar-ra-ka alan-gin₇ kuš₃-kuš₃-a sig₁₀-bi₂-ib
+c.2.1.4,Sargon and Ur-Zababa,,B35,{m}be-li₂-iš-ti-kal₂ inim lugal-la-na-še₃ saŋ keše₂ ba-ši-in-ak
+c.2.1.4,Sargon and Ur-Zababa,,B36,e₂-sikil e₂ nam tar-ra-ka kuš₃-kuš₃-a si mu-un-sa₂
+c.2.1.4,Sargon and Ur-Zababa,,B37,lugal-e {m}šar-ru-um-ki-in gu₃ mu-na-de₂-e
+c.2.1.4,Sargon and Ur-Zababa,,B38,ŋen-na zabar-šu-ŋa₂ gal:simug-še₃ tum₂-mu-na-ni-ib
+c.2.1.4,Sargon and Ur-Zababa,,B38A,{m}šar-ru-um-ki-in e₂-gal {d}ur-{d}za-ba₄-ba₄ im-ma-da-ra-ab-e₃
+c.2.1.4,Sargon and Ur-Zababa,,B39,kug {d}inana-ke₄ zag zid-da-ni muš₃ nu-tum₂-mu
+c.2.1.4,Sargon and Ur-Zababa,,B40,e₂-sikil-la e₂ nam tar-ra-ka ₅ nindan ₁₀ nindan nu-te-a-na
+c.2.1.4,Sargon and Ur-Zababa,,B41,kug {d}inana-ke₄ igi mu-un-na-ni₁₀-ni₁₀ ŋiri₃-ni im-da-RU
+c.2.1.4,Sargon and Ur-Zababa,,B42,e₂-sikil-la e₂ kug-ga na-nam lu₂ mud nu-mu-un-kur₉-re
+c.2.1.4,Sargon and Ur-Zababa,,B43,kan₄ e₂ nam tar-ra-ka gal:simug lugal-la-ke₄ gaba mu-un-da-ri
+c.2.1.4,Sargon and Ur-Zababa,,B44,zabar-šu lugal-la-ke₄ gal:simug-še₃ mu-un-de₆-a-ta
+c.2.1.4,Sargon and Ur-Zababa,,B45,{m}be-li₂-iš-ti-kal₂ gal:simug im-da-la₂ alan-gin₇ kuš₃-kuš₃-a ba-da-ab-sig₁₀-ga-bi
+c.2.1.4,Sargon and Ur-Zababa,,B46,{m}šar-ru-um-ki-in ud ₅-am₃ ud ₁₀-am₃ ba-zal-la-ta
+c.2.1.4,Sargon and Ur-Zababa,,B47,ki {d}ur-{d}za-ba₄-ba₄ lugal-la-na-še₃ im-ma-da-an-ku₄-ku₄
+c.2.1.4,Sargon and Ur-Zababa,,B48,šag₄ e₂-gal kur gal-gin₇ ki us₂-sa im-ma-da-an-ku₄-ku₄
+c.2.1.4,Sargon and Ur-Zababa,,B49,lugal {d}ur-{d}za-ba₄-ba₄ im-da-la₂ ki-tuš-bi-ta mi-ni-ib-hu-luh
+c.2.1.4,Sargon and Ur-Zababa,,B50,šag₄-ga-ni-še₃ mu-un-zu eme-na nu-ŋa₂-ŋa₂ lu₂-da nu-mu-un-da-ab-be₂
+c.2.1.4,Sargon and Ur-Zababa,,B51,itima-ka ki-tuš kug-ga-ni {d}ur-{d}za-ba₄-ba₄ mi-ni-ib-hu-luh
+c.2.1.4,Sargon and Ur-Zababa,,B52,šag₄-ga-ni-še₃ mu-un-zu eme-na nu-ŋa₂-ŋa₂ lu₂-da nu-mu-un-da-ab-be₂
+c.2.1.4,Sargon and Ur-Zababa,,B53,ud-bi-ta inim im-ma gub-bu he₂-ŋal₂ im sig₉-sig₉-ge ba-ra-ŋal₂-la-am₃
+c.2.1.4,Sargon and Ur-Zababa,,B54,lugal {d}ur-{d}za-ba₄-ba₄ {m}šar-ru-um-ki-in diŋir-re-e-ne šu dug₄-ga-ar
+c.2.1.4,Sargon and Ur-Zababa,,B55,im-ma gub-bu niŋ₂ ni₂ ba-ug₇-a-ta
+c.2.1.4,Sargon and Ur-Zababa,,B56,unug{ki}-ga lugal-zag-ge₄-e-si šu ba-ni-ib-da₁₃-da₁₃
+c.2.1.4,Sargon and Ur-Zababa,,C1,dam lugal-zag-ge₄-si-da
+c.2.1.4,Sargon and Ur-Zababa,,C2,nam-munus an-dul₃-eš₂ mu-ni-ba
+c.2.1.4,Sargon and Ur-Zababa,,C3,lugal-zag-ge₄-si kiŋ₂-gi₄-a
+c.2.1.4,Sargon and Ur-Zababa,,C4,ŋa₂-nam-ma šeg₁₂ e₂-an-na-še₃ ŋiri₃ mu-un-gub
+c.2.1.4,Sargon and Ur-Zababa,,C5,lugal-zag-ge₄-si šag₄-ga-ni nu-un-zu ugu kiŋ₂-gi₄-a nu-mu-un-dug₄-dug₄
+c.2.1.4,Sargon and Ur-Zababa,,C6,en-na ugu kiŋ₂-gi₄-a na-mu-un-dug₄-dug₄ igi dumu nun ba-an-da-bad
+c.2.1.4,Sargon and Ur-Zababa,,C7,en-e u₈ bi₂-in-dug₄ sahar-ra ba-an-da-tuš
+c.2.1.4,Sargon and Ur-Zababa,,C8,lugal-zag-ge₄-si kiŋ₂-gi₄-a-ar im-ši-in-gi₄
+c.2.1.4,Sargon and Ur-Zababa,,C9,kiŋ₂-gi₄-a šar-ru-ki-in gu₂ nu-mu-un-sig₁₀-sig₁₀
+c.2.1.4,Sargon and Ur-Zababa,,C10,gam-gam-ma-ni šar-ru-ki-in lugal-zag-ge₄-si
+c.2.1.4,Sargon and Ur-Zababa,,C11,šar-ru-ki-in lugal-zag-ge₄-si
+c.2.1.4,Sargon and Ur-Zababa,,C12,a-na-aš-am₃ šar-ru-ki-in

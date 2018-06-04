@@ -1,0 +1,78 @@
+id_text,text_name,version,l_no,text
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,1,dumu e₂-dub-ba-a ud ul-la ŋa₂-nu ki-ŋu₁₀-še₃
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,2,niŋ₂ um-mi-a-ŋu₁₀ mu-un-pad₃-da za-e ga-ra-pad₃-pad₃
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,3,za-e-gin₇-nam nam-lu₂-tur i₃-ak šeš-gal i₃-tuku-am₃
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,4,um-mi-a lu₂-ta kiŋ₂-ŋa₂-am₃ a₂ aŋ₂-ŋa₂ ŋiš bi₂-in-ŋar
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,5,gi al-gu₄-ud-da-gin₇ i₃-gu₄-ud-de₃-en kiŋ₂-ŋa₂ bi₂-in-sig₁₀-ge-en
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,6,inim um-mi-a-ŋu₁₀ nu-un-taka₄ niŋ₂ ni₂-ŋa₂ li-bi₂-ak
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,7,šeš-gal-ŋu₁₀ a₂ ŋiš ŋar-ra-ŋa₂ šag₄-ga-ni i-ni-in-dug₃
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,8,i₃-sun₅-ne na-mu-da-ši-hul₂ silim-ŋa₂ i-ni-in-dug₄
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,9,ŋiš ma-an-hur-ra na-an-dim₂ ki-bi-še₃ al-ŋar-ŋar
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,10,na de₅-ga-ni-ta lu₂ hu-ru-um šu bar dib-ba-e
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,11,im-ma šu-ŋu₁₀ si ba-ni-in-sa₂ us₂ zid mu-un-dab₅
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,12,ka-ŋu₁₀ inim-ma ŋal₂ ba-ni-in-taka₄ ad gi₄-gi₄ ma-an-pad₃
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,13,ŋiš-hur lu₂ a₂ aŋ₂-ŋa₂ si sa₂-e igi ma-ni-in-si-si
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,14,gu₂ zi-zi-i ha-la a₂ aŋ₂-ŋa₂-kam ud zal-le niŋ₂-gig-ga
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,15,lu₂ ki a₂ aŋ₂-ŋa₂-ni-še₃ ud zal-la a₂ aŋ₂-ŋa₂-ni ab-taka₄
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,16,niŋ₂-zu-a-ni pa nu-um-e₃ ka-ga₁₄-ni ba-an-la₂
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,17,tukum-bi niŋ₂-zu-a-ni pa ba-an-e₃ igi mu-un-suh-suh-u₃-ne
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,18,ud na-ab-zal-e-en ŋi₆ na-ab-sed₄-e-en a₂-bi-še₃ ŋen-na
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,19,šeš-gal šeš-ban₃-da hi-li-a-bi na-an-na-ni-ib-gi₄-gi₄
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,20,saŋ-ki gal-gal-la um-ma-te inim-zu ba-dugud-de₃-en
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,21,₂-kam-ma-še₃ igi keše₂-da-zu-še₃ nu-ra-ni-ib-gi₄-gi₄
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,22,ki za-za teš₂ lu₂-u₁₈-lu-ka mah-bi gu₂ he₂-ri-du₃
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,23,u₂ teš₂-a-ka šag₄ ab-sed₄-de₃ nam-tag-ga al-du₈-e
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,24,lu₂ šu sug₄-ga-ka kadra-ni ur₅-še₃ nir mu-un-ŋal₂
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,25,lu₂ niŋ₂ nu-tuku maš₂ gur-ra-na gaba-na i-im-tab
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,26,lu₂-ŋarza₂-ra ki he₂-en-ne-za he₂-keše₂ ba-sed₄-de₃
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,27,niŋ₂ um-mi-a-ŋu₁₀ mu-un-pad₃-de₃ e-ra-šid nu-mu-ra-ab-taka₄
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,28,ŋizzal he₂-bi₂-ak šag₄-še₃ gid₂-i-de₃ sag₉-ge-zu mu-da-an-ŋal₂
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,29,dub-sar umun₂ ak sun₅-na-bi ugula-a-ni mu-un-na-ni-ib-gi₄-gi₄
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,30,ud mu₇-mu₇-gin₇ ab-šid-en-na-a ba-an-gi₄-bi a-ra-ab-ha-za-an
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,31,mu gud-gin₇ i-lu dug₃-ga-zu-še₃ ŋiš i₃-la₂-a-bi
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,32,lu₂ nu-zu nam-mu-ni-ib-ku₄-ku₄ ₁-am₃ ga-ra-ni-ib-gi₄
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,33,ur-gir₁₅ tur-gin₇ igi mu-e-bad-bad nam-lu₂-ulu₃ mu-e-ak
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,34,a-na-aš-am₃ lu₂ ŋa₂-la dag-ga-gin₇ ŋiš ma-ab-hur-hur-re-en
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,35,lu₂ inim-zu ŋiš ba-ni-in-tuku-a šu am₃-ma-kar₂-kar₂
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,36,nam-dub-sar-ra a-na mu-e-pad₃-da-zu šu-za ba-ni-in-šum₂
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,37,e₂-za he₂-bi₂-gub-be₂-en ud na-me niŋ₂ ŋa₂-la dag-ga-ŋu₁₀-uš sa₂ ba-ra-am₃-mu-ri-ib-dug₄
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,38,geme₂ arad₂ ŋiri₃-sig₁₀-ga e₂-za kiŋ₂-gi₄-a he₂-bi₂-ne-gi₄
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,39,šukur₂-bi tug₂-bi u₃ i₃-ba-bi šag₄-bi ha-ma-dug₃-ga
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,40,a-ra₂-bi-še₃ kiŋ₂-gi₄-a he₂-bi₂-in-ne-gi₄ e₂ lugal-ka arad₂ ba-ra-bi₂-in-us₂
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,41,gaba ud-ŋa₂ he₂-bi₂-ak udu-gin₇ he₂-eb-us₂-u₃-nam
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,42,sizkur₂ sa gi₄-gi₄-da he₂-mu-e-dug₄ ud-bi sa₂ he₂-ri-ib-dug₄
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,43,udu-bi u₂-gu₇-bi ha-ma-sag₉-sag₉ diŋir-zu he₂-hul₂
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,44,ud ma₂ diŋir-za us₂-sa-bi giri₁₇ šu ha-ra-ab-tag-ge-ne
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,45,gaba a-šag₄-ga-še₃ a₂ he₂-mu-e-da-a-a-aŋ₂ erin₂-e kiŋ₂ he₂-bi₂-ak
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,46,kiŋ₂ a-da-min₃-na ŋi₆ an-bar₇-ba u₃ ba-ra-bi₂-ku-am₃
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,47,us₂-a-DU dumu engar-ra-ke₄-e-ne saŋ hu-mu-un-kal-le-ne
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,48,a-šag₄-za šu nam-sag₉-ga he₂-bi₂-gi₄ uŋ₃-e u₆ di he₂-ri-ib-dug₄
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,49,gud-de₃ a-na-am₃ gub-zu dirig he₂-em-tum₃ gu₂-un-bi ha-ra-ab-silim-ma-am₃
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,50,tur-ra-ŋu₁₀-ta he₂-em-ma-dim₄-e-en a-ra₂-ŋu₁₀ igi he₂-bi₂-du₈
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,51,kug sag₉-ga-gin₇ kurum₇ he₂-bi₂-ak ki-šer₁₁ la-ba-an-tuku
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,52,gal-bi nu-di niŋ₂-gig-zu-gin₇ e-ra-da-tuš-u₃-nam
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,53,ni₂ tur-tur-re e-ra-da-sah₆-sah₆-na pa ga-ra-ab-e₃ zu-a
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,54,ud-bi-ta lu₂-tur he₂-me-en-na i₃-ne-eš₂ saŋ-zu il₂
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,55,šu-zu lu₂-ra mu-da-an-gi₄-gi₄-in a-ra₂-bi-še₃ DU-mu-un
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,56,šudu₃ he₂-mu-e-ša₄ nam mu-tar-ra
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,57,na de₅-ga ga i₃ gu₇-a-gin₇ su-ŋa₂ i-ni-in-kur₉-ra
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,58,gub-bu ŋa₂-la nu-dag-ge pad₃-da-zu
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,59,ki sag₉-ga-bi sa₂ he₂-ri-ib-dug₄ niŋ₂-hul-bi li-bi₂-in-ak
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,60,um-mi-a lu₂ inim zu-u₃-ne saŋ hu-mu-un-kal-le-ne
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,60A,e₂-bi-a ki saŋ-kal-la-ba hu-mu-un-e-ne
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,60B,mu-zu dug₃-ge-eš pad₃-de₃-da-bi saŋ-ki-bi ma-ŋal₂
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,60E,um-mi-a šag₄ hul₂-la-ni-ta šudu₃ mu-na-an-ša₄
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,61,lu₂-tur inim-ŋu₁₀-še₃ ba-tuš-u₃-nam šag₄-ŋu₁₀ bi₂-dug₃-ga-am₃
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,62,{d}nisaba dugud-da um-mi-a šu-za i-ni-in-ŋar-ra
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,63,nam i-ri-tar-ra mu-na-ra-kur₂-ru šu zid ha-ra-an-ŋa₂-ŋa₂
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,64,šag₄ hul₂-la nam-še₃ he₂-bi₂-tar šag₄ sag₃ he₂-da-zig₃
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,65,e₂-dub-ba-a ki-umum-ma a-na ŋal₂-la
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,66,nam-mah {d}nisaba niŋ₂-me-ŋar pad₃-pad₃ di-da-bi
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,67,gud-us₂ šir₃ dug₃-dug₃-ga-zu-še₃ ŋiš la₂-bi mah
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,68,šir₃ dug₃-ga-zu-še₃ ŋiš ga-mu-ni-in-la₂ MUNUS-zu-gin₇ ga-mu-ni-tag-tag
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,69,niŋ₂ ŋeštug₂-ga nu-u₁₈-lu-me-en hu-mu-un-pad₃-pad₃-de₃-ne
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,70,di₄-di₄-la₂ inim-inim-ma he₂-du₇ kaš hu-mu-un-ku₇-ku₇-de₃-ne
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,71,gašam ki ku₁₀-ku₁₀-ga ud ŋa₂-ŋa₂
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,72,sila saŋ gi₄-a sila-a ba-an-ŋa₂-ŋa₂
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,73,us₂ teš₂-ba ri-a si sa₂-e in ki-bi sur-sur
+c.5.1.3,The advice of a supervisor to a younger scribe (E-dub-ba-a C),,74,nin me-ni-da me nu-sa₂-a {d}nisaba za₃-mi₂

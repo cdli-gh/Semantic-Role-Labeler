@@ -1,0 +1,21 @@
+id_text,text_name,version,l_no,text
+c.3.1.11.1,Letter from Ur-DUN to Šulgi about Apillaša,,1,lugal-ŋu₁₀-ra u₃-na-a-dug₄
+c.3.1.11.1,Letter from Ur-DUN to Šulgi about Apillaša,,2,ur-DUN dam-gara₃ arad-zu na-ab-be₂-a
+c.3.1.11.1,Letter from Ur-DUN to Šulgi about Apillaša,,3,kug lugal-ŋu₁₀ mu-e-NE-šum₂-ma
+c.3.1.11.1,Letter from Ur-DUN to Šulgi about Apillaša,,4,kur su₃-ra₂-še₃ šim {ŋeš}erin-na
+c.3.1.11.1,Letter from Ur-DUN to Šulgi about Apillaša,,5,sa₁₀-sa₁₀-de₃ mu-e-ši-gi-na
+c.3.1.11.1,Letter from Ur-DUN to Šulgi about Apillaša,,6,ud kur-še₃ kur₉-re-na-ŋu₁₀
+c.3.1.11.1,Letter from Ur-DUN to Šulgi about Apillaša,,7,šim {ŋeš}erin-na bi₂-sa₁₀-sa₁₀-ŋu₁₀
+c.3.1.11.1,Letter from Ur-DUN to Šulgi about Apillaša,,8,{m}a-pi₂-la-ša gal-zu unken-na ma-an-gi-ma
+c.3.1.11.1,Letter from Ur-DUN to Šulgi about Apillaša,,9,sam₂-ŋu₁₀ mu-da-an-kar₂-re-eš
+c.3.1.11.1,Letter from Ur-DUN to Šulgi about Apillaša,,10,kan₄ e₂-gal-la-ni u₃-um-ŋen
+c.3.1.11.1,Letter from Ur-DUN to Šulgi about Apillaša,,11,lu₂ na-me inim-ŋu₁₀ en₃ nu-bi-tar
+c.3.1.11.1,Letter from Ur-DUN to Šulgi about Apillaša,,12,{m}arad-ŋu₁₀ arad-zu u₃ ba₄-ba₄-ti pisaŋ-dub-ba
+c.3.1.11.1,Letter from Ur-DUN to Šulgi about Apillaša,,13,zi-mu-dar{ki}-ra-ta si-mu-ur-ru-um{ki}-še₃
+c.3.1.11.1,Letter from Ur-DUN to Šulgi about Apillaša,,14,i₃-re-eš-ma
+c.3.1.11.1,Letter from Ur-DUN to Šulgi about Apillaša,,15,in-ne-zu-ma
+c.3.1.11.1,Letter from Ur-DUN to Šulgi about Apillaša,,16,lu₂-kiŋ₂-gi₄-a-ne-ne
+c.3.1.11.1,Letter from Ur-DUN to Šulgi about Apillaša,,17,lugal-ŋa₂
+c.3.1.11.1,Letter from Ur-DUN to Šulgi about Apillaša,,18,usu nu-tuku a₂ dar-re-bi nu-mu-da-ŋar
+c.3.1.11.1,Letter from Ur-DUN to Šulgi about Apillaša,,19,dug₄-ga lugal mu-ra-an-šum₂
+c.3.1.11.1,Letter from Ur-DUN to Šulgi about Apillaša,,20,niŋ₂ lugal-ŋu₁₀ ab-be₂-na-ŋu₁₀

@@ -1,0 +1,32 @@
+id_text,text_name,version,l_no,text
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,1,{d}nin-i₃-si-na dumu gal an-na e₂-gi₄-a gal nir gub-bu
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,2,{d}li-pi₂-it-eš₄-tar₂ u₂-a-zu he₂-am₃ e-ne-ra mu-na-an-dug₄
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,3,šag₄-ba-tuku-am₃
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,4,ka-ta e₃-a-ni {d}en-lil₂-la₂-še₃
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,5,{d}nin-i₃-si-na-ka-še₃ ŋeštug₂ ba-ši-in-gub sun₅-na-bi mu-na-ni-ib-gi₄-gi₄
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,6,a-a {d}en-lil₂ diŋir mu pa e₃ i-bi₂ mu-lil₂-la₂-še₃
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,7,en me-zu me-a umuš a₂ aŋ₂-zu a₂ aŋ₂-ta
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,8,sipad zid šag₄ PA.NIM šag₄ da-ba
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,9,u₃-mu-un {d}li-pi₂-it-eš₄-tar₂-ra
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,10,u₃-mu-ni-in-ze₂-eŋ₃
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,11,X-ra-ab-sug₂-e
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,12,ki-tuš uŋ₃ mu-ni-in-ŋar su kalam-ma mu-e-dug₃
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,13,igi nam-til₃-la-zu mu-un-ši-bar na-aŋ₂ zid tar-mu-ni-ib
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,14,ki-ru-gu₂ ₃-kam-ma
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,15,{d}nu-nam-nir nun {d}li-pi₂-it-eš₄-tar₂-ra nam-til₃ ud su₃-ra₂ saŋ-e-eš rig₇-ba-ab
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,16,ŋiš-gi₄-ŋal₂-bi-im
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,17,inim dug₄-ga {d}nin-isin₂-na-ka-še₃
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,18,kur gal {d}en-lil₂-le ŋeštug₂ ba-ši-in-gub
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,19,lugal-ra gu₃ zid mu-na-an-de₂-e nam mu-ni-ib-tar-re
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,20,{d}li-pi₂-it-eš₄-tar₂ mu pad₃-da-ŋu₁₀-me-en uŋ₃-ŋa₂ saŋ mi-ni-in-il₂
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,21,zi-ŋal₂-e ama a-a ugu-bi-gin₇ igi-bi he₂-en-ši-ŋal₂-le-eš
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,22,kalag-ga saŋ en₃ tar e₂-kur-ra ensi₂ eš₃ mah-a
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,23,u₄-ta-u₁₈-lu ki šen-šen-na-ka a₂-tah-zu he₂-am₃
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,24,hul-du-zu sim{mušen}-gin₇ ha-ra-ur₄-ru zar-re-eš ha-ra-ab-sal-e
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,25,ki-ru-gu₂ ₄-kam-ma
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,26,nun {d}li-pi₂-it-eš₄-tar₂ {d}nu-nam-nir-ra
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,27,en dug₄-ga nu-kur₂-ru-de₃ uŋ₃ šar₂-ra-ba mu-ni im-mi-mah
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,28,ŋiš-gi₄-ŋal₂-bi-im
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,29,{d}en-lil₂-me-en an-še₃ il₂-me-en ki-še₃ en me šar₂-me-en
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,30,{d}li-pi₂-it-eš₄-tar₂ nam dug₃ mi-ni-ib-tar-re niŋ₂ nu-kur₂-ru he₂-am₃
+c.2.5.5.5,A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E),,31,šir₃-nam-gala {d}nin-i₃-si-na-ke₄

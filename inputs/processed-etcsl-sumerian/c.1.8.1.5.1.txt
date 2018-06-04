@@ -1,0 +1,139 @@
+id_text,text_name,version,l_no,text
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,1,i₃-a lum-lum u₃-luh-ha sud-sud
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,2,dumu-gir₁₅ giri₁₇-zal diŋir-re-e-ne
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,3,gud lipiš-tuku me₃-a gub-ba
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,4,en {d}gilgameš₂ unug{ki}-ta mi₂ dug₄-ga
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,5,unug{ki}-ga lu₂ ba-uš₂ ur₅ ba-sag₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,6,lu₂ u₂-gu ba-an-de₂ šag₄ hul i₃-ŋa₂-ŋa₂
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,7,bad₃-da su-ŋu₁₀ im-ma-an-la₂
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,8,lu₂ a-a ib₂-dirig-ge₄ igi im-mi-in-sig₁₀-ga-am₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,9,ur₅ im-ma-uš₂ šag₄ im-ma-sag₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,10,zag nam-til-la saŋ im-gi₄-a
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,11,irigal kur nam-gu₂-ka-ke₄ lu₂ la-ba-an-da₁₃-da₁₃-a
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,12,sud-da kur-ra la-ba-an-gib-be₂-a
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,13,daŋal-la kur-ra la-ba-an-šu₂-šu₂-a
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,14,zag ŋuruš til-la saŋ til-la-bi-še₃ la-ba-ra-ab-ed₃-de₃-a
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,15,zi ama ugu-ŋu₁₀ {d}nin-sumun₂-ka a-a-ŋu₁₀ kug {d}lugal-ban₃-da
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,16,diŋir-ŋu₁₀ {d}en-ki en {d}nu-dim₂-mud-e
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,17,me
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,18,
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,19,šub
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,20,du₃-du₃ ga-am₃-til
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,21,šub-ba ga-am₃-mi-ib-kur₉
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,22,arad-da-ni en-ki-du₁₀-e gu₃ mu-na-de₂-e
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,23,tukum-bi kur-še₃ i-in-ku₄-ku₄-de₃-en
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,24,{d}utu he₂-da-an-zu
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,25,kur-{ŋeš}erin-kud-še₃ i-in-ku₄-ku₄-de₃-en
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,26,{d}utu he₂-da-an-zu
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,27,kur-ra dim₂-ma-bi {d}utu-kam
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,28,kur-{ŋeš}erin-kud dim₂-ma-bi šul {d}utu-kam
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,29,{d}utu an-na-ke₄ suh₁₀ za-gin₃ mu-un-keše₂
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,30,saŋ il₂-la mu-un-ŋen
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,31,{d}gilgameš₂ en kul-aba{ki}-ke₄ šu-ni ŋidru kug giri₁₇-na ba-ab-tab
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,32,{d}utu kur-še₃ i-in-ku₄-ku₄-de₃-en he₂-me-en a₂-tah-ŋu₁₀
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,33,kur-erin-kud i-in-ku₄-ku₄-de₃-en he₂-me-en a₂-tah-ŋu₁₀
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,38,₁-am₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,39,₂-kam-ma
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,40,₃-kam-ma
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,41,₄-kam-ma
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,42,₅-kam-ma mu-un-tab-tab-e
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,43,₆-kam-ma a-ŋi₆ du₇-du₇-gin₇ kur-ra gaba ra-ra
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,44,₇-kam-ma nim-gin₇ i₃-ŋir₂-ŋir₂-re a₂-bi-še₃ lu₂ nu-ub-gur-e
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,45,e-ne-ne an-na mul-la-me-eš ki-a har-ra-an zu-me-eš
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,46,an-na mul il₂-la-me-eš
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,47,ki-a kaskal aratta{ki} zu-me-eš
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,48,dam-gar₃-ra-gin₇ ŋiri₃-bal zu-me-eš
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,49,tum₁₂{mušen}-gin₇ ab-lal kur-ra zu-me-eš
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,50,ma₂-ur₃-ma₂-ur₃ hur-saŋ-ŋa₂-ka he₂-mu-e-ni-tum₂-tum₂-mu-ne
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,51,{d}gilgameš₂ iri-ni-a zig₃-ga ba-ni-ib-ŋar
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,52,kul-aba{ki}-a si gu₃ ba-ni-in-ra
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,53,iri dam tuku dam zu-še₃ dumu tuku dumu-zu-še₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,54,ur-saŋ zu ur-saŋ nu-zu
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,55,dam nu-tuku dumu nu-tuku
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,56,lu₂ ur₅-a lu₂ {d}gilgameš₂-da a₂-ŋu₁₀-še₃ hu-mu-un-ak-eš
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,57,lugal iri-ta ba-ra-e₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,58,{d}gilgameš₂ kul-aba{ki}-ta ba-ra-e₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,59,kur-{ŋeš}erin-kud-da ŋiri₃ im-ma-ab-dab₅-be₂
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,60,hur-saŋ ₁-e in-di₃-in-bal {ŋeš}erin šag₄-ga-ni nu-mu-ni-in-pad₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,61,hur-saŋ ₂-kam-ma in-di₃-in-bal {ŋeš}erin šag₄-ga-ni nu-mu-ni-in-pad₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,62,hur-saŋ ₃-kam-ma in-di₃-in-bal {ŋeš}erin šag₄-ga-ni nu-mu-ni-in-pad₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,63,hur-saŋ ₄-kam-ma in-di₃-in-bal {ŋeš}erin šag₄-ga-ni nu-mu-ni-in-pad₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,64,hur-saŋ ₅-kam-ma in-di₃-in-bal {ŋeš}erin šag₄-ga-ni nu-mu-ni-in-pad₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,65,hur-saŋ ₆-kam-ma in-di₃-in-bal {ŋeš}erin šag₄-ga-ni nu-mu-ni-in-pad₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,66,hur-saŋ ₇-kam-ma bal-e-da-ni {ŋeš}erin šag₄-ga-ni im-ma-ni-in-pad₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,67,{d}gilgameš₂ {ŋeš}erin-na al-sag₃-ge
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,68,arad-da-ni en-ki-du₁₀-e pa mu-un-ši-ak-e
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,69,dumu iri-na mu-un-de₃-re₇-eš-a
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,70,gu-ru-ma mu-ni-ib-gub-bu-ne
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,71,ud-bi-a ur-saŋ ur-saŋ-ra u₃-mu-un-na-te
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,72,me-lem₄ šu-gur-gin₇ i-im-te
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,73,nu₂ silim-ma i₃-nu₂
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,74,u₃ X-ku-ku
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,78,gu₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,79,i₃-nu₂-X i₃-nu₂-X
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,80,en {d}gilgameš₂ en-še₃ nu₂-de₃-en
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,81,kur ba-suh₃-suh₃ ŋissu ba-an-la₂
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,82,
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,83,{d}gilgameš₂ i-im-zig₃ ma-mu₂-da
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,84,i-im-bu-luh u₃-sa₂-ga-am₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,85,igi-ni šu bi₂-in-gur₁₀ niŋ₂-me-ŋar sug₄-ga-am₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,86,zi ama ugu-ŋa₂ {d}nin-sumun₂-ka a-a ugu-ŋa₂ kug {d}lugal-ban₃-da
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,87,diŋir-ŋu₁₀ {d}en-ki en {d}nu-dim₂-mud-e
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,90,ŋe₂₆-e šag₄ mu-ni-X-dab₅-be₂
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,91,ur-saŋ-e igi-ni igi piriŋ-ŋa₂-kam
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,92,ŊIŠ.GABA-a-ni a-ŋi₆ du₇-du₇-dam
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,93,saŋ-ki-ni ŋiš-gi bi₂-gu₇-e lu₂ nu-teŋ₃-ŋe₂₆-dam
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,94,eme-a-ni ur-mah lu₂ gu₇-gin₇ uš₂ nu-šar₂-ra-ge-dam
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,95,ur-saŋ-e usu nu-mu-e-da-ŋal₂ ne-am₃ mu-un-da-ŋal₂
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,96,arad-da-ni en-ki-du₁₀-e gu₃ mu-na-de₂-e
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,97,
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,98,
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,99,zi ama ugu-ŋa₂ {d}nin-sumun₂-ka a-a-ŋa₂ kug {d}lugal-ban₃-da
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,100,diŋir-ŋu₁₀ {d}en-ki en {d}nu-dim₂-mud-e X-e₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,101,ur-saŋ kur-ra tuš-a-zu he₂-zu-am₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,102,ŋiri₃ tur-tur-zu-uš {kuš}e-sir₂ tur-tur he₂-ma-dim₂-dim₂-ma-am₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,103,ŋiri₃ gal-gal-zu-uš {kuš}e-sir₂ gal-gal he₂-ma-dim₂-dim₂-ma-am₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,108,u₃-mu-ni-in-kur₉
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,109,zi ama ugu-ŋa₂ {d}nin-sumun₂-ka a-a ugu-ŋa₂ kug {d}lugal-ban₃-da
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,110,diŋir-ŋu₁₀ {d}en-ki en {d}nu-dim₂-mud-e mu-ni-in-e₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,111,ur-saŋ kur-ra tuš-a-zu he₂-zu-am₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,112,ŋiri₃ tur-tur-zu-uš {kuš}e-sir₂ tur-tur he₂-ma-dim₂-dim₂-ma-am₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,113,ŋiri₃ gal-gal-zu-uš {kuš}e-sir₂ gal-gal he₂-ma-dim₂-dim₂-ma-am₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,114,kur X-kur₉-ra
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,115,
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,129,gu-ru-um-gu-ru-um hur-saŋ-ŋa₂
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,130,me-lem₄ ₇-kam-ma mu-na-til-la-ta
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,131,da-ga-na ba-te ŋeštug-a-ni tibir bi₂-in-ra
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,132,saŋ-ki mu-un-da-an-guru₅-uš zu₂ mu-un-da-zalag-zalag
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,133,am dab₅-ba-gin₇ samanₓ mu-ni-in-šub
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,134,ur-saŋ dab₅-ba-gin₇ aškud₂ mu-ni-in-la₂
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,135,ur-saŋ-e er₂ im-ma-an-pad₃ šeₓ-šeₓ i₃-ŋa₂-ŋa₂
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,136,hu-wa-wa er₂ im-ma-an-pad₃ šeₓ-šeₓ i₃-ŋa₂-ŋa₂
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,137,ur-saŋ-e lul mu-e-sig₁₀ šu si mu-e-sa₂ nam-erim₂ mu-e-kud
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,138,zi ama ugu-zu {d}nin-sumun₂-ka a-a-zu kug {d}lugal-ban₃-da
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,139,diŋir-zu {d}en-ki en {d}nu-dim₂-mud mu-e-ni-e₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,140,am dab₅-ba-gin₇ saman₂ mu-ni-šub
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,141,ur-saŋ dab₅-ba-gin₇ aškud₂ ba-ni-la₂-la₂
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,142,{d}gilgameš₂ dumu-gir₁₅-ra šag₄-ga-ni arhuš
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,143,arad-da-na en-ki-du₁₀-ra gu₃ mu-un-na-de₂-e
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,144,ŋa₂-nam-ma ur-saŋ-ra šu ga-am₃-bar-re-en-de₃-en
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,145,lu₂ zu-me he₂-a dur₂ kaskal-la igi me-eb-du₈-de₃-a lu₂ zu-me he₂-a
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,146,he₂-a kilib₃-ŋu₁₀ he₂-em-mi-il₂-le
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,147,
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,148,arad-da-a-ni en-ki-du₁₀-e mu-un-na-ni-ib-gi₄-gi₄
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,149,dim₂-ma nu-tuku
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,150,nu-tuku
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,151,nu-tuku
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,152,ur-saŋ dab₅-ba šu bar-ra-am₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,153,en dab₅-ba ŋi₆-par₄-še₃ gur-ra-am₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,154,gudug dab₅-ba hi-li-še₃ gur-ra-am₃
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,155,ud ul-le₂-a-ta a-ba-a igi im-mi-in-du₈
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,156,kaskal kur-ra
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,157,ŋiri₃ kur-ra mu-e-de₃-eb-suh₃-suh₃-e
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,158,iri ama u₃-tud-da
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,163,hu-wa-wa mu-un-na-ni-ib-gi₄-gi₄
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,164,ama tud-da-ŋu₁₀ hur-ru-um kur-ra
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,165,a-a tud-da-ŋu₁₀ hur-ru-um hur-saŋ-ŋa₂
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,166,{d}utu dili-ŋu₁₀-ne kur-ra mu-un-de₃-en-tuš-en
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,167,{d}gilgameš₂ hu-wa-wa-ra gu₃ mu-un-na-de₂-e
+c.1.8.1.5.1,Gilgameš and Huwawa (Version B),,168,ŋa₂-nam-ma

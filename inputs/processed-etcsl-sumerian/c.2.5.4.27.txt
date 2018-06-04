@@ -1,0 +1,26 @@
+id_text,text_name,version,l_no,text
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,1,
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,2,ma-ra-an-e₃
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,3,nam tar-re
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,4,barag gu-za mah kug-sig₁₇ tum₂-ma-am₃ gal-bi ma-ra-ni-in-gub
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,5,inim sag₉-ge ki-en-gi ki-uri{ki}-še₃ gaba-ba ma-ra-ni-in-sug₂-X
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,6,a naŋ erim₂ e₂-kur-ra nidba₂-ra-am₃ ki-ba ma-ra-ni-in-sa₄-X
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,7,e₂-kur-ra til-e ak
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,8,a₂ zid-za bi₂-in-gub
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,9,{d}iškur še e₂-kur-ra šu la₂-bi
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,10,gu-za mah-ba dur-ba ma-ra-an-gen₆
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,11,mah ni₂ gal-le-eš ri-am₃
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,12,barag kug-za uŋ₃-e u₆ di-de₃
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,13,kiŋ₂ gal unu₂ gal-za ud ul-le₂-a-še₃ sa₂-dug₄-še₃
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,14,{ŋeš}mi-tum saŋ ₅₀ ki-bal gul-gul-lu a₂ mah-zu-še₃ pad₃-da
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,15,i₃-si-in{ki} iri nam-lugal-la-ka
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,16,{d}iš-me-{d}da-gan-e kiŋ₂ gal-eš₂
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,17,mu ₅₀ ma-ra-an-sa₄
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,18,nibru{ki} iri ul ki ŋar-ra-ba i₃-si-in{ki}-ta
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,19,e₂-šu-me-ša₄ ki-tuš mah ni₂
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,20,kan₄ igi-šu-galam ki nam tar-re-dam
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,21,u₆ di-de₃
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,22,{d}iš-me-{d}da-gan u₂-a nibru{ki}-a
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,23,saŋ us₂ urim₂{ki}-ma
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,24,ud-da gub eridug{ki}-ga
+c.2.5.4.27,A praise poem of Išme-Dagan (Išme-Dagan AA),,25,en unug{ki}-ga lugal i₃-si-in{ki}-na

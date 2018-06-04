@@ -1,0 +1,32 @@
+id_text,text_name,version,l_no,text
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,1,en nam-ur-saŋ-ŋa₂ šu du₇-a ki aŋ₂
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,2,{d}nin-urta {ŋeš}meš₃ pa mul daŋal-la
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,3,tukul me₃ ak-še₃ kuš₃ tag-ga kur
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,4,ušum igi huš muš-šag₄-tur₃ ki-bal-a uš₁₁-bi
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,5,gaba zig₃ piriŋ zag e₃
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,6,{d}nin-urta nun gal {d}en-ki-da
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,7,lugal-ŋu₁₀ iri-za eš₃ nibru{ki} tir
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,8,e₂-šu-me-ša₄ ki šu
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,9,en nam-lugal-e šu mu-ra-ab-du₇
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,10,ad gi₄-gi₄ ušumgal kalam-ma
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,11,{d}nin-urta bad₃ gal nibru{ki}-a
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,12,lugal-ŋu₁₀ me sag₂ nu-di ur-saŋ
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,13,piriŋ gaba-ŋal₂ šu bar-bar
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,14,lugal ŋeštug₂ daŋal an ki-a u₂
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,15,ŋidru mah kalam-e zag dib-ba ki
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,16,{d}nin-urta lu₂-erim₂ ri
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,17,sa-gid₂-da-am₃
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,18,ur-saŋ en ni₂ er₉ gaba zig₃-ga
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,19,{d}nin-urta ud huš izi er₉-ra
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,20,ud hu-luh-ha sumur-ra₂ ki-bal-a piriŋ
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,21,ušum ni₂ ri en gaba gi₄ nu-tuku igi
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,22,lugal ŋeštug₂ daŋal {ŋeš}rab₃ diŋir-re-e-ne
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,23,a₂ mah šum₂-ma
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,24,zid šul-gi-ra
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,25,
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,26,ni₂-te-na-ka šag₄-ge ba-e-ni-pad₃-X
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,27,{d}nin-urta za₃-mi₂
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,28,sa-ŋar-ra-am₃
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,29,šul-gi-re til₃ su₃-ud mu nam-he₂ saŋ-e-eš rig₇-ga
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,30,ŋiš-gi₅-ŋal₂-bi-im
+c.2.4.2.20,A tigi to Ninurta for Šulgi (Šulgi T),,31,ti-gi {d}nin-urta-ka-kam

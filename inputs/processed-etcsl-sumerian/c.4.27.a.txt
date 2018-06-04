@@ -1,0 +1,3 @@
+id_text,text_name,version,l_no,text
+c.4.27.a,A hymn to Ninurta,,1,{d}nin-urta dumu {d}nu-nam-nir
+c.4.27.a,A hymn to Ninurta,,2,en nam-šul-la

@@ -1,0 +1,28 @@
+id_text,text_name,version,l_no,text
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,1,
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,2,
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,3,
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,4,ur-saŋ gal
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,5,lipiš-tuku
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,6,me-lem₄-ma-ni
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,7,saŋ gal
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,8,iri a₂-dam
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,9,piriŋ gu₃ di
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,10,{d}nin-urta-ra
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,11,u₄-ta-u₁₈-lu
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,12,sa-gid₂-da-am₃
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,13,en
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,14,ŋiš-gi₄-ŋal₂ sa-gid₂-da-bi-im
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,15,
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,16,
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,17,ub-šu-unken-na
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,18,nam-{d}en-lil₂
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,19,a₂ kur gal {d}en-lil₂-la₂
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,20,lu₂-ŋu₁₀
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,21,nun {d}iš-me-{d}da-gan
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,22,lu₂ {d}nin-urta
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,23,šita₂ saŋ ₅₀ ki
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,24,{d}iš-me-{d}da-gan
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,25,tun₃ urud sag₉
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,26,{urud}gu-za mah
+c.2.5.4.16,An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P),,27,

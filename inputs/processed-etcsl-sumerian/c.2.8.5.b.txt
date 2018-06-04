@@ -1,0 +1,30 @@
+id_text,text_name,version,l_no,text
+c.2.8.5.b,A hymn to Marduk for a king,,1,{d}marduk he₂-til₃-e
+c.2.8.5.b,A hymn to Marduk for a king,,2,he₂-ri-ib-si-si
+c.2.8.5.b,A hymn to Marduk for a king,,3,nam-til₃-zu {d}marduk he₂-eb₂-be₂
+c.2.8.5.b,A hymn to Marduk for a king,,4,nam-til₃-la-zu he₂-ri-ib-sud-dam
+c.2.8.5.b,A hymn to Marduk for a king,,5,ud du-ru-še₃ he₂-ri-ib-tuku-a
+c.2.8.5.b,A hymn to Marduk for a king,,6,he₂-til₃-la
+c.2.8.5.b,A hymn to Marduk for a king,,7,he₂-silim-ma
+c.2.8.5.b,A hymn to Marduk for a king,,8,gi₁₆-sa-aš he₂-a
+c.2.8.5.b,A hymn to Marduk for a king,,9,ŋiš-šub-ba-zu nam-til₃-la he₂-a
+c.2.8.5.b,A hymn to Marduk for a king,,10,nam-til₃ šag₄ dug₃-ga ha-la-zu he₂-a
+c.2.8.5.b,A hymn to Marduk for a king,,11,ud nu₂-a ma-mu₂-zu he₂-en-sag₉
+c.2.8.5.b,A hymn to Marduk for a king,,12,zig₃-ga-am₃ inim-ŋar-zu he₂-en-sag₉
+c.2.8.5.b,A hymn to Marduk for a king,,13,ki ŋiri₃ gub-ba-zu silim-ma he₂-ni-ib₂-gen₆
+c.2.8.5.b,A hymn to Marduk for a king,,14,til₃-la lugal-ŋu₁₀ igi an-ne₂ a-a diŋir-re-e-ne-ke₄ sag₉-ga
+c.2.8.5.b,A hymn to Marduk for a king,,15,lugal-zu kalam-ma he₂-ri-ib-il₂-e
+c.2.8.5.b,A hymn to Marduk for a king,,16,{ŋeš}gu-za-zu su₃-u₄-ra₂-še₃
+c.2.8.5.b,A hymn to Marduk for a king,,17,gi₁₆-sa-aš he₂-a
+c.2.8.5.b,A hymn to Marduk for a king,,18,ŋiš-šub-ba-zu nam-til₃-la he₂-a
+c.2.8.5.b,A hymn to Marduk for a king,,19,{d}a-a nam-til₃-la a₂-zu
+c.2.8.5.b,A hymn to Marduk for a king,,20,ŋiš DUG.LAGAB a-ra₂ gub-ba ŋiš ŋiš
+c.2.8.5.b,A hymn to Marduk for a king,,21,diŋir u₂ gu₇-am₃ a silim til₃-la ud su₃-ra₂ ŋiš-šub-ba-zu ŋa₂-ŋa₂
+c.2.8.5.b,A hymn to Marduk for a king,,22,ka-ta gub-ba nam-til₃ ha-ba-rig₇
+c.2.8.5.b,A hymn to Marduk for a king,,23,he₂-til₃-la he₂-silim-ma gi₁₆-sa-aš he₂-a
+c.2.8.5.b,A hymn to Marduk for a king,,24,ŋiš-šub-ba-zu nam-til₃-la he₂-a
+c.2.8.5.b,A hymn to Marduk for a king,,25,nam-til₃ šag₄ dug₃-ga ha-la-zu he₂-a
+c.2.8.5.b,A hymn to Marduk for a king,,26,ud nu₂-a ma-mu₂-zu he₂-en-sag₉
+c.2.8.5.b,A hymn to Marduk for a king,,27,zig₃-ga-am₃ inim-ŋar-zu he₂-en-sag₉
+c.2.8.5.b,A hymn to Marduk for a king,,28,ki ŋiri₃ gub-ba-zu silim-ma he₂-ni-ib₂-gen₆
+c.2.8.5.b,A hymn to Marduk for a king,,29,ud du-ru-še₃ he₂-til₃

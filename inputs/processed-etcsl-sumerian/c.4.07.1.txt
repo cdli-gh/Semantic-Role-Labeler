@@ -1,0 +1,27 @@
+id_text,text_name,version,l_no,text
+c.4.07.1,A balbale to Inana (Inana A),,1,ud huš gal me-lem₄
+c.4.07.1,A balbale to Inana (Inana A),,2,{d}inana me₃-a ni₂ me-lem₄ gur₃-ru
+c.4.07.1,A balbale to Inana (Inana A),,A,{d}inana me₃ e-ne di-di
+c.4.07.1,A balbale to Inana (Inana A),,B,{d}inana me₃-a ni₂ me-lem₄ gur₃-ru
+c.4.07.1,A balbale to Inana (Inana A),,3,ki {d}en-lil₂-le bi₂-in-dug₄-ga-še₃
+c.4.07.1,A balbale to Inana (Inana A),,4,su piriŋ sa piriŋ-ŋa₂ ši-im-ma-zi-zi-de₃-en
+c.4.07.1,A balbale to Inana (Inana A),,5,sig nim-ma-ke₄ u₂-gin₇
+c.4.07.1,A balbale to Inana (Inana A),,6,{d}iškur-gin₇ mah dib i₃-ŠID
+c.4.07.1,A balbale to Inana (Inana A),,7,ur-saŋ gal-gal gu₂-tuku-bi-gin₇
+c.4.07.1,A balbale to Inana (Inana A),,8,giri₁₇-bi ki
+c.4.07.1,A balbale to Inana (Inana A),,9,ur-saŋ gal lugal nin-e-ne
+c.4.07.1,A balbale to Inana (Inana A),,10,eš₃ keš₃{ki}-e ki ha-ra-ab-gi₄-gi₄
+c.4.07.1,A balbale to Inana (Inana A),,11,giri₁₇-bi ki-še₃
+c.4.07.1,A balbale to Inana (Inana A),,12,nin-ŋu₁₀ abzu-ta igi ša-mu-ni-in-ŋar
+c.4.07.1,A balbale to Inana (Inana A),,13,an-ne₂ saŋ-bi ŋiri₃ ki ša-mu-ra-ab-dug₄
+c.4.07.1,A balbale to Inana (Inana A),,14,an lugal-da me ba-a-me-en
+c.4.07.1,A balbale to Inana (Inana A),,15,{d}en-lil₂-gin₇ zag-ge₄ si-a-me-en
+c.4.07.1,A balbale to Inana (Inana A),,16,ka-aš mah unken-na ša-mu-un-bar-re-en
+c.4.07.1,A balbale to Inana (Inana A),,17,ŋiš-nu₁₁-gin₇ an-ta šag₄ unken-na-ka
+c.4.07.1,A balbale to Inana (Inana A),,18,zid-du ša-mu-un-ni-DU erim₂-du ša-mu-ni-dab₅
+c.4.07.1,A balbale to Inana (Inana A),,19,zid-du e₂-gal-la {d}utu nam-mi-DU
+c.4.07.1,A balbale to Inana (Inana A),,20,dug₄-ga ši-im-ma-ni-ib-gi₄-gi₄-in
+c.4.07.1,A balbale to Inana (Inana A),,21,lugal-ra uŋ₃
+c.4.07.1,A balbale to Inana (Inana A),,22,igi-zu huš-am₃ saŋ-ki-zu dugud-dam
+c.4.07.1,A balbale to Inana (Inana A),,23,{d}en-lil₂-le za-a-ra mu-ra-an-šum₂
+c.4.07.1,A balbale to Inana (Inana A),,24,bal-bal-e {d}inana-kam

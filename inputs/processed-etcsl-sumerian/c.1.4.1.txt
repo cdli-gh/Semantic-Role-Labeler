@@ -1,0 +1,434 @@
+id_text,text_name,version,l_no,text
+c.1.4.1,Inana's descent to the nether world,,1,an gal-ta ki gal-še₃ ŋeštug₂-ga-ni na-an-gub
+c.1.4.1,Inana's descent to the nether world,,2,diŋir an gal-ta ki gal-še₃ ŋeštug₂-ga-ni na-an-gub
+c.1.4.1,Inana's descent to the nether world,,3,{d}inana an gal-ta ki gal-še₃ ŋeštug₂-ga-ni na-an-gub
+c.1.4.1,Inana's descent to the nether world,,4,nin-ŋu₁₀ an mu-un-šub ki mu-un-šub kur-ra ba-e-a-ed₃
+c.1.4.1,Inana's descent to the nether world,,5,{d}inana an mu-un-šub ki mu-un-šub kur-ra ba-e-a-ed₃
+c.1.4.1,Inana's descent to the nether world,,6,nam-en mu-un-šub nam-lagar mu-un-šub kur-ra ba-e-a-ed₃
+c.1.4.1,Inana's descent to the nether world,,7,unug{ki}-ga e₂-an-na mu-un-šub kur-ra ba-e-a-ed₃
+c.1.4.1,Inana's descent to the nether world,,8,bad₃-tibira{ki}-a e₂-muš₃-kalam-ma mu-un-šub kur-ra ba-e-a-ed₃
+c.1.4.1,Inana's descent to the nether world,,9,zabalam{ki}-a gi-gun₄{ki}-na mu-un-šub kur-ra ba-e-a-ed₃
+c.1.4.1,Inana's descent to the nether world,,10,adab{ki}-a e₂-šar-ra mu-un-šub kur-ra ba-e-a-ed₃
+c.1.4.1,Inana's descent to the nether world,,11,nibru{ki}-a barag-dur₂-ŋar-ra mu-un-šub kur-ra ba-e-a-ed₃
+c.1.4.1,Inana's descent to the nether world,,12,kiš{ki}-a hur-saŋ-kalam-ma mu-un-šub kur-ra ba-e-a-ed₃
+c.1.4.1,Inana's descent to the nether world,,13,a-ga-de₃{ki}-a e₂-ul-maš{ki} mu-un-šub kur-a ba-e-a-ed₃
+c.1.4.1,Inana's descent to the nether world,,13A,umma{ki}-a ib-gal mu-un-šub kur-ra ba-e-a-ed₃
+c.1.4.1,Inana's descent to the nether world,,13B,urim₂{ki}-ma e₂-dilmun-na mu-un-šub kur-ra ba-e-a-ed₃
+c.1.4.1,Inana's descent to the nether world,,13C,kisiga{ki}-a amaš-e₂-kug mu-un-šub kur-ra ba-e-a-ed₃
+c.1.4.1,Inana's descent to the nether world,,13D,ŋir₂-su{ki}-a e₂-eš₂-dam-kug mu-un-šub kur-ra ba-e-a-ed₃
+c.1.4.1,Inana's descent to the nether world,,13E,i₃-si-in-na{ki} e₂-šeg₁₂-me-še₃-du₇ mu-un-šub kur-ra ba-e-a-ed₃
+c.1.4.1,Inana's descent to the nether world,,13F,akšak{ki}-a an-za-gar₃ mu-un-šub kur-ra ba-e-a-ed₃
+c.1.4.1,Inana's descent to the nether world,,13G,šuruppag{ki}-e niŋin₃-ŋar-kug mu-un-šub kur-ra ba-e-a-ed₃
+c.1.4.1,Inana's descent to the nether world,,13H,ka-zal-lu{ki} e₂-šag₄-hul₂-la mu-un-šub kur-ra ba-e-a-ed₃
+c.1.4.1,Inana's descent to the nether world,,14,me ₇-bi zag mu-ni-in-keše₂
+c.1.4.1,Inana's descent to the nether world,,15,me mu-un-ur₄-ur₄ šu-ni-še₃ mu-un-la₂
+c.1.4.1,Inana's descent to the nether world,,16,me dug₃ ŋiri₃ gub-ba i-im-ŋen
+c.1.4.1,Inana's descent to the nether world,,17,tug₂-šu-gur-ra men edin-na saŋ-ŋa₂-na mu-un-ŋal₂
+c.1.4.1,Inana's descent to the nether world,,18,hi-li saŋ-ki-na šu ba-ni-in-ti
+c.1.4.1,Inana's descent to the nether world,,19,{na₄}za-gin₃ di₄-di₄-la₂ gu₂-na ba-an-la₂
+c.1.4.1,Inana's descent to the nether world,,20,na₄-nunuz tab-ba gaba-na ba-ni-in-si
+c.1.4.1,Inana's descent to the nether world,,21,{tug₂}pala₃ tug₂ nam-nin-a bar-ra-na ba-an-dul
+c.1.4.1,Inana's descent to the nether world,,22,šembizid lu₂ he₂-em-du he₂-em-du igi-na ba-ni-in-ŋar
+c.1.4.1,Inana's descent to the nether world,,23,tu-di-da lu₂ ŋa₂-nu ŋa₂-nu gaba-na ba-an-gid₂
+c.1.4.1,Inana's descent to the nether world,,24,har kug-sig₁₇ šu-na ba-an-du₈
+c.1.4.1,Inana's descent to the nether world,,25,gi-diš-nindan eš₂-gana₂ za-gin₃ šu ba-ni-in-du₈
+c.1.4.1,Inana's descent to the nether world,,26,{d}inana kur-še₃ i-im-ŋen
+c.1.4.1,Inana's descent to the nether world,,27,sukkal-a-ni {d}ga-ša-an-šubur-ra eŋer-a-na i-im-ŋen
+c.1.4.1,Inana's descent to the nether world,,28,kug {d}inana-ke₄ {d}nin-šubur-ra gu₃ mu-na-de₂-e
+c.1.4.1,Inana's descent to the nether world,,29,ŋa₂-nu sukkal zid e₂-an-na-ŋu₁₀
+c.1.4.1,Inana's descent to the nether world,,30,sukkal e-ne-eŋ₃ sag₉-sag₉-ga-ŋu₁₀
+c.1.4.1,Inana's descent to the nether world,,31,ra-gaba e-ne-eŋ₃ ge-en-gen₆-na-ŋu₁₀
+c.1.4.1,Inana's descent to the nether world,,32,ud-da kur-še₃ ed₃-de₃-en
+c.1.4.1,Inana's descent to the nether world,,33,ud-da kur-še₃ ŋen-na-ŋu₁₀-ne
+c.1.4.1,Inana's descent to the nether world,,34,er₂ du₆-du₆-dam mar-mar-ma-ni-ib
+c.1.4.1,Inana's descent to the nether world,,35,šem₃ gu₂-en-na du₁₂-du₁₂-a-ma-ni-ib
+c.1.4.1,Inana's descent to the nether world,,36,e₂ diŋir-re-e-ne niŋin₂-niŋin₂-na-ma-ni-ib
+c.1.4.1,Inana's descent to the nether world,,37,i-bi₂-zu hur-ma-ab giri₁₇-zu hur-ma-ab
+c.1.4.1,Inana's descent to the nether world,,37A,ŋeštug₂ ki u₆ di-zu hur-ma-ab
+c.1.4.1,Inana's descent to the nether world,,38,ki mu-lu-da nu-di haš₄-gal-zu hur-ma-ab
+c.1.4.1,Inana's descent to the nether world,,39,mu-lu nu-tuku-gin₇ tug₂ dili-a mur₁₀-ma-ab
+c.1.4.1,Inana's descent to the nether world,,40,e₂-kur-re e₂ {d}mu-ul-lil₂-la₂-še₃ me-ri-zu dili gub-mu-un
+c.1.4.1,Inana's descent to the nether world,,41,e₂-kur-re e₂ {d}mu-ul-lil₂-la₂-še₃ ku₄-ku₄-da-zu-ne
+c.1.4.1,Inana's descent to the nether world,,42,i-bi₂ {d}mu-ul-lil₂-la₂-še₃ er₂ šeš₂-a
+c.1.4.1,Inana's descent to the nether world,,43,a-a {d}mu-ul-lil₂ du₅-mu-zu mu-lu kur-ra nam-ba-da-an-gam-e
+c.1.4.1,Inana's descent to the nether world,,44,kug sag₉-ga-zu sahar kur-ra-ka nam-ba-da-ab-šar₂-re
+c.1.4.1,Inana's descent to the nether world,,45,za-gin₃ sag₉-ga-zu za zadim-ma-ka nam-ba-da-an-si-il-si-il
+c.1.4.1,Inana's descent to the nether world,,46,{ŋeš}taškarin-zu ŋiš nagar-ra-ka nam-ba-an-dar-dar-e
+c.1.4.1,Inana's descent to the nether world,,47,ki-sikil {d}ga-ša-an-na kur-ra nam-ba-da-an-gam-e
+c.1.4.1,Inana's descent to the nether world,,48,ud-da {d}mu-ul-lil₂ e-ne-eŋ₃-ba nu-ri-gub urim₂{ki}-še₃ ŋen-na
+c.1.4.1,Inana's descent to the nether world,,49,urim₂{ki} e₂-mud-kur-ra-ka
+c.1.4.1,Inana's descent to the nether world,,50,e₂-kiš-nu-ŋal₂ {d}nanna-še₃ ku₄-ku₄-da-zu-ne
+c.1.4.1,Inana's descent to the nether world,,51,i-bi₂ {d}nanna-še₃ er₂ šeš₂-a
+c.1.4.1,Inana's descent to the nether world,,52,a-a {d}nanna du₅-mu-zu mu-lu kur-ra nam-ba-da-an-gam-e
+c.1.4.1,Inana's descent to the nether world,,53,kug sag₉-ga-zu sahar kur-ra-ka nam-ba-da-ab-šar₂-re
+c.1.4.1,Inana's descent to the nether world,,54,za-gin₃ sag₉-ga-zu za zadim-ma-ka nam-ba-da-an-si-il-si-il
+c.1.4.1,Inana's descent to the nether world,,55,{ŋeš}taškarin-zu ŋiš nam-nagar-ra-ka nam-ba-da-an-dar-dar-re
+c.1.4.1,Inana's descent to the nether world,,56,ki-sikil {d}ga-ša-an-na kur-ra nam-ba-da-an-gam-e
+c.1.4.1,Inana's descent to the nether world,,57,ud-da {d}nanna e-ne-eŋ₃-ba nu-ri-gub uru₂-ze₂-eb{ki}-še₃ ŋen-na
+c.1.4.1,Inana's descent to the nether world,,58,uru₂-ze₂-eb{ki} e₂ {d}am-an-ki-ka₃-še₃ ku₄-ku₄-da-zu-ne
+c.1.4.1,Inana's descent to the nether world,,59,i-bi₂ {d}am-an-ki-ka₃-še₃ er₂ šeš₂-am₃
+c.1.4.1,Inana's descent to the nether world,,60,a-a {d}am-an-ki du₅-mu-zu mu-lu kur-ra nam-ba-da-an-gam-e
+c.1.4.1,Inana's descent to the nether world,,61,kug sag₉-ga-zu sahar kur-ra-ka nam-ba-da-ab-šar₂-re
+c.1.4.1,Inana's descent to the nether world,,62,za-gin₃ sag₉-ga-zu za zadim-ma-ka nam-ba-da-an-si-il-si-il
+c.1.4.1,Inana's descent to the nether world,,63,{ŋeš}taškarin-zu ŋiš nagar-ra-ka nam-ba-da-an-dar-dar-re
+c.1.4.1,Inana's descent to the nether world,,64,ki-sikil {d}ga-ša-an-na kur-ra nam-ba-da-an-gam-e
+c.1.4.1,Inana's descent to the nether world,,65,a-a {d}am-an-ki u₃-mu-un mu-uš-tug₂ da-ma-al-la-ke₄
+c.1.4.1,Inana's descent to the nether world,,66,u₂ nam-til₃-la mu-un-zu a nam-til₃-la mu-un-zu
+c.1.4.1,Inana's descent to the nether world,,67,e-ne ma-ra hu-mu-un-til₃-le-en
+c.1.4.1,Inana's descent to the nether world,,68,{d}inana kur-še₃ ŋen-na-ni-ta
+c.1.4.1,Inana's descent to the nether world,,69,sukkal-a-ni {d}nin-šubur-ra-ke₄ eŋer-a-ni i₃-im-ŋen
+c.1.4.1,Inana's descent to the nether world,,70,sukkal-a-ni {d}nin-šubur-ra gu₃ mu-na-de₂-e
+c.1.4.1,Inana's descent to the nether world,,71,ŋen-na {d}ga-ša-an-šubur-ŋu₁₀ saŋ keše₂ he₂-ak
+c.1.4.1,Inana's descent to the nether world,,72,e-ne-eŋ₃ a-ra-dug₄-ga-ŋu₁₀ gu₂-zu la-ba-ši-šub
+c.1.4.1,Inana's descent to the nether world,,73,{d}inana e₂-gal ganzer-še₃ um-ma-te
+c.1.4.1,Inana's descent to the nether world,,74,{ŋeš}ig kur-ra-ka šu hul ba-an-us₂
+c.1.4.1,Inana's descent to the nether world,,75,abula kur-ra-ka gu₃ hul ba-an-de₂
+c.1.4.1,Inana's descent to the nether world,,76,e₂ ŋal₂-u₃ i₃-du₈ e₂ ŋal₂-u₃
+c.1.4.1,Inana's descent to the nether world,,77,e₂ ŋal₂-u₃ {d}ne-ti e₂ ŋal₂-u₃ dili-ŋu₁₀-še₃ ga-kur₉
+c.1.4.1,Inana's descent to the nether world,,78,{d}ne-ti i₃-du₈ gal kur-ra-ke₄
+c.1.4.1,Inana's descent to the nether world,,79,kug {d}inana inim mu-na-ni-ib-gi₄-gi₄
+c.1.4.1,Inana's descent to the nether world,,80,a-ba-me-en za-e
+c.1.4.1,Inana's descent to the nether world,,81,me-e {d}ga-ša-an-na ki {d}utu e₃-a-aš
+c.1.4.1,Inana's descent to the nether world,,82,tukum-bi za-e {d}inana ki {d}utu e₃-a-aš
+c.1.4.1,Inana's descent to the nether world,,83,a-na-am₃ ba-du-un kur nu-gi₄-še₃
+c.1.4.1,Inana's descent to the nether world,,84,har-ra-an lu₂ du-bi nu-gi₄-gi₄-de₃ šag₄-zu a-gin₇ tum₂-mu-un
+c.1.4.1,Inana's descent to the nether world,,85,kug {d}inana-ke₄ mu-na-ni-ib₂-gi₄-gi₄
+c.1.4.1,Inana's descent to the nether world,,86,nin₉ gal-ŋu₁₀ kug {d}ga-ša-an-ki-gal-la-ke₄
+c.1.4.1,Inana's descent to the nether world,,87,mu dam-a-ni u₃-mu-un gud-gal-an-na ba-an-ug₅-ga
+c.1.4.1,Inana's descent to the nether world,,88,ki-sig₁₀-ga-na i-bi₂ du₈-u₃-de₃
+c.1.4.1,Inana's descent to the nether world,,89,kaš ki-sig₁₀-ga-na gu-ul ba-ni-in-de₂ ur₅ he₂-na-nam-ma
+c.1.4.1,Inana's descent to the nether world,,90,{d}ne-ti i₃-du₈ gal kur-ra-ke₄
+c.1.4.1,Inana's descent to the nether world,,91,kug {d}inana-ra mu-na-ni-ib-gi₄-gi₄
+c.1.4.1,Inana's descent to the nether world,,92,gub-ba-a {d}inana nin-ŋa₂ ga-an-na-ab-dug₄
+c.1.4.1,Inana's descent to the nether world,,93,nin-ŋu₁₀ {d}ereš-ki-gal-la-ra ga-an-na-dug₄ inim-zu ga-an-na-ab-dug₄
+c.1.4.1,Inana's descent to the nether world,,94,{d}ne-ti i₃-du₈ gal kur-ra-ke₄
+c.1.4.1,Inana's descent to the nether world,,95,nin-a-ni {d}ereš-ki-gal-la-ra
+c.1.4.1,Inana's descent to the nether world,,96,e₂-a-ni-še₃ ba-ši-in-kur₉ gu₃ mu-na-de₂
+c.1.4.1,Inana's descent to the nether world,,97,nin-ŋu₁₀ ki-sikil ₁-am₃
+c.1.4.1,Inana's descent to the nether world,,98,{d}inana nin₉-zu e₂-gal ganzer-še₃ um-ma-te
+c.1.4.1,Inana's descent to the nether world,,99,{ŋeš}ig kur-ra-ka šu hul ba-an-us₂
+c.1.4.1,Inana's descent to the nether world,,100,abula kur-ra-ka gu₃ hul ba-an-de₂
+c.1.4.1,Inana's descent to the nether world,,101,e₂-an-na mu-un-šub kur-ra ba-e-a-ed₃
+c.1.4.1,Inana's descent to the nether world,,102,me ₇-bi zag mu-ni-in-keše₂
+c.1.4.1,Inana's descent to the nether world,,103,me mu-un-ur₄-ur₄ šu-ni-še₃ mu-un-la₂
+c.1.4.1,Inana's descent to the nether world,,104,me dug₃ ŋiri₃ gub-ba i-im-ŋen
+c.1.4.1,Inana's descent to the nether world,,105,tug₂-šu-gur-ra men edin-na saŋ-ŋa₂-na mu-un-ŋal₂
+c.1.4.1,Inana's descent to the nether world,,106,hi-li saŋ-ki-na šu ba-ni-in-ti
+c.1.4.1,Inana's descent to the nether world,,107,{na₄}za-gin₃ di₄-di₄-la₂ gu₂-na i-im-la₂
+c.1.4.1,Inana's descent to the nether world,,108,na₄-nunuz tab-ba gaba-na i-im-si
+c.1.4.1,Inana's descent to the nether world,,109,{tug₂}pala₃ nam-nin-a bar-ra-na i-im-dul
+c.1.4.1,Inana's descent to the nether world,,110,šembizid lu₂ he₂-em-du igi-ni i-im-ŋar
+c.1.4.1,Inana's descent to the nether world,,111,tu-di-da lu₂ ŋa₂-nu ŋa₂-nu gaba-na i-im-gid₂
+c.1.4.1,Inana's descent to the nether world,,112,har kug-sig₁₇ šu-na i-im-la₂
+c.1.4.1,Inana's descent to the nether world,,113,gi-diš-nindan eš₂-gana₂ za-gin₃ šu-na i-im-du₈
+c.1.4.1,Inana's descent to the nether world,,114,ud-ba {d}ereš-ki-gal-la-ke₄ haš₂ bar-bi bi₂-in-ra
+c.1.4.1,Inana's descent to the nether world,,115,nundum zu₂ bi₂-in-gub inim šag₄-še₃ ba-ti
+c.1.4.1,Inana's descent to the nether world,,116,{d}ne-ti i₃-du₈ gal-ni-ir gu₃ mu-na-de₂-e
+c.1.4.1,Inana's descent to the nether world,,117,ŋa₂-nu {d}ne-ti i₃-du₈ gal kur-ra-ŋu₁₀
+c.1.4.1,Inana's descent to the nether world,,118,inim a-ra-dug₄-ga-ŋu₁₀ gu₂-zu la-ba-an-šub-be₂-en
+c.1.4.1,Inana's descent to the nether world,,119,abula kur-ra ₇-bi {ŋeš}si-ŋar-bi he₂-eb-us₂
+c.1.4.1,Inana's descent to the nether world,,120,e₂-gal ganzer dili-bi {ŋeš}ig-bi šu ha-ba-an-us₂
+c.1.4.1,Inana's descent to the nether world,,121,e-ne ku₄-ku₄-da-ni-ta
+c.1.4.1,Inana's descent to the nether world,,122,gam-gam-ma-ni tug₂ zil-zil-la-ni-ta lu₂ ba-an-de₆
+c.1.4.1,Inana's descent to the nether world,,123,{d}ne-ti i₃-du₈ gal kur-ra-ke₄
+c.1.4.1,Inana's descent to the nether world,,124,inim nin-a-na-še₃ saŋ keše₂ ba-ši-in-ak
+c.1.4.1,Inana's descent to the nether world,,125,abula kur-ra ₇-bi {ŋeš}si-ŋar-bi bi₂-ib₂-us₂
+c.1.4.1,Inana's descent to the nether world,,126,e₂-gal ganzer dili-bi {ŋeš}ig-bi šu ba-an-us₂
+c.1.4.1,Inana's descent to the nether world,,127,kug {d}inana-ra gu₃ mu-na-de₂-e
+c.1.4.1,Inana's descent to the nether world,,128,ŋa₂-nu {d}inana kur₉-um-ma-ni
+c.1.4.1,Inana's descent to the nether world,,129,{d}inana ku₄-ku₄-da-ni-ta
+c.1.4.1,Inana's descent to the nether world,,129A,gi-diš-nindan eš₂-gana₂ za-gin₃ šu-na lu₂ ba-da-an-ze₂-er
+c.1.4.1,Inana's descent to the nether world,,129B,abula ₁-kam-ma ku₄-ku₄-da-ni-ta
+c.1.4.1,Inana's descent to the nether world,,130,tug₂-šu-gur-ra men edin-na saŋ-ŋa₂-na lu₂ ba-da-an-ze₂-er
+c.1.4.1,Inana's descent to the nether world,,131,ta-am₃ ne-e
+c.1.4.1,Inana's descent to the nether world,,132,si-a {d}inana me kur-ra-ke₄ šu al-du₇-du₇
+c.1.4.1,Inana's descent to the nether world,,133,{d}inana ŋarza kur-ra-ke₄ ka-zu na-an-ba-e
+c.1.4.1,Inana's descent to the nether world,,134,abula ₂-kam-ma ku₄-ku₄-da-ni-ta
+c.1.4.1,Inana's descent to the nether world,,135,{na₄}za-gin₃ di₄-di₄-la₂ gu₂-na lu₂ ba-da-an-ze₂-er
+c.1.4.1,Inana's descent to the nether world,,136,ta-am₃ ne-e
+c.1.4.1,Inana's descent to the nether world,,137,si-a {d}inana me kur-ra-ke₄ šu al-du₇-du₇
+c.1.4.1,Inana's descent to the nether world,,138,{d}inana ŋarza kur-ra-ke₄ ka-zu na-an-ba-e
+c.1.4.1,Inana's descent to the nether world,,139,abula ₃-kam-ma ku₄-ku₄-da-ni-ta
+c.1.4.1,Inana's descent to the nether world,,140,na₄-nunuz tab-ba gaba-na lu₂ ba-da-an-ze₂-er
+c.1.4.1,Inana's descent to the nether world,,141,ta-am₃ ne-e
+c.1.4.1,Inana's descent to the nether world,,142,si-a {d}inana me kur-ra-ke₄ šu al-du₇-du₇
+c.1.4.1,Inana's descent to the nether world,,143,{d}inana ŋarza kur-ra-ke₄ ka-zu na-an-ba-e
+c.1.4.1,Inana's descent to the nether world,,144,abula ₄-kam-ma ku₄-ku₄-da-ni-ta
+c.1.4.1,Inana's descent to the nether world,,145,tu-di-da lu₂ ŋa₂-nu ŋa₂-nu gaba-na lu₂ ba-da-an-ze₂-er
+c.1.4.1,Inana's descent to the nether world,,146,ta-am₃ ne-e
+c.1.4.1,Inana's descent to the nether world,,147,si-a {d}inana me kur-ra-ke₄ šu al-du₇-du₇
+c.1.4.1,Inana's descent to the nether world,,148,{d}inana ŋarza kur-ra-ke₄ ka-zu na-an-ba-e
+c.1.4.1,Inana's descent to the nether world,,149,abula ₅-kam-ma ku₄-ku₄-da-ni-ta
+c.1.4.1,Inana's descent to the nether world,,150,har kug-sig₁₇ šu-na lu₂ ba-da-an-ze₂-er
+c.1.4.1,Inana's descent to the nether world,,151,ta-am₃ ne-e
+c.1.4.1,Inana's descent to the nether world,,152,si-a {d}inana me kur-ra-ke₄ šu al-du₇-du₇
+c.1.4.1,Inana's descent to the nether world,,153,{d}inana ŋarza kur-ra-ke₄ ka-zu na-an-ba-e
+c.1.4.1,Inana's descent to the nether world,,154,abula ₆-kam-ma ku₄-ku₄-da-ni-ta
+c.1.4.1,Inana's descent to the nether world,,155,gi-diš-nindan eš₂-gana₂ za-gin₃ šu-na lu₂ ba-da-an-ze₂-er
+c.1.4.1,Inana's descent to the nether world,,156,ta-am₃ ne-e
+c.1.4.1,Inana's descent to the nether world,,157,si-a {d}inana me kur-ra-ke₄ šu al-du₇-du₇
+c.1.4.1,Inana's descent to the nether world,,158,{d}inana ŋarza kur-ra-ke₄ ka-zu na-an-ba-e
+c.1.4.1,Inana's descent to the nether world,,159,abula ₇-kam-ma ku₄-ku₄-da-ni-ta
+c.1.4.1,Inana's descent to the nether world,,160,{tug₂}pala₃ tug₂ nam-nin-a bar-ra-na lu₂ ba-da-an-ze₂-er
+c.1.4.1,Inana's descent to the nether world,,161,ta-am₃ ne-e
+c.1.4.1,Inana's descent to the nether world,,162,si-a {d}inana me kur-ra-ke₄ šu al-du₇-du₇
+c.1.4.1,Inana's descent to the nether world,,163,{d}inana ŋarza kur-ra-ke₄ ka-zu na-an-ba-e
+c.1.4.1,Inana's descent to the nether world,,164,gam-gam-ma-ni tug₂ zil-zil-la-ni-ta lu₂ ma-an-de₆
+c.1.4.1,Inana's descent to the nether world,,165,nin₉-a-ni {ŋeš}gu-za-ni-ta im-ma-da-an-zig₃
+c.1.4.1,Inana's descent to the nether world,,166,e-ne {ŋeš}gu-za-ni-ta dur₂ im-mi-in-ŋar
+c.1.4.1,Inana's descent to the nether world,,167,{d}a-nun-na di-kud ₇-bi igi-ni-še₃ di mu-un-da-ku₅-ru-ne
+c.1.4.1,Inana's descent to the nether world,,168,igi mu-ši-in-bar i-bi₂ uš₂-a-kam
+c.1.4.1,Inana's descent to the nether world,,169,inim i-ne-ne inim lipiš gig-ga-am₃
+c.1.4.1,Inana's descent to the nether world,,170,gu₃ i-ne-de₂ gu₃ nam-tag-tag-ga-am₃
+c.1.4.1,Inana's descent to the nether world,,171,munus tur₅-ra uzu niŋ₂ sag₃-ga-še₃ ba-an-kur₉
+c.1.4.1,Inana's descent to the nether world,,172,uzu niŋ₂ sag₃-ga {ŋeš}gag-ta lu₂ ba-da-an-la₂
+c.1.4.1,Inana's descent to the nether world,,173,ud ₃ ŋi₆ ₃-am₃ um-ta-zal-la-ta
+c.1.4.1,Inana's descent to the nether world,,174,sukkal-a-ni {d}nin-šubur-ra-ke₄
+c.1.4.1,Inana's descent to the nether world,,174A,sukkal inim sag₉-sag₉-ga-ni
+c.1.4.1,Inana's descent to the nether world,,174B,ra-gaba inim ge-en-ge-en-na-ni
+c.1.4.1,Inana's descent to the nether world,,175,inim nin-a-na-še₃ ŋeštug₂ ba-ši-in-gub
+c.1.4.1,Inana's descent to the nether world,,176,er₂ du₆-du₆-dam mu-un-na-ŋa₂-ŋa₂
+c.1.4.1,Inana's descent to the nether world,,177,šem₃ gu₂-en-na mu-un-du₁₂-a
+c.1.4.1,Inana's descent to the nether world,,178,e₂ diŋir-re-e-ne-ke₄ mu-un-na-niŋin₂-niŋin₂
+c.1.4.1,Inana's descent to the nether world,,179,igi-ni mu-un-na-hur giri₁₇-ni mu-un-hur
+c.1.4.1,Inana's descent to the nether world,,180,ki lu₂-da nu-di haš₄-gal-a-ni mu-un-na-hur
+c.1.4.1,Inana's descent to the nether world,,181,mu-lu nu-tuku-gin₇ tug₂ dili-a im-ma-an-mur₁₀
+c.1.4.1,Inana's descent to the nether world,,182,e₂-kur e₂ {d}en-lil₂-la₂-še₃ ŋiri₃-ni dili mu-un-gub
+c.1.4.1,Inana's descent to the nether world,,183,e₂-kur e₂ {d}en-lil₂-la₂-še₃ ku₄-ku₄-da-ni-ta
+c.1.4.1,Inana's descent to the nether world,,184,igi {d}en-lil₂-la₂-še₃ er₂ im-ma-še₈-še₈
+c.1.4.1,Inana's descent to the nether world,,185,a-a {d}mu-ul-lil₂ du₅-mu-zu mu-lu kur-ra nam-ba-da-an-gam-e
+c.1.4.1,Inana's descent to the nether world,,186,kug sag₉-ga-zu sahar kur-ra-ka nam-ba-da-ab-šar₂-e
+c.1.4.1,Inana's descent to the nether world,,187,{na₄}za-gin₃ sag₉-ga-zu za zadim-ka nam-ba-da-an-si-il-si-il
+c.1.4.1,Inana's descent to the nether world,,188,{ŋeš}taškarin-zu ŋiš nagar-ra-ka nam-ba-dar-dar-re
+c.1.4.1,Inana's descent to the nether world,,189,ki-sikil {d}ga-ša-an-na kur-ra nam-ba-da-an-gam-e
+c.1.4.1,Inana's descent to the nether world,,190,a-a {d}en-lil₂ lipiš bal-a-ni {d}nin-šubur-ra-ke₄ mu-na-ni-ib-gi₄-gi₄
+c.1.4.1,Inana's descent to the nether world,,191,dumu-ŋu₁₀ an gal al bi₂-in-dug₄ ki gal al bi₂-in-dug₄
+c.1.4.1,Inana's descent to the nether world,,192,{d}inana an gal al bi₂-in-dug₄ ki gal al bi₂-in-dug₄
+c.1.4.1,Inana's descent to the nether world,,193,me kur-ra me al nu-di-da sa₂ bi₂-in-dug₄-ga-bi kur-re he₂-eb-us₂
+c.1.4.1,Inana's descent to the nether world,,194,a-ba-am₃ ki-bi sa₂ in-na-an-dug₄ ed₃-de₃ al mu-ni-in-dug₄
+c.1.4.1,Inana's descent to the nether world,,195,a-a {d}en-lil₂ inim-bi nu-mu-na-gub urim₂{ki}-še₃ ba-ŋen
+c.1.4.1,Inana's descent to the nether world,,196,urim₂{ki} e₂-mud-kur-ra-ka
+c.1.4.1,Inana's descent to the nether world,,197,e₂-kiš-nu-ŋal₂ e₂ {d}nanna-še₃ ku₄-ku₄-da-ni-ta
+c.1.4.1,Inana's descent to the nether world,,198,igi {d}nanna-še₃ er₂ im-ma-še₈-še₈
+c.1.4.1,Inana's descent to the nether world,,199,a-a {d}nanna du₅-mu-zu mu-lu kur-ra nam-ba-da-an-gam-e
+c.1.4.1,Inana's descent to the nether world,,200,kug sag₉-ga-zu sahar kur-ra-ka nam-ba-da-ab-šar₂-re
+c.1.4.1,Inana's descent to the nether world,,201,{na₄}za-gin₃ sag₉-ga-zu za zadim-ka nam-ba-da-an-si-il-si-il-i
+c.1.4.1,Inana's descent to the nether world,,202,{ŋeš}taškarin-zu ŋiš nagar-ra-ka nam-ba-da-an-dar-dar-re
+c.1.4.1,Inana's descent to the nether world,,203,ki-sikil {d}ga-ša-an-na kur-ra nam-ba-da-an-gam-e
+c.1.4.1,Inana's descent to the nether world,,204,a-a {d}nanna lipiš bal-a-ni {d}nin-šubur-ra-ke₄ mu-na-ni-ib-gi₄-gi₄
+c.1.4.1,Inana's descent to the nether world,,205,dumu-ŋu₁₀ an gal al bi₂-in-dug₄ ki gal al bi₂-in-dug₄
+c.1.4.1,Inana's descent to the nether world,,206,{d}inana an gal al bi₂-in-dug₄ ki gal al bi₂-in-dug₄
+c.1.4.1,Inana's descent to the nether world,,207,me kur-ra me al nu-di-da sa₂ bi₂-in-dug₄-ga-bi kur-re he₂-eb-us₂
+c.1.4.1,Inana's descent to the nether world,,208,a-ba-am₃ ki-bi sa₂ in-na-an-dug₄ ed₃-de₃ al mu-ni-ib-dug₄
+c.1.4.1,Inana's descent to the nether world,,209,a-a {d}nanna inim-bi nu-mu-na-gub uru₂-ze₂-eb{ki}-še₃ ba-ŋen
+c.1.4.1,Inana's descent to the nether world,,210,uru₂-ze₂-eb{ki} e₂ {d}en-ki-ka₃-še₃ ku₄-ku₄-da-ni-ta
+c.1.4.1,Inana's descent to the nether world,,211,igi {d}en-ki-ka₃-še₃ er₂ im-ma-še₈-še₈
+c.1.4.1,Inana's descent to the nether world,,212,a-a {d}en-ki du₅-mu-zu mu-lu kur-ra nam-ba-da-an-gam-e
+c.1.4.1,Inana's descent to the nether world,,213,kug sag₉-ga-zu sahar kur-ra-ka nam-ba-da-ab-šar₂-re
+c.1.4.1,Inana's descent to the nether world,,214,{na₄}za-gin₃ sag₉-ga-zu za zadim-ka nam-ba-da-an-si-il-si-il-i
+c.1.4.1,Inana's descent to the nether world,,215,{ŋeš}taškarin-zu ŋiš nagar-ra-ka nam-ba-an-dar-dar-re
+c.1.4.1,Inana's descent to the nether world,,216,ki-sikil {d}ga-ša-an-na kur-ra nam-ba-da-an-gam-e
+c.1.4.1,Inana's descent to the nether world,,217,a-a {d}en-ki {d}nin-šubur-ra-ke₄ mu-un-na-ni-ib-gi₄-gi₄
+c.1.4.1,Inana's descent to the nether world,,218,dumu-ŋu₁₀ a-na bi₂-in-ak ŋe₂₆-e mu-un-kuš₂-u
+c.1.4.1,Inana's descent to the nether world,,219,{d}inana a-na bi₂-in-ak ŋe₂₆-e mu-un-kuš₂-u
+c.1.4.1,Inana's descent to the nether world,,220,nin kur-kur-ra-ke₄ a-na bi₂-in-ak ŋe₂₆-e mu-un-kuš₂-u
+c.1.4.1,Inana's descent to the nether world,,221,nu-u₈-gig an-na-ke₄ a-na bi₂-in-ak ŋe₂₆-e mu-un-kuš₂-u
+c.1.4.1,Inana's descent to the nether world,,221A,a-a {d}en-ki inim-bi ba-e-de₃-gub
+c.1.4.1,Inana's descent to the nether world,,222,umbin-si-ni mu-dur₇ ba-ra-an-de₆ kur-ŋar-ra-aš ba-an-dim₂
+c.1.4.1,Inana's descent to the nether world,,223,umbin-si ₂-kam-ma mu-dur₇ ba-ra-an-de₆ gala-tur-ra-aš ba-an-dim₂
+c.1.4.1,Inana's descent to the nether world,,224,kur-ŋar-ra u₂ nam-til₃-la ba-an-šum₂
+c.1.4.1,Inana's descent to the nether world,,225,gala-tur-ra a nam-til₃-la ba-an-šum₂
+c.1.4.1,Inana's descent to the nether world,,226,a-a {d}en-ki gala-tur-ra kur-ŋar-ra gu₃ mu-na-de₂-e
+c.1.4.1,Inana's descent to the nether world,,227,ŋen-na-an-ze₂-en ŋiri₃ kur-še₃ nu₂-ba-an-ze₂-en
+c.1.4.1,Inana's descent to the nether world,,228,{ŋeš}ig nim-gin₇ dal-dal-e-de₃-en-ze₂-en
+c.1.4.1,Inana's descent to the nether world,,229,za-ra lil₂-gin₇ gur-gur-re-de₃-en-ze₂-en
+c.1.4.1,Inana's descent to the nether world,,230,ama gan-e nam dumu-ne-ne-še₃
+c.1.4.1,Inana's descent to the nether world,,231,{d}ereš-ki-gal-la-ke₄ i-nu₂-nu₂-ra-am₃
+c.1.4.1,Inana's descent to the nether world,,232,mur kug-ga-na gada nu-um-bur₂
+c.1.4.1,Inana's descent to the nether world,,233,gaba-ni bur šaŋan-gin₇ nu-um-gid₂
+c.1.4.1,Inana's descent to the nether world,,234,šu-si-ni {urud}lub-bi-gin₇ am₃-da-ŋal₂
+c.1.4.1,Inana's descent to the nether world,,235,siki-ni ga-raš{sar}-gin₇ saŋ-ŋa₂-na mu-un-ur₄-ur₄-re
+c.1.4.1,Inana's descent to the nether world,,236,u-u₈-a šag₄-ŋu₁₀ dug₄-ga-ni
+c.1.4.1,Inana's descent to the nether world,,237,kuš₂-u₃-me-en nin-me a šag₄-zu dug₄-ga-zu-ne-ne
+c.1.4.1,Inana's descent to the nether world,,238,u-u₈-a bar-ŋu₁₀ dug₄-ga-ni
+c.1.4.1,Inana's descent to the nether world,,239,kuš₂-u₃-me-en nin-me a bar-zu dug₄-ga-zu-ne-ne
+c.1.4.1,Inana's descent to the nether world,,240,a-ba-am₃ za-e-me-en-ze₂-en
+c.1.4.1,Inana's descent to the nether world,,241,šag₄-ŋu₁₀-ta šag₄-zu-še₃ bar-ŋu₁₀-ta bar-zu-še₃ dug₄-ga-na-ab-ze₂-en
+c.1.4.1,Inana's descent to the nether world,,242,diŋir he₂-me-en-ze₂-en inim ga-mu-ra-an-dug₄
+c.1.4.1,Inana's descent to the nether world,,243,lu₂-ulu₃ he₂-me-en-ze₂-en nam-zu-ne he₂-eb-tar-re
+c.1.4.1,Inana's descent to the nether world,,244,zi an-na zi ki-a pad₃-de₃-ne-ze₂-na-am₃
+c.1.4.1,Inana's descent to the nether world,,245,ed₃-X-ab-ze₂-en
+c.1.4.1,Inana's descent to the nether world,,246,a id₂-bi ma-ra-ba-e-ne šu nam-ba-gid₂-i-en-ze₂-en
+c.1.4.1,Inana's descent to the nether world,,247,a-šag₄ še-ba ma-ra-ba-e-ne šu nam-ba-gid₂-i-en-ze₂-en
+c.1.4.1,Inana's descent to the nether world,,248,uzu niŋ₂ sag₃-ga {ŋeš}gag-ta la₂ šum₂-me-ab dug₄-ga-na-ab-ze₂-en
+c.1.4.1,Inana's descent to the nether world,,249,uzu niŋ₂ sag₃-ga ga-ša-an-zu-ne-ne
+c.1.4.1,Inana's descent to the nether world,,250,niŋ₂ lugal-me he₂-a niŋ₂ nin-me he₂-a šum₂-ma-ze₂-en dug₄-ga-na-ab-ze₂-en
+c.1.4.1,Inana's descent to the nether world,,251,uzu niŋ₂ sag₃-ga {ŋeš}gag-ta la₂-a im-ma-da-ab-šum₂-mu-ze₂-en
+c.1.4.1,Inana's descent to the nether world,,252,₁-am₃ u₂ nam-til₃-la ₁-am₃ a nam-til₃-la ugu-na šub-bu-de₃-en-ze₂-en
+c.1.4.1,Inana's descent to the nether world,,253,{d}inana ha-ba-gub
+c.1.4.1,Inana's descent to the nether world,,254,gala-tur kur-ŋar-ra inim {d}en-ki-ka₃-še₃ saŋ keše₂ ba-ši-in-ak-eš
+c.1.4.1,Inana's descent to the nether world,,255,{ŋeš}ig nim-gin₇ mu-un-dal-dal
+c.1.4.1,Inana's descent to the nether world,,256,za-ra lil₂-gin₇ mu-un-gur-gur
+c.1.4.1,Inana's descent to the nether world,,257,ama gan-e nam dumu-ne-ne-še₃
+c.1.4.1,Inana's descent to the nether world,,258,{d}ereš-ki-gal-la-ke₄ i-nu₂-nu₂-ra-am₃
+c.1.4.1,Inana's descent to the nether world,,259,mur kug-ga-na gada nu-un-bur₂
+c.1.4.1,Inana's descent to the nether world,,260,gaba-ni bur šaŋan-na nu-un-gid₂
+c.1.4.1,Inana's descent to the nether world,,261,šu-si-ni {urud}lub-bi-gin₇ an-da-ŋal₂
+c.1.4.1,Inana's descent to the nether world,,262,siki-ni ga-raš{sar}-gin₇ saŋ-ŋa₂-na mu-un-ur₄-ur₄
+c.1.4.1,Inana's descent to the nether world,,263,u₃-u₈-a šag₄-ŋu₁₀ dug₄-ga-ni
+c.1.4.1,Inana's descent to the nether world,,264,kuš₂-u₃-me-en nin-me a šag₄-zu in-na-ne-eš
+c.1.4.1,Inana's descent to the nether world,,265,u₃-u₈-a bar-ŋu₁₀ dug₄-ga-ni
+c.1.4.1,Inana's descent to the nether world,,266,kuš₂-u₃-me-en nin-me a bar-zu in-na-ne-eš
+c.1.4.1,Inana's descent to the nether world,,267,a-ba-am₃ za-e-me-en-ze₂-en
+c.1.4.1,Inana's descent to the nether world,,268,šag₄-ŋu₁₀-ta šag₄-zu-še₃ bar-ŋu₁₀-ta bar-zu-še₃ ba-e-de₃-en-ze₂-en
+c.1.4.1,Inana's descent to the nether world,,269,diŋir he₂-me-en-ze₂-en inim ga-mu-ra-an-dug₄
+c.1.4.1,Inana's descent to the nether world,,270,lu₂-ulu₃ he₂-me-en-ze₂-en nam-zu-ne ga-mu-ri-ib-tar
+c.1.4.1,Inana's descent to the nether world,,271,zi an-na zi ki-a mu-ni-in-pad₃-de₃-eš
+c.1.4.1,Inana's descent to the nether world,,272,X-ed₃-de₃-de₃-eš
+c.1.4.1,Inana's descent to the nether world,,273,id₂ a-ba mu-ne-ba-e šu nu-um-ma-gid₂-de₃
+c.1.4.1,Inana's descent to the nether world,,274,a-šag₄ še-ba mu-ne-ba-e šu nu-um-ma-gid₂-de₃
+c.1.4.1,Inana's descent to the nether world,,275,uzu niŋ₂ sag₃-ga {ŋeš}gag-ta la₂ šum₂-me-eb in-na-an-ne-eš
+c.1.4.1,Inana's descent to the nether world,,276,kug {d}ereš-ki-gal-la-ke₄ gala-tur kur-ŋar-ra mu-na-ni-ib-gi₄-gi₄
+c.1.4.1,Inana's descent to the nether world,,277,uzu niŋ₂ sag₃-ga niŋ₂ ga-ša-an-zu-ne-ne-kam
+c.1.4.1,Inana's descent to the nether world,,278,niŋ₂ lugal-me niŋ₂ nin-me he₂-a šum₂-me-eb in-na-an-ne-eš
+c.1.4.1,Inana's descent to the nether world,,279,uzu niŋ₂ sag₃-ga {ŋeš}gag-ta la₂ im-me-ne-šum₂-uš
+c.1.4.1,Inana's descent to the nether world,,280,₁-am₃ u₂ nam-til₃-la ₁-am₃ a nam-til₃-la ugu-a bi₂-in-šub-bu-uš
+c.1.4.1,Inana's descent to the nether world,,281,{d}inana ba-gub
+c.1.4.1,Inana's descent to the nether world,,282,{d}ereš-ki-gal-la gala-tur kur-ŋar-ra gu₃ mu-na-de₂-e
+c.1.4.1,Inana's descent to the nether world,,283,tum₂-mu-un-ze₂-en ga-ša-an-zu-ne-ne ba-dab₅
+c.1.4.1,Inana's descent to the nether world,,284,{d}inana inim {d}en-ki-ka₃-ta kur-ta ed₃
+c.1.4.1,Inana's descent to the nether world,,285,{d}inana kur-ta ed₃-da-ni
+c.1.4.1,Inana's descent to the nether world,,286,{d}a-nun-na-ke₄-e-ne ba-ab-ha-za-aš
+c.1.4.1,Inana's descent to the nether world,,287,a-ba-am₃ lu₂ kur-ta im-ta-ed₃-de₃ kur-ta silim-ma-ni bi₂-in-ed₃-de₃
+c.1.4.1,Inana's descent to the nether world,,288,ud-da {d}inana kur-ta ba-ed₃-de₃
+c.1.4.1,Inana's descent to the nether world,,289,saŋ-dili saŋ-ŋa₂-na ha-ba-ab-šum₂-mu
+c.1.4.1,Inana's descent to the nether world,,290,{d}inana kur-ta ba-ed₃-de₃
+c.1.4.1,Inana's descent to the nether world,,291,lu₂ igi-na sukkal nu-me-a {ŋeš}ŋidru šu bi₂-in-du₈
+c.1.4.1,Inana's descent to the nether world,,292,bar-ra-na ra-gaba nu-me-a {ŋeš}tukul ur₂-ra bi₂-in-la₂
+c.1.4.1,Inana's descent to the nether world,,293,gal₅-la₂ tur-tur gi-šukur-gin₇
+c.1.4.1,Inana's descent to the nether world,,294,gal₅-la₂ gal-gal gi dub-ba-an-na-gin₇ zag-ga-na ba-an-dab₅-be-eš
+c.1.4.1,Inana's descent to the nether world,,295,lu₂ e-ne-ra in-ši-re₇-eš-am₃
+c.1.4.1,Inana's descent to the nether world,,296,lu₂ {d}inana-ra in-ši-re₇-eš-am₃
+c.1.4.1,Inana's descent to the nether world,,297,u₂ nu-zu-me-eš a nu-zu-me-eš
+c.1.4.1,Inana's descent to the nether world,,298,zid₂ dub-dub-ba nu-gu₇-me-eš
+c.1.4.1,Inana's descent to the nether world,,299,a bal-bal-a nu-na₈-na₈-me-eš
+c.1.4.1,Inana's descent to the nether world,,300,kadra niŋ₂ dug₃-ge šu nu-gid₂-me-eš
+c.1.4.1,Inana's descent to the nether world,,301,ur₂ dam niŋ₂ dug₃-ge-eš nu-sig₉-ge-me-eš
+c.1.4.1,Inana's descent to the nether world,,302,dumu niŋ₂ ku₇-ku₇-da ne nu-su-ub-ba-me-eš
+c.1.4.1,Inana's descent to the nether world,,303,dam ur₂ lu₂-ka ba-ra-an-si-il-si-il-le-eš
+c.1.4.1,Inana's descent to the nether world,,304,dumu lu₂ du₁₀-ub-ta ba-ra-an-zig₃-ge-eš
+c.1.4.1,Inana's descent to the nether world,,305,e₂-gi₄-a e₂ ušbar-ra-ka im-ta-an-e₃-eš-am₃
+c.1.4.1,Inana's descent to the nether world,,305A,šum₂{sar} niŋ₂ sis-a nu-gum-e-me-eš
+c.1.4.1,Inana's descent to the nether world,,305B,lu₂ ku₆ nu-gu₇-me-eš lu₂ ga-raš{sar} nu-gu₇-me-eš
+c.1.4.1,Inana's descent to the nether world,,305C,lu₂ {d}inana mu-un-ši-re₇-eš-am₃
+c.1.4.1,Inana's descent to the nether world,,306,{d}inana kur-ta ed₃-da-ni
+c.1.4.1,Inana's descent to the nether world,,307,{d}nin-šubur-ra-ke₄ kan₄ ganzer-ra-ka ŋiri₃-ni-še₃ ba-an-šub
+c.1.4.1,Inana's descent to the nether world,,308,sahar-ra ba-da-an-tuš tug₂-mu-dur₇-ra ba-an-mur₁₀
+c.1.4.1,Inana's descent to the nether world,,309,gal₅-la₂-e-ne kug {d}inana-ra gu₃ mu-un-na-de₂-e
+c.1.4.1,Inana's descent to the nether world,,310,{d}inana iri-zu-še₃ ŋen-ba e-ne ga-ba-ab-tum₂-mu-de₃-en
+c.1.4.1,Inana's descent to the nether world,,311,kug {d}inana-ke₄ gal₅-la₂-e-ne mu-un-ne-ni-gi₄-gi₄
+c.1.4.1,Inana's descent to the nether world,,312,sukkal e-ne-eŋ₃ sag₉-sag₉-ga-ŋu₁₀
+c.1.4.1,Inana's descent to the nether world,,313,ra-gaba e-ne-eŋ₃ ge-en-gen₆-na-ŋu₁₀
+c.1.4.1,Inana's descent to the nether world,,314,na de₅-ga-ŋu₁₀ šu nu-un-bar-re
+c.1.4.1,Inana's descent to the nether world,,315,e-ne-eŋ₃ ma-ra-ab-dug₄-ga-ŋu₁₀-uš gu₂-ni la-ba-da-an-ši-šub
+c.1.4.1,Inana's descent to the nether world,,316,er₂ du₆-du₆-dam ma-an-ŋa₂-ŋa₂
+c.1.4.1,Inana's descent to the nether world,,317,šem₃ gu₂-en-na ma-an-du₁₂-am₃
+c.1.4.1,Inana's descent to the nether world,,318,e₂ diŋir-re-e-ne ma-an-niŋin₂-niŋin₂
+c.1.4.1,Inana's descent to the nether world,,319,i-bi₂-ni ma-an-hur giri₁₇-ni ma-an-hur
+c.1.4.1,Inana's descent to the nether world,,319A,ŋeštug₂-ga-ni ki u₆ di ma-hur
+c.1.4.1,Inana's descent to the nether world,,320,ki mu-lu-da nu-di haš₄-gal-a-ni ma-an-hur
+c.1.4.1,Inana's descent to the nether world,,321,mu-lu nu-tuku-gin₇ tug₂ dili-a im-ma-an-mur₁₀
+c.1.4.1,Inana's descent to the nether world,,322,e₂-kur-re e₂ {d}mu-ul-lil₂-la₂-še₃
+c.1.4.1,Inana's descent to the nether world,,323,urim₂{ki}-ma e₂ {d}nanna-še₃
+c.1.4.1,Inana's descent to the nether world,,324,uru₂-ze₂-eb{ki} e₂ {d}am-an-ki-ka₃-še₃
+c.1.4.1,Inana's descent to the nether world,,325,ŋiri₃-ni dili mu-un-gub
+c.1.4.1,Inana's descent to the nether world,,325A,igi {d}am-an-ki-ka₃ er₂ bi₂-še₈-še₈
+c.1.4.1,Inana's descent to the nether world,,326,e-ne ma-a-ra mu-un-til₃-le-en
+c.1.4.1,Inana's descent to the nether world,,327,e-ne ta-gin₇ nam-ma-ra-ab-ze₂-eŋ₃-en-ze₂-en
+c.1.4.1,Inana's descent to the nether world,,328,ga-an-ši-re₇-de₃-en umma{ki}-a šeg₁₂-kur-šag₄-ga-še₃ ga-am₃-ši-re₇-de₃-en
+c.1.4.1,Inana's descent to the nether world,,329,umma{ki}-a šeg₁₂-kur-šag₄-ga-ta
+c.1.4.1,Inana's descent to the nether world,,330,{d}šara iri-ni-a ŋiri₃-ni-še₃ ba-an-šub
+c.1.4.1,Inana's descent to the nether world,,331,sahar-ra ba-da-an-tuš tug₂-mu-dur₇-ra ba-an-mur₁₀
+c.1.4.1,Inana's descent to the nether world,,332,gal₅-la₂-e-ne kug {d}inana-ra gu₃ mu-na-de₂-e
+c.1.4.1,Inana's descent to the nether world,,333,{d}inana iri-zu-še₃ ŋen-ba e-ne ga-ba-ab-tum₂-mu-de₃
+c.1.4.1,Inana's descent to the nether world,,334,kug {d}inana-ke₄ gal₅-la₂-e-ne mu-na-ni-ib-gi₄-gi₄
+c.1.4.1,Inana's descent to the nether world,,335,en₃-du du {d}šara-ŋu₁₀
+c.1.4.1,Inana's descent to the nether world,,336,umbin kud-ku₅-ra-ŋu₁₀ gu₂-tar la₂-ŋu₁₀
+c.1.4.1,Inana's descent to the nether world,,337,en₃ ta-gin₇ nam-ma-ra-ni-ib-ze₂-eŋ₃-ŋen
+c.1.4.1,Inana's descent to the nether world,,338,ga-e-re₇-en-de₃-en bad₃-tibira{ki}-a e₂-muš₃-kalam-ma-še₃ ga-an-ši-re₇-en-de₃-en
+c.1.4.1,Inana's descent to the nether world,,339,bad₃-tibira{ki}-a e₂-muš₃-kalam-ma-ta
+c.1.4.1,Inana's descent to the nether world,,340,{d}lu₂-lal₃-e iri-ni-a ŋiri₃-ni-še₃ ba-an-šub
+c.1.4.1,Inana's descent to the nether world,,341,sahar-a im-da-an-tuš tug₂-mu-dur₇-ra ba-an-mur₁₀
+c.1.4.1,Inana's descent to the nether world,,342,gal₅-la₂-e-ne kug {d}inana-ra gu₃ mu-na-de₂-e
+c.1.4.1,Inana's descent to the nether world,,343,{d}inana iri-zu-še₃ ŋen-ba e-ne ga-ba-ab-tum₂-mu-un-de₃-en
+c.1.4.1,Inana's descent to the nether world,,344,kug {d}inana-ke₄ gal₅-la₂-e-ne mu-na-ni-ib-gi₄-gi₄
+c.1.4.1,Inana's descent to the nether world,,345,{d}lu₂-lal₃ zag e₃-a a₂ zid-da gab₂-bu-ŋu₁₀ us₂-sa
+c.1.4.1,Inana's descent to the nether world,,346,e-ne ta-gin₇ nam-ma-ra-ab-ze₂-eŋ₃-en-ze₂-en
+c.1.4.1,Inana's descent to the nether world,,347,ga-e-re₇-de₃-en {ŋeš}hašhur gul-la edin kul-aba₄{ki}-še₃ ga-an-ši-re₇-en-de₃-en
+c.1.4.1,Inana's descent to the nether world,,348,{ŋeš}hašhur gul-la edin kul-aba₄{ki}-še₃ ŋiri₃-ni-še₃ ba-e-re₇-eš
+c.1.4.1,Inana's descent to the nether world,,349,{d}dumu-zid tug₂ mah-a i-im-mur₁₀ mah-a dur₂-a dur₂ im-ma-ŋar
+c.1.4.1,Inana's descent to the nether world,,350,gal₅-la₂-e-ne haš₄-a-na i-im-dab₅-be₂-eš
+c.1.4.1,Inana's descent to the nether world,,351,{dug}šakir ₇-e ga mu-un-de₂-eš-am₃
+c.1.4.1,Inana's descent to the nether world,,352,₇-am₃ saŋ mu-un-da-sag₃-ge-ne
+c.1.4.1,Inana's descent to the nether world,,353,sipad-de₃ gi-gid₂ gi-di-da igi-ni šu nu-mu-un-tag-ge-ne
+c.1.4.1,Inana's descent to the nether world,,354,igi mu-un-ši-in-bar igi uš₂-a-ka
+c.1.4.1,Inana's descent to the nether world,,355,inim i-ne-ne inim lipiš gig-ga
+c.1.4.1,Inana's descent to the nether world,,356,gu₃ i-ne-de₂ gu₃ nam-tag-tag-ga
+c.1.4.1,Inana's descent to the nether world,,357,en₃-še₃ tum₃-mu-an-ze₂-en
+c.1.4.1,Inana's descent to the nether world,,358,kug {d}inana-ke₄ su₈-ba {d}dumu-zid-da šu-ne-ne-a in-na-šum₂
+c.1.4.1,Inana's descent to the nether world,,359,lu₂ e-ne lu₂ mu-un-ne-re₇-eš-am₃
+c.1.4.1,Inana's descent to the nether world,,360,lu₂ {d}dumu-zid mu-un-ši-re₇-eš-am₃
+c.1.4.1,Inana's descent to the nether world,,361,u₂ nu-zu-me-eš a nu-zu-me-eš
+c.1.4.1,Inana's descent to the nether world,,362,zid₂ dub-dub-ba nu-gu₇-me-eš
+c.1.4.1,Inana's descent to the nether world,,363,a bal-bal-a nu-na₈-na₈-me-eš
+c.1.4.1,Inana's descent to the nether world,,364,ur₂ dam niŋ₂ dug₃-ge-eš₂ nu-sig₉-ge-eš
+c.1.4.1,Inana's descent to the nether world,,365,dumu niŋ₂ ku₇-ku₇-da ne nu-su-ub-me-eš
+c.1.4.1,Inana's descent to the nether world,,366,dumu lu₂ du₁₀-ub-ta ba-ra-an-zig₃-ge-eš
+c.1.4.1,Inana's descent to the nether world,,367,e₂-gi₄-a e₂ ušbar-ra-ka um-ta-an-e₃-eš
+c.1.4.1,Inana's descent to the nether world,,368,{d}dumu-zid-de₃ er₂ im-da-pad₃ šeₓ-šeₓ i₃-ŋa₂-ŋa₂
+c.1.4.1,Inana's descent to the nether world,,369,ŋuruš-e {d}utu-ra an-še₃ šu-ni ba-an-na-zig₃
+c.1.4.1,Inana's descent to the nether world,,370,{d}utu murum₅-ŋu₁₀-me-en ŋe₂₆-e mussa-zu-me-en
+c.1.4.1,Inana's descent to the nether world,,371,e₂ ama-zu-še₃ i₃ gur₃-ru-me-en
+c.1.4.1,Inana's descent to the nether world,,372,e₂ {d}nin-gal-še₃ ga gur₃-ru-me-en
+c.1.4.1,Inana's descent to the nether world,,373,šu-ŋu₁₀ šu muš-a u₃-mu-ni-in-šum₂
+c.1.4.1,Inana's descent to the nether world,,374,ŋiri₃-ŋu₁₀ ŋiri₃ muš-a u₃-mu-ni-in-šum₂
+c.1.4.1,Inana's descent to the nether world,,375,gal₅-la₂-ŋu₁₀ ga-ba-da-kar nam-mu-un-ha-za-ne
+c.1.4.1,Inana's descent to the nether world,,376,{d}utu er₂-na šu ba-an-ši-in-ti
+c.1.4.1,Inana's descent to the nether world,,376A,gal₅-la₂-e-ne nu-ha-ha-ne
+c.1.4.1,Inana's descent to the nether world,,377,šu-ni šu muš-a mu-e-ni-šum₂
+c.1.4.1,Inana's descent to the nether world,,378,ŋiri₃-ni ŋiri₃ muš-a mu-e-ni-šum₂
+c.1.4.1,Inana's descent to the nether world,,379,gal₅-la₂-e-ne ba-ni-kar
+c.1.4.1,Inana's descent to the nether world,,379A,muš-saŋ-kal ₁-gin₇
+c.1.4.1,Inana's descent to the nether world,,380,ba-ni-in-dab₅-be₂-eš-a
+c.1.4.1,Inana's descent to the nether world,,381,
+c.1.4.1,Inana's descent to the nether world,,382,
+c.1.4.1,Inana's descent to the nether world,,383,kug {d}inana-ke₄ šag₄-ga-ni nam-DU
+c.1.4.1,Inana's descent to the nether world,,384,kug {d}inana-ke₄ mu-ud-na-ni er₂ gig i₃-še₈-še₈
+c.1.4.1,Inana's descent to the nether world,,385,kug {d}inana-ke₄ {d}dumu-zid-de₃ šag₄-ga-ni nam-DU
+c.1.4.1,Inana's descent to the nether world,,386,dam-ni a₂-na
+c.1.4.1,Inana's descent to the nether world,,387,
+c.1.4.1,Inana's descent to the nether world,,388,
+c.1.4.1,Inana's descent to the nether world,,389,{u₂}numun₂ i₃-bur₁₂-re {u₂}numun₂ i₃-ze₂-e
+c.1.4.1,Inana's descent to the nether world,,390,dam lu₂ ur₂-zu-ne-ne nu₂-a me dam kal-la-ŋu₁₀
+c.1.4.1,Inana's descent to the nether world,,391,dumu lu₂ ur₂-zu-ne-ne nu₂-a me dumu kal-la-ŋu₁₀
+c.1.4.1,Inana's descent to the nether world,,392,me-am₃ mu-lu-ŋu₁₀ me-am₃ mu-un-KA×X-e
+c.1.4.1,Inana's descent to the nether world,,393,me-am₃ mu-lu-ŋu₁₀ me-am₃ mu-un-TAG-TAG
+c.1.4.1,Inana's descent to the nether world,,394,nim-e kug {d}inana-ra gu₃ mu-na-de₂-e
+c.1.4.1,Inana's descent to the nether world,,395,ŋe₂₆-e ki lu₂-zu ga-mu-re-pad₃ a-na-am₃ niŋ₂-ba-ŋu₁₀-um
+c.1.4.1,Inana's descent to the nether world,,396,kug {d}inana-ke₄ nim-e mu-na-ni-ib-gi₄-gi₄
+c.1.4.1,Inana's descent to the nether world,,397,za-e ki mu-lu-ŋu₁₀ ba-ab-pad₃-de₃-en niŋ₂-ba a-ra-ba-e
+c.1.4.1,Inana's descent to the nether world,,398,ga-mu-un-dul-dul
+c.1.4.1,Inana's descent to the nether world,,399,nim-e kug {d}inana-ke₄
+c.1.4.1,Inana's descent to the nether world,,400,ki-sikil {d}inana-ke₄ nim-e nam mu-ni-ib₂-tar-re
+c.1.4.1,Inana's descent to the nether world,,401,e₂ kaš-a-ka zabar naŋ-a-ke₄ X-a-ze₂-Xbr
+c.1.4.1,Inana's descent to the nether world,,402,du₅-mu lu₂ kug-zu-ke₄-ne-gin₇ nam
+c.1.4.1,Inana's descent to the nether world,,403,i₃-ne-eš₂ nam-tar-ra {d}inana-ke₄ ur₅ he₂-en-na-nam-ma-am₃
+c.1.4.1,Inana's descent to the nether world,,404,er₂ im-še₈-še₈
+c.1.4.1,Inana's descent to the nether world,,405,nin₉ im-ma-ŋen šu-še₃ mu-da-ab-si
+c.1.4.1,Inana's descent to the nether world,,406,i₃-ne-eš₂ me-le-e-a
+c.1.4.1,Inana's descent to the nether world,,407,za-e mu MAŠ-am₃ nin₉-zu mu MAŠ-am₃
+c.1.4.1,Inana's descent to the nether world,,408,ud za-e al di-di-e ud-bi he₂-tuš-e
+c.1.4.1,Inana's descent to the nether world,,409,ud nin₉-zu al di-di-e ud-bi he₂-bur₂-e
+c.1.4.1,Inana's descent to the nether world,,410,kug {d}inana-ke₄ {d}dumu-zid saŋ-bi-še₃ bi₂-in-šum₂-šum₂-mu
+c.1.4.1,Inana's descent to the nether world,,411,kug {d}ereš-ki-gal-la-ke₄
+c.1.4.1,Inana's descent to the nether world,,412,za₃-mi₂-zu dug₃-ga-am₃

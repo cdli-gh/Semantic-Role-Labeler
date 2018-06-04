@@ -1,0 +1,49 @@
+id_text,text_name,version,l_no,text
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A1,ga-ša-an-ŋen ša-ga-ba-ta ud zal-la-ŋu₁₀-ne
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A2,ga-ša-an-an-na-ŋen ša-ga-ba-ta ud zal-la-ŋu₁₀-ne
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A3,ud zal-la-ŋu₁₀-ne e-ne di-da-ŋu₁₀-ne
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A4,ud zal ŋi₆ sa₂-a-še₃ en₃-du dug₄-ga-ŋu₁₀-ne
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A5,gaba mu-un-ri gaba mu-un-ri
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A6,u₃-mu-un gu₅-li an-na gaba mu-un-ri
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A7,u₃-mu-un-e šu-ni-a šu im-ma-an-du₃
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A8,{d}ušumgal-an-na gu₂-ŋa₂-a gu₂-da ba-an-la₂
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A9,me-a-am šu ba-mu-u₈ e₂-me-še₃ da-ŋen
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A10,gu₅-li {d}mu-ul-lil₂-la₂ šu ba-mu-u₈ e₂-me-še₃ da-ŋen
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A11,ama-ŋu₁₀ lul-la-še₃ ta mu-na-ab-gub-be₂-en
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A12,ama-ŋu₁₀ {d}ga-ša-an-gal-e lul-la-še₃ ta mu-na-ab-gub-be₂-en
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A13,ŋe₂₆-e ga-ri-ib-zu-zu ŋe₂₆-e ga-ri-ib-zu-zu
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A14,{d}inana lul-la munus-e-ne ŋe₂₆-e ga-ri-ib-zu-zu
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A15,ma-la-ŋu₁₀ sila daŋal-la e-ne mu-di-ni-ib-ma-ma
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A16,ub₃ sag₃-sag₃ e-ne di-da hub₂ mu-di-ni-in-gub
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A17,i-lu-ni ze₂-ba-am₃ ad mu-ši-ib-ša₄
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A18,hul₂-hul₂-e ze₂-ba-am₃ ud mu-di-ni-ib-zal-e
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A19,ama ugu-zu-ur₂ lul-la-še₃ za-e gub-bu-na-da
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A20,me-en-de₃ iti₆-še₃ e-ne su₃-ud ga-da-e
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A21,ki-nu₂ kug he-nun-na suh ga-mu-ra-du₈
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A22,ud dug₃ nam-he₂-a hul₂-la hu-mu-u₃-di-ni-ib-zal-e
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A23,sa-gid₂-da-am₃
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A24,ki-sikil-ŋen sila sir₂-ra
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A25,ud-da
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,A26,
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,B1,
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,B2,su₃-ud mu-un-ŋa₂-ŋa₂
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,B3,kan₄ ama-me-da nam-mi-gub
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,B4,me-e hul₂-la-ta i₃-di-di-de₃-en
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,B5,kan₄ ga-ša-an-gal-la-da nam-mi-gub
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,B6,me-e hul₂-la-da i₃-di-di-de₃-en
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,B7,ama-ŋu₁₀-ra mu-lu e-ne-eŋ₃ hu-mu-na-ab-be₂
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,B8,u₅-šu-ur₂-me a ki de₃-sud-e
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,B9,ama-ŋu₁₀ ga-ša-an-gal-ra mu-lu e-ne-eŋ₃ hu-mu-na-ab-be₂
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,B10,u₅-šu-ur₂-me a ki de₃-sud-e
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,B11,ki-tuš-a-ni ir-bi ze₂-ba-am₃
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,B12,e-ne-eŋ₃-ŋa₂-ni aŋ₂ hul₂-hul₂-la-am₃
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,B13,u₃-mu-un-ŋu₁₀ ur₂ kug-ge he₂-du₇
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,B14,{d}ama-ušumgal-an-na mussa {d}suen-na
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,B15,en {d}dumu-zid ur₂ kug-ge he₂-du₇
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,B16,{d}ama-ušumgal-an-na mussa {d}suen-na
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,B17,u₃-mu-un-ŋu₁₀ he₂-ma-al-zu ze₂-ba-am₃
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,B18,edin-na u₂-šim-zu ku₇-ku₇-dam
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,B19,{d}ama-ušumgal-an-na he₂-ma-al-zu ze₂-ba-am₃
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,B20,edin-na u₂-šim-zu ku₇-ku₇-dam
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,B21,sa-ŋar-ra-am₃
+c.4.08.08,A tigi to Inana (Dumuzid-Inana H),,B22,tigi {d}inana-kam

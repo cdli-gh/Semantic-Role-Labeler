@@ -1,0 +1,126 @@
+id_text,text_name,version,l_no,text
+c.6.1.11,Proverbs: collection 11,,A5,e₂ kišib-ba
+c.6.1.11,Proverbs: collection 11,,A6,til₃-la lul-la hul na-an-gu-ul-en
+c.6.1.11,Proverbs: collection 11,,A7,ga-am₃ ha-la-zu mu-un-ŋal₂
+c.6.1.11,Proverbs: collection 11,,A8,u₂ de₅-de₅-ga kalag-ga-še₃
+c.6.1.11,Proverbs: collection 11,,A9,sig₉-ga bar-rim₄-ma mu-un-na-tuš
+c.6.1.11,Proverbs: collection 11,,A10,lib-ba teš₂-ba
+c.6.1.11,Proverbs: collection 11,,A11,inim-zu ukur₃ hul-a-gin₇ e₂-a hu-mu-e-da-an-til₃
+c.6.1.11,Proverbs: collection 11,,A12,aŋ₂ ŋa₂-a-gen₆-nam šem-bi₂ lil₂-e
+c.6.1.11,Proverbs: collection 11,,A13,u₃ li₉ bar-šeŋ₃-e he₂-gu₇-e
+c.6.1.11,Proverbs: collection 11,,A14,gala-a ma₂ še-ka-ni ha-ba-an-da-su-su
+c.6.1.11,Proverbs: collection 11,,A15,bar-rim₄-ma ha-ba-e-ŋen
+c.6.1.11,Proverbs: collection 11,,A16,{d}am-an-ki
+c.6.1.11,Proverbs: collection 11,,A17,kar-kar
+c.6.1.11,Proverbs: collection 11,,A18,
+c.6.1.11,Proverbs: collection 11,,A19,
+c.6.1.11,Proverbs: collection 11,,A20,
+c.6.1.11,Proverbs: collection 11,,A21,
+c.6.1.11,Proverbs: collection 11,,A22,X-de₂
+c.6.1.11,Proverbs: collection 11,,A23,
+c.6.1.11,Proverbs: collection 11,,B1,na-an-ni libir-ra mu-un-kal
+c.6.1.11,Proverbs: collection 11,,B2,e₂ {d}en-lil₂-la₂ i₃-du₃ nu-un-til
+c.6.1.11,Proverbs: collection 11,,B3,bad₃ nibru{ki} i₃-du₃
+c.6.1.11,Proverbs: collection 11,,B4,si-mu-ur-ru{ki} i₃-dab₅ gu₂-bi nu-X-gid₂ šag₄ hul
+c.6.1.11,Proverbs: collection 11,,B5,ur₅ na-an-ni šag₄ sig-ga kur-še₃ ba-ra-an-de₆
+c.6.1.11,Proverbs: collection 11,,B6,ga-gid₂ mu-da-ku₅-ru
+c.6.1.11,Proverbs: collection 11,,B7,šu-bi ba edin
+c.6.1.11,Proverbs: collection 11,,B8,gid₂-bi
+c.6.1.11,Proverbs: collection 11,,B9,bi₂-in-dug₄ nu-mu-un-gen₆
+c.6.1.11,Proverbs: collection 11,,B10,ab-be₂ ab-da-ab-gur
+c.6.1.11,Proverbs: collection 11,,B11,in dub₂-dub₂-bu-ra in mu-un-na-an-ŋal₂
+c.6.1.11,Proverbs: collection 11,,B12,giri₁₇ ur₅ giri₁₇ mu-un-na-ur₅-e
+c.6.1.11,Proverbs: collection 11,,B13,gi₄-in al-tum₄-me na-ab-be₂-e
+c.6.1.11,Proverbs: collection 11,,B14,diŋir u₃-mu-un-na-ke₄ hu-mu-dar-dar-e-e-še
+c.6.1.11,Proverbs: collection 11,,B15,ugula a₂ ŋiš ŋa₂-ŋa₂ nu-zu saŋ sag₃-ge nu-ŋa₂-ŋa₂
+c.6.1.11,Proverbs: collection 11,,B16,a-ša₄ ŋiš-gi-a nam-mu-nu₂-de₃-en
+c.6.1.11,Proverbs: collection 11,,B17,peš₂-ŋiš-gi-ke₄ i₃-gu₇-e-en
+c.6.1.11,Proverbs: collection 11,,B23,
+c.6.1.11,Proverbs: collection 11,,B24,
+c.6.1.11,Proverbs: collection 11,,B25,en-nu-uŋ₃
+c.6.1.11,Proverbs: collection 11,,B26,ba-ra-gid₂
+c.6.1.11,Proverbs: collection 11,,C1,
+c.6.1.11,Proverbs: collection 11,,C2,
+c.6.1.11,Proverbs: collection 11,,C3,u₂ šah₂
+c.6.1.11,Proverbs: collection 11,,C4,niŋ₂ gu
+c.6.1.11,Proverbs: collection 11,,C5,igi
+c.6.1.11,Proverbs: collection 11,,C6,si nu-e-da-il₂-i
+c.6.1.11,Proverbs: collection 11,,C7,a-na-aš-am₃ si il₂-i-de₃-en
+c.6.1.11,Proverbs: collection 11,,C8,i₃-du-de₃-en
+c.6.1.11,Proverbs: collection 11,,C9,sukud-gin₇
+c.6.1.11,Proverbs: collection 11,,C10,il₂-i
+c.6.1.11,Proverbs: collection 11,,C11,ab-il₂
+c.6.1.11,Proverbs: collection 11,,C12,
+c.6.1.11,Proverbs: collection 11,,C13,pa₄-ugur₂-še₃ dug₄-ga
+c.6.1.11,Proverbs: collection 11,,C14,nu-DI
+c.6.1.11,Proverbs: collection 11,,C15,gir ab-ba saŋ ni₂-ba sal-sal
+c.6.1.11,Proverbs: collection 11,,C16,id₂-da-ta {d}ga-ša-an-an lu₂-ŋu₁₀ he₂-gu₇-gu₇
+c.6.1.11,Proverbs: collection 11,,C17,peš₂ ki ba-ba-al-ba-al
+c.6.1.11,Proverbs: collection 11,,D1,šeš-za
+c.6.1.11,Proverbs: collection 11,,D2,gi₄-in-na
+c.6.1.11,Proverbs: collection 11,,D3,gi₄-in-a-kam
+c.6.1.11,Proverbs: collection 11,,D4,aŋ₂-ŋa₂ aŋ₂ gal-la-am₃
+c.6.1.11,Proverbs: collection 11,,D5,me-ŋu₁₀ me gal-la-am₃
+c.6.1.11,Proverbs: collection 11,,D6,šag₄-bi zig₃-ga ugula nam-me
+c.6.1.11,Proverbs: collection 11,,D7,sipad engar nam-me
+c.6.1.11,Proverbs: collection 11,,D8,saŋ {ŋeš}ŋidru-ka i₃ he₂-en-de₂
+c.6.1.11,Proverbs: collection 11,,D9,šag₄ ŋiš-ta dilim₂ a-ba-am₃
+c.6.1.11,Proverbs: collection 11,,D10,e₂-gal ni₂-bi-še₃ gam-e-dam
+c.6.1.11,Proverbs: collection 11,,D11,sig-sig a-ga-de₃{ki}-še₃ i₃-gi₄-in
+c.6.1.11,Proverbs: collection 11,,D12,a-ga-de₃{ki}-a a-na-am₃ i₃-ak maš₂-ŋi₆ zid-da
+c.6.1.11,Proverbs: collection 11,,E1,šu gi₄-gi₄ niŋ₂-gig {d}nin-urta-kam
+c.6.1.11,Proverbs: collection 11,,E2,gu₅-li-ŋu₁₀ sag₉-ga he₂-am₃-me-am₃ hul-me DU-am₃
+c.6.1.11,Proverbs: collection 11,,E3,sag₉-ga-zu ma₂ kar sag₉-ga-gin₇ kar-ra he₂-em-us₂
+c.6.1.11,Proverbs: collection 11,,E4,hul-zu a-ŋi₆-a-ŋi₆ id₂-da-gin₇ iri-ni-še₃ ha-ba-gi₄
+c.6.1.11,Proverbs: collection 11,,E5,a-da ab-tuš kur-šag₄ igi du₈
+c.6.1.11,Proverbs: collection 11,,E6,ni₂-bi-še₃ igi nu-du₈
+c.6.1.11,Proverbs: collection 11,,E7,a-da-ab-e niŋ₂ im-ba nu-zu
+c.6.1.11,Proverbs: collection 11,,E8,kur-šag₄-ge di-di
+c.6.1.11,Proverbs: collection 11,,E9,til₃-la til₃-la
+c.6.1.11,Proverbs: collection 11,,E10,en-gin₇ til₃-la
+c.6.1.11,Proverbs: collection 11,,F1,
+c.6.1.11,Proverbs: collection 11,,F2,
+c.6.1.11,Proverbs: collection 11,,F3,
+c.6.1.11,Proverbs: collection 11,,F4,
+c.6.1.11,Proverbs: collection 11,,F5,
+c.6.1.11,Proverbs: collection 11,,F6,
+c.6.1.11,Proverbs: collection 11,,F7,lu₂
+c.6.1.11,Proverbs: collection 11,,F8,lul
+c.6.1.11,Proverbs: collection 11,,F9,lu₂
+c.6.1.11,Proverbs: collection 11,,F10,dam-gara₃
+c.6.1.11,Proverbs: collection 11,,F11,tab-ba
+c.6.1.11,Proverbs: collection 11,,F12,kud-kud-a gi-gur ba-ab-dab₅
+c.6.1.11,Proverbs: collection 11,,F13,inim-ma-ni-ra lu₂ al-sag₃-e
+c.6.1.11,Proverbs: collection 11,,G1,
+c.6.1.11,Proverbs: collection 11,,G2,
+c.6.1.11,Proverbs: collection 11,,H1,
+c.6.1.11,Proverbs: collection 11,,H2,
+c.6.1.11,Proverbs: collection 11,,H3,
+c.6.1.11,Proverbs: collection 11,,H4,
+c.6.1.11,Proverbs: collection 11,,I1,
+c.6.1.11,Proverbs: collection 11,,I2,aŋ₂ ama-ŋu₁₀
+c.6.1.11,Proverbs: collection 11,,I3,lu₂ ur₃ an-nu₂ lu₂ e₂ an-til₃-la
+c.6.1.11,Proverbs: collection 11,,I4,al-zalag-e-še
+c.6.1.11,Proverbs: collection 11,,I5,inim dug₃-ga re
+c.6.1.11,Proverbs: collection 11,,I6,ma₂ ₆₀ gur
+c.6.1.11,Proverbs: collection 11,,I7,ur₅ nu-luh-ha niŋ₂ {d}utu ur₅ ak
+c.6.1.11,Proverbs: collection 11,,I8,
+c.6.1.11,Proverbs: collection 11,,I9,sag₉-ga-e
+c.6.1.11,Proverbs: collection 11,,I10,hul
+c.6.1.11,Proverbs: collection 11,,I11,hul
+c.6.1.11,Proverbs: collection 11,,I12,
+c.6.1.11,Proverbs: collection 11,,J1,dub-sar-me-en mu ni₂-za nu-zu
+c.6.1.11,Proverbs: collection 11,,J2,igi ni₂-za sag₃-ga
+c.6.1.11,Proverbs: collection 11,,J3,šag₄ ki aŋ₂ niŋ₂ e₂ du₃-du₃-u₃-dam
+c.6.1.11,Proverbs: collection 11,,J4,šag₄ hul gig niŋ₂ e₂ gul-gul-lu-dam
+c.6.1.11,Proverbs: collection 11,,J5,sag₉-a-za ma-la-ga-ni
+c.6.1.11,Proverbs: collection 11,,J6,im-ma-da-ab-ši-de₅-ge₄-e-še
+c.6.1.11,Proverbs: collection 11,,J7,ezem-ma-kam dam na-an-tuku-tuku-un-e-še
+c.6.1.11,Proverbs: collection 11,,K1,
+c.6.1.11,Proverbs: collection 11,,K2,gi₄-gi₄
+c.6.1.11,Proverbs: collection 11,,K3,šag₄-bi ab-sedₓ-de₃-en
+c.6.1.11,Proverbs: collection 11,,K4,dub-sar sag₉-ga-me-en
+c.6.1.11,Proverbs: collection 11,,K5,saŋ ki-bi ma-an-ŋal₂
+c.6.1.11,Proverbs: collection 11,,K6,dul nam-šag₄-tam-še₃ ga-ab-ši-de₆
+c.6.1.11,Proverbs: collection 11,,K7,mu-zu
+c.6.1.11,Proverbs: collection 11,,K8,e₃-a

@@ -1,0 +1,34 @@
+id_text,text_name,version,l_no,text
+c.0.2.06,OB catalogue from Nibru (N3),,1,ur-saŋ alim mah
+c.0.2.06,OB catalogue from Nibru (N3),,2,me-a lu
+c.0.2.06,OB catalogue from Nibru (N3),,3,me-a-am
+c.0.2.06,OB catalogue from Nibru (N3),,4,nu-mu-e-de₃-RI-RI
+c.0.2.06,OB catalogue from Nibru (N3),,5,iri-me-a
+c.0.2.06,OB catalogue from Nibru (N3),,6,ud re-a
+c.0.2.06,OB catalogue from Nibru (N3),,7,en me galam-ma
+c.0.2.06,OB catalogue from Nibru (N3),,8,me-e diŋir-ŋa₂
+c.0.2.06,OB catalogue from Nibru (N3),,9,{d}gibil₆ {d}gibil₆
+c.0.2.06,OB catalogue from Nibru (N3),,10,ud ₃₀ ud nu₂-a
+c.0.2.06,OB catalogue from Nibru (N3),,11,an u₁₈-ru gal
+c.0.2.06,OB catalogue from Nibru (N3),,12,munus zid me inim di-di
+c.0.2.06,OB catalogue from Nibru (N3),,13,lugal tud-da-zu
+c.0.2.06,OB catalogue from Nibru (N3),,14,{d}nin-lil₂ nin nibru{ki}
+c.0.2.06,OB catalogue from Nibru (N3),,15,en gal an ki
+c.0.2.06,OB catalogue from Nibru (N3),,16,{d}ŋeštin nin ki aŋ₂
+c.0.2.06,OB catalogue from Nibru (N3),,17,lugal iri ab₂-gin₇ lu-X
+c.0.2.06,OB catalogue from Nibru (N3),,18,ud huš gal
+c.0.2.06,OB catalogue from Nibru (N3),,19,u₂ sed₆ sed₆
+c.0.2.06,OB catalogue from Nibru (N3),,20,en me sag₂ nu-di
+c.0.2.06,OB catalogue from Nibru (N3),,21,kug-ga-am₃ in-tu-ud
+c.0.2.06,OB catalogue from Nibru (N3),,22,
+c.0.2.06,OB catalogue from Nibru (N3),,23,
+c.0.2.06,OB catalogue from Nibru (N3),,24,nam-til₃ ra-gaba
+c.0.2.06,OB catalogue from Nibru (N3),,25,u₂-šim saŋ nam-il₂
+c.0.2.06,OB catalogue from Nibru (N3),,26,nin hi-li šu du₇
+c.0.2.06,OB catalogue from Nibru (N3),,27,ŋidru-a šu du₇
+c.0.2.06,OB catalogue from Nibru (N3),,28,il₂-la il₂-la
+c.0.2.06,OB catalogue from Nibru (N3),,29,in-na-ab me-a
+c.0.2.06,OB catalogue from Nibru (N3),,30,ŋiš ga-šub-šub
+c.0.2.06,OB catalogue from Nibru (N3),,31,šubur-e šu mu₂
+c.0.2.06,OB catalogue from Nibru (N3),,32,lugal-ŋu₁₀ ud ug šu
+c.0.2.06,OB catalogue from Nibru (N3),,33,ur-saŋ ud gal-le-eš

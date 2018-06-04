@@ -1,0 +1,510 @@
+id_text,text_name,version,l_no,text
+c.1.8.2.1,Lugalbanda in the mountain cave,,A1,ud ul an ki-ta ba₉-ra₂-a-ba
+c.1.8.2.1,Lugalbanda in the mountain cave,,A2,ul-e suh₁₀ keše₂-da
+c.1.8.2.1,Lugalbanda in the mountain cave,,A3,ul buru₁₄ ul-e še
+c.1.8.2.1,Lugalbanda in the mountain cave,,A4,in ba-dub-ba ki ba-sur-ra-a-ba
+c.1.8.2.1,Lugalbanda in the mountain cave,,A5,na ba-du₃-a-ba mu ba-sar-ra-a-ba
+c.1.8.2.1,Lugalbanda in the mountain cave,,A6,eg₂ pa₅-re šu-luh ak-a-ba
+c.1.8.2.1,Lugalbanda in the mountain cave,,A7,pu₂ si sa₂-sa₂-a-ba
+c.1.8.2.1,Lugalbanda in the mountain cave,,A8,{id₂}buranuna id₂ he₂-ŋal₂-la unug{ki}-ga-ke₄ ki in-dar-ra-a-ba
+c.1.8.2.1,Lugalbanda in the mountain cave,,A9,du₃-a-ba
+c.1.8.2.1,Lugalbanda in the mountain cave,,A10,ha-la ŋar-ra-ba
+c.1.8.2.1,Lugalbanda in the mountain cave,,A11,an kug-ga-ke₄ in-ze-ze-ra-a-ba
+c.1.8.2.1,Lugalbanda in the mountain cave,,A12,nam-en nam-lugal-la-ke₄ unug{ki}-ga-ke₄ pa e₃ bi₂-in-ak
+c.1.8.2.1,Lugalbanda in the mountain cave,,A13,šibir ešgiri₂ kul-aba₄{ki}-ke₄ me₃ saŋ il₂-ba
+c.1.8.2.1,Lugalbanda in the mountain cave,,A14,me₃ ešemen {d}inana-ke₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A15,saŋ gig₂ zi su₃-ud-ba mi-ni-ib-dug₃-ge-eš-ba
+c.1.8.2.1,Lugalbanda in the mountain cave,,A16,in-di₃-in-di₃-ba zag-eš-zag-eš-ba
+c.1.8.2.1,Lugalbanda in the mountain cave,,A17,maš₂ kur-ra umbin kiŋ₂-kiŋ₂-ba
+c.1.8.2.1,Lugalbanda in the mountain cave,,A18,tarah kur-ra aškud sag₉-sag₉-ba
+c.1.8.2.1,Lugalbanda in the mountain cave,,A19,en-me-er-kar₂ dumu {d}utu-ra mu-na-šum₂-mu-uš-ba
+c.1.8.2.1,Lugalbanda in the mountain cave,,A20,ud-ba lugal-e iri{ki}-še₃ {ŋeš}mi-tum na-ŋa₂-ŋa₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A21,en-me-er-kar₂ dumu {d}utu-ra
+c.1.8.2.1,Lugalbanda in the mountain cave,,A22,aratta{ki} kur me sikil-la-še₃ har-ra-an zu na-an-ŋa₂-ŋa₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A23,ki-bal gul-gul-de₃ na-an-ŋen
+c.1.8.2.1,Lugalbanda in the mountain cave,,A24,en-e iri-a-ni zig₃-ga₁₄ ba-ni-ŋar
+c.1.8.2.1,Lugalbanda in the mountain cave,,A25,niŋir kur-kur-ra si gu₃ ba-ni-ra
+c.1.8.2.1,Lugalbanda in the mountain cave,,A26,unug{ki} zig₃-ga lugal zu ba-ra-ed₂-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A27,kul-aba₄{ki} zig₃-ga en-me-kar₂-ra he₂-us₂-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A28,unug{ki} zig₃-ga-bi a-ma-ru-kam
+c.1.8.2.1,Lugalbanda in the mountain cave,,A29,kul-aba₄{ki} zig₃-ga-bi an dungu ŋar-ra
+c.1.8.2.1,Lugalbanda in the mountain cave,,A30,muru₉-gin₇ ki he₂-us₂-sa-ba
+c.1.8.2.1,Lugalbanda in the mountain cave,,A31,sahar peš-peš-bi an-e mu-un-ši-ib-us₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A32,buru₄-dugud{mušen} numun saŋ-še₃ zi-zi-i-gin₇
+c.1.8.2.1,Lugalbanda in the mountain cave,,A33,lu₂-ulu₃ zu-ne na-an-ni-pad₃-de₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A34,šeš šeš-a-ne ŋiškim na-an-ŋa₂-ŋa₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A35,lugal-bi saŋ-ba du-a-ni
+c.1.8.2.1,Lugalbanda in the mountain cave,,A36,erin₂-na-ka di-dam
+c.1.8.2.1,Lugalbanda in the mountain cave,,A37,en-me-er-kar₂ saŋ-ba du-a-ni
+c.1.8.2.1,Lugalbanda in the mountain cave,,A38,lu₂ di-dam
+c.1.8.2.1,Lugalbanda in the mountain cave,,A39,ki-sig₁₀-ga-ke₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A40,hur-saŋ nunuz gu₂ nu-gun₃-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A41,gu₂-nida-e gu₂ me-er-me-er-re-da
+c.1.8.2.1,Lugalbanda in the mountain cave,,A42,zid-du šag₄ kuš₂-u₃ {d}en-lil₂-la₂-ke₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A43,kul-aba₄{ki} niŋin₂-na-bi im-ma-an-kar-eš-ba
+c.1.8.2.1,Lugalbanda in the mountain cave,,A44,kur-ra-ke₄ u₈-gin₇ ba-an-gur-ru-uš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A45,zig₃-ga gaba hur-saŋ-ŋa₂-ke₄ am-gin₇ dub₃ bi₂-in-ŋal₂-le
+c.1.8.2.1,Lugalbanda in the mountain cave,,A46,zag-še₃ i₃-kiŋ₂-e har-ra-an i₃-zu-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A47,i₃-kiŋ₂-e ud ₅-am₃ ba-zal
+c.1.8.2.1,Lugalbanda in the mountain cave,,A48,ud ₆-kam-ma-ka a mu-un-tu₅-tu₅-uš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A49,ud ₇-kam-ma kur-ra ba-an-sun₅-ne-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A50,in-di₃-in-di₃-a bal-bal-e-da-bi
+c.1.8.2.1,Lugalbanda in the mountain cave,,A51,a-ŋi₆ uru₁₆ ambar gaba gabu₂ ru-ru-gu₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A52,en-bi ulu₃-a u₅-a-ni
+c.1.8.2.1,Lugalbanda in the mountain cave,,A53,dumu {d}utu kug-me-a zid
+c.1.8.2.1,Lugalbanda in the mountain cave,,A54,an-ta ki gal-la gub-ba-am₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A55,niŋ₂ babbar₂-ra saŋ mu-na-mu₂-mu₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A56,ti zu₂ nim-gin₇ mu-na-ŋir₂-ŋir₂-re
+c.1.8.2.1,Lugalbanda in the mountain cave,,A57,a₂-na dur₁₀-gag zabar-ra urin-na mu-na-mul-lu
+c.1.8.2.1,Lugalbanda in the mountain cave,,A58,dur₁₀-gag-ta ur ad₆ gu₇-a-gin₇ galam mu-na-ta-e₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A59,ud-bi-a ₇ he₂-na-me-eš ₇ he₂-na-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A60,di₄-di₄-la₂ peš-tur-ZI kul-aba₄{ki} ₇ he₂-na-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A61,₇-be₂-ne {d}uraš-e tud-da immal₂ ga gu₇-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A62,ur-saŋ-me-eš ki-en-gi-ra se₁₂-me-eš a-la-ba nun-na-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A63,{ŋeš}banšur an-na-ke₄ a₂ e₃-a-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A64,₇-be₂-ne ugula-a-ke₄-eš ugula-a-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A65,nu-banda₃-a-ke₄-eš nu-banda₃-a-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A66,šagina-a-ke₄-eš šagina-a-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A67,ugula lu₂ ₃₀₀ ₃₀₀-ta-a-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A68,nu-banda₃ lu₂ ₆₀₀ ₆₀₀-ta-a-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A69,šagina erin₂ ₃₆₀₀-₃₆₀₀-₃₆₀₀-₃₆₀₀-₃₆₀₀-₃₆₀₀-₃₆₀₀ ₇-ta-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A70,en-ra zu₂ keše₂ igi bar-ra-ka-na mu-na-sug₂-sug₂-ge-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A71,lugal-ban₃-da ₈-kam-ma-ne-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A72,a luh-luh-ha-bi
+c.1.8.2.1,Lugalbanda in the mountain cave,,A73,sig₉ dug₄-dug₄-ga-bi ba-ra-ab-e₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A74,ŋiš tag-ga lugal-la-ke₄ ba-da-ab-du₈ uŋ₃-da ba-da-ŋen
+c.1.8.2.1,Lugalbanda in the mountain cave,,A75,kaskal mu-un-sa₉ kaskal mu-un-sa₉
+c.1.8.2.1,Lugalbanda in the mountain cave,,A76,ki-bi-a tur₅-ra mu-na-te saŋ gig mu-na-te
+c.1.8.2.1,Lugalbanda in the mountain cave,,A77,muš saŋ-bi gi ra-gin₇ e-ne dag i₃-si-il-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A78,maš-da₃ ŋiš-bur₂-ra dab₅-ba-gin₇ ka sahar-ra bi₂-us₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A79,šu-ni dab₅-ba nu-mu-da-an-gi₄-gi₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A80,ŋiri₃-ni gu₂-ba nu-mu-da-an-ŋa₂-ŋa₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A81,lugal zig₃-ga šu nu-mu-na-an-ŋal₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A82,kur gal-e muru₉-e ki he₂-us₂-sa-a-ba
+c.1.8.2.1,Lugalbanda in the mountain cave,,A83,unug{ki} he₂-en-tum₂-mu-de₃ tum₂-mu nu-ub-zu
+c.1.8.2.1,Lugalbanda in the mountain cave,,A84,kul-aba₄{ki} he₂-en-tum₂-mu-de₃ tum₂-mu la-ba-ni-zu-zu
+c.1.8.2.1,Lugalbanda in the mountain cave,,A85,kur-ra ki sed₄-bi zu₂ ŋal₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A86,ki kum₂-ma-bi i₃-tum₄-tum₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A87,a-ra-ah
+c.1.8.2.1,Lugalbanda in the mountain cave,,A88,niŋ₂-barag₂ gud₃-gin₇ mu-na-sig₁₀-ge-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A89,zu₂-lum {ŋeš}peš₃ ga-ar₃-ga-ar₃-ra
+c.1.8.2.1,Lugalbanda in the mountain cave,,A90,ninda ku₇-ku₇ niŋ₂ lu₂ tur₅-ra i₃-gu₇-u₃-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A91,kid-da zu₂-lum-ma-ka e₂ ba-ni-in-du₃-du₃-uš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A92,i₃ hi-a tur₃-ra ga-ar₃ luh-ha amaš-a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A93,i₃ nunuz-te nunuz-te-a šeŋ₆-ŋa₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A94,{ŋeš}banšur ki kug ki kal-kal-la-aš sig₁₀-ge₅-gin₇ mu-na-ab-gub-bu-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A95,{kaš}dida naŋ lal₃ zu₂-lum-ma-ta šar₂-ra
+c.1.8.2.1,Lugalbanda in the mountain cave,,A96,ku-bu-ul-lum i₃-nun-ta E.KU
+c.1.8.2.1,Lugalbanda in the mountain cave,,A97,igi {ŋeš}banšur-ra-ka si ba-ni-in-sa₂-sa₂-e-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A98,{kuš}maš-li-um-e niŋ₂-si-sa₂-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A99,{kuš}a-ŋa₂-la₂-e niŋ₂ sa₂ dug₄-dug₄-ga
+c.1.8.2.1,Lugalbanda in the mountain cave,,A100,šeš-a-ne-ne gu₅-li-ne-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A101,niŋ₂-gur₁₁ {ŋeš}ma₂ ki-buru₁₄ ba-al-la-gin₇
+c.1.8.2.1,Lugalbanda in the mountain cave,,A102,saŋ-ŋa₂-ni-še₃ hur-ru-um kur-ra-ka mu-ni-in-ŋar-re-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A103,{kuš}ummud-da-ne-ne a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A104,kaš gig₂ kurun ziz₂ babbar
+c.1.8.2.1,Lugalbanda in the mountain cave,,A105,ŋeštin na₈-na₈ gu₂-me-ze₂ dug₃-ga-am₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A106,saŋ-ŋa₂-ni-še₃ hur-ru-um kur-ra ŋiš {kuš}ummud-da-gin₇ ur₂-ba hu-mu-tal₂-tal₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A107,i₃ šim-gig-ga i₃ zid-da i₃ šim i₃ ligidba i₃ saŋ-bi gan-da
+c.1.8.2.1,Lugalbanda in the mountain cave,,A108,si-dug₄ sur-ra-ke₄ mu-na-ak-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A109,saŋ-ŋa₂-ni-še₃ hur-ru-um kur-ra-ka mu-ni-ib-la₂-e-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A110,{urud}ha-zi-in-na-ni kug-bi nagga
+c.1.8.2.1,Lugalbanda in the mountain cave,,A111,hur-saŋ zubi-ta šu-a bal-a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A112,saŋ-ŋa₂-ni-še₃ im-ši-ib-ru-gu₂-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A113,ŋiri₂ ur₂-ra-ka-ni an-bar-sug₄-ga-am₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A114,hur-saŋ gig₂-ta šu-a bal-a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A115,ti-ni-ta im-da-ab-sur-ru-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A116,igi-ni pa₅ mu a-ta dirig-dirig-ga-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A117,kug {d}lugal-ban₃-da ba-an-di-ni-ib-bad-bad-de₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A118,nundum-a-na {ŋeš}ig bar kug {d}utu gu₂-bi ba-an-gi₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A119,šeš-a-ne-ne nu-mu-un-ne-ba-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A120,gu₂-ni un-zig₃-ge-eš zi nu-um-me
+c.1.8.2.1,Lugalbanda in the mountain cave,,A121,šeš-a-ne-ne gu₅-li-ne-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A122,ni₂-bi-a ad mi-ni-ib-gi₄-gi₄-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A123,ud šeš-me {d}utu ŋiš-nu₂-a-gin₇ mu-zi-zi-ia
+c.1.8.2.1,Lugalbanda in the mountain cave,,A124,diŋir niŋ₂ mu-ni-ra-a-ni bar-ta im-da-gub
+c.1.8.2.1,Lugalbanda in the mountain cave,,A125,ne un-gu₇ ne un-KA×X
+c.1.8.2.1,Lugalbanda in the mountain cave,,A126,ŋiri₃-ni ŋiri₃ ki us₂-sa ba-an-tah
+c.1.8.2.1,Lugalbanda in the mountain cave,,A127,gar₃-gar₃ kur-ra-ke₄ he₂-en-tum₂-mu-de₃ šeg₁₂ kul-aba{ki}-še₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A128,u₃ tukum-bi {d}utu šeš-me
+c.1.8.2.1,Lugalbanda in the mountain cave,,A129,ki kug ki kal-kal-la-aš gu₃ im-ma-an-de₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A130,ŋiš-gen₆-ge-en-na-ka-na ki-bi
+c.1.8.2.1,Lugalbanda in the mountain cave,,A131,ud me-en-de₃ aratta{ki}-ta i₃-re₇-a-me-en-de₃-en
+c.1.8.2.1,Lugalbanda in the mountain cave,,A132,ad₆ šeš-me šeg₁₂ kul-aba₄{ki}-še₃ ga-ba-ni-ib-kur₉-re-en-de₃-en
+c.1.8.2.1,Lugalbanda in the mountain cave,,A133,ab₂ kug {d}nanna sag₂ dug₄-ga-gin₇
+c.1.8.2.1,Lugalbanda in the mountain cave,,A134,gud-ab₂-ba nam-sumun-ba šurum-ma taka₄-a-gin₇
+c.1.8.2.1,Lugalbanda in the mountain cave,,A135,šeš-a-ne-ne gu₅-li-ne-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A136,kug {d}lugal-ban₃-da hur-ru-um kur-ra-ka mu-ni-ib-taka₄-a-aš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A137,er₂ ₁-e a-nir ₁-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A138,er₂-e niŋ₂ šag₄-ne-ša₄-ka
+c.1.8.2.1,Lugalbanda in the mountain cave,,A139,šag₄ sag₃-ge i-si-iš ŋa₂-ŋa₂-de₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A140,šeš-gal-šeš-gal {d}lugal-ban₃-da kur-ra ba-an-sun₅-ne-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A141,ud-ba lugal-ban₃-da tur₅-ra-am₃ ud ₂-am₃ i-ni-in-zal
+c.1.8.2.1,Lugalbanda in the mountain cave,,A142,ud ₂-am₃ ud MAŠ-am₃ ba-an-tah
+c.1.8.2.1,Lugalbanda in the mountain cave,,A143,{d}utu e₂-a-ni-še₃ igi-ni ŋa₂-ŋa₂-gin₇
+c.1.8.2.1,Lugalbanda in the mountain cave,,A144,maš₂-anše šurum-še₃ saŋ il₂-i-gin₇
+c.1.8.2.1,Lugalbanda in the mountain cave,,A145,ud šu niŋin₂ a₂ ud te-en-na-ra
+c.1.8.2.1,Lugalbanda in the mountain cave,,A146,i₃-gin₇ su-na mu-na-hal-ha
+c.1.8.2.1,Lugalbanda in the mountain cave,,A147,tur₅-ra-na nu-um-ta-ab-ed₃-de₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A148,{d}utu-ra an-še₃ igi he₂-em-ši-ib-il₂-ia-ke₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A149,a-a tud-da-na-gin₇ er₂ ba-ši-in-pad₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A150,šu sag₉-sag₉-ga-ni hur-ru-um kur-ra-kam mu-na-ab-zi-zi-zi-i
+c.1.8.2.1,Lugalbanda in the mountain cave,,A151,{d}utu silim ga-ra-ab-dug₄ nam-ba-tur₅-tur₅-de₃-en
+c.1.8.2.1,Lugalbanda in the mountain cave,,A152,ur-saŋ dumu {d}nin-gal silim ga-ra-ab-dug₄ nam-ba-tur₅-tur₅-de₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A153,{d}utu šeš-ŋu₁₀-ne-ka kur-ra mu-un-ed₃-de₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A154,hur-ru-um kur-ra ki sumur ki-ka nam-ba-an-tur₅-tur₅-de₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A155,ki ama nu-gub-ba a-a nu-gub-ba
+c.1.8.2.1,Lugalbanda in the mountain cave,,A156,zu-a nu-gub-ba kal-la nu-gub-ba
+c.1.8.2.1,Lugalbanda in the mountain cave,,A157,ama-ŋu₁₀ a dumu-ŋu₁₀ nu-um-me
+c.1.8.2.1,Lugalbanda in the mountain cave,,A158,šeš-ŋu₁₀ a šeš-ŋu₁₀ nu-um-me
+c.1.8.2.1,Lugalbanda in the mountain cave,,A159,ušur ama-ŋu₁₀ e₂-a kur₉-ra-na er₂-ŋu₁₀ nu-še₈-še₈
+c.1.8.2.1,Lugalbanda in the mountain cave,,A160,diŋir ama diŋir a-a ul-sug₂-ge-eš-a-ta
+c.1.8.2.1,Lugalbanda in the mountain cave,,A161,diŋir nam-ušur-ke₄ lu₂ ba-ra-an-ed₃-de₃ im-me-a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A162,ur nu-zu hul-a lu₂ nu-zu huš-am₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A163,kaskal nu-zu gaba kur-ra-ka
+c.1.8.2.1,Lugalbanda in the mountain cave,,A164,{d}utu lu₂ nu-zu lu₂ hul rib-ba-am₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A165,a-gin₇ ki-lul-la nam-ma-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A166,še-gin₇ sahar sis-a nam-ba-da-gu₇-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A167,{ŋeš}ilar-gin₇ edin ki nu-zu-ŋa₂ nam-ba-e-de₃-šub-bu-de₃-en
+c.1.8.2.1,Lugalbanda in the mountain cave,,A168,mu in-na šeš-ŋu₁₀-ne-ka nam-ba-an-tur₅-tur₅-de₃-en
+c.1.8.2.1,Lugalbanda in the mountain cave,,A169,su-lum mar dub₃-sa-ŋu₁₀-ne-ka nam-ba-an-tur₅-tur₅-de₃-en
+c.1.8.2.1,Lugalbanda in the mountain cave,,A170,dim₃-ma-gin₇ kur-ra muš₃ nam-ba-an-tum₂-mu
+c.1.8.2.1,Lugalbanda in the mountain cave,,A171,{d}utu er₂-na šu ba-an-ši-in-ti
+c.1.8.2.1,Lugalbanda in the mountain cave,,A172,zi-šag₄-ŋal₂-la-ni hur-ru-um kur-ra-ka mu-na-ni-ib-ed₃-de₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A173,ukur₃-e ŋa₂-ŋa₂-da ešemen dug₃-ga-am₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A174,kar-ke₄ eš₂-dam-še₃ ed₂-da ki-nu₂ dug₃-dug₃-ge-da
+c.1.8.2.1,Lugalbanda in the mountain cave,,A175,ukur₃-e niŋ₂ gu₇-da-ni
+c.1.8.2.1,Lugalbanda in the mountain cave,,A176,{d}inana dumu {d}suen-na-ke₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A177,gud-gin₇ kalam-ma saŋ mu-na-il₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A178,me-lem₄-ma-ni kug {d}šara₂-gin₇
+c.1.8.2.1,Lugalbanda in the mountain cave,,A179,muš₃-a-ni hur-ru-um kur-ra-kam ud mu-un-na-ŋa₂-ŋa₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A180,{d}inana-ra an-še₃ igi he₂-en-ši-ib-il₂-ia-ka
+c.1.8.2.1,Lugalbanda in the mountain cave,,A181,a-a tud-da-na-gin₇ er₂ ba-an-ši-in-pad₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A182,šu sag₉-sag₉-ga-ni hur-ru-um kur-ra-ka mu-na-zi-zi-i-zi
+c.1.8.2.1,Lugalbanda in the mountain cave,,A183,{d}inana e₂-ŋu₁₀ he₂-me-a iri{ki}-ŋu₁₀ he₂-me-a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A184,iri ama-ŋu₁₀ tud-da kul-aba{ki}
+c.1.8.2.1,Lugalbanda in the mountain cave,,A185,muš-gin₇ KI.KAL-ŋu₁₀ he₂-me-a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A186,ŋiri₂-gin₇ ki-in-dar-ŋu₁₀ he₂-me-a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A187,uŋ₃ gal-gal-la-ŋu₁₀-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A188,nin gal-gal-la-ŋu₁₀-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A189,a-a e₂-an-na-še₃ ma-X
+c.1.8.2.1,Lugalbanda in the mountain cave,,A191,KA.NI-KA.NI im-me
+c.1.8.2.1,Lugalbanda in the mountain cave,,A192,na₄ tur-tur-bi na₄ gi-rin hi-li-bi
+c.1.8.2.1,Lugalbanda in the mountain cave,,A193,an-ta {na₄}saŋ-kal-e ki-ta
+c.1.8.2.1,Lugalbanda in the mountain cave,,A194,akkil-bi-ta iši za-bu-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A195,gu₃-bi-ta sur ŋal₂ taka₄-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A196,a₂-ur₂ kur ha-šu-ur₂-ra-ke₄ muš₃ nam-ba-an-tum₂-mu
+c.1.8.2.1,Lugalbanda in the mountain cave,,A197,{d}inana er₂-na šu ba-an-ši-in-ti
+c.1.8.2.1,Lugalbanda in the mountain cave,,A198,zi-šag₄-ŋal₂-la {d}utu u₃-sa₂-gin₇ ba-an-ku
+c.1.8.2.1,Lugalbanda in the mountain cave,,A199,šag₄ hul₂-la {d}inana-ke₄ tug₂-gin₇ mu-un-dul-dul
+c.1.8.2.1,Lugalbanda in the mountain cave,,A200,i-gi₄-in-zu sila gibil šeg₁₂ kul-aba{ki}-še₃ na-ŋen
+c.1.8.2.1,Lugalbanda in the mountain cave,,A201,gud-de₃ tu₇ gig₂-ga gu₇-da
+c.1.8.2.1,Lugalbanda in the mountain cave,,A202,mul amar kug en-nu-uŋ₃-še₃ am₃-ši-ri
+c.1.8.2.1,Lugalbanda in the mountain cave,,A203,mul ud zal-le-da-ke₄ an-ne im-sar-re
+c.1.8.2.1,Lugalbanda in the mountain cave,,A204,ud babbar-re ŋi₆-a bi₂-ib-bur₂-re
+c.1.8.2.1,Lugalbanda in the mountain cave,,A205,{d}suen ud-sakar-e silim dug₄-ga
+c.1.8.2.1,Lugalbanda in the mountain cave,,A206,a-a {d}nanna {d}utu e₃-a-ra si sa₂ mu-na-an-šum₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A207,en giri₁₇-zal men-na tum₂-ma
+c.1.8.2.1,Lugalbanda in the mountain cave,,A208,{d}suen dumu ki aŋ₂-ŋa₂ {d}en-lil₂-la₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A209,diŋir si-un₃-na me-te-aš bi₂-ib-ŋal₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A210,me-lem₄-ma-ni kug {d}šara₂-gin₇
+c.1.8.2.1,Lugalbanda in the mountain cave,,A211,muš₃-a-ni hur-ru-um kur-ra-ka ud mu-na-ŋa₂-ŋa₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A212,{d}suen-ra an-še₃ igi he₂-en-ši-ib-il₂-ia-ka
+c.1.8.2.1,Lugalbanda in the mountain cave,,A213,a-a tud-da-na-gin₇ er₂ ba-an-ši-in-pad₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A214,šu sag₉-sag₉-ga-ni hur-ru-um kur-ra-ka mu-na-zi-zi-zi-i
+c.1.8.2.1,Lugalbanda in the mountain cave,,A215,lugal an su₃-ra₂ nu-mu-ra-teŋ₃-ŋe₂₆-da
+c.1.8.2.1,Lugalbanda in the mountain cave,,A216,{d}suen an su₃-ra₂ nu-mu-ra-teŋ₃-ŋe₂₆-da
+c.1.8.2.1,Lugalbanda in the mountain cave,,A217,lugal-e niŋ₂-si-sa₂-e ki aŋ₂ niŋ₂-erim₂-e hul gig
+c.1.8.2.1,Lugalbanda in the mountain cave,,A218,{d}suen-e niŋ₂-si-sa₂-e ki aŋ₂ niŋ₂-erim₂-e hul gig
+c.1.8.2.1,Lugalbanda in the mountain cave,,A219,niŋ₂-si-sa₂-e šag₄ hul₂-la si sa₂-bi ša-ra-da-a-de₆
+c.1.8.2.1,Lugalbanda in the mountain cave,,A220,{ŋeš}asal de-hi gal-am₃ u₃-luh-bi ša-ra-mu₂-mu₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A221,niŋ₂-si-sa₂-e zu₂ keše₂-bi e-du₈-u₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A222,niŋ₂-erim₂ zu₂ keše₂-bi nu-e-du₈
+c.1.8.2.1,Lugalbanda in the mountain cave,,A223,niŋ₂-erim₂-e saŋ-bi um-DU.DU eŋer-bi-še₃ bi₂-ib-tum₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A224,ud šag₄-zu i-im-il₂-i-am₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A225,niŋ₂-erim₂-e muš ze₂ guru₅-a-gin₇ uš₁₁-zu ši-im-ri-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A226,{d}suen-e er₂-na šu ba-an-ši-in-ti nam-til₃ mu-na-šum₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A227,ŋiri₃-ni ŋiri₃ ki us₂-sa ba-an-tah
+c.1.8.2.1,Lugalbanda in the mountain cave,,A228,₂-kam-ma-še₃ gud babbar an-ur₂-ta e₃-a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A229,gud ha-šu-ur₂-ra nam-e-a-ak-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A230,{kuš}gur₂₁-ra ki us₂-sa igi tab unken-na
+c.1.8.2.1,Lugalbanda in the mountain cave,,A231,{kuš}gur₂₁-ra e₂ niŋ₂-gur₁₁-ta e₃ igi tab ŋuruš-a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A232,šul {d}utu si-muš₃ kug-ga-na an-ta mu-ta-la₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A232A,kug
+c.1.8.2.1,Lugalbanda in the mountain cave,,A232B,me-lem₄-a-ni hur-ru-um kur-ra-ka ud mu-na-ŋa₂-ŋa₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A233,kug {d}lugal-ban₃-da hur-ru-um kur-ra-ka mu-na-šum₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A234,{d}udug sag₉-ga-ni an-ta im-ta-la₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A235,{d}lamma sag₉-ga-ni eŋer-a-na ba-e-ŋen
+c.1.8.2.1,Lugalbanda in the mountain cave,,A236,diŋir niŋ₂ mu-ra-ni bar-ta ba-gub
+c.1.8.2.1,Lugalbanda in the mountain cave,,A237,{d}utu-ra an-še₃ igi he₂-en-ši-ib-il₂-ia-ka
+c.1.8.2.1,Lugalbanda in the mountain cave,,A238,a-a tud-da-ni-gin₇ er₂ ba-an-ši-in-pad₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A239,šu sag₉-sag₉-ga-ni hur-ru-um kur-ra-ka mu-na-zi-zi-i-zi
+c.1.8.2.1,Lugalbanda in the mountain cave,,A240,{d}utu sipad kalam-ma a-a saŋ gig₂-ga
+c.1.8.2.1,Lugalbanda in the mountain cave,,A241,nu₂-a-zu-ne uŋ₃ ši-mu-e-da-nu₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A242,šul {d}utu zi-zi-da-zu-ne uŋ₃ ši-mu-e-da-zi-zi-i
+c.1.8.2.1,Lugalbanda in the mountain cave,,A243,{d}utu za-e-da nu-me-a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A244,mušen-e gu nu-DU saŋ še₂₉-eš₂ nu-di
+c.1.8.2.1,Lugalbanda in the mountain cave,,A245,lu₂ dili du-ur₂ šeš-tab-ba-ni-me-en
+c.1.8.2.1,Lugalbanda in the mountain cave,,A246,{d}utu lu₂ ₂ du ₃-kam-ma-bi za-e-me-en
+c.1.8.2.1,Lugalbanda in the mountain cave,,A247,hul₃ la₂ {ŋeš}igi-tab-ba-ni-me-en
+c.1.8.2.1,Lugalbanda in the mountain cave,,A248,ukur₃-re lu₂-lul-e lu₂ tug₂ nu-tuku-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A249,gaba ud-da-zu {tug₂}zulumhi kug-gin₇ ša-mu₄-mu₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A250,e₂ ur₅-ra tug₂ siki babbar bar-ba im-dul
+c.1.8.2.1,Lugalbanda in the mountain cave,,A251,ab-ba-ab-ba gu₂-tuku-gin₇
+c.1.8.2.1,Lugalbanda in the mountain cave,,A252,bur-šu-ma-e-ne gaba ud-da-zu
+c.1.8.2.1,Lugalbanda in the mountain cave,,A253,a-ar₃ ud ul-le₂-a-aš ši-im-dug₃-dug₃-ge-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A254,gaba ud-da-zu i₃-gin₇ rib-ba-am₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A255,am gal-gal-e dub₃ am₃-mi-ŋal₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A256,niŋ₂ kaš₃ niŋ₂ i₃-ib-sur-ra
+c.1.8.2.1,Lugalbanda in the mountain cave,,A257,ur-saŋ dumu {d}nin-gal-la bur₂-bur₂-babbar ši-mu-e-ši-ib-za
+c.1.8.2.1,Lugalbanda in the mountain cave,,A258,ki-ba lu₂-lu₂ gud sub₂-ba-ke₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A259,du₈-a-ni
+c.1.8.2.1,Lugalbanda in the mountain cave,,A260,šeš šeš-a-ni-a ba-ši-in-la₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A261,apin-a-ni ki a₂-ba-ka am₃-mi-ni-in-gub-gub-bu
+c.1.8.2.1,Lugalbanda in the mountain cave,,A262,i-lu-zu dug₃-ga dug₃-ga-am₃ an-e mu-un-ši-ib-us₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A263,ur-saŋ dumu {d}nin-gal-la me-teš₂ am₃-i-i-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A264,kug lugal-ban₃-da hur-ru-um kur-ra-ta im-ma-da-ra-ta-e₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A265,ud-bi-a zid-du šag₄ kuš₂-u₃ {d}en-lil₂-la₂-ka u₂ nam-til₃-la i-im-tud
+c.1.8.2.1,Lugalbanda in the mountain cave,,A266,id₂ hal-hal-la ama hur-saŋ-ŋa₂-ke₄ a nam-til₃-la im-tum₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A267,u₂ nam-til₃-la-ka zu₂ nam-mi-in-gub
+c.1.8.2.1,Lugalbanda in the mountain cave,,A268,a nam-til₃-la-ka nam-mi-in-rig₇
+c.1.8.2.1,Lugalbanda in the mountain cave,,A269,u₂ nam-til₃-la-ka zu₂ he₂-em-gub-bu-a-ka
+c.1.8.2.1,Lugalbanda in the mountain cave,,A270,a nam-til₃-la he₂-em-rig₇-a-ka
+c.1.8.2.1,Lugalbanda in the mountain cave,,A271,gu₂-e-ta umbin ₁-a-ni ki mu-un-dab₅-dab₅
+c.1.8.2.1,Lugalbanda in the mountain cave,,A272,ki-bi-ta anše kur-kur-ra-gin₇ am₃-GUL-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A273,dur₃ dili du-e {d}šakkan₂-na-ke₄ hur-saŋ i₃-si-il-le
+c.1.8.2.1,Lugalbanda in the mountain cave,,A274,dur₃ uru₁₆ gal-gin₇ kušum i₃-tag-tag-ge
+c.1.8.2.1,Lugalbanda in the mountain cave,,A275,dur₃ sal-la kaš₄-e kiŋ₂-ŋa₂-am₃ kaš₄ im-mi-dar-dar
+c.1.8.2.1,Lugalbanda in the mountain cave,,A276,ŋi₆-bi-ta ud te-en-še₃ na-ŋen
+c.1.8.2.1,Lugalbanda in the mountain cave,,A277,hur-saŋ šag₄-sig {d}suen-ne-ka kaš₄ mi-ni-ib-kar-kar-re
+c.1.8.2.1,Lugalbanda in the mountain cave,,A278,₁-a-ni-im lu₂ igi niŋin lu₂ nu-mu-un-da-bar-re
+c.1.8.2.1,Lugalbanda in the mountain cave,,A279,{kuš}maš-li-um-e niŋ₂ si sa₂-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A280,{kuš}a-ŋa₂-la₂-e niŋ₂ sa₂ dug₄-dug₄-ga
+c.1.8.2.1,Lugalbanda in the mountain cave,,A281,šeš-a-ne-ne gu₅-li-ne-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A282,a sed₄-gin₇ ninda ki-a mu-un-da-an-du₈-uš-am₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A283,kug {d}lugal-ban₃-da hur-rum kur-ra-ta im-ma-ra-an-il₂-il₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A284,gu₂ ne-mur-ra-ka ba-an-še₂₁
+c.1.8.2.1,Lugalbanda in the mountain cave,,A285,{ŋeš}buniŋ₂ bi₂-in-ra
+c.1.8.2.1,Lugalbanda in the mountain cave,,A286,igi-ni-še₃ mu-un-ta-ŋar-ra mu-un-si-il
+c.1.8.2.1,Lugalbanda in the mountain cave,,A287,šu im-ma-an-ti
+c.1.8.2.1,Lugalbanda in the mountain cave,,A288,teš₂-bi he₂-em-ra-ra-a-ta
+c.1.8.2.1,Lugalbanda in the mountain cave,,A289,u₃-dub₂ dar-dar-ra gu₂ edin-e ba-ni-in-nu₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A290,{na₄}zu₂ sal-la izi
+c.1.8.2.1,Lugalbanda in the mountain cave,,A291,izi-bi šag₄-sig-ga ud-gin₇ mu-na-an-e₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A292,{ninda}gug₂ du₈ nu-zu {im}šu-rin-na nu-zu
+c.1.8.2.1,Lugalbanda in the mountain cave,,A293,ne-mur ₇-ta ninda gi-izi-eš-ta-a ba-ra-an-du₈
+c.1.8.2.1,Lugalbanda in the mountain cave,,A294,ninda ni₂-bi-a en-na am₃-šeŋ₆-šeŋ₆
+c.1.8.2.1,Lugalbanda in the mountain cave,,A295,gi-šul-hi kur-ra ur₂-ba mi-ni-in-bur₁₂-bur₁₂ pa-ba mi-ni-in-suh-suh
+c.1.8.2.1,Lugalbanda in the mountain cave,,A296,gu₂-en gug₂-ga-ka šukur₂-ud-še₃ zu₂ ba-ni-in-keše₂-keše₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A297,{ninda}gug₂ du₈ nu-zu {im}šu-rin-na nu-zu
+c.1.8.2.1,Lugalbanda in the mountain cave,,A298,ne-mur ₇-ta ninda gi-izi-eš-ta ba-ra-an-du₈
+c.1.8.2.1,Lugalbanda in the mountain cave,,A299,lal₃ zu₂-lum-ma niŋ₂ ku₇-ku₇-da hi-li ba-ni-in-du₈-du₈
+c.1.8.2.1,Lugalbanda in the mountain cave,,A300,am su₄ am sig₇ am si guru₃-guru₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A301,am šag₄-sig-ga nam-a-a ak
+c.1.8.2.1,Lugalbanda in the mountain cave,,A302,am su₄-su₄ hur-saŋ ki sikil-la akkil-bi kiŋ₂-ŋa₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A303,u₃ ur₅-re šim-gig še-am₃ i₃-tukur₂-re
+c.1.8.2.1,Lugalbanda in the mountain cave,,A304,ŋiš ha-šu-ur₂-ra {u₂}numun₂-bur i₃-ma₅-ma₅
+c.1.8.2.1,Lugalbanda in the mountain cave,,A305,pa {ŋeš}še-nu {u₂}KI.KAL-gin₇ u₂ giri₁₇-ba mu-un-si-im-me
+c.1.8.2.1,Lugalbanda in the mountain cave,,A306,a id₂ hal-hal-la-ka i-im-na₈-na₈-de₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A307,{u₂}i-li-in-nu-uš u₂ sikil kur-ra-ka bu-lu-uh₃ mu-un-si-il-si-il-le
+c.1.8.2.1,Lugalbanda in the mountain cave,,A308,am su₄ am kur-ra u₂-a sub₂-ba-bi
+c.1.8.2.1,Lugalbanda in the mountain cave,,A309,₁-am₃ dub₃-ba-na im-ma-ra-an-dab₅
+c.1.8.2.1,Lugalbanda in the mountain cave,,A310,{ŋeš}še-du₁₀ kur-ra ur₂-ba mi-ni-in-bur₁₂-bur₁₂ pa-ba mi-ni-in-suh-suh
+c.1.8.2.1,Lugalbanda in the mountain cave,,A311,{ŋeš}i-ri₉-na-bi {u₂}A.NUMUN₂ gid₂-da a-šag₄-ga-ke₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A312,kug {d}lugal-ban₃-da ŋiri₂-ta ba-ra-an-šab
+c.1.8.2.1,Lugalbanda in the mountain cave,,A313,am su₄ am kur-ra saman-e bi₂-in-la₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A314,maš₂ su₄ maš₂-ud₅ maš₂-sa-la₂ maš₂-sa-keše₂-keše₂-sa maš₂-gu₂-e₃-gu₂-e₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A315,u₃ ur₅-re šim-gig še-am₃ i₃-tukur₂-re
+c.1.8.2.1,Lugalbanda in the mountain cave,,A316,ŋiš ha-šu-ur₂-ra {u₂}numun₂-bur-gin₇ i₃-ma₅-ma₅
+c.1.8.2.1,Lugalbanda in the mountain cave,,A317,pa {ŋeš}še-nu {u₂}KI.KAL-gin₇ u₂ giri₁₇-ba mu-un-sim-me
+c.1.8.2.1,Lugalbanda in the mountain cave,,A318,a id₂ hal-hal-la-ka i-im-na₈-na₈-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A319,{u₂}i-li-in-nu-uš u₂ sikil kur-ra-ka bu-lu-uh₃ mu-un-si-il-si-il-le
+c.1.8.2.1,Lugalbanda in the mountain cave,,A320,maš₂ su₄ maš₂-ud₅ u₂-a sub₂-ba-bi
+c.1.8.2.1,Lugalbanda in the mountain cave,,A321,₂-am₃ dub₃-ba-na im-ma-ra-an-dab₅
+c.1.8.2.1,Lugalbanda in the mountain cave,,A322,{ŋeš}še-du₁₀ kur-ra ur₂-ba mi-ni-in-bur₁₂-bur₁₂ pa-ba mi-ni-in-suh-suh
+c.1.8.2.1,Lugalbanda in the mountain cave,,A323,{ŋeš}i-ri₉-na-bi {u₂}A.NUMUN₂ gid₂-da a-šag₄-ga-ke₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A324,kug {d}lugal-ban₃-da ŋiri₂-ta ba-ra-an-šab
+c.1.8.2.1,Lugalbanda in the mountain cave,,A325,maš₂ su₄ maš₂-ud₅ maš₂ ₂-a-bi HAR-GAM-še₃ bi₂-in-la₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A325A,saŋ
+c.1.8.2.1,Lugalbanda in the mountain cave,,A325B,im-ta-an-dub
+c.1.8.2.1,Lugalbanda in the mountain cave,,A326,₁-a-ni lu₂ igi niŋin nu-mu-un-da-ab-bar-re
+c.1.8.2.1,Lugalbanda in the mountain cave,,A327,lugal-ra u₃-sa₂-ge sa₂ nam-ga-mu-ni-ib-dug₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A328,u₃-sa₂-ge kur nam-gu₂-ka₃-ke₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A329,ku-kur galam-ma-gin₇ šu e₂-ŋar₈-gin₇ gul-la
+c.1.8.2.1,Lugalbanda in the mountain cave,,A330,šu-bi galam-am₃ ŋiri₃-bi galam-am₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A331,niŋ₂ igi-bi-ta lal₃ šu₂-šu₂-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A332,igi-bi-ta lal₃ dirig-dirig-ga-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A333,ugula nu-zu-e nu-banda₃ nu-zu-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A334,niŋ₂ ur-saŋ-ra a₂-ŋal₂-la₂-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A335,{ŋeš}da-ha-ša {d}nin-ka-si-ka-ke₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A336,{d}lugal-ban₃-da u₃-sa₂-ge sa₂ nam-ga-mu-ni-ib-dug₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A337,{u₂}i-li-in-nu-uš u₂ sikil kur-ra-ka ki-nu₂ ŋar-še₃ mu-un-ŋar
+c.1.8.2.1,Lugalbanda in the mountain cave,,A338,{tug₂}zulumhi-e mu-un-barag₂ gada babbar bi₂-in-bur₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A339,e₂ ur₅-ra a tu₅-tu₅ nu-ŋal₂-la ki-bi-še₃ sa₂ im-dug₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A340,lugal u₃-sa₂-ge la-ba-an-nu₂-a ma-mu₂-de₃ ba-nu₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A341,ma-mu₂-da {ŋeš}ig-e nu-gi₄-e za-ra nu-gi₄-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A342,lul-da lul di-da zid-da zid di-dam
+c.1.8.2.1,Lugalbanda in the mountain cave,,A343,lu₂ hul₂-hul₂-le-de₃ lu₂ šir₃-šir₃-re-de₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A344,{gi}pisaŋ kad₅ diŋir-re-e-ne-kam
+c.1.8.2.1,Lugalbanda in the mountain cave,,A345,unu₂ igi sag₉ {d}nin-lil₂-la₂-kam
+c.1.8.2.1,Lugalbanda in the mountain cave,,A346,ad gi₄-gi₄ {d}inana-kam
+c.1.8.2.1,Lugalbanda in the mountain cave,,A347,ga-bi₂-ib₂-lu-lu nam-lu₂-ulu₃-ka gu₃ lu₂ nu-til₃-la
+c.1.8.2.1,Lugalbanda in the mountain cave,,A348,{d}za-an-gar₃-ra diŋir ma-mu₂-da-ke₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A349,{d}lugal-ban₃-da ni₂-te-ni gud-gin₇ X-ša₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A350,amar ab₂-šilam-ma-gin₇ gu₃ nun im-me
+c.1.8.2.1,Lugalbanda in the mountain cave,,A351,am su₄-e ŋa₂-a-ra a-ba-a ma-ra-ab-šum-X
+c.1.8.2.1,Lugalbanda in the mountain cave,,A352,i₃-udu-bi ŋa₂-a-ra a-ba-a ma-ra-ab-zal-X-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A353,{urud}ha-zi-in-ŋa₂ kug-bi nagga šu im-ma-Xbr-ti
+c.1.8.2.1,Lugalbanda in the mountain cave,,A354,ŋiri₂ ur₂-ra-ŋa₂ an-bar-sug₄-am₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A355,am su₄ am kur-ra-ke₄ lu₂-ŋešpu₂-gin₇ ga-am₃-ma-DU.DU lu₂-lirum-gin₇ ga-am₃-ši-gam-gam
+c.1.8.2.1,Lugalbanda in the mountain cave,,A356,lipiš-bi he₂-em-ta-ab-zig₃ {d}utu e₃-a-ra u₃-mu-na-ŋar
+c.1.8.2.1,Lugalbanda in the mountain cave,,A357,maš₂ su₄ maš₂-ud₅ maš₂ ₂-a-bi saŋ-du-bi še-gin₇ um-ta-a-dub
+c.1.8.2.1,Lugalbanda in the mountain cave,,A358,uš₂-bi si-dug₄-ga um-ma-ni-in-de₂-de₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A359,ir edin-na DU.DU-a-bi
+c.1.8.2.1,Lugalbanda in the mountain cave,,A360,muš ul₄ kur-ra-ke₄ si-im he₂-em-ši-ak-de₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A361,{d}lugal-ban₃-da i-im-zig₃ ma-mu₂-da im-bu-lu-uh₃ u₃-sa₂-ga-am₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A362,igi-ni šu bi₂-in-kiŋ₂ niŋ₂-me-ŋar sug₄-ga-am₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A363,{urud}ha-zi-in-na-ni kug-bi nagga šu im-ma-an-ti
+c.1.8.2.1,Lugalbanda in the mountain cave,,A364,ŋiri₂ ur₂-ra-ka-ni an-bar-sug₄-am₃ im-ma-da-MUŠ₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A365,am su₄ am kur-ra-ke₄ lu₂-ŋešpu₂-gin₇ im-ma-DU.DU lu₂-lirum-ma-gin₇ im-ma-ši-gam
+c.1.8.2.1,Lugalbanda in the mountain cave,,A366,lipiš-bi im-ta-an-zig₃ {d}utu e₃-a-ra mu-na-an-ŋar
+c.1.8.2.1,Lugalbanda in the mountain cave,,A367,maš₂ su₄ maš₂-ud₅ maš₂ ₂-a-bi saŋ-du-bi še-gin₇ im-ta-an-dub
+c.1.8.2.1,Lugalbanda in the mountain cave,,A368,uš₂-bi si-dug₄-ga im-ma-ni-in-de₂-de₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A369,ir-bi edin-na DU.DU-a-bi
+c.1.8.2.1,Lugalbanda in the mountain cave,,A370,muš ul₄ kur-ra-ke₄ si-im im-ši-ak-de₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A371,{d}utu nam-ta-e₃-aš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A372,lugal-ban₃-da mu {d}en-lil₂-le zi
+c.1.8.2.1,Lugalbanda in the mountain cave,,A373,an {d}en-lil₂ {d}en-ki {d}nin-hur-saŋ-ŋa₂-ke₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A374,si-dug₄-ta ŋišbun-na im-ma-ni-in-dur₂-ru
+c.1.8.2.1,Lugalbanda in the mountain cave,,A375,kur-ra ki ŋar-ra mu-un-ak-a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A376,ŋišbun ba-ni-in-ŋar ne-saŋ ba-ni-in-de₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A377,kaš gig₂ kurun ziz₂ babbar
+c.1.8.2.1,Lugalbanda in the mountain cave,,A378,ŋeštin na₈-na₈ gu₂-me-ze₂ dug₃-ga
+c.1.8.2.1,Lugalbanda in the mountain cave,,A379,edin-na a sed₄ ki-še₃ im-ma-ni-in-de₂-de₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A380,uzu maš₂ su₄-ke₄ ŋiri₂ bi₂-in-ak
+c.1.8.2.1,Lugalbanda in the mountain cave,,A381,ur₅ niŋ₂ gig₂ izi im-mi-ni-in-si
+c.1.8.2.1,Lugalbanda in the mountain cave,,A382,na-izi sig₉-ga-gin₇ i-bi₂-bi bi₂-in-mu₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A383,i-gi₄-in-zu {d}dumu-zid ir dug₃-ga amaš-a kur₉-ra-a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A384,niŋ₂ šu dug₄-ga lugal-ban₃-da
+c.1.8.2.1,Lugalbanda in the mountain cave,,A385,an {d}en-lil₂ {d}en-ki {d}nin-hur-saŋ-ŋa₂-ke₄ dug₃-ga-bi mu-un-gu₇-uš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A386,a₂ sikil-la ki dadag-ga-bi
+c.1.8.2.1,Lugalbanda in the mountain cave,,A387,barag {d}suen-na kug-gin₇ mi-ni-in-ri
+c.1.8.2.1,Lugalbanda in the mountain cave,,A388,barag {d}utu barag {d}suen-na-ka igi-nim-še₃ ba-du₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A389,barag ₂-a-bi za-gin₃ {d}inana-ka še-er-ka-an ba-ni-in-dug₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A390,{d}suen-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A391,a₂-an-kar₂ a ba-an-tu₅-tu₅
+c.1.8.2.1,Lugalbanda in the mountain cave,,A392,iri an-na a tu₅-a-ni
+c.1.8.2.1,Lugalbanda in the mountain cave,,A393,gu₂-en gug₂-ga-ka me-te-aš bi₂-ib-ŋar
+c.1.8.2.1,Lugalbanda in the mountain cave,,A394,zi {d}en-ki a-a diŋir-re-e-ne an-da-ak-ak-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A395,an ŋal₂ taka₄-a mu-un-dab₅-ba in-ŋal₂-le-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A396,saŋ šu mu-ni-in-ŋal₂-le-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A397,{ŋeš}peš₃ še-er-gu hi-li bur-ra-gin₇
+c.1.8.2.1,Lugalbanda in the mountain cave,,A398,a₂-ne-ne-a mu-un-de₃-la₂-la₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A399,maš-da₃ kaš₄ kar-re {d}suen-na-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A400,niŋ₂ ur₅ sag₉-sag₉ {d}nin-lil₂-la₂-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A401,{d}iškur-ra a₂-tah-a-ni-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A402,gu dub₂-bu-me-eš še dub₂-bu-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A403,maš₂-anše ŋiš-haš ak-a-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A404,ki-bal hul gig {d}suen-na-še₃ ud-de₃ DU.DU-e-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A405,lu₂ ud-de₃ DU.DU-e e-ne-ne he₂-en-na-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A406,ud gid₂-da ud šu₄-še₃ im-mi-ib-nu₂-u₃-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A407,ŋi₆ lugud₂-da e₂ du₃-ba mu-ni-ib-ku₄-ku₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A408,ud gid₂-da ŋi₆ lugud₂-da dam ŋiš-nu₂-a mi-ni-ib-nu₂-u₃-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A409,ud niŋ₂ giri₁₇-zal im-ma-ab-šum₂-mu-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A410,ŋi₆ u₃-na suh₁₀ za-gin₃ im-ši-ib-keše₂-re-de₃-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A411,si-si-ig sim{mušen}-sim{mušen} {d}utu-ka ur₂-ba šu mi-ni-in-te
+c.1.8.2.1,Lugalbanda in the mountain cave,,A412,e₂-e₂-a i-im-ku₄-ku₄-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A413,e-sir₂-e-sir₂-ra gu₂ mu-un-gid₂-gid₂-i-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A414,ga-ab-dug₄ inim dug₄-ga-ab šu-a ga-bi₂-ib₂-gi₄-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A415,ama-ra kiŋ₂ dug₄-ga nin gal-ra inim gi₄-a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A416,da ŋiš-nu₂-da-ka ki-nu₂ ak-a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A417,sig₉-ga-a saŋ ŋiš ra-ra
+c.1.8.2.1,Lugalbanda in the mountain cave,,A418,ku₁₀-ku₁₀-ga zuh-ha-a-ba
+c.1.8.2.1,Lugalbanda in the mountain cave,,A419,{ŋeš}ig {ŋeš}banšur nam-lu₂-ulu₃-ta ba-ta-an-e₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A420,šu-a mi-ni-ib-bal-e-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A421,teš₂-bi za-ra-za-ra zu₂ mu-ne-keše₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A422,ur-saŋ gid₂-da lu₂-še₃ nu₂-nu₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A423,{d}utu gid₂-da lu₂-še₃ nu₂-nu₂-u₃-a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A424,ur-saŋ šul {d}utu inim zid-da-kam
+c.1.8.2.1,Lugalbanda in the mountain cave,,A425,šir₃ zu šag₄ inim-ma-zu-a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A426,an ki ka-inim-ma-bi si um-mi-in-sa₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A427,ka-inim-ma šul {d}utu-kam
+c.1.8.2.1,Lugalbanda in the mountain cave,,A428,{d}a-nun-na diŋir gal-gal-e-ne nu-mu-un-zu-uš-a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A429,ud re-ta {d}utu {d}en-lil₂-la₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A430,nam-niŋir gal an-na mu-na-an-šum₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A431,kur-kur-ra mu-na-an-tah
+c.1.8.2.1,Lugalbanda in the mountain cave,,A432,diŋir-re-e-ne-ke₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A433,ab-ba iri gal-zu e₃ gal an kug-ga
+c.1.8.2.1,Lugalbanda in the mountain cave,,A434,an ki ka-inim-ma-bi si im-mi-in-sa₂-ta
+c.1.8.2.1,Lugalbanda in the mountain cave,,A435,ka-inim-ma-ke₄ si sa₂ šul {d}utu-kam
+c.1.8.2.1,Lugalbanda in the mountain cave,,A436,{d}a-nun-na diŋir gal-gal-e-ne nu-mu-un-zu-uš-a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A437,kug me₃ kug
+c.1.8.2.1,Lugalbanda in the mountain cave,,A438,saŋ šu ak nu-mu-su-bu-X
+c.1.8.2.1,Lugalbanda in the mountain cave,,A439,
+c.1.8.2.1,Lugalbanda in the mountain cave,,A440,gu₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A441,eŋer šu ni₂-ba gi₄-gi₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A442,{d}utu-ra {d}en-lil₂-la₂ diŋir ki mah-a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A443,sun₄ mu₂ dumu {d}nin-gal-la mu-na-da-an-ku₄-ku₄
+c.1.8.2.1,Lugalbanda in the mountain cave,,A444,{d}suen mu-na-an-šum₂-mu-uš šen mu-na-ab-tah-e-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A445,nam kur-kur-ra-ke₄ šu-ne-a mu-un-na-ni-in-gen₆-ne₂-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A446,ŋi₆ u₃-na-ka šah gig₂ mu-un-zu-uš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A447,an-bar₇-gana₂-ka {d}utu-ur₂ ka-inim-ma-ka-ni igi-še₃ mu-un-da-ŋal₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A448,an-na šir₃ zu igi-ni mu-un-ŋal₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A449,{d}udug nin diŋir nu-mu-un-da-sa₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A450,niŋ₂ igi-ne-ne-kam
+c.1.8.2.1,Lugalbanda in the mountain cave,,A451,an {d}en-lil₂ {d}inana diŋir mu-un-ne-en-kur₉
+c.1.8.2.1,Lugalbanda in the mountain cave,,A452,šar₂-ra mu-un-zu-uš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A453,nu-keše₂ gir₅-gir₅-re-de₃ igi bi₂-in-du₈-ru-uš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A454,niŋ₂ mul-la-ba ab-lal₃-ta mu-un-ne-GAG
+c.1.8.2.1,Lugalbanda in the mountain cave,,A455,{ŋeš}ig kur šuba ŋiš-gan kur šuba
+c.1.8.2.1,Lugalbanda in the mountain cave,,A456,mi-tum {d}KAL-KAL an-na
+c.1.8.2.1,Lugalbanda in the mountain cave,,A457,har-ra-an {d}inana lil₂-ta e₃-a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A458,{ŋeš}taškarin kur šuba-ta e₃-a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A459,kug-sig₁₇ ban₃-da
+c.1.8.2.1,Lugalbanda in the mountain cave,,A460,me₃ ba-sug₂-ge-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A461,me₃ ra-gin₇
+c.1.8.2.1,Lugalbanda in the mountain cave,,A462,šag₄ {d}inana eš₂ za-gin₃ mi-ni-ib-sar-sar-e-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A463,lu₂ šag₄ {d}inana sag₉-ge-me-eš me₃ ba-sug₂-ge-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A464,me₃ izi-ŋar-bi ₁₄-me-eš nu-ga-mu-rib-ba-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A465,ŋi₆ MAŠ-a e₂ saŋ ŋar-ra šu
+c.1.8.2.1,Lugalbanda in the mountain cave,,A466,ŋi₆ u₃-na-ka izi-gin₇ mu-un-sar-sar-re-de₃-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A467,zu₂ keše₂-da nim-gin₇ mu-un-na-ŋir₂-ŋir₂-re-de₃-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A468,šag₄ sig₁₀-ga me₃-ka
+c.1.8.2.1,Lugalbanda in the mountain cave,,A469,a mah e₃-a-gin₇ gu₃ nun mi-ni-ib-be₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A470,lu₂ šag₄ {d}inana sag₉-ge-me-eš me₃ ba-sug₂-ge-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A471,izi-ŋar me₃ ₇-me-eš nu-ga-mu-rib-ba-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A472,an sig₇-ga men saŋ il₂-la-gin₇ ul-la ba-an-sug₂-ge-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A473,saŋ-ki-ne-ne igi-ne-ne an-usan sig₇-ga-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A474,ŋeštug₂-ne-ne {ŋeš}ma₂ X-la₂-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A475,ka-ne-ne šah ŋiš-gi nam-a-a ak-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A476,ka me₃-ka gub-ba-ne-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A477,zi-šag₄-ŋal₂-bi du₃ sag₃-ge-ne
+c.1.8.2.1,Lugalbanda in the mountain cave,,A478,zi ir-bi ud ud teŋ₃-ŋe₂₆ ki mu-un-ne-hul-uš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A479,lu₂ šag₄ {d}inana sag₉-ge-me-eš me₃ ba-sug₂-ge-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A480,{d}nin-tur₅ an-na šar₂-šar₂-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A481,zi an-na šu bi₂-in-du₈-uš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A482,šita₃ kug mul-mul zag an ki-še₃ mu-un-ne-de₃-ŋal₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A483,{d}nin-TAB.KU.LIBIR mu-un-ne-de₃-ŋal₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A484,mul ud zal-le-da-ke₄ an-na mul mu-un-ne-ur₄-re
+c.1.8.2.1,Lugalbanda in the mountain cave,,A485,{d}utu agrun-ta e₃-a-ni
+c.1.8.2.1,Lugalbanda in the mountain cave,,A486,šita₃ kug an-na-ke₄ si mu-un-na-ab-sa₂-e
+c.1.8.2.1,Lugalbanda in the mountain cave,,A487,diŋir si sa₂ nitah₂-da nu₂-a
+c.1.8.2.1,Lugalbanda in the mountain cave,,A488,diŋir erim₂-du šag₄ niŋ₂-erim₂ ŋal₂
+c.1.8.2.1,Lugalbanda in the mountain cave,,A489,diŋir
+c.1.8.2.1,Lugalbanda in the mountain cave,,A490,e-ne-ne-ne {d}nanna-gin₇ {d}utu-gin₇ {d}inana me ₅₀-gin₇
+c.1.8.2.1,Lugalbanda in the mountain cave,,A491,an ki zag-ba ŋiš mu-un-ni-KAM
+c.1.8.2.1,Lugalbanda in the mountain cave,,A492,niŋ₂-erim₂ dug₄-ga ensi-bi-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A493,niŋ₂-a₂-zig₃-ga igi du₈-bi-me-eš
+c.1.8.2.1,Lugalbanda in the mountain cave,,A494,mu-un-zu-ub₃ šu mah mu-un-zu-ub₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A495,mu-un-zu-ub₃ bur ba-zu-ub₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A496,an sig₇-ga-am₃ mul šar₂-ra bi₂-in-zu-ub₃-bu
+c.1.8.2.1,Lugalbanda in the mountain cave,,A497,maš-te ŋiš-bur₂-gin₇ bal-e-de₃ {mul}{ŋeš}gigir bi₂-in-zu-ub₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,A498,{ŋeš}erin duru₅ kur ha-šu-ur₂-ra-ke₄ ki X-un-ak
+c.1.8.2.1,Lugalbanda in the mountain cave,,A499,an-ur₂ an-pa sa-par₃
+c.1.8.2.1,Lugalbanda in the mountain cave,,B1,
+c.1.8.2.1,Lugalbanda in the mountain cave,,B2,
+c.1.8.2.1,Lugalbanda in the mountain cave,,B3,unu₂ {d}X
+c.1.8.2.1,Lugalbanda in the mountain cave,,B4,igi an-na
+c.1.8.2.1,Lugalbanda in the mountain cave,,B5,{d}nanna
+c.1.8.2.1,Lugalbanda in the mountain cave,,B6,
+c.1.8.2.1,Lugalbanda in the mountain cave,,B7,

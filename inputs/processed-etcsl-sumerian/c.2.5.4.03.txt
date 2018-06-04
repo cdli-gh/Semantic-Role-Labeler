@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+c.2.5.4.03,A hymn to Nibru and Išme-Dagan (Išme-Dagan C),,1,eš₃ nibru{ki} eš₃ abzu-a ab-dirig e₂-kur za-gin₃-am₃
+c.2.5.4.03,A hymn to Nibru and Išme-Dagan (Išme-Dagan C),,2,nun-zu nun-a ab-dirig kur gal a-a {d}en-lil₂
+c.2.5.4.03,A hymn to Nibru and Išme-Dagan (Išme-Dagan C),,3,nin gal-zu munus zid ama {d}nin-lil₂ nam-nin-e dib-ba-am₃
+c.2.5.4.03,A hymn to Nibru and Išme-Dagan (Išme-Dagan C),,4,saŋ en₃ tar-zu nam-šul-la dirig ur-saŋ {d}nin-urta
+c.2.5.4.03,A hymn to Nibru and Išme-Dagan (Išme-Dagan C),,5,sukkal-mah zabar zid-za tum₂-ma a₂ ki-nu₂-zu dug₃-dug₃
+c.2.5.4.03,A hymn to Nibru and Išme-Dagan (Išme-Dagan C),,6,saŋ keše₂ me zid-za en-nu kar₂-kar₂-dam
+c.2.5.4.03,A hymn to Nibru and Išme-Dagan (Išme-Dagan C),,7,sipad me zid-za en-nu kar₂-kar₂-bi-im
+c.2.5.4.03,A hymn to Nibru and Išme-Dagan (Išme-Dagan C),,8,u₂-a-zu a ru-a kur gal-la u₃-tud-da {d}nin-lil₂-la₂
+c.2.5.4.03,A hymn to Nibru and Išme-Dagan (Išme-Dagan C),,9,{d}iš-me-{d}da-gan a ru-a kur gal-la u₃-tud-da {d}nin-lil₂-la₂
+c.2.5.4.03,A hymn to Nibru and Išme-Dagan (Išme-Dagan C),,10,uŋ₃ šar₂-šar₂-ra-ba-na mu mah ŋiri₃-za sig₁₀-ga-am₃
+c.2.5.4.03,A hymn to Nibru and Išme-Dagan (Išme-Dagan C),,11,nibru{ki} za₃-mi₂-zu niŋ₂ ka-ge du₇-am₃ ka-ga₁₄ he₂-en-ŋal₂
+c.2.5.4.03,A hymn to Nibru and Išme-Dagan (Išme-Dagan C),,12,dug₄-ga zid-zu-še₃ diŋir {d}a-nun-na he₂-em-ma-sug₂-sug₂-ge-eš
+c.2.5.4.03,A hymn to Nibru and Išme-Dagan (Išme-Dagan C),,13,eš₃ nibru{ki} iri ul me hal-ha za₃-mi₂-zu dug₃-ga-am₃
+c.2.5.4.03,A hymn to Nibru and Išme-Dagan (Išme-Dagan C),,14,ezen gal-gal mi₂ dug₄-ga nibru{ki}
+c.2.5.4.03,A hymn to Nibru and Išme-Dagan (Išme-Dagan C),,15,nam-mah {d}en-lil₂ {d}nin-lil₂-la₂
+c.2.5.4.03,A hymn to Nibru and Išme-Dagan (Išme-Dagan C),,16,ki diŋir gal-gal-e-ne
+c.2.5.4.03,A hymn to Nibru and Išme-Dagan (Išme-Dagan C),,17,sa-gid₂-da-am₃

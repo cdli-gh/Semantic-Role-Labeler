@@ -1,0 +1,138 @@
+id_text,text_name,version,l_no,text
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,1,edin-na {d}dumu-zid-ŋu₁₀ i-lu za-ra i-lu za-ra i-lu balaŋ mu-un-da-sa₂-sa₂
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,2,e₂ a-ra-li mu-un-da-sa₂-sa₂
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,3,bad₃-tibira{ki} mu-un-da-sa₂-sa₂
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,4,du₆-šuba-a mu-un-da-sa₂-sa₂
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,5,ki nam-sipad-da mu-un-da-sa₂-sa₂ amaš {d}dumu-zid-da-ka
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,6,sipad lu₂
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,8,{d}dumu-zid
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,12,
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,13,
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,14,giri₁₇-zal-ŋu₁₀
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,15,ŋar-ra
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,16,
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,17,
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,23,mu-da-X-ba-e i-si-iš
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,24,
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,25,giri₁₇-zal-la-ke₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,26,ad-e-eš gi₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,27,{d}dumu-zid ka kug igi sag₉-sag₉ i-si-iš-bi mu-un-kuš₂-u₃
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,28,ka kug igi sag₉-sag₉ i-si-iš-bi mu-un-kuš₂-u₃
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,29,ŋuruš nitalam u₃-mu-un zu₂-lum
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,30,{d}dumu-zid-de₃ mu-un-kuš₂-u₃ i-si-iš-bi mu-un-kuš₂-u₃
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,31,kug {d}inana-ke₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,32,nam
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,33,in-nin lu₂ ŋar-ra ŋar-ra
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,34,ki-sikil {d}inana lu₂ ŋar-ra
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,35,ama₅ ama ugu-na-ka mu-un-DU.DU
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,36,e a-ra-zu sun₅-sun₅ mu-un-na-su₈-ug
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,37,a ama-ŋu₁₀ da-X-dib amaš-še₃ ga-ma-e-da-ŋen
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,38,ama-ŋu₁₀ ga-ša-an-gal-e da-X-dib amaš-še₃ ga-ma-e-da-ŋen
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,39,a-a-ŋu₁₀ ma-ra-bu₇ sun₅-na ga-da-X-dib
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,40,{d}suen ma-ra-bu₇ sun₅-na ga-da-X-dib
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,41,dumu ama ugu-ni kiŋ₂-gi₄-a-gin₇ ama₅-ta im-ma-ta-e₃
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,42,ama ga-ša-an-gal-e kiŋ₂-gi₄-a-gin₇ ama₅-ta im-ma-ta-e₃
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,43,nin-ŋu₁₀ gal mu-un-zu gal in-ga-an-tum₂-mu
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,44,kug {d}inana-ke₄ gal mu-un-zu gal in-ga-an-tum₂-mu
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,45,kaš ud re ud su₃-ra₂ dur₂-ru-na-bi-a
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,65,amaš-ta
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,67,e₂ um-ma {d}bi-lu-lu-še₃
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,68,ki-bi-a sipad saŋ-a ra
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,69,{d}dumu-zid saŋ-a ra
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,70,{d}ama-ušumgal-an-na saŋ-a ra
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,71,udu lugal-ŋa₂ {d}dumu-zid-da-ke₄ edin-na
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,72,{d}inana {lu₂}sipad nu-me-a
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,73,udu lugal-ŋa₂ zag-ba mu-un-gi₄-gi₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,74,nin-e nitalam-ni-ir šir₃ mu-un-ši-ib₂-u₃-tud šir₃ mu-un-ši-ib-dim₂-e
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,75,kug {d}inana-ke₄ {d}dumu-zid-ra šir₃ mu-un-ši-ib₂-u₃-tud šir₃ mu-un-ši-ib-dim₂-e
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,76,mu-lu nu₂ su₈-ba mu-lu nu₂ en-nu-uŋ₃-ba me-gub
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,77,{d}dumu-zid mu-lu nu₂ en-nu-uŋ₃-ba me-gub
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,78,{d}ama-ušumgal-an-na mu-lu nu₂ en-nu-uŋ₃-ba me-gub
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,79,{d}utu-da gub-ba en-nu-uŋ₃-ba me-gub
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,80,ŋi₆-da nu₂-nu₂ en-nu-uŋ₃-ba me-gub
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,81,ud-bi-a um-ma {d}bi-lu-lu
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,82,bur-šu-ma nin ni₂-te-na-ka
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,83,dumu-ni ŋir₂-ŋir₂-e lu₂ dili-am₃
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,84,ul₄-ul₄-e am₃-tum₂ lu₂ i₃-zu-am₃
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,85,gud dab₅-ba-ni tur₃ amaš-e am₃-si
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,86,guru₇-du₆-ra-ni gu₂ am₃-gur-gur
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,87,ul₄-ul₄-la šita₂ tag-ga-na sag₂ mu-un-ne-dug₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,88,dumu na gu₅-li na šir₃-ru edin-lil₂-la₂
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,89,igi-ni-še₃ i₃-tuš inim mu-un-da-ab-be₂
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,90,ud-bi-a nin-e šag₄-ga-ni a-na am₃-de₆
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,91,kug {d}inana-ke₄ šag₄-ga-ni a-na am₃-de₆
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,92,um-ma {d}bi-lu-lu ug₅-ge-de₃ šag₄-ga-ni am₃-de₆
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,93,nitalam ki aŋ₂-ŋa₂-ni {d}dumu-zid-{d}ama-ušumgal-an-na-ra
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,94,ki-nu₂ dug₃-dug₃-ge-de₃ šag₄-ga-ni nam-de₆
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,95,nin-ŋu₁₀ {d}bi-lu-lu edin-lil₂-la₂
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,96,dumu-ni ŋir₂-ŋir₂-e lil₂-la₂-a-bi
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,97,dumu na gu₅-li na šir₃-ru edin-lil₂-la₂
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,98,kug {d}inana-ke₄ eš₂-dam-ma ba-ni-in-kur₉
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,99,ki-tuš-a ba-e-gub nam mu-ni-ib-tar-re
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,100,ŋen-na ba-ug₅-ge-en na-nam-ma-am₃ mu-zu ga-ba-da-ha-lam-e
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,101,{kuš}ummud a sed niŋ₂ edin-na he₂-me-en
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,102,dumu-ni ŋir₂-ŋir₂-re e-ne-bi-da
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,103,{d}udug edin-na {d}lamma edin-na he₂-em-ma-da-me-eš-am₃
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,104,dumu na gu₅-li na šir₃-ru edin-lil₂-la₂
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,105,edin-na ha-mu-ni-ib₂-du zid₂ hu-mu-ni-ib₂-ŠID-e
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,106,ŋuruš edin-na du a ub-ta-an-bal-bal zid₂ ub-ta-an-dub-dub
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,107,{d}udug edin-na {d}lamma edin-na
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,108,sed-a hu-mu-ni-ib-be₂ dub-a hu-mu-ni-ib-be₂
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,109,ki sa-ha-a-na edin-na hu-mu-un-ŋal₂
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,110,um-ma {d}bi-lu-lu šag₄-ga-ni hu-mu-hul₂-le
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,111,i₃-ne-eš₂ {d}utu ud ne ur₅ he₂-en-na-nam
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,112,{kuš}ummud a sed niŋ₂ edin-na i₃-me
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,113,dumu-ni ŋir₂-ŋir₂-re e-ne-bi-da
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,114,{d}udug edin-na {d}lamma edin-na im-ma-an-da-an-me-eš-am₃
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,115,dumu na gu₅-li na šir₃-ru edin-lil₂-la₂
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,116,edin-na mu-ni-ib₂-ŋen zid₂ mu-ni-ib-ŠID-e
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,117,ŋuruš edin-na du a ub-ta-an-bal-bal zid₂ ub-ta-an-dub-dub
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,118,{d}udug edin-na {d}lamma edin-na
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,119,sed-a mu-ni-ib-be₂ dub-a mu-ni-ib-be₂
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,120,ki sa-ha-a-na edin-na mu-un-ŋal₂
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,121,um-ma {d}bi-lu-lu šag₄-ga-ni mu-hul₂-e
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,122,{d}inana-ke₄ ŋuruš ki-e šu
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,123,{d}dumu-zid ki-e šu
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,124,šu du₃-a-ni
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,136,mu-na-il₂
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,137,buru₅-habrud{mušen}-e nam il₂
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,138,ki-ulutim₂ {d}dumu-zid-da-še₃ buru₅-habrud{mušen}-e
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,139,tum₁₂{mušen}-gin₇ ab-lal₃-ba ni₂-bi-a ad-e-eš ba-ni-ib₂-gi₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,140,buru₅-habrud{mušen}-e a₂-bur₂-ba ad-e-eš ba-ni-ib-gi₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,141,lugal-ŋu₁₀ ama-ni {d}dur₇-tur-ra-am₃ i₃-hul₂-le
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,142,{d}dumu-zid-de₃ ama-ni {d}dur₇-tur-ra-am₃ i₃-hul₂-le
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,143,in-nin-ŋu₁₀ u₃-tud-da kuara{ki}
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,144,ki-sikil amar sig₇-ga men-bi
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,145,u₆ di niŋ₂-me-ŋar saŋ gig₂-ga
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,146,e-ne dug₄-dug₄ i-lu akkil dug₄-dug₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,147,nam-šita dug₄-dug₄ lugal-la
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,148,{d}ŋeštin-an-na-ke₄ nin
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,149,
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,150,ki-sikil u₆ di
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,151,{d}ŋeštin-an-na-ke₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,152,nu-gig-e šu šu-a mi-ni-TUR
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,153,teš₂-bi ba-ra-ŋa₂-ŋa₂
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,154,ka ba-an-ta-gi₄-gi₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,155,i-lu za-ra i-lu za-ra i-lu du₅-mu-ri-ib-dug₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,156,šeš-e ŋe₂₆ i-lu za-ra i-lu du₅-mu-ri-ib-dug₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,157,i-lu za-ra i-lu du₅-mu-ri-ib-dug₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,158,e₂ a-ra-li-a i-lu za-ra i-lu du₅-mu-ri-ib-dug₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,159,du₆-šuba-a i-lu za-ra i-lu du₅-mu-ri-ib-dug₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,160,bad₃-tibira{ki}-a i-lu za-ra i-lu du₅-mu-ri-ib-dug₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,161,ki nam-sipad-da i-lu za-ra i-lu du₅-mu-ri-ib-dug₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,162,in-nin mu-ud-na-ni ne-nam ib₂-da-sa₂
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,163,kug ga-ša-an-an-na su₈-ba {d}dumu-zid ne-nam ib-da-sa₂
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,164,ki-nu₂ ze₂-ze₂-ba in-nin-ra
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,165,šu ŋar gi₄-a ga-ša-an-an-na-ra šu-a ba-na-an-si
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,166,i-lu za-ra i-lu za-ra i-lu du₅-mu-ri-ib-dug₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,167,i-lu za-ra i-lu za-ra i-lu du₅-mu-ri-ib-dug₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,168,ki-ulutim₂ i-lu za-ra i-lu du₅-mu-ri-ib-dug₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,169,edin-na {d}dumu-zid i-lu za-ra i-lu du₅-mu-ri-ib-dug₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,170,e₂ a-ra-li-a i-lu za-ra i-lu du₅-mu-ri-ib-dug₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,171,du₆-šuba-a i-lu za-ra i-lu du₅-mu-ri-ib-dug₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,172,bad₃-tibira{ki}-a i-lu za-ra i-lu du₅-mu-ri-ib-dug₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,173,ki nam-sipad-da i-lu za-ra i-lu du₅-mu-ri-ib-dug₄
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,174,{d}dumu-zid ne-nam ib₂-da-sa₂-e šu ŋar gi₄-a
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,175,{d}bi-lu-lu ug₅-ga
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,176,{d}inana ib₂-da-sa₂
+c.1.4.4,Inana and Bilulu: an ulila to Inana,,177,u₃-lil₂-la₂ {d}inana-kam

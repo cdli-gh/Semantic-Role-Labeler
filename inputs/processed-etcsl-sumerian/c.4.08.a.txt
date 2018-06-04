@@ -1,0 +1,37 @@
+id_text,text_name,version,l_no,text
+c.4.08.a,A balbale to Inana,,1,ab₂ gu₃ dug₃-ga amar gu₃ su₃-ra
+c.4.08.a,A balbale to Inana,,2,in-nin₉ {e₂}tur₃-ra niŋ₂-niŋin₂-na-me-en
+c.4.08.a,A balbale to Inana,,3,{lu₂}ki-sikil nu-um-ši-dun₅-na-am₃
+c.4.08.a,A balbale to Inana,,4,{d}inana {dug}šakir₃-e gu₃ he₂-em-me
+c.4.08.a,A balbale to Inana,,5,{dug}šakir₃ nitalam₂-zu gu₃ he₂-em-me
+c.4.08.a,A balbale to Inana,,6,{dug}šakir₃ {d}dumu-zid-da gu₃ he₂-em-me
+c.4.08.a,A balbale to Inana,,7,{d}inana {dug}šakir₃-e gu₃ he₂-em-me
+c.4.08.a,A balbale to Inana,,8,{dug}šakir₃ {d}dumu-zid-X gu₃ he₂-em-me
+c.4.08.a,A balbale to Inana,,9,dun₅-ru {dug}šakir₃-ra ša-mu-ra-an-du₁₂-am₃
+c.4.08.a,A balbale to Inana,,10,{d}inana ur₅-re ša-mu-u₈-hul₂-le
+c.4.08.a,A balbale to Inana,,11,{dug}šakir₃ kug-ge gu₃ ša-mu-ra-ab-be₂
+c.4.08.a,A balbale to Inana,,12,{d}nin-e₂-gal ur₅-re ša-mu-u₈-hul₂-le
+c.4.08.a,A balbale to Inana,,13,sipad zid lu₂ i-lu dug₃-ga-ke₄
+c.4.08.a,A balbale to Inana,,14,mur ša₄-am₃ i-lu ša-mu-ra-an-ib-be₂
+c.4.08.a,A balbale to Inana,,15,in-nin i-lu niŋ₂ ku₇-ku₇-da
+c.4.08.a,A balbale to Inana,,16,{d}inana šag₄-zu he₂-em-hul₂-le
+c.4.08.a,A balbale to Inana,,17,in-nin {e₂}tur₃-ra kur₉-ra-zu-ne
+c.4.08.a,A balbale to Inana,,18,{d}inana tur₃ ša-mu-u₈-da-hul₂-le
+c.4.08.a,A balbale to Inana,,19,nu-u₈-gig amaš-a kur₉-ra-zu-ne
+c.4.08.a,A balbale to Inana,,20,{d}inana amaš ša-mu-u₈-da-hul₂-le
+c.4.08.a,A balbale to Inana,,21,e₂-ubur-ra-ka kur₉-ra-zu-ne
+c.4.08.a,A balbale to Inana,,22,siki u₈ zid-de₃ ša-mu-ra-an-barag₂-ge
+c.4.08.a,A balbale to Inana,,23,nitalam₂-zu {d}ama-ušumgal-an-na
+c.4.08.a,A balbale to Inana,,24,gaba kug-za he₂-em-me
+c.4.08.a,A balbale to Inana,,25,amaš kug-ge i₃ ki ha-ra-sud-e
+c.4.08.a,A balbale to Inana,,26,u₅ i₃-sud-e ga i₃-sud-e
+c.4.08.a,A balbale to Inana,,27,{d}inana ur₅-re ša-mu-u₈-hul₂-le
+c.4.08.a,A balbale to Inana,,28,amaš kug-ge i₃ ki ha-ra-sud-e
+c.4.08.a,A balbale to Inana,,29,{d}nin-e₂-gal ur₅-re ša-mu-u₈-hul₂-le
+c.4.08.a,A balbale to Inana,,30,lugal šag₄-ge bi₂-pad₃-da-zu
+c.4.08.a,A balbale to Inana,,31,{d}dumu-zid dumu {d}en-lil₂-ra
+c.4.08.a,A balbale to Inana,,32,{e₂}tur₃-e i₃ ga he₂-en-da-ab-be₂
+c.4.08.a,A balbale to Inana,,33,amaš-e giri₁₇-zal-la he₂-en-da-ab-be₂
+c.4.08.a,A balbale to Inana,,34,sipad zid-dam ud-da-ni he₂-su₃-ud
+c.4.08.a,A balbale to Inana,,35,sipad zid {d}dumu-zid-de₃ ud nam-he₂-a-ke₄
+c.4.08.a,A balbale to Inana,,36,bal-bal-e {d}inana-kam

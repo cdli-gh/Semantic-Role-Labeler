@@ -1,0 +1,62 @@
+id_text,text_name,version,l_no,text
+c.4.13.01,A balbale to Suen (Nanna A),,1,me-a lu ab₂ me-a lu-lu
+c.4.13.01,A balbale to Suen (Nanna A),,2,šilam {d}suen me-a lu-lu
+c.4.13.01,A balbale to Suen (Nanna A),,3,gig₂-bi {na₄}za-gin₃ duru₅-am₃
+c.4.13.01,A balbale to Suen (Nanna A),,4,ab₂-ba babbar-bi iti₆ e₃-a-am₃
+c.4.13.01,A balbale to Suen (Nanna A),,5,tur-tur-bi še-gin₇ ma-ra-ši-sur
+c.4.13.01,A balbale to Suen (Nanna A),,6,gal-gal-bi am-gin₇ ma-ra-ši-lu
+c.4.13.01,A balbale to Suen (Nanna A),,7,ab₂ lu-a tur₃ lu-a-na
+c.4.13.01,A balbale to Suen (Nanna A),,8,giri₁₇-zal an-na-ke₄ EŠ₂.NUN.SUD.EŠ₂.TU-ma ba-ni-in-du₈
+c.4.13.01,A balbale to Suen (Nanna A),,9,ga ab₂ sig₇-a-bi banšur-ra i-ni-in-de₂
+c.4.13.01,A balbale to Suen (Nanna A),,10,šu dadag-ge ga na-tum₃-tum₃
+c.4.13.01,A balbale to Suen (Nanna A),,11,lugal-ŋu₁₀ kiŋ₂-ŋa₂ til₃-la-ni
+c.4.13.01,A balbale to Suen (Nanna A),,12,{d}suen saman za-gin₃ ab₂ ak-a
+c.4.13.01,A balbale to Suen (Nanna A),,13,ab₂ am₃-ra-ra-ra ab₂ am₃-KU-KU-KU
+c.4.13.01,A balbale to Suen (Nanna A),,14,e-ne ab₂-ba nam-sipad mu-un-ak
+c.4.13.01,A balbale to Suen (Nanna A),,15,ama ugu-ni nin nibru{ki}-ke₄
+c.4.13.01,A balbale to Suen (Nanna A),,16,en-ra edin-a-na a-ra-zu mu-na-ab-be₂
+c.4.13.01,A balbale to Suen (Nanna A),,17,a-ra-zu unud a-ra-zu
+c.4.13.01,A balbale to Suen (Nanna A),,18,edin dug₃-ga ab₂ hu-mu-ra-ši-lu
+c.4.13.01,A balbale to Suen (Nanna A),,19,ŋi₆ u₃-na um-ma-te-a-ta
+c.4.13.01,A balbale to Suen (Nanna A),,20,e₂-kur eš₃ kal-kal za-e he₂-me-u₃-tud
+c.4.13.01,A balbale to Suen (Nanna A),,21,ki aŋ₂-bi na-nam ki aŋ₂-bi na-nam
+c.4.13.01,A balbale to Suen (Nanna A),,22,en e₂-kur-ra ki aŋ₂-bi na-nam
+c.4.13.01,A balbale to Suen (Nanna A),,23,{d}en-lil₂-la₂ lu₂ la-la-ni na-nam
+c.4.13.01,A balbale to Suen (Nanna A),,24,{d}suen ama ugu-ni i-lu-ni na-nam
+c.4.13.01,A balbale to Suen (Nanna A),,25,ama ugu-ni šag₄ ki aŋ₂-ŋa₂-ni-ta
+c.4.13.01,A balbale to Suen (Nanna A),,26,{d}suen-ra mi₂-e-eš na-mu-un-e
+c.4.13.01,A balbale to Suen (Nanna A),,27,ki aŋ₂ šag₄-ga niŋ₂ šag₄ te-en-na-me-en
+c.4.13.01,A balbale to Suen (Nanna A),,28,{d}suen amar za-gin₃ dub₃ kug-ga peš-a
+c.4.13.01,A balbale to Suen (Nanna A),,29,niŋ₂-nam šag₄-ge al dug₄-ga-zu
+c.4.13.01,A balbale to Suen (Nanna A),,30,niŋ₂ kal-kal-la šag₄-ge guru₇-a-zu
+c.4.13.01,A balbale to Suen (Nanna A),,31,zi-zi he₂-du₇ e₂-kur-ra
+c.4.13.01,A balbale to Suen (Nanna A),,32,dug₃ {d}en-lil₂-la₂-ka za-e al dug₄-ba-ni-ib
+c.4.13.01,A balbale to Suen (Nanna A),,33,giri₁₇-zal an-na za-e he₂-me-u₃-tud
+c.4.13.01,A balbale to Suen (Nanna A),,34,i-lu-zu e₂-kur-re he₂-em-me
+c.4.13.01,A balbale to Suen (Nanna A),,35,zi-zu uŋ₃-e he₂-em-mi-ib-aŋ₂-ŋe₂₆
+c.4.13.01,A balbale to Suen (Nanna A),,36,{d}suen an ki-a he₂-em-dirig-ge-en
+c.4.13.01,A balbale to Suen (Nanna A),,37,ab₂ ŊAR.NE ga-bi banšur-ra i-ni-in-de₂
+c.4.13.01,A balbale to Suen (Nanna A),,38,{d}suen-e šu-luh-e si bi₂-in-sa₂
+c.4.13.01,A balbale to Suen (Nanna A),,39,niŋ₂ šu dug₄-ga-ŋu₁₀ dadag-ga-am₃
+c.4.13.01,A balbale to Suen (Nanna A),,40,a-a-ŋu₁₀ {d}en-lil₂-le dug₃-ga he₂-gu₇-e
+c.4.13.01,A balbale to Suen (Nanna A),,41,lugal ma₂-gur₈ kug an-na dirig-ga
+c.4.13.01,A balbale to Suen (Nanna A),,42,ama-ni ul-la mi₂ na-mu-un-e
+c.4.13.01,A balbale to Suen (Nanna A),,43,am an-ne₂ zid-de₃-eš pad₃-da-ŋu₁₀
+c.4.13.01,A balbale to Suen (Nanna A),,44,mu-zu kur-kur-ra ze₂-be₂-eš im-ma-al
+c.4.13.01,A balbale to Suen (Nanna A),,45,en tur₃ kug-ga šu-luh dadag-ga-am₃
+c.4.13.01,A balbale to Suen (Nanna A),,46,a ra eš₃ kug-ga-am₃ saman za-gin₃-na
+c.4.13.01,A balbale to Suen (Nanna A),,47,dumu ur-saŋ {d}nin-lil₂-le tud-da
+c.4.13.01,A balbale to Suen (Nanna A),,48,{d}nanna a-gar₃ a ru-a ki aŋ₂ an kug-ga
+c.4.13.01,A balbale to Suen (Nanna A),,49,nam-sipad kalam-ma an-ne₂ ma-ra-an-šum₂
+c.4.13.01,A balbale to Suen (Nanna A),,50,{d}en-lil₂-le mu dug₃-ga mi-ri-in-sa₄
+c.4.13.01,A balbale to Suen (Nanna A),,51,dug₄-ga zid dumu {d}en-lil₂-la₂-me-en
+c.4.13.01,A balbale to Suen (Nanna A),,52,an-ne₂ šag₄ mah-a-na nam-lugal ma-ra-an-šum₂
+c.4.13.01,A balbale to Suen (Nanna A),,53,iri-zu urim₂{ki} šag₄-ge bi₂-pad₃
+c.4.13.01,A balbale to Suen (Nanna A),,54,id₂ nun-e ku₆ mušen ma-ra-ab-tum₃
+c.4.13.01,A balbale to Suen (Nanna A),,55,dumu-saŋ {d}en-lil₂-la₂ nam-en-na
+c.4.13.01,A balbale to Suen (Nanna A),,56,nam-lugal an-na za-ra mu-ra-an-šum₂
+c.4.13.01,A balbale to Suen (Nanna A),,57,diŋir an-na hi-li gur₃-ru-me-en
+c.4.13.01,A balbale to Suen (Nanna A),,58,iti₆-zu kug-ga-am₃ dadag-ga-am₃
+c.4.13.01,A balbale to Suen (Nanna A),,59,{d}utu-gin₇ su₈-ba kalam-ma-me-en
+c.4.13.01,A balbale to Suen (Nanna A),,60,{d}nanna lugal-ra ud-de₃-eš-e mu-un-e₃
+c.4.13.01,A balbale to Suen (Nanna A),,61,bal-bal-e {d}suen-na-kam

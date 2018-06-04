@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+c.4.19.4,A balbale (?) to Ninŋišzida (Ninŋišzida D),,1,il₂ nir-ŋal₂ an kug-ga barag mah-a il₂
+c.4.19.4,A balbale (?) to Ninŋišzida (Ninŋišzida D),,2,ŋal₂-la en {d}nin-ŋiš-zid-da-ke₄ en
+c.4.19.4,A balbale (?) to Ninŋišzida (Ninŋišzida D),,3,{d}a-nun-ke₄-ne diŋir ki-a
+c.4.19.4,A balbale (?) to Ninŋišzida (Ninŋišzida D),,4,{d}nin-ŋiš-zid-da {d}a-nun-ke₄-ne diŋir ki-a
+c.4.19.4,A balbale (?) to Ninŋišzida (Ninŋišzida D),,5,dumu nun an-ne₂ a₂ ma-ra-an-šum₂
+c.4.19.4,A balbale (?) to Ninŋišzida (Ninŋišzida D),,6,{d}nin-ŋiš-zid-da a₂ an-ne₂ ma-ra-an-šum₂
+c.4.19.4,A balbale (?) to Ninŋišzida (Ninŋišzida D),,7,{d}a-nun-ke₄-ne

@@ -1,0 +1,299 @@
+id_text,text_name,version,l_no,text
+c.1.3.3,Inana and Šu-kale-tuda,,1,in-nin me gal-gal-la barag-ge₄ he₂-du₇
+c.1.3.3,Inana and Šu-kale-tuda,,2,{d}inana me gal-gal-la barag kug-ge si-a
+c.1.3.3,Inana and Šu-kale-tuda,,3,{d}inana-ke₄ e₂-an-na-ka u₆ di-de₃ gub-ba
+c.1.3.3,Inana and Šu-kale-tuda,,4,ud-ba {lu₂}ki-sikil kur-ra ba-e-a-ed₃
+c.1.3.3,Inana and Šu-kale-tuda,,5,kug {d}inana-ke₄ kur-ra ba-e-a-ed₃
+c.1.3.3,Inana and Šu-kale-tuda,,6,niŋ₂-erim₂ niŋ₂-si-sa₂ zu-zu-de₃
+c.1.3.3,Inana and Šu-kale-tuda,,7,šag₄ kalam-ma-ka igi kar₂-kar₂-de₃
+c.1.3.3,Inana and Šu-kale-tuda,,8,lul zid pad₃-de₃-de₃ kur-ra ba-e-a-il₂
+c.1.3.3,Inana and Šu-kale-tuda,,9,i₃-ne-eš₂ lu₂ lu₂-ra a-na na-an-dug₄
+c.1.3.3,Inana and Šu-kale-tuda,,10,lu₂ lu₂-ra dili a-na na-an-tah
+c.1.3.3,Inana and Šu-kale-tuda,,11,nin-ŋu₁₀ am-da kur-ur₂-ra an-da-gub me šu am₃-du₇-du₇
+c.1.3.3,Inana and Šu-kale-tuda,,12,{d}inana tarah-maš kur-bad₃-da an-da-gub me šu am₃-du₇-du₇
+c.1.3.3,Inana and Šu-kale-tuda,,13,i₃-ne-eš₂ lu₂ lu₂-ra a-na na-an-dug₄
+c.1.3.3,Inana and Šu-kale-tuda,,14,lu₂-ulu₃ lu₂-ulu₃-ra dili a-na na-an-tah
+c.1.3.3,Inana and Šu-kale-tuda,,15,ud-ba an mu-un-šub ki mu-un-šub kur-ra ba-e-a-il₂
+c.1.3.3,Inana and Šu-kale-tuda,,16,{d}inana-ke₄ an mu-un-šub ki mu-un-šub kur-ra ba-e-a-il₂
+c.1.3.3,Inana and Šu-kale-tuda,,17,unug{ki}-ga e₂-an-na mu-ni-šub kur-ra ba-e-a-il₂
+c.1.3.3,Inana and Šu-kale-tuda,,18,zabalam{ki}-a gi-gun₄ mu-ni-šub kur-ra ba-e-a-il₂
+c.1.3.3,Inana and Šu-kale-tuda,,19,e₂-an-na ed₂-da-ni ŋi₆-par₄-ra la₂
+c.1.3.3,Inana and Šu-kale-tuda,,20,{d}inana tug₂-ba₁₃ la₂ kur-ra ba-e-a-il₂
+c.1.3.3,Inana and Šu-kale-tuda,,21,i₃-ne-eš₂ lu₂ lu₂-ra a-na na-an-dug₄
+c.1.3.3,Inana and Šu-kale-tuda,,22,lu₂-ulu₃ lu₂-ulu₃-ra dili a-na na-an-tah
+c.1.3.3,Inana and Šu-kale-tuda,,24,
+c.1.3.3,Inana and Šu-kale-tuda,,25,
+c.1.3.3,Inana and Šu-kale-tuda,,26,
+c.1.3.3,Inana and Šu-kale-tuda,,27,
+c.1.3.3,Inana and Šu-kale-tuda,,28,
+c.1.3.3,Inana and Šu-kale-tuda,,29,
+c.1.3.3,Inana and Šu-kale-tuda,,30,
+c.1.3.3,Inana and Šu-kale-tuda,,38,en₃ tar ki kiŋ₂-ŋa₂ im-mi-in-kuš₂-a-ta
+c.1.3.3,Inana and Šu-kale-tuda,,39,dag agrun-na-ŋu₁₀-uš ni₂-te-na hu-mu-un-du
+c.1.3.3,Inana and Šu-kale-tuda,,40,i₃-ne-eš₂ lu₂ lu₂-ra a-na an-na-dug₄
+c.1.3.3,Inana and Šu-kale-tuda,,41,lu₂ lu₂-ra dili a-na na-an-tah
+c.1.3.3,Inana and Šu-kale-tuda,,44,
+c.1.3.3,Inana and Šu-kale-tuda,,45,
+c.1.3.3,Inana and Šu-kale-tuda,,46,im-dim₂-e
+c.1.3.3,Inana and Šu-kale-tuda,,47,ŋiri₃-bi inim im-ma-ab-be₂
+c.1.3.3,Inana and Šu-kale-tuda,,48,ŋeštug₂-ŋeštug₂-ga inim mu-ni-ib-tah-e
+c.1.3.3,Inana and Šu-kale-tuda,,49,ugaₓ{mušen} inim ga-ra-ab-dug₄ inim-ŋu₁₀-še₃ ŋeštug₂-zu
+c.1.3.3,Inana and Šu-kale-tuda,,50,ugaₓ{mušen} eš₃-a inim ga-ra-ab-dug₄ inim-ŋu₁₀-še₃ ŋeštug₂-zu
+c.1.3.3,Inana and Šu-kale-tuda,,51,šembi-zid nam-išib eridug{ki}-ga
+c.1.3.3,Inana and Šu-kale-tuda,,52,i₃ a bur za-gin₃-na-ka ŋal₂-la-bi
+c.1.3.3,Inana and Šu-kale-tuda,,53,dag agrun-na-ka gub-ba-bi
+c.1.3.3,Inana and Šu-kale-tuda,,54,tun₃ um-me-DU zu₂ um-me-gub
+c.1.3.3,Inana and Šu-kale-tuda,,55,umah ga-raš{sar}-ke₄ sar nisig-ga-ka ki um-me-ni-tag
+c.1.3.3,Inana and Šu-kale-tuda,,56,he₂-X-bur₁₂-X
+c.1.3.3,Inana and Šu-kale-tuda,,57,i₃-ne-eš₂ lu₂-u₃ lu₂-ra a-na na-an-dug₄
+c.1.3.3,Inana and Šu-kale-tuda,,58,lu₂-u₃ lu₂-ra dili a-na na-an-tah
+c.1.3.3,Inana and Šu-kale-tuda,,59,uga{mušen} inim lugal-a-na-še₃ saŋ keše₂ ba-ši-in-ak
+c.1.3.3,Inana and Šu-kale-tuda,,60,šem-bi-zid nam-išib eridug{ki}-ga
+c.1.3.3,Inana and Šu-kale-tuda,,61,i₃ a bur za-gin₃-na-ka ŋal₂-la-bi
+c.1.3.3,Inana and Šu-kale-tuda,,62,dag agrun-na-ka gub-ba-bi
+c.1.3.3,Inana and Šu-kale-tuda,,63,tun₃ im-ma-DU zu₂ im-ma-gub
+c.1.3.3,Inana and Šu-kale-tuda,,64,umah ga-raš{sar}-ke₄ sar nisig-ga-ka ki im-ma-ni-in-tag
+c.1.3.3,Inana and Šu-kale-tuda,,65,im-mi-in-bur₁₂-bur₁₂
+c.1.3.3,Inana and Šu-kale-tuda,,66,nisig ga-raš{sar}-gin₇ sar-e mu₂-a
+c.1.3.3,Inana and Šu-kale-tuda,,67,ga-raš{sar}-gin₇ nu-erim₂ ba-gub-ba a-ba igi im-mi-in-du₈-a
+c.1.3.3,Inana and Šu-kale-tuda,,68,igi i₃-ur₄-ur₄ im-ma-ni-mu₂-mu₂ mu-ŋen-na im-ŋen
+c.1.3.3,Inana and Šu-kale-tuda,,69,mušen uga{mušen}-gin₇ a₂ lu₂ kiŋ₂-kiŋ₂-e
+c.1.3.3,Inana and Šu-kale-tuda,,70,lag an-še₃ sag₃-ge-da ki-še₃ tuš-u₃-da
+c.1.3.3,Inana and Šu-kale-tuda,,71,lag ki-še₃ sag₃-ge-da an-še₃ ed₂-de₃-da a-ba-a igi im-mi-in-du₈-a
+c.1.3.3,Inana and Šu-kale-tuda,,72,uga{mušen} nu-erim₂-ta ba-ra-an-zig₃
+c.1.3.3,Inana and Šu-kale-tuda,,73,{ŋeš}ŋišnimbar tubaₓ-la₂-a-še₃ an-na ba-e-a-ed₃
+c.1.3.3,Inana and Šu-kale-tuda,,74,šembi-zid ka-bi ba-du₈-du₈-a
+c.1.3.3,Inana and Šu-kale-tuda,,75,pa šu gur-gur-ra ka bi₂-in-su-ub-su-ub
+c.1.3.3,Inana and Šu-kale-tuda,,76,{ŋeš}ŋišnimbar-gin₇ ki-in-du
+c.1.3.3,Inana and Šu-kale-tuda,,77,ŋiš da-ri₂ mu₂-a a-ba-a igi im-mi-in-du₈-a
+c.1.3.3,Inana and Šu-kale-tuda,,78,{ŋeš}eme-EŠ₂.UŠ-{ŋeš}eme-EŠ₂.UŠ-bi {ŋeš}šag₄-ŋišnimbar-bi na-nam
+c.1.3.3,Inana and Šu-kale-tuda,,79,{ŋeš}eme-šu-ru-ug-{ŋeš}eme-šu-ru-ug-bi {ŋeš}niŋ₂-ŋišnimbar-bi na-nam
+c.1.3.3,Inana and Šu-kale-tuda,,80,{ŋeš}peš-tur-ZI-bi eš₂-gana₂-a-kam
+c.1.3.3,Inana and Šu-kale-tuda,,81,gan₂-ne₂ lugal-la-ka me-te-aš im-mi-ib-ŋal₂
+c.1.3.3,Inana and Šu-kale-tuda,,82,{ŋeš}pa-ni e₂-gal lugal-la-ka na de₅ ba-ab-šum₂-mu
+c.1.3.3,Inana and Šu-kale-tuda,,83,zu₂-lum-bi še nir-ra zag-ga sig₉-ga-am₃
+c.1.3.3,Inana and Šu-kale-tuda,,84,e₂ diŋir gal-gal-e-ne-ka me-te-aš im-mi-ib-ŋal₂
+c.1.3.3,Inana and Šu-kale-tuda,,85,mušen uga{mušen}-gin₇ a₂ lu₂ kiŋ₂-kiŋ₂-e
+c.1.3.3,Inana and Šu-kale-tuda,,86,lag an-še₃ sag₃-ge-da ki-še₃ tuš-u₃-da
+c.1.3.3,Inana and Šu-kale-tuda,,87,lag ki-še₃ sag₃-ge-da an-še₃ ed₂-de₃-da a-ba-a igi im-mi-in-du₈-a
+c.1.3.3,Inana and Šu-kale-tuda,,88,inim dug₄-ga lugal-a-na-ka uga{mušen} abzu-še₃ al-kur₉
+c.1.3.3,Inana and Šu-kale-tuda,,89,i₃-ne-eš₂ lu₂-u₃ lu₂-ra a-na na-an-dug₄
+c.1.3.3,Inana and Šu-kale-tuda,,90,lu₂-u₃ lu₂-ra dili a-na na-an-tah
+c.1.3.3,Inana and Šu-kale-tuda,,91,šu-kal-le-tud-da mu-ni na-nam
+c.1.3.3,Inana and Šu-kale-tuda,,92,dumu {d}igi-sig₇-sig₇ lu₂
+c.1.3.3,Inana and Šu-kale-tuda,,93,mu₂-sar-e a sig₁₀-sig₁₀-ge₅-da-ni
+c.1.3.3,Inana and Šu-kale-tuda,,94,nisig-ga da pu₂ ak-da-ni
+c.1.3.3,Inana and Šu-kale-tuda,,95,nisig dili-e nu-me-a a-na nu-me-a-bi
+c.1.3.3,Inana and Šu-kale-tuda,,96,ur₂-ba im-ta-an-bal zu₂ im-ta-an-gaz
+c.1.3.3,Inana and Šu-kale-tuda,,97,tum₉-dal a-na-am₃ de₆-a-bi
+c.1.3.3,Inana and Šu-kale-tuda,,98,igi-ni sahar kur-ra im-mi-ib-ra
+c.1.3.3,Inana and Šu-kale-tuda,,99,ub igi-ni šu sa₂-sa₂-da-ni
+c.1.3.3,Inana and Šu-kale-tuda,,100,niŋ₂ im-ma-ra-an-si-ig zag-bi-a nu-un-zu
+c.1.3.3,Inana and Šu-kale-tuda,,101,sig-še₃ igi mu-un-il₂ diŋir un₃-na kur ud e₃-ke₄-ne igi bi₂-in-du₈-ru
+c.1.3.3,Inana and Šu-kale-tuda,,102,nim-še₃ igi mu-un-il₂ diŋir un₃-na kur ud šu₂-ke₄-ne igi bi₂-in-du₈-ru
+c.1.3.3,Inana and Šu-kale-tuda,,103,{d}gidim dili du-ra igi mu-ni-in-du₈
+c.1.3.3,Inana and Šu-kale-tuda,,104,diŋir dili du-ra ŋiškim mu-ni-in-zu
+c.1.3.3,Inana and Šu-kale-tuda,,105,me šu du₇-du₇-da igi bi₂-in-du₈
+c.1.3.3,Inana and Šu-kale-tuda,,106,nam tar-ra diŋir-re-e-ne-še₃ igi mu-ni-in-ŋal₂
+c.1.3.3,Inana and Šu-kale-tuda,,107,sar-e ki ₅ ₁₀ nu-te-a-ba
+c.1.3.3,Inana and Šu-kale-tuda,,108,ki-ba ŋiš-an-dul₃ ₁-am₃ i₃-gub
+c.1.3.3,Inana and Šu-kale-tuda,,109,ŋiš-an-dul₃-bi {ŋeš}asal₂ ŋissu daŋal-la-kam
+c.1.3.3,Inana and Šu-kale-tuda,,110,ŋissu-bi sig-ga ud zal-e
+c.1.3.3,Inana and Šu-kale-tuda,,111,an-bar₇ an-usan-na nu-gi₄-gi₄
+c.1.3.3,Inana and Šu-kale-tuda,,112,ud-ba nin-ŋu₁₀ an mu-un-niŋin₂-na-ta ki mu-un-niŋin₂-na-ta
+c.1.3.3,Inana and Šu-kale-tuda,,113,{d}inana an mu-un-niŋin₂-na-ta ki mu-un-niŋin₂-na-ta
+c.1.3.3,Inana and Šu-kale-tuda,,114,elam{ki} su-bir₄{ki}-a mu-un-niŋin₂-na-ta
+c.1.3.3,Inana and Šu-kale-tuda,,115,dubur an gil-gi₁₆-il-la mu-un-niŋin₂-na-ta
+c.1.3.3,Inana and Šu-kale-tuda,,116,nu-gig kuš₂-a-ni-ta im-ma-te dur₂-bi-še₃ ba-nu₂
+c.1.3.3,Inana and Šu-kale-tuda,,117,šu-kal-le-tud-da zag sar-ra-ka-ni igi im-ma-ni-sig₁₀
+c.1.3.3,Inana and Šu-kale-tuda,,118,{d}inana-ke₄ {tug₂}dara₄ me ₇ gal₄-la-na
+c.1.3.3,Inana and Šu-kale-tuda,,119,{tug₂}dara₄ me ₇ gal₄-la-na
+c.1.3.3,Inana and Šu-kale-tuda,,120,su₈-ba {d}ama-ušumgal-an-na-da
+c.1.3.3,Inana and Šu-kale-tuda,,121,gal₄-la kug-ga-na lu₂
+c.1.3.3,Inana and Šu-kale-tuda,,122,šu-kal-le-tud-da mu-un-du₈-du₈ da-ga-na ba-nu₂
+c.1.3.3,Inana and Šu-kale-tuda,,123,ŋiš₃ im-ma-ni-in-dug₄ ne im-ma-ni-in-su-ub
+c.1.3.3,Inana and Šu-kale-tuda,,124,ŋiš₃ ba-ni-in-dug₄-ga ne ba-ni-in-su-ub-ba
+c.1.3.3,Inana and Šu-kale-tuda,,125,zag sar-ra-ka-ni im-ma-ši-in-gi₄
+c.1.3.3,Inana and Šu-kale-tuda,,126,ud im-zal {d}utu im-ta-e₃-a-ra
+c.1.3.3,Inana and Šu-kale-tuda,,127,munus-e ni₂-te-a-ni igi im-kar₂-kar₂
+c.1.3.3,Inana and Šu-kale-tuda,,128,kug {d}inana-ke₄ ni₂-te-a-ni igi im-kar₂-kar₂
+c.1.3.3,Inana and Šu-kale-tuda,,129,ud-ba munus-e nam gal₄-la-na-še₃ a-na im-gu-lu-u₈-a-bi
+c.1.3.3,Inana and Šu-kale-tuda,,130,kug {d}inana-ke₄ nam gal₄-la-na-še₃ a-na im-ak-a-bi
+c.1.3.3,Inana and Šu-kale-tuda,,131,pu₂ kalam-ma-ka uš₂ bi₂-ib-si-si
+c.1.3.3,Inana and Šu-kale-tuda,,132,pu₂-{ŋeš}kiri₆ kalam-ma-ka uš₂-am₃ i₃-tum₃-tum₃
+c.1.3.3,Inana and Šu-kale-tuda,,133,arad₂ lu₂-u₃ u₂ il₂-i-de₃ ŋen-na uš₂-am₃ i₃-na₈-na₈
+c.1.3.3,Inana and Šu-kale-tuda,,134,geme₂ lu₂-u₃ a si-si-de₃ ŋen-na uš₂-am₃ im-mi-ib₂-si-si
+c.1.3.3,Inana and Šu-kale-tuda,,135,saŋ gig₂ uš₂-am₃ i₃-na₈-na₈ zag-bi nu-un-zu
+c.1.3.3,Inana and Šu-kale-tuda,,136,lu₂ ŋiš₃ dug₄-ga-ŋu₁₀ kur-kur-ra ga-mu-ni-pad₃ im-me
+c.1.3.3,Inana and Šu-kale-tuda,,137,lu₂ ŋiš₃ dug₄-ga-ni kur-kur-ra nu-um-ma-ni-in-pad₃-de₃
+c.1.3.3,Inana and Šu-kale-tuda,,138,i₃-ne-eš₂ lu₂-u₃ lu₂-ra a-na na-an-dug₄ lu₂-u₃ lu₂-ra dili a-na na-an-tah
+c.1.3.3,Inana and Šu-kale-tuda,,139,lu₂-tur ad-da-ni-ir e₂-a ba-ši-in-kur₉ gu₃ mu-na-de₂-e
+c.1.3.3,Inana and Šu-kale-tuda,,140,šu-kal-le-tud-da ad-da-ni-ir e₂-a ba-an-ši-in-kur₉ gu₃ mu-na-de₂-e
+c.1.3.3,Inana and Šu-kale-tuda,,141,ad-da-ŋu₁₀ mu₂-sar-e a sig₁₀-sig₁₀-ge₅-da-ŋu₁₀
+c.1.3.3,Inana and Šu-kale-tuda,,142,nisig-ga da pu₂ ak-da-ŋu₁₀
+c.1.3.3,Inana and Šu-kale-tuda,,143,nisig dili-e nu-me-a a-na nu-me-a-bi
+c.1.3.3,Inana and Šu-kale-tuda,,144,ur₂-ba im-ta-bal zu₂ im-ta-gaz
+c.1.3.3,Inana and Šu-kale-tuda,,145,tum₉-dal a-na-am₃ de₆-a-bi
+c.1.3.3,Inana and Šu-kale-tuda,,146,igi-ŋu₁₀ sahar kur-ra im-mi-ib-ra
+c.1.3.3,Inana and Šu-kale-tuda,,147,ub igi-ŋu₁₀ šu tuku-tuku-da-ŋu₁₀
+c.1.3.3,Inana and Šu-kale-tuda,,148,niŋ₂ im-ma-ra-si-ig zag-bi nu-zu
+c.1.3.3,Inana and Šu-kale-tuda,,149,sig-še₃ igi mu-il₂ diŋir un₃-na kur ud e₃-ke₄-ne igi bi₂-du₈
+c.1.3.3,Inana and Šu-kale-tuda,,150,nim-še₃ igi mu-il₂ diŋir un₃-na kur ud šu₂-ke₄-ne igi bi₂-du₈
+c.1.3.3,Inana and Šu-kale-tuda,,151,{d}gidim dili du-ra igi mu-ni-du₈
+c.1.3.3,Inana and Šu-kale-tuda,,152,diŋir dili du-ra ŋiškim mu-ni-zu
+c.1.3.3,Inana and Šu-kale-tuda,,153,me šu du₇-du₇-da igi bi₂-du₈
+c.1.3.3,Inana and Šu-kale-tuda,,154,nam tar-ra diŋir-re-e-ne-še₃ igi mu-ni-ŋal₂
+c.1.3.3,Inana and Šu-kale-tuda,,155,sar-re ki ₅ ₁₀ nu-te-a-ba
+c.1.3.3,Inana and Šu-kale-tuda,,156,ki-ba ŋiš-an-dul₃ ₁-am₃ i₃-gub
+c.1.3.3,Inana and Šu-kale-tuda,,157,ŋiš-an-dul₃-bi {ŋeš}asal₂ ŋissu daŋal-la-ka
+c.1.3.3,Inana and Šu-kale-tuda,,158,ŋissu-bi sig-ga ud zal-e
+c.1.3.3,Inana and Šu-kale-tuda,,159,an-bar₇ an-usan-e nu-gi₄-gi₄
+c.1.3.3,Inana and Šu-kale-tuda,,160,ud-ba nin-ŋu₁₀ an mu-un-niŋin₂-na-ta ki mu-un-niŋin₂-na-ta
+c.1.3.3,Inana and Šu-kale-tuda,,161,{d}inana an mu-un-niŋin₂-na-ta ki mu-un-niŋin₂-na-ta
+c.1.3.3,Inana and Šu-kale-tuda,,162,elam{ki} su-bir₄{ki}-a mu-un-niŋin₂-na-ta
+c.1.3.3,Inana and Šu-kale-tuda,,163,dubur an gil-gi₁₆-il-la mu-un-niŋin₂-na-ta
+c.1.3.3,Inana and Šu-kale-tuda,,164,nu-gig kuš₂-a-ni-ta im-ma-te dur₂-bi-še₃ i₃-nu₂
+c.1.3.3,Inana and Šu-kale-tuda,,165,zag sar-ra-ŋa₂-ka igi im-ma-ni-du₈
+c.1.3.3,Inana and Šu-kale-tuda,,166,ŋiš₃ im-ma-ni-dug₄ ne im-ma-ni-su-ub
+c.1.3.3,Inana and Šu-kale-tuda,,167,zag sar-ra-ŋu₁₀-še₃ im-ma-ši-gi₄
+c.1.3.3,Inana and Šu-kale-tuda,,168,ud-ba munus-e nam gal₄-la-na-še₃ a-na im-gul-lu-u₈-a-bi
+c.1.3.3,Inana and Šu-kale-tuda,,169,{d}inana-ke₄ nam gal₄-la-na-še₃ a-na im-ak-a-bi
+c.1.3.3,Inana and Šu-kale-tuda,,170,pu₂ kalam-ma-ke₄ uš₂ bi₂-ib-si-si
+c.1.3.3,Inana and Šu-kale-tuda,,171,pu₂-{ŋeš}kiri₆ kalam-ma-ka uš₂-am₃ i₃-tum₃-tum₃
+c.1.3.3,Inana and Šu-kale-tuda,,172,arad₂ lu₂-u₃ u₂ il₂-i-de₃ ŋen-na uš₂-am₃ i₃-na₈-na₈
+c.1.3.3,Inana and Šu-kale-tuda,,173,geme₂ lu₂-u₃ a si-si-de₃ ŋen-na uš₂-am₃ im-mi-ib₂-si-si
+c.1.3.3,Inana and Šu-kale-tuda,,174,saŋ gig₂ uš₂-am₃ i₃-na₈-na₈ zag-bi nu-un-zu
+c.1.3.3,Inana and Šu-kale-tuda,,175,lu₂ ŋiš₃ dug₄-ga-ŋu₁₀ kur-kur-ra ga-mu-ni-pad₃ im-me
+c.1.3.3,Inana and Šu-kale-tuda,,176,lu₂ ŋiš₃ dug₄-ga-ni kur-kur-ra nu-um-ma-ni-in-pad₃-de₃
+c.1.3.3,Inana and Šu-kale-tuda,,177,lu₂-tur ad-da-ni mu-na-ni-ib-gi₄-gi₄
+c.1.3.3,Inana and Šu-kale-tuda,,178,šu-kal-le-tud-da ad-da-ni mu-na-ni-ib-gi₄-gi₄
+c.1.3.3,Inana and Šu-kale-tuda,,179,dumu-ŋu₁₀ iri šeš-zu-ne he₂-eb-us₂-en
+c.1.3.3,Inana and Šu-kale-tuda,,180,saŋ gig₂ šeš-zu-ne ŋiri₃ gub-ba ŋen-na
+c.1.3.3,Inana and Šu-kale-tuda,,181,munus-e šag₄ kur-kur-ra-ka nu-um-ma-ni-in-pad₃-de₃-en
+c.1.3.3,Inana and Šu-kale-tuda,,182,iri šeš-a-ni ni₂-bi-a im-us₂
+c.1.3.3,Inana and Šu-kale-tuda,,183,saŋ gig₂ šeš-a-ni ŋiri₃ gub-ba im-ŋen
+c.1.3.3,Inana and Šu-kale-tuda,,184,munus-e šag₄ kur-kur-ra-ka nu-um-ma-ni-in-pad₃
+c.1.3.3,Inana and Šu-kale-tuda,,185,₂-kam-ma-še₃ munus-e nam gal₄-la-na-še₃ a-na-am₃ im-gu-ul-u₈-a-bi
+c.1.3.3,Inana and Šu-kale-tuda,,186,{d}inana-ke₄ nam gal₄-la-na-še₃ a-na-am₃ im-ak-a-bi
+c.1.3.3,Inana and Šu-kale-tuda,,187,dungu mu-un-u₅ dur₂ im-gub-be₂ gaba im-sal-e
+c.1.3.3,Inana and Šu-kale-tuda,,188,{tum₉}u₁₈-lu mar-uru₅ huš igi-še₃ mu-un-ši-ŋen
+c.1.3.3,Inana and Šu-kale-tuda,,189,pi-li-pi-li dal-ha-mun eŋer-ra-ni-še₃ im-us₂
+c.1.3.3,Inana and Šu-kale-tuda,,190,ab-ba-šu₂-šu₂ inim-kur₂-dug₄-dug₄ ad gi₄-gi₄
+c.1.3.3,Inana and Šu-kale-tuda,,191,₇ a-ra₂ ₇ an-edin-na mu-un-da-sug₂-sug₂-ge-eš
+c.1.3.3,Inana and Šu-kale-tuda,,192,lu₂ ŋiš₃ dug₄-ga-ŋu₁₀ kur-kur-ra ga-mu-ni-pad₃ im-me
+c.1.3.3,Inana and Šu-kale-tuda,,193,lu₂ ŋiš₃ dug₄-ga-ni kur-kur-ra nu-um-ma-ni-in-pad₃-de₃
+c.1.3.3,Inana and Šu-kale-tuda,,194,lu₂-tur ad-da-ni-ir e₂-a ba-ši-in-kur₉
+c.1.3.3,Inana and Šu-kale-tuda,,195,šu-kal-le-tud-da ad-da-ni-ir gu₃ mu-na-de₂-e
+c.1.3.3,Inana and Šu-kale-tuda,,196,ad-da-ŋu₁₀ munus a-ra-dug₄-ga-ŋu₁₀
+c.1.3.3,Inana and Šu-kale-tuda,,197,₂-kam-ma-še₃ munus-e nam gal₄-la-na-še₃ a-na-am₃ im-gul-lu-u₈-a-bi
+c.1.3.3,Inana and Šu-kale-tuda,,198,{d}inana-ke₄ nam gal₄-la-na-še₃ a-na bi₂-in-ak-a-bi
+c.1.3.3,Inana and Šu-kale-tuda,,199,dungu mu-un-u₅ dur₂ im-gub-be₂ gaba im-sal-e
+c.1.3.3,Inana and Šu-kale-tuda,,200,{tum₉}u₁₈-lu mar-uru₅ huš igi-še₃ mu-un-ši-ŋen
+c.1.3.3,Inana and Šu-kale-tuda,,201,pi-li-pi-li dal-ha-mun eŋer-ra-ni-še₃ im-us₂
+c.1.3.3,Inana and Šu-kale-tuda,,202,ab-ba-šu₂-šu₂ inim-kur₂-dug₄-dug₄ ad gi₄-gi₄
+c.1.3.3,Inana and Šu-kale-tuda,,203,₇ a-ra₂ ₇ an-edin-na mu-un-da-sug₂-sug₂-ge-eš
+c.1.3.3,Inana and Šu-kale-tuda,,204,lu₂ ŋiš₃ dug₄-ga-ŋu₁₀ kur-kur-ra ga-mu-ni-pad₃ im-me
+c.1.3.3,Inana and Šu-kale-tuda,,205,lu₂ ŋiš₃ dug₄-ga-ni kur-kur-ra nu-um-ma-ni-in-pad₃-de₃
+c.1.3.3,Inana and Šu-kale-tuda,,206,lu₂-tur ad-da-ni mu-na-ni-ib-gi₄-gi₄
+c.1.3.3,Inana and Šu-kale-tuda,,207,šu-kal-le-tud-da ad-da-ni mu-na-ni-ib-gi₄-gi₄
+c.1.3.3,Inana and Šu-kale-tuda,,208,dumu-ŋu₁₀ iri šeš-zu-ne he₂-eb-us₂-en
+c.1.3.3,Inana and Šu-kale-tuda,,209,saŋ gig₂ šeš-zu-ne ŋiri₃ gub-ba ŋen-na
+c.1.3.3,Inana and Šu-kale-tuda,,210,munus-e šag₄ kur-kur-ra-ka nu-um-ma-ni-in-pad₃-de₃-en
+c.1.3.3,Inana and Šu-kale-tuda,,211,iri šeš-a-ni ni₂-bi-a im-us₂
+c.1.3.3,Inana and Šu-kale-tuda,,212,saŋ gig₂ šeš-a-ni ŋiri₃ gub-ba im-ŋen
+c.1.3.3,Inana and Šu-kale-tuda,,213,munus-e šag₄ kur-kur-ra-ka nu-um-ma-ni-in-pad₃
+c.1.3.3,Inana and Šu-kale-tuda,,214,₃-kam-ma-aš munus-e nam gal₄-la-ni-še₃ a-na im-gu-lu-u₈-a-bi
+c.1.3.3,Inana and Šu-kale-tuda,,215,{d}inana-ke₄ nam gal₄-la-ni-še₃ a-na bi₂-in-ak-a-bi
+c.1.3.3,Inana and Šu-kale-tuda,,216,umbin su-ug-ga ₁-am₃ šu im-ma-an-ti
+c.1.3.3,Inana and Šu-kale-tuda,,217,he-en-du kalam-ma-ka ba-an-gi₁₆-ib
+c.1.3.3,Inana and Šu-kale-tuda,,218,uŋ₃ saŋ gig₂ umbin su-ug-ga mu-na-ta-ed₂-e
+c.1.3.3,Inana and Šu-kale-tuda,,219,lu₂ ŋiš₃ dug₄-ga-ŋu₁₀ kur-kur-ra ga-mu-ni-pad₃ im-me
+c.1.3.3,Inana and Šu-kale-tuda,,220,lu₂ ŋiš₃ dug₄-ga-ni kur-kur-ra nu-um-ma-ni-in-pad₃-de₃
+c.1.3.3,Inana and Šu-kale-tuda,,221,lu₂-tur ad-da-ni-ir e₂-a ba-ši-in-kur₉
+c.1.3.3,Inana and Šu-kale-tuda,,222,šu-kal-le-tud-da ad-da-ni-ir gu₃ mu-na-de₂-e
+c.1.3.3,Inana and Šu-kale-tuda,,223,ad-da-ŋu₁₀ munus a-ra-dug₄-ga-ŋu₁₀
+c.1.3.3,Inana and Šu-kale-tuda,,224,₃-kam-ma-aš munus-e nam gal₄-la-na-še₃ a-na-am₃ im-gul-lu-u₈-a-bi
+c.1.3.3,Inana and Šu-kale-tuda,,225,{d}inana-ke₄ nam gal₄-la-na-še₃ a-na-am₃ im-ak-a-bi
+c.1.3.3,Inana and Šu-kale-tuda,,226,umbin su-ug-ga ₁-am₃ šu im-ma-an-ti
+c.1.3.3,Inana and Šu-kale-tuda,,227,he-en-du kalam-ma-ka ba-an-gi₁₆-ib
+c.1.3.3,Inana and Šu-kale-tuda,,228,uŋ₃ saŋ gig₂ umbin su-ug-ga mu-na-ta-ed₂-e
+c.1.3.3,Inana and Šu-kale-tuda,,229,lu₂ ŋiš₃ dug₄-ga-ŋu₁₀ kur-kur-ra ga-mu-ni-pad₃ im-me
+c.1.3.3,Inana and Šu-kale-tuda,,230,lu₂ ŋiš₃ dug₄-ga-ni kur-kur-ra nu-um-ma-ni-in-pad₃-de₃
+c.1.3.3,Inana and Šu-kale-tuda,,231,lu₂-tur ad-da-ni mu-na-ni-ib-gi₄-gi₄
+c.1.3.3,Inana and Šu-kale-tuda,,232,šu-kal-le-tud-da ad-da-ni mu-na-ni-ib-gi₄-gi₄
+c.1.3.3,Inana and Šu-kale-tuda,,233,dumu-ŋu₁₀ iri šeš-zu he₂-eb-us₂-en
+c.1.3.3,Inana and Šu-kale-tuda,,234,saŋ gig₂ šeš-zu-ne ŋiri₃ gub-ba ŋen-na
+c.1.3.3,Inana and Šu-kale-tuda,,235,munus-e šag₄ kur-kur-ra-ka nu-um-ma-ni-in-pad₃-de₃-en
+c.1.3.3,Inana and Šu-kale-tuda,,236,iri šeš-a-ni ni₂-bi-a im-us₂
+c.1.3.3,Inana and Šu-kale-tuda,,237,saŋ gig₂ šeš-a-ni ŋiri₃ gub-ba im-ŋen
+c.1.3.3,Inana and Šu-kale-tuda,,238,munus-e šag₄ kur-kur-ra-ka nu-um-ma-ni-in-pad₃
+c.1.3.3,Inana and Šu-kale-tuda,,239,ud im-zal {d}utu im-ta-e₃-a-ra
+c.1.3.3,Inana and Šu-kale-tuda,,240,munus-e ni₂-te-a-ni igi im-kar₂-kar₂
+c.1.3.3,Inana and Šu-kale-tuda,,241,kug {d}inana-ke₄ ni₂-te-a-ni igi im-kar₂-kar₂
+c.1.3.3,Inana and Šu-kale-tuda,,242,e ŋa₂-a a-ba-a ma-ab-sig₁₀-ge
+c.1.3.3,Inana and Šu-kale-tuda,,243,e ŋa₂-a a-ba-a ma-ab-aŋ₂-e
+c.1.3.3,Inana and Šu-kale-tuda,,244,e-ne-eŋ₃ a-a ugu-ŋu₁₀ {d}am-an-ki-ka₃ nam-me-a
+c.1.3.3,Inana and Šu-kale-tuda,,245,abzu eridug{ki}-ga {d}en-ki-ka₃-še₃ kug {d}inana-ke₄ ŋiri₃ im-ma-an-gub
+c.1.3.3,Inana and Šu-kale-tuda,,246,nam-bi-še₃ ur₂ im-ma-an-dun-dun šu ba-an-na-la₂-la₂
+c.1.3.3,Inana and Šu-kale-tuda,,247,a-a {d}en-ki he₂-en-ga-mu-e-sig₁₀ he₂-en-ga-mu-e-aŋ₂
+c.1.3.3,Inana and Šu-kale-tuda,,248,lu₂-bi abzu-ta šu-ŋa₂ u₃-mu-e-ri-ze₂-eŋ₃
+c.1.3.3,Inana and Šu-kale-tuda,,249,eš₃ e₂-an-na-ŋu₁₀-še₃ ze₂-ba-bi da-an-kur₉
+c.1.3.3,Inana and Šu-kale-tuda,,250,{d}en-ki-ke₄ i₃-sag₉ mu-na-ab-be₂ he₂-am₃ mu-na-ab-be₂
+c.1.3.3,Inana and Šu-kale-tuda,,251,kug {d}inana abzu eridug{ki}-ta im-ma-da-ra-ta-e₃
+c.1.3.3,Inana and Šu-kale-tuda,,252,ni₂-te-a-ni {d}tir-an-na-gin₇ an-na ba-an-gi₁₆-ib ki ba-da-an-us₂
+c.1.3.3,Inana and Šu-kale-tuda,,253,ulu₃ i₃-dib-be₂ me-er i₃-dib-be₂
+c.1.3.3,Inana and Šu-kale-tuda,,254,šu-kal-le-tud-da dili-ni ni₂-ta ba-ab-tur-tur-re
+c.1.3.3,Inana and Šu-kale-tuda,,255,munus-e šag₄ kur-kur-ra-ka im-ma-na-ni-in-pad₃
+c.1.3.3,Inana and Šu-kale-tuda,,256,kug {d}inana-ke₄ šu-kal-le-tud-da-ar gu₃ mu-na-de₂-e
+c.1.3.3,Inana and Šu-kale-tuda,,257,a-gin₇-nam ŋal₂
+c.1.3.3,Inana and Šu-kale-tuda,,258,
+c.1.3.3,Inana and Šu-kale-tuda,,259,anše
+c.1.3.3,Inana and Šu-kale-tuda,,260,šah₂
+c.1.3.3,Inana and Šu-kale-tuda,,262,šu-kal-le-tud-da kug {d}inana-ra mu-na-ni-ib-gi₄-gi₄
+c.1.3.3,Inana and Šu-kale-tuda,,263,nin-ŋu₁₀ mu₂-sar-e a sig₁₀-sig₁₀-ge₅-da-ŋu₁₀
+c.1.3.3,Inana and Šu-kale-tuda,,264,nisig-ga da pu₂ ak-da-ŋu₁₀
+c.1.3.3,Inana and Šu-kale-tuda,,265,nisig dili-e nu-me-a a-na nu-me-a-bi
+c.1.3.3,Inana and Šu-kale-tuda,,266,ur₂-ba im-ta-bal zu₂ im-ta-gaz
+c.1.3.3,Inana and Šu-kale-tuda,,267,tum₉-dal a-na-am₃ de₆-a-bi
+c.1.3.3,Inana and Šu-kale-tuda,,268,igi-ŋu₁₀ sahar kur-ra im-mi-ib-ra
+c.1.3.3,Inana and Šu-kale-tuda,,269,ub igi-ŋu₁₀ šu tuku-tuku-da-ŋu₁₀
+c.1.3.3,Inana and Šu-kale-tuda,,270,niŋ₂ im-ma-ra-si-ig zag-bi nu-zu
+c.1.3.3,Inana and Šu-kale-tuda,,271,sig-še₃ igi mu-il₂ diŋir un₃-na kur ud e₃-ke₄-ne igi bi₂-du₈
+c.1.3.3,Inana and Šu-kale-tuda,,272,nim-še₃ igi mu-il₂ diŋir un₃-na kur ud šu₂-ke₄-ne igi bi₂-du₈
+c.1.3.3,Inana and Šu-kale-tuda,,273,{d}gidim dili du-ra igi mu-ni-in-du₈
+c.1.3.3,Inana and Šu-kale-tuda,,274,diŋir dili du-ra igi mu-un-ŋa₂-ŋa₂
+c.1.3.3,Inana and Šu-kale-tuda,,275,me šu du₇-du₇-da igi bi₂-in-du₈
+c.1.3.3,Inana and Šu-kale-tuda,,276,nam tar-ra diŋir-re-e-ne-še₃ igi-ni mu-ni-ŋal₂
+c.1.3.3,Inana and Šu-kale-tuda,,277,sar-e ki ₃₀₀ ₆₀₀ nu-te-a-ba
+c.1.3.3,Inana and Šu-kale-tuda,,278,ki-ba ŋiš-an-dul₃ ₁-am₃ i₃-gub
+c.1.3.3,Inana and Šu-kale-tuda,,279,ŋiš-an-dul₃-bi {ŋeš}asal₂ dug₃ ŋissu daŋal-la-kam
+c.1.3.3,Inana and Šu-kale-tuda,,280,ŋissu-bi sig-ga ud zal-la
+c.1.3.3,Inana and Šu-kale-tuda,,281,an-bar₇ an-usan-na nu-gi₄-gi₄
+c.1.3.3,Inana and Šu-kale-tuda,,282,ud-ba nin-ŋu₁₀ an mu-niŋin₂-na-ta ki mu-niŋin₂-na-ta
+c.1.3.3,Inana and Šu-kale-tuda,,283,{d}inana an mu-niŋin₂-na-ta ki mu-niŋin₂-na-ta
+c.1.3.3,Inana and Šu-kale-tuda,,284,elam{ki} su-bir₄{ki}-a mu-niŋin₂-na-ta
+c.1.3.3,Inana and Šu-kale-tuda,,285,dubur an gil-gi₁₆-il-la mu-un-niŋin₂-na-ta
+c.1.3.3,Inana and Šu-kale-tuda,,286,nu-gig kuš₂-a-ni-ta im-ma-te dur₂-bi-še₃ i₃-nu₂
+c.1.3.3,Inana and Šu-kale-tuda,,287,zag sar-ra-ŋa₂ igi im-ma-ni-sig₁₀
+c.1.3.3,Inana and Šu-kale-tuda,,288,ŋiš₃ im-ma-ni-dug₄ ne im-ma-ni-su-ub
+c.1.3.3,Inana and Šu-kale-tuda,,289,zag sar-ra-ŋu₁₀-še₃ im-ma-ši-in-gi₄
+c.1.3.3,Inana and Šu-kale-tuda,,290,ur₅-gin₇ hu-mu-na-ab-be₂-a-ka
+c.1.3.3,Inana and Šu-kale-tuda,,291,bi₂-in-ra
+c.1.3.3,Inana and Šu-kale-tuda,,292,ba-an-tah
+c.1.3.3,Inana and Šu-kale-tuda,,293,ba-an-gi₄
+c.1.3.3,Inana and Šu-kale-tuda,,294,nam mu-ni-ib-tar-re
+c.1.3.3,Inana and Šu-kale-tuda,,295,kug {d}inana-ke₄ šu-kal-e-tud-da-ar gu₃ mu-na-de₂-e
+c.1.3.3,Inana and Šu-kale-tuda,,296,ŋen-na ba-ug₅-ge-en nam-ŋu₁₀ mu-zu nam-ba-da-ha-lam-e
+c.1.3.3,Inana and Šu-kale-tuda,,297,mu-zu en₃-du-a he₂-ŋal₂ en₃-du he₂-dug₃-ge
+c.1.3.3,Inana and Šu-kale-tuda,,298,nar tur-e e₂-gal lugal-la-ka hu-mu-ni-in-ku₇-ku₇-de₃
+c.1.3.3,Inana and Šu-kale-tuda,,299,sipad-de₃ dun₅-dun₅ {dug}šakir₃-ra-ka-na dug₃-ge-eš he₂-em-mi-ib-be₂
+c.1.3.3,Inana and Šu-kale-tuda,,300,sipad-tur-re ki udu lu-a-na mu-zu he₂-em-tum₂-tum₂-mu
+c.1.3.3,Inana and Šu-kale-tuda,,301,e₂-gal edin-na e₂-zu he₂-a
+c.1.3.3,Inana and Šu-kale-tuda,,302,DU-a-ni gu₃ re-a ha-an-ši-ŋa₂-ŋa₂
+c.1.3.3,Inana and Šu-kale-tuda,,303,ga-e-ši-dub₂
+c.1.3.3,Inana and Šu-kale-tuda,,304,tug₂ ga-e-ši-si-ig
+c.1.3.3,Inana and Šu-kale-tuda,,305,a u₅-a-ŋu₁₀-ne
+c.1.3.3,Inana and Šu-kale-tuda,,306,X-ši-ŋa₂-ŋa₂
+c.1.3.3,Inana and Šu-kale-tuda,,307,šu-kal-e-tud-da
+c.1.3.3,Inana and Šu-kale-tuda,,309,nam tar-ra
+c.1.3.3,Inana and Šu-kale-tuda,,310,{d}inana za₃-mi₂

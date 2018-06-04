@@ -1,0 +1,48 @@
+id_text,text_name,version,l_no,text
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,1,u₅ nun diŋir-re-e-ne me šar₂-ra-ba dur₂ ŋar
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,2,{d}nu-nam-nir en a₂ aŋ₂-ŋa₂ zid-da me gal-gal-la šu du₇
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,3,a-a {d}en-lil₂ ni₂-zu an ki-a pa e₃ ša-ba-ni-e₃
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,4,diŋir an-na an-na bi₂-su₈-ug mu dug₃ im-mi-in-sa₄
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,5,lugal-ba igi mu-ni-si-si
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,6,
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,7,{d}a-nun-na diŋir gal-gal-bi igi-zu-uš si mu-sa₂-e-eš
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,8,{d}en-lil₂ inim kug dug₄-ga mah-zu-še₃ ŋizzal im-ši-ma-an-ak-eš
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,9,{d}nu-nam-nir an ki niŋin₂-na-bi dili-zu-ni mah-me-en
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,10,{d}a-nun-na-ke₄-ne {ŋeš}rab₃ mah kur-kur-ra
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,11,su₃-ud en niŋ₂-nam-ma-ni dib dug₄-ga-ni nu-kam₃-me-dam
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,12,gal-la-a me-zu me-a dirig a-ra₂-zu niŋ₂ galam-ma-am₃ nam-kal kur ki su₃-ra₂-še₃ sipad zid-bi za-e-me-en
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,13,a-a {d}en-lil₂ ki-ur₃ dur-an-ki šag₄-ge pad₃-da-za
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,14,e₂-kur ki aŋ₂-zu šu-mu-ra-an-du₃ barag mah-zu šu-mu-un-ri
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,15,eš₃-za me-bi me kal-kal-a-am₃ šu-luh zid-bi mah-am₃
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,16,ŋarza-bi kug-kug-ga-am₃ niŋ₂ ka-ge dib-ba-am₃
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,17,e₂-kur-ra šag₄-bi galam kad₄-am₃ niŋ₂ lu₂ nu-zu-am₃
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,18,{d}iš-me-{d}da-gan ŋiš-hur me zid-bi si ha-ra-ab-sa₂-sa₂-e
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,19,sa-gid₂-da-am₃
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,20,{d}en-lil₂ {d}iš-me-{d}da-gan dumu ki aŋ₂-za nam-lugal-la-a-na bal-bi ha-ra-su₃-ud
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,21,ŋiš-gi₄-ŋal₂ sa-gid₂-da-bi-im
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,22,{d}en-lil₂ en gal diŋir-re-e-ne uŋ₃ šar₂-ra-bi-še₃ il₂-la
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,23,en gal diŋir-re-e-ne uŋ₃ šar₂-ra-bi-še₃ il₂-la
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,24,inim mah dug₄-ga-zu saŋ-ba du-am₃
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,25,niŋ₂ nu-kur₂-ru dug₄-ga-zu ki-bi-še₃ ŋar
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,26,tuku saŋ us₂ e₂-za-ra
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,27,nam dug₃ tar-mu-ni-ib
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,28,{d}iš-me-{d}da-gan dumu {d}en-lil₂-la₂-ka
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,29,an ki zag til-be₂-eš he₂-em-mah
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,30,he₂-bad-bad
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,31,ki kur he₂-em-ši-gam-e
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,32,{d}iš-me-{d}da-gan he₂-me-en
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,33,he₂-me-en
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,34,X-sub₂-ba
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,35,he₂-me-en
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,36,he₂-en-ŋal₂
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,37,he₂-ši-mah
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,38,saŋ-e-eš he₂-rig₇
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,39,ŋa₂-la nu-dag-ge he₂-me-en
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,40,ki kug ki sikil im-mi-ib₂-ŋal₂
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,41,sa-ŋar-ra-am₃
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,42,{d}a-nun-na-ke₄-ne
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,43,{d}a-nun-na-ke₄-ne
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,44,bal dug₃ mu nam-he₂
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,45,saŋ-e-eš rig₇-mu-ni-ib₂
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,46,u₁₈-ru₁₂-bi-im
+c.2.5.4.08,An adab to Enlil for Išme-Dagan (Išme-Dagan H),,47,a-da-ab {d}en-lil₂-la₂-kam

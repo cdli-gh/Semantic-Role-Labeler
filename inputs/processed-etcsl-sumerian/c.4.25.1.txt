@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+c.4.25.1,A šir-gida (?) to Ninšubur (Ninšubur A),,A1,nin numun zid kalam-ma sukkal an-na
+c.4.25.1,A šir-gida (?) to Ninšubur (Ninšubur A),,A2,sukkal an-na ama {d}nin-šubur ŋidru za-gin₃ šu u₃-me-ti
+c.4.25.1,A šir-gida (?) to Ninšubur (Ninšubur A),,A3,igi an-na ši-im-me-dib-dib-be₂
+c.4.25.1,A šir-gida (?) to Ninšubur (Ninšubur A),,A4,an-ne₂ an-šag₄-ta saŋ-e-eš mu-ni-in-rig₇
+c.4.25.1,A šir-gida (?) to Ninšubur (Ninšubur A),,A5,{d}en-lil₂-le nam-e-eš mu-ni-in-tar
+c.4.25.1,A šir-gida (?) to Ninšubur (Ninšubur A),,A6,u₈ zid sila₄ sag₉-sag₉ ud₅ zid maš₂ sag₉-sag₉-ga
+c.4.25.1,A šir-gida (?) to Ninšubur (Ninšubur A),,A7,ama gan zid-gin₇ dumu sag₉-sag₉-ga
+c.4.25.1,A šir-gida (?) to Ninšubur (Ninšubur A),,A8,tur₃ hu-mu-u₈-da-du₃ amaš hu-mu-u₈-da-niŋin₂
+c.4.25.1,A šir-gida (?) to Ninšubur (Ninšubur A),,A9,tur₃ du₃-a-za amaš niŋin₂-na-za
+c.4.25.1,A šir-gida (?) to Ninšubur (Ninšubur A),,A10,
+c.4.25.1,A šir-gida (?) to Ninšubur (Ninšubur A),,B1,šag₄ de₃-em-huŋ-e bar de₃-em-huŋ-e
+c.4.25.1,A šir-gida (?) to Ninšubur (Ninšubur A),,B2,dim₃-me₈-er {d}a-nun-na de₃-en-huŋ-e
+c.4.25.1,A šir-gida (?) to Ninšubur (Ninšubur A),,B3,me-e da-gub-be₂-ŋen an-gub da-gub-X
+c.4.25.1,A šir-gida (?) to Ninšubur (Ninšubur A),,B4,ki-sikil ga-ša-an-an-na kur šuba₄ tud-da de₃-em-hul₂-e
+c.4.25.1,A šir-gida (?) to Ninšubur (Ninšubur A),,B5,ga-ša-an-ŋen de₃-em-hul₂-e
+c.4.25.1,A šir-gida (?) to Ninšubur (Ninšubur A),,B6,šag₄ de₃-em-huŋ-e bar de₃-em-huŋ-e
+c.4.25.1,A šir-gida (?) to Ninšubur (Ninšubur A),,B7,dim₃-me₈-er {d}a-nun-na de₃-en-huŋ-e
+c.4.25.1,A šir-gida (?) to Ninšubur (Ninšubur A),,B8,nin-e akkilₓ{ki} asila ba-ni-in-ŋar
+c.4.25.1,A šir-gida (?) to Ninšubur (Ninšubur A),,B9,šir₃-gid₂-da {d}nin-šubur-ra-kam

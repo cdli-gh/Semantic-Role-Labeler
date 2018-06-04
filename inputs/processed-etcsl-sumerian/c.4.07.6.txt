@@ -1,0 +1,35 @@
+id_text,text_name,version,l_no,text
+c.4.07.6,A balbale (?) to  Inana (Inana F),,1,a-ŋu₁₀ an ma-an-ze₂-eŋ₃ ki ma-an-ze₂-eŋ₃
+c.4.07.6,A balbale (?) to  Inana (Inana F),,2,me-e {d}ga-ša-an-an-na-ŋen
+c.4.07.6,A balbale (?) to  Inana (Inana F),,3,ma-ra dim₃-me-er teš₂ mu-da-sa₂-a
+c.4.07.6,A balbale (?) to  Inana (Inana F),,4,{d}mu-ul-lil₂-le an ma-an-ze₂-eŋ₃ ki ma-an-ze₂-eŋ₃
+c.4.07.6,A balbale (?) to  Inana (Inana F),,5,me-e {d}ga-ša-an-an-na-ŋen
+c.4.07.6,A balbale (?) to  Inana (Inana F),,6,na-aŋ₂-u₃-mu-un ma-an-ze₂-eŋ₃
+c.4.07.6,A balbale (?) to  Inana (Inana F),,7,na-aŋ₂-ga-ša-an ma-an-ze₂-eŋ₃
+c.4.07.6,A balbale (?) to  Inana (Inana F),,8,me₃ ma-an-ze₂-eŋ₃ šen-šen ma-an-ze₂-eŋ₃
+c.4.07.6,A balbale (?) to  Inana (Inana F),,9,mar-uru₅ ma-an-ze₂-eŋ₃ dal-ha-mun ma-an-ze₂-eŋ₃
+c.4.07.6,A balbale (?) to  Inana (Inana F),,10,an men saŋ-ŋa₂ mu-ni-in-ma-al
+c.4.07.6,A balbale (?) to  Inana (Inana F),,11,ki {kuš}e-sir₂ me-ri-ŋa₂ mu-ni-in-sig₉
+c.4.07.6,A balbale (?) to  Inana (Inana F),,12,tug₂-ba₁₃ kug su-ŋa₂ mu-ni-in-la₂
+c.4.07.6,A balbale (?) to  Inana (Inana F),,13,{mu}mudru kug šu-ŋa₂ mu-ni-in-ma-al
+c.4.07.6,A balbale (?) to  Inana (Inana F),,14,diŋir buru₅-me-eš me-e mu-tin-ŋen
+c.4.07.6,A balbale (?) to  Inana (Inana F),,15,{d}a-nun-na di-da-me-eš me-e sumun₂ zid-ŋen
+c.4.07.6,A balbale (?) to  Inana (Inana F),,16,sumun₂ zid a-a {d}en-lil₂-la₂-ŋen
+c.4.07.6,A balbale (?) to  Inana (Inana F),,17,u₃-sumun₂ zid saŋ-ŋa₂ di-a-ni
+c.4.07.6,A balbale (?) to  Inana (Inana F),,18,e₂-kur-ra e₂ {d}mu-ul-lil₂-la₂-še₃ ku₄-ku₄-da-ŋu₁₀-ne
+c.4.07.6,A balbale (?) to  Inana (Inana F),,19,i₃-du₈-e gaba-ŋu₁₀ šu li-bi₂-ma-ma
+c.4.07.6,A balbale (?) to  Inana (Inana F),,20,sukkal-e il₂-la₂ na-ma-ab-be₂
+c.4.07.6,A balbale (?) to  Inana (Inana F),,21,an ŋa₂-a-kam ki ŋa₂-a-kam me-e ur-saŋ-ŋen
+c.4.07.6,A balbale (?) to  Inana (Inana F),,22,unug{ki}-ga e₂-an-na ŋa₂-a-kam
+c.4.07.6,A balbale (?) to  Inana (Inana F),,23,zabalam{ki} gi-gun₄-na ma-a-kam
+c.4.07.6,A balbale (?) to  Inana (Inana F),,24,nibru{ki}-a dur-an-ki ma-a-kam
+c.4.07.6,A balbale (?) to  Inana (Inana F),,25,urim₂{ki}-ma e₂-dilmun-na ma-a-kam
+c.4.07.6,A balbale (?) to  Inana (Inana F),,26,ŋir₂-su{ki}-a eš₂-dam-kug ma-a-kam
+c.4.07.6,A balbale (?) to  Inana (Inana F),,27,adab{ki}-a e₂-šar-ra ma-a-kam
+c.4.07.6,A balbale (?) to  Inana (Inana F),,28,kiš{ki}-a hur-saŋ-kalam-ma ma-a-kam
+c.4.07.6,A balbale (?) to  Inana (Inana F),,29,kisiga{ki} amaš-kug-ga ma-a-kam
+c.4.07.6,A balbale (?) to  Inana (Inana F),,30,akšak{ki}-a an-za-gar₃ ma-a-kam
+c.4.07.6,A balbale (?) to  Inana (Inana F),,31,umma{ki}-a ib-gal ma-a-kam
+c.4.07.6,A balbale (?) to  Inana (Inana F),,32,a-ga-de₃{ki}-a ul-maš ma-a-kam
+c.4.07.6,A balbale (?) to  Inana (Inana F),,33,ma-ra dim₃-me-er teš₂ mu-da-sa₂-a
+c.4.07.6,A balbale (?) to  Inana (Inana F),,34,{d}inana-kam

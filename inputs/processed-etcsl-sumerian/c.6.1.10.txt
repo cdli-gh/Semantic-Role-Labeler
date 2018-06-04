@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+c.6.1.10,Proverbs: collection 10,,1,nir-ŋal₂-e a-na bi₂-in-dug₄ nu-sag₉
+c.6.1.10,Proverbs: collection 10,,2,nir-ŋal₂-e a-na bi₂-in-dug₄ nu-zid
+c.6.1.10,Proverbs: collection 10,,3,nir-ŋal₂ kug-zu-am₃ ukur₃ šu dim₄-am₃
+c.6.1.10,Proverbs: collection 10,,4,šu ŋar ŋal₂-la aratta{ki}-ka
+c.6.1.10,Proverbs: collection 10,,5,a₂-tuku lugal ki-in-du-ke₄
+c.6.1.10,Proverbs: collection 10,,6,usu ka lu₂-ta-am₃ am₃-kur₉-kur₉
+c.6.1.10,Proverbs: collection 10,,7,usu igi-ŋal₂-tuku nu-mu-e-da-sa₂
+c.6.1.10,Proverbs: collection 10,,8,usu diŋir-ŋa₂ ni₂-ŋa₂ ba-til
+c.6.1.10,Proverbs: collection 10,,9,nam-ŋuruš anše kar-ra-gin₇ haš₂-ŋa₂ ba-e-taka₄
+c.6.1.10,Proverbs: collection 10,,10,hur-saŋ gig₂-ŋu₁₀ im-babbar ba-an-mu₂
+c.6.1.10,Proverbs: collection 10,,11,ama-ŋu₁₀ {ŋeš}tir-ta lu₂ mu-ši-in-gi₄
+c.6.1.10,Proverbs: collection 10,,12,šu dab₅-ŋu₁₀ ma-an-šum₂
+c.6.1.10,Proverbs: collection 10,,13,{d}nin-kilim niŋ₂ hab₂-ba gu₇-gu₇-ŋu₁₀
+c.6.1.10,Proverbs: collection 10,,14,dug i₃-nun-na-še₃ gu₂ nu-mu-un-ši-la₂-e
+c.6.1.10,Proverbs: collection 10,,15,ur₂ am-mu-uš-e i-bi₂ ₇-e
+c.6.1.10,Proverbs: collection 10,,16,bad₃-si gul-gul-e na-ab-be₂-a
+c.6.1.10,Proverbs: collection 10,,17,esaŋ₂ gibil-za in-nu sumun-a-ŋu₁₀ ga-an-si-e-še
+c.6.1.10,Proverbs: collection 10,,18,lu₂ mu-e-ši-in-gi₄ ta-am₃ bi₂-ib-dab₅
+c.6.1.10,Proverbs: collection 10,,19,ma-la-ga-ni mu-na-ni-ib-gi₄-gi₄

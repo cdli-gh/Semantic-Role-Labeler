@@ -1,0 +1,31 @@
+id_text,text_name,version,l_no,text
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,1,{m}arad-ŋu₁₀-ra u₃-na-a-dug₄
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,2,{m}{d}šul-gi lugal-zu na-ab-be₂-a
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,3,ud {m}a-ba-an-da-sa₂ ugula erin₂ zu₂ keše₂
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,4,u₃-na-a-dug₄-bi šu-ni mu-un-taka₄-a
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,5,šu dugud ri-de₃ šer₇-da il₂-la-zu hu-mu-un-ši-in-gen₆
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,6,a-na-aš-am₃ erin₂-bi-ta mu-un-zi-zi
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,7,en-nu-uŋ₃-ŋa₂ mu-ni-in-kur₉
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,8,a-ba-e-tum₃-tum₃-ma šer₇-da šag₄-zu a-ba-e-ši-il₂-la
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,9,kur₂-ra ba-ra-e₃-a erin₂-bi-ta gi₄-gi₄-mu-un-na-ab
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,10,ugu-ŋu₁₀-ta
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,11,ha-ra-an-kalag
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,14,X-ŋar-re-en
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,15,ha-ra-an-kalag ha-ba-zu-X
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,16,u₃-na-a-dug₄-ŋu₁₀ šu-ni šu taka₄
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,17,erin₂-bi-še₃ gi₄-gi₄-mu-un-na-ab
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,18,sag₉-ga-zu pad₃-de₃
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,19,X-pe-el-le-en
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,20,X-ab-ŋar mu-ra-ab-kuš₂
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,21,ki-saŋ-ŋal₂-X igi-zu-še₃ {ŋeš}gu-za ha-ra-ab-tuš-de₃-en
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,A,22,a-ma-ru-kam
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,1,
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,2,{m}ur-{d}namma a-a ugu-ŋu₁₀
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,3,ha-ra-kalag
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,4,ab-ŋar-re-X
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,5,ha-ra-kalag
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,6,ud u₃-na-dug₄-ŋu₁₀
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,7,erin₂-bi-še₃ gi₄-gi₄
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,8,iri{ki}-bi nam-ba-an-pe-el-X
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,9,nam-gur₄-bi erin₂-bi-še₃
+c.3.1.06.1,Letter from Šulgi to Aradŋu about Aba-indasa's letter,B,10,ki saŋ ki-ŋal₂-la igi-zu-X {ŋeš}gu-za-am₃

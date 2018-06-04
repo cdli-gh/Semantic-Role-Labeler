@@ -1,0 +1,208 @@
+id_text,text_name,version,l_no,text
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A4,
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A5,
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A6,igi-ŋal₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A7,{d}hendur-saŋ-ŋa₂ me-zu mah-am₃ lu₂ al nu-um-me
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A8,ur₃-bad₃-da na de₅-de₅
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A9,saŋ šu du₃-du₃ en uru₁₆-e-ne
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A10,ešgiri₂ šu du₈ barag-barag-ge₂-ne
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A11,unud uŋ₃ lu-a igi il₂-il₂-i
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A12,niŋ₂-na de₅ ŋi₆-a en-nu-uŋ₃ MAŠ-a-gin₇ sila daŋal peš-peš-e
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A13,kan₄ ud e₃-ba ŋal₂ da₁₃-da₁₃ {ŋeš}ig-bi sila-ba gub-bu
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A14,{d}hendur-saŋ-ŋa₂ me-zu mah-am₃ lu₂ al nu-um-me
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A15,{d}nin-dar-a lugal niŋin₆{ki} ki niŋ₂-daŋal-la-ba šid-du₃-bi za-e-me-en
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A16,{d}hendur-saŋ-ŋa₂ ŋiškim mah {d}nanše šu-za im-ma-gub
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A17,in-nin ama {d}nanše šag₄ mu-ti-ni-ib-kuš₂-u₃
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A18,šibir ŋidru ŋiš-hur-ra-bi ki sikil-la bi₂-in-mu₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A19,sila sig₉-ga il₂-la-aš igi
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A20,kug-zu kar si sa₂ {ŋeš}ma₂-gur₈ sikil-am₃ dadag-ga-am₃
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A21,in-nin ama {d}nanše ma₂-gur₈ kug ša-mu-ra-ab-dirig-ga
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A22,šag₄-ba nar dug₃ nun ša-mu-na-du₁₂-am₃
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A23,gana₂ zid ki mu-e-ŋar-ra-zu gig ziz₂ gu₂-gal-la-am₃
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A24,ki niŋ₂-gur₁₁ im-mi-ŋar-ra-zu e-ri-ne {ŋeš}asal-a
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A25,pap-zu en ab kug-ga dar{mušen}
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A26,{d}nin-dar-a lugal lagaš{ki}-ra
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A27,ab₂-šilam kug-ge i₃ mu-na-ab-tum₃ ga mu-na-ab-tum₃
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A28,itid zag-mu ud sa₂-dug₄-ga-kam
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A29,{d}nin-dar-a e₂-za niŋ₂-mussa
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A30,in-nin ama {d}nanše ša-mu-ra-da-ab-ak-e
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A31,id₂-zu ku₆ ku₃-ŋal₂ nu-un-dab₅ kun-bi nu-sud-e
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A32,a-šag₄-zu engar-e niŋ₂-kud la-ba-ab-ak-e
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A33,gud-zu-ta lu₂ gud ed₃-da-ke₄ gud la-ba-ra-ab-ed₃-de₃
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A34,udu-zu-a u₂-tul₂ nu-un-ku₄-ku₄ šid nu-du₃-e
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A35,{ŋeš}GADA.TAG.DA-za gi nu-gib-be₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A36,{ŋeš}buniŋ niŋ₂-silaŋ-ŋa₂-zu niŋ₂-kud la-ba-ab-ak-e
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A37,nitah lu₂ la-ga mu-e-ši-niŋin₂-na a-niŋin₂ mu-na-an-du₃-uš
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A38,sila sig₉-ga-ba saŋ šu bi₂-du₃
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A39,ki-e-ne-di-ba lul-eš₂ im-ta-e-en
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A40,saŋ ug₅-ga kur-ra DU.DU-e-da gal₅-la₂ gal-bi-me-en
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A41,{d}hendur-saŋ-ŋa₂ me-zu mah-am₃ lu₂ al nu-um-me
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A42,diŋir lu₂-ulu₃-ke₄ gu₇ naŋ-da ša-ra-da-gub
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A43,lu₂-ulu₃ {gi}kid-aš-X u₃-bi₂-in-dab₅ šu-na
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A44,mu {d}hendur-saŋ-ŋa₂-ka um-mi-in-pad₃
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A45,sila sig₉-ga ŋi₆ u₃-na-ka si sa₂-bi mi-ni-dab₅-be₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A46,dub-sar-dub-sar a-ra-li ba-sug₂-ge-eš
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A47,lu₂ ud-de₃ im-ta-ab-gen₆-ne₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A48,ur₃-bad₃-da ki-nu₂ dug₃-dug₃-ge-en
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A49,niŋir-ra ₇-na-ne-ne ša-mu-da-sug₂-ge-eš
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A50,bad₃ kalam-ma-ka ma-ra-ši-niŋin₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A51,ki-ba uŋ₃ ma-ra-ra
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A52,hul-ŋal₂ iri-a
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A53,erim₂-du šag₄-ŋar
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A54,{d}alad igi sag₉ {d}lamma
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A55,nu-UL {d}lamma
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A56,
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A68,
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A69,sila sig₉-ga
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A70,a im-mi-tu₅
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A71,gum-ma
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A72,gur-ra
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A73,gub-ba-ta im-ta-DU.DU-de₃-eš
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A74,e-ne-ne-ne en ŋi₆-par₃-ra bi₂-in-huŋ-e-ne
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A75,nin-diŋir maš₂-a im-mi-in-dab₅-be₂-ne
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A76,gudug hi-li-a bi₂-in-gub-bu-ne
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A77,ud ne ud te-en-na um-ma-te-a-ta
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A78,₇-ba ₁ ka₅-a-am₃ kun im-ur₃-ur₃-re
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A79,₂-kam-ma ur-gir₁₅-gin₇ si-im-si-im i₃-ak-e
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A80,₃-kam-ma uga{mušen}-gin₇ za-na gug im-kul-e
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A81,₄-kam-ma te₈{mušen} mah ad₆ gu₇-a-gin₇ ka i₃-ša-an-ša-ša
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A82,₅-kam-ma ur-bar-ra nu-me-a sila₄ gig₂-ga i₃-šub
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A83,₆-kam-ma {d}nin-immaₓ{mušen}-gin₇ tuš-a-gin₇ gu₃ mi-ni-ib-ra
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A84,₇-kam-ma kušu₂{ku₆}-am₃ a-ŋi₆ im-bu-bu-bu
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A85,₇-be₂-ne diŋir munus nu-me-eš u₃ nitah nu-me-eš
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A86,nitah-ra šu mu-un-du₃-ne munus-ra a₂ mu-un-la₂-ne
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A87,munus-ra {ŋeš}tukul da-bi mu-ni-ib-ŋa₂-ŋa₂-ne
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A88,ir-si-im kalam-ma ba-an-ŋa₂-ŋa₂-ne
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A89,me diŋir-re-e-ne šu im-du₇-du₇-ne
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A90,{d}hendur-saŋ-ŋa₂ me-zu mah-am₃ lu₂ al nu-um-me
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A91,gu₂-NE ki kug ŋar-ŋar-ra-da
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A92,e₂-kur-ra {d}gibil₆ lu₂ sikil-la igi-bi-a ŋal₂-la-da
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A93,nin {d}nin-mug ša-ra-da-gub
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A94,ki-in-du kug-ge ŋal₂ da₁₃-da₁₃-da
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A95,{d}ama-abzu-e₂-kur-ra ša-ra-da-gub
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A96,{ŋeš}gag e₂ kug-ga ŋal₂ da₁₃-da₁₃-da
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A97,{d}nin-niŋ₂-bun₂-na-ra ša-ra-da-gub
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A98,umma{ki}-a ki ur₅ sag₉ ŋar-ra-da
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A99,{d}nin-BI-šu-kal-le ša-ra-da-gub
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A100,aratta{ki}-e šu rib-ba-da
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A101,{d}lugal-ban₃-da ša-ra-da-gub
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A102,niŋin₆{ki} kur a-ta il₂-la-da
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A103,sukkal ša-ra-da-gub
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A104,
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,A105,ša-ra-da-gub
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B1,
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B2,mas-su-bi-me-en
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B3,saŋ gig₂-ga šid-du₃-bi za-e-me-en
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B4,saŋ ug₅-ga kur-ra DU.DU-e-bi gal₅-la₂ gal-bi-me-en
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B5,gal niŋir sila ur₃-ra e-ne dug₄-dug₄
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B6,e₂ ku₁₀-ku₁₀-ga-ba saŋ
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B7,ur₃-bad₃ kalam-ma-ka igi ri-ri
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B8,en {d}hendur-saŋ-ŋa₂-ke₄ za-e ši-in-ga-me-en-na-Xbr
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B9,{d}en-ki-ke₄ lu₂ a-a sig₉-ga ŋiš₃ bi₂-in-dug₄-ga-ta
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B10,dumu ₇-na mu-un-ši-ib-tud-da
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B11,dumu al-lub ₇-na-ne-ne
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B12,an-na šag₄-ŋar-bi-še₃ im-ta-ab-gen₆-ne₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B13,ki-a uŋ₃ ša-mu-ra-da-ab-us₂-e
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B14,utul₂ gub-ba-da kaš sur-ra-da
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B15,šeš-gal ₇-ba ša-ra-da-gub
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B16,utul₂ gub-ba dug kaš sur-ra-ta niŋ₂-kud ša-ra-ab-ak-e
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B17,a id₂-da-ta a pu₂ gana₂-ta
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B18,sis-e a gibil-la₂-ta
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B19,₂-kam-ma us₂-bi ša-ra-da-gub
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B20,a id₂-da-ta a pu₂ gana₂-ta
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B21,sis-e a gibil-la₂-ta niŋ₂-kud ša-ra-ab-ak-e
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B22,ku₆ tur-tur bur gu₇-u₃-de₃
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B23,ku₆ gal-gal a-gar₃-re DU.DU-e-da
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B24,₃-kam-ma us₂-bi ša-ra-da-gub
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B25,ku₆ tur-tur bur gu₇-u₃-de₃
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B26,ku₆ gal-gal a-gar₃-re DU.DU-e-da niŋ₂-kud ša-ra-ab-ak-e
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B27,id₂ kug-ge a si-si-da
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B28,kun-bi asila la₂-da
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B29,₄-kam-ma us₂-bi ša-ra-da-gub
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B30,id₂ kug-ge a si-si-da
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B31,kun-bi asila la₂-da niŋ₂-kud ša-ra-ab-ak-e
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B32,{ŋeš}buniŋ niŋ₂-silaŋ-ŋa₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B33,{ŋeš}GADA.TAG.DA ku₆ izi tag-ga-da
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B34,₅-kam-ma us₂-bi ša-ra-da-gub
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B35,{ŋeš}buniŋ niŋ₂-silaŋ-ŋa₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B36,{ŋeš}GADA.TAG.DA ku₆ izi tag-ga-da niŋ₂-kud ša-ra-ab-ak-e
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B37,zar du₈-a-da še-zar sal-la-da
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B38,še sig₉-ga ŋidru-še₃ nu₂-a-da
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B39,₆-kam-ma us₂-bi ša-ra-da-gub
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B40,zar du₈-a-da še-zar sal-la-da
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B41,še sig₉-ga ŋidru-še₃ nu₂-a-da niŋ₂-kud ša-ra-ab-ak-e
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B42,pu₂-{ŋeš}kiri₆ lal₃ ŋeštin ŋa₂-ŋa₂-da
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B43,ŋir₃-lam kug-ge saŋ sig₁₀-ga-da
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B44,₇-kam-ma us₂-bi ša-ra-da-gub
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B45,pu₂-{ŋeš}kiri₆ lal₃ ŋeštin ŋa₂-ŋa₂-da
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,B46,ŋir₃-lam kug-ge saŋ sig₁₀-ga-da niŋ₂-kud ša-ra-ab-ak-e
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C1,šu ub-šu-unken-na-ka
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C2,za-e-me-en ki-gub
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C3,lu₂-ulu₃ diŋir-da nu-me-a
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C4,u₃ la-ba-gu-ul-e u₃ la-ba-tur-re
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C5,ukur₃ nu-um-me bur-šu-ma nu-um-me
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C6,en-te-en-na sed
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C7,e₂-me-eš bar su šaŋar
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C8,sila-a du-a-ni saŋ-bi
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C9,murub₄ unken-na-ka hul
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C10,id₂-da ed₃-da-bi ku₆ nu-dab₅-be₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C11,a-šag₄-ga ed₃-da-bi maš nu-dab₅-be₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C12,e₂-gal lugal-la-ka un-kur₉ kaš nu-X-naŋ
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C13,kiŋ₂-gi₄-a kaš₄ ha-ba-ni-in-dug₄ sa₂ nu-ub-be₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C14,diŋir igi mu-un-ši-bar-ra-ni a₂-ni li-bi₂-in-gu-ul-e
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C15,tukum-bi lu₂-ulu₃ diŋir-ra-a-ni an-na-kam
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C16,niŋ₂ sag₉-ga-ni
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C17,lu₂-ulu₃-bi lul u₃-bi₂-in-dug₄
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C18,zid u₃-bi₂-in-dug₄
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C19,sila-a du-a-ni saŋ-bi
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C20,murub₄ unken-na-ka hul
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C21,id₂-da un-ed₃ ku₆ dab₅
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C22,a-šag₄-ga u₃-um-ŋen maš im-ma-na-X-dab₅
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C23,e₂-gal lugal-la-ka un-kur₉ kaš i-im-na₈-na₈ u₃-mu-un-ŋar im-X
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C24,kiŋ₂-gi₄-a kaš₄ ba-ni-in-dug₄-ga lu₂ ba-an-da-hul₂-le
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C25,diŋir igi mu-un-ši-bar-ra-ni a₂-na bi₂-in-gu-ul-e
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C26,ambar-ra {tum₉}ulu₃ ri-a-bi {ŋeš}ma₂ la-ba-an-da-su-su
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C27,i-gi₄-in-zu {ŋeš}gigir-ra ba-da-an-til-e
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C28,a-ab-ba ki niŋ₂-daŋal-la-ba ku₄-kur idim um-tag-ge
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C29,i₃-ne-eš₂ lu₂ lu₂-ra a-na an-na-an-dug₄
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C30,lu₂-ulu₃ lu₂-ra dili a-na an-na-an-tah
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C31,ud um-zal {d}utu um-ta-e₃
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C32,{d}utu ki ŋiš-erin₂-na-ka mu-un-gub
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C33,tukum-bi lu₂ gud in-sa₁₀-sa₁₀
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C34,{d}utu {d}hendur-saŋ-ŋa₂-ra en₃ mu-na-tar-re
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C35,lu₂ gud sa₁₀-sa₁₀-de₃ igi-ŋal₂-la-ni nu-mu-na-ab-be₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C36,tukum-bi {d}hendur-saŋ-ŋa₂-ke₄ gud sa₁₀-sa₁₀-da mu-na-ab-be₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C37,{d}utu tur₃-ni du₃-a-bi nam im-mi-ib-tar-re
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C38,tukum-bi lu₂ udu in-sa₁₀-sa₁₀
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C39,{d}utu {d}hendur-saŋ-ŋa₂-ke₄ en₃ mu-na-tar-re
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C40,lu₂ udu sa₁₀-sa₁₀-de₃ igi-ŋal₂-la-ni nu-mu-na-ab-be₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C41,tukum-bi {d}hendur-saŋ-ŋa₂-ke₄ udu sa₁₀-sa₁₀-de₃ mu-na-ab-be₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C42,{d}utu amaš niŋin₂-na-bi nam im-ma-ab-tar-re
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C43,tukum-bi lu₂ saŋ in-sa₁₀-sa₁₀
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C44,{d}utu {d}hendur-saŋ-ŋa₂-ke₄ en₃ mu-na-tar-re
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C45,lu₂ saŋ sa₁₀-sa₁₀-de₃ igi-ŋal₂-la-ni nu-mu-na-ab-be₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C46,tukum-bi {d}hendur-saŋ-ŋa₂-ke₄ saŋ sa₁₀-sa₁₀ mu-na-ab-be₃
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C47,{d}utu a₂ ŋiš-erin₂-na-ka mu-un-na-gen₆-ne₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C48,tukum-bi lu₂ dam in-tuku-tuku
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C49,{d}utu {d}hendur-saŋ-ŋa₂-ke₄ en₃ mu-na-tar-re
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C50,lu₂ dam tuku-tuku igi-ŋal₂-la-ni nu-mu-na-ab-be₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C51,tukum-bi {d}hendur-saŋ-ke₄ dam tuku-tuku-da mu-na-ab-be₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C52,lu₂-ulu₃-bi dam in-ga-an-tuku-tuku dumu in-ga-an-u₃-tud
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C53,e₂ in-ga-du₃-e ŋa₂ in-ga-ni₁₀-ni₁₀
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C54,nitah-bi dam-a-ni dug₃-bi mu-un-da-ab-be₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C55,ki-sikil-bi ama₅ niŋ₂ dirig-ga dur₂ ki mu-un-ŋa₂-ŋa₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C56,i₃-ne-eš₂ lu₂ lu₂-ra a-na na-an-dug₄
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C57,lu₂ lu₂-ulu₃-ra dili a-na an-na-an-tah
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C58,AN.PA ga-mu-un-TUG₂ im-me-ne
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C59,AN.PA ga-mu-un-TUG₂ lu₂ nam tar-re-da
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C60,gud sam₂-a tur₃-ra gen₆-ne₂-de₃
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C61,udu sam₂-a amaš-a daŋal-e-de₃
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C62,saŋ sam₂-a e₂ lugal-la-ni-ta gu₂ ŋiš ŋa₂-ŋa₂-de₃
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C63,dug ₁ sila₃-ta a kab₂ di-de₃
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C64,ugnim igi zu₂ keše₂ me₃-ka
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C65,niŋir-e si gu₃ um-mi-in-ra
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C66,ur-saŋ an-edin-na du-a-ni
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C67,niŋir ušumgal ŋiri₃-ba zi-zi-de₃
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C68,niŋir {d}hendur-saŋ-ŋa₂-ke₄ su-ba zi-zi-de₃
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C69,a₂ mah niŋir-ra-ke₄ mi₂ dug₄-ga šul {d}utu za₃-mi₂
+c.4.06.1,A hymn to Hendursaŋa (Hendursaŋa A),,C70,a₂ mah {d}hendur-saŋ-ŋa₂-ke₄ mi₂ dug₄-ga a-a {d}en-ki za₃-mi₂

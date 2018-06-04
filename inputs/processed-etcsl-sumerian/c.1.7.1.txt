@@ -1,0 +1,136 @@
+id_text,text_name,version,l_no,text
+c.1.7.1,The marriage of Martu,,1,i₃-na-ab{ki} i₃-me-a kiri₈-tab nu-me-a
+c.1.7.1,The marriage of Martu,,2,men kug i₃-me-a aga kug nu-me-a
+c.1.7.1,The marriage of Martu,,3,šim kug i₃-me-a {ŋeš}erin kug nu-me-a
+c.1.7.1,The marriage of Martu,,4,mun kug i₃-me-a naŋa kug nu-me-a
+c.1.7.1,The marriage of Martu,,5,ŋiš dug₄-dug₄-ga ne su-ub-ba i₃-me-a
+c.1.7.1,The marriage of Martu,,6,šag₄-tum₂-šag₄-tum₂-ma tud-da i₃-me-a
+c.1.7.1,The marriage of Martu,,7,ad-da-ab-ba {ŋeš}erin kug-ga-me-en bil₂-ga {ŋeš}meš₃-me-en
+c.1.7.1,The marriage of Martu,,8,ama ad {ŋeš}erin babbar-ra-me-en su ha-šu-ur₂-ra-me-en
+c.1.7.1,The marriage of Martu,,9,ud-ba iri-iri-a kur nam-nun-na-kam
+c.1.7.1,The marriage of Martu,,10,i₃-na-ab{ki} iri-iri-a kur nam-nun-na-kam
+c.1.7.1,The marriage of Martu,,11,ensi₂ i₃-na-ab{ki}-a tigi-šem₅-{kuš}a₂-la₂-a
+c.1.7.1,The marriage of Martu,,12,dam-a-ni šag₄-ge-guru₇ mu-ni he₂-en-na-nam
+c.1.7.1,The marriage of Martu,,13,dumu-ni X-da-gur-ra-am₃
+c.1.7.1,The marriage of Martu,,14,mu-ni he₂-en-na-nam
+c.1.7.1,The marriage of Martu,,15,iri-da-e-ne gu na-la₂-e-ne
+c.1.7.1,The marriage of Martu,,16,i₃-na-ab{ki} iri-da-e-ne gu na-la₂-e-ne
+c.1.7.1,The marriage of Martu,,17,gu na-la₂-e-ne maš mu-un-sar-sar-ne
+c.1.7.1,The marriage of Martu,,18,maš-e lu₂-ulu₃-gin₇ ŋiš mu-un-ra-ra-ne
+c.1.7.1,The marriage of Martu,,19,ud ne ud ten-na um-ma-te-a-ra
+c.1.7.1,The marriage of Martu,,20,ki niŋ₂-ba-ka um-ma-te-a-ra
+c.1.7.1,The marriage of Martu,,21,igi {d}EŠ₂.LIL.DU niŋ₂-ba na-ni-ŋa₂-ŋa₂
+c.1.7.1,The marriage of Martu,,22,niŋ₂-ba lu₂ dam tuku ₂-am₃ i₃-ŋa₂-ŋa₂
+c.1.7.1,The marriage of Martu,,23,niŋ₂-ba lu₂ dumu tuku ₃-am₃ i₃-ŋa₂-ŋa₂
+c.1.7.1,The marriage of Martu,,24,niŋ₂-ba ŋuruš saŋ-dili ₁-am₃ i₃-ŋa₂-ŋa₂
+c.1.7.1,The marriage of Martu,,25,{d}mar-tu dili-ni ₂-am₃ i₃-ŋa₂-ŋa₂
+c.1.7.1,The marriage of Martu,,26,{d}mar-tu ama ugu-ni-ir
+c.1.7.1,The marriage of Martu,,27,e₂-a ba-an-ši-kur₉ gu₃ mu-na-de₂-e
+c.1.7.1,The marriage of Martu,,28,iri-ŋa₂ gu₅-li-ŋu₁₀-ne-me-en dam ba-an-tuku-tuku-me-eš
+c.1.7.1,The marriage of Martu,,29,dub₃-sa-ŋu₁₀-ne-me-en dam ba-an-tuku-tuku-me-eš
+c.1.7.1,The marriage of Martu,,30,iri-ŋa₂ gu₅-li-ŋu₁₀-ne-gin₇ dam nu-tuku-me-en
+c.1.7.1,The marriage of Martu,,31,dam nu-tuku-me-en dumu nu-tuku-me-en
+c.1.7.1,The marriage of Martu,,32,ŋiš-šub us₂-sa dirig gu₅-li-ŋa₂-še₃
+c.1.7.1,The marriage of Martu,,33,MAŠ dub₃-sa bi₂-dab₅ dirig dub₃-sa-ŋa₂-še₃
+c.1.7.1,The marriage of Martu,,34,ud ne ud te-en-na um-ma-te-a-ra
+c.1.7.1,The marriage of Martu,,35,ki niŋ₂-ba-ka um-ma-te-a-ra
+c.1.7.1,The marriage of Martu,,36,igi {d}EŠ₂.LIL.DU niŋ₂-ba na-ni-ŋa₂-ŋa₂
+c.1.7.1,The marriage of Martu,,37,niŋ₂-ba lu₂ dam tuku ₂-am₃ i₃-ŋa₂-ŋa₂
+c.1.7.1,The marriage of Martu,,38,niŋ₂-ba lu₂ dumu tuku ₃-am₃ i₃-ŋa₂-ŋa₂
+c.1.7.1,The marriage of Martu,,39,niŋ₂-ba ŋuruš saŋ-dili ₁-am₃ i₃-ŋa₂-ŋa₂
+c.1.7.1,The marriage of Martu,,40,{d}mar-tu dili-ni ₂-am₃ i₃-ŋa₂-ŋa₂
+c.1.7.1,The marriage of Martu,,41,{d}mar-tu ama ugu-ni-ir
+c.1.7.1,The marriage of Martu,,42,e₂-a ba-an-ši-kur₉ gu₃ mu-na-de₂-e
+c.1.7.1,The marriage of Martu,,43,ama-ŋu₁₀ dam tuku-ba-ab niŋ₂-ba-ŋu₁₀ ga-mu-ra-de₆
+c.1.7.1,The marriage of Martu,,44,{d}mar-tu ama ugu-ni mu-na-ni-ib-gi₄-gi₄
+c.1.7.1,The marriage of Martu,,45,{d}su-he-nun-na-ŋu₁₀ na ga-e-de₅ na de₅-ŋu₁₀ he₂-dab₅
+c.1.7.1,The marriage of Martu,,46,inim ga-ra-ab-dug₄ inim-ŋu₁₀-še₃ ŋeštug₂-zu
+c.1.7.1,The marriage of Martu,,47,igi il₂-la-zu dam tuku-ba-ni-ib
+c.1.7.1,The marriage of Martu,,48,šag₄-ge guru₇-zu dam tuku-ba-ni-ib
+c.1.7.1,The marriage of Martu,,49,šu-tab ze₂-ŋa₂ gi₄-in
+c.1.7.1,The marriage of Martu,,50,iri-da-za e₂-bi du₃-du₃-a {ŋeš}kiri₆
+c.1.7.1,The marriage of Martu,,51,dub₃-sa-za pu₂ ba-e-ni-ba-al
+c.1.7.1,The marriage of Martu,,52,{d}mar-tu lu₂ dub₃-sa-X
+c.1.7.1,The marriage of Martu,,53,ud-ba iri-a iri-a ezen gu₃ bi₂-ib-ra
+c.1.7.1,The marriage of Martu,,54,i₃-na-ab{ki} iri-a ezen gu₃ bi₂-ib-ra
+c.1.7.1,The marriage of Martu,,55,ŋa₂-nam-ma gu₅-li ga-re₇-en-de₃-en ga-ba-e-re₇-en-de₃-en
+c.1.7.1,The marriage of Martu,,56,e₂ kaš i₃-na-ab{ki}-a ga-re₇-en-de₃-en ga-ba-e-re₇-en-de₃-en
+c.1.7.1,The marriage of Martu,,57,{d}nu-muš-da-X ezem-ma
+c.1.7.1,The marriage of Martu,,58,dumu ki aŋ₂-ŋa₂-ni {d}ad-ŋar-ki-dug₃ ezem-ma
+c.1.7.1,The marriage of Martu,,59,dam-a-ni {d}nam-ra-at munus sag₉-ga ezem-ma
+c.1.7.1,The marriage of Martu,,60,iri-a šem₅ zabar zi-ig-za-ag X-za
+c.1.7.1,The marriage of Martu,,61,{kuš}a₂-la₂ ₇-e šeg₁₁ mu-da-an-gi₄
+c.1.7.1,The marriage of Martu,,62,nitah en ib₂-la₂-ne
+c.1.7.1,The marriage of Martu,,63,e₂-ŋešpu₂-še₃ mu-na-da-an-kur₉-kur₉
+c.1.7.1,The marriage of Martu,,64,e₂ i₃-na-ab{ki}-a-ka hu-mu-na-ab-sa₂-e
+c.1.7.1,The marriage of Martu,,65,i₃-na-ab{ki} iri ezen ŋal₂-la-še₃ u₆ di-de₃ ba-gub
+c.1.7.1,The marriage of Martu,,66,i₃-na-ab{ki} iri ezen ŋal₂-la-še₃ u₆ di-de₃ ba-gub
+c.1.7.1,The marriage of Martu,,67,e-ne-ra bar kug-ga i₃-me-a-ke₄-eš
+c.1.7.1,The marriage of Martu,,68,kan₄ i₃-na-ab{ki}-ka ŋešpu₂ lirum-e
+c.1.7.1,The marriage of Martu,,69,{d}mar-tu kisal mah-a dub₃ i-ni-in-bad
+c.1.7.1,The marriage of Martu,,70,ur-saŋ kalag-ga mu-na-ab-kiŋ₂-kiŋ₂-e
+c.1.7.1,The marriage of Martu,,71,ur-saŋ kalag-ga mu-na-ab-zi-zi-i
+c.1.7.1,The marriage of Martu,,72,{d}mar-tu kisal mah dub₃ i-ni-bad
+c.1.7.1,The marriage of Martu,,73,gul-gul-e ₁-ta bi₂-ra
+c.1.7.1,The marriage of Martu,,74,kisal mah me₃-e niŋ₂-la₂-e bi₂-in-la₂
+c.1.7.1,The marriage of Martu,,75,kisal i₃-na-ab{ki} ad₆ im-il₂-il₂-e
+c.1.7.1,The marriage of Martu,,76,{d}nu-muš-da {d}mar-tu hul₂-la-e
+c.1.7.1,The marriage of Martu,,77,kug mu-un-na-ba-e šu nu-um-ma-gid₂-i-de₃
+c.1.7.1,The marriage of Martu,,78,za mu-un-na-ba-e šu nu-um-ma-gid₂-i-de₃
+c.1.7.1,The marriage of Martu,,79,₂-kam ur₅-am₃ um-ak-e
+c.1.7.1,The marriage of Martu,,80,₃-kam ur₅-am₃ um-ak-e
+c.1.7.1,The marriage of Martu,,81,kug-zu me-da tum₃ za-zu me-da tum₃
+c.1.7.1,The marriage of Martu,,82,{d}mar-tu-me-en dumu-zu ga-ba-ab-tuku
+c.1.7.1,The marriage of Martu,,83,dumu-zu ga-ba-ab-tuku
+c.1.7.1,The marriage of Martu,,91,amar niŋ₂-mussa dam
+c.1.7.1,The marriage of Martu,,92,ab₂-ga amar he₂-em-mi-ib-gu₇
+c.1.7.1,The marriage of Martu,,93,tur₃-ba gud-ab₂-ba-bi hu-mu-un-ši-nu₂-e
+c.1.7.1,The marriage of Martu,,94,ab₂ he₂-em-mi-tuš
+c.1.7.1,The marriage of Martu,,95,amar-bi a₂ zid-da-bi he₂-em-mi-tuš
+c.1.7.1,The marriage of Martu,,96,ur₅-re ur₅-ur₅-re inim ha-ba-ni-ŋar-re-en
+c.1.7.1,The marriage of Martu,,97,{d}ad-ŋar-ki-dug₃ dumu-ŋu₁₀ ga-mu-ra-ab-šum₂
+c.1.7.1,The marriage of Martu,,98,sila₄ niŋ₂-mussa dam
+c.1.7.1,The marriage of Martu,,99,u₈-ga sila₄ he₂-em-mi-ib-gu₇
+c.1.7.1,The marriage of Martu,,100,amaš-ba hu-mu-un-ši-nu₂-e
+c.1.7.1,The marriage of Martu,,101,u₈ he₂-em-mi-tuš
+c.1.7.1,The marriage of Martu,,102,sila₄-bi gab₂-bu-bi he₂-em-mi-tuš
+c.1.7.1,The marriage of Martu,,103,ur₅-re ur₅-ur₅-re inim ha-ba-ni-ŋar-re-en
+c.1.7.1,The marriage of Martu,,104,{d}ad-ŋar-ki-dug₃ dumu-ŋu₁₀ ga-mu-ra-ab-šum₂
+c.1.7.1,The marriage of Martu,,105,maš₂ niŋ₂-mussa dam
+c.1.7.1,The marriage of Martu,,106,ud₅-ga maš₂ he₂-em-mi-ib-gu₇
+c.1.7.1,The marriage of Martu,,107,unu-ba maš₂-ud₅-da-bi hu-mu-un-ši-nu₂-e
+c.1.7.1,The marriage of Martu,,108,ud₅-de₃ maš₂-bi he₂-em-mi-tuš
+c.1.7.1,The marriage of Martu,,109,maš₂-bi he₂-em-mi-tuš
+c.1.7.1,The marriage of Martu,,110,ur₅-re ur₅-ur₅-re inim ha-ba-ni-ŋar-re-en
+c.1.7.1,The marriage of Martu,,111,{d}ad-ŋar-ki-dug₃ dumu-ŋu₁₀ ga-mu-ra-ab-šum₂
+c.1.7.1,The marriage of Martu,,112,gal-gal-e
+c.1.7.1,The marriage of Martu,,113,gu₃ bi₂-in-ra
+c.1.7.1,The marriage of Martu,,114,kar i₃-na-ab{ki}-ka
+c.1.7.1,The marriage of Martu,,115,ab-ba-ab-ba-ar i₃-na-ab{ki}-a
+c.1.7.1,The marriage of Martu,,116,{ŋeš}rab₃ kug-sig₁₇-ka mi₂ im-ma-ni-in-dug₄
+c.1.7.1,The marriage of Martu,,117,um-ma-um-ma-ar i₃-na-ab{ki}-a
+c.1.7.1,The marriage of Martu,,118,{tug₂}bar-sig₉ kug-sig₁₇-ga mi₂ im-ma-ni-in-dug₄
+c.1.7.1,The marriage of Martu,,119,ŋuruš munus i₃-na-ab{ki}-ke₄-ne
+c.1.7.1,The marriage of Martu,,120,kug-sig₁₇-ka mi₂ im-ma-ni-in-dug₄
+c.1.7.1,The marriage of Martu,,121,arad₂-arad₂ i₃-na-ab{ki}-ke₄-ne
+c.1.7.1,The marriage of Martu,,122,mi₂ im-ma-ni-in-dug₄
+c.1.7.1,The marriage of Martu,,123,{tug₂}X gun₃-a mi₂ im-ma-ni-in-dug₄
+c.1.7.1,The marriage of Martu,,124,geme₂-geme₂ i₃-na-ab{ki}-ke₄-ne
+c.1.7.1,The marriage of Martu,,125,{dug}KIŊ₂.ŊIŠ kug-babbar mi₂ im-ma-ni-in-dug₄
+c.1.7.1,The marriage of Martu,,126,ud ba-hi-a di nu-til-le-dam
+c.1.7.1,The marriage of Martu,,127,a₂-še šu-bi ha-lam ulutim₂ ugu₄-bi
+c.1.7.1,The marriage of Martu,,128,an-zil gu₇ {d}nanna-kam ni₂ nu-tuku
+c.1.7.1,The marriage of Martu,,129,šu dag-dag-ge-bi
+c.1.7.1,The marriage of Martu,,130,niŋ₂-gig e₂ diŋir-re-e-ne-kam
+c.1.7.1,The marriage of Martu,,131,ŋalga-bi mu-un-lu₃-lu₃ šu suh₃-a dug₄-ga
+c.1.7.1,The marriage of Martu,,132,lu₂ {kuš}lu-ub₂ mur₁₀-a
+c.1.7.1,The marriage of Martu,,133,za-lam-ŋar til₃ tum₉ šeŋ₁₄ sizkur nu-mu-un-dug₄-ga
+c.1.7.1,The marriage of Martu,,134,hur-saŋ-ŋa₂ tuš-e ki diŋir-re-ne nu-zu-a
+c.1.7.1,The marriage of Martu,,135,lu₂ uzu-dirig kur-da mu-un-ba-al-la dub₃ gam nu-zu-am₃
+c.1.7.1,The marriage of Martu,,136,uzu nu-šeŋ₆-ŋa₂ al-gu₇-e
+c.1.7.1,The marriage of Martu,,137,ud til₃-la-na e₂ nu-tuku-a
+c.1.7.1,The marriage of Martu,,138,ud ba-ug₇-a-na ki nu-tum₂-mu-dam
+c.1.7.1,The marriage of Martu,,139,ma-la-ŋu₁₀ {d}mar-tu ta-am₃ an-tuku-tuku-un
+c.1.7.1,The marriage of Martu,,140,ma-la-ga-ni {d}ad-ŋar-ki-dug₃ mu-na-ni-ib-gi₄-gi₄
+c.1.7.1,The marriage of Martu,,141,{d}mar-tu ga-ba-an-tuku-tuku
+c.1.7.1,The marriage of Martu,,142,i₃-na-ab{ki} u₂-lum a-lam-ma

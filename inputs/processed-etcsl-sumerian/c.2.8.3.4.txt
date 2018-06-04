@@ -1,0 +1,2 @@
+id_text,text_name,version,l_no,text
+c.2.8.3.4,A prayer for Samsu-iluna (Samsu-iluna D),,1,pa e₃ nam-ak-e šag₄ kug-ta an-na-TAR

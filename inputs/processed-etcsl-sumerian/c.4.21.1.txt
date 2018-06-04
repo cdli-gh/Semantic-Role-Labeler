@@ -1,0 +1,31 @@
+id_text,text_name,version,l_no,text
+c.4.21.1,A hymn to Ninimma (Ninimma A),,A1,kišib-ŋal₂ e₂ niŋ₂-gur₁₁-ra
+c.4.21.1,A hymn to Ninimma (Ninimma A),,A2,saŋ en₃ tar diŋir gal-e-ne-me-en zu-zu-me-en
+c.4.21.1,A hymn to Ninimma (Ninimma A),,A3,{d}nin-imma₃ nin mar-za gal-gal e₂-kur-ra-me-en
+c.4.21.1,A hymn to Ninimma (Ninimma A),,A4,nin {d}en-lil₂-la₂ dub-sar an-na-me-en
+c.4.21.1,A hymn to Ninimma (Ninimma A),,A5,im nam-til₃-la ŋal₂-la-me-en
+c.4.21.1,A hymn to Ninimma (Ninimma A),,A6,
+c.4.21.1,A hymn to Ninimma (Ninimma A),,A7,še mah tum₃ nin e₂-sar-ra-me-en
+c.4.21.1,A hymn to Ninimma (Ninimma A),,A8,eš₂-gana₂ za-gin₃ gi-₁-nindan šu du₇-a-me-en
+c.4.21.1,A hymn to Ninimma (Ninimma A),,A9,saŋ il₂ nun-gal-e-ne-me-en
+c.4.21.1,A hymn to Ninimma (Ninimma A),,A10,en
+c.4.21.1,A hymn to Ninimma (Ninimma A),,A11,mi₂ zid dug₄-ga-me-en
+c.4.21.1,A hymn to Ninimma (Ninimma A),,A12,šu
+c.4.21.1,A hymn to Ninimma (Ninimma A),,A13,en₃ tar ŋeštug₂ dirig-ga-me-en
+c.4.21.1,A hymn to Ninimma (Ninimma A),,A14,hul₂-le nu-DU-me-en
+c.4.21.1,A hymn to Ninimma (Ninimma A),,A15,nin-ŋu₁₀ šag₄-ta mah-me-en ud-da pa e₃-me-en
+c.4.21.1,A hymn to Ninimma (Ninimma A),,A16,aga za-gin₃-na he₂-du₇-me-en an-na-me-en
+c.4.21.1,A hymn to Ninimma (Ninimma A),,A17,hi-li šu tag-ga
+c.4.21.1,A hymn to Ninimma (Ninimma A),,A18,
+c.4.21.1,A hymn to Ninimma (Ninimma A),,B1,kalag-gin₇
+c.4.21.1,A hymn to Ninimma (Ninimma A),,B2,e₂-kur-ra nin
+c.4.21.1,A hymn to Ninimma (Ninimma A),,B3,gaba-ŋal₂ {d}nanna
+c.4.21.1,A hymn to Ninimma (Ninimma A),,B4,ŋeštug₂ bad niŋ₂-nam zu-a-me-en
+c.4.21.1,A hymn to Ninimma (Ninimma A),,B5,su₃-ra₂-aŋ₂ kar₂-kar₂ eš₃ mah si-Xbr-me-en
+c.4.21.1,A hymn to Ninimma (Ninimma A),,B6,{d}en-lil₂
+c.4.21.1,A hymn to Ninimma (Ninimma A),,B7,e₂ saŋ
+c.4.21.1,A hymn to Ninimma (Ninimma A),,B8,
+c.4.21.1,A hymn to Ninimma (Ninimma A),,B9,susbu šu-luh kug-ga gal-bi tum₂-ma-me-en
+c.4.21.1,A hymn to Ninimma (Ninimma A),,B10,šag₄-bi a₂-gin₇
+c.4.21.1,A hymn to Ninimma (Ninimma A),,B11,{d}nin-imma₃ ŋiš-hur kug-ga za₃-mi₂-zu dug₃-ga-am₃
+c.4.21.1,A hymn to Ninimma (Ninimma A),,C1,

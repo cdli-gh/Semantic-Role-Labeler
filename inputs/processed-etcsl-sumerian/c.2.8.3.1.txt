@@ -1,0 +1,31 @@
+id_text,text_name,version,l_no,text
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,1,muš₃-me huš ŋiri₂ gal nam-ŋuruš-a
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,2,igi hul₂-la saŋ-ki zalag-ga-na im-ma-ši-in-bar
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,3,nam sag₉-ga-ni-še₃ la-la ba-an-ši-in-ak
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,4,alan gun₃-a-ni-še₃ hi-li im-ma-ši-in-ti
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,5,bal-a-re-ni-še₃ im-ma-an-ši-gub
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,6,ulutim₂ kal-la-bi šag₄ im-ma-ab-dab₅-be₂
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,7,šag₄ gu₂-bi gi₄-a-na im-ma-ab-ni₁₀-ni₁₀-e
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,8,{d}inana lugal-ra inim mu-un-gun₃-gun₃
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,9,u₃-mu-un na-aŋ₂-zu ze₂-ba-am₃ ki-ig aŋ₂ ku₇-ku₇-dam
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,10,sa-am-su-i-lu-na šuba₂ gun₃-a maš₂ ŋiš i-bi₂ kar₂-kam
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,11,igi-ŋu₁₀-gin₇ silim-ma de₃-gub du-ri₂-še₃ til₃-la
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,12,i-zi-iŋ₃ aŋ₂ KA-mu₇-a asila da-ra-ab-sig₉
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,13,uŋ₃ gu₂-re-a hub₂ dar du₅-mu-ra-an-ak
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,14,sa-am-su-i-lu-na a₂-ŋal₂ za-a-kam uŋ₃ šar₂-ra en-e
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,15,mu-uš meš₃ sag₉-ga-zu i₃-me-en nam-en-nu-uŋ₃ mu-ak-e-en
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,16,zag lugal-la-ka ul-še₃ gub-bu-da-ni
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,17,uŋ₃ nam-lugal-la-še₃ nam dug₃ mu-un-tar
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,18,ur gal {d}alad₂ {d}lamma mu-ne-en-šum₂
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,19,an-ta-ne-ne a₂-ŋal₂ ak-de₃
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,20,bal-a-re gu₂-re hub₂ dar ak-de₃
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,21,{d}inana a₂ zid-da ba-an-da-gub
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,22,gab₂-bu-ne-ne-a sa-am-su-i-lu-na ba-gub
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,23,sila₃ ga kug-sig₁₇ e-ne im-da-e-ne
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,24,en₃-du aŋ₂ KA-mu₇-a mu-un-ku₇-ku₇-de₃-ne
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,25,bal-a-re gu₂-re mu-un-ti-ti-ne
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,26,me-en-de₃-en ga-ša-an-an-na {d}lamma sag₉-ga-me
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,27,ildum₂ il₂-la sa-am-su-i-lu-na me-en-de₃-en
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,28,me-en-ze₂-en bal-a-re zi-in-BU-ka-ke₄
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,29,i-zi-iŋ₃ aŋ₂ KA-mu₇-a la-ba-an-du₇ pi-li-pi-li da-mu-ra-ab-šid
+c.2.8.3.1,Samsu-iluna and Inana (Samsu-iluna A),,30,šag₄ la₂-la₂ alan nu-un-ki-zil₂-zil₂-i nu-ma-al

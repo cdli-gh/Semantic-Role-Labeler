@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,1,lugal-ŋa₂ u₃-na-dug₄
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,2,{m}{d}nanna-ki-aŋ₂ ra-bi-si₂-ka₃-tum-ma
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,3,arad-zu na-ab-be₂-a
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,4,e₂-danna{ki} lugal-ŋu₁₀ ba-an-da-bal
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,5,šag₄ e₂-danna-še₃ ₆ me-at ugnim gu-un-gu-nu-um
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,6,{m}at-ta-ma-an-nu-um ba-ni-in-kur₉
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,7,ugnim-bi iri-saŋ-an-na libir-ra-še₃ ku₄-ku₄-de₃ la-ba-šum₂
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,8,iri{ki}-gibil-am₃ al-dur₂-ru-ne-eš
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,9,ugnim-bi gu₂ id₂-amar-{d}suen-ka-ta
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,10,du₃-u₃-de₃ du-un-nu-um{ki} ak-de₃
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,11,ba-ŋen
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,12,tukum-bi lugal-ŋu₁₀ {ŋeš}pan {ŋeš}gag-pan
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,13,{ŋeš}ma₂ tur-tur šu-KU₆
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,14,{kuš}a-ŋa₂-la₂ keše₂-da-bi {ŋeš}tukul {ŋeš}šu-kar₂
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,15,a₂ me₃
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,16,ugnim gu₂ id₂-amar-{d}suen-ka-ta
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,17,šeg₁₂ ba-du₃-e u₃ id₂ al-ba-al-e
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,18,lugal-ŋu₁₀ nam-ba-e-še-ba-e-ne
+c.3.2.03,Letter from Nanna-ki-aŋ to Lipit-Eštar about Gungunum's troops,,19,a-ma-ru-kam

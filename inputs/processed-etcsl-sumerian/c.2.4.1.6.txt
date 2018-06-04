@@ -1,0 +1,53 @@
+id_text,text_name,version,l_no,text
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,1,ur₃-bad₃ kug-ga-ta hi-li gur₃-ru
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,2,urim₂{ki} uš-u₂-zu he₂-ŋal₂ ki us₂-sa
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,3,asil₃-la₂-a uru₂ u₃-mu-un-zu he₂-a-u₅
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,4,{d}ur-{d}namma he₂-a-u₅
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,5,sun₄ za-gin₃ sud₄-sud₄ he₂-a-u₅
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,6,gu₂-en-ta en sukud-da ed₂-de₃-bi-ta nir-ŋal₂
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,7,abula-zu e₃-a a mah gaba-šu-ŋar nu-tuku
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,8,eš₃ urim₂{ki} šag₄-zu kur he₂-ŋal₂ bar-zu hur-saŋ he-nun-na
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,9,e₂-kiš-nu-ŋal₂ hur-saŋ galam-ma šag₄-bi lu₂ nu-zu
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,10,e₂-zu kur gi-rin-na mu-zu šag₄ gur-ra
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,11,en-zu en sig₇-ga mu pad₃-da
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,12,dumu {d}nin-sumun₂ me-te kur-kur-ra
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,13,e₂ me gal-zu rab₃ diŋir-re-e-ne kalam-ma la₂-am₃
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,14,kan₄-zu diŋir-zu diŋir sig₇-ga mu pad₃-da
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,15,ŋal₂ da₁₃-da₁₃-bi {d}utu an-ur₂-ta ud mi-ni-in-ŋar-ra
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,16,gi-sa₂-zu ki nam tar-ra diŋir-re-e-ne di si sa₂ ku₅-ru-de₃
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,17,{d}a-nun-na diŋir an ki-ka ad mi-ni-in-gi-gi-ne
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,18,munus zid giri₁₇-zal a-a gu₂ peš-a
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,19,šag₄-ga-zu-ta ŋiš-hur kug-ga-a hul-ŋal₂ nu-mu-un-dab₅-be₂
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,20,e₂ gi-gun₄-na ninda-ba-bi ki-bal kuš₇ su₃-su₃
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,21,dub-la₂-mah ki nam tar-re-za
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,22,diŋir gal-gal-e-ne nam mi-ni-tar-re-ne
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,23,ki-en-gi ki-uri uŋ₃ saŋ gig₂-ga
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,24,{d}ur-{d}namma {d}suen šag₄-ge ba-ni-in-pad₃
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,25,lugal hi-li gur₃-ru me-lem₄ kalam-ma dul-la
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,26,me-e u₃-mu-un-ra mi₂ zid-de₃-eš
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,27,{d}ur-{d}namma ga-an-i-i-de₃
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,28,{d}ur-{d}namma hi-li gur₃-ru me-lem₄ kalam-ma dul-la
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,29,{d}ur-{d}namma {d}aš-im₂-babbar šag₄-ge ba-ni-in-pad₃
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,30,{ŋeš}rab₃-ba kur-kur-ra im-mi-in-ŋar
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,31,si-ŋar kalag-ga im-mi-in-gib-ba lugal {d}suen-ra tum₂-ma-am₃
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,32,niŋ₂-erim₂ igi-ni-še₃ nu-dib₂-be₂
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,33,niŋ₂-si-sa₂ {d}ur-{d}namma niŋ₂-gur₁₁ sa₂ bi₂-in-dug₄
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,34,za-pa-aŋ₂-ŋa₂-ni-še₃ kur erim₂-ma bi₂-in-ŋar
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,35,ki-bal-bi mu-un-sig₁₀ {d}ur-{d}namma maškim im-me
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,36,lugal-e e₂ {d}suen-na-ke₄
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,37,{id₂}idigna {id₂}buranuna {d}ur-{d}namma-ke₄ nam mu-ni-ib₂-tar-re
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,38,{d}utu an-ur₂-ta e₃-a-ba
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,39,nam-lu₂-ulu₃ hu-mu-ši-ib₂-daŋal-e-ne
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,40,{d}nin-sumun₂-ka hu-mu-ni-in-dib₂-dib₂-be₂ u₆ di
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,41,nin-bi nin niŋ₂-gur₁₁-e ki aŋ₂
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,42,ki aŋ₂-ŋa₂-na-ke₄ {d}ur-{d}namma-ke₄ nam mu-ni-ib-tar-re
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,43,{d}nin-gal nin-bi nin niŋ₂-gur₁₁-e ki aŋ₂
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,44,munus a nun-na-ke₄ {d}ur-{d}namma-ke₄ nam mu-ni-ib-tar-re
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,45,sipad {d}ur-{d}namma-ke₄ il₂ e₂ {d}suen-na-še₃ sun₄ za-gin₃ sud₄-sud₄
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,46,{d}nin-X hu-mu-ni-ib-dib₂-dib₂-be₂
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,47,dug₃-ga-am₃ hi-li-ba ku₇-ku₇-dam
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,48,{d}nin-lil₂-le ud-da u₃-tud-da-gin₇
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,49,dumu {d}nin-sumun₂-na-ke₄ za-e hu-mu-ra-u₃-tud
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,50,sipad-da an kug-ga
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,51,sipad {d}ur-{d}namma-da saŋ
+c.2.4.1.6,A šir-namšub to Nanna for Ur-Namma (Ur-Namma F),,52,šir₃-nam-šub {d}nanna-kam

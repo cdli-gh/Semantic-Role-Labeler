@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+c.2.4.1.a,A praise poem of Ur-Namma (Ur-Namma I),,A1,diŋir-ra-na-kam
+c.2.4.1.a,A praise poem of Ur-Namma (Ur-Namma I),,A2,inim-ma-an-ni kur₂-kur₂-re bi₂-in-dirig
+c.2.4.1.a,A praise poem of Ur-Namma (Ur-Namma I),,A3,inim šag₄-ga-na-ke₄ sa bi₂-in-dug₄
+c.2.4.1.a,A praise poem of Ur-Namma (Ur-Namma I),,A4,nam-mah-a-ni ki-en-gi-re
+c.2.4.1.a,A praise poem of Ur-Namma (Ur-Namma I),,A5,{d}utu lugal igi-ni-še₃ ba-ŋen
+c.2.4.1.a,A praise poem of Ur-Namma (Ur-Namma I),,A6,e₂ nun-na-ke₄ ki
+c.2.4.1.a,A praise poem of Ur-Namma (Ur-Namma I),,B1,
+c.2.4.1.a,A praise poem of Ur-Namma (Ur-Namma I),,B2,abula u₆
+c.2.4.1.a,A praise poem of Ur-Namma (Ur-Namma I),,B3,lugal meš₃ babbar₂ urim₅{ki}-ma ki dug₃-ge mu₂-a
+c.2.4.1.a,A praise poem of Ur-Namma (Ur-Namma I),,B4,ŋiš-an-dul₃ pa gal-gal-la igi an-na gub-ba
+c.2.4.1.a,A praise poem of Ur-Namma (Ur-Namma I),,B5,ŋissu-zu-uš mu-ri mu he₂-ŋal₂-la kur₂-kur₂-ra dul₄-la
+c.2.4.1.a,A praise poem of Ur-Namma (Ur-Namma I),,B6,an-ne₂ igi sag₉ bar hul₂-la
+c.2.4.1.a,A praise poem of Ur-Namma (Ur-Namma I),,B7,ur-{d}namma dumu {d}nin-sumun₂-ke₄
+c.2.4.1.a,A praise poem of Ur-Namma (Ur-Namma I),,B8,lugal {d}en-lil₂-le a₂ šum₂-ma
+c.2.4.1.a,A praise poem of Ur-Namma (Ur-Namma I),,B9,{d}nin-lil₂-le mi₂ zid-de₃-eš dug₄-ga
+c.2.4.1.a,A praise poem of Ur-Namma (Ur-Namma I),,B10,{d}nin-hur-saŋ inim-ma šag₄-ga-na huŋ-ŋa₂
+c.2.4.1.a,A praise poem of Ur-Namma (Ur-Namma I),,B11,{d}en-ki-ke₄ ŋeštug₂ mah šum₂-ma
+c.2.4.1.a,A praise poem of Ur-Namma (Ur-Namma I),,B12,{d}nin-X
+c.2.4.1.a,A praise poem of Ur-Namma (Ur-Namma I),,C1,ama tud-da-zu {d}nin-sumun₂ e₂-kiš-nu-ŋal₂-la gaba-na he₂-em-tab

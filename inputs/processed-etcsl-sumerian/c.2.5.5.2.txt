@@ -1,0 +1,64 @@
+id_text,text_name,version,l_no,text
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,1,{d}li-pi₂-it-eš₄-tar₂ lugal saŋ il₂ nun barag-ga
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,2,he₂-du₇ {ŋeš}isimu₂{sar} nam-lugal-la
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,3,{d}utu-gin₇ du še-er-zid kalam-ma
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,4,nam-nun-še₃ mah me gal-la u₅
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,5,ub-da ₄ uŋ₃ ki ŋar-ra
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,6,še-ga {d}en-lil₂-la₂ {d}nin-lil₂-le ki aŋ₂
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,7,šul zid igi gun₃ barag-ga tum₂-ma
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,8,men aga zid saŋ me-te-ŋal₂
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,9,šibir šu du₈ saŋ gig₂-ga
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,10,nun {d}li-pi₂-it-eš₄-tar₂ dumu {d}en-lil₂-la₂ sipad igi-ŋal₂-tuku
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,11,uŋ₃ lah₅-lah₅-e ŋissu dug₃-ga ud ni₂ dub₂-bu
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,12,en alim mah an-ne₂ ki aŋ₂
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,13,ŋiškim-til₃-zu-um ama {d}nin-lil₂-la₂
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,14,{d}li-pi₂-it-eš₄-tar₂ a₂ nun hu-mu-te-ŋal₂
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,15,ka lal₃-gin₇ dug₃ mu ka-ge du₇
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,16,šag₄-ge de₆-a dam {d}inana
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,17,{d}en-ki-ke₄ ŋeštug₂ daŋal saŋ-e-eš rig₇-ga
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,18,{d}nisaba munus ul-la gun₃-a
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,19,munus zid dub-sar nin niŋ₂-nam zu
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,20,si-zu im-ma si ba-ni-in-sa₂
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,21,šag₄ dub-ba-ka gu-šum₂ mi-ni-in-sag₉-sag₉
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,22,gi-dub-ba kug-sig₁₇-ka šu mu-ni-in-gun₃
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,23,gi-₁-nindan eš₂-gana₂ za-gin₃
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,24,ŋiš-as₄-lum le-um igi-ŋal₂ šum₂-mu {d}nisaba-ke₄ šu daŋal ma-ra-an-dug₄
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,25,{d}li-pi₂-it-eš₄-tar₂ dumu {d}en-lil₂-la₂-me-en
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,26,niŋ₂-zid niŋ₂-gen₆-na pa bi₂-e-e₃
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,27,en sag₉-zu an-zag-še₃ na-dul
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,28,{d}li-pi₂-it-eš₄-tar₂ lugal umuš gal-gal-la ad gi₄-gi₄
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,29,inim-ma nu-kuš₂-u₃ gal-zu ka-aš bar uŋ₃-e si sa₂
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,30,ŋeštug₂ daŋal niŋ₂-nam gal-le-eš zu
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,31,di kur-kur-ra-ke₄ si sa₂-sa₂-e-de₃
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,32,inim šag₄-ga ŋal₂-la lul zid-bi mu-e-zu
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,33,{d}li-pi₂-it-eš₄-tar₂ lu₂-erim₂-ra guru₅-uš mu-e-ta-ab-ed₂-de₃-en
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,34,ka šer₇-da-ka ŋiri₃ saga₁₁ dug₄ lu₂ zi-zi-i mu-e-zu
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,35,nam-tag dugud ka garaš₂-kam lu₂ til-le mu-ni-in-zu
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,36,a₂-tuku sa gaz nu-mu-un-ši-ak-e
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,37,kalag-ga sig₉-ga še₂₉-eš₂ nu-mu-un-ak-e
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,38,niŋ₂-si-sa₂ ki-en-gi ki-uri-a mu-ni-ŋar
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,39,su kalam-ma mu-dug₃
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,40,{d}li-pi₂-it-eš₄-tar₂ lugal i₃-si-in{ki}-na lugal ki-en-gi ki-uri-me-en
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,41,nibru{ki}-še₃ dub sar-re-me-en
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,42,e₂-kur-re e₂ {d}en-lil₂-la₂-še₃ {d}li-pi₂-it-eš₄-tar₂ saŋ us₂-bi za-e-me-en
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,43,{d}en-lil₂ {d}nin-lil₂-ra ki aŋ₂ šag₄-ba-me-en
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,44,ur-saŋ {d}nin-urta maškim kalag-ga-zu-um
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,45,{d}nuska sukkal-mah a₂-tah inim-ma-zu-um
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,46,išib keš₃{ki}-še₃ {d}nin-tur₅-re zid-de₃-eš pad₃-da-me-en
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,47,urim₂{ki}-še₃ ŋal₂-la šul ŋiš tuku {d}suen-na-me-en
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,48,{d}en-ki-ke₄ eridug{ki}-ta aga zid šum₂-ma-me-en
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,49,ki unug{ki}-ga kug {d}inana-ra {d}li-pi₂-it-eš₄-tar₂ hi-li šag₄-ga-na-me-en
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,50,{d}nin-i₃-si-in-na-ke₄ i₃-si-in{ki}-na barag mah-zu mi-ni-in-ri
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,51,i-lu šag₄-ga mu bal sag₉-ga
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,52,nun-e nun uru₁₆ dirig gal mah-bi
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,53,ad-da-zu {d}iš-me-{d}da-gan lugal kalam-ma-ke₄
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,54,{ŋeš}gu-za-na suhuš-bi mu-ra-an-ge-en
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,55,inim dug₄-ga an {d}en-lil₂-la₂-ta
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,56,du₁₇ nim kur-kur-ra si-a mu-ni-in-ŋar
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,57,{d}li-pi₂-it-eš₄-tar₂ dumu {d}en-lil₂-la₂-me-en
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,58,niŋ₂-gen₆-na-zu ka-ga₁₄ mi-ni-in-ŋal₂
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,59,za₃-mi₂-zu e₂-dub-ba-a-ka im mu-e-ni-dug₄-dug₄
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,60,dub-sar-re a-le he₂-em-ši-ak-e gal-le-eš he₂-i-i
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,61,ar₂-zu e₂-dub-ba-a-ka muš₃ nam-ba-an-tum₂-mu
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,62,sipad gu₂-tuku šul dumu {d}en-lil₂-la₂
+c.2.5.5.2,A praise poem of Lipit-Eštar (Lipit-Eštar B),,63,{d}li-pi₂-it-eš₄-tar₂ za₃-mi₂

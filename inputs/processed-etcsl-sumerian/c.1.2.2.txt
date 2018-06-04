@@ -1,0 +1,194 @@
+id_text,text_name,version,l_no,text
+c.1.2.2,Enlil and Sud,A,A1,zid-de₃-eš ŋar-ra u₆ di hi-li gur₃-ru
+c.1.2.2,Enlil and Sud,A,A2,dumu nun a-ba e-ne-gin₇ an {d}en-lil₂-da zag ša₄
+c.1.2.2,Enlil and Sud,A,A3,{d}ha-ia₃ a kug-ga šag₄-ga mu-ni-in-ri
+c.1.2.2,Enlil and Sud,A,A4,{d}nun-bar-še-gu-nu zid-de₃-eš mu-ni-in-tu-ud
+c.1.2.2,Enlil and Sud,A,A5,mu-ni-in-buluŋ₃ ubur ga dug₃ mi-ni-in-gu₇
+c.1.2.2,Enlil and Sud,A,A6,ki-sikil-la ba-gur₄-gur₄ hi-li ma-az ba-an-du₈-du₈
+c.1.2.2,Enlil and Sud,A,A7,{d}nisaba-ka-ke₄ kan₄ e₂-za-gin₃-na
+c.1.2.2,Enlil and Sud,A,A8,ab₂ mah sig₇-ga-gin₇ u₆-e am₃-ma-gub
+c.1.2.2,Enlil and Sud,A,A9,ud-ba {d}en-lil₂-le e₂-kur-ra dam nu-mu-na-ba-am₃
+c.1.2.2,Enlil and Sud,A,A10,{d}nin-lil₂-le mu-ni ki-ur₃-ra pa nu-um-mi-in-e₃-am₃
+c.1.2.2,Enlil and Sud,A,A11,zag an ki ki-en-gi niŋin₂-na-ba igi na-me saŋ mi-ni-ib-il₂
+c.1.2.2,Enlil and Sud,A,A12,kur gal {d}en-lil₂-le kalam kiŋ₂-kiŋ₂-da-ni ereš₂{ki}-a bi₂-in-gub
+c.1.2.2,Enlil and Sud,A,A13,igi i-ni-in-bar munus šag₄-ga-na-ke₄ im-ma-ni-in-pad₃-de₃
+c.1.2.2,Enlil and Sud,A,A14,mu-un-na-te šag₄ hul₂-la dirig-na inim mu-un-da-bal-e
+c.1.2.2,Enlil and Sud,A,A15,{tug₂}pala₃ nam-nin-a ga-ba-ab-du₇-un e-sir₂-ra un-gub-bu
+c.1.2.2,Enlil and Sud,A,A16,nam-zil-zil a₂-še₃ nir im-te-ŋal₂ lu₂ teš₂ nu-tuku-tuku-un
+c.1.2.2,Enlil and Sud,A,A17,{d}sud₃-e {d}en-lil₂-ra a₂ nam-tur-ra-ta inim mu-na-ni-ib-gi₄-gi₄
+c.1.2.2,Enlil and Sud,A,A18,me-e kan₄-me-a še-er-ma-al-bi da-gub a-ba šu mu-un-kar₂-kar₂
+c.1.2.2,Enlil and Sud,A,A19,za-e ta-zu i-bi₂ mu-ma-al ta-aš gu₂-uš im-di-di-in
+c.1.2.2,Enlil and Sud,A,A20,bi₂-ib-la₂ i-bi₂-ŋu₁₀-ta
+c.1.2.2,Enlil and Sud,A,A21,a-ša-an-gar₃ mu-un-ak-ne urgu₂ mu-un-na-ne
+c.1.2.2,Enlil and Sud,A,A22,{d}en-lil₂-le {d}sud₃ mu-un-na-ni-ib-gi₄-gi₄
+c.1.2.2,Enlil and Sud,A,A23,mu-na-da-gub-am₃
+c.1.2.2,Enlil and Sud,A,A24,ŋen ga-ra-ab-dug₄ inim mu-un-da-bal-en nitalam-ŋu₁₀ he₂-me-en
+c.1.2.2,Enlil and Sud,A,A25,ne su-ub-ma-ab nin₉ igi sag₉-sag₉-ŋu₁₀ ur₅ šu-zu-še₃ na-nam
+c.1.2.2,Enlil and Sud,A,A26,inim ka-ga₁₄-na nu-um-ma-ra-e₃ igi-ni-še₃ e₂-a ba-kur₉
+c.1.2.2,Enlil and Sud,A,A27,en gal-an-zu šag₄ ni₂-te-na-ka dum-dam mu-un-da-ab-za
+c.1.2.2,Enlil and Sud,A,A28,gu₃ ba-an-de₂ ud-ul a-ra-zu {d}nuska a₂-ba mu-un-da-aŋ₂-e
+c.1.2.2,Enlil and Sud,A,A29,ga-e-gi₄ ereš₂{ki} iri {d}nisaba-še₃ iri ki-ur₃ mah-bi
+c.1.2.2,Enlil and Sud,A,A30,nam-ba-ra-gi₄-de₃-en niŋ₂ a-ra-ab-be₂-en-na-ŋu₁₀ e-ne-er u₃-ne-de₃-tah
+c.1.2.2,Enlil and Sud,A,A31,ŋuruš-me-en igi il₂-la-ŋu₁₀-ne mu-e-ši-in-gi₄-in
+c.1.2.2,Enlil and Sud,A,A32,dumu-munus-zu nam-dam-še₃ ga-tuku gen₆-na-zu šum₂-ma-ab
+c.1.2.2,Enlil and Sud,A,A33,mu pad₃-da-ŋu₁₀ ga-mu-ra-ab-il₂ niŋ₂-de₂-a-ŋu₁₀
+c.1.2.2,Enlil and Sud,A,A34,{d}en-lil₂-me-en pa-bil₂-ga u₃-tud-da an-šar₂ mah-di en an ki-a-me-en
+c.1.2.2,Enlil and Sud,A,A35,dumu-zu mu-ni {d}nin-lil₂ he₂-em kur-kur he₂-em-me-KAŠ₄
+c.1.2.2,Enlil and Sud,A,A36,ŋa₂-ŋiš-šu₂-a nam-erim₃-na-še₃ saŋ-e-eš ga-na-rig₇
+c.1.2.2,Enlil and Sud,A,A37,ki-ur₃-ra ama₅ ki aŋ₂-ŋa₂-ni-še₃ niŋ₂-ba-aš ga-na-an-ba
+c.1.2.2,Enlil and Sud,A,A38,e₂-kur barag mah-ŋa₂ hu-mu-da-an-tuš nam he₂-em-mi-ib₂-tar-re
+c.1.2.2,Enlil and Sud,A,A39,{d}a-nun-na diŋir gal-gal-e-ne-er me he₂-en-ne-eb-hal-ha
+c.1.2.2,Enlil and Sud,A,A40,u₃ za-ra zi saŋ gig₂-ga šu-zu-še₃ ga-mu-u₈-ŋar
+c.1.2.2,Enlil and Sud,A,A41,du-a-zu-ne munus hi-li-a pad₃-da-ŋu₁₀ ama-a-ni ha-ra-ab-la₂-e
+c.1.2.2,Enlil and Sud,A,A42,sug₄-ga nam-ši-du-un šu ki-ta-za gi₁₆-sa de₆-an-na
+c.1.2.2,Enlil and Sud,A,A43,ud na-am₃-zal-zal-e-en ul₄-la-bi inim-ma-ni gur-ma-ab
+c.1.2.2,Enlil and Sud,A,A44,kingal {d}nuska a₂ aŋ₂-ŋa₂ {d}en-lil₂-la₂ šu ba-an-ti-a-ta
+c.1.2.2,Enlil and Sud,A,A45,ud nam-zal ereš₂{ki}-še₃ ŋiri₃-ni na-am₃-mi-gub
+c.1.2.2,Enlil and Sud,A,A46,e₂-za-gin₃ ki-tuš {d}nanibgal-še₃ mu-na-da-an-ku₄-ku₄
+c.1.2.2,Enlil and Sud,A,A47,zi {d}nanibgal barag-ga-na ki mu-na-ni-ib-za
+c.1.2.2,Enlil and Sud,A,A48,{d}en-lil₂-la₂-ka gub en₃ mu-ni-ib-tar-tar-re
+c.1.2.2,Enlil and Sud,A,A49,a-na
+c.1.2.2,Enlil and Sud,A,A57,
+c.1.2.2,Enlil and Sud,A,A58,{d}sud₃ la₂-a
+c.1.2.2,Enlil and Sud,A,A59,niŋ₂ ma-ab-be₂-en-na-zu de₆-ma-ab X-ab-gi₄
+c.1.2.2,Enlil and Sud,A,A60,in-ga-na-tah {d}nanibgal sukkal-ra inim mu-na-ab-sag₉-sag₉
+c.1.2.2,Enlil and Sud,A,A61,ad gi₄-gi₄ lugal-bi-ir tum₂-ma igi niŋin₂ muš₃ nu-tum₂-mu
+c.1.2.2,Enlil and Sud,A,A62,a-ba za-gin₇ kur gal-da ud-da šag₄ kuš₂-u₃
+c.1.2.2,Enlil and Sud,A,A63,kiŋ₂ lugal šubur bi₂-in-dab₅-ba me-e a-na a-da-min₃ i₃-ak
+c.1.2.2,Enlil and Sud,A,A64,niŋ₂ mu-e-dug₄-ga-za gen₆-na he₂-em niŋ₂-lul nam-me-a
+c.1.2.2,Enlil and Sud,A,A65,mah dirig lu₂ šu gi₄-gi₄ a-ba hul ba-an-gig
+c.1.2.2,Enlil and Sud,A,A66,ur₅ šag₄ mu-ni-in-hul₂ ga-nam i₃-UD bi₂-dug₄
+c.1.2.2,Enlil and Sud,A,A67,niŋ₂-de₂-a mu pad₃-da de₆-de₆-da šu kar₂ im-ma-ab-gi₄-gi₄
+c.1.2.2,Enlil and Sud,A,A68,u₃-na-dug₄ ušbar₃-ŋu₁₀ he₂-me-en niŋ₂ šag₄-za ak-e-še
+c.1.2.2,Enlil and Sud,A,A69,kur gal {d}en-lil₂-ra u₃-na-a-dug₄ niŋ₂ šag₄-za ak-e-še
+c.1.2.2,Enlil and Sud,A,A70,gu₂-re-ta nin₉-a-ni he₂-en-du gu₂-e-ta he₂-en-da-du
+c.1.2.2,Enlil and Sud,A,A71,{d}a-ru-ru e-ri-ib-a-ni na-nam e₂ he₂-na-ra-ab-la₂-la₂
+c.1.2.2,Enlil and Sud,A,A72,lugal-zu-ur₂ ki-ur₃ mah-a-ni ur₅-gin₇ dug₄-mu-na-ab
+c.1.2.2,Enlil and Sud,A,A73,{d}en-lil₂-ra itima kug sig₉-ga-na u₃-ga-na-de₃-tah
+c.1.2.2,Enlil and Sud,A,A74,a₂ mu-da-an-aŋ₂-ta
+c.1.2.2,Enlil and Sud,A,A75,{d}nuska dur₂ bi₂-in-ŋar
+c.1.2.2,Enlil and Sud,A,A77,{d}nanibgal gu₃ mu-na-an-de₂ na mu-ni-ib-de₅-ge
+c.1.2.2,Enlil and Sud,A,A78,lu₂-tur-ŋu₁₀ šag₄ nu₂ kug-ga-zu ama₅ dug₃
+c.1.2.2,Enlil and Sud,A,A79,e₂-ŊEŠTUG₂.{d}NISABA-ka-kam e₃-a-me-en
+c.1.2.2,Enlil and Sud,A,A80,kiŋ₂ til₃-la kug-zu gal-an-zu-am₃
+c.1.2.2,Enlil and Sud,A,A81,igi-ni-še₃ na-an-DU.DU kaš de₂-mu-na-ni-ib
+c.1.2.2,Enlil and Sud,A,A82,dug₄-ga ama-na-še₃ šu bi₂-in-luh zabar šu-na bi₂-in-ŋar
+c.1.2.2,Enlil and Sud,A,A83,šu ki-ta-ni sukkal mu-un-ši-in-bar gi₁₆-sa mu-na-an-šum₂
+c.1.2.2,Enlil and Sud,A,A84,niŋ₂-nam ŋar-ŋar igi-ni-še₃ mu-na-an-gub
+c.1.2.2,Enlil and Sud,A,A85,umbin niŋ₂-ba šu bi₂-in-ti
+c.1.2.2,Enlil and Sud,A,A86,nibru{ki}-še₃ ŋiri₃ ba-an-dab₅
+c.1.2.2,Enlil and Sud,A,A87,{d}en-lil₂-ra ki mu-un-su-ub
+c.1.2.2,Enlil and Sud,A,A88,nin gal X-ni-in-dug₄
+c.1.2.2,Enlil and Sud,A,A89,a₂ mu-da-aŋ₂-e gi₄
+c.1.2.2,Enlil and Sud,A,A90,ad gi₄-gi₄ lugal-bi-ir tum₂-ma igi niŋin₂ muš₃ nu-tum₂-mu
+c.1.2.2,Enlil and Sud,A,A91,a-ba za-gin₇ kur gal-da ud-da šag₄ kuš₂-u₃
+c.1.2.2,Enlil and Sud,A,A92,kiŋ₂ lugal šubur bi₂-in-dab₅-ba me-e a-na a-da-min₃ i₃-ak
+c.1.2.2,Enlil and Sud,A,A93,niŋ₂ mu-e-dug₄-ga-za gen₆-na he₂-em niŋ₂-lul nam-me-a
+c.1.2.2,Enlil and Sud,A,A94,mah dirig lu₂ šu gi₄-gi₄ a-ba hul ba-an-gig
+c.1.2.2,Enlil and Sud,A,A95,ur₅ šag₄ mu-ni-in-hul₂ ga-nam i₃-UD bi₂-dug₄
+c.1.2.2,Enlil and Sud,A,A96,niŋ₂-de₂ mu pad₃-da de₆-de₆-da šu kar₂ im-ma-ab-gi₄-gi₄
+c.1.2.2,Enlil and Sud,A,A97,u₃-na-dug₄ ušbar₃-ŋu₁₀ he₂-me-en niŋ₂ šag₄-za ak-e-še
+c.1.2.2,Enlil and Sud,A,A98,kur gal {d}en-lil₂-ra u₃-na-a-dug₄ niŋ₂ šag₄-za ak-e-še
+c.1.2.2,Enlil and Sud,A,A99,gu₂-re-ta nin₉-a-ni he₂-en-du gu₂-e-ta he₂-em-ta-du
+c.1.2.2,Enlil and Sud,A,A100,{d}a-ru-ru e-ri-ib-a-ni na-nam e₂ he₂-na-ra-la₂-la₂-e
+c.1.2.2,Enlil and Sud,A,A101,lugal-zu-ur₂ ki-ur₃ mah-a-ni-a ur₅-gin₇ dug₄-mu-na-ab
+c.1.2.2,Enlil and Sud,A,A102,{d}en-lil₂-ra itima kug sig₉-ga-ni u₃-ga-na-de₃-tah
+c.1.2.2,Enlil and Sud,A,A103,ba-dug₃ {d}en-lil₂ šag₄-ga-na hul₂-hul₂-e im-de₆
+c.1.2.2,Enlil and Sud,A,A104,saŋ mu-ni-il₂ kušum₄ mu-un-tag-tag-ge
+c.1.2.2,Enlil and Sud,A,A105,maš₂-anše niŋ₂-ur₂-₄-e edin ni₂-ba lu-a
+c.1.2.2,Enlil and Sud,A,A106,hur-saŋ ŋal₂-la-ba šu im-ma-ni-tag
+c.1.2.2,Enlil and Sud,A,A107,am lu-lim am-si tarah maš-da₃ az šeg₉ šeg₉-bar-ra
+c.1.2.2,Enlil and Sud,A,A108,su-a ka₅-a su-a-ri ur-šub₅ udu kur-ra ab₂-za-za ugu₄-bi
+c.1.2.2,Enlil and Sud,A,A109,gud niga a₂ gur-gur-ra gu₃-bi bi₂-in-sig₁₀-sig₁₀
+c.1.2.2,Enlil and Sud,A,A110,immal amar-bi am si hal-ha saman₃
+c.1.2.2,Enlil and Sud,A,A111,u₈ sila₄ ud₅ maš₂ zur-zur-re
+c.1.2.2,Enlil and Sud,A,A112,maš₂ gal sun₄ la₂ umbin sud₂-sud₂ sila₄
+c.1.2.2,Enlil and Sud,A,A113,udu nam-en-na-ba si ba-ni-in-sa₂ {d}en-lil₂ ereš₂{ki}-še₃
+c.1.2.2,Enlil and Sud,A,A114,ga-ar₃ gal-gal ga-ar₃ gazi ga-ar₃ tur-tur
+c.1.2.2,Enlil and Sud,A,A115,ga nunuz-te šeŋ₆-ŋa₂ ga i-ti-ir-da
+c.1.2.2,Enlil and Sud,A,A116,lal₃ had₂ lal₃ hab₂ ku₇-ku₇-da
+c.1.2.2,Enlil and Sud,A,A117,gur-gur gal-bi si ba-ni-sa₂ {d}en-lil₂ ereš₂{ki}-še₃
+c.1.2.2,Enlil and Sud,A,A118,zu₂-lum {ŋeš}peš₃ {ŋeš}nu-ur₂-ma gal
+c.1.2.2,Enlil and Sud,A,A119,ŋiš-ŋi₆-par₄ {ŋeš}šennur {ŋeš}ha-lu-ub₂ {ŋeš}ešₓ {ŋeš}al-la-nu-um
+c.1.2.2,Enlil and Sud,A,A120,zu₂-lum dilmun-na gur-da dab₅-ba an zu₂-lum za-gin₃-na
+c.1.2.2,Enlil and Sud,A,A121,{ŋeš}nu-ur₂-ma gal pu₂-ta šu su-ub-ba {ŋeš}ŋeštin ga-ra-an gal nim
+c.1.2.2,Enlil and Sud,A,A122,ŋiš kur gi-rin-na ŋiš šag₄ kiri₆ ŋiš en-te-en-e gu₂ peš-a
+c.1.2.2,Enlil and Sud,A,A123,gurun {ŋeš}kiri₆-a si ba-ni-in-sa₂ {d}en-lil₂ ereš₂{ki}-še₃
+c.1.2.2,Enlil and Sud,A,A124,ha-šum ha-ra-li kur ki su₃-ra₂ erim₃-ma niŋ₂ šag₄
+c.1.2.2,Enlil and Sud,A,A125,{na₄}du₈-ši-a kug-sig₁₇ kug-babbar
+c.1.2.2,Enlil and Sud,A,A126,gu₂-un igi-nim-ma
+c.1.2.2,Enlil and Sud,A,A127,gu₂-un dugud-da-bi si ba-ni-in-sa₂ {d}en-lil₂ ereš₂{ki}-še₃
+c.1.2.2,Enlil and Sud,A,A128,mu pad₃-da eŋer-bi niŋ₂ lah₄ {d}nin-mah sukkal
+c.1.2.2,Enlil and Sud,A,A129,sahar ŋiri₃-bi muru₉ šeŋ₃-ŋa₂-gin₇ an-šag₄-ga i-ib-us₂
+c.1.2.2,Enlil and Sud,A,A130,ereš₂{ki}-še₃ nam-mi-ni-in-tum₃ niŋ₂-de₂-a gal-gal {d}nanibgal
+c.1.2.2,Enlil and Sud,A,A131,šag₄ bar iri-ba im-mi-in-si-si šu nam-peš-peš-dam
+c.1.2.2,Enlil and Sud,A,A132,da₁₃-da₁₃-bi ŋiri₃ bar-ra kur-bi
+c.1.2.2,Enlil and Sud,A,A133,an sig₇-ga
+c.1.2.2,Enlil and Sud,A,A135,
+c.1.2.2,Enlil and Sud,A,A136,{tug₂}aktum
+c.1.2.2,Enlil and Sud,A,A137,ušbar₃ {d}en-lil₂-le munus šu ba-kar₂-kar₂ {d}nanibgal mi₂ mu-un-e
+c.1.2.2,Enlil and Sud,A,A138,nin zur-zur-ra-ke₄ mu-un-da₁₃-da₁₃ gu₃ mu-un-na-an-de₂
+c.1.2.2,Enlil and Sud,A,A139,{d}en-lil₂ dam tam-ma-ni he₂-me-en dug₃-ga he₂-ne-da-ab-be₂
+c.1.2.2,Enlil and Sud,A,A140,sag₉-sag₉-ge gu₂-da hu-mu-ri-in-la₂ ki aŋ₂ bad-bad-e ha-ra-NE
+c.1.2.2,Enlil and Sud,A,A141,hi-li-a e-ne-bi šu nam-bar-re-en-ze₂-en ud su₃-ud ba-re-en-ze₂-en
+c.1.2.2,Enlil and Sud,A,A142,₂-na-ne-ne du₆-ta ud-da-ta tu-ud-en-ze₂-en
+c.1.2.2,Enlil and Sud,A,A143,e₂-a kur₉-ra tuš-u₃-de₃ igi-zu-še₃ he₂-ŋal₂ he₂-em a-ga-zu-še₃ giri₁₇-zal he₂-em
+c.1.2.2,Enlil and Sud,A,A144,ŋiri₃ us₂-sa-zu-ne uŋ₃ si ha-ra-ab-sa₂ uŋ₃ ni₂-ba ha-ra-NE
+c.1.2.2,Enlil and Sud,A,A145,nam i-ri-tar-ra-ŋu₁₀ he₂-em-ši-ŋal₂ saŋ il₂-la e₂-mah-še₃ ŋen-na
+c.1.2.2,Enlil and Sud,A,A146,šu-ni im-ma-an-dab₅ {d}a-ru-ru eš₃-mah-še₃ mi-ni-in-kar
+c.1.2.2,Enlil and Sud,A,A147,e₂-kur e₂ {d}en-lil₂-ke₄ mu-un-ši-ib₂-kur₉
+c.1.2.2,Enlil and Sud,A,A148,e₂ ki-nu₂-a ŋiš-nu₂ gi-rin-na {ŋeš}tir šim {ŋeš}erin-gin₇
+c.1.2.2,Enlil and Sud,A,A149,{d}en-lil₂ nitalam-a-ni ŋiš₃ mu-ni-in-hi-li-X
+c.1.2.2,Enlil and Sud,A,A150,
+c.1.2.2,Enlil and Sud,A,A151,en dug₄-ga-a-X X-ru nin
+c.1.2.2,Enlil and Sud,A,A152,{d}nin-tur₅ munus u₃-tud
+c.1.2.2,Enlil and Sud,A,A153,{d}en-ba-tibira muš₃-me
+c.1.2.2,Enlil and Sud,A,A154,niŋ₂-nam nu-bar-re-dam
+c.1.2.2,Enlil and Sud,A,A155,ki-ni ŋar me ki til₃-le sag₉-ge saŋ-e-eš X-rig₇
+c.1.2.2,Enlil and Sud,A,A156,ud-da-ta munus EDIN.BAR he₂-em munus bar lu₂ e₂ he₂-em
+c.1.2.2,Enlil and Sud,A,A157,lu₂ dam sig₁₀-ga-ŋu₁₀ mu-un-u₃-tud kug {d}nisaba-ke₄
+c.1.2.2,Enlil and Sud,A,A158,{d}ezina₂ {d}ezina₂ mu₂ zi ki-en-gi-ra he₂-em
+c.1.2.2,Enlil and Sud,A,A159,ab-sin₂-na ki-sikil sag₉-ga-gin₇ ni₂ pa e₃ ak-za
+c.1.2.2,Enlil and Sud,A,A160,{d}iškur ku₃-ŋal₂ u₂-a-zu he₂-em a ki-ta mi-ri-in-de₂
+c.1.2.2,Enlil and Sud,A,A161,zag-mu-a gu saŋ gibil-gibil-za še saŋ gibil-gibil-za
+c.1.2.2,Enlil and Sud,A,A162,{d}en-lil₂ {d}nin-lil₂-bi kurku₂-a he₂-mu-ni-tud-tud-de₃-eš
+c.1.2.2,Enlil and Sud,A,A163,lu₂ li-bi₂-in-dug₄-ga-ŋu₁₀ lu₂-erim₂-bi he₂-em usu uŋ₃-bi tu-lu-ab
+c.1.2.2,Enlil and Sud,A,A164,buru₁₄ ezen gal {d}en-lil₂-la₂-X saŋ an-še₃ mi-ni-il₂
+c.1.2.2,Enlil and Sud,A,A165,nam-dub-sar-ra dub mul-la gun₃-a gi-dub-ba ŋiš-dub-dim₂
+c.1.2.2,Enlil and Sud,A,A166,niŋ₂-šid šudum zi-zi-i ŋa₂-ŋa₂ eš₂ za-gin₃
+c.1.2.2,Enlil and Sud,A,A167,saŋ {ŋeš}gag gi-₁-nindan bulug sig₁₀-ge₅
+c.1.2.2,Enlil and Sud,A,A168,šu mi-ri-in-du₇ ensi₂
+c.1.2.2,Enlil and Sud,A,A169,munus saŋ il₂ nun-gal-e-ne
+c.1.2.2,Enlil and Sud,A,A170,ud-da-ta {d}sud₃ {d}nin-lil₂
+c.1.2.2,Enlil and Sud,A,B1,šir₃ kug mi₂ dug₄-ga {d}en-lil₂ {d}nin-lil₂-bi-da
+c.1.2.2,Enlil and Sud,B,1,du₆-da zal-zal-le-ze₂-en
+c.1.2.2,Enlil and Sud,B,2,kur₉-ra-ba-ni igi-zu-še₃ he₂-ŋal₂ he₂-em
+c.1.2.2,Enlil and Sud,B,3,uŋ₃-e si ha-ra-ab-si uŋ₃ ni₂-bi ha-ra-NE
+c.1.2.2,Enlil and Sud,B,4,i-ri-tar-ra-zu he₂-em-ši-ŋal₂ saŋ il₂-la eš₃-mah
+c.1.2.2,Enlil and Sud,B,5,mi-ni-in-dab₅ {d}a-ru-ru eš₃-mah-a-še₃
+c.1.2.2,Enlil and Sud,B,6,e₂-kur za-gin₃-na mu-ni-in-kur₉ i₃ saŋ igi-ni mi-ni-in-de₂
+c.1.2.2,Enlil and Sud,B,7,e₂ ki-nu₂ ŋiš-nu₂ gi-rin-na tir erin-na-gin₇ dug₃
+c.1.2.2,Enlil and Sud,B,8,{d}en-lil₂ nitalam₄-a-ni ŋiš₃-a-ni im-mi-in-nir mu-ni-ib-hi-li-hi-li
+c.1.2.2,Enlil and Sud,B,9,barag nam-{d}en-lil₂-la₂-ka-ni šudu₃ mu-ni-in-ša₄
+c.1.2.2,Enlil and Sud,B,10,en dug₄-ga-ni uruₓ nin munus tam-tam-ma-ni nam he₂-ni-ib-tar-re
+c.1.2.2,Enlil and Sud,B,11,{d}nin-tur₅-re nin u₃-tud nin dub₃ bad mu-še₂₁ mu-ni-in-sa₄
+c.1.2.2,Enlil and Sud,B,12,{d}en-ba-tibira muš₃-me mi-ni-in-sig₇ igi dim₂-dim₂
+c.1.2.2,Enlil and Sud,B,13,nu-gig-ga niŋ₂-nam munus-e-ne lu₂ igi nu-bar-re
+c.1.2.2,Enlil and Sud,B,14,ki-ni i₃-ŋal₂ gi til₃-le saŋ-e he₂-na-rig₇
+c.1.2.2,Enlil and Sud,B,15,ud-da-ta munus EDIN.BAR he₂-em munus lu₂ nin e₂-e-ke₄
+c.1.2.2,Enlil and Sud,B,16,lu₂ dam tam-ma-ŋu₁₀ u₃-tud-da kug {d}nisaba-ke₄
+c.1.2.2,Enlil and Sud,B,17,{d}ezina₂ {d}ezina₂ zi kalam-ma he₂-em
+c.1.2.2,Enlil and Sud,B,18,ki-sikil sig₇-ga-gin₇ ni₂ pa e₃ ak-ne
+c.1.2.2,Enlil and Sud,B,19,ŋal₂ u₂-a-bi he₂-me-en a ki-ta naŋ-naŋ
+c.1.2.2,Enlil and Sud,B,20,še saŋ mu₂-mu₂-ne gu saŋ mu₂-mu₂-ne
+c.1.2.2,Enlil and Sud,B,21,X-in-dug₄-ga-zu lu₂-NE.DU-bi ša₃-nam usu uŋ₃-bi dul-la-ab
+c.1.2.2,Enlil and Sud,B,22,buru₁₄ ezen gal {d}en-lil₂-la₂ uŋ₃ sig₁₀-ge he₂-me-en
+c.1.2.2,Enlil and Sud,B,23,gi-nindan-na bulug sig₉-ga eg₂ pa₅ dab₅-dab₅-be₂
+c.1.2.2,Enlil and Sud,B,24,šu mi-ri-in-du₇ ensi₂-ke₄ ulul₂-la šu-zu im-mi-in-gen₆
+c.1.2.2,Enlil and Sud,B,25,munus saŋ il₂ kur-ra zag dib igi il₂-la-zu-ne pad₃-de₃
+c.1.2.2,Enlil and Sud,B,26,ud-ta {d}su-ud {d}en-lil₂ lugal-bi {d}nin-lil₂ nin-bi he₂-em
+c.1.2.2,Enlil and Sud,B,27,diŋir mu nu-tuku mu gal tuku u₂-gu₇ rig₇-ga
+c.1.2.2,Enlil and Sud,B,28,barag zag an-ne₂ ŋar nidba šum₂-šum₂-mu
+c.1.2.2,Enlil and Sud,B,29,saŋ en₃ tar-bi za-e nam he₂-tar
+c.1.2.2,Enlil and Sud,B,30,eš₃ nibru{ki} saŋ-e-eš rig₇-ga-ba
+c.1.2.2,Enlil and Sud,B,31,šir₃ kug mi₂ dug₄-ga dug₄-ge-e {d}en-lil₂ lugal kur-ra-ke₄

@@ -1,0 +1,196 @@
+id_text,text_name,version,l_no,text
+c.6.1.22,Proverbs: collection 22,,19,
+c.6.1.22,Proverbs: collection 22,,20,ku₆-ta ŋiri₃-paₓ-ra₂ ab-de₅-de₅-ge
+c.6.1.22,Proverbs: collection 22,,21,za-e
+c.6.1.22,Proverbs: collection 22,,22,X-da-la₂-en
+c.6.1.22,Proverbs: collection 22,,23,X-sag₉-ge
+c.6.1.22,Proverbs: collection 22,,24,X-te-e
+c.6.1.22,Proverbs: collection 22,,25,
+c.6.1.22,Proverbs: collection 22,,26,il₂
+c.6.1.22,Proverbs: collection 22,,27,il₂
+c.6.1.22,Proverbs: collection 22,,32,
+c.6.1.22,Proverbs: collection 22,,33,mu-ud-na-ŋu₁₀ ŋiri₃-paₓ-ra₂ šag₄ ku₆-ta X-de₅-de₅-ge
+c.6.1.22,Proverbs: collection 22,,34,u₂ dam-gin₇ ze₂-ba edin-na nu-un-mu₂
+c.6.1.22,Proverbs: collection 22,,35,šah₂ il₂-e
+c.6.1.22,Proverbs: collection 22,,36,me-a dam-ŋu₁₀ im-me
+c.6.1.22,Proverbs: collection 22,,37,nam-tar X-na-te
+c.6.1.22,Proverbs: collection 22,,49,dumu-nitah tur-ra-am₃ e₂ ad-da-ni sar-ra
+c.6.1.22,Proverbs: collection 22,,50,niŋ₂-gig {d}nin-urta-kam
+c.6.1.22,Proverbs: collection 22,,51,dug₄-ga-ab dug₄-ga
+c.6.1.22,Proverbs: collection 22,,52,zig₃-ga-ab zig₃-ga
+c.6.1.22,Proverbs: collection 22,,53,ga-ab-SAR
+c.6.1.22,Proverbs: collection 22,,54,lu₂ ki
+c.6.1.22,Proverbs: collection 22,,55,
+c.6.1.22,Proverbs: collection 22,,56,nu-mu-da-DI-DI-e
+c.6.1.22,Proverbs: collection 22,,57,
+c.6.1.22,Proverbs: collection 22,,58,kud-kud-da-bi
+c.6.1.22,Proverbs: collection 22,,59,niŋ₂-erim₂-e
+c.6.1.22,Proverbs: collection 22,,60,ha-lam-me-de₃
+c.6.1.22,Proverbs: collection 22,,61,{d}utu ki aŋ₂
+c.6.1.22,Proverbs: collection 22,,62,sag₉-ga šu-am₃
+c.6.1.22,Proverbs: collection 22,,63,hul šu am₃-ga-am₃
+c.6.1.22,Proverbs: collection 22,,64,sag₉-ga šag₄-ge šu nu-bar-re
+c.6.1.22,Proverbs: collection 22,,65,hul šag₄-ge šu nu-di-ni-bar-re
+c.6.1.22,Proverbs: collection 22,,66,sag₉-ge ki dur₅-ru-am₃ šag₄-ge nu-da₁₃-da₁₃
+c.6.1.22,Proverbs: collection 22,,67,hul e₂ niŋ₂-gur₁₁-ra ur₅-e la-ba-an-gu₇-e
+c.6.1.22,Proverbs: collection 22,,68,hul-da id₂-da ma₂ he₂-en-da-an-su
+c.6.1.22,Proverbs: collection 22,,69,an-edin-na {kuš}ummud he₂-dar-dar
+c.6.1.22,Proverbs: collection 22,,80,kalag-ga-še₃ sig₉-ga bar-rim₄-ma nam
+c.6.1.22,Proverbs: collection 22,,81,ad nam-ba-an-gi₄-gi₄
+c.6.1.22,Proverbs: collection 22,,82,
+c.6.1.22,Proverbs: collection 22,,83,
+c.6.1.22,Proverbs: collection 22,,84,lu₂
+c.6.1.22,Proverbs: collection 22,,85,ud al-e₃ nam al-tar
+c.6.1.22,Proverbs: collection 22,,86,igi-zu he₂-en-ši-ŋal₂
+c.6.1.22,Proverbs: collection 22,,87,ŋiš-šub u₃-us₂-sa-ab ama-zu hul₂-la-ab
+c.6.1.22,Proverbs: collection 22,,88,kaš₄ dug₄-ga-ab diŋir-zu hul₂-la-ab
+c.6.1.22,Proverbs: collection 22,,89,dam ki
+c.6.1.22,Proverbs: collection 22,,90,he₂-dug₃-dug₃
+c.6.1.22,Proverbs: collection 22,,91,ŋeštin
+c.6.1.22,Proverbs: collection 22,,92,
+c.6.1.22,Proverbs: collection 22,,93,
+c.6.1.22,Proverbs: collection 22,,98,lu₂
+c.6.1.22,Proverbs: collection 22,,99,dumu
+c.6.1.22,Proverbs: collection 22,,100,dumu
+c.6.1.22,Proverbs: collection 22,,101,ukur₃
+c.6.1.22,Proverbs: collection 22,,127,
+c.6.1.22,Proverbs: collection 22,,128,
+c.6.1.22,Proverbs: collection 22,,129,
+c.6.1.22,Proverbs: collection 22,,130,
+c.6.1.22,Proverbs: collection 22,,131,₂ i₃-lul-lul
+c.6.1.22,Proverbs: collection 22,,132,
+c.6.1.22,Proverbs: collection 22,,133,
+c.6.1.22,Proverbs: collection 22,,140,
+c.6.1.22,Proverbs: collection 22,,141,
+c.6.1.22,Proverbs: collection 22,,142,
+c.6.1.22,Proverbs: collection 22,,143,lu₂
+c.6.1.22,Proverbs: collection 22,,144,
+c.6.1.22,Proverbs: collection 22,,145,ha-ma-ŋal₂-e lu₂-kur₂-ra ib₂-gu₇
+c.6.1.22,Proverbs: collection 22,,146,an uga{mušen}-am₃ ki {d}nin-kilim-am₃
+c.6.1.22,Proverbs: collection 22,,147,edin-e ur-mah-e e₂ me-še₃ ga-ŋen
+c.6.1.22,Proverbs: collection 22,,148,alan mu-sag₉
+c.6.1.22,Proverbs: collection 22,,149,ušbar₇ mu-un-da-hul₂
+c.6.1.22,Proverbs: collection 22,,150,i-gi₄-in-zu lu₂-ulu₃-am₃
+c.6.1.22,Proverbs: collection 22,,151,
+c.6.1.22,Proverbs: collection 22,,152,
+c.6.1.22,Proverbs: collection 22,,153,
+c.6.1.22,Proverbs: collection 22,,154,
+c.6.1.22,Proverbs: collection 22,,159,mušen
+c.6.1.22,Proverbs: collection 22,,160,mušen
+c.6.1.22,Proverbs: collection 22,,161,sa-zu
+c.6.1.22,Proverbs: collection 22,,162,i₃-DU
+c.6.1.22,Proverbs: collection 22,,163,i₃-suh₃-suh₃
+c.6.1.22,Proverbs: collection 22,,164,ba-an-DU
+c.6.1.22,Proverbs: collection 22,,165,mu-ni-še₃
+c.6.1.22,Proverbs: collection 22,,166,{gi}en₃-bar
+c.6.1.22,Proverbs: collection 22,,167,a gal-la gub-ba
+c.6.1.22,Proverbs: collection 22,,168,igi-ni {d}utu
+c.6.1.22,Proverbs: collection 22,,169,ki-sikil e₂ ušbar₇
+c.6.1.22,Proverbs: collection 22,,170,tuš-a tuš
+c.6.1.22,Proverbs: collection 22,,171,igi-ni ama₅-ni
+c.6.1.22,Proverbs: collection 22,,172,an al-šu₂-šu₂-ru im nu-šeŋ₃-am₃
+c.6.1.22,Proverbs: collection 22,,173,im al-šeŋ₃ {kuš}e-sir₂ nu-du₈-e
+c.6.1.22,Proverbs: collection 22,,174,{id₂}idigna ka-ba nu-un-zur-re
+c.6.1.22,Proverbs: collection 22,,175,a-gar₃-re nu-si-si
+c.6.1.22,Proverbs: collection 22,,176,
+c.6.1.22,Proverbs: collection 22,,177,igi
+c.6.1.22,Proverbs: collection 22,,178,lu₂
+c.6.1.22,Proverbs: collection 22,,180,he₂-ŋal₂
+c.6.1.22,Proverbs: collection 22,,181,gu₇
+c.6.1.22,Proverbs: collection 22,,182,{lu₂}ni₂-zu-ka-kam
+c.6.1.22,Proverbs: collection 22,,183,il₂-mu-ub
+c.6.1.22,Proverbs: collection 22,,184,ga-ba-ab-il₂
+c.6.1.22,Proverbs: collection 22,,185,tah-mu-ub
+c.6.1.22,Proverbs: collection 22,,186,ga-ba-ab-dug₄
+c.6.1.22,Proverbs: collection 22,,187,lu₂-lul-la-še₃ ni₂ buluŋ₅
+c.6.1.22,Proverbs: collection 22,,188,ni₂ nu-il₂ {kuš}a₂-ŋa₂-la₂ šu-še₃ la₂
+c.6.1.22,Proverbs: collection 22,,189,an i₃-gur₃-ru ki šu-ni-še₃ la₂
+c.6.1.22,Proverbs: collection 22,,190,usu-tuku lugal ki-in-du-ke₄
+c.6.1.22,Proverbs: collection 22,,191,ha-ma-da-gub-be₂-en gudug-e-ne
+c.6.1.22,Proverbs: collection 22,,192,ib₂-a gam-me-en ašgab-e-ne
+c.6.1.22,Proverbs: collection 22,,193,zi {d}en-ki e₂-a ba-ra-zal-zal-e {lu₂}azlag₂-e-ne
+c.6.1.22,Proverbs: collection 22,,194,dumu dam-e-ne šaŋan-la₂-e-ne
+c.6.1.22,Proverbs: collection 22,,195,kug ta ba-an-de₆
+c.6.1.22,Proverbs: collection 22,,196,u₃ še ta ba-an-de₆
+c.6.1.22,Proverbs: collection 22,,197,tur-tur lagab {na₄}za-gin₃-na
+c.6.1.22,Proverbs: collection 22,,198,kug ib₂-dirig
+c.6.1.22,Proverbs: collection 22,,199,ga-ba-an-lu
+c.6.1.22,Proverbs: collection 22,,200,teš₂-bi dumu lugal-la-kam
+c.6.1.22,Proverbs: collection 22,,201,šag₄ gu₇ ub-dirig a-nir-ra
+c.6.1.22,Proverbs: collection 22,,202,šag₄ gu₃ sig₁₀-ga dumu lugal-la-ke₄
+c.6.1.22,Proverbs: collection 22,,203,sukuₓ-ra₂ an-na šu nu-um-la₂
+c.6.1.22,Proverbs: collection 22,,204,daŋal-e ki-in-du la-ba-an-šu₂-šu₂
+c.6.1.22,Proverbs: collection 22,,205,kalag-ga ki-nu₂ ni₂ nu-mu-un-gid₂-de₃
+c.6.1.22,Proverbs: collection 22,,206,za-e-me-en ud-gin₇ dug₄-dug₄-ga piriŋ-gin₇ ni₂ he₂-gub
+c.6.1.22,Proverbs: collection 22,,207,kiri₆-a
+c.6.1.22,Proverbs: collection 22,,208,
+c.6.1.22,Proverbs: collection 22,,212,engar
+c.6.1.22,Proverbs: collection 22,,213,ki
+c.6.1.22,Proverbs: collection 22,,214,šu-ni {ŋeš}banšur-ra
+c.6.1.22,Proverbs: collection 22,,215,eme-ni e₂-gal-la
+c.6.1.22,Proverbs: collection 22,,216,tur-bi gu₇-a mah-bi til₃-la
+c.6.1.22,Proverbs: collection 22,,217,di₄-di₄-ba ŋen-na ŋiri₃-zu ki-a gub-ba
+c.6.1.22,Proverbs: collection 22,,218,ib₂ dab ba-an-de₂
+c.6.1.22,Proverbs: collection 22,,219,igi bar-ra ga-ba-ab-il₂
+c.6.1.22,Proverbs: collection 22,,220,šag₄ si-ŋu₁₀ im-du₃-a ga-ra-a-gul
+c.6.1.22,Proverbs: collection 22,,221,ib₂ he₂-hul
+c.6.1.22,Proverbs: collection 22,,222,ib₂ dab ba-an-de₂
+c.6.1.22,Proverbs: collection 22,,223,nu-mu-un-kal-la
+c.6.1.22,Proverbs: collection 22,,224,a-na ga-ab-dug₄
+c.6.1.22,Proverbs: collection 22,,225,₂ ga-ab-dug₄
+c.6.1.22,Proverbs: collection 22,,226,₂ ga-ab-tah
+c.6.1.22,Proverbs: collection 22,,227,lul i₃-sun₇
+c.6.1.22,Proverbs: collection 22,,228,lul dug₄-dug₄
+c.6.1.22,Proverbs: collection 22,,229,eme sig dug₄-dug₄
+c.6.1.22,Proverbs: collection 22,,230,an-kur₂
+c.6.1.22,Proverbs: collection 22,,231,an-kur₂-kur₂
+c.6.1.22,Proverbs: collection 22,,232,igi an-kur₂-kur₂
+c.6.1.22,Proverbs: collection 22,,233,bi₂-za-za
+c.6.1.22,Proverbs: collection 22,,234,a-na-am₃ gub-ba-ni
+c.6.1.22,Proverbs: collection 22,,235,a-na-am₃ tuš-a-ni
+c.6.1.22,Proverbs: collection 22,,236,du-du nam-gir₅-re a₂-bi in-ŋal₂
+c.6.1.22,Proverbs: collection 22,,237,di₄-di₄-ba
+c.6.1.22,Proverbs: collection 22,,238,ud mu-da-zal-e
+c.6.1.22,Proverbs: collection 22,,239,dumu
+c.6.1.22,Proverbs: collection 22,,240,
+c.6.1.22,Proverbs: collection 22,,241,šul-šul
+c.6.1.22,Proverbs: collection 22,,242,igi-ni
+c.6.1.22,Proverbs: collection 22,,243,i₃-DU
+c.6.1.22,Proverbs: collection 22,,244,a-na-am₃
+c.6.1.22,Proverbs: collection 22,,245,saŋ
+c.6.1.22,Proverbs: collection 22,,246,ki lu₂ ŋal₂
+c.6.1.22,Proverbs: collection 22,,247,lu₂-lul i-lu
+c.6.1.22,Proverbs: collection 22,,248,ma-ab-be₂-a
+c.6.1.22,Proverbs: collection 22,,249,an-de₂
+c.6.1.22,Proverbs: collection 22,,256,
+c.6.1.22,Proverbs: collection 22,,257,kur₂-ra
+c.6.1.22,Proverbs: collection 22,,258,
+c.6.1.22,Proverbs: collection 22,,259,gi
+c.6.1.22,Proverbs: collection 22,,260,
+c.6.1.22,Proverbs: collection 22,,261,du-a
+c.6.1.22,Proverbs: collection 22,,262,X-bal-a
+c.6.1.22,Proverbs: collection 22,,263,
+c.6.1.22,Proverbs: collection 22,,264,
+c.6.1.22,Proverbs: collection 22,,265,
+c.6.1.22,Proverbs: collection 22,,266,
+c.6.1.22,Proverbs: collection 22,,267,
+c.6.1.22,Proverbs: collection 22,,268,X-un-zu
+c.6.1.22,Proverbs: collection 22,,269,
+c.6.1.22,Proverbs: collection 22,,270,tud-da
+c.6.1.22,Proverbs: collection 22,,271,igi {d}utu šudu₃-de₃
+c.6.1.22,Proverbs: collection 22,,272,šag₄ {d}utu daŋal-la
+c.6.1.22,Proverbs: collection 22,,273,dumu {d}utu kug-ga-kam
+c.6.1.22,Proverbs: collection 22,,274,šub-ba {d}utu sag₉-ge-de₃
+c.6.1.22,Proverbs: collection 22,,275,ma₂ gu₇-gu₇ kar-ra an-dab₅-be₂
+c.6.1.22,Proverbs: collection 22,,276,lu₂ gu₇-a
+c.6.1.22,Proverbs: collection 22,,277,diŋir an-dab₅-be₂
+c.6.1.22,Proverbs: collection 22,,278,e₂-{na₄}kinkin-e du₁₄ he₂-en-ŋal₂
+c.6.1.22,Proverbs: collection 22,,279,geme₂ niŋ₂ zuh-a he₂-em-ma-ab-ed₃-de₃
+c.6.1.22,Proverbs: collection 22,,280,gala-e ur-mah-e edin-na ni₂ mu-ni-ib-teŋ₃-ŋe₂₆
+c.6.1.22,Proverbs: collection 22,,281,kan₄ {d}inana-ta
+c.6.1.22,Proverbs: collection 22,,282,gudug-ge-ne ba-e-DU
+c.6.1.22,Proverbs: collection 22,,283,šeš-zu edin-na ta-am₃ mu-un-na-ak-e-še
+c.6.1.22,Proverbs: collection 22,,284,kug tuku šag₄ an-hul₂
+c.6.1.22,Proverbs: collection 22,,285,še tuku ur₅ an-sag₉
+c.6.1.22,Proverbs: collection 22,,286,niŋ₂-ur₂-limmu₂ tuku-e u₃ nu-un-ši-ku-ku
+c.6.1.22,Proverbs: collection 22,,287,

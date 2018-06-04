@@ -1,0 +1,61 @@
+id_text,text_name,version,l_no,text
+c.5.6.5,The three ox-drivers from Adab,,1,gu₅-li-li ₃-am₃ dumu adab{ki}-ke₄-ne
+c.5.6.5,The three ox-drivers from Adab,,2,di in-da-ab-tuku-uš-am₃ di-da ab-kiŋ₂-kiŋ₂-e
+c.5.6.5,The three ox-drivers from Adab,,3,inim ib₂-ta-an-šar₂-šar₂-eš-am₃ lugal-e an-ta ba-an-gi
+c.5.6.5,The three ox-drivers from Adab,,4,lugal-me gud-da ri i₃-ak-e-de₃-nam
+c.5.6.5,The three ox-drivers from Adab,,5,gud lu₂ ₁-a-kam ab₂ lu₂ ₁-a-kam {ŋeš}mar lu₂ ₁-a-kam
+c.5.6.5,The three ox-drivers from Adab,,6,enmen₂ bi₂-tuku-un-da-nam a nu-mu-e-da-ŋal₂
+c.5.6.5,The three ox-drivers from Adab,,7,lu₂ gud-da-ra a u₃-um-te-si a ga-naŋ-en-de₃-en-e-še
+c.5.6.5,The three ox-drivers from Adab,,8,gud-ŋu₁₀ ur-mah-e u₃-bi₂-gu₇ gud-ŋu₁₀-ta ba-ra-ed₂-de₃-en-e-še
+c.5.6.5,The three ox-drivers from Adab,,9,lu₂ ab₂-ba-ra a u₃-um-te-si a ga-naŋ-en-de₃-en-e-še
+c.5.6.5,The three ox-drivers from Adab,,10,ab₂-ŋu₁₀ edin-še₃ u₃-ba-ŋen ab₂-ŋu₁₀-ta ba-ra-ed₂-de₃-en-e-še
+c.5.6.5,The three ox-drivers from Adab,,11,lu₂ {ŋeš}mar-ra-ra a u₃-um-te-si a ga-naŋ-en-de₃-en-e-še
+c.5.6.5,The three ox-drivers from Adab,,12,{ŋeš}mar-ŋu₁₀ gu₂-un u₃-un-ku-ku-ru {ŋeš}mar-ŋu₁₀-ta ba-ra-ed₂-de₃-en-e-še
+c.5.6.5,The three ox-drivers from Adab,,13,gana ga-ni-re₇-en-de₃-en gana ga-an-ga-am₃-gi-de₃-en
+c.5.6.5,The three ox-drivers from Adab,,14,gud eš₂ ba-a-la₂-e um-la₂ ab₂ a-sila₃-ŋar-ra-bi um-sur-sur-ru amar {ŋeš}mar-ra zu₂ bi₂-in-gub
+c.5.6.5,The three ox-drivers from Adab,,15,amar-e a-ba-kam amar-e a-ba-am₃ ba-an-de₆
+c.5.6.5,The three ox-drivers from Adab,,16,lugal-e inim nu-mu-un-ne-ši-ib₂-gi se₂-ek-rum-še₃ ba-da-an-kur₉
+c.5.6.5,The three ox-drivers from Adab,,17,lugal-e se₂-ek-rum-ta ad mu-un-di-ni-ib₂-gi-gi
+c.5.6.5,The three ox-drivers from Adab,,18,ŋuruš ₃-am₃ an-ta ba-an-gi-eš-a
+c.5.6.5,The three ox-drivers from Adab,,19,lugal-me gud-da ri i₃-ak-en-de₃-nam
+c.5.6.5,The three ox-drivers from Adab,,20,gud lu₂ ₁-a-kam ab₂ lu₂ ₁-a-kam {ŋeš}mar lu₂ ₁-a-kam
+c.5.6.5,The three ox-drivers from Adab,,21,enmen₂ bi₂-tuku-un-da-nam a nu-mu-e-da-ŋal₂
+c.5.6.5,The three ox-drivers from Adab,,22,lu₂ gud-da-ra a u-um-te-šub a ga-naŋ-en-de₃-en-e-še
+c.5.6.5,The three ox-drivers from Adab,,23,gud-ŋu₁₀ ur-mah-e u₃-bi₂-gu₇ gud-ŋu₁₀-ta ba-ra-ed₂-de₃-en-e-še
+c.5.6.5,The three ox-drivers from Adab,,24,lu₂ ab₂-ba-ra a u₃-um-te-šub a ga-naŋ-en-de₃-en-e-še
+c.5.6.5,The three ox-drivers from Adab,,25,ab₂-ŋu₁₀ edin-še₃ u₃-ba-ŋen ab₂-ŋu₁₀-ta ba-ra-ed₂-de₃-en-e-še
+c.5.6.5,The three ox-drivers from Adab,,26,lu₂ {ŋeš}mar-ra-ra a u₃-um-te-šub a ga-naŋ-en-de₃-en-e-še
+c.5.6.5,The three ox-drivers from Adab,,27,{ŋeš}mar-ŋu₁₀ gu₂-un u₃-un-ku-ku-ru {ŋeš}mar-ŋu₁₀-ta ba-ra-ed₂-de₃-en-e-še
+c.5.6.5,The three ox-drivers from Adab,,28,gana ga-ni-re₇-en-de₃-en gana ga-an-ga-am₃-gi-de₃-en
+c.5.6.5,The three ox-drivers from Adab,,29,gud eš₂ ba-a-la₂-e ab-la₂ ab₂ a-sila₃-ŋar-ra-bi ab-sur-sur-ru amar {ŋeš}mar-ra zu₂ bi₂-in-gub
+c.5.6.5,The three ox-drivers from Adab,,30,amar-e a-ba-kam amar-e a-ba-am₃ ba-an-de₆
+c.5.6.5,The three ox-drivers from Adab,,65,ga-nam lu₂ gud-da-ke₄ a-šag₄-ga-ni
+c.5.6.5,The three ox-drivers from Adab,,66,gud-da-ni ur-mah-e u₃-bi₂-gu₇
+c.5.6.5,The three ox-drivers from Adab,,67,a-šag₄-ga-ni
+c.5.6.5,The three ox-drivers from Adab,,69,ur-saŋ
+c.5.6.5,The three ox-drivers from Adab,,70,lu₂ hur-saŋ-gin₇
+c.5.6.5,The three ox-drivers from Adab,,71,gu₃-ra ur-re
+c.5.6.5,The three ox-drivers from Adab,,72,a₂-tuku a-šag₄-ga-na zag lu₂
+c.5.6.5,The three ox-drivers from Adab,,73,ga-nam lu₂ ab₂-ba-ke₄ dam-a-ni
+c.5.6.5,The three ox-drivers from Adab,,74,ab₂-ba-ni edin-še₃ u₃-ba-ŋen-na
+c.5.6.5,The three ox-drivers from Adab,,75,dam-a-ni tilla₂-a u₃-ba-an-ak
+c.5.6.5,The three ox-drivers from Adab,,76,ab₂ a-sila₃-ŋar-ra-bi um-sur-sur-ru
+c.5.6.5,The three ox-drivers from Adab,,77,ur-saŋ ŋen-na-da
+c.5.6.5,The three ox-drivers from Adab,,78,dam-a-ni ni₂-te-ni ri-ri-e-a
+c.5.6.5,The three ox-drivers from Adab,,79,gu₃-ra kurum₆-ma-ni ur₂-ra-na-še₃ bi₂-in-gur-ra šag₄-ŋar
+c.5.6.5,The three ox-drivers from Adab,,80,dam-a-ni e₂-a-na an-da-tuš-am₃ šag₄-ge guru₆-ni
+c.5.6.5,The three ox-drivers from Adab,,81,ga-nam lu₂ {ŋeš}mar-ra-ke₄ me-ni ugu-na um-da-šub-ba
+c.5.6.5,The three ox-drivers from Adab,,82,{ŋeš}mar-ra-ni gu₂-un um-kud-ku₅-ru-a {ŋeš}mar-ra-ni-ta
+c.5.6.5,The three ox-drivers from Adab,,83,me-ni e₂-a-na u₃-da-an-de₆ e₂-a-ni-ta ba-ra-šub-ba
+c.5.6.5,The three ox-drivers from Adab,,84,amar {ŋeš}mar-ra zu₂ bi₂-in-tum₃-tum₃-a-ni e₂-a-na ab-ta-an-tur-tur
+c.5.6.5,The three ox-drivers from Adab,,85,ur-saŋ a₂ ba₉-ra₂ um-ma-ni-ti-e-a
+c.5.6.5,The three ox-drivers from Adab,,86,lugal-e inim-inim-ma-ni₃ u₃-bi₂-in-zu ki-šub-ba-ni-ta me-ni um-ta-an-šub-ba
+c.5.6.5,The three ox-drivers from Adab,,87,gu₃-ra e₂ ur-ke₄ ŋiš ad-bi ŋeštug₂-ŋa₂ u₃-un-hal-ha nu-mu-da-zi-zi
+c.5.6.5,The three ox-drivers from Adab,,88,gu₂-un-na-ni bur₂-bur₂-da ensi₂ gu-la an-dib-ba nu-mu-un-da-gi-gi
+c.5.6.5,The three ox-drivers from Adab,,89,lugal-e se₂-ek-rum-ta ed₂-da-ni-ta
+c.5.6.5,The three ox-drivers from Adab,,90,lu₂ ₁ šag₄-ga-ni šag₄-ga-ni ba-an-ši-ib₂-si
+c.5.6.5,The three ox-drivers from Adab,,91,lu₂ dam-a-ni hul an-gig-ga-am₃ dam-a-ni-ta ba-an-da-ŋen
+c.5.6.5,The three ox-drivers from Adab,,92,lu₂ me-ni me-ni ba-an-da-šub
+c.5.6.5,The three ox-drivers from Adab,,93,inim galam-galam-ma dumu adab{ki}-ke₄-ne
+c.5.6.5,The three ox-drivers from Adab,,94,inim galam-galam-ma-ta di in-dab₅-dab₅-be₂
+c.5.6.5,The three ox-drivers from Adab,,95,{d}pa₅-niŋin₃-ŋar-ra pap-šeš-ne-ne um-mi-a diŋir adab{ki}-ke₄ dub-sar-bi

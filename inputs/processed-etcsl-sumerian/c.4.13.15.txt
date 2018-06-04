@@ -1,0 +1,62 @@
+id_text,text_name,version,l_no,text
+c.4.13.15,A hymn to Nanna (Nanna O),,A5,
+c.4.13.15,A hymn to Nanna (Nanna O),,A6,ša-mu-e-da-ŋal₂
+c.4.13.15,A hymn to Nanna (Nanna O),,A7,an {d}en-lil₂ {d}en-ki {d}nin-hur-saŋ-ŋa₂-ke₄
+c.4.13.15,A hymn to Nanna (Nanna O),,A8,ki-ulutim₂-zu-a mi₂ zid ša-ra-ne-ne
+c.4.13.15,A hymn to Nanna (Nanna O),,A9,{d}nanna un₃-na
+c.4.13.15,A hymn to Nanna (Nanna O),,A10,an ki-a na de₅
+c.4.13.15,A hymn to Nanna (Nanna O),,A11,an {d}en-lil₂ {d}en-ki {d}nin-hur-saŋ-ŋa₂-ke₄
+c.4.13.15,A hymn to Nanna (Nanna O),,A12,ki-ulutim₂-zu-a mi₂ zid ša-ra-ne-ne
+c.4.13.15,A hymn to Nanna (Nanna O),,A13,šul {d}suen du-du-da-zu-ne
+c.4.13.15,A hymn to Nanna (Nanna O),,A14,diŋir-diŋir a-nun-na ši-im-ma-sug₂-sug₂-ge-eš
+c.4.13.15,A hymn to Nanna (Nanna O),,A15,an ub-da ₄ uŋ₃ saŋ gig₂-ga
+c.4.13.15,A hymn to Nanna (Nanna O),,A16,dumu-saŋ {d}en-lil₂-la₂ igi-bi ma-ra-ši-ŋal₂
+c.4.13.15,A hymn to Nanna (Nanna O),,A17,{d}nanna šul {d}suen du-du-da-zu-ne
+c.4.13.15,A hymn to Nanna (Nanna O),,A18,diŋir-diŋir a-nun-na ši-im-ma-sug₂-sug₂-ge-eš
+c.4.13.15,A hymn to Nanna (Nanna O),,A19,an ub-da ₄ uŋ₃ saŋ gig₂-ga
+c.4.13.15,A hymn to Nanna (Nanna O),,A20,dumu-saŋ {d}en-lil₂-la₂ igi-bi ma-ra-ši-ŋal₂
+c.4.13.15,A hymn to Nanna (Nanna O),,A21,an kug-ga pa e₃-a-zu-ne
+c.4.13.15,A hymn to Nanna (Nanna O),,A22,kur-kur-ra daŋal im-SAR-e-en
+c.4.13.15,A hymn to Nanna (Nanna O),,A23,iti₆-zu kug-ga-am₃ dadag-ga-am₃
+c.4.13.15,A hymn to Nanna (Nanna O),,A24,e i lugal-ra ud-de₃-eš mu-un-e₃
+c.4.13.15,A hymn to Nanna (Nanna O),,A25,{d}nanna an kug-ga pa e₃-a-zu-ne
+c.4.13.15,A hymn to Nanna (Nanna O),,A26,kur-kur-ra daŋal im-SAR-e-en
+c.4.13.15,A hymn to Nanna (Nanna O),,A27,iti₆-zu kug-ga-am₃ dadag-ga-am₃
+c.4.13.15,A hymn to Nanna (Nanna O),,A28,e i lugal-ra ud-de₃-eš mu-un-e₃
+c.4.13.15,A hymn to Nanna (Nanna O),,A29,{d}nanna en šag₄-ge pad₃-da-zu
+c.4.13.15,A hymn to Nanna (Nanna O),,A30,pa e₃ ši-im-mi-in-ak
+c.4.13.15,A hymn to Nanna (Nanna O),,A31,en nu-silig-ge
+c.4.13.15,A hymn to Nanna (Nanna O),,B1,
+c.4.13.15,A hymn to Nanna (Nanna O),,B2,ud su₃-ra₂ ul-le₂-a-še₃
+c.4.13.15,A hymn to Nanna (Nanna O),,B3,in-ŋa₂-e-re₇-en-de₃-en in-ŋa₂-e-re₇-en-de₃-en
+c.4.13.15,A hymn to Nanna (Nanna O),,B4,e₂-e mah in-ŋa₂-e-re₇-en-de₃-en
+c.4.13.15,A hymn to Nanna (Nanna O),,B5,u₃-mu-un-na-še₃
+c.4.13.15,A hymn to Nanna (Nanna O),,B6,nun {d}šul-gi-ra-še₃
+c.4.13.15,A hymn to Nanna (Nanna O),,B7,iri ki-bi gi₄-a-še₃
+c.4.13.15,A hymn to Nanna (Nanna O),,B8,inim inim-ŋar sag₉-ge-še₃
+c.4.13.15,A hymn to Nanna (Nanna O),,B9,šu-um-du-um šag₄ šuba₄-še₃
+c.4.13.15,A hymn to Nanna (Nanna O),,B10,me-ri ki-a sig₁₀-ga-še₃
+c.4.13.15,A hymn to Nanna (Nanna O),,B11,eš₃ nibru{ki} dur-an-ki-še₃
+c.4.13.15,A hymn to Nanna (Nanna O),,B12,igi še-eb tu-tu-ba-še₃
+c.4.13.15,A hymn to Nanna (Nanna O),,B13,abzu mah še-eb uru₂-ze₂-ba-še₃
+c.4.13.15,A hymn to Nanna (Nanna O),,B14,e₂-šu-me-ša₄ me nam-nun-na-še₃
+c.4.13.15,A hymn to Nanna (Nanna O),,B15,urim₂{ki}-e e₂ {d}suen-na-še₃
+c.4.13.15,A hymn to Nanna (Nanna O),,B16,e₂-kiš-nu-ŋal₂ {d}nanna-še₃
+c.4.13.15,A hymn to Nanna (Nanna O),,B17,agrun-kug e₂ ki aŋ₂ ga-ša-an-na-še₃
+c.4.13.15,A hymn to Nanna (Nanna O),,B18,e₂-hur-saŋ e₂ lugal-la-še₃
+c.4.13.15,A hymn to Nanna (Nanna O),,B19,e₂-nam-til₃-la nun šul-gi-še₃ in-ŋa₂-e-re₇-en-de₃-en
+c.4.13.15,A hymn to Nanna (Nanna O),,B20,ki-ŊAR.KA {d}suen-na-ka {d}utu he₂-me-en
+c.4.13.15,A hymn to Nanna (Nanna O),,B21,abzu al-mu₂-mu₂ abzu al-sag₉-ge
+c.4.13.15,A hymn to Nanna (Nanna O),,B22,abzu u₃-mu-un-bi-ra u₃-mu-un ŋa₂-ŋa₂-dam
+c.4.13.15,A hymn to Nanna (Nanna O),,B23,u₃-mu-un {d}nanna u₃-mu-un {d}aš-im₂-babbar
+c.4.13.15,A hymn to Nanna (Nanna O),,B24,u₃-mu-un kisal-la₂ giri₁₇-zal {d}alamuš-ra
+c.4.13.15,A hymn to Nanna (Nanna O),,B25,ub-a-ke₄ ub-e hu-mu-ri-in-ša₄
+c.4.13.15,A hymn to Nanna (Nanna O),,B26,da-a-ke₄ da-e hu-mu-ri-in-ša₄
+c.4.13.15,A hymn to Nanna (Nanna O),,B27,{d}inana an-na-ke₄ hi-li-a hu-mu-ri-in-ša₄
+c.4.13.15,A hymn to Nanna (Nanna O),,B28,mu-gi₁₇-ib gal-e niŋin₃-mar-e hu-mu-ri-in-ša₄
+c.4.13.15,A hymn to Nanna (Nanna O),,B29,kurku₂-a hu-mu-ri-in-ša₄
+c.4.13.15,A hymn to Nanna (Nanna O),,B30,hu-mu-ri-in-ša₄
+c.4.13.15,A hymn to Nanna (Nanna O),,B31,za-e he₂-me-en
+c.4.13.15,A hymn to Nanna (Nanna O),,B32,ga-ša-an-sumun₂-na
+c.4.13.15,A hymn to Nanna (Nanna O),,C1,ŋe₂₆ za-ra de₃-ra-ab-dug₄
+c.4.13.15,A hymn to Nanna (Nanna O),,C2,ki-ŊAR.KA {d}suen-na-ka {d}utu he₂-me-en

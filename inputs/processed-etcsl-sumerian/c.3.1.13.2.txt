@@ -1,0 +1,30 @@
+id_text,text_name,version,l_no,text
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,1,{m}iš-bi₂-{d}er₃-ra-a₂-ra mu-un-ne-du
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,2,šul-gi lu₂-gal-zu₂ na-ap-pa-a
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,3,inim me-e ga-na u₂-ud-ki-im me-e-hu-lu
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,4,e-me-du di-ik-ki-nam mi-in-na na-ar-ra a-ba ma-an-šu
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,5,a-am-ga lu-ga-al-be šu zi-im ga-ra a-ba ab-tu-ku-e-še
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,6,ne-e-še niŋ₂ a-na mu-ši-iq-qa-an-gu
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,7,ŋiš-ki-im li-ig-in-ne u₂-gu-zi-eš-še me-e-ra-am-gi
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,8,ba-ba-tu pi-ša₃-ad-ba-ar-ra at-ta-at-ta e-eg-la-am-gu
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,9,li-be-ra ad ki-ki ad ki-ki mu-un-da-a
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,10,un ge-eš-tu kub-babbar₂ un ge-eš-tu ku-us-ke-eš še mu-ra-ad-ka
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,11,mu mu-nu-ut-ku we-eŋer mi-na-an-gu šu mu-un-te-em-ga im-ma-ši-im-gi
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,12,u₂-mu-uš eri-na-ak-ke u₂-gu-uz-ze-eš-še me-e-ra-am-gi
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,13,e-ne-er-ra šu-mu-un-na ni-ig-na-ma-an-ne ak-ka-a
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,14,e-ma-ru-uk-ka ša₃-ap-pi hu-un na-an-gi-ga
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,15,u₂ za-e ku₃-ud-ki kub-babbar₂ zu-un-ne-et-ta šu-u₂ zi-ba-ab
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,16,ganba-zu₂ e-da-da-be e ša₃-a-ša₃-a-ma-an-ne
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,17,šu du-uz-zu ni-ig-nam na-an-nu-le
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,18,u₂-da-da dumu ša₃-az zu-ga-am-gu-u₂ de-mi-in
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,19,iri du kur mar-du e₂-nam du-a-be mu-ra-ga me-e-ek-ki-na mi-du-gu-ut-ta
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,20,ku-uz-zi barag ku-uz-zi igi-ne-en-ne-eš-še tu-uš-ša
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,21,za-na lu-u₂-ki-im-ga-ne-en-ne he-li-ib-za-za-an-ne
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,22,du-ru-be-šu uz-zu hu-ur-mi ni-ig na-me na-an-tu-uk-ku
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,23,im-sik zig₃-ga im-sik ga-ra-a
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,24,saŋ-ŋen ga-ra nu-banda₃ ŋiš-ki-im ku-ra
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,25,lu-u₂ na-an-ga lu-u₂ uk-ka igi lu-u₂ uk-ka hu-la-a
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,26,u₂-ku-uš i-gi du-uq-qa im-ma-an-sig₅-qa
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,27,e₂ nam-šul-zu e-ne-er-ra du-mu-un-na šu-um ŋar-zu ma-ha
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,28,ne-e-še niŋ₂ ga-na mu-ši-iq-qa-an-gu
+c.3.1.13.2,Letter from Šulgi to Išbi-Erra about the purchase of grain,,29,e-ma-ru-uk ka-az-zu na-ap-pa-le-e

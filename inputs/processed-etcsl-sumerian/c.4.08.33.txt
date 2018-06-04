@@ -1,0 +1,88 @@
+id_text,text_name,version,l_no,text
+c.4.08.33,Dumuzid and Enkimdu,,1,{lu₂}ki-sikil tur₃
+c.4.08.33,Dumuzid and Enkimdu,,2,ki-sikil {d}inana amaš
+c.4.08.33,Dumuzid and Enkimdu,,3,ab-sin₂-na gam-gam-e
+c.4.08.33,Dumuzid and Enkimdu,,4,{d}inana ga-e-re-dib-dib
+c.4.08.33,Dumuzid and Enkimdu,,5,ziz₂
+c.4.08.33,Dumuzid and Enkimdu,,6,in-nin
+c.4.08.33,Dumuzid and Enkimdu,,7,nu-nus-ŋen nu-me-en ne nu-me-en
+c.4.08.33,Dumuzid and Enkimdu,,8,mul-ŋen nu-me-en
+c.4.08.33,Dumuzid and Enkimdu,,9,nitalam sipad-da nu-me-en-X
+c.4.08.33,Dumuzid and Enkimdu,,10,šeš-a-ni ur-saŋ šul {d}utu
+c.4.08.33,Dumuzid and Enkimdu,,11,kug {d}inana-ra gu₃ mu-un-na-de₂-e
+c.4.08.33,Dumuzid and Enkimdu,,12,nin₉-ŋu₁₀ he₂-tuku-tuku su₈-ba-de₃
+c.4.08.33,Dumuzid and Enkimdu,,13,ki-sikil {d}inana za-e a-na-aš nu-ub-še-ge-en
+c.4.08.33,Dumuzid and Enkimdu,,14,i₃-ni dug₃-ga-am₃ ga-ni dug₃-ga-am₃
+c.4.08.33,Dumuzid and Enkimdu,,15,{lu₂}su₈-ba niŋ₂ šu dug₄-ga-ni dadag-ga-am₃
+c.4.08.33,Dumuzid and Enkimdu,,16,{d}inana he₂-tuku-tuku {d}du₅-mu-zid-de₃
+c.4.08.33,Dumuzid and Enkimdu,,17,unu₂ la₂ šuba la₂ za-e a-na-aš nu-ub-še-ge-en
+c.4.08.33,Dumuzid and Enkimdu,,17A,i₃-ni dug₃-ga-am₃ ga-ni dug₃-ga-am₃
+c.4.08.33,Dumuzid and Enkimdu,,17B,{lu₂}su₈-ba niŋ₂ šu dug₄-ga-ni dadag-ga-am₃
+c.4.08.33,Dumuzid and Enkimdu,,18,i₃-ni dug₃-ga mu-un-da-gu₇-e
+c.4.08.33,Dumuzid and Enkimdu,,19,an-dul₃-e lugal-la za-e a-na-aš nu-ub-še-ge-en
+c.4.08.33,Dumuzid and Enkimdu,,20,ŋe₂₆-e su₈-ba-de₃ ba-ra-mu-tuku-tuku-un
+c.4.08.33,Dumuzid and Enkimdu,,21,tug₂ gibil-la₂-na ba-ra-mi-ni-ga-ga-an
+c.4.08.33,Dumuzid and Enkimdu,,22,siki gibil-la₂-a-ni sa₂ ba-ra-mu-e-en
+c.4.08.33,Dumuzid and Enkimdu,,23,ki-sikil-ŋen me-e mu-un-gar₃-e de₃-mu-tuku-tuku-un
+c.4.08.33,Dumuzid and Enkimdu,,24,mu-un-gar₃ gu gun₃-gun₃-a-da
+c.4.08.33,Dumuzid and Enkimdu,,25,mu-un-gar₃ še gun₃-gun₃-a-da
+c.4.08.33,Dumuzid and Enkimdu,,26,gu₂-un
+c.4.08.33,Dumuzid and Enkimdu,,34,me-e su₈-ba-de₃ ba-ra-mu-tuku-tuku-un
+c.4.08.33,Dumuzid and Enkimdu,,35,inim-bi
+c.4.08.33,Dumuzid and Enkimdu,,36,sipad-ra engar
+c.4.08.33,Dumuzid and Enkimdu,,37,lugal-ŋu₁₀
+c.4.08.33,Dumuzid and Enkimdu,,38,su₈-ba {d}du₅-mu-zid-de₃
+c.4.08.33,Dumuzid and Enkimdu,,39,dug₄-ge-de₃
+c.4.08.33,Dumuzid and Enkimdu,,40,engar-e ŋa₂-a-ra engar-e ŋa₂-a-ra engar-e a-na mu-un-dirig-ga-am₃
+c.4.08.33,Dumuzid and Enkimdu,,41,{d}en-ki-im-du lu₂ eg₂ pa₅-ra-ke₄
+c.4.08.33,Dumuzid and Enkimdu,,42,ŋa₂-a-ra engar-e a-na mu-un-dirig-ga-am₃
+c.4.08.33,Dumuzid and Enkimdu,,43,tug₂ gig₂-ga-ni ha-ma-ab-šum₂-mu
+c.4.08.33,Dumuzid and Enkimdu,,44,engar-ra u₈ gig₂-ŋu₁₀ ŋe₂₆-e ga-mu-na-ši-ib-šum₂
+c.4.08.33,Dumuzid and Enkimdu,,45,tug₂ babbar₂-ra-ni ha-ma-ab-šum₂-mu
+c.4.08.33,Dumuzid and Enkimdu,,46,engar-ra u₈ babbar₂-ra-ŋu₁₀ ga-mu-na-ši-ib-šum₂
+c.4.08.33,Dumuzid and Enkimdu,,47,e-ne kaš saŋ-ŋa₂-ni ha-ma-an-de₂-e
+c.4.08.33,Dumuzid and Enkimdu,,48,engar-ra ga sig₇-a-ŋu₁₀ ga-mu-na-ši-in-de₂
+c.4.08.33,Dumuzid and Enkimdu,,49,e-ne kaš sig₅-ni ha-ma-an-de₂-e
+c.4.08.33,Dumuzid and Enkimdu,,50,engar-ra ga-ki-si-im-ma-ŋu₁₀ ga-mu-na-ši-in-de₂
+c.4.08.33,Dumuzid and Enkimdu,,51,e-ne kaš sa₂ gi₄-a-ni ha-ma-an-de₂-e
+c.4.08.33,Dumuzid and Enkimdu,,52,engar-ra ga ga-mu-na-ši-in-de₂
+c.4.08.33,Dumuzid and Enkimdu,,53,e-ne kašbir-a-ni ha-ma-an-de₂-e
+c.4.08.33,Dumuzid and Enkimdu,,54,engar-ra ŋe₂₆-e ga u₂-ŋu₁₀ ga-mu-na-ši-in-de₂
+c.4.08.33,Dumuzid and Enkimdu,,55,ha-ha-la sig₅-ni ha-ma-ab-šum₂-mu
+c.4.08.33,Dumuzid and Enkimdu,,56,engar-ra ŋe₂₆-e ga i₃-ti-ir-da-ŋu₁₀ ga-mu-na-ši-ib-šum₂
+c.4.08.33,Dumuzid and Enkimdu,,57,ninda sig₅-ni ha-ma-ab-šum₂-mu
+c.4.08.33,Dumuzid and Enkimdu,,58,engar-ra ga nunuz-te-a-ŋu₁₀ ga-mu-na-ši-ib-šum₂
+c.4.08.33,Dumuzid and Enkimdu,,59,gu₂ di₄-di₄-la₂-ni ha-ma-ab-šum₂-mu
+c.4.08.33,Dumuzid and Enkimdu,,60,engar-ra ga-ar₃ tur-tur-ŋu₁₀ ga-mu-na-ši-ib-šum₂
+c.4.08.33,Dumuzid and Enkimdu,,60A,gu₂ gal-gal-la-ni ha-ma-ab-šum₂-mu
+c.4.08.33,Dumuzid and Enkimdu,,60B,engar-ra ga-ar₃ gal-gal-ŋu₁₀ ga-mu-na-ši-ib-šum₂
+c.4.08.33,Dumuzid and Enkimdu,,61,u₃-mu-ni-gu₇ u₃-mu-ni-naŋ-ŋa₂-ta
+c.4.08.33,Dumuzid and Enkimdu,,62,i₃ niŋ₂ dirig-ga ga-mu-na-ra-ab-šub
+c.4.08.33,Dumuzid and Enkimdu,,63,ga niŋ₂ dirig-ga ga-mu-na-ra-ab-šub
+c.4.08.33,Dumuzid and Enkimdu,,64,ŋa₂-a-ra engar-e a-na mu-un-dirig-ga-am₃
+c.4.08.33,Dumuzid and Enkimdu,,65,ul am₃-te ul am₃-te gaba peš₁₀-a ul am₃-te
+c.4.08.33,Dumuzid and Enkimdu,,66,peš₁₀-am₃ sipad-de₃ peš₁₀-am₃
+c.4.08.33,Dumuzid and Enkimdu,,67,sipad-de₃ peš₁₀-am₃ udu na-an-ga-am₃-mi-ni-in-lu-lu
+c.4.08.33,Dumuzid and Enkimdu,,68,sipad peš₁₀-a udu lu-a-ra
+c.4.08.33,Dumuzid and Enkimdu,,69,{lu₂}sipad-ra engar mu-na-ni-in-te
+c.4.08.33,Dumuzid and Enkimdu,,70,engar {d}en-ki-im-du mu-na-ni-in-te
+c.4.08.33,Dumuzid and Enkimdu,,71,{d}dumu-zid lugal eg₂ pa₅-re
+c.4.08.33,Dumuzid and Enkimdu,,72,edin-a-na sipad-de₃ edin-a-na du₁₄ mu-un-di-ni-ib-mu₂-mu₂
+c.4.08.33,Dumuzid and Enkimdu,,73,su₈-ba {d}dumu-zid-de₃ edin-a-na du₁₄ mu-un-di-ni-ib-mu₂-mu₂
+c.4.08.33,Dumuzid and Enkimdu,,74,ŋa₂-a za-a-da su₈-ba ŋa₂-a za-a-da su₈-ba ŋa₂-a za-a-da
+c.4.08.33,Dumuzid and Enkimdu,,75,a-na-aš mu-da-ab-sa₂-e-en
+c.4.08.33,Dumuzid and Enkimdu,,76,udu-zu u₂ peš₁₀ he₂-em-mi-gu₇
+c.4.08.33,Dumuzid and Enkimdu,,77,išin-ŋa₂ udu-zu he₂-em-mi-gu₇
+c.4.08.33,Dumuzid and Enkimdu,,78,a-šag₄ šuba unug{ki}-ga še ha-ba-ni-gu₇
+c.4.08.33,Dumuzid and Enkimdu,,79,maš₂ sila₄-zu {id₂}surungal-ŋa₂ a ha-ba-ni-in-naŋ
+c.4.08.33,Dumuzid and Enkimdu,,80,{lu₂}sipad-me-en nam-nitalam-ŋu₁₀-še₃
+c.4.08.33,Dumuzid and Enkimdu,,81,engar gu₅-li-ŋa₂ na-ba-ni-in-kur₉-ra
+c.4.08.33,Dumuzid and Enkimdu,,82,engar {d}en-ki-im-du gu₅-li-ŋa₂ engar gu₅-li-ŋa₂
+c.4.08.33,Dumuzid and Enkimdu,,83,na-ba-ni-in-kur₉-ra-am₃
+c.4.08.33,Dumuzid and Enkimdu,,84,gig ga-mu-ra-de₆ gu₂ ga-mu-ra-de₆
+c.4.08.33,Dumuzid and Enkimdu,,85,gu₂-nida bir-un₄-na ga-mu-ra-de₆
+c.4.08.33,Dumuzid and Enkimdu,,86,{lu₂}ki-sikil niŋ₂ za-a-ra sig₉-ga
+c.4.08.33,Dumuzid and Enkimdu,,87,ki-sikil {d}inana še giŋ₄ gu₂ ga-mu-ra-de₆
+c.4.08.33,Dumuzid and Enkimdu,,88,sipad engar-da a-da-min₃ dug₄-ga
+c.4.08.33,Dumuzid and Enkimdu,,89,ki-sikil {d}inana za₃-mi₂-zu dug₃-ga-am₃
+c.4.08.33,Dumuzid and Enkimdu,,90,bal-bal-e-dam

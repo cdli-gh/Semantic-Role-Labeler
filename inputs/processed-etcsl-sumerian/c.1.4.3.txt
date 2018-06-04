@@ -1,0 +1,264 @@
+id_text,text_name,version,l_no,text
+c.1.4.3,Dumuzid's dream,,1,šag₄-ga-ni er₂ im-si edin-še₃ ba-ra-e₃
+c.1.4.3,Dumuzid's dream,,2,ŋuruš šag₄-ga-ni er₂ im-si edin-še₃ ba-ra-e₃
+c.1.4.3,Dumuzid's dream,,3,{d}dumu-zid šag₄-ga-ni er₂ im-si edin-še₃ ba-ra-e₃
+c.1.4.3,Dumuzid's dream,,4,ŋidru nam-sipad-da gu₂-na mu-un-di-la₂ i-lu mu-un-du-du
+c.1.4.3,Dumuzid's dream,,5,i-lu ŋar-u₃ i-lu ŋar-u₃ edin i-lu ŋar-u₃
+c.1.4.3,Dumuzid's dream,,6,edin i-lu ŋar-u₃ ambar inim ŋar-u₃
+c.1.4.3,Dumuzid's dream,,7,al-lub id₂-da girid₂ i-lu ŋar-u₃
+c.1.4.3,Dumuzid's dream,,8,bi₂-za-za id₂-da inim ŋar-u₃ ama-ŋu₁₀ inim he₂-em-me
+c.1.4.3,Dumuzid's dream,,9,ama-ŋu₁₀ {d}dur₇-tur-ŋu₁₀ inim he₂-em-me
+c.1.4.3,Dumuzid's dream,,10,ama-ŋu₁₀ niŋ₂ ₅-am₃ inim he₂-em-me
+c.1.4.3,Dumuzid's dream,,11,ama-ŋu₁₀ niŋ₂ ₁₀-am₃ inim he₂-em-me
+c.1.4.3,Dumuzid's dream,,12,ud-da ud ug₅-ge-ŋu₁₀ nu-un-zu
+c.1.4.3,Dumuzid's dream,,13,edin ama ugu-ŋu₁₀ inim mu-e-de₃-zu-un
+c.1.4.3,Dumuzid's dream,,14,nin₉ ban₃-da-ŋu₁₀-gin₇ er₂-ŋu₁₀ he₂-še₈-še₈
+c.1.4.3,Dumuzid's dream,,15,ud ul-e ba-nu₂ ud ul-e ba-nu₂ sipad ud ul-e ba-nu₂
+c.1.4.3,Dumuzid's dream,,16,sipad ud ul-e ba-nu₂-gin₇ ma-mu₂-de₃ ba-nu₂
+c.1.4.3,Dumuzid's dream,,17,i-im-zig₃ ma-mu₂-da i-im-bu-lu-uh₂ u₃-sa₂-ga-am₃
+c.1.4.3,Dumuzid's dream,,18,igi-ni šu bi₂-in-kiŋ₂ niŋ₂-me-ŋar sug₄-ga-am₃
+c.1.4.3,Dumuzid's dream,,19,tum₂-mu-un-ze₂-en tum₂-mu-un-ze₂-en nin₉-ŋu₁₀ tum₂-mu-un-ze₂-en
+c.1.4.3,Dumuzid's dream,,20,{d}ŋeštin-an-na-ŋu₁₀ tum₂-mu-un-ze₂-en nin₉-ŋu₁₀ tum₂-mu-un-ze₂-en
+c.1.4.3,Dumuzid's dream,,21,dub-sar im zu-ŋu₁₀ tum₂-mu-un-ze₂-en nin₉-ŋu₁₀ tum₂-mu-un-ze₂-en
+c.1.4.3,Dumuzid's dream,,22,nar en₃-du zu-ŋu₁₀ tum₂-mu-un-ze₂-en nin₉-ŋu₁₀ tum₂-mu-un-ze₂-en
+c.1.4.3,Dumuzid's dream,,23,lu₂-ban₃-da šag₄ inim-ma zu-ŋu₁₀ tum₂-mu-un-ze₂-en nin₉-ŋu₁₀ tum₂-mu-un-ze₂-en
+c.1.4.3,Dumuzid's dream,,24,um-ma šag₄ ma-mu₂-da zu-ŋu₁₀ tum₂-mu-un-ze₂-en nin₉-ŋu₁₀ tum₂-mu-un-ze₂-en
+c.1.4.3,Dumuzid's dream,,25,ma-mu₂ ga-mu-un-na-bur₂
+c.1.4.3,Dumuzid's dream,,26,ma-mu₂-da nin₉-ŋu₁₀ ma-mu₂-da šag₄ ma-mu₂-da-ŋa₂
+c.1.4.3,Dumuzid's dream,,27,{u₂}numun₂ ma-ra-zi-zi {u₂}numun₂ ma-ra-mu₂-mu₂
+c.1.4.3,Dumuzid's dream,,28,gi dili du₃-e saŋ ma-ra-an-sag₃-ge
+c.1.4.3,Dumuzid's dream,,29,gi dili-dili du₃-e dili ma-ra-an-ba₉-re₆
+c.1.4.3,Dumuzid's dream,,30,{ŋeš}tir-ra ŋiš an-gin₇ ni₂-bi ma-ra-an-zig₃-ga
+c.1.4.3,Dumuzid's dream,,31,ne-mur kug-ŋa₂ a mu-da-an-de₂
+c.1.4.3,Dumuzid's dream,,32,{dug}šakir₃ kug-ŋa₂ TUN₃-bi ba-ra-an-ba₉-re₆
+c.1.4.3,Dumuzid's dream,,33,{ŋeš}an-za-am kug-ŋu₁₀ {ŋeš}gag-ta la₂-a {ŋeš}gag-ta ba-ra-an-si-ig
+c.1.4.3,Dumuzid's dream,,34,{ŋeš}ma-nu-ŋu₁₀ u₂-gu mu-da-an-de₂
+c.1.4.3,Dumuzid's dream,,35,{d}nin-ninna₂{mušen}-ta-e ŋa₂ udu-ka sila₄ šu ba-ni-ib-ti
+c.1.4.3,Dumuzid's dream,,36,sur₂-du₃{mušen}-e gi dub-ba-na-ka buru₅{mušen} šu ba-ni-ib-ti
+c.1.4.3,Dumuzid's dream,,37,maš₂-ud₅-da-ŋu₁₀ sun₄ za-gin₃-bi sahar-ra ma-ra-an-gid₂-e
+c.1.4.3,Dumuzid's dream,,38,udu-utua₂-ŋu₁₀ a₂ gur-gur-ra-bi ki ma-ra-ab-hur-hur-re
+c.1.4.3,Dumuzid's dream,,39,{dug}šakir₃ i₃-dur₂-dur₂ ga nu-un-de₂
+c.1.4.3,Dumuzid's dream,,40,an-za-am i₃-dur₂-dur₂ {d}dumu-zid nu-til₃ amaš lil₂-la₂-am₃ al-du₃
+c.1.4.3,Dumuzid's dream,,41,{d}ŋeštin-an-na-ke₄ {d}dumu-zid mu-un-na-ni-ib-gi₄-gi₄
+c.1.4.3,Dumuzid's dream,,42,šeš-ŋu₁₀ ma-mu₂-zu nu-sag₉-sag₉ nam-ma-an-bur₂-e
+c.1.4.3,Dumuzid's dream,,43,{d}dumu-zid ma-mu₂-zu nu-sag₉-sag₉ nam-ma-an-bur₂-e
+c.1.4.3,Dumuzid's dream,,44,{u₂}numun₂ ma-ra-an-zi-zi {u₂}numun₂ ma-ra-an-mu₂-mu₂
+c.1.4.3,Dumuzid's dream,,45,sa-gaz šubtum₆-ta ma-ra-an-zig₃-ga
+c.1.4.3,Dumuzid's dream,,46,gi dili du₃-e saŋ ma-ra-an-sag₃-ge
+c.1.4.3,Dumuzid's dream,,47,ama ugu-zu saŋ ma-ra-an-sag₃-ge
+c.1.4.3,Dumuzid's dream,,48,gi dili-dili du₃-e dili ma-ra-an-ba₉-re₆
+c.1.4.3,Dumuzid's dream,,49,ŋe₂₆-e u₃ za-e dili ma-ra-an-bad-ba₉-re₆
+c.1.4.3,Dumuzid's dream,,50,{ŋeš}tir-ra ŋiš an ni₂-bi ma-ra-an-zi-zi
+c.1.4.3,Dumuzid's dream,,51,lu₂ hul-ŋal₂-e i-zi-a im-mu-e-ni-dab₅-be₂
+c.1.4.3,Dumuzid's dream,,52,ne-mur kug-zu a mu-da-an-de₂
+c.1.4.3,Dumuzid's dream,,53,amaš e₂ sig₉-ga ba-e-de₃-ŋa₂-ŋa₂
+c.1.4.3,Dumuzid's dream,,54,{dug}šakir₃ kug-zu TUN₃-bi ma-ra-an-ba₉-re₆
+c.1.4.3,Dumuzid's dream,,55,lu₂ hul-ŋal₂-e šu-na ba-e-ni-in-ku₄-ku₄
+c.1.4.3,Dumuzid's dream,,56,an-za-am kug {ŋeš}gag-ta la₂-a {ŋeš}gag-ta ba-ra-an-si-ig
+c.1.4.3,Dumuzid's dream,,57,du₁₀-ub ama ugu-za-ta ba-ra-šub-bu-de₃
+c.1.4.3,Dumuzid's dream,,58,{ŋeš}ma-nu-zu u₂-gu mu-un-da-an-de₂
+c.1.4.3,Dumuzid's dream,,59,gal₅-la₂-e izi bi₂-ra-ra-am₃
+c.1.4.3,Dumuzid's dream,,60,{d}nin-ninna₂{mušen}-ta-e ŋa₂ udu-ka sila₄ šu ba-ni-ib-ti
+c.1.4.3,Dumuzid's dream,,61,lu₂ hul-ŋal₂-e te-zu ma-ra-an-sag₃-ge
+c.1.4.3,Dumuzid's dream,,62,sur₂-du₃{mušen}-e gi dub-ba-an-ka buru₅ šu ba-ni-ib-ti
+c.1.4.3,Dumuzid's dream,,63,gal₅-la₂ gal-e ŋa₂ udu-ta am₃-mu-e-re-ed₃-ed₃
+c.1.4.3,Dumuzid's dream,,64,{dug}šakir₃ i₃-dur₂-dur₂ ga nu-un-de₂ an-za-am i₃-dur₂-dur₂ {d}dumu-zid nu-un-til₃ amaš lil₂-la₂ am₃-du₃
+c.1.4.3,Dumuzid's dream,,65,šu-zu šu-du₃-a ba-e-dab₅ a₂-zu a₂-la₂-e ba-e-la₂
+c.1.4.3,Dumuzid's dream,,66,maš₂-ud₅-da-zu sun₄ za-gin₃-bi sahar-ra ma-ra-an-gid₂-e
+c.1.4.3,Dumuzid's dream,,67,siki-ŋu₁₀ mar-uru₅-gin₇ an-na ma-ra-ni₁₀-ni₁₀-e
+c.1.4.3,Dumuzid's dream,,68,udu-utua₂-zu a₂ gur-gur-ra-bi ki ma-ra-ab-hur-hur-re
+c.1.4.3,Dumuzid's dream,,69,šu-si-ŋu₁₀ {ŋeš}bulug taškarin-gin₇ te ma-ra-ab-hur-hur-re
+c.1.4.3,Dumuzid's dream,,70,inim-bi ka-ga₁₄-na um-ma-da-ŋa₂-ŋa₂
+c.1.4.3,Dumuzid's dream,,71,nin₉ du₆-da ed₃-bi₂ nin₉ du₆-da ed₃-bi₂
+c.1.4.3,Dumuzid's dream,,72,nin₉ du₆-da ed₃-da-zu-ne
+c.1.4.3,Dumuzid's dream,,73,du₆-da lu₂-ulu₃-gin₇ nam-ed₃-da-nam
+c.1.4.3,Dumuzid's dream,,74,šag₄-za bar-za u₃-mu-ni-hur
+c.1.4.3,Dumuzid's dream,,75,tug₂-za haš₄-za u₃-mu-ni-hur
+c.1.4.3,Dumuzid's dream,,76,nin₉ du₆-da ed₃-bi₂
+c.1.4.3,Dumuzid's dream,,77,nin₉ du₆-da ed₃-da-zu-ne
+c.1.4.3,Dumuzid's dream,,78,du₆-da igi il₂-la-ab
+c.1.4.3,Dumuzid's dream,,79,am₃-ma-an-gig lipiš bal nam-lu₂-ulu₃-ke₄-ne
+c.1.4.3,Dumuzid's dream,,80,{ŋeš}ma₂-gur₈ id₂-da
+c.1.4.3,Dumuzid's dream,,81,ŋiš šu-ka šu am₃-mi-in-du₈
+c.1.4.3,Dumuzid's dream,,82,ŋiš gu₂-ka ba-an-pad₃ bur₂-bur₂-bi lu₂ nu-zu
+c.1.4.3,Dumuzid's dream,,83,ama-{d}ŋeštin-an-na-ke₄ du₆-da ba-an-ed₃ igi ba-an-il₂
+c.1.4.3,Dumuzid's dream,,84,{d}ŋeštin-an-na-ke₄ gu₂ um-ma-da-gid₂
+c.1.4.3,Dumuzid's dream,,85,ma-la-ga-ni {d}ŋeštin-du₃-du₃-e ad
+c.1.4.3,Dumuzid's dream,,86,gu₂ keše₂-da gal-gal mu-un-ši-re₇-eš mu-un-ši-re₇-eš
+c.1.4.3,Dumuzid's dream,,87,ad ŋar-ra ma-la-ŋu₁₀ mu-ši-re₇-eš
+c.1.4.3,Dumuzid's dream,,88,gu₂ keše₂-da ŋe₂₆-e mu-ni-in-pad₃-de₃
+c.1.4.3,Dumuzid's dream,,89,šeš-ŋu₁₀ gal₅-la₂-zu im-ši-re₇-eš saŋ u₂-a šub-u₃
+c.1.4.3,Dumuzid's dream,,90,{d}dumu-zid gal₅-la₂-zu im-ši-re₇-eš saŋ u₂-a šub-u₃
+c.1.4.3,Dumuzid's dream,,91,nin₉-ŋu₁₀ saŋ u₂-a ga-an-šub ki-ŋu₁₀ na-ab-pad₃-de₃
+c.1.4.3,Dumuzid's dream,,92,saŋ u₂ di₄-di₄-la₂ ga-an-šub ki-ŋu₁₀ na-ab-pad₃-de₃
+c.1.4.3,Dumuzid's dream,,93,saŋ u₂ gal-gal-la ga-an-šub ki-ŋu₁₀ na-ab-pad₃-de₃
+c.1.4.3,Dumuzid's dream,,94,eg₂ a-ra-li-ka ga-an-šub ki-ŋu₁₀ na-ab-pad₃-de₃
+c.1.4.3,Dumuzid's dream,,95,ud ki-zu ab-pad₃-de₃-en-na-a ur-zu hu-mu-gu₇-e
+c.1.4.3,Dumuzid's dream,,96,ur gig₂ ur nam-sipad-da-zu
+c.1.4.3,Dumuzid's dream,,97,ur gir₁₅ ur nam-en-na-zu ur-zu hu-mu-gu₇-e
+c.1.4.3,Dumuzid's dream,,98,ŋeštug₂ mu-un-de₅-ge na-ba gu₅-li-zu de₅-ga
+c.1.4.3,Dumuzid's dream,,99,a šeš-ŋu₁₀ gu₅-li dub₃-sa
+c.1.4.3,Dumuzid's dream,,100,na-an-tuku-nam
+c.1.4.3,Dumuzid's dream,,101,mi-ni-in-kiŋ₂-kiŋ₂-a-ta
+c.1.4.3,Dumuzid's dream,,102,inim u₃-mu-ra-ab-dug₄
+c.1.4.3,Dumuzid's dream,,103,gu₅-li-ŋu₁₀ saŋ u₂-a ga-an-šub ki-ŋu₁₀ na-ab-pad₃-de₃
+c.1.4.3,Dumuzid's dream,,104,saŋ u₂ di₄-di₄-la₂ ga-an-šub ki-ŋu₁₀ na-ab-pad₃-de₃
+c.1.4.3,Dumuzid's dream,,105,saŋ u₂ gal-gal-la ga-an-šub ki-ŋu₁₀ na-ab-pad₃-de₃
+c.1.4.3,Dumuzid's dream,,106,eg₂ a-ra-li ga-an-šub ki-ŋu₁₀ na-ab-pad₃-de₃
+c.1.4.3,Dumuzid's dream,,107,ud ki-zu ab-pad₃-de₃-en-na-a ur-zu hu-mu-gu₇-e-en
+c.1.4.3,Dumuzid's dream,,108,ur gig₂ ur nam-sipad-da-zu
+c.1.4.3,Dumuzid's dream,,109,ur gir₁₅ ur nam-en-na-zu ur-zu hu-mu-gu₇-en
+c.1.4.3,Dumuzid's dream,,110,lugal-ra lu₂ mu-ši-re₇-eš-am₃ lu₂ hi-hi-a-me-eš
+c.1.4.3,Dumuzid's dream,,111,u₂ nu-zu-me-eš a nu-zu-me-eš
+c.1.4.3,Dumuzid's dream,,112,zid₂ dub-dub-ba nu-gu₇-me-eš
+c.1.4.3,Dumuzid's dream,,113,a bal-bal-a nu-na₈-na₈-me-eš
+c.1.4.3,Dumuzid's dream,,114,kadra niŋ₂ dug₃-ga šu nu-gid₂-i-me-eš
+c.1.4.3,Dumuzid's dream,,115,ur₂ dam niŋ₂ dug₃-ge-eš₂ nu-sig₉-ge-me-eš
+c.1.4.3,Dumuzid's dream,,116,dumu niŋ₂ ku₇-ku₇-da ne nu-su-ub-ba-me-eš
+c.1.4.3,Dumuzid's dream,,117,šum₂{sar} niŋ₂ sis-am₃ zu₂ nu-gub-bu-me-eš
+c.1.4.3,Dumuzid's dream,,118,lu₂ ku₆ nu-gu₇-me-eš lu₂ ga-raš{sar} nu-gu₇-me-eš
+c.1.4.3,Dumuzid's dream,,119,lugal-ra dumu adab{ki}-a ₂-am₃ mu-un-ši-re₇-eš
+c.1.4.3,Dumuzid's dream,,120,{ŋeš}kiši₁₆ a šu-ru-ug-ga {ŋeš}dala₂ a hab₂-ba
+c.1.4.3,Dumuzid's dream,,121,šu-ni {ŋeš}banšur-ra eme-ni e₂-gal-la
+c.1.4.3,Dumuzid's dream,,122,lugal-ra dumu akšak{ki} ₂-am₃ mu-un-ši-re₇-eš
+c.1.4.3,Dumuzid's dream,,123,nim-AH.ME-da gu₂-ba la₂-a
+c.1.4.3,Dumuzid's dream,,124,lugal-ra dumu unug{ki}-ga ₂-am₃ mu-un-ši-re₇-eš
+c.1.4.3,Dumuzid's dream,,125,{ŋeš}tukul saŋ kud-a ur₂-ra la₂-a
+c.1.4.3,Dumuzid's dream,,126,lugal-ra dumu urim₂{ki}-ma ₂-am₃ mu-un-ši-re₇-eš
+c.1.4.3,Dumuzid's dream,,127,tug₂ šen-na kar-ra ŋal₂-la
+c.1.4.3,Dumuzid's dream,,128,lugal-ra dumu nibru{ki} ₂-am₃ mu-un-ši-re₇-eš
+c.1.4.3,Dumuzid's dream,,129,lu₂ lu₂-ra im₂-ma-ni-ib amaš {e₂}tur₃-še₃ mu-un-ši-re₇-eš
+c.1.4.3,Dumuzid's dream,,130,{d}ŋeštin-an-na-ke₄ amaš tur₃-še₃ mu-ni-in-dab₅-be₂-ne
+c.1.4.3,Dumuzid's dream,,131,id₂ a-ba mu-un-na-ba-e-ne šu nu-um-ma-gid₂-de₃
+c.1.4.3,Dumuzid's dream,,132,a-šag₄ še-ba mu-un-na-ba-e-ne šu nu-um-ma-gid₂-de₃
+c.1.4.3,Dumuzid's dream,,133,gal₅-la₂ tur-re gal₅-la₂ gu-la-ra gu₃ mu-un-na-de₂-e
+c.1.4.3,Dumuzid's dream,,134,gal₅-la₂ kug-zu gal₅-la₂ til₃-la
+c.1.4.3,Dumuzid's dream,,135,gal₅-la₂ gal-bi murub₄-bi til₃-la
+c.1.4.3,Dumuzid's dream,,136,kug-zu ba-an-da-ha-lam-ma-gin₇
+c.1.4.3,Dumuzid's dream,,137,ba-an-gib-ba-gin₇
+c.1.4.3,Dumuzid's dream,,138,nin₉ ki šeš am₃-mu-un-pad₃-de₃-a
+c.1.4.3,Dumuzid's dream,,139,ud ul-la₂-ta a-ba-a igi mi-ni-in-du₈-a
+c.1.4.3,Dumuzid's dream,,140,ŋa₂-nam-ma-an-ze₂-en gu₅-li-ni-ir ga-an-ši-re₇-en-de₃-en
+c.1.4.3,Dumuzid's dream,,141,ud ne gu₅-li-ni-ir
+c.1.4.3,Dumuzid's dream,,142,id₂ a-ba mu-un-na-ba-e-ne šu am₃-ma-gid₂-de₃
+c.1.4.3,Dumuzid's dream,,143,a-šag₄ še-ba mu-un-na-ba-e-ne šu am₃-ma-gid₂-de₃
+c.1.4.3,Dumuzid's dream,,144,gu₅-li-ŋu₁₀ saŋ u₂-a he₂-en-šub ki-ni ba-ra-zu
+c.1.4.3,Dumuzid's dream,,144A,{d}dumu-zid-de₃ saŋ u₂-a he₂-en-šub ki-ni ba-ra-zu
+c.1.4.3,Dumuzid's dream,,145,{d}dumu-zid-de₃ saŋ u₂-a mu-ni-in-kiŋ₂-kiŋ₂-ne nu-mu-un-pad₃-de₃
+c.1.4.3,Dumuzid's dream,,146,saŋ u₂ di₄-di₄-la₂ he₂-en-šub ki-ni ba-ra-zu
+c.1.4.3,Dumuzid's dream,,147,{d}dumu-zid-de₃ saŋ u₂ di₄-di₄-la₂ mu-ni-in-kiŋ₂-kiŋ₂-ne nu-mu-un-pad₃-de₃
+c.1.4.3,Dumuzid's dream,,148,saŋ u₂ gal-gal-la he₂-en-šub ki-ni ba-ra-zu
+c.1.4.3,Dumuzid's dream,,149,{d}dumu-zid-de₃ saŋ u₂ gal-gal-la mu-ni-in-kiŋ₂-kiŋ₂-ne nu-mu-un-pad₃-de₃
+c.1.4.3,Dumuzid's dream,,150,eg₂ a-ra-li-ka he₂-en-šub ki-ni ba-ra-zu
+c.1.4.3,Dumuzid's dream,,151,{d}dumu-zid-de₃ eg₂ a-ra-li-ka mu-ni-in-dab₅-be₂-ne
+c.1.4.3,Dumuzid's dream,,152,{d}dumu-zid-de₃ er₂ im-ma-an-pad₃ šeₓ-šeₓ i₃-ŋa₂-ŋa₂
+c.1.4.3,Dumuzid's dream,,153,iri-a nin₉-ŋu₁₀ mu-un-til₃-le-en gu₅-li-ŋu₁₀ mu-un-ug₅-ge-en
+c.1.4.3,Dumuzid's dream,,154,dumu nin₉-e sila-a he₂-en-gub lu₂ ne he₂-su-ub-be₂
+c.1.4.3,Dumuzid's dream,,155,dumu gu₅-li sila-a he₂-en-gub lu₂ ne na-an-su-ub-be₂
+c.1.4.3,Dumuzid's dream,,156,lu₂ ba-an-niŋin₂-niŋin₂-ne-eš a-niŋin₂ ba-ni-in-du₈-uš
+c.1.4.3,Dumuzid's dream,,157,gu mu-un-na-sur-ru-ne sa mu-un-na-keše₂-da-ne
+c.1.4.3,Dumuzid's dream,,158,gu zi-ip-pa-tum mu-un-na-sur-ru-ne
+c.1.4.3,Dumuzid's dream,,159,{ŋeš}ma-nu mu-un-na-hur-ru-ne
+c.1.4.3,Dumuzid's dream,,160,lu₂ igi-na-ke₄ niŋ₂ mu-un-ra-ra
+c.1.4.3,Dumuzid's dream,,161,lu₂ murgu-na-ke₄ ₁ kuš₃-gin₇ mu-un-bur₂-re
+c.1.4.3,Dumuzid's dream,,162,šu-ni šu-du₃-a ba-e-dab₅-be₂
+c.1.4.3,Dumuzid's dream,,163,a₂-ni a₂-la₂-a ba-e-la₂-e
+c.1.4.3,Dumuzid's dream,,164,ŋuruš-e {d}utu-ra an-še₃ šu-ni ba-ni-in-zig₃
+c.1.4.3,Dumuzid's dream,,165,{d}utu murum₅-ŋu₁₀-me-en ŋe₂₆-e mussa-zu-me-en
+c.1.4.3,Dumuzid's dream,,166,e₂-an-na-še₃ u₂ gur₃-ru-me-en
+c.1.4.3,Dumuzid's dream,,167,unug{ki}-še₃ niŋ₂-mussa ak-a-me-en
+c.1.4.3,Dumuzid's dream,,168,nundum kug-ge ne su-ub-ba-me-en
+c.1.4.3,Dumuzid's dream,,169,dub₃ kug-ga dub₃ {d}inana-ka e-ne di dug₄-ga-me-en
+c.1.4.3,Dumuzid's dream,,170,šu-ŋu₁₀ šu maš-da₃ u₃-mu-e-ni-sig₁₀
+c.1.4.3,Dumuzid's dream,,171,ŋiri₃-ŋu₁₀ ŋiri₃ maš-da₃ u₃-mu-e-ni-sig₁₀
+c.1.4.3,Dumuzid's dream,,172,gal₅-la₂-gal₅-la₂-ŋu₁₀ ga-ba-da-an-ze₂-er
+c.1.4.3,Dumuzid's dream,,173,KU-{ŋeš}bir₅-re-eš-dil-da-re-eš zi-ŋu₁₀ ga-ba-ši-de₆
+c.1.4.3,Dumuzid's dream,,174,{d}utu er₂-na kadra-gin₇ šu ba-ši-in-ti
+c.1.4.3,Dumuzid's dream,,175,lu₂ arhuš-a-gin₇ arhuš ba-ni-in-ak
+c.1.4.3,Dumuzid's dream,,176,šu-ni šu maš-da₃ u₃-mu-ni-in-sig₁₀
+c.1.4.3,Dumuzid's dream,,177,ŋiri₃-ni ŋiri₃ maš-da₃ u₃-mu-ni-in-sig₁₀
+c.1.4.3,Dumuzid's dream,,178,gal₅-la₂-gal₅-la₂-e-ne ba-da-an-ze₂-er
+c.1.4.3,Dumuzid's dream,,179,KU-{ŋeš}bir₅-re-eš-dil-da-re-eš zi-ni ba-ši-in-de₆
+c.1.4.3,Dumuzid's dream,,180,gal₅-la₂-ne-ne mu-ni-in-kiŋ₂-kiŋ₂-ne nu-mu-un-pad₃-de₃
+c.1.4.3,Dumuzid's dream,,181,ŋa₂-nam-ma-an-ze₂-en KU-{ŋeš}bir₅-re-eš ga-an-ši-re₇-de₃-en
+c.1.4.3,Dumuzid's dream,,181A,sa-par₃-gin₇
+c.1.4.3,Dumuzid's dream,,182,{d}dumu-zid KU-{ŋeš}bir₅-re-eš mu-ni-in-dab₅-be₂-ne
+c.1.4.3,Dumuzid's dream,,183,lu₂ ba-an-niŋin₂-niŋin₂-ne-eš a-niŋin₂ ba-ni-in-du₈-uš
+c.1.4.3,Dumuzid's dream,,184,gu mu-un-na-sur-ru-ne sa mu-un-na-keše₂-da-ne
+c.1.4.3,Dumuzid's dream,,185,gu zi-ip-pa-tum mu-un-na-sur-ru-ne
+c.1.4.3,Dumuzid's dream,,186,{ŋeš}ma-nu mu-un-na-hur-ru-ne
+c.1.4.3,Dumuzid's dream,,187,lu₂ igi-na-ke₄ niŋ₂ mu-un-ra-ra
+c.1.4.3,Dumuzid's dream,,188,lu₂ murgu-na-ke₄ ₁ kuš₃-gin₇ mu-un-bur₂-re
+c.1.4.3,Dumuzid's dream,,189,šu-ni šu-du₃-a ba-e-dab₅-be₂
+c.1.4.3,Dumuzid's dream,,190,a₂-ni a₂-la₂-a ba-e-la₂-e
+c.1.4.3,Dumuzid's dream,,191,ŋuruš-e {d}utu-ra an-še₃ šu-ni ba-ni-in-zig₃
+c.1.4.3,Dumuzid's dream,,192,{d}utu murum₅-ŋu₁₀-me-en ŋe₂₆-e mussa-zu-me-en
+c.1.4.3,Dumuzid's dream,,193,e₂-an-na-še₃ u₂ gur₃-ru-me-en
+c.1.4.3,Dumuzid's dream,,194,unug{ki}-še₃ niŋ₂-mussa ak-a-me-en
+c.1.4.3,Dumuzid's dream,,195,nundum kug-ge ne su-ub-ba-me-en
+c.1.4.3,Dumuzid's dream,,196,dub₃ kug-ge dub₃ {d}inana-ke₄ e-ne di dug₄-ga-me-en
+c.1.4.3,Dumuzid's dream,,197,šu-ŋu₁₀ šu maš-da₃ u₃-mu-e-ni-sig₁₀
+c.1.4.3,Dumuzid's dream,,198,ŋiri₃-ŋu₁₀ ŋiri₃ maš-da₃ u₃-mu-e-ni-sig₁₀
+c.1.4.3,Dumuzid's dream,,199,e₂ um-ma {d}be-li-li zi-ŋu₁₀ ga-ba-ši-in-de₆
+c.1.4.3,Dumuzid's dream,,200,{d}utu er₂-na šu ba-ši-in-ti
+c.1.4.3,Dumuzid's dream,,201,šu-ni šu maš-da₃ u₃-mu-ni-in-sig₁₀
+c.1.4.3,Dumuzid's dream,,202,ŋiri₃-ni ŋiri₃ maš-da₃ u₃-mu-ni-in-sig₁₀
+c.1.4.3,Dumuzid's dream,,203,gal₅-la₂-gal₅-la₂-e-ne im-ma-da-an-ze₂-er
+c.1.4.3,Dumuzid's dream,,204,e₂ um-ma {d}be-li-li zi-ni ba-ši-in-de₆
+c.1.4.3,Dumuzid's dream,,205,e₂ um-ma {d}be-li-li-še₃ ba-an-na-te
+c.1.4.3,Dumuzid's dream,,206,um-ma lu₂ nu-me-en dam diŋir-ra-me-en
+c.1.4.3,Dumuzid's dream,,207,a ub-ta-an-bal-bal a tukum-bi ga-naŋ
+c.1.4.3,Dumuzid's dream,,208,zid₂ ub-ta-an-dub-dub zid₂ tukum-bi ga-gu₇
+c.1.4.3,Dumuzid's dream,,209,a ub-ta-an-bal zid₂ ub-ta-an-dub šag₄-bi-a ba-an-tuš
+c.1.4.3,Dumuzid's dream,,210,um-ma e₂-ta ba-ra-e₃
+c.1.4.3,Dumuzid's dream,,211,um-ma e₂-ta ed₂-da-ni
+c.1.4.3,Dumuzid's dream,,212,gal₅-la₂-e-ne igi ba-ni-in-du₈-uš-am₃
+c.1.4.3,Dumuzid's dream,,213,tukum-bi ud-da um-ma ki {d}dumu-zid til₃-la nu-ub-zu
+c.1.4.3,Dumuzid's dream,,214,igi ni₂ te-a na-bar-bar-re
+c.1.4.3,Dumuzid's dream,,215,gu₃ ni₂ te-a na-de₂-de₂-e
+c.1.4.3,Dumuzid's dream,,216,ŋa₂-nam-ma-an-ze₂-en e₂ um-ma {d}be-li-li-še₃ ga-an-ši-re₇-de₃-en
+c.1.4.3,Dumuzid's dream,,217,{d}dumu-zid-de₃ e₂ um-ma {d}be-li-li-še₃ mu-un-dab₅-be₂-ne
+c.1.4.3,Dumuzid's dream,,218,lu₂ ba-an-niŋin₂-niŋin₂-ne-eš a-niŋin₂ ba-ni-in-du₈-uš
+c.1.4.3,Dumuzid's dream,,219,gu mu-na-ab-sur-ru-ne sa mu-un-na-keše₂-da-ne
+c.1.4.3,Dumuzid's dream,,220,gu zi-ip-pa-tum mu-un-na-sur-ru-ne
+c.1.4.3,Dumuzid's dream,,221,{ŋeš}ma-nu mu-na-an-hur-ru-ne
+c.1.4.3,Dumuzid's dream,,222,lu₂ igi-na-ke₄ niŋ₂ mu-un-ra-ra
+c.1.4.3,Dumuzid's dream,,223,lu₂ murgu-na-ke₄ ₁ kuš₃-gin₇ mu-un-bur₂-re
+c.1.4.3,Dumuzid's dream,,224,šu-ni šu-du₃-a ba-e-dab₅-be₂
+c.1.4.3,Dumuzid's dream,,225,a₂-ni a₂-la₂-a ba-e-la₂-e
+c.1.4.3,Dumuzid's dream,,226,ŋuruš-e {d}utu-ra an-še₃ šu-ni ba-ni-in-zig₃
+c.1.4.3,Dumuzid's dream,,227,{d}utu murum₅-ŋu₁₀-me-en ŋe₂₆-e mussa-zu-me-en
+c.1.4.3,Dumuzid's dream,,228,e₂-an-na-še₃ u₂ gur₃-ru-me-en
+c.1.4.3,Dumuzid's dream,,229,unug{ki}-še₃ niŋ₂-mussa ak-me-en
+c.1.4.3,Dumuzid's dream,,230,nundum kug-ge ne su-ub-ba-me-en
+c.1.4.3,Dumuzid's dream,,231,dub₃ kug-ge dub₃ {d}inana-ke₄ e-ne di dug₄-ga-me-en
+c.1.4.3,Dumuzid's dream,,232,šu-ni šu maš-da₃ u₃-mu-ni-in-sig₁₀
+c.1.4.3,Dumuzid's dream,,233,ŋiri₃-ni ŋiri₃ maš-da₃ u₃-mu-ni-in-sig₁₀
+c.1.4.3,Dumuzid's dream,,234,amaš kug amaš nin₉-ŋa₂-še₃ zi-ŋu₁₀ ga-ba-ši-in-de₆
+c.1.4.3,Dumuzid's dream,,235,{d}utu er₂-na šu ba-ši-ni-in-ti
+c.1.4.3,Dumuzid's dream,,236,šu-ni šu maš-da₃ u₃-mu-ni-in-sig₁₀
+c.1.4.3,Dumuzid's dream,,237,ŋiri₃-ni ŋiri₃ maš-da₃ u₃-mu-ni-in-sig₁₀
+c.1.4.3,Dumuzid's dream,,238,amaš kug amaš nin₉-na-še₃ zi-ni ba-ši-in-tum₃
+c.1.4.3,Dumuzid's dream,,239,amaš kug amaš nin₉-na-še₃ ba-an-na-te
+c.1.4.3,Dumuzid's dream,,240,{d}ŋeštin-an-na-ke₄ gu₃ an-še₃ ba-te gu₃ ki-še₃ ba-te
+c.1.4.3,Dumuzid's dream,,241,gu₃ šu niŋin₂-bi an-ur₂-ra tug₂-gin₇ i-im-dul gada-gin₇ i-im-bur₂
+c.1.4.3,Dumuzid's dream,,242,igi mu-un-na-hur giri₁₇ mu-un-na-hur
+c.1.4.3,Dumuzid's dream,,243,ŋeštug₂ ki u₆ di mu-un-na-hur
+c.1.4.3,Dumuzid's dream,,244,ki lu₂-da nu-di haš₄-gal mu-un-na-hur
+c.1.4.3,Dumuzid's dream,,245,šeš-ŋu₁₀ sila-a ga-X-niŋin₂-niŋin₂ ŋe₂₆-e
+c.1.4.3,Dumuzid's dream,,246,tukum-bi {d}ŋeštin-an-na-ke₄ ki {d}dumu-zid til₃-la nu-ub-zu
+c.1.4.3,Dumuzid's dream,,247,igi ni₂ te-a na-bar-bar-re
+c.1.4.3,Dumuzid's dream,,248,gu₃ ni₂ te-a na-de₂-de₂-e
+c.1.4.3,Dumuzid's dream,,249,ŋa₂-nam-ma-an-ze₂-en amaš tur₃-še₃ ga-ba-ši-ŋen
+c.1.4.3,Dumuzid's dream,,250,gal₅-la₂ ₁ amaš tur₃-še₃ kur₉-ra-ni
+c.1.4.3,Dumuzid's dream,,251,{ŋeš}gag-ga-ra izi ba-ni-in-ra
+c.1.4.3,Dumuzid's dream,,252,₂-kam-ma amaš tur₃-še₃ kur₉-ra-ni
+c.1.4.3,Dumuzid's dream,,253,{ŋeš}ma-nu izi ba-ni-ra
+c.1.4.3,Dumuzid's dream,,254,₃-kam-ma amaš tur₃-še₃ kur₉-ra-ni
+c.1.4.3,Dumuzid's dream,,255,{dug}šakir₃ kug-ga-a TUN₃-bi ba-ra-ba₉-re₆
+c.1.4.3,Dumuzid's dream,,256,₄-kam-ma amaš tur₃-še₃ kur₉-ra-ni
+c.1.4.3,Dumuzid's dream,,257,an-za-am {ŋeš}gag-ta la₂-a {ŋeš}gag-ta ba-ra-ab-si-ig
+c.1.4.3,Dumuzid's dream,,258,₅-kam-ma amaš tur₃ kur₉-ra-ni
+c.1.4.3,Dumuzid's dream,,259,{dug}šakir₃ i₃-dur₂-dur₂ ga nu-un-de₂
+c.1.4.3,Dumuzid's dream,,260,an-za-am i₃-dur₂-dur₂ {d}dumu-zid nu-un-til₃ amaš lil₂-la₂ al-du₃
+c.1.4.3,Dumuzid's dream,,261,{d}dumu-zid ug₅-ga šir₃-kal-kal-am₃

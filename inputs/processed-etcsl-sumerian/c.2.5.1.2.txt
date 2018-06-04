@@ -1,0 +1,76 @@
+id_text,text_name,version,l_no,text
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,A1,
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,A2,X-ku₄-ku₄-de₃
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,A3,a₂ zid-da a₂ gab₂-bu-bi piriŋ im-da-nu₂
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,A4,X-ib₂-dug₄ inim {d}en-lil₂-la₂-ta
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,A5,iri{ki} du₆-du₆-da šid-e-de₃
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,A6,nam im-ma-ni-in-tar
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,A7,bal {d}en-lil₂ a₂-tah-bi-im
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,A8,ki-ru-gu₂ ₁-kam
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,A9,{d}en-lil₂-le
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,A10,mu-na-an-e₃
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,B1,
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,B2,X{ki} mu-na-an-šum₂ a₂-ni nu-ŋa₂-ŋa₂
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,B3,ul nam-nun-na-e sig-ga ba-ši-in-DU
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,B4,muš-gin₇ uš₇ ze₂ guru₅-a-ni erim₂-ma im-mi-in-te
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,B5,ki-en-gi-ra-ka šu mi-ni-ib-ur₃-ur₃-re
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,B6,X{ki} larsam{ki}-ma edin urim₂{ki}-ka
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,B7,mah mi-ni-in-BAD a₂-ni la-ba-ra-e₃
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,B8,gu₂-erim₂-ŋal₂-le ka tar-ra-bi igi-ni bal
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,B9,{d}iš-bi-er₃-ra
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,B10,zag bi₂-in-gi₄
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,B11,ba-an-šub šu suh₃ ha-ba-ab-dug₄
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,B12,im-da-an-zig₃ sag₃-ge nu-ŋa₂-ŋa₂
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,B13,im-ma-ni-in-kur₂
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,B14,
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,B15,
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,C1,iri-da
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,C2,dug₄-ga mar-ha-ši{ki}
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,C3,ma-da-ma-da
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,C4,ba-ši-mi{ki} gaba a-ab-ba zag za-ab-ša-li{ki}
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,C5,a-ra-wa{ki} saŋ-kul elam{ki}-ma zag mar-ha-ši{ki}
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,C6,ki-in-da-tu lu₂ elam
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,C7,i₃-si-in{ki} bulug gal an ki
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,C8,lugal-la me₃-bi
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,C9,me₃ elam{ki}-ma ki-en-gi
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,C10,gaba a-ab-ba-ka
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,C11,ma-da hu-uh₂-nu-ri
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,C12,maš₂-anše niŋ₂-ur₂-₄-X
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,C13,lugal-e me₃-a
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,C14,ki-ru-gu₂ ₂-kam-ma-am₃
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,Cx,
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,D1,{ŋeš}gigir mah
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,D2,lugal-e i₃-si-in{ki}
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,D3,di niŋ₂-gen₆-na
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,D4,{d}iš-bi-er₃-ra
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,D5,an saŋ-ta
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,D10,{d}en-lil₂-le
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,D11,uŋ₃ X-un-ŋar arad
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,D12,buru₅{mušen}-gin₇ še im-ma-X
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,D13,pu₂-{ŋeš}kiri₆ pu₂-{ŋeš}kiri₆
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,D14,da
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,E1,
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,E2,gur-ru-de₃
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,E3,kug-sig₁₇ niŋ₂-gur₁₁ gi₁₆-sa-a-bi barag-še₃ mu-un-du₃
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,E4,zi-nu-um lu₂ šu-ta šub-ba-bi {d}en-ki maškim-bi-im
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,E5,{id₂}buranun-na {id₂}idigna {id₂}kir₁₁-sig {id₂}kiš{ki} zag-bi im-mi-in-gu₇
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,E6,edin bar-rim₄ lil₂ bu-bu-da enmen-e mi-ni-in-ug₇
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,E7,ki-in-da-tu lu₂ elam{ki}-ma-ra inim-bi ba-an-na-de₆
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,E8,an-ša₄-an{ki}-e šimaški{ki} šeg₁₁ ba-ab-gi₄ kur im-ma-an-te
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,E9,ugnim-ma-ni pu-uh₂-ru-um-bi inim mu-na-ni-ib-be₂
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,E10,ki-ru-gu₂ ₃-kam-ma-am₃
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,E11,{d}iš-bi-er₃-ra-ŋu₁₀ engar {d}en-lil₂-le
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,E12,a₂ mah mu-na-an-šum₂
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,E13,ŋiš-gi₄-ŋal₂-bi-im
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,E14,{d}en-lil₂ an nin
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,E15,{d}nin-lil₂-la₂
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,F1,X-gi₄-am₃
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,F2,im-ma-an-ŋar
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,F3,mu-un-ur₄
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,F4,ŋar
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,F5,a₂ im-mi-in-aŋ₂
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,F6,
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,F7,ki-bal-še₃
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,F8,nu-mu-un-ŋal₂-la
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,F9,šimaški{ki}
+c.2.5.1.2,Išbi-Erra and Kindattu (Išbi-Erra B),,F10,mu-un-dug₄

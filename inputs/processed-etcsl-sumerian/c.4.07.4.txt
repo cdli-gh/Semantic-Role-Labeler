@@ -1,0 +1,196 @@
+id_text,text_name,version,l_no,text
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,1,ud gal piriŋ an-na inim he₂-a dug₄-dug₄
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,2,{d}inana ud gal piriŋ an-na inim he₂-a dug₄-dug₄
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,3,{d}nin-e₂-gal-la an ud zal-le-da-ke₄ izi su₃-ud-bi il₂-la
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,4,an-u₂-sa₁₁-an-na dalla e₃-a-na
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,5,sipad-de₃ maš₂-anše ki-en-gi₄-ra ša-mu-ra-ab-dug₄
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,6,an-zib₂-ba zag hi-li an-na
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,7,kur-kur-re {d}utu e₃-a-gin₇ e₂ mu-e-ši-ŋa₂-ŋa₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,8,ŋiš-nu₁₁ kalam-ma-ke₄ gi-izi-la₂ ša-mu-ra-ŋal₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,9,{d}inana nin me šar₂-ra-me-en diŋir nu-mu-e-da-sa₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,10,{d}nin-e₂-gal-la ki-ur₃-zu mu-ŋal₂ nam-mah-za ga-am₃-dug₄
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,11,kalam-ma saŋ il₂-la-a-ba
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,12,til₃-la-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,13,ki-sikil-e ur-saŋ
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,14,mu-ra-da-an-tab
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,15,uŋ₃ lu-a mu-ra-an-DU
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,16,a-ba-ab-zi-zi-i
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,17,maš₂ a-ba-ŋa₂-ŋa₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,18,e₂-gal-edin-na ki ni₂ dub₂-bu-za šu si ma-ra-ni-in-sa₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,19,munus zid ni₂ pa e₃-a kalam-ma-me-en
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,20,{d}inana nin me šar₂-ra-me-en diŋir nu-mu-e-da-sa₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,21,{d}nin-e₂-gal-la ki-ur₃-zu mu-ŋal₂ nam-mah-za ga-am₃-dug₄
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,22,ŋi₆-ta en-nu-uŋ₃ zal-la-ba
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,23,sipad-gin₇ u₂-ta zig₃-ga-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,24,ur-saŋ-gin₇ {ŋeš}tukul a-ma-ra-da-tab
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,25,tug₂-gum-ma a₂-za i-ib₂-du₃
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,26,uzu nu-kuš₂-u₃-za zag mi-ni-keše₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,27,an-da iri-a dalla mi-ni-in-e₃
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,28,{d}inana ki-ta barag kug-ga su zig₃ du₈-du₈-a-me-en
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,29,ur ₇-na ŋiri₃-zu bi₂-in-gub
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,30,piriŋ nemurₓ-ra dur₂-zu bi₂-in-ŋar
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,31,gud udu kurum₇-ma mu-ra-an-DU
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,32,{d}lu₂-lal₃-e ŋiri₃-a mu-ra-an-DU
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,33,šita₂ sa nu-la₂-e me₃-a mu-e-da-ab-gur₃-ru
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,34,lu₂-ur₃-ra zag-ba mu-e-ši-re₇-re₇-eš
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,35,zag ur-ra-ka mu-e-ri-la₂-eš
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,36,gu₂-en-na-id₂-da šukur₂-še₃ mu-ra-an-dab₅-be₂-eš
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,37,{d}inana nin me šar₂-ra-me-en diŋir nu-mu-e-da-sa₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,38,{d}nin-e₂-gal-la ki-ur₃-zu mu-ŋal₂ nam-mah-za ga-am₃-dug₄
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,39,ur udu ma-ra-ab-te
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,40,ur usu-tuku am šu-bi-še₃
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,41,dub₃-tuku a-šag₄
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,42,ki peš-a saŋ-ki šu₂-a
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,43,ur-mah ur-saŋ
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,44,kur saŋ-ki-za ba-e-de₃-gid₂-da
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,45,{d}inana an-na nim ŋir₂-me-en ki-a kušum tag-ga-me-en
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,46,še-er-tab eš₃ ib-gal-zu-a
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,47,ŋarza-zu me an-na-gin₇ si u₃-mu-ni-sa₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,48,ŋarza₂-zu me {d}en-ki-ka₃-gin₇ ŋiš-hur u₃-mu-e-ni-hur
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,49,ni₂-zu an-na u₃-mu-e-ni-us₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,50,ki-sa₂-a kan₄ igi ₄-za
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,51,barag KA.AN.NI.SI-zu dur₂-zu bi₂-ŋar
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,52,{d}inana a-a-zu {d}suen-gin₇ an-šag₄-ge am₃-ŋen
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,53,{d}nin-e₂-gal-la eš₃ ib-gal-zu-a iti₆-gin₇ ša-mu-e₃
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,54,ŋarza-zu ŋiri₃ ba-ŋa₂-ŋa₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,55,da-ga-na-ke₄ ša-ba-ab-hal-ha-an
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,56,{d}inana nin me šar₂-ra-me-en diŋir nu-mu-e-da-sa₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,57,{d}nin-e₂-gal-la ki-ur₃-zu mu-ŋal₂ nam-mah-za ga-am₃-dug₄
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,58,ŋiš-ab-ba {ŋeš}kiši₁₇ gal hul mu₂-a gir₅-gir₅-e-da-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,59,gu₂-saŋ kur-ra zukum-ma-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,60,ur-da a šub₆ naŋ-ŋa₂-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,61,anše-kur-da ki-nu₂ ak-a-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,62,lil₂-e sag₃-ga-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,63,{d}inana bar-šeŋ₃ ud gid₂-da tag-tag-ge-da-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,64,e₂-kug-nun-na uru₂-ze₂-eb{ki}-ba-za
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,65,barag nam tar-re-da dur₂-zu bi₂-ŋar
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,66,zag-mu ezen {d}dumu-zid-da-ke₄
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,67,nitalam-zu {d}ama-ušumgal-an-na
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,68,en {d}dumu-zid ša-mu-e-ri-DU
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,69,{d}inana šu nu-gi₄-a er₂-ra nesaŋ ša-mu-ra-ab-tum₃
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,70,a-pap kur-ra-ke₄ ŋal₂ ša-mu-ra-ab-taka₄-X
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,71,a mu pad₃-da ša-mu-ri-dub
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,72,en lu₂-mah nin-diŋir-bi
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,73,lu₂ zid amalu ug₅-ga-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,74,u₂ šu bar-ra ma-ra-gu₇-u₃-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,75,a šu bar-ra ma-ra-na₈-na₈-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,76,zag-ba barag kug-zu ši-im-ri
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,77,{d}inana nin me šar₂-ra-me-en diŋir nu-mu-e-da-sa₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,78,{d}nin-e₂-gal-la ki-ur₃-zu mu-ŋal₂ nam-mah-za ga-am₃-dug₄
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,79,{d}inana an-da {d}en-lil₂-da di ku₅-ru-da-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,80,{d}nin-e₂-gal-la ki-ta {d}en-ki-da nam tar-ra-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,81,sag₃-sag₃-ga-zu-ne lil₂-e NA-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,82,ub-ta e₃-a-zu-ne da-ta e₃-a-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,83,ki-šar₂-ra igi bar-ra-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,84,{d}inana mar-uru₅ kuš₇-za su₃-su₃-da-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,85,en gal
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,86,igi-du₈-a saŋ-ki gul ma-ra-ab-ak-e
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,87,barag ŋiš-la₂-ba-za dur₂-zu bi₂-ŋar
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,88,ŋuruš {ŋeš}rab₃ ŋar-ra šu-si
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,89,ama lu₂ tur₅-ra-ke₄ dumu ur₂-ra mu-ra-ni-in-tum₂-mu
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,90,ama lu₂ sag₃ dug₄-ga-ke₄ unu₂ gal-za a im-ma-ab-zi-zi
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,91,sig₉-ga i-im-kud-de₃-en
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,92,sig₉-ga i-im-bar-re-en
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,93,{d}inana nin me šar₂-ra-me-en diŋir nu-mu-e-da-sa₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,94,{d}nin-e₂-gal-la ki-ur₃-zu mu-ŋal₂ nam-mah-za ga-am₃-dug₄
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,95,giri₁₇-dab-da nam-sipad al-ak-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,96,unud-ta ab₂-ba saman₂ šub-ba-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,97,i₃ hi-a-zu-ne ga luh-ha-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,98,ur₂ nitalam-za {d}dumu-zid-da-ke₄ ul gur₃-ru-a-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,99,ur₂ nitalam-za {d}dumu-zid-da-ke₄ hi-li-hi-li-a-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,100,kur-ra-igi-ŋal₂ ki di ku₅-ru-za
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,101,barag mah unu₂ gal-e dur₂ ŋar-ra-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,102,uz-ga kug-ga ša-mu-ra-sug₂-ge-eš
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,103,nu-mu-e-sig₁₀-ge-en ŋiš ma-ra-e-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,104,{d}inana nu-mu-e-da-sa₂-e-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,105,kar-ke₄ eš₂-dam-ma mu-un-ed₃-de₃-en
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,106,{d}gidim ab-ba šu₂-šu₂-ka ma-ra-ni-in-ku₄-ku₄-de₃-en
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,107,{d}inana nin me šar₂-ra-me-en diŋir nu-mu-e-da-sa₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,108,{d}nin-e₂-gal-la ki-ur₃-zu mu-ŋal₂ nam-mah-za ga-am₃-dug₄
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,109,kuš₇ maš₂-anše du₈-du₈-a-ba
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,110,gud udu tur₃ amaš-e gi₄-a-ba
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,111,nin-ŋu₁₀ mu nu-tuku-gin₇ tug₂ dili im-me-mur₁₀
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,112,kar-ke₄ gu₂-za i-im-du₃
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,113,eš₂-dam-ta lu₂ mu-dab₅-me-en
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,114,ur₂ nitalam-zu {d}dumu-zid-da-ke₄ kušum tag-tag-ge-da-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,115,{d}inana niŋir-si ₇-e ki-nu₂ mu-e-da-ak-e
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,116,{d}inana nin me šar₂-ra-me-en diŋir nu-mu-e-da-sa₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,117,{d}nin-e₂-gal-la ki-ur₃-zu mu-ŋal₂ nam-mah-za ga-am₃-dug₄
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,118,u₂-si-an mul-mu teš₂-bi-še₃ gur-ru-a-ba
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,119,{d}utu agrun-na-še₃ kur₉-ra-a-ba
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,120,{d}inana i-zi-gin₇ an-ta ni₂ gur₃-ru-a-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,121,{d}nin-e₂-gal-la ki-a sur₂-du₃{mušen}-gin₇ šeg₁₁ gi₄-a-zu-ne
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,122,KI.E.NE.DI hub₂ gub i₃-ze₂-X-Xbr-en
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,123,haš₂-gal i₃-bal-X
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,124,iti₆-ta mul-še₃ im-DU
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,125,mul-ta iti₆-še₃ im-DU
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,126,{d}inana nin me šar₂-ra-me-en diŋir nu-mu-e-da-sa₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,127,{d}nin-e₂-gal-la ki-ur₃-zu mu-ŋal₂ nam-mah-za ga-am₃-dug₄
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,128,ŋen-na-ni hi-li
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,129,ŋar-ra-zu u₃-TU-ra-aš
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,130,šu-zu an-ta
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,131,u₃-mu-ni-du₃ u₃-mu-ni-ib₂-tag-X
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,132,ku₁₀-ku₁₀-ge
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,133,a₂-šu-ŋiri₃-ni
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,134,ama-ni
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,135,
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,136,
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,138,
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,139,šu
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,140,tur mu-da-dug₃ tab
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,141,geme₂ nin-a-ni šum₂-ma
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,142,e₂-a-ni niŋ₂-gur₁₁
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,143,dumu-a-ni
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,144,{d}inana nin me šar₂-ra-me-en diŋir nu-mu-e-da-sa₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,145,{d}nin-e₂-gal-la ki-ur₃-zu mu-un-ŋal₂ nam-mah-za ga-am₃-dug₄
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,146,ŋen-na
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,147,u₃-mu-X
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,148,u₃-X
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,149,pa mu-na-an-e₃
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,150,e₂ ba-ŋar ma-ra-an-du₈-e
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,151,nu₂ dug₃-Xbr-ge-da
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,152,X-si-si-in
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,153,za-e diŋir mah-me-en
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,154,nu₂ mu-da-ak-e
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,155,ki-nu₂-bi HI-a
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,156,sila daŋal ušumgal nu₂-a-gin₇ zig₃-ga mu-ni-ib-tum₃-tum₃
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,157,ki-sikil-e e₂-mah mu-un-šub-be₂ e₂ mu-un-gul-e
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,158,ŋuruš nam-mah-zu mu-un-zu-a giri₁₇ šu ba-ab-tag-ge
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,159,{d}inana nin me šar₂-ra-me-en diŋir nu-mu-e-da-sa₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,160,{d}nin-e₂-gal ki-ur₃-zu mu-ŋal₂ nam-mah-za ga-am₃-dug₄
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,161,la₂-a-ba
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,162,
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,163,X-ŋal₂-la-ba
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,164,zig₃-ga
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,165,tum₃
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,186,
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,187,im-mi-in-tar saŋ mu-na-ni-in-rig₇
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,188,ki-gub-ba-zu
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,189,e₂-gal-edin zag-ba
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,190,{d}udug hul {d}lamma hul gaba-bi im-ta-an-ri
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,191,{d}inana nin me šar₂-ra-me-en diŋir nu-mu-e-da-sa₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,192,{d}nin-e₂-gal-la ki-ur₃-zu mu-ŋal₂ nam-mah-za ga-am₃-dug₄
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,193,ki šag₄ te KA.AN.NI.SI-zu
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,194,{d}inana ki-sikil hi-li-a-gin₇ u₆-e ša-ba-ab-gub-be₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,195,ŋal₂ ša-mu-ra-ab-taka₄
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,196,nu-gig KA.AN.NI.SI-zu unu₂ šuba ma-ra-ab-la₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,197,gal lu₂ ŋarza-ke₄
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,198,e₂-bi me₃ zig₃-ga ah₆ ku mu-un-e₃
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,199,e₂-e₂-a in-ku₄-ku₄-de₃-en
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,200,e-sir₂-e-sir₂-ra gu₂ mu-un-gid₂-gid₂-de₃-en
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,201,nin tu₅-a KA.AN.NI.SI u₃-mu-un-si šu-nir-zu u₃-mu-un-ak
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,202,ki-sikil ŠAG₄.TUR gub-ba-za hi-li ba-ni-in-tag-ge-en₆
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,203,lu₂ tur₃-ra mu-ni-in-pad₃-de₃ X-ra-an-DU
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,204,mu-ra-an-DU a-ra-zu
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,205,{d}inana nin me šar₂-ra-me-en diŋir nu-mu-e-da-sa₂
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,206,{d}nin-e₂-gal-la ki-ur₃-zu mu-ŋal₂ nam-mah-za ga-am₃-dug₄
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,207,{d}inana nin me gal-gal-la-me-en
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,208,ama-zu {d}nin-gal niŋ₂ gal-gal-la
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,209,a-a-zu {d}suen ab₂ kug gal-gal
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,210,šeš-zu šul {d}utu gal-gal
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,211,nitalam {d}ama-ušumgal-an-na
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,212,su₈-ba en {d}dumu-zid
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,213,lagar₃ ki aŋ₂-zu {d}nin-šubur
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,214,e-ri-ib ki aŋ₂-zu {d}ŋeštin-an-na
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,215,
+c.4.07.4,A hymn to Inana as Ninegala (Inana D),,216,

@@ -1,0 +1,97 @@
+id_text,text_name,version,l_no,text
+c.4.32.e,A šir-namšub to Utu (Utu E),,1,ninda ze₂-eb bi₂-in-gu₇-a kaš ze₂ bi₂-in-ga-naŋ
+c.4.32.e,A šir-namšub to Utu (Utu E),,2,e₂ mu-lu zid-de₃ kurun₂ bur-ra
+c.4.32.e,A šir-namšub to Utu (Utu E),,3,u₃-mu-un erim₆-ma kur gal {d}mu-ul-lil₂-le
+c.4.32.e,A šir-namšub to Utu (Utu E),,4,nin erim₆-ma ama gal {d}nin-lil₂-le
+c.4.32.e,A šir-namšub to Utu (Utu E),,5,šul {d}utu u₃-mu-un hur-saŋ-ŋa₂-ke₄
+c.4.32.e,A šir-namšub to Utu (Utu E),,6,{d}še₃-ri₅-da en šul me₂-ke₄
+c.4.32.e,A šir-namšub to Utu (Utu E),,7,{d}en-ki {d}nin-ki {d}en-mul {d}nin-mul-e
+c.4.32.e,A šir-namšub to Utu (Utu E),,8,ki-ru-gu₂ ₁-kam-ma
+c.4.32.e,A šir-namšub to Utu (Utu E),,9,mu-lu zid ninda-zu
+c.4.32.e,A šir-namšub to Utu (Utu E),,10,ud sud-da ga-am₃ da-ri₂-še₃
+c.4.32.e,A šir-namšub to Utu (Utu E),,11,gub-ba-am₃-da e-lum e-lum e-lum e-la-lu
+c.4.32.e,A šir-namšub to Utu (Utu E),,12,mu-lu zid-zid-da-ke₄ ninda-zu
+c.4.32.e,A šir-namšub to Utu (Utu E),,13,u₃-mu-un erim₆-ma kur gal {d}mu-ul-lil₂
+c.4.32.e,A šir-namšub to Utu (Utu E),,14,nin erim₆-ma ama gal {d}nin-lil₂
+c.4.32.e,A šir-namšub to Utu (Utu E),,15,šul {d}utu u₃-mu-un hur-saŋ-ŋa₂-ke₄
+c.4.32.e,A šir-namšub to Utu (Utu E),,16,{d}še₃-ri₅-da en šul me₂-ke₄
+c.4.32.e,A šir-namšub to Utu (Utu E),,17,ud su₃-ra₂ ga-am₃ da-ri₂-še₃
+c.4.32.e,A šir-namšub to Utu (Utu E),,18,gub-ba-am₃-da e-lum e-lum e-lum e-la-lu
+c.4.32.e,A šir-namšub to Utu (Utu E),,19,mu-lu zid zi su₃-ud-ŋal₂
+c.4.32.e,A šir-namšub to Utu (Utu E),,20,de₃-emₓ-tuku ga-am₃ da-ri₂-še₃
+c.4.32.e,A šir-namšub to Utu (Utu E),,21,mu-lu zid-zid-da-ke₄ zi su₃-ud-ŋal₂
+c.4.32.e,A šir-namšub to Utu (Utu E),,22,de₃-emₓ-tuku ga-am₃ da-ri₂-še₃
+c.4.32.e,A šir-namšub to Utu (Utu E),,23,gub-ba-am₃-da e-lum e-lum e-lum e-la-lu
+c.4.32.e,A šir-namšub to Utu (Utu E),,24,ki-ru-gu₂ ₂-kam-ma
+c.4.32.e,A šir-namšub to Utu (Utu E),,25,a-u₃-am₃-ma e₂-a u₃-li-li
+c.4.32.e,A šir-namšub to Utu (Utu E),,26,al-li-li-am₃-ma e₂-a u₃-li-li
+c.4.32.e,A šir-namšub to Utu (Utu E),,27,kaš de₂-an-na-ni kurun₂ de₂-an-na-ni
+c.4.32.e,A šir-namšub to Utu (Utu E),,28,sukkal u₃-mu-un-zu-ra kurun₂ de₂-an-na-ni
+c.4.32.e,A šir-namšub to Utu (Utu E),,29,{d}nuska {d}mu-ul-lil₂-ra kurun₂ de₂-an-na-ni
+c.4.32.e,A šir-namšub to Utu (Utu E),,30,kaš ud-de₃ i-de₂ kaš ne-em₃ ga-ra-na₈-na₈
+c.4.32.e,A šir-namšub to Utu (Utu E),,31,kurun₂ ud-de₃ i-de₂ kurun₂ ne-em₃ ga-ra-te-en-ten
+c.4.32.e,A šir-namšub to Utu (Utu E),,32,u₃-mu-un gu₇-a naŋ-a de₃-ra-tuku-am₃
+c.4.32.e,A šir-namšub to Utu (Utu E),,33,{d}mu-ul-lil₂ gu₇-a naŋ-a de₃-ra-tuku-am₃
+c.4.32.e,A šir-namšub to Utu (Utu E),,34,gu₇-a-zu-še₃ gu am₃-ši-ma-al še am₃-ši-ma-al
+c.4.32.e,A šir-namšub to Utu (Utu E),,35,naŋ-a-zu-še₃ id₂-da a-eštub{ku₆} am₃-ši-ma-al
+c.4.32.e,A šir-namšub to Utu (Utu E),,36,gu₇-a-zu-še₃ a-šag₄-ga še gu-nu am₃-ši-ma-al
+c.4.32.e,A šir-namšub to Utu (Utu E),,37,mu-lu zid ša-mu-ra-de₆-a tuku-a-a
+c.4.32.e,A šir-namšub to Utu (Utu E),,38,zid₂ mu-lu zid-zid-da ša-mu-ra-de₆-a tuku-a-a
+c.4.32.e,A šir-namšub to Utu (Utu E),,39,šu-ni giri₁₇-a ša-ri-ma-al
+c.4.32.e,A šir-namšub to Utu (Utu E),,40,gu₇-a ša-mu-ra-ab-be₂ naŋ-a ša-mu-ra-ab-be₂
+c.4.32.e,A šir-namšub to Utu (Utu E),,41,ki-ru-gu₂ ₃-kam-ma
+c.4.32.e,A šir-namšub to Utu (Utu E),,42,kaš bur-ra-gi₄-a šag₄ gu₂-bi gi₄-a
+c.4.32.e,A šir-namšub to Utu (Utu E),,43,ne-saŋ e₂-e-ka kaš bur-ra-gi₄-a
+c.4.32.e,A šir-namšub to Utu (Utu E),,44,bur gal-gal an-ne₂ sug₂-ga-še₃
+c.4.32.e,A šir-namšub to Utu (Utu E),,45,ninda šu sikil-la ze₂-eŋ₃-ŋa₂-še₃
+c.4.32.e,A šir-namšub to Utu (Utu E),,46,e₂ mu-lu zid-de₃ šu e₃-ba-še₃
+c.4.32.e,A šir-namšub to Utu (Utu E),,47,mu-lu zid-zid-da-ke₄ šu e₃-ba-še₃
+c.4.32.e,A šir-namšub to Utu (Utu E),,48,dim₃-me-er mu-lu-ke₄ šu e₃-ba-še₃
+c.4.32.e,A šir-namšub to Utu (Utu E),,49,u₃-mu-un {d}am-an-ki-ke₄ šu e₃-ba-še₃
+c.4.32.e,A šir-namšub to Utu (Utu E),,50,šag₄-bi-še₃ mu-lu zid-de₃ gu₂-bi mu-un-ši-ib₂-gi₄
+c.4.32.e,A šir-namšub to Utu (Utu E),,51,mu-lu zid-de₃ mu-lu zid-zid-da-ke₄ gu₂-bi mu-un-ši-ib₂-gi₄
+c.4.32.e,A šir-namšub to Utu (Utu E),,52,u₃-mu-un erim₆-ma kur gal {d}mu-ul-lil₂ gu₂-bi mu-un-ši-ib₂-gi₄
+c.4.32.e,A šir-namšub to Utu (Utu E),,53,nin erim₆-ma ama gal {d}nin-lil₂ gu₂-bi mu-un-ši-ib₂-gi₄
+c.4.32.e,A šir-namšub to Utu (Utu E),,54,lu₂ zid-zid-da-ke₄ kaš-zu bur-ra me-ri ki a-da-ab-KU
+c.4.32.e,A šir-namšub to Utu (Utu E),,55,zabar-bi ši su₃-ud-ma-al de₃-ra-ab-dirig-ge
+c.4.32.e,A šir-namšub to Utu (Utu E),,56,nibru{ki} du₃-du₃-a-ba X-a-ba še-eb e₂-e
+c.4.32.e,A šir-namšub to Utu (Utu E),,57,dam til₃-la e₂ dirig-ge
+c.4.32.e,A šir-namšub to Utu (Utu E),,58,a e₂-a a
+c.4.32.e,A šir-namšub to Utu (Utu E),,59,ki-ru-gu₂ ₄-kam-ma
+c.4.32.e,A šir-namšub to Utu (Utu E),,60,i-bi₂ bar-mu-ši-ib i-bi₂ bar-mu-ši-ib
+c.4.32.e,A šir-namšub to Utu (Utu E),,61,{d}utu i-bi₂ bar-mu-ši-ib i-bi₂ bar-mu-ši-ib
+c.4.32.e,A šir-namšub to Utu (Utu E),,62,am e₂-babbar-ra i-bi₂ bar-mu-ši-ib i-bi₂ bar-mu-ši-ib
+c.4.32.e,A šir-namšub to Utu (Utu E),,63,sun₄ mu₂ dumu {d}nin-gal-e tud-da i-bi₂ bar-mu-ši-ib
+c.4.32.e,A šir-namšub to Utu (Utu E),,64,za-e i-bi₂-zu gud tur₃-ra um-ši-bar gud tur₃-re am₃-si
+c.4.32.e,A šir-namšub to Utu (Utu E),,65,za-e i-bi₂-zu e-ze₂ amaš-a um-ši-bar e-ze₂ amaš-e am₃-si
+c.4.32.e,A šir-namšub to Utu (Utu E),,66,lu₂-ulu₃-ra um-ši-bar me šu-e
+c.4.32.e,A šir-namšub to Utu (Utu E),,67,ki-ru-gu₂ ₅-kam-ma
+c.4.32.e,A šir-namšub to Utu (Utu E),,68,munu₄-ta še₁₀ buru₅-ta ma-ra-ra-de₅-de₅
+c.4.32.e,A šir-namšub to Utu (Utu E),,69,še-ta še₁₀ še-en-kilim-ta ma-ra-ra-de₅-de₅
+c.4.32.e,A šir-namšub to Utu (Utu E),,70,buru₁₄ an-ta zu₂ bir₅{mušen}-ra me-e ma-ra-ra-de₅-de₅
+c.4.32.e,A šir-namšub to Utu (Utu E),,71,aŋ₂-e u₃-mu-un-e de₃-gu₇-e bi₂-gu₇
+c.4.32.e,A šir-namšub to Utu (Utu E),,72,ur-saŋ šul {d}utu de₃-na₈-na₈ bi₂-naŋ
+c.4.32.e,A šir-namšub to Utu (Utu E),,73,šul {d}utu de₃-ŠEŠ-e ma-gu₇-e de₃-ŠEŠ-e ma-na₈-na₈
+c.4.32.e,A šir-namšub to Utu (Utu E),,74,ki-ru-gu₂ ₆-kam-ma
+c.4.32.e,A šir-namšub to Utu (Utu E),,75,kaš dur₂ e₂ lam-ra-zu
+c.4.32.e,A šir-namšub to Utu (Utu E),,76,ugu lam-sa₂-zu
+c.4.32.e,A šir-namšub to Utu (Utu E),,77,sukkal zid gala
+c.4.32.e,A šir-namšub to Utu (Utu E),,78,sukkal e₂ zid-da
+c.4.32.e,A šir-namšub to Utu (Utu E),,79,šul {d}utu
+c.4.32.e,A šir-namšub to Utu (Utu E),,80,ki-ru-gu₂ ₇-kam-ma
+c.4.32.e,A šir-namšub to Utu (Utu E),,81,ud ša₃-ab
+c.4.32.e,A šir-namšub to Utu (Utu E),,82,a kal-la
+c.4.32.e,A šir-namšub to Utu (Utu E),,83,ne-saŋ kug
+c.4.32.e,A šir-namšub to Utu (Utu E),,84,šul {d}utu kug
+c.4.32.e,A šir-namšub to Utu (Utu E),,85,ki-ru-gu₂ ₈-kam-ma
+c.4.32.e,A šir-namšub to Utu (Utu E),,86,u₃-li-li
+c.4.32.e,A šir-namšub to Utu (Utu E),,87,{d}mu-ul-lil₂
+c.4.32.e,A šir-namšub to Utu (Utu E),,90,
+c.4.32.e,A šir-namšub to Utu (Utu E),,91,
+c.4.32.e,A šir-namšub to Utu (Utu E),,92,dam
+c.4.32.e,A šir-namšub to Utu (Utu E),,93,
+c.4.32.e,A šir-namšub to Utu (Utu E),,96,lu₂
+c.4.32.e,A šir-namšub to Utu (Utu E),,109,ama-ŋu₁₀
+c.4.32.e,A šir-namšub to Utu (Utu E),,110,ama-ŋu₁₀
+c.4.32.e,A šir-namšub to Utu (Utu E),,111,ki-ru-gu₂
+c.4.32.e,A šir-namšub to Utu (Utu E),,x,

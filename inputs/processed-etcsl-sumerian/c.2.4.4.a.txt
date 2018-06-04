@@ -1,0 +1,49 @@
+id_text,text_name,version,l_no,text
+c.2.4.4.a,A hymn for Šu-Suen,,1,diŋir nam-he u₃-tud-da an-na igi bar-ra {d}uraš-a
+c.2.4.4.a,A hymn for Šu-Suen,,2,{d}šu-{d}suen lu₂ {d}nanna di zu-gin₇ igi {d}en-lil₂-la₂-še₃
+c.2.4.4.a,A hymn for Šu-Suen,,3,u₃-tud-da-zu-ta lu₂ ne-me-en mu {d}nanna-e sa₄
+c.2.4.4.a,A hymn for Šu-Suen,,4,šu-{d}suen dumu ur-saŋ an-na ki aŋ₂ {d}en-lil₂-la₂
+c.2.4.4.a,A hymn for Šu-Suen,,5,e₂-kur za-gin₃-ta saŋ il₂-la {d}uraš-e tud-da
+c.2.4.4.a,A hymn for Šu-Suen,,6,šag₄ {d}uraš-a-ke₄ pad₃-da-am₃ kur-kur-ra ha-ba-il₂
+c.2.4.4.a,A hymn for Šu-Suen,,7,suh-gir₁₁ saŋ mah {d}en-lil₂-la₂-kam {ŋeš}ŋidru-ni he₂-su₃-ud
+c.2.4.4.a,A hymn for Šu-Suen,,8,dili-ni ŋiš tuku {d}en-lil₂-la₂-kam a₂ mah šum₂-ma-am₃
+c.2.4.4.a,A hymn for Šu-Suen,,9,šu dug₄-ga an za-gin₃-na-kam {d}nin-lil₂-la₂ tam-ma-ni-im
+c.2.4.4.a,A hymn for Šu-Suen,,10,{d}šu-{d}suen uₓ-a hi-li mul-mul
+c.2.4.4.a,A hymn for Šu-Suen,,11,ki-ru-gu₂ ₁-kam-ma-am₃
+c.2.4.4.a,A hymn for Šu-Suen,,12,{d}šu-{d}suen til₃-la ud su₃-ra₂
+c.2.4.4.a,A hymn for Šu-Suen,,13,ŋiš-gi₄-ŋal₂-bi-im
+c.2.4.4.a,A hymn for Šu-Suen,,14,{d}en-lil₂-la₂
+c.2.4.4.a,A hymn for Šu-Suen,,15,{d}šu-{d}suen
+c.2.4.4.a,A hymn for Šu-Suen,,16,saŋ il₂ tum₂-ma
+c.2.4.4.a,A hymn for Šu-Suen,,17,sun₄ za-gin₃ sud-sud {d}utu-gin₇ kur-kur-ra
+c.2.4.4.a,A hymn for Šu-Suen,,18,{d}šu-{d}suen nir-ŋal₂ eš₃ me i-i
+c.2.4.4.a,A hymn for Šu-Suen,,19,mir ni₂ girid₂ i-lim kalam-ma keše₂ nam-gal-še₃
+c.2.4.4.a,A hymn for Šu-Suen,,20,ŋiš-nu₁₁ il₂ si keše₂ an-na a₂ mah {d}en-lil₂-la₂
+c.2.4.4.a,A hymn for Šu-Suen,,21,dili-ni en he₂-ŋal₂-la {d}šu-{d}suen piriŋ gal barag-ge₂-e-ne
+c.2.4.4.a,A hymn for Šu-Suen,,22,ki-ru-gu₂ ₂-kam-ma-am₃
+c.2.4.4.a,A hymn for Šu-Suen,,23,a-a {d}en-lil₂ en nam tar-re a₂-tuku-ni he₂-me-en
+c.2.4.4.a,A hymn for Šu-Suen,,24,{d}utu-gin₇ he₂-du₇-ni he₂-me-en {d}nin-lil₂ eš₃ mah-a-kam
+c.2.4.4.a,A hymn for Šu-Suen,,25,en sig₇-ga {d}en-ki nam tar-re a-a ŋeštug₂ daŋal-la-kam
+c.2.4.4.a,A hymn for Šu-Suen,,26,gal-an-zu {d}en-lil₂-le igi ŋal₂-la-ni-še₃ zid-de₃-eš
+c.2.4.4.a,A hymn for Šu-Suen,,27,lugal-ŋu₁₀ diŋir nam tar-ra ki ur₅ sag₉-ge
+c.2.4.4.a,A hymn for Šu-Suen,,28,{d}šu-{d}suen di ku₅-ru ka-aš bar-re-da
+c.2.4.4.a,A hymn for Šu-Suen,,29,lugal-ŋu₁₀ a₂ bad
+c.2.4.4.a,A hymn for Šu-Suen,,30,ki-ru-gu₂ ₃-kam-ma-am₃
+c.2.4.4.a,A hymn for Šu-Suen,,31,en gal {d}šu-{d}suen mu he₂-ŋal₂-la
+c.2.4.4.a,A hymn for Šu-Suen,,32,ŋiš-gi₄-ŋal₂-bi-im
+c.2.4.4.a,A hymn for Šu-Suen,,33,saŋ il₂ men lugal du₇ dumu {d}nin-sumun₂-na
+c.2.4.4.a,A hymn for Šu-Suen,,34,peš₁₀-ŋal₂ gaba-ŋal₂ {d}a-nun-na-ke₄-e-ne
+c.2.4.4.a,A hymn for Šu-Suen,,35,{d}šu-{d}suen kug {d}inana-ke₄ pa e₃
+c.2.4.4.a,A hymn for Šu-Suen,,36,šag₄ ki aŋ₂ hi-li niŋ₂ nu-til-le-dam munus zid
+c.2.4.4.a,A hymn for Šu-Suen,,37,saŋ-tab-zu ma-ra-an-šum₂ {d}en-lil₂-le gu₂-da
+c.2.4.4.a,A hymn for Šu-Suen,,38,kalag-ga a₂ mah šum₂-ma kur gal-la usu-ni-ta
+c.2.4.4.a,A hymn for Šu-Suen,,39,ur-saŋ en barag-barag-ge₂-ne zag dib piriŋ gal-bi-im
+c.2.4.4.a,A hymn for Šu-Suen,,40,{d}šu-{d}suen alan sag₉ aga za-gin₃ gaba kug-ga u₆ di
+c.2.4.4.a,A hymn for Šu-Suen,,41,ur-saŋ nam-diŋir-še₃ tud-da me-te nam-lugal-la
+c.2.4.4.a,A hymn for Šu-Suen,,42,an ki-a zag kalam-ma-še₃ kalag-ga
+c.2.4.4.a,A hymn for Šu-Suen,,43,ki-ru-gu₂ ₄-kam-ma-am₃
+c.2.4.4.a,A hymn for Šu-Suen,,44,ga-an-i-i
+c.2.4.4.a,A hymn for Šu-Suen,,45,{d}nin-lil₂-la₂-kam in-nin₉ he₂-en-na-nam
+c.2.4.4.a,A hymn for Šu-Suen,,46,{d}utu-gin₇ kalam daŋal im-mi-in-si
+c.2.4.4.a,A hymn for Šu-Suen,,47,{d}šu-{d}suen u₂-a-zu sud-am₃
+c.2.4.4.a,A hymn for Šu-Suen,,48,X-ra-ra

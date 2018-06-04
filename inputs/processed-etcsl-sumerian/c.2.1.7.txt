@@ -1,0 +1,1301 @@
+id_text,text_name,version,l_no,text
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1,ud an ki-a nam tar-re-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,2,lagaš{ki}-e me gal-la saŋ an-še₃ mi-ni-ib₂-il₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,3,{d}en-lil₂-e en {d}nin-ŋir₂-su₂-še₃ igi zid mu-ši-bar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,4,iri-me-a niŋ₂-du₇ pa nam-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,5,šag₄ gu₂-bi nam-gi₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,6,šag₄ {d}en-lil₂-la₂ gu₂-bi nam-gi₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,7,šag₄ gu₂-bi nam-gi₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,8,a-ŋi₆ uru₁₆ nam-mul ni₂ il₂-il₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,9,šag₄ {d}en-lil₂-la₂-ke₄ {id₂}idigna-am₃ a dug₃-ga nam-de₆
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,10,e₂-e lugal-bi gu₃ ba-de₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,11,e₂-ninnu me-bi an ki-a pa e₃ mu-ak-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,12,ensi₂ lu₂ ŋeštug₃ daŋal-kam ŋeštug₃ i₃-ŋa₂-ŋa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,13,niŋ₂ gal-gal-la šu mi-ni-mu₂-mu₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,14,gud du₇ maš₂ du₇-re₆ si im-sa₂-sa₂-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,15,šeg₁₂ nam tar-ra saŋ mu-ši-ib₂-il₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,16,e₂ kug du₃-de₃ gu₂-bi mu-ši-ib₂-zig₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,17,lugal-ni-ir ud ne maš-ŋi₆-ka
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,18,gu₃-de₂-a en {d}nin-ŋir₂-su₂-ra igi mu-ni-du₈-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,19,e₂-a-ni du₃-ba mu-na-dug₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,20,e₂-ninnu me-bi gal-gal-la-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,21,igi mu-na-ni-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,22,gu₃-de₂-a šag₄-ga-ni su₃-ra₂-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,23,inim-e mi-ni-kuš₂-u₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,24,ga-na ga-na-ab-dug₄ ga-na ga-na-ab-dug₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,25,inim-ba ha-mu-da-gub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,26,sipad-me nam-nun-ne₂ saŋ ma-ab-šum₂-šum₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,27,niŋ₂ maš-ŋi₆-ke₄ ma-ab-de₆-a-ŋa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,28,šag₄-bi nu-zu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,29,ama-ŋu₁₀ ma-mu-ŋu₁₀ ga-na-de₆
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,30,ensi kug-zu me-te-na-ŋu₁₀
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,31,{d}nanše nin₉ diŋir sirara₆-ta-ŋu₁₀
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,32,šag₄-bi ha-ma-pad₃-de₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,33,ma₂-gur₈-ra-na ŋiri₃ nam-mi-gub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,34,iri-ni niŋin₆{ki}-še₃ id₂-niŋin₆{ki}-du-a ma₂ mu-ni-ri
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,35,id₂-de₃ hul₂-la-e kur-ku₄ i₃-si-il-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,36,ba-gara₂ e₂ id₂-de₃ la₂-a-e im-ti-a-ta
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,37,ninda ŋiš bi₂-tag a sed₆ i₃-de₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,38,lugal ba-gara₂-ra mu-na-ŋen šudu₃ mu-na-ša₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,39,ur-saŋ piriŋ zig₃-ga gaba-šu-ŋar nu-tuku
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,40,{d}nin-ŋir₂-su₂ abzu-a gal-di
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,41,nibru{ki}-a nir-ŋal₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,42,ur-saŋ ma-a-dug₄ šu zid ga-mu-ra-ab-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,43,{d}nin-ŋir₂-su e₂-zu ga-mu-ra-du₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,44,me šu ga-mu-ra-ab-du₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,45,nin₉-zu dumu eridug{ki}-ge tud-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,46,nir-ŋal₂ me-te-na nin ensi₃ diŋir-re-ne-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,47,{d}nanše nin₉ diŋir sirara₆-ta-ŋu₁₀
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,48,ŋiri₃-bi ha-ma-ŋa₂-ŋa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,49,gu₃ de₂-a-ni ŋiš ba-tuku-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,50,lugal-a-ni sizkur₂ ra₂-zu-ni gu₃-de₂-a-aš₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,51,en {d}nin-ŋir₂-su-ke₄ šu ba-ši-ti
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,52,e₂ ba-gara₂-ka eš₃-eš₃ i₃-ak
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,53,ensi₂-ke₄ {d}ŋa₂-tum₃-dug₃-še₃ ki-nu₂-a-ni ba-gub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,54,ninda ŋiš bi₂-tag a sed₆ i₃-de₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,55,kug {d}ŋa₂-tum₃-dug₃-ra mu-na-ŋen
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,56,sizkur₂ mu-na-be₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,57,nin-ŋu₁₀ dumu an kug-ge tud-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,58,nir-ŋal₂ me-te-na diŋir saŋ zig₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,59,kalam-ma til₃-la
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,60,nu-du-zu iri-na
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,61,nin ama lagaš{ki} ki ŋar-ra-me
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,62,igi uŋ₃-še₃ u₃-ši-bar-ra-zu ni₂-a he₂-ŋal₂-la-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,63,šul zid lu₂ igi mu-bar-ra-zu nam-til₃ mu-na-sud
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,64,ama nu-tuku-me ama-ŋu₁₀ ze₂-me
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,65,a nu-tuku-me a-ŋu₁₀ ze₂-me
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,66,a-ŋu₁₀ šag₄-ga šu ba-ni-dug₄ unu₆-a i₃-tud-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,67,{d}ŋa₂-tum₃-dug₃ mu kug-zu dug₃-ga-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,68,ŋi₆-a ma-ni-nu₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,69,{ŋeš}ŋiri₂ gal-ŋu₁₀-me zag-ŋu₁₀ mu-us₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,70,NE.GI.BAR a gal-la du₃-a-me
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,71,zi šag₄ mu-ši-ni-ŋal₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,72,an-dul₃ daŋal-me ŋissu-zu-še₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,73,ni₂ ga-ma-ši-ib₂-te
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,74,šu mah-za sa-ga a₂ zid-da-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,75,nin-ŋu₁₀ {d}ŋa₂-tum₃-dug₃ ŋa₂-ra ha-mu-u₃-ru
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,76,iri-še₃ i₃-du-e ŋiškim-ŋu₁₀ he₂-sag₉
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,77,kur a-ta il₂-la niŋin₆{ki}-še₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,78,u₂-dug₄ sag₉-ga-zu igi-še₃ ha-ma-ŋen
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,79,{d}lamma sag₉-ga-zu ŋiri₃-a ha-mu-da-ŋen
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,80,ga-na ga-na-ab-dug₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,81,ga-na ga-na-ab-dug₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,82,inim-ba ha-mu-da-gub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,83,ama-ŋu₁₀ ma-mu-ŋu₁₀ ga-na-de₆
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,84,ensi₃ kug-zu me-te-na-ŋu₁₀
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,85,{d}nanše nin₉ diŋir sirara₆-ta-ŋu₁₀
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,86,šag₄-bi ha-ma-pad₃-de₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,87,gu₃ de₂-a-ni ŋiš ba-tuku-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,88,nin-a-ni sizkur₂ ra₂-zu-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,89,gu₃-de₂-a-aš₂ kug {d}ŋa₂-tum₃-dug₃-ge šu ba-ši-ti
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,90,ma₂-gur₈-ra-na ŋiri₃ nam-mi-gub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,91,iri-ni niŋin₆{ki}-še₃ ma₂ mu-ni-ri kar niŋin₆{ki}-na-ke₄ ma₂ bi₂-us₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,92,ensi₂-ke₄ kisal diŋir sirara₆-ta-ka saŋ an-še₃ mi-ni-il₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,93,ninda ŋiš bi₂-tag a sed₆ i₃-de₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,94,{d}nanše mu-na-ŋen šudu₃ mu-na-ša₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,95,{d}nanše nin uru₁₆ nin me {d}kal-{d}kal-la
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,96,nin {d}en-lil₂-gin₇ nam tar-tar-re
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,97,{d}nanše-ŋu₁₀ dug₄-ga-zu zid-dam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,98,saŋ-bi-še₃ e₃-a-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,99,ensi diŋir-re-ne-me
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,100,nin kur-kur-ra-me ama inim-ŋu₁₀ ud-da ma-mu-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,101,šag₄ ma-mu-da-ka lu₂ ₁-am₃ an-gin₇ ri-ba-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,102,ki-gin₇ ri-ba-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,103,a-ne saŋ-ŋa₂-ni-še₃ diŋir-ra-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,104,a₂-ni-še₃ anzud₂{mušen}-dam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,105,sig-ba-a-ni-še₃ a-ma-ru-kam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,106,zid-da gabu₂-na piriŋ i₃-nu₂-nu₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,107,e₂-a-ni du₃-da ma-an-dug₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,108,šag₄-ga-ni nu-mu-zu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,109,ud ki-šar₂-ra ma-ta-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,110,munus ₁-am₃ a-ba me-a nu a-ba me-a-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,111,saŋ-ŋa₂ e₃ ki garadin₉ mu-ak
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,112,gi-dub-ba kug NE-a šu im-mi-du₈
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,113,dub mul-an dug₃-ga im-mi-ŋal₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,114,ad im-dab₆-gi₄-gi₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,115,₂-kam ur-saŋ-ŋa₂-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,116,a₂ mu-gur le-um za-gin₃ šu im-mi-du₈
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,117,e₂-a ŋiš-hur-bi im-ŋa₂-ŋa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,118,igi-ŋu₁₀-še₃ dusu kug i₃-gub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,119,{ŋeš}u₃-šub kug si ib₂-sa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,120,šeg₁₂ nam tar-ra {ŋeš}u₃-šub-ba ma-an-ŋal₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,121,ildag₂ zid-da igi-ŋu₁₀ gub-ba
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,122,ti-gid₂{mušen}-lu₂ a ud mi-ni-ib₂-zal-zal-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,123,dur₃ a₂ zid-da lugal-ŋa₂-ke₄ ki ma-hur-hur-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,124,ensi₂-ra ama-ni {d}nanše mu-na-ni-ib₂-gi₄-gi₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,125,sipad-ŋu₁₀ ma-mu-zu ŋe₂₆ ga-mu-ra-bur₂-bur₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,126,lu₂ an-gin₇ ri-ba ki-gin₇ ri-ba-eše₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,127,saŋ-ŋa₂-ni-še₃ diŋir a₂-ni-še₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,128,anzud₂{mušen}-eše₂ sig-ba-a-ni-še₃ a-ma-ru-eše₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,129,zid-da gabu₂-na piriŋ i₃-nu₂-nu₂-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,130,šeš-ŋu₁₀ {d}nin-ŋir₂-su₂ ga-nam me-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,131,eš₃ e₂-ninnu-na du₃-ba za-ra ma-ra-an-dug₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,132,ud ki-šar₂-ra ma-ra-ta-e₃-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,133,diŋir-zu {d}nin-ŋiš-zid-da ud-gin₇ ki-ša-ra ma-ra-ta-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,134,ki-sikil saŋ-ŋa₂ e₃ ki garadin₉ mu-ak
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,135,gi-dub-ba kug NE šu bi₂-du₈-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,136,dub mul dug₃-ga bi₂-ŋal₂-la-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,137,ad im-da-gi₄-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,138,nin₉-ŋu₁₀ {d}nisaba ga-nam me-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,139,e₂-a du₃-ba mul kug-ba
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,140,gu₃ ma-ra-a-de₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,141,₂-kam-ma ur-saŋ-am₃ a₂ mu-gur₈
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,142,le-um za-gin₃ šu bi₂-du₈-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,143,{d}nin-dub-kam e₂-a ŋiš-hur-ba im-mi-sig₁₀-sig₁₀-ge
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,144,igi-zu-še₃ dusu kug gub-ba u₃-šub kug si sa₂-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,145,šeg₁₂ nam tar-ra u₃-šub-ba ŋal₂-la
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,146,šeg₁₂ zid e₂-ninnu ga-nam me-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,147,ildag₂ zid-da igi-zu gub-ba
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,148,ti-gid₂{mušen}-lu₂ a ud mi-ni-ib₂-zal-a-eše₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,149,e₂ du₃-de₃ igi-zu u₃ dug₃-ga nu-ši-ku₄-ku₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,150,{anše}dur₉ a₂ zid-da lugal-zak-ke₄ ki ma-ra-hur-hur-a-eše₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,151,ze₂-me e₂-ninnu-uš₂ ni-is-ku-gin₇ ki im-ši-hur-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,152,na ga-de₅ na de₅-ŋu₁₀ he₂-dab₅
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,153,ŋir₂-su{ki} e₂ saŋ ki lagaš{ki}-še₃ ŋiri₃-zu ki i₃-bi₂-us₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,154,e₂ niŋ₂-gur₁₁-ra-za kišib u₃-mi-kur₂ ŋiš u₃-ma-ta-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,155,lugal-zu {ŋeš}gigir u₃-mu-DI
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,156,{anše}dur₉ u₃-ši-la₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,157,{ŋeš}gigir-bi kug NE za-gin₃-na šu u₃-ma-ni-tag
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,158,ti mar-uru₅-a ud-gin₇ i₃-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,159,an-kar₂ a₂ nam-ur-saŋ-ka mi₂ u₃-ma-ni-dug₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,160,šu-nir ki aŋ₂-ni u₃-mu-na-dim₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,161,mu-zu u₃-mi-sar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,162,balaŋ ki aŋ₂-ni ušumgal kalam-ma
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,163,ŋiš-gu₃-di mu tuku niŋ₂ ad gi₄-gi₄-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,164,ur-saŋ niŋ₂-ba-e ki aŋ₂-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,165,lugal-zu en {d}nin-ŋir₂-su₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,166,e₂-ninnu anzud₂{mušen} babbar₂-ra u₃-mu-na-da-kur₉-re
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,167,tur dug₄-ga-zu mah dug₄-ga-am₃ šu ba-a-ši-ib₂-ti
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,168,en-na šag₄ an-gin₇ su₃-ra₂-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,169,{d}nin-ŋir₂-su₂ dumu {d}en-lil₂-la₂-ka za-ra ma-ra-huŋ-ŋe₂₆-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,170,ŋiš-hur e₂-a-na ma-ra-pad₃-pad₃-de₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,171,ur-saŋ-e me-ni gal-gal-la-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,172,šu ma-ra-ni-ib₂-mu₂-mu₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,173,sipad zid gu₃-de₂-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,174,gal mu-zu gal i₃-ga-tum₂-mu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,175,inim {d}nanše-e mu-na-dug₄-ga-aš
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,176,saŋ sig ba-ši-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,177,e₂ niŋ₂-gur₁₁-ra-na kišib bi₂-kur₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,178,ŋiš im-ma-ta-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,179,gu₃-de₂-a ŋiš-a mu-DU.DU
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,180,ŋiš-e mi₂ im-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,181,{ŋeš}meš₃-e saŋ bi₂-sag₉
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,182,{ŋeš}ha-lu-ub₂-ba tun₃ bi₂-bar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,183,{ŋeš}gigir za-gin₃-še₃ mu-na-a-DI
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,184,dur₉-bi piriŋ-kaš₄-e-pad₃-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,185,im-ma-ši-la₂-la₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,186,šu-nir ki aŋ₂-ni mu-na-dim₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,187,mu-ni im-mi-sar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,188,balaŋ ki aŋ₂-e ušumgal kalam-ma
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,189,ŋiš-gu₃-di mu tuku niŋ₂ ad gi₄-gi₄-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,190,ur-saŋ niŋ₂-ba-e ki aŋ₂-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,191,lugal-ni en {d}nin-ŋir₂-su-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,192,e₂-ninnu anzud₂{mušen} babbar₂-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,193,mu-na-da-ku₄-ku₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,194,e₂-a hul₂-la i₃-na-ni-kur₉
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,195,gu₃-de₂-a eš₃ e₂-ninnu-ta zalag-ga nam-ta-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,196,₂-kam-ma e₂-še₃ ud-u₃-de₃ bi₂-dib
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,197,ŋi₆-ŋi₆ ba-an-dib
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,198,du₆-du₆ mu-si-ig inim-ŋar mu-gi₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,199,ah dug₄-ga ŋiri₂-ta im-ta-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,200,šu-ga-lam ki huš ki di kud-de₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,201,ki {d}nin-ŋir₂-su-ke₄ kur-kur-ra igi mi-ni-ŋal₂-la-še₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,202,udu-i₃ gukkal maš₂ niga ensi₂-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,203,{f}ešgar ŋiš nu-zu kuš-ba mi-ni-durunₓ
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,204,li{ŋeš} u₂ sikil kur-ra-kam izi-a bi₂-si-si
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,205,šim erin ir-sim diŋir-ra-kam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,206,i₃-bi₂-bi mu-du₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,207,lugal-ni-ir uŋ₃-ŋa₂ mu-na-zig₃ šudu₃ mu-na-ša₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,208,ub-šu-kin-na-ka mu-na-ŋen giri₁₇ šu mu-na-ŋal₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,209,lugal-ŋu₁₀ {d}nin-ŋir₂-su₂ en a huš gi₄-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,210,en zid a kur gal-e ri-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,211,šul ka tar gaba-ri nu-tuku
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,212,{d}nin-ŋir₂-su e₂-zu ma-ra-du₃-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,213,ŋiškim-ŋu₁₀ nu-ŋu₁₀
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,214,ur-saŋ niŋ₂-du₇-e gu₃ ba-a-de₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,215,dumu {d}en-lil₂-la₂ en {d}nin-ŋir₂-su
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,216,šag₄-bi nu-mu-u₃-da-zu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,217,šag₄ ab-gin₇ zi-zi-zu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,218,iz-zi₈-gin₇ ŋa₂-ŋa₂-zu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,219,a e₃-a-gin₇ gu₃ nun di-zu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,220,a-ma-ru₁₂-gin₇ u₂-uru₁₈ gul-gul-zu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,221,ud-gin₇ ki-bal-še₃ du₇-du₇-zu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,222,lugal-ŋu₁₀ šag₄-zu a e₃-a u₂ nu-la₂-zu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,223,ur-saŋ šag₄ an-gin₇ su₃-ra₂-zu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,224,dumu {d}en-lil₂-la₂ en {d}nin-ŋir₂-su
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,225,ŋe₂₆ a-na mu-u₃-da-zu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,226,₂-kam-ma-še₃ nu₂-a-ra nu₂-a-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,227,saŋ-ŋa₂ mu-na-gub ul₄ mu-tag-tag-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,228,ma-du₃-na ma-du₃-na
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,229,ensi₂ e₂-ŋu₁₀ ma-du₃-na
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,230,gu₃-de₂-a e₂-ŋu₁₀ du₃-da ŋiškim-bi ga-ra-ab-šum₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,231,ŋarza-ŋa₂ mul-an kug-ba gu₃ ga-mu-ra-a-de₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,232,e₂-ŋu₁₀ e₂-ninnu an-ne₂ ki ŋar-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,233,me-bi me gal-gal me-me-a dirig-ga
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,234,e₂ lugal-bi igi sud il₂-il₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,235,anzud₂{mušen}-gin₇ šeg₁₂ gi₄-a-bi-še₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,236,an im-ši-dub₂-dub₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,237,me-lem₄ huš-bi an-ne₂ im-us₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,238,e₂-ŋa₂ ni₂ gal-bi kur-kur-ra mu-ri
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,239,mu-bi-e an-zag-ta kur-kur-re gu₂ im-ma-si-si
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,240,ma₂-gan me-luh-ha kur-bi-ta im-ma-ta-ed₃-de₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,241,ŋe₂₆ {d}nin-ŋir₂-su a huš gi₄-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,242,ur-saŋ gal ki {d}en-lil₂-la₂-ka
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,243,en gaba-ri nu-tuku
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,244,e₂-ŋu₁₀ e₂-ninnu ŋe₂₆-en kur-ra ab-dirig
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,245,tukul-ŋu₁₀ šar₂-ur₃ kur šu-še₃ ŋar-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,246,igi huš-a-ŋu₁₀ kur-re nu-um-il₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,247,a₂ bad-a-ŋu₁₀ lu₂ la-ba-ta-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,248,a ugu₄-ŋu₁₀ nam gal ki aŋ₂-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,249,lugal a-ma-ru {d}en-lil₂-la₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,250,igi huš-a-ni kur-da nu-il₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,251,{d}nin-ŋir₂-su ur-saŋ {d}en-lil₂-la₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,252,mu-še₃ mu-sa₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,253,me ₅₀-a zag mi-ni-keše₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,254,{ŋeš}banšur mu-il₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,255,šu-luh si bi₂-sa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,256,šu si sa₂-a-ŋu₁₀ an kug-ge u₃-a ba-zig₃-ge
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,257,niŋ₂ šu-ŋa₂ dug₃-ga-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,258,a ugu₄-ŋu₁₀ dug₃-ga-bi mu-gu₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,259,an lugal diŋir-re-ne-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,260,{d}nin-ŋir₂-su lugal išib an-na
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,261,mu-še₃ mu-sa₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,262,ti-ra-aš₂ abzu-gin₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,263,nam-nun-na ki im-ma-ni-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,264,šag₄-bi-a itid-da ud-sakar-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,265,me gal-gal ezen an-na-ŋu₁₀ šu gal ma-du₇-du₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,266,e₂-huš ki huš-ŋu₁₀
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,267,muš-huš-gin₇ ki sumur-ra bi₂-du₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,268,ki-bal-ŋa₂ nu-mi-ib₂-dug₄-ga
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,269,ud šag₄-ŋu₁₀ um-ši-mi-ri₂-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,270,muš ze₂ guru₅-a-gin₇ uš ma-a-u₃-ku-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,271,e₂-babbar₂ ki a₂ aŋ₂-ŋa₂-ŋa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,272,ki {d}utu-gin₇ dalla-a-ŋa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,273,ki-ba {d}ištaran-gin₇ di iri-ŋa₂ si ba-ni-ib₂-sa₂-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,274,e₂-ba-gara₂ ki banšur-ra-ŋu₁₀
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,275,diŋir gal-gal lagaš{ki}-a-ke₄-ne
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,276,gu₂ ma-si-si-ne
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,277,e₂-ŋu₁₀ e₂ saŋ-kal kur-kur-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,278,a₂ zid-da lagaš{ki}
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,279,anzud₂{mušen} an-šar₂-ra šeg₁₂ gi₄-gi₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,280,e₂-ninnu e₂ nam-lugal-ŋu₁₀
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,281,sipad zid gu₃-de₂-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,282,ud šu zid ma-ši-tum₃-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,283,an-še₃ tum₉ duru₅-e gu₃ ba-de₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,284,an-ta he₂-ŋal₂ ha-mu-ra-ta-du
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,285,kalam-e he₂-ŋal₂-la šu he₂-a-da-peš-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,286,e₂-ŋa₂ uš ki ŋar-ra-bi-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,287,he₂-ŋal₂ he₂-da-ŋen
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,288,gana₂ gal-gal-e šu ma-ra-ab-il₂-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,289,eg₂ pa₅ gu₂-bi ma-ra-ab-zi-zi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,290,du₆-du₆ ki a nu-ed₃-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,291,a ma-ra-ed₃-de₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,292,ki-en-gi-ra₂ i₃ dirig mu-da-de₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,293,siki dirig mu-da-la₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,294,ud temen-ŋu₁₀ ma-sig₉-ge₄-na
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,295,e₂-ŋu₁₀ ud šu zid ma-ši-tum₃-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,296,hur-saŋ ki {tum₉}mir tuš-a-še₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,297,ŋiri₃-ŋu₁₀ ki i₃-bi₂-us₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,298,nitah a₂ dirig-ke₄ {tum₉}mir-e hur-saŋ ki sikil-ta
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,299,tum₉ si ma-ra-ab-sa₂-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,300,kalam-e zi-šag₄-ŋal₂ u₃-ma-šum₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,301,lu₂ dili lu₂ ₂-da kiŋ₂ mu-da-ak-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,302,ŋi₆-a-na i₃-ti ma-ra-e₃-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,303,e-bar₇-gana₂ ud-dam ma-ra-e₃-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,304,e₂ ud-de₃ ma-ra-du₃-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,305,ŋi₆-e ma-ra-ab-mu₂-mu₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,306,sig-ta {ŋeš}ha-lu-ub₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,307,{ŋeš}NE-ha-an mu-ra-ta-ed₃-de₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,308,igi-nim-ta {ŋeš}erin {ŋeš}šu-ur₂-men₂ {ŋeš}za-ba-lum ni₂-bi-a ma-ra-an-tum₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,309,kur {ŋeš}esi-a-ka
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,310,{ŋeš}esi ma-ra-ni-tum₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,311,kur na-ka na gal hur-saŋ-ŋa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,312,lagab-ba ma-ra-kud-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,313,ud-bi-a a₂-zu izi bi₂-tag
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,314,ŋiškim-ŋu₁₀ ha-mu-u₃-zu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,315,gu₃-de₂-a i₃-zig₃ u₃-sa-ga-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,316,i₃-ha-luh ma-mu-dam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,317,inim dug₄-ga {d}nin-ŋir₂-su-ka-še₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,318,saŋ sig ba-ši-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,319,maš₂ babbar₂-ra šu mu-gid₂-de₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,320,maš₂-a šu i₃-gid₂ maš₂-a-ni i₃-sag₉
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,321,gu₃-de₂-a šag₄ {d}nin-ŋir₂-su-ka
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,322,ud-dam mu-na-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,323,gal mu-zu gal i₃-ga-tum₂-mu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,324,ensi₂-ke₄ iri-na lu₂ dili-gin₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,325,na de₅ ba-ni-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,326,ki lagaš{ki}-e dumu ama dili-a-gin₇ šag₄ mu-na-AŠ-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,327,ŋiš-šu mu-du₈ ŋiš-ŋiri₂ mu-zig₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,328,u₂-guru₅ mu-ŋar inim dug₄-ga bi₂-gi₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,329,šer₇-da e₂-ba im-ma-an-gi₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,330,u₃-sa-an bar-us₂-sa eme i₃-du₈
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,331,siki udu gan-na-kam šu-a mi-ni-ŋar-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,332,ama-a dumu-da gu₃ nu-ma-da-de₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,333,dumu-u₃ ama-ni-ra ka du₃-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,334,nu-ma-na-dug₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,335,arad₂ a₂ ŋiš tag tuku-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,336,lugal-a-ni saŋ nu-ma-da-dub₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,337,geme₂ lu₂ nam-ra₂ hul mu-na-ak
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,338,nin-a-ni igi-na niŋ₂ nu-mu-na-ni-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,339,ensi₂ e₂-ninnu du₃-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,340,gu₃-de₂-a-ar inim-ŋar-bi lu₂-u₃ nu-ma-ni-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,341,ensi₂-ke₄ iri mu-kug
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,342,izi im-ma-ta-la₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,343,uzug₃-ga ni₂-ŋal₂ lu₂-GI.AN
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,344,iri-ta ba-ta-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,345,pisaŋ u₃-šub-ba-še₃ maš₂ ba-ši-nu₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,346,šeg₁₂ maš₂-e bi₂-pad₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,347,ka-al-bi-še₃ igi zid ba-ši-bar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,348,sipad mu pad₃-da {d}nanše-ke₄ nam-nun-na i₃-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,349,pisaŋ u₃-šub-ba-ka ŋiš bi₂-hur-ra-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,350,ka-al nam-nun-na mu-ni-ŋar-ra-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,351,anzud₂{mušen} šu-nir lugal-la-na-kam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,352,urin-še₃ bi₂-mul
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,353,u₅ bur₃ eše₃-še₃ iri mu-na-kug-ge
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,354,u₅ mu-na-sikil-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,355,li{ŋeš} u₂ sikil kur-ra-kam izi-a bi₂-si-si
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,356,šim erin ir-sim diŋir-ra-kam i₃-bi₂-bi mu-du₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,357,ud sizkur₂-ra mu-na-a-ŋal₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,358,ŋi₆ šudu₃-de₃ mu-na-zal-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,359,{d}a-nun-na ki lagaš{ki}
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,360,e₂ {d}nin-ŋir₂-su-ka du₃-de₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,361,gu₃-de₂-a sizkur₂ ra₂-zu-Xbr
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,362,mu-da-an-šu₄-šu₄-ge-eš₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,363,sipad zid gu₃-de₂-a hul₂-la-gin₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,364,im-ma-na-ni-ib₂-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,365,ud-ba ensi₂-ke₄ kalam-ma-na zig₃-ga ba-ni-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,366,ma-da gu₂-saŋ šar₂-šar₂-ra-na
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,367,gu₂-edin-na {d}nin-ŋir₂-su-ka-ka
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,368,zig₃-ga ba-ni-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,369,iri du₃-a a₂-dam ŋar-ra-na
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,370,gu₂-ŋiš-bar-ra {d}nanše-ka
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,371,zig₃-ga ba-ni-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,372,gud huš zig₃-ga gaba gi₄ nu-tuku
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,373,{ŋeš}erin babbar₂-ra lugal-bi-ir dab₆-ba
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,374,im-ru-a {d}nin-ŋir₂-su-ka-ka
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,375,zig₃-ga mu-na-ŋal₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,376,šu-nir mah-bi lugal-kur-dub₂ saŋ-bi-a mu-gub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,377,peš₁₀-ŋal₂ gaba-ŋal₂ a-ta e₃-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,378,id₂ mah a dirig he₂-ŋal₂-bi barag₂-barag₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,379,im-ru-a {d}nanše-ka
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,380,zig₃-ga mu-na-ŋal₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,381,u₅ kug šu-nir {d}nanše-kam saŋ-bi-a mu-gub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,382,gu maš₂-anše edin-na la₂-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,383,ni-is-ku erin₂ mu tuku erin₂ {d}utu ki aŋ₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,384,im-ru-a {d}inana-ka zig₃-ga mu-na-ŋal₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,385,aš-me šu-nir {d}inana-kam saŋ-bi-a mu-gub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,386,e₂ {d}nin-ŋir₂-su-ka du₃-de₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,390,
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,391,šu ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,392,elam elam-ta mu-na-ŋen
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,393,šušin ki šušin-ta mu-na-ŋen
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,394,ma₂-gan me-luh-ha kur-bi-ta gu₂ ŋiš mu-na-ab-ŋal₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,395,e₂ {d}nin-ŋir₂-su-ka du₃-de₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,396,gu₃-de₂-a iri-ni ŋir₂-su{ki}-še₃ gu₂ mu-na-si-si
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,397,{d}nin-zag-ga-da a₂ mu-da-aŋ₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,398,urud-da-ni še mah de₆-a-gin₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,399,gu₃-de₂-a lu₂ e₂ du₃-a-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,400,mu-na-ab-us₂-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,401,{d}nin-sikil-a-da a₂ mu-da-aŋ₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,402,{ŋeš}ha-lu-ub₂ gal-gal {ŋeš}esi ŋiš-ab-ba-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,403,ensi₂ e₂-ninnu du₃-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,404,mu-na-ab-us₂-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,405,kur {ŋeš}erin-na lu₂ nu-ku₄-ku₄-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,406,gu₃-de₂-a en {d}nin-ŋir₂-su-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,407,ŋiri₂ mu-na-ni-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,408,{ŋeš}erin-bi tun₃ gal-e im-mi-kud
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,409,šar₂-ur₃ a₂ zid-da lagaš{ki}-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,410,tukul a-ma-ru lugal-la-na-še₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,411,tun₃ im-ma-bar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,412,muš-mah-am₃ a-e im-dirig-ga-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,413,hur-saŋ {ŋeš}erin-na-ta ad {ŋeš}erin-na
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,414,hur-saŋ {ŋeš}šu-ur₂-men₂-ta
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,415,ad {ŋeš}šu-ur₂-men₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,416,hur-saŋ {ŋeš}za-ba-lum-ma-ta
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,417,ad {ŋeš}za-ba-lum
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,418,{ŋeš}u₃-suh₅ gal-gal {ŋeš}tu-lu-bu-um
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,419,{ŋeš}e-ra-num₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,420,ad gal-gal-bi dirig-dirig-ga-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,421,kar mah kan₄-sur-ra-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,422,gu₃-de₂-a en {d}nin-ŋir₂-su-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,423,im-ma-na-us₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,424,kur na lu₂ nu-ku₄-ku₄-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,425,gu₃-de₂-a en {d}nin-ŋir₂-su-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,426,ŋiri₂ mu-na-ni-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,427,na gal-gal-bi lagab-ba mi-ni-de₆
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,428,ma₂ ha-u₃-na ma₂ na-lu-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,429,esir₂ a-ba-al esir₂ igi-esir₂ im-babbar₂-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,430,hur-saŋ ma₂-ad-ga-ta
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,431,niŋ₂-gur₁₁ ma₂ še gana₂ de₆-a-gin₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,432,gu₃-de₂-a en {d}nin-ŋir₂-su-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,433,im-ma-na-us₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,434,ensi₂ e₂-ninnu du₃-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,435,niŋ₂ gal-gal-e šu mu-na-ab-il₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,436,hur-saŋ urud-ke₄ ki-maš-ta
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,437,ni₂-bi mu-na-ab-pad₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,438,urud-bi gi-dirig-ba mu-ni-ba-al
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,439,lu₂ e₂ lugal-na du₃-dam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,440,ensi₂-ra kug-sig₁₇ kur-bi-ta
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,441,sahar-ba mu-na-tum₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,442,gu₃-de₂-a kug NE-a kur-bi-ta mu-na-ta-ed₃-de₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,443,gug gi-rin-e me-luh-ha-ta
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,444,šu mu-na-peš-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,445,kur nu₁₁-ta nu₁₁ mu-na-ta-ed₃-de₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,446,sipad-de₃ e₂ kug-ga mu-du₃-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,447,kug-dim₂ im-da-tuš
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,448,e₂-ninnu za mu-du₃-e zadim im-da-tuš
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,449,urud nagga-a mu-du₃-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,450,saŋŋa-simug {d}nin-tur₅ kalam-ma-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,451,igi-ni-še₃ si im-mi-sa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,452,{na₄}šu-min-e ud-da-am₃ šeg₁₂ mu-na-ab-gi₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,453,{na₄}esi na₄ šu-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,454,₂ peš
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,455,a mah DU-a-gin₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,456,
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,458,
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,459,ŋi₂₅-ŋi₂₅ mu-na-gid₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,460,nam e₂ du₃-da lugal-la-na-še₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,461,u₃ ŋi₆ an-na nu-um-ku₄-ku₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,462,u₃ an-ba-ra saŋ nu-mi-ib₂-du₃-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,463,igi zid bar-ra {d}nanše-kam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,464,{d}en-lil₂-la₂ lu₂ šag₄-ga-na-kam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,465,ensi₂ {d}nin-ŋir₂-su-ka-kam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,466,gu₃-de₂-a unu₆ mah-a tud-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,467,{d}ŋa₂-tum₃-dug₃-ga-kam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,468,{d}nisaba-ke₄ e₂ ŋeštug₂-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,469,ŋal₂ mu-na-taka₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,470,e₂-a {d}en-ki-ke₄ ŋiš-hur-bi si mu-na-sa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,471,e₂ me-lem₄-bi an-ne₂ us₂-sa
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,472,me-bi an ki-da gu₂ la₂-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,473,lugal-bi en igi huš il₂-il₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,474,ur-saŋ {d}nin-ŋir₂-su me₃ gal-zu-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,475,e₂-ninnu anzud₂{mušen} babbar₂-še₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,476,gu₃-de₂-a sig-ta ba-ši-ŋen
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,477,nim-še₃ u₅ bi₂-dug₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,478,nim-ta ba-ši-ŋen sig-še₃ u₅ bi₂-dug₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,479,iku zid-dam eš₂ i₃-ŋar-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,480,a₂-ba ŋiš bi₂-ŋar ni₂-te-ni mu-zu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,481,hul₂-la-gin₇ im-ma-na-ni-ib₂-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,482,u₃-te-am₃ e₂ libir-ra-aš₂ ra₂-zu-a ba-ŋen
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,483,gu₃-de₂-a barag ŋir₂-nun-na-ta
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,484,šag₄ mu-na-huŋ-ŋe₂₆-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,485,ud im-zal a mu-tu₁₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,486,me-te-ni mu-gi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,487,{d}utu he₂-ŋal₂ mu-na-ta-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,488,gu₃-de₂-a ₂-kam-aš₂ iri-kug-ta im-ma-ta-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,489,gud du₇ maš₂ du₇-re₆ ŋiš bi₂-tag
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,490,e₂-e im-ma-ŋen
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,491,giri₁₇ šu im-ma-ŋal₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,492,dusu kug {ŋeš}u₃-šub zid nam tar-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,493,e₂-ninnu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,494,mu-la₂ saŋ il₂ mu-ŋen
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,495,{d}lugal-kur-dub₂ igi-še₃ mu-na-ŋen
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,496,{d}ig-alim-ke₄ ŋiri₂ mu-na-ŋa₂-ŋa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,497,{d}nin-ŋiš-zid-da diŋir-ra-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,498,šu mu-da-ŋal₂-ŋal₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,499,pisaŋ u₃-šub-ka a sa-ga i₃-ak
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,500,ensi₂-ra a-dab₆ si-im a₂-la₂ mu-na-du₁₂-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,501,ka-al šeg₁₂-bi saŋ im-mi-du₈
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,502,lal₃ i₃-nun i₃-he-nun-na al im-ma-ni-tag
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,503,šembulugₓ ŋiš hi-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,504,ah-še₃ im-mi-ak
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,505,dusu kug mu-il₂ u₃-šub-e im-ma-gub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,506,gu₃-de₂-a im u₃-šub-ba i₃-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,507,niŋ₂-du₇ pa bi₂-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,508,e₂-a šeg₁₂-bi pa e₃ mu-ni-ŋa₂-ŋa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,509,kur-kur-re i₃ mu-da-sud-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,510,erin mu-da-sud-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,511,iri-ni ki lagaš{ki}-e si₁₁-le₂-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,512,ud mu-di₃-ni-ib₂-zal-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,513,u₃-šub mu-dub₂ šeg₁₂ had₂-de₃ ba-šub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,514,ka-al im aga₃-ri₂-na-ba-še₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,515,igi zid ba-ši-bar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,516,ha-šu-ur₂ šembulugₓ-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,517,saŋ im-ma-ni-du₈
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,518,šeg₁₂ u₃-šub-ba mi-ni-ŋar-ra-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,519,{d}utu im-da-hul₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,520,aga₃-ri₂ id₂ mah-gin₇ zig₃-ga-na
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,521,lugal {d}en-ki nam mu-X-tar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,522,mu-ŋar u₃-šub-ba e₂-a i₃-kur₉
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,523,pisaŋ u₃-šub-ba-ta šeg₁₂ ba-ta-il₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,524,men kug an-ne₂ il₂-la
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,525,šeg₁₂ mu-il₂ uŋ₃-ŋa₂-na mu-ŋen
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,526,erin₂ kug {d}utu saŋ bal-e-dam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,527,šeg₁₂-e e₂-še₃ saŋ il₂-la-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,528,ab₂ {d}nanna tur₃-ba erin₂-erin₂-dam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,529,šeg₁₂ mu-ŋar e₂-a mu-kuₓ-kuₓ
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,530,e₂-a ŋiš-hur-bi im-ŋa₂-ŋa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,531,{d}nisaba šag₄ šid zu-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,532,lu₂-tur gibil-bi e₂ du₃-gin₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,533,igi-ni u₃ dug₃-ga nu-ši-ku₄-ku₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,534,ab₂ amar-bi-še₃ igi ŋal₂-la-gin₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,535,e₂-še₃ te-te-ma im-ši-ŋen
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,536,lu₂ ninda tur ka-a gub-ba-gin₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,537,du-du-e nu-ši-kuš₂-u₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,538,šag₄ lugal-na ud-dam mu-na-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,539,gu₃-de₂-a-ar inim {d}nin-ŋir₂-su-ka urin-am₃ mu-du₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,540,šag₄ gu₃ di e₂ du₃-da-ka-na
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,541,inim-ŋar sag₉-ga-a lu₂ ma-a-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,542,hul₂-la-gin₇ im-ma-na-ni-ib₂-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,543,maš-a šu i₃-gid₂ maš-a-ni i₃-sag₉
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,544,še ba-šum₂ igi-bi si ib₂-sa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,545,gu₃-de₂-a saŋ-še₃ nu₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,546,mu-nu₂ inim mu-na-ta-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,547,e₂ lugal-na-ka du₃-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,548,e₂-ninnu an ki-ta bad-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,549,igi-a mu-na-a-ŋal₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,550,hul₂-la-gin₇ im-ma-na-ni-ib₂-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,551,gu mu-ba-ra me šu im-du₇-du₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,552,uz-ga kug-ge eš₃ mu-ŋa₂-ŋa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,553,e₂-a {d}en-ki-ke₄ temen mu-sig₉-ge
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,554,{d}nanše dumu eridug{ki}-ke₄ eš-bar kiŋ₂-ŋe₂₆ mi₂ ba-ni-dug₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,555,ama lagaš{ki} kug {d}ŋa₂-tum₃-dug₃-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,556,šeg₁₂-bi kur-ku₄-a mu-ni-tud
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,557,{d}ba-u₂ nin dumu-saŋ an-na-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,558,i₃ šim erin-na ba-ni-sud
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,559,e₂-e en ba-gub la-gal ba-gub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,560,me-e šu si im-ma-sa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,561,{d}a-nun-na u₃ di-de₃ im-ma-šu₄-šu₄-ge-eš₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,562,gu₃-de₂-a lu₂ e₂ du₃-a-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,563,e₂-a dusu-bi men kug saŋ-ŋa₂ mu-ni-ŋal₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,564,uš mu-ŋar a₂-ŋar ki im-mi-tag
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,565,sa₂ mu-sig₁₀ šeg₁₂-ga gu bi₂-dub₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,566,e₂-a sa₂ ₂-nam nam-mi-sig₁₀
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,567,gu {dug}ba saŋ ŋal₂-la-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,568,e₂-a sa₂ ₃-am₃ nam-mi-sig₁₀
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,569,anzud₂{mušen} amar-a a₂ pag-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,570,e₂-a sa₂ ₄ nam-mi-sig₁₀
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,571,nemurₓ piriŋ huš-a gu₂-da la₂-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,572,e₂-a sa₂ ₅-am₃ nam-mi-sig₁₀
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,573,an nisig su-lim il₂-la-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,574,e₂-a sa₂ ₆-am₃ nam-mi-sig₁₀
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,575,ud sa₂-dug₄-ga hi-li guru₃-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,576,e₂-a sa₂ ₇ nam-mi-sig₁₀
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,577,e₂-ninnu i₃-ti ud zal-la kalam si-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,578,ŋiš-kan₄-na im-ŋa₂-ŋa₂-ne
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,579,an nisig-ga men il₂-la-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,580,ŋiš-kan₄-na-ta ba-ta-tuš
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,581,e₂ mah an-da gu₂ la₂-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,582,e₂ mu-du₃ ŋiš-e im-ma-šub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,583,ambar {d}nanna saŋ keše₂ {d}en-ki-ka-kam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,584,e₂ hur-saŋ-gin₇ im-mu₂-mu₂-ne
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,585,dugud-gin₇ an-šag₄-ge im-mi-ni-ib₂-dirig-dirig-ne
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,586,gud-gin₇ si im-mi-ib₂-il₂-il₂-ne
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,587,ŋiš-gana₂ abzu-gin₇ kur-kur-ra saŋ ba-ni-ib₂-il₂-ne
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,588,e₂-e hur-saŋ-gin₇ an ki-a saŋ an-še₃ mi-ni-ib₂-il₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,589,erin duru₅ ki u₂ rib mu₂-a-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,590,e₂-ninnu šeg₁₂ ki-en-gi-ra₂-ka hi-li mu-ni-ib₂-du₈-du₈
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,591,e₂-a ŋiš im-ŋa₂-ŋa₂-ne
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,592,ušum abzu teš₂-ba ed₂-de₃-dam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,593,an-na im-mi-ib₂-u₃-u₃-dam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,594,muš-mah hur-saŋ-ŋa₂ nam ak-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,595,e₂ gi guru₅-bi muš kur-ra teš₂-ba nu₂-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,596,sa-tu-bi erin duru₅ ha-šu-ur₂-ra šu he₂-tag-ga-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,597,aga₃ erin igi u₆ di-bi-a erin babbar₂ im-ŋa₂-ŋa₂-ne
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,598,šim zid i₃-he-nun-ka mi₂ ba-ni-ib₂-e-ne
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,599,e₂ im-du₈-a-bi he-nun abzu šu tag-ga-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,600,A.ŊAR.KA-bi im-ši-ib₂-suru₅-ne
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,601,eš₃ e₂-ninnu šu an-na-ka ŋar-ŋar-a-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,602,ensi₂-ke₄ e₂ mu-du₃ mu-mu₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,603,kur gal-gin₇ mu-mu₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,604,temen abzu-bi dim gal-gal ki-a mi-ni-sig₉-sig₉
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,605,{d}en-ki-da e₂-an-gur₄-ra-ka
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,606,šag₄ mu-di₃-ni-ib₂-kuš₂-u₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,607,temen an-na ur-saŋ-am₃ e₂-e im-mi-dab₆
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,608,ki-a-naŋ diŋir-re-ne-ka a im-na₈-na₈-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,609,e₂-ninnu dim gal mu-gen₆
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,610,abgal₂-bi mu-du₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,611,iri-na {ŋeš}asal₂ dug₃-bi mu-du₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,612,ŋissu-bi mu-la₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,613,{ŋeš}šar₂-ur₃-bi urin gal-gin₇ lagaš{ki}-da im-da-sig₉
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,614,šu-ga-lam ki huš-ba im-mi-ni-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,615,su zig₃ bi₂-du₈-du₈ barag ŋir₂-nun-na ki di kud-ba
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,616,u₂-a lagaš{ki} gud gal-gin₇ a₂ ba-il₂-il₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,617,na gal-gal lagab-ba mi-ni-de₆-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,618,mu ₁-a mu-de₆ mu ₁-a mu-ak
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,619,ud ₂ ud ₃ nu-ma-da-ab-zal
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,620,a₂ ud-da ₁-ta mu-du₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,621,ud ₇-kam-ma-ka e₂-e im-mi-dab₆
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,622,na da-bi kun-še₃ mu-nu₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,623,šim-še₃ mu-dim₂-dim₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,624,e₂-a mi-ni-šu₄-šu₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,625,na kisal mah-a im-mi-du₃-a-na
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,626,na-du₃-a lugal kisal si
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,627,gu₃-de₂-a en {d}nin-ŋir₂-su-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,628,ŋir₂-nun-ta mu-zu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,629,na-ba mu-še₃ im-ma-sa₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,630,na kan₄-sur-ra bi₂-du₃-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,631,lugal a-ma-ru {d}en-lil₂-la₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,632,gaba-šu-ŋar nu-tuku
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,633,gu₃-de₂-a en {d}nin-ŋir₂-su-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,634,igi zid mu-ši-bar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,635,na-ba mu-še₃ im-ma-sa₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,636,na igi ud e₃-a-ka bi₂-du₃-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,637,lugal ud gu₃ di {d}en-lil₂-la₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,638,en gaba-ri nu-tuku
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,639,gu₃-de₂-a en {d}nin-ŋir₂-su-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,640,šag₄ kug-ge bi₂-pad₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,641,na-ba mu-še₃ im-ma-sa₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,642,na igi šu-ga-lam-ma-ka bi₂-du₃-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,643,lugal mu-ni-še₃ kur tuku₂-tuku₂-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,644,gu₃-de₂-a en {d}nin-ŋir₂-su-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,645,gu-za-ni mu-gen₆
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,646,na-ba mu-še₃ im-ma-sa₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,647,na igi e₂-uru₁₈-ga-ka bi₂-du₃-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,648,gu₃-de₂-a en {d}nin-ŋir₂-su-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,649,nam dug₃ mu-ni-tar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,650,na-ba mu-še₃ im-ma-sa₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,651,na a-ga {d}ba-u₂-ka bi₂-du₃-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,652,e₂-ninnu igi an-na-ke₄ zu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,653,{d}ba-u₂ zi-šag₄-ŋal₂ gu₃-de₂-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,654,na-ba mu-še₃ im-ma-sa₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,655,e₂ lugal-na zid-de₃-eš₂ mu-du₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,656,sipad zid gu₃-de₂-a an ki im-da-mu₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,657,ud-sakar gibil-gin₇ men bi₂-il₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,658,mu-bi kur-šag₄-še₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,659,pa bi₂-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,660,gu₃-de₂-a e₂ {d}nin-ŋir₂-su-ka
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,661,{d}utu-gin₇ dugud-ta ba-ta-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,662,hur-saŋ za-gin₃-na-gin₇ mu-mu₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,663,hur-saŋ nu₁₁ babbar₂-ra-gin₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,664,u₆ di-de₃ ba-gub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,665,dub-la₂-bi am-gin₇ mu-šu₄-šu₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,666,ušum-bi ur-mah-gin₇ šu-ba bi₂-nu₂-nu₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,667,gi-gun₄-bi ab-zu-gin₇ ki sikil-e bi₂-mu₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,668,urin-bi tarah kug abzu-gin₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,669,si ba-mul-mul
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,670,ud-sakar gibil an-na gub-ba-gin₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,671,gu₃-de₂-a e₂ {d}nin-ŋir₂-su-ka
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,672,u₆ di-de₃ ba-gub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,673,e₂-a dub-la₂-bi šu₄-šu₄-ga-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,674,la-ha-ma abzu-da šu₄-ga-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,675,e₂ ŋiš ŋar-ra-bi a-ŋi₆ ambar mah muš a sig-ga-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,676,e₂ gid₂-da-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,677,an bar-bar-ra ni₂-ŋal₂-la-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,678,e₂ e₂-dul₄-la-bi nu₁₁ an-šag₄-ge dirig-ga-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,679,kan₄ ki lugal kur₉-bi-ta
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,680,hu-ri₂-in am-še₃ igi il₂-il₂-dam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,681,{ŋeš}ti kan₄-e us₂-sa-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,682,tirₓ-an-na an-ne₂ us₂-sa-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,683,ŋiš-kan₄ an-na-bi e₂-ninnu ud gu₃-ba gu₃ di teš₂-ba gub-ba-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,684,sig₇-igi-bi ni₂ il₂-il₂-a-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,685,igi u₆ di diŋir-re-ne-kam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,686,e₂-a barag babbar₂ mu-ru-gu₂-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,687,hur-saŋ za-gin₃-na an ki-a ki he₂-us₂-sa-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,688,kiŋ₂-sig₁₇ unu₆ gal mu-ŋa₂-ŋa₂-ne
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,689,bur kug-sig₁₇ lal₃ ŋeštin de₂-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,690,an-ne₂ šu₄-ga-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,691,e₂-nu₂-da mu-du₃-ne
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,692,kur šar₂-da meš₃ kug abzu-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,693,gurun₇ il₂-la-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,694,mu-du₃ šu im-ta-ŋar-ra-ta
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,695,šag₄ diŋir-re-ne gu₂-bi gi₄-a-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,696,sipad zid gu₃-de₂-a gal mu-zu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,697,gal i₃-ga-tum₂-mu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,698,a-ga tukul la₂ kan₄ me₃-ba
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,699,ur-saŋ šeg₉-saŋ-₆ saŋ-ar-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,700,im-ma-ab-dab₅-be₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,701,igi iri{ki}-še₃ ki ni₂ guru₃-ba
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,702,muš-saŋ-₇-am₃ im-ma-ab-dab₅-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,703,šu-ga-lam kan₄ me-lem₄-ba
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,704,ušum ŋišnimbar-bi im-ma-ab-dab₅-be₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,705,igi ud e₃ ki nam tar-re-ba
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,706,šu-nir {d}utu saŋ-alim-ma
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,707,im-ma-da-sig₉-ge
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,708,kan₄-sur-ra igi u₆ di-ba
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,709,ur-mah ni₂ diŋir-re-ne-kam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,710,im-ma-ab-dab₅-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,711,tar-sir₂-sir₂ ki a₂ aŋ₂-ba
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,712,ku-li-an-na urud-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,713,im-ma-ab-dab₅-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,714,a-ga {d}ba-u₂ ki šag₄ kuš₂-ba
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,715,ma₂-gi₄-lum gud-alim-bi-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,716,im-ma-ab-dab₅-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,717,ur-saŋ ug₅-ga i₃-me-ša-ke₄-eš₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,718,ka-bi ki a naŋ-še₃ mu-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,719,mu-bi mu-ru diŋir-re-ne-ka
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,720,gu₃-de₂-a ensi₂ lagaš{ki}-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,721,pa e₃ ba-ni-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,722,ig {ŋeš}erin-na e₂-a šu₄-ga-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,723,{d}iškur an-ta gu₃ nun di-da-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,724,e₂-ninnu saŋ-kul-bi idim
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,725,{ŋeš}nu-kušu₄-bi ur-mah
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,726,si-ŋar-bi-ta muš-šag₄-tur₃ muš-huš
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,727,am-še₃ eme ed₂-de₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,728,ga-du ig-e u₅ us₂-sa-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,729,ug nemurₓ tur-tur šu-ba du₂-ru-na-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,730,e₂-a gag ŋiš-ur₃ kug mu-sig₉-ge₄-ne
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,731,ušum lu₂-še₃ šu ib₂-ŋar-ra-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,732,ig-ba eš₂ kug im-suru₅-ne
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,733,{d}nirah kug abzu dar-a-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,734,e₂-sa-la₂-a-bi keš₃{ki} aratta{ki} na de₅-ga-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,735,e₂-sa-du₈-a-bi piriŋ huš-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,736,kalam-ma igi mi-ni-ib₂-ŋal₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,737,dili du igi-bi nu-ma-dib-be₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,738,e₂-ninnu ni₂-bi kur-kur-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,739,tug₂-gin₇ im-dul₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,740,e₂ kug NE-a an-ne₂ ki ŋar-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,741,šembi₂-zid-da šu tag dug₄-ga
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,742,še-er-zid an-na-ka i₃-ti-gin₇ e₃-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,743,e₂ igi-bi kur gal ki us₂-sa
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,744,šag₄-bi nam-šub šir₃ ha-mun
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,745,bar-bi an e₂ mah he₂-ŋal₂-la zig₃-ga
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,746,gu₂-en bar-ra-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,747,ki di kud {d}a-nun-ke₄-ne
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,748,a-lal₃-bi-ta inim šudu₃-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,749,šukur₂-bi-da he₂-ŋal₂ diŋir-re-ne-kam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,750,urin e₂-da sig₉-sig₉-ga-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,751,anzud₂{mušen} kur šubaₓ-a a₂ he₂-ba₉-ra₂-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,752,e₂-ninnu im-bi im ha-mun
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,753,{id₂}edin-ta ed₃-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,754,lugal-bi en {d}nin-ŋir₂-su-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,755,šag₄ kug-ge bi₂-pad₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,756,šembi₂-zid-gin₇ saŋ-ŋa₂ mi-ni-ib₂-de₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,757,gu₃-de₂-a še-er-zid an-na-ka
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,758,šu tag ba-ni-dug₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,759,e₂ gud-bi-ta
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,760,i₃ kur₉ ga kur₉
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,761,udun-mah-bi-ta
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,762,gug₂ gal si gal
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,763,ŋiri₂-PA-na-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,764,gud gu₇ udu gu₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,765,e₂ ki šukur₂-bi uz-ga eš₃ ŋa₂-ŋa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,766,ne-saŋ-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,767,kur ŋeštin biz-biz-ze₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,768,e₂-lunga₃-bi-ta
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,769,{id₂}idigna a-u₃-ba ŋal₂-la-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,770,e₂ niŋ₂-gur₁₁-ra-bi-a za kug nagga
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,771,e₂ {ŋeš}gigir-ra-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,772,kur ki-a gub-ba
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,773,a-ga balaŋ-a-bi gud gu₃ nun di
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,774,kisal-bi šudu₃ kug si-im a₂-la₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,775,kun na₄ e₂-a nu₂-a-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,776,hur-saŋ ul nun-ne₂-eš₂ nu₂-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,777,kun an-na ur₃-še₃ da-a-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,778,nu₁₁ kur-še₃ igi sud il₂-dam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,779,{ŋeš}kiri₆ gig₂ edin e₂-še₃ sig₉-ga-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,780,kur ŋeštin biz-biz-ze₂ ki ni₂ me-lem₄-e mu₂-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,781,na ₇ e₂-e dab₆-ba-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,782,niŋ₂ lugal-bi-da šag₄ kuš₂-kuš₂-dam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,783,e₂-ninda-ki-sig₁₀-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,784,niŋ₂ sikil abzu na de₅-ga-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,785,šim na₄ e₂-a šu₄-ga-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,786,e₂ gudug kug a nu-silig₅-ge-dam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,787,bad₃-si an-na
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,788,tum₁₂{mušen} du₂-ru-na-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,789,eridug{ki} nam du₃-X-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,790,e₂-ninnu tum₁₂{mušen}-e ni₂ bi₂-ne
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,791,an-dul₃ pa gal-gal ŋissu dug₃-ga-kam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,792,sim{mušen} mušen-e šeg₁₂ mu-gi₄-gi₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,793,e₂-kur {d}en-lil₂-la₂ ezen ŋal₂-la-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,794,e₂-a ni₂ gal-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,795,kalam-ma mu-ri
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,796,ka tar-ra-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,797,kur-re ba-ti
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,798,e₂-ninnu ni₂-bi kur-kur-ra tug₂-gin₇ im-dul₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,799,e₂ lugal-bi hi-li-a i₃-du₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,800,{d}nin-ŋiš-zid-da-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,801,ki gal-la bi₂-du₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,802,gu₃-de₂-a ensi₂ lagaš{ki}-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,803,temen-bi mu-sig₉
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,804,e₂ {d}utu-gin₇ kalam-ma e₃-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,805,gud gal-gin₇ sahar bar-ra gub-ba
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,806,i₃-ti giri₁₇-zal-gin₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,807,unken-ne₂ si-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,808,hur-saŋ sig₇-ga-gin₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,809,hi-li guru₃-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,810,u₆ di-de₃ gub-ba
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,811,e₂-ninnu ki-bi gi₄-a-ba
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,812,{d}nin-ŋir₂-su za₃-mi₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,813,e₂ {d}nin-ŋir₂-su-ka du₃-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,814,za₃-mi₂ mu-ru-bi-im
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,815,e₂ dim gal kalam-ma
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,816,an ki-da mu₂-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,817,e₂-ninnu šeg₁₂ zid {d}en-lil₂-e nam dug₃-ga tar-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,818,hur-saŋ nisig-ga u₆-e gub-ba
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,819,kur-kur-ta e₃-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,820,e₂ kur gal-am₃ an-ne₂ im-us₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,821,{d}utu-am₃ an-šag₄-ge im-si
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,822,e₂-ninnu anzud₂{mušen} babbar₂-ra-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,823,kur-ra dub₃ mi-ni-ib₂-bad
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,824,uŋ₃ ba-ŋar-ŋar kalam ba-gub-gub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,825,{d}a-nun-na u₆ di-de₃ im-ma-šu₄-šu₄-ge-eš₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,826,ensi₂ kug-zu-am₃ inim zu-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,827,nam-diŋir-re giri₁₇ ki im-mi-su₂-su₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,828,sizkur₂ ra-zu-a niŋ₂-dun-a ki im-mi-us₂-us₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,829,ensi₂-ke₄ diŋir iri-na-ke₄ ra₂-zu im-ma-be₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,830,e₂ ninda gu₇-bi ninda ba-an-tah
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,831,kiŋ₂-sigₓ udu dab₅-bi udu im-ma-a-tah
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,832,bur he₂-ŋal₂ an-šag₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,833,gaba-ba si bi₂-sa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,834,{d}a-nun-na-ke₄-ne-er mu-ne-gub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,835,šudu₃ mu-ne-ša₄ {d}a-nun-na-{d}a-nun-na u₆ di-de₃ ki lagaš{ki}
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,836,{d}lamma kur-kur-ra dug₄-ga-ne-ne a mah e₃-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,837,lu₂ u₂ la₂ ba-ab-la₂-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,838,šul zid lu₂ igi mu-ši-bar-ra-ne
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,839,nam-til₃ mu-na-sud
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,840,sipad-me e₂ mu-du₃ lugal-ŋu₁₀ e₂-a-na mi-ni-ku₄-ku₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,841,{d}a-nun-na bar-ŋu₁₀-a šudu₃ he₂-mi-sa₄-za
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,842,sipad zid gu₃-de₂-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,843,gal mu-zu gal i₃-ga-tum₂-mu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,844,u₂-dug₄ sag₉-ga-ni igi-še₃ mu-na-ŋen
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,845,{d}lamma sag₉-ga-ni eŋer-ni im-us₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,846,lugal-ni e₂ ul e₂ libir ki-tuš-na-še₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,847,gu₃-de₂-a en {d}nin-ŋir₂-su-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,848,niŋ₂-ba na-gu-ul-gu-ul
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,849,en-ra e₂-ninnu-a mu-na-kurₓ
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,850,šudu₃ mu-na-ša₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,851,lugal-ŋu₁₀ {d}nin-ŋir₂-su
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,852,en a huš gi₄-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,853,en dug₄-ga-ni saŋ-biš e₃-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,854,dumu-nitah₂ {d}en-lil₂-la₂ ur-saŋ ma-a-dug₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,855,šu zid ma-ra-a-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,856,{d}nin-ŋir₂-su e₂-zu mu-ra-du₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,857,hul₂-la ha-ni-ku₄-ku₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,858,{d}ba-u₂-ŋu₁₀ a₂-mi-zu ma-ra-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,859,ki-tuš dug₃-ga-ma-ni-ib₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,860,gu₃ de₂-a-ni ŋiš ba-tuku-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,861,ur-saŋ-e sizkur₂ ra₂-zu-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,862,gu₃-de₂-a-aš₂ en {d}nin-ŋir₂-su-ke₄ šu ba-ši-ti
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,863,mu ŋen-na-am₃ itid til-la-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,864,mu gibil an-na im-ma-gub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,865,itid e₂-ba ba-a-kur₉
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,866,itid-bi ud ₃-am₃ im-ta-zal
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,867,{d}nin-ŋir₂-su eridug{ki}-ta ŋen-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,868,i₃-ti sa-sa im-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,869,kalam-ma ud mu-ŋal₂ e₂-ninnu {d}suen u₃-tud-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,870,saŋ im-ma-da-ab-sa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,871,gu₃-de₂-a gug za-gin₃ mi-ni-uh
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,872,ub-da im-mi-dug₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,873,i₃-he-nun-na ki ba-ni-sud
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,874,lu₂ kiŋ₂ ak-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,875,e₂-ta ba-ta-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,876,lal₃ i₃-nun ŋeštin ga še-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,877,ŋiš-ŋi₆-par₄ {ŋeš}peš₃ niŋ₂-ŋen-na
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,878,ga saŋ-ba dim₂-ma
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,879,zu₂-lum {ŋeš}an ŋeštin tur-tur
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,880,niŋ₂ izi nu-tag-ga
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,881,niŋ₂-gu₇ diŋir-re-ne-kam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,882,lal₃ i₃-nun-na kiŋ₂ ba-ni-ak
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,883,ud diŋir zid-da du-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,884,gu₃-de₂-a ud ten-ta
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,885,kiŋ₂-sigₓ-ge bi₂-dib
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,886,e₂-e {d}asar-ri šu si ba-sa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,887,{d}nin-ma-da-ke₄ na de₅ mi-ni-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,888,lugal {d}en-ki-ke₄ eš-bar kiŋ₂ ba-an-šum₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,889,{d}nin-dub išib mah eridug{ki}-ga₁₄-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,890,na-izi ba-ni-sig₉
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,891,nin ŋarza kal-la-ke₄ {d}nanše šir₃ kug dug₄ zu e₂-e ba-an-dug₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,892,u₈ gig₂-ge umbin mi-ni-ib₂-kiŋ₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,893,im-ma-al an-na-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,894,ubur si ba-ni-ib₂-sa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,895,{ŋeš}šinig {ŋeš}ŠEG₉.AN u₃-tud-da-ta
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,896,e₂-ninnu im-ta-sikil-e-ne
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,897,im-ta-dadag-ge-eš₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,898,ensi₂-ke₄ iri-a dub₃ bi₂-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,899,kalam-ma sig bi₂-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,900,du₆-du₆ mu-si-ig inim-ŋar mu-gi₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,901,a-ah dug₄-ga ŋiri₂-ta ŋar-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,902,iri-a ama lu₂ tur₅-ra-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,903,a silim ŋar-ra-am₃ maš-anše niŋ₂-zi-ŋal₂ edin-na
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,904,teš₂-bi-še₃ gam-ma-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,905,ur-mah piriŋ ušumgal edin-na-ka
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,906,u₃ dub₃ ŋar-ra-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,907,ud sizkur₂-re ŋi₆ šudu₃-de₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,908,i₃-ti niŋ₂ ud-zal-la-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,909,lugal-bi mu-um-ŋe₂₆-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,910,ur-saŋ {d}nin-ŋir₂-su e₂-a mi-NI-ku₄-ku₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,911,e₂-a lugal-bi im-ma-ŋen
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,912,hu-ri₂-in am-še₃ igi il₂-il₂-dam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,913,ur-saŋ e₂-a-na ku₄-ku₄-da-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,914,ud me₃-še₃ gu₃ ŋar-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,915,{d}nin-ŋir₂-su e₂-na mu-kuₓ-kuₓ
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,916,eš₃ abzu ezen ŋal₂-la-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,917,lugal e₂-ni-ta nam-ta-ŋen
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,918,{d}utu ki lagaš{ki}-e e₃-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,919,{d}ba-u₂ a₂-mi-ni-še₃ du-a-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,920,munus zid e₂-a-ni-še₃ šu ŋa₂-ŋa₂-dam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,921,a₂-nu₂-da-ka-na kur₉-ra-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,922,{id₂}idigna a-u₃-ba ŋar-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,923,da tuš-a-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,924,nin dumu an kug-ga {ŋeš}kiri₆ nisig-ga gurun il₂-la-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,925,ud e₃-am₃ nam tar-ra-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,926,{d}ba-u₂ a₂-mi-na kur₉-ra-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,927,ki lagaš{ki} he₂-ŋal₂-la-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,928,ud im-zal {d}utu lagaš{ki}-ke₄ kalam-ma saŋ mi-ni-il₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,929,gud-i₃ udu-i₃ e₂-e bi₂-dab₅
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,930,bur an-na mu-gub tin mu-ni-de₂-de₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,931,{d}a-nun-na ki lagaš{ki} en {d}nin-ŋir₂-su-da ki-bi mu-da-rin₂-ne₂-eš₂-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,932,e₂-a nam-išib-ba šu mi-ni-du₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,933,eš-bar kiŋ₂ mi₂ mi-ni-dug₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,934,tin bur gal-la im-ma-de₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,935,e₂-ninnu gu₂ im-ma-gur-re
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,936,eš₃ {d}nin-dub-ke₄ šeg₁₂ mu-gi₄-gi₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,937,ninda ud-da ga maš₂-lulim-ma
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,938,ud ŋi₆-e de₆-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,939,nir-ŋal₂ dumu ki aŋ₂ {d}en-lil₂-la₂ ur-saŋ {d}nin-ŋir₂-su
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,940,u₃-a mi-ni-zi-zi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,941,me gal-gal-la saŋ mi-ni-il₂-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,942,mar-za e₂-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,943,eš₃ e₂-ninnu ki-us₂ mu-ŋa₂-ŋa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,944,zid-du-e šu si sa₂-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,945,erim₂-du-e gu₂ ŋiš ŋa₂-ŋa₂-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,946,e₂ gen₆-ne₂-da e₂ dug₃-ge-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,947,iri-ni eš₃ ŋir₂-su{ki} na de₆ šum₂-mu-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,948,{ŋeš}gu-za nam tar-ra gub-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,949,ŋidru ud su₃-ra₂ šu-a ŋa₂-ŋa₂-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,950,sipad {d}nin-ŋir₂-su-ke₄ gu₃ de₂-a-ar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,951,men nisig-ga-gin₇ saŋ an-še₃ il₂-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,952,kuš la₂ gada la₂ saŋ-a mur₁₀-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,953,kisal e₂-ninnu-ka ki-gub pad₃-de₃-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,954,ig gal dim ŋir₂-nun-na gal₅-la₂ gal ŋir₂-su{ki}
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,955,{d}ig-alim dumu ki aŋ₂-ŋa₂-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,956,en {d}nin-ŋir₂-su-ra me-ni-da mu-na-da-dib-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,957,e₂ sikil-e-da šu₄-luh ŋa₂-ŋa₂-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,958,šu kug a en-ra šum₂-mu-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,959,kaš bur-ra de₂-da tin dug-a de₂-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,960,e₂-lunga₃ e₂ a₂ sikil-ba
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,961,u₂-lu₅-ši-e a pap-sir₂-gin₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,962,kun-ka₃-an za-a-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,963,gud du₇ maš₂ du₇ udu niga
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,964,ninda ud-da ga maš₂-lulim-ma
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,965,ud ŋi₆-e de₆-a nir-ŋal₂ dumu ki aŋ₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,966,{d}en-lil₂-la₂ ur-saŋ {d}nin-ŋir₂-su
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,967,gu₇-a naŋ-a u₃-a zi-zi-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,968,en šu₄-luh dadag-ga dumu-saŋ e₂-ninnu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,969,{d}šul-šag₄-ga {d}nin-ŋir₂-su-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,970,me-ni-da mu-na-da-dib-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,971,šita₂ saŋ ₇ šu du₈-a-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,972,e₂-en-kar₂ kan₄ me₃-ka ig-bi ŋal₂ da₁₃-da₁₃-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,973,eme ŋiri₂ mi-tum ŋiš-a-ma-ru
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,974,mar₆-ra-tum ŋiš-hur me₃-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,975,si sa₂-sa₂-a-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,976,kur gu₂-erim₂-ŋal₂ {d}en-lil₂-la₂-ka
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,977,a-gin₇ ŋa₂-ŋa₂-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,978,ur-saŋ {ŋeš}šar₂-ur₃ me₃-a kur šu-še₃ ŋar-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,979,šagina gu₂-tuku e₂-ninnu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,980,{mušen}sur₂-du₃ ki-bal-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,981,{d}lugal-kur-dub₂ šagina-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,982,en {d}nin-ŋir₂-su-ra me-ni-da mu-na-da-dib-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,983,mi-tum an-na-ke₄ ud huš-gin₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,984,kur-še₃ gu₃ ŋar-ra-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,985,{ŋeš}šar₂-ur₃ a-ma-ru me₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,986,ŋiš-gaz ki-bal-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,987,en-ne₂ ki-bal kur saŋ-ki-ni u₃-ma-da-gid₂-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,988,gu₃ mi-ri₂-a-ni u₃-ma-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,989,lipiš-bi u₃-mu-ra₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,990,en-na šagina ₂-kam-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,991,kur-šu-na-buru₅{mušen}-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,992,dumu {d}en-lil₂-la₂-ra me-ni-da mu-na-da-dib-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,993,nam-šita ki lagaš{ki}
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,994,šu du₈-a-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,995,sizkur₂ ra₂-zu-bi dug₃-ga ŋa₂-ŋa₂-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,996,ur-saŋ eridug{ki}-še₃ du-a-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,997,silim-ma dug₃ di-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,998,{d}nin-ŋir₂-su eridug{ki}-ta du-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,999,iri du₃-a {ŋeš}gu-za-bi gen₆-na-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1000,nam-til₃ sipad zid
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1001,gu₃-de₂-a-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1002,giri₁₇ šu ŋal₂-la-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1003,ad gi₄-gi₄-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1004,{d}lugal-si-sa₂ en {d}nin-ŋir₂-su-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1005,me-ni-da mu-na-da-dib-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1006,tur dug₄-ga-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1007,mah dug₄-ga-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1008,inim si sa₂-e zu₂ keše₂ ak-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1009,erim₂ dug₄-ga
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1010,ur-saŋ barag kug-ga tuš-a-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1011,{d}nin-ŋir₂-su-ra e₂-ninnu-a inim-bi ku₄-ku₄-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1012,{d}šakkan₂ šeg₉-bar sukkal e₂-dug₃-ga saŋ-an-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1013,en {d}nin-ŋir₂-su-ra me-ni-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1014,mu-na-da-dib-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1015,a kug-ge-da naŋa sikil-e-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1016,i₃ bur babbar₂-ra naŋa E₂.NUN-na-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1017,ŋiš-nu₂ u₂ za-gin₃ ba-ra-ga-na
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1018,u₃ dug₃ ku₄-ku₄-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1019,e₂-nu₂ e₂-dug₃-ga-ni-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1020,bar-ra ku₄-ku₄-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1021,šag₄-ga nu-e₃-e₃-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1022,{d}kinda-zid lu₂ e₂-dug₃-ga-kam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1023,en {d}nin-ŋir₂-su-ra me-ni-da mu-na-da-dib-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1024,{ŋeš}gigir kug an mul-a erin₂-na-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1025,{anše}dur₉-bi piriŋ-kaš₄-e-pad₃-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1026,anše-ba sig₁₀-ga-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1027,anše sig-a anše eridug{ki}-ga₁₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1028,{anše}dur₉-da kur-kur kur₉ di-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1029,lugal-bi {d}nin-ŋir₂-su hul₂-la tum₂-mu-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1030,lu₂ ug-gin₇ šeg₁₂ gi₄-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1031,mar-uru₅-gin₇ zig₃-ga
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1032,maškim da-ga {d}nin-ŋir₂-su-ka
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1033,{d}en-šeg₁₂-nun sipad anše-ka-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1034,en {d}nin-ŋir₂-su-ra me-ni-da mu-na-da-dib-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1035,i₃ hi-a-da gara₂ hi-a-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1036,ud₅ kug ud₅ ga naŋ maš₂-lulim
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1037,ama {d}nin-ŋir₂-su-ka
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1038,i₃ ga-bi eš₃ e₂-ninnu-a muš nu-tum₂-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1039,en-lulim sipad maš₂-lulim en {d}nin-ŋir₂-su-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1040,me-ni-da mu-na-da-dib-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1041,ti-gi₄ niŋ₂ dug₃-ge si sa₂-a-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1042,kisal e₂-ninnu hul₂-a si-a-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1043,al-ŋar mi-ri₂-tum niŋ₂ e₂-dug₃-ga
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1044,ur-saŋ ŋeštug-a-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1045,{d}nin-ŋir₂-su-ra e₂-ninnu dug₃-bi ŋa₂-ŋa₂-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1046,nar ki aŋ₂-a-ni ušumgal kalam-ma
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1047,en {d}nin-ŋir₂-su-ra me-ni-da mu-na-da-dib-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1048,šag₄ huŋ-ŋa₂-da bar huŋ-ŋa₂-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1049,igi er₂ pad₃-da er₂ šeₓ-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1050,šag₄ a-nir-ta a-nir be₄-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1051,en-na šag₄ ab-gin₇ zig₃-ga-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1052,{id₂}buranuna{ki}-gin₇ luh-ha-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1053,a-ma-ru-gin₇ sa-ga dug₄-ga-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1054,kur gu₂-erim₂-ŋal₂ {d}en-lil₂-la₂-ka
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1055,a-gin₇ u₃-mi-ŋar šag₄ gu₂-bi gi₄-a-ni a sed₆ su₃-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1056,balaŋ-ŋa₂-ni lugal-igi-huš-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1057,en {d}nin-ŋir₂-su-ra me-ni-da mu-na-da-dib-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1058,lukur ki ig-ni he₂-ŋal₂ lu₂ šar₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1059,{d}za-za-ru
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1060,{d}iškur-pa-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1061,{d}ur₂-agrun-ta-e₃-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1062,{d}he₂-ŋir₂-nun-na
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1063,{d}he₂-šag₄-ga
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1064,{d}zu₂-ur₂-ŋu₁₀
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1065,{d}za-ar-ŋu₁₀
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1066,dumu maš ₇ {d}ba-u₂-me
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1067,ban₃-da en {d}nin-ŋir₂-su-ka-me
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1068,nam-šita sag₉-ga gu₃-de₂-a-a-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1069,en {d}nin-ŋir₂-su-ra mu-na-da-šu₄-ge-eš₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1070,gana₂ gal-gal-e šu il₂-la-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1071,eg₂ pa₄ lagaš{ki}-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1072,gu₂-bi zig₃-ga-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1073,edin lugal-bi-ir tum₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1074,gu₂-edin-na-ka {d}ezina₂-ku₃-su₃ pa sikil-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1075,absin₃-na saŋ an-še₃ il₂-še₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1076,gana₂ zid-bi gig ziz₂ gu₂-gu₂ um-de₆
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1077,guru₇-guru₇ maš ki lagaš{ki}-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1078,gu₂ gur-gur-ra-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1079,saŋ-tun₃ {d}en-lil₂-la₂ engar gu₂-edin-na
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1080,{d}ŋiš-bar-e₃ en {d}nin-ŋir₂-su-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1081,me-ni-da mu-na-da-an-dib-be₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1082,ambar-bi {ku₆}HI.SUHUR {ku₆}suhur u₃-de₆
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1083,ŋiš-gi nisig-ga-bi gi ha-bu₃-ur₂ u₃-de₆
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1084,imin-šatam ra-gaba gu₂-edin-na-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1085,{d}nin-ŋir₂-su-ra e₂-ninnu-a inim-bi ku₄-ku₄-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1086,{d}lamma enkud-e gu₂-edin-na
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1087,en {d}nin-ŋir₂-su-ra me-ni-da mu-na-da-dib-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1088,edin ki dug₃-ge na de₅-ga-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1089,gu₂-edin-na edin dug₃-ge
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1090,na de₅ šum₂-ma-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1091,mušen-bi rin₂-rin₂-na-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1092,nunuz-bi e₂-DI-a ŋal₂-la-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1093,ama-bi buluŋ₃-e-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1094,du₈-du₈ maš-anše lu-a-ba
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1095,edin ki aŋ₂ {d}nin-ŋir₂-su-ka-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1096,niŋ₂-kud nu-ak-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1097,{d}dim-gal-abzu niŋir gu₂-edin-na
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1098,en {d}nin-ŋir₂-su-ra me-ni-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1099,mu-na-da-dib-be₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1100,iri du₃-a-da ki-tuš ŋar-ra-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1101,bad₃ iri-kug-ga en-nu du₃-a-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1102,{d}aga-us₂ dag-ga-na-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1103,šita₂ saŋ mah {ŋeš}erin babbar₂-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1104,e₂-e dab₆-ba-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1105,{d}lugal-en-nu-iri-kug-ga-kam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1106,en {d}nin-ŋir₂-su-ra me-ni-da mu-na-da-dib-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1107,an kug-ge zid-de₃-eš₂ mu-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1108,{d}en-lil₂-e saŋ-ba gur bi₂-dar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1109,{d}nin-hur-saŋ-ke₄ igi zid ba-ši-bar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1110,{d}en-ki lugal eridug{ki}-ke₄ temen-bi mu-sig₉
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1111,en zid šag₄ zalag-zalag-ga-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1112,{d}suen-e me-bi an ki-a im-mi-dirig-ga-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1113,{d}nin-ŋir₂-su-ke₄ eš₃ numun i-a šag₄-ge ba-ni-pad₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1114,ama {d}nanše šeg₁₂ ki lagaš{ki}-ka
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1115,mi₂ zid ba-ni-in-dug₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1116,diŋir numun zid-zid-da-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1117,e₂ mu-du₃ mu-bi pa bi₂-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1118,aŋrig kalag-ga {d}nanše-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1119,sipad gu₂-tuku {d}nin-ŋir₂-su-ka-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1120,gal mu-zu gal i₃-ga-tum₂-mu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1121,e₂-e lu₂ e₂ du₃-a-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1122,gu₃-de₂-a ensi₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1123,lagaš{ki}-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1124,saŋ im-rig₇-ge
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1125,{ŋeš}gigir kur mu-gam su zig₃ guru₃ ni₂ gal u₅-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1126,{anše}dur₉-bi ud-gu₃-dug₃-dug₃-ga
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1127,anše-ba sig₁₀-ga-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1128,šita₂ saŋ ₇ tukul huš me₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1129,tukul ub ₂-e nu-il₂ ŋiš-gaz me₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1130,mi-tum tukul nir₃ saŋ piriŋ
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1131,kur-da gaba nu-gi₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1132,{ŋeš}eme ŋiri₂ šu-nir ₁₀ lal ₁
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1133,a₂ nam-ur-saŋ-ŋa₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1134,{ŋeš}pan tir meš₃-gin₇ gu₃ ŋar-ra-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1135,ti sumur me₃-a nim-gin₇ ŋir₂-da-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1136,e₂-mar-uru₅ ug piriŋ muš-huš-še₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1137,eme ed₂-de₃-da-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1138,a₂ me₃ me nam-lugal si-si-a-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1139,ensi₂ lu₂ e₂ du₃-a-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1140,gu₃-de₂-a ensi₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1141,lagaš{ki}-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1142,saŋ im-mi-ib₂-rig₇-ge
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1143,urud nagga lagab za-gin₃-na kug NE gug gi-rin me-luh-ha-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1144,{urud}šen mah {urud}uri mah
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1145,{urud}eš₂-da kug {urud}bur kug an-ne₂ tum₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1146,
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1147,banšur kug an-na il₂-la-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1148,ki sa₂-dug₄-ga bi₂-gub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1149,{d}nin-ŋir₂-su-ke₄ iri-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1150,lagaš{ki}-e u₂ ki dug₃ ba-šum₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1151,e₂ ki-nu₂-a ki ni₂ te e₂-a-ba
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1152,nu₂ mu-ni-gub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1153,kur-kur-re mušen-gin₇ sila-ba dumu {d}en-lil₂-la₂-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1154,ni₂ mu-da-ab-ten-ten
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1155,id₂-de₃ a zal-le si-a-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1156,ambar-ra HI.SUHUR{ku₆} suhur{ku₆} ŋal₂-la-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1157,enkud ku₃-ŋal₂-bi zag-ba gub-ba-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1158,a gal-gal-e še si-si-a-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1159,guru₇-du₆ guru₇-maš ki lagaš{ki}-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1160,gu₂ gur-gur-ra-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1161,tur₃ du₃-a-da a-maš du₃-a-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1162,u₈ zid-da sila₄ du₃-du₃-a-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1163,udu-nitah₂ u₈ zid-bi šu ba-ba-ra-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1164,ab₂ zid-da amar gub-gub-ba-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1165,šag₄-ba {gud}ninda₂ gu₃ nun-bi di-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1166,gud-e šudul₂-la si sa₂-a-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1167,engar gud-ra-bi zag-ba gub-ba-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1168,anše niŋ₂-tug₂-bi il₂-a-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1169,a₂-dab₅ še si-bi eŋer-bi us₂-sa-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1170,dur₉-e {urud}ha-X mah la₂-a-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1171,e₂-kin₂-kin₂ mah il₂-la-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1172,GADA+KID₂.DU₈ e₂ geme₂ tur {d}nin-ŋir₂-su-ka-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1173,a-a-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1174,ŋar-e si sa₂-a-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1175,kisal e₂-ninnu-ke₄ hul₂-la si-a-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1176,si-im-da a₂-la₂ balaŋ nam-nar šu du₇-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1177,balaŋ ki aŋ₂-ni ušumgal kalam-ma
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1178,saŋ-ba ŋen-na-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1179,ensi₂ e₂-ninnu mu-du₃-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1180,gu₃-de₂-a en {d}nin-ŋir₂-su-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1181,mu-na-da-ku₄-ku₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1182,e₂-e me gal-la saŋ mi-ni-ib₂-il₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1183,ni₂ me-lem₄-ma šu mi-ni-ib₂-du₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1184,ma₂-gur₈-gin₇ sumur₃ im-X
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1185,dim₂-sa-bi im-ak
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1186,lugal-bi barag ŋir₂-nun-na-ka
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1187,ur-saŋ {d}nin-ŋir₂-su ud-de₃-eš₂ im-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1188,{ŋeš}PU₂ niŋ₂ il₂-la du₂-ru-na-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1189,an sig₇-ga su₂-lim il₂-la-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1190,šu-nir-bi saŋ-šu₄-ga-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1191,{d}nin-ŋir₂-su su zig₃ mu-guru₃-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1192,kuš la₂ igi-bi-še₃ si sa₂-a-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1193,muš-gu₃ sig₇-ga a tu₁₇-a-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1194,{ŋeš}gigir za-gin₃ ul il₂-a-na
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1195,lugal-bi ur-saŋ {d}nin-ŋir₂-su {d}utu-am₃ mu-gub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1196,gu-za gu₂-en-na gub-ba-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1197,e₂ kug an-na ul-la du₂-ru-na-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1198,nu₂-bi ki-nu₂-a gub-ba-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1199,šilamₓ ki-nu₂-ba dub₃ ŋar-ra-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1200,bar kug u₂ za-gin₃ ba-ra-ga-ba
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1201,ama {d}ba-u₂ en {d}nin-ŋir₂-su-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1202,ki-nu₂ mu-da-ab-dug₃-ge
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1203,zabar gal-gal-e teš₂ mu-gu₇-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1204,e₂ zid-da zag-da zabar kug-ge ne-saŋ
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1205,mi-ni-ib₂-šeŋ₆-šeŋ₆
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1206,bur kug unu₆ gal-la šu₄-ga-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1207,buniŋ mah ban₃-da a nu-silig₅-ge-dam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1208,eš₂-da-bi da-ba gub-ba-bi
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1209,{id₂}idigna {id₂}buranuna{ki}-bi-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1210,he₂-ŋal₂ tum₂-tum₂-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1211,niŋ₂-du₇ iri-na-ke₄ pa bi₂-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1212,gu₃-de₂-a e₂-ninnu mu-du₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1213,me-bi šu bi₂-du₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1214,e₂-i₃-gara₂-ba i₃ gara₂ i₃-kur₉
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1215,e₂ kug AN.KA-ba ninda mu-ni-ŋar-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1216,ur₅ mu-du₈ šu-šu mu-luh
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1217,ud lugal-ni e₂-a kur₉-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1218,ud ₇-ne-eš₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1219,geme₂ nin-a-ni mu-da-sa₂-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1220,arad₂-de₃ lugal-e zag mu-da-gub-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1221,iri-na u₂-si₁₉-ni zag-bi-a mu-da-a-nu₂-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1222,eme niŋ₂-hul-da inim ba-da-kur₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1223,niŋ₂-erim₂ e₂-ba im-ma-an-gi₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1224,niŋ₂-gen₆-na {d}nanše {d}nin-ŋir₂-su-ka-še₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1225,en₃ im-ma-ši-tar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1226,nu-siki lu₂ niŋ₂-tuku nu-mu-na-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1227,nu-mu-su lu₂ a₂-tuku nu-na-ŋar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1228,e₂ ibila nu-tuku
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1229,dumu-munus-bi i₃-bi-lu-ba mi-ni-kur₉
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1230,ud niŋ₂-si-sa₂ mu-na-ta-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1231,niŋ₂-erim₂ i₃-{d}utu gu₂-bi ŋiri₃ bi₂-us₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1232,iri-e {d}utu-gin₇
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1233,ki-ša-ra im-ma-ta-a-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1234,saŋ-ŋa₂-ni-a gur im-mi-dar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1235,igi an kug-ga-ke₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1236,ne-te-ni bi₂-zu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1237,gud-gin₇ saŋ il₂-la mu-ku₄-ku₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1238,eš₃ e₂-ninnu-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1239,gud du₇ maš₂ du₇-e ŋiš bi₂-tag
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1240,bur an-na mu-gub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1241,ten mu-ni-de₂-de₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1242,ušumgal kalam-ma ti-gi₄-a mu-gub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1243,a₂-la₂ ud-dam šeg₁₂ mu-na-ab-gi₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1244,ensi₂ zag-e₃-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1245,nam-mi-gub
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1246,iri-ni u₆ mu-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1247,gu₃-de₂-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1254,he₂-ŋal₂ mu-na-ta-e₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1255,ki še gu-nu mu-na-mu₂-mu₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1256,ensi₂-da lagaš{ki}-e he₂-ŋal₂-la
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1257,šu mu-da-peš-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1258,ur-saŋ e₂ gibil-na kur₉-ra-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1259,en {d}nin-ŋir₂-su-ra ŋišbun dug₃ mu-na-ni-ib₂-ŋal₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1260,an zag gal-la mu-na-tuš
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1261,an-ra {d}en-lil₂ im-ma-ni-us₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1262,{d}en-lil₂-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1263,{d}nin-mah mu-ni-us₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1276,
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1277,e₂-da lugal im-da-hul₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1278,šeg₁₂ ninnu-ka nam im-mi-ib₂-tar-re
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1279,šeg₁₂ e₂-ninnu
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1280,nam dug₃ he₂-tar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1281,šeg₁₂ e₂-ninnu nam he₂-tar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1282,nam dug₃ he₂-tar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1283,e₂ kur an-ne₂ ki ŋar-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1284,me gal-la du₃-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1301,šeg₁₂ e₂-ninnu-ka nam i₃-mi-ib₂-tar-re
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1302,šeg₁₂ nam he₂-tar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1303,šeg₁₂ e₂-ninnu nam dug₃ he₂-tar
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1304,e₂ ne-mur šub ki us₂-sa an gu₂ la₂-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1305,kug
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1320,
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1321,mu-zu-še₃ tur₃ he₂-em-ši-du₃-du₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1322,a-maš he₂-em-ši-gibil₄-gibil₄
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1323,uŋ₃ u₂-sal-la he₂-ŋal₂-la ha-mu-da-nu₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1324,ki-en-gi-re₆ kur-kur-re igi-bi ha-mu-ši-ŋal₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1325,e₂ anzud₂{mušen}-zu an-ne₂ ha-ra-ab-il₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1337,me
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1338,NINA du₃-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1339,du₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1340,{d}gilgameš₂-da mu₂-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1341,{ŋeš}gu-za gub-ba-bi lu₂ nu-kur₂-e
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1342,diŋir-zu en {d}nin-ŋiš-zid-da dumu-KA an-na-kam
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1343,diŋir-ama-zu {d}nin-sumun₂-na ama gan numun zid-da
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1344,numun-e ki aŋ₂-ŋa₂-am₃
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1345,ab₂ zid-de₃ dumu ba-tud-da-me
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1346,meš₃ zid ki lagaš{ki}-a e₃-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1347,{d}nin-ŋir₂-su-ka-me
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1348,sig-ta nim-še₃ mu-zu he₂-ŋal₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1349,gu₃-de₂-a dug₄-ga-za
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1350,lu₂ na-DU
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1351,ŋuruš an-ne₂ zu-me
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1352,ensi₂ zid e₂-e nam dug₃ tar-ra-me
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1353,gu₃-de₂-a dumu {d}nin-ŋiš-zid-da-ka
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1354,nam-til₃ ha-mu-ra-sud
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1355,e₂ kur gal-gin₇ an-ne₂ us₂-sa
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1356,ni₂ me-lem₄-bi kalam-ma ru-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1357,an-ne₂ {d}en-lil₂-e nam lagaš{ki} tar-ra
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1358,{d}nin-ŋir₂-su-ka nam-nir-ŋal₂-ni
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1359,kur-kur-re zu-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1360,e₂-ninnu an ki-da mu₂-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1361,{d}nin-ŋir₂-su za₃-mi₂
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1362,e₂ {d}nin-ŋir₂-su-ka du₃-a
+c.2.1.7,The building of Ninŋirsu's temple (Gudea cylinders A and B),,1363,za₃-mi₂ eŋer-bi

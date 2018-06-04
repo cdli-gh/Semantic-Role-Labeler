@@ -1,0 +1,21 @@
+id_text,text_name,version,l_no,text
+c.2.4.1.7,A balbale to Enlil for Ur-Namma (Ur-Namma G),,7,{d}en-lil₂-le {d}ur-{d}namma-ra
+c.2.4.1.7,A balbale to Enlil for Ur-Namma (Ur-Namma G),,8,a-eštub {d}ezina₂ še gu-nu saŋ-e-eš he₂-mu-rig₇
+c.2.4.1.7,A balbale to Enlil for Ur-Namma (Ur-Namma G),,9,{d}ur-{d}namma uŋ₃-e nam-he₂-a gu₂ hu-mu-u₈-di-ni-ib-mar-re
+c.2.4.1.7,A balbale to Enlil for Ur-Namma (Ur-Namma G),,10,{ŋeš}apin še dug₃-ga bi₂-ŋar-ra gana₂ ŋar-zu dug₃-ga-am₃
+c.2.4.1.7,A balbale to Enlil for Ur-Namma (Ur-Namma G),,11,ŋiš numun še dug₃ {ŋeš}apin gana₂ nam bi₂-dug₃-ge
+c.2.4.1.7,A balbale to Enlil for Ur-Namma (Ur-Namma G),,12,{ŋeš}apin še dug₃-ge ki kur gana₂ nam
+c.2.4.1.7,A balbale to Enlil for Ur-Namma (Ur-Namma G),,13,lugal gud-de₃ gana₂ ŋar-am₃-ma gana₂ ŋar-zu dug₃-ga-am₃
+c.2.4.1.7,A balbale to Enlil for Ur-Namma (Ur-Namma G),,14,{d}ur-{d}namma gana₂ ŋar-am₃-ma gana₂ ŋar-zu dug₃-ga-am₃
+c.2.4.1.7,A balbale to Enlil for Ur-Namma (Ur-Namma G),,15,gana₂ ŋar-ra-za gud-de₃ ba-sag₉ gana₂ ŋar-za dug₃-ga-am₃
+c.2.4.1.7,A balbale to Enlil for Ur-Namma (Ur-Namma G),,16,lugal-ŋu₁₀ gana₂ {d}en-lil₂-la₂-ka a₂ šu ha-ba-e-ni-du₇
+c.2.4.1.7,A balbale to Enlil for Ur-Namma (Ur-Namma G),,17,ur-{d}namma gana₂ {d}en-lil₂-la₂-ka a₂ šu ha-ba-e-ni-du₇
+c.2.4.1.7,A balbale to Enlil for Ur-Namma (Ur-Namma G),,18,ab-sin₂ gub-ba-zu im an-na si he₂-em-ma-ni-in-sa₂
+c.2.4.1.7,A balbale to Enlil for Ur-Namma (Ur-Namma G),,19,lugal engar zid gana₂ daŋal-la eg₂ pa₅-re ki
+c.2.4.1.7,A balbale to Enlil for Ur-Namma (Ur-Namma G),,20,ur-{d}namma engar zid gana₂ daŋal-la eg₂ pa₅-re ki
+c.2.4.1.7,A balbale to Enlil for Ur-Namma (Ur-Namma G),,21,eg₂ pa₅-re {d}utu e₃-gin₇ igi-bi
+c.2.4.1.7,A balbale to Enlil for Ur-Namma (Ur-Namma G),,22,lugal-ŋu₁₀ sa-ra dug₃-dug₃-ge sa-ra-zu
+c.2.4.1.7,A balbale to Enlil for Ur-Namma (Ur-Namma G),,23,ur-{d}namma sa-ra dug₃-dug₃-ge sa-ra-zu
+c.2.4.1.7,A balbale to Enlil for Ur-Namma (Ur-Namma G),,26,
+c.2.4.1.7,A balbale to Enlil for Ur-Namma (Ur-Namma G),,27,mu-ra-an-gur
+c.2.4.1.7,A balbale to Enlil for Ur-Namma (Ur-Namma G),,28,bal-bal-e {d}en-lil₂-la₂-kam

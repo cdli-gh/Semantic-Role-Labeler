@@ -1,0 +1,65 @@
+id_text,text_name,version,l_no,text
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,A1,{m}puzur₄-šul-gi šagina
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,A2,u₃-na-a-dug₄
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,A3,{d}šul-gi lugal-zu na-ab-be₂-a
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,A4,ud bad₃ igi-hur-saŋ-ŋa₂
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,A5,kur-kur uŋ₃ daŋal-la an-ne₂ {d}en-lil₂-le
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,A6,nam-en-na-bi
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,A7,iri kalam
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,A8,uŋ₃ kalam daŋal-la nu₂
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B1,iri-iri-bi ha-ra-ab-zi-zi-ne
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B2,lu₂-saŋ-kiŋ₂-bi he₂-en-dab₅-a
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B3,ki bad₃ šub-ba ki-bi-še₃ hu-mu-un-ŋar
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B4,he₂-en-kalag u₃ he₂-en-du₃
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B5,šag₄ itid ₁-kam a₂ šub-ba ha-ba-til₃
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B6,kiŋ₂-bi-še₃ en₃ mu-na-tar-re-en
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B7,tidnum-e kur-bi-ta ma-ra-an-gur
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B8,{m}lu₂-{d}nanna ensi₂ ma-da zi-mu-dar-ra-ke₄
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B9,erin₂-na-ni-ta im-mu-e-ši-ri
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B10,mu-ra-ŋal₂
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B11,ba-ra-na-ŋal₂
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B13,he₂-bi₂-ib-gi₄-gi₄
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B14,al-til-la-aš
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B15,{m}lu₂-{d}nanna ensi₂ ma-da zi-mu-dar-ra{ki}-ke₄
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B16,erin₂-na-ni-ta u₃-mu-e-šub-bu-un-ze₂-en
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B17,za-e {m}arad-ŋu₁₀ na-ma-ab-bal-le-en-ze₂-en
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B18,a₂ aŋ₂-ŋa₂ kalag-ga a₂-zu-ne-ne-a nam-ba-e-še-be₂-en-ze₂-en
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B19,ŋi₆ an-bar₇ kiŋ₂ he₂-en-du₃
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B20,ŋi₆ an-bar₇ u₃ nu-ku-ku-un-ze₂-en he₂-zu-un-ze₂-en
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,A,B21,a-ma-ru-kam
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,1,{m}puzur₂-{d}nu-muš-da-a₂-ra mu-un-ne-du
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,2,{m}{d}šul-gi lu₂-gal-zu₂ na-ap-pa-a
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,3,up pa-ad gi igi-hu-ur-saŋ-ga mu-un-ta-a
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,4,kur-kur-re uŋ₃ di-am-ga-al-la an-ne {d}en-lil₂-le mu-be mu-un-na-an-šu-um-ma-ta
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,5,iri di-id-di ma-da-ma-da-be
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,6,uŋ₃ kalam dam-gal-la₂ u₂-sal-la₂ i-nu
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,7,ki niŋ₂-dam-gal-be ku-tu-uš ne-ha mu-un-šu-ub
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,8,nitah₂-be-e-en-ne munus-e-en-ne
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,9,nitah₂-be ki šag₄-ga-an-ne e-du
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,10,munus-še bal {ŋeš}gi-ri-da šag₄-ga-an-ne
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,11,edin-na niŋ₂-dam-gal-be na-rig₅ u₃-mu-ŋar
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,12,za-la-am ga-na-be-et-te ki um-ni-in-ŋar-ŋar
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,13,lu-u₂ ki-im ki-ik-ki lu-u₂ a-pil la₂ a-šag₄-gu u₂ mi-ni-ib-za-al-za-le-en-ne
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,14,im-sik ša₃-ab-ra-a niŋ₂ da ra-ta-an-ne
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,15,ki-im pa-da-be ak-ka-a-a ba-ad-be ne-er-ga-al li-bi-ib-tu-ul-le
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,16,zi um-ni-im u₃ da-ša₃ ši-li-ma
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,17,šak ku-še ša qa-al mu-un-na-an-du
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,18,e-ne-eš-še um-ni-im im-ma-an-ŋen
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,19,ki-im bad₃-be lu-u₂ ki-ig-be he-em-tu
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,20,ne-e-še ur-du-um-gu ši-im-gi
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,21,im-sik ša₃-ab-ra-a lu-u₂-be₂ he-eb-du-mu
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,22,iri-iri-be ha-pa-an-di-iz-zi-ia
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,23,lu₂-saŋ-gi-in-ne mu-un-dab₅
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,24,ki-im ga-al šub-ba ki-be ha-pa-gi-gi
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,25,he-em-ta-ak-lu u₂ he-em-du
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,26,šag₄ itid ₁-ka bad₃ ha-ra-ab-ti-il-le
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,27,ki-ig-be-eš-še en nam-tab-ta-re
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,28,lu₂-{d}nanna im-sik ma-ta zi-im-mu-un-dar-ra an-ne-ne-šu ha-pa-ši-im-tu
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,29,zi-bi-is-še₃ he-em-da-am-du-ku
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,30,niŋ₂ kalag-ka la-ba-nam-da-ad-da₂
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,31,up pa-at ti-il-la du-ub-de₃-en-ne-en-ne he-pi-niŋ₂-du
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,32,u₃ igi-zi-ne-en-ne mu-un-da-re-eš-še
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,33,lu₂-{d}nanna im-sik ma-ta zi-im-mu-un-dar-ra-ak-ke iri-ne-eš-še ha-pa-ši-im-tu
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,34,ša-e ur-du-um-gu nam-be-eb-le-e
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,35,ge-e ab-ra-a ki-ig-be he-em-tu
+c.3.1.08,Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa,Susa,36,a ga-zi kalag-ka a ga-mu-uš-de₃-en-ne e-ma-ru-uk-ka

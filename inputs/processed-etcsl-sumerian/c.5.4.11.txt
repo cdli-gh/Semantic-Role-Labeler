@@ -1,0 +1,34 @@
+id_text,text_name,version,l_no,text
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,A1,{m}engar-dug₃ lu₂ lil₂-la₂ zag dumu buluŋ₃-ŋa₂
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,A2,lu₂ pe-el-la₂ ni₂-su-ub kuš sig₁₀-ga e₂-ŋar₈-da šub-a
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,A3,{m}engar-dug₃ ze₂-za nar-e-ne lu₂ dim₂-ma nu-sag₉
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,A4,silim dug₄-dug₄ ur lu₂-u₃ šu-a e₃
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,A5,e₂ ŋal₂-u₃ du₁₄ ga-e-da-ak ulutim₂ ugu₄-bi
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,A6,is-hab₂ lu₂-inim-ma teš₂ nu-tuku di-še₃ gu₂ nu-šum₂-mu
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,A7,ki-ma-an-ze₂-er lu₂ kal-e nu-zu saŋ erin₂-na sal-sal
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,A8,lu₂ ezen nu-KU šah₂ lu-hu-um-ta su₃-a gu₂ mu-un-da-an-kud
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,A9,eme ti bal niŋ₂-erim₂-e ki aŋ₂ ah-da
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,A10,du₁₄ mu₂-mu₂ keše₂-da-ta e₃-a in dub₂-dub₂
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,A11,ur-saŋ gub-be₂ šu-bi-še₃ la₂-a tug₂-da
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,A12,{m}engar-dug₃ gu-du keše₂ eme dim₂-ma
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,A13,lu₂ nu-tuku kun ka-bi-še₃ šub-ba niŋ₂ ni₂-bi
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,A14,eh₃ ehehhe e-sir₂ daŋal-la lu₂ nam-ta-e₃-a
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,A15,inim sig₁₀-sig₁₀ umuš dim₂-ma-na sig ka tar-re-a bal-bal
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,A16,lu₂-ra gala muš-lah₄-e dub₂-dub₂ mu pi-il nar-e-ne
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,A17,ur gu₃ de₂ {ŋeš}za₃-mi₂-a nu-ŋal₂ gu₃-kiri₆ de₂-de₂
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,A18,gu₂-ni saŋ e₂ sa ab-la₂-e
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,A19,a₂ al-aŋ₂-e ŋal₂ erin₂ ab X-dar
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,A20,ka lu₂ nu-un-na-dug₃
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,A21,hul-še₃ bal-bal
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,B1,{ŋeš}ŊIRI₃-na
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,B2,na-an-ga-ma nu-zuh šeš-a-na a la-ba-ši-ak
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,B3,kar he₂-en-du₃ tilla₂ iri hu-mu-ni-in-TUG₂-TUG₂
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,B4,pa-aŋ₂ he₂-en-ze₂ lu₂ abula ŋiškim-bi
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,B5,ur₅-ta ki na-me-še₃ nam-ba-DU en-nu-uŋ₃
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,B6,{m}engar-dug₃ šir₃ kug-zu mu-til nam-mah-zu
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,B7,in-zu sila daŋal lul-zu pa bi₂-i-e₃
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,B8,lu₂ igi saŋ₅ {m}engar-dug₃ gud
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,B9,dar{mušen}-gin₇
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,B10,muš-lah₄
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,B11,
+c.5.4.11,A diatribe against Engar-dug (Diatribe B),,B12,

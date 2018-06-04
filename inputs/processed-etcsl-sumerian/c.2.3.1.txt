@@ -1,0 +1,59 @@
+id_text,text_name,version,l_no,text
+c.2.3.1,An adab to Bau for Luma (Luma A),,1,dumu an-na an gal ki gal-ta šag₄ kug-ga-ni im-mi-in-pad₃-de₃
+c.2.3.1,An adab to Bau for Luma (Luma A),,2,nam-nin kalam-ma-kam bi₂-in-tum₂-en
+c.2.3.1,An adab to Bau for Luma (Luma A),,3,{d}ba-u₂ dumu an-na an gal ki gal-ta
+c.2.3.1,An adab to Bau for Luma (Luma A),,4,šag₄ kug-ga-ni im-mi-in-pad₃-de₃
+c.2.3.1,An adab to Bau for Luma (Luma A),,5,nam-nin kalam-ma-kam bi₂-in-tum₂-en
+c.2.3.1,An adab to Bau for Luma (Luma A),,6,{d}en-lil₂-le e₂-kur za-gin₃-ta
+c.2.3.1,An adab to Bau for Luma (Luma A),,7,ki-sikil ama {d}ba-u₂ igi zid mu-un-ši-in-bar
+c.2.3.1,An adab to Bau for Luma (Luma A),,8,en {d}nin-ŋir₂-su gal-bi mu-un-na-an-du₇
+c.2.3.1,An adab to Bau for Luma (Luma A),,9,kur gal {d}en-lil₂-le e₂-kur za-gin₃-ta
+c.2.3.1,An adab to Bau for Luma (Luma A),,10,ki-sikil ama {d}ba-u₂ igi zid mu-un-ši-in-bar
+c.2.3.1,An adab to Bau for Luma (Luma A),,11,en {d}nin-ŋir₂-su-ra gal-bi mu-na-ab-du₇
+c.2.3.1,An adab to Bau for Luma (Luma A),,12,e₂-tar-sir₂-sir₂ an-ne₂ ŋar-ra-za
+c.2.3.1,An adab to Bau for Luma (Luma A),,13,nam kur-kur-ra ša-mu-ni-ib₂-tar-re
+c.2.3.1,An adab to Bau for Luma (Luma A),,14,nin-ŋu₁₀ ŋiš i₃-in-bar di-bi-še₃ i₃-kud-de₃
+c.2.3.1,An adab to Bau for Luma (Luma A),,15,{d}ba-u₂ e₂-tar-sir₂-sir₂ an-ne₂ ŋar-ra-za
+c.2.3.1,An adab to Bau for Luma (Luma A),,16,nam kur-kur-ra ša-mu-ni-ib₂-tar-re
+c.2.3.1,An adab to Bau for Luma (Luma A),,17,{d}ba-u₂ ŋiš i₃-in-bar di-bi-še₃ i₃-kud-de₃
+c.2.3.1,An adab to Bau for Luma (Luma A),,18,{d}lamma kisal iri-kug-ga-za
+c.2.3.1,An adab to Bau for Luma (Luma A),,19,saŋ gig₂-ge-zu si ša-ra-ab-sa₂-e
+c.2.3.1,An adab to Bau for Luma (Luma A),,20,{d}ba-u₂ {d}lamma kisal iri-kug-ga-za
+c.2.3.1,An adab to Bau for Luma (Luma A),,21,saŋ gig₂-ge-zu si ša-ra-ab-sa₂-e
+c.2.3.1,An adab to Bau for Luma (Luma A),,22,nin-ŋu₁₀ dug₄-ga-zu ki-bi-še₃ ši-ib₂-ŋar
+c.2.3.1,An adab to Bau for Luma (Luma A),,23,{d}ba-u₂ dug₄-ga-zu ki-bi-še₃ ši-ib₂-ŋar
+c.2.3.1,An adab to Bau for Luma (Luma A),,24,ki lagaš{ki}-a ki-tuš kug me sikil-la-za
+c.2.3.1,An adab to Bau for Luma (Luma A),,25,lugal-še₃ hul₂-la hu-mu-un-ši-ni-ib-ŋal₂
+c.2.3.1,An adab to Bau for Luma (Luma A),,26,nin-ŋu₁₀ lugal-še₃ šu-mu-un-ši-ŋal₂
+c.2.3.1,An adab to Bau for Luma (Luma A),,27,{d}ba-u₂ ki lagaš{ki} ki-tuš kug me sikil-la-za
+c.2.3.1,An adab to Bau for Luma (Luma A),,28,lugal-še₃ hul₂-la ša-mu-un-ši-ni-ib₂-ŋal₂
+c.2.3.1,An adab to Bau for Luma (Luma A),,29,{d}ba-u₂ lum-ma šu-mu-un-ši-ib₂-ŋal₂
+c.2.3.1,An adab to Bau for Luma (Luma A),,30,inim kug-zu giri₁₇ šu ša-ra-ab-ŋal₂
+c.2.3.1,An adab to Bau for Luma (Luma A),,31,sa-gid₂-da-am₃
+c.2.3.1,An adab to Bau for Luma (Luma A),,32,nin si-a-ni e-du₇ {d}ba-u₂ niŋ₂-zu lu₂ nu-zu
+c.2.3.1,An adab to Bau for Luma (Luma A),,33,dumu an-na an teš₂ mu-ŋal₂-da mah-di
+c.2.3.1,An adab to Bau for Luma (Luma A),,34,ŋiš-gi₄-ŋal₂-bi-im
+c.2.3.1,An adab to Bau for Luma (Luma A),,35,nin-ŋu₁₀ dug₄-ga-zu zid-da
+c.2.3.1,An adab to Bau for Luma (Luma A),,36,inim mah-zu niŋ₂ nu-silig-ge-de₃
+c.2.3.1,An adab to Bau for Luma (Luma A),,37,{d}ba-u₂ dug₄-ga-zu zid-da
+c.2.3.1,An adab to Bau for Luma (Luma A),,38,inim mah-zu niŋ₂ nu-silig-ge-de₃
+c.2.3.1,An adab to Bau for Luma (Luma A),,39,inim kug-zu diŋir-ra ša-mu-un-na-ŋal₂
+c.2.3.1,An adab to Bau for Luma (Luma A),,40,lugal-ra ud-de₃-eš-e mu-un-e₃
+c.2.3.1,An adab to Bau for Luma (Luma A),,41,{d}ba-u₂ inim kug-zu diŋir-ra ša-mu-un-na-ŋal₂
+c.2.3.1,An adab to Bau for Luma (Luma A),,42,lugal lum-ma-ra ud-de₃-eš-e mu-un-e₃
+c.2.3.1,An adab to Bau for Luma (Luma A),,43,saŋ-ki-za ki hul₂-hul₂-la-bi
+c.2.3.1,An adab to Bau for Luma (Luma A),,44,lugal-ra ud-de₃-eš-e mu-un-e₃
+c.2.3.1,An adab to Bau for Luma (Luma A),,45,{d}ba-u₂ saŋ-ki-za ki hul₂-hul₂-la-bi
+c.2.3.1,An adab to Bau for Luma (Luma A),,46,lugal lum-ma-ra ud-de₃-eš-e mu-un-e₃
+c.2.3.1,An adab to Bau for Luma (Luma A),,47,inim-zu ki dug₃-ga sa₂-a-bi
+c.2.3.1,An adab to Bau for Luma (Luma A),,48,lugal-ra ud-de₃-eš-e mu-un-e₃
+c.2.3.1,An adab to Bau for Luma (Luma A),,49,{d}ba-u₂ inim-zu ki dug₃-ga sa₂-a-bi
+c.2.3.1,An adab to Bau for Luma (Luma A),,50,lugal lum-ma-ra ud-de₃-eš-e mu-un-e₃
+c.2.3.1,An adab to Bau for Luma (Luma A),,51,lum-ma lugal an-ne₂ sahar-ra
+c.2.3.1,An adab to Bau for Luma (Luma A),,52,mu mah mu-na-an-šum₂ inim zid mu-na-an-dug₄
+c.2.3.1,An adab to Bau for Luma (Luma A),,53,{d}ba-u₂ lum-ma lugal an-ne₂ sahar-ra
+c.2.3.1,An adab to Bau for Luma (Luma A),,54,mu mah mu-na-an-šum₂ inim zid mu-na-an-dug₄
+c.2.3.1,An adab to Bau for Luma (Luma A),,55,nin iri-ni ki aŋ₂-e ni₂-te-ni pa bi₂-in-e₃
+c.2.3.1,An adab to Bau for Luma (Luma A),,56,{d}ba-u₂ nin iri-ni ki aŋ₂-e ni₂-te-ni pa bi₂-in-e₃
+c.2.3.1,An adab to Bau for Luma (Luma A),,57,lugal-ra ki kug-ga-še₃ mi₂ zid mu-ni-in-dug₄
+c.2.3.1,An adab to Bau for Luma (Luma A),,58,a-da-ab {d}ba-u₂-kam

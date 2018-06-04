@@ -1,0 +1,37 @@
+id_text,text_name,version,l_no,text
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,A1,im-me uru₂ am₃-ma-er₂-ra-bi
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,A2,balaŋ {d}nin-X
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,A3,
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,A4,il-la-lum a il-la-lum
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,A5,balaŋ {d}suen
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,A6,u₃-mu-un-bi nu-til₃ u₃-mu-un-na kur-ra-na
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,A7,₁ šir₃-nam-šu-ub {d}X
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,A8,₁ {kuš}balaŋ ₁ šir₃-nam-šu-ub {d}suen
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,A9,₁
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,A10,en zu sa₂ mar-mar lu₂ ta-zu mu-un-zu
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,A11,
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,A12,
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,A13,
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,A15,
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,B1,
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,B2,
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,B3,
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,B4,i-lu
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,B5,₃ er₂-šem₃
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,B6,
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,B7,₁ šir₃-nam-šu-ub
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,B8,ib-zal
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,B9,iri-gal
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,B10,ŋar-ra na-an-DU
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,B11,₃ šir₃-nam-šu-ub diŋir-mah
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,B12,
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,B13,{d}mu-ul-lil₂ gul-gul
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,B14,aŋ₂-ŋa₂
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,B15,nam tar-tar-re
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,B16,a-ma-ru na-nam
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,B17,lu₂ ta-zu mu-un-zu
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,B18,er₂-šem₃ {d}nin-urta
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,B19,mu-un-zu
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,B20,
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,B21,er₂-šem₃ diŋir-mah
+c.0.2.07,OB catalogue possibly from Zimbir (B1),,B22,mu-bar-ra

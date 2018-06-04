@@ -1,0 +1,83 @@
+id_text,text_name,version,l_no,text
+c.6.1.16,Proverbs: collection 16,,A1,
+c.6.1.16,Proverbs: collection 16,,A2,šum₂
+c.6.1.16,Proverbs: collection 16,,A3,hul₂
+c.6.1.16,Proverbs: collection 16,,A4,
+c.6.1.16,Proverbs: collection 16,,A5,X-gu₇-e
+c.6.1.16,Proverbs: collection 16,,A6,
+c.6.1.16,Proverbs: collection 16,,A7,he₂-X
+c.6.1.16,Proverbs: collection 16,,A8,tum₂-ma
+c.6.1.16,Proverbs: collection 16,,A9,
+c.6.1.16,Proverbs: collection 16,,A10,X-an-tur
+c.6.1.16,Proverbs: collection 16,,A11,
+c.6.1.16,Proverbs: collection 16,,A12,₇
+c.6.1.16,Proverbs: collection 16,,A13,gu₂-uš
+c.6.1.16,Proverbs: collection 16,,A14,
+c.6.1.16,Proverbs: collection 16,,A15,šum₂
+c.6.1.16,Proverbs: collection 16,,A16,
+c.6.1.16,Proverbs: collection 16,,B1,
+c.6.1.16,Proverbs: collection 16,,B2,
+c.6.1.16,Proverbs: collection 16,,B3,ab-gu₇
+c.6.1.16,Proverbs: collection 16,,B4,sipad he₂-em-ta-ed₃-de₃-e-en
+c.6.1.16,Proverbs: collection 16,,B5,udu-ni šu-a li-bi₂-in-gi₄
+c.6.1.16,Proverbs: collection 16,,B6,sipad kug-zu mu-un-na-bir-am₃
+c.6.1.16,Proverbs: collection 16,,B7,udu-ni šu-a li-bi₂-in-gi₄
+c.6.1.16,Proverbs: collection 16,,B8,sipad ŋiš₃-a-ni
+c.6.1.16,Proverbs: collection 16,,B9,nu-{ŋeš}kiri₆ suhur-ni
+c.6.1.16,Proverbs: collection 16,,B10,ibila nu-gen₆-na dam nu-il₂ dumu nu-il₂ giri₁₇-zal-še₃ nu-il₂
+c.6.1.16,Proverbs: collection 16,,B11,sipad ud ₁-a itid na-an-X-Xbr
+c.6.1.16,Proverbs: collection 16,,B12,
+c.6.1.16,Proverbs: collection 16,,B13,ud-da ga-ŋen na-gada-kam
+c.6.1.16,Proverbs: collection 16,,B14,ul-la ga-ŋen sipad-tur-ra-kam
+c.6.1.16,Proverbs: collection 16,,B15,niŋ₂-gur₁₁-ni
+c.6.1.16,Proverbs: collection 16,,B16,ga-ŋen-am₃
+c.6.1.16,Proverbs: collection 16,,B17,
+c.6.1.16,Proverbs: collection 16,,B18,
+c.6.1.16,Proverbs: collection 16,,C1,igi engar-e mu-e-ši-in-il₂-e
+c.6.1.16,Proverbs: collection 16,,C2,{d}en-lil₂-le iri nam ku₅-ra₂-ni ha-ba-ši-in-il₂-e
+c.6.1.16,Proverbs: collection 16,,C3,igi sipad-tur-re mu-e-ši-in-il₂-e
+c.6.1.16,Proverbs: collection 16,,C4,{d}en-lil₂-le iri nam ku₅-ra₂-ni ha-ba-ši-in-il₂-e
+c.6.1.16,Proverbs: collection 16,,C5,igi bahar₂-e mu-e-ši-in-il₂-e
+c.6.1.16,Proverbs: collection 16,,C6,{d}en-lil₂-le iri nam ku₅-ra₂-ni ha-ba-ši-in-il₂-e
+c.6.1.16,Proverbs: collection 16,,C7,engar igi uru₃-a a-na-am₃ ak
+c.6.1.16,Proverbs: collection 16,,C8,ud al-šu₂-šu₂-ru im nu-šeŋ₃-am₃
+c.6.1.16,Proverbs: collection 16,,C9,im al-šeŋ₃ {kuš}e-sir₂ nu-du₈
+c.6.1.16,Proverbs: collection 16,,C10,{id₂}idigna ka-ba nu-un-zur-re a-gar₃-re nu-si-si
+c.6.1.16,Proverbs: collection 16,,D1,ki-sikil
+c.6.1.16,Proverbs: collection 16,,D2,šum₂
+c.6.1.16,Proverbs: collection 16,,D3,gu₅-li-ŋu₁₀ niŋ₂ ud ₁-kam
+c.6.1.16,Proverbs: collection 16,,D4,gi-me-a-aš-ŋu₁₀ niŋ₂ ud da-ri₂-kam
+c.6.1.16,Proverbs: collection 16,,D5,šeš šag₄
+c.6.1.16,Proverbs: collection 16,,D6,eme
+c.6.1.16,Proverbs: collection 16,,E1,
+c.6.1.16,Proverbs: collection 16,,E2,niŋ₂ na-me
+c.6.1.16,Proverbs: collection 16,,E3,kisal
+c.6.1.16,Proverbs: collection 16,,E4,me-a šag₄
+c.6.1.16,Proverbs: collection 16,,E5,ab geme₂-ta na-ab-ku₄-ku₄-X
+c.6.1.16,Proverbs: collection 16,,E6,dam-gara₃ e-ne
+c.6.1.16,Proverbs: collection 16,,E7,anše-e niŋ₂ ₅₀-me-eš
+c.6.1.16,Proverbs: collection 16,,E8,{ŋeš}dusu il₂-il₂-ne am₃-eš
+c.6.1.16,Proverbs: collection 16,,E9,₁-am₃ kur₉-ra-am₃ a-na ba-an-il₂-e-še
+c.6.1.16,Proverbs: collection 16,,E10,u₂ ur₂-bi gid₂-da in-na-bur₁₂-uš
+c.6.1.16,Proverbs: collection 16,,E11,erin mu-un-ni-te mu-da-an-BU
+c.6.1.16,Proverbs: collection 16,,E12,na₄ šeš
+c.6.1.16,Proverbs: collection 16,,E13,mu-da-DIB-gin₇
+c.6.1.16,Proverbs: collection 16,,E14,nam-ban₃-da
+c.6.1.16,Proverbs: collection 16,,E15,niŋ₂-gig {d}suen-na-kam
+c.6.1.16,Proverbs: collection 16,,E16,kur kug ba-al-gin₇
+c.6.1.16,Proverbs: collection 16,,E17,lu₂ dim₂-ma nu-sag₉
+c.6.1.16,Proverbs: collection 16,,E18,šu-i-gin₇ nam
+c.6.1.16,Proverbs: collection 16,,E19,suhur im-ši-la₂-e
+c.6.1.16,Proverbs: collection 16,,E20,u₂ ak
+c.6.1.16,Proverbs: collection 16,,E21,gaba du₆-da i₃-ak
+c.6.1.16,Proverbs: collection 16,,E22,{d}nirah-gin₇ dar-ra-me-en
+c.6.1.16,Proverbs: collection 16,,E23,{u₂}numun₂ in-de₅-de₅-ga
+c.6.1.16,Proverbs: collection 16,,E24,i₃-bar-re
+c.6.1.16,Proverbs: collection 16,,E25,ma₂ bi₂-in-dirig-ge₄ ni₂-zu ba-da-an-tum₃
+c.6.1.16,Proverbs: collection 16,,E26,eŋer ni₂-zuh ti-ri₂-da mu-dehi₂
+c.6.1.16,Proverbs: collection 16,,E27,zag-am₃ šu ba-ab-KAL
+c.6.1.16,Proverbs: collection 16,,E28,nu-{ŋeš}kiri₆-ke₄ mu-un-dab₅-be₂-ne
+c.6.1.16,Proverbs: collection 16,,E29,ŋiri₃ {ŋeš}kiri₆-še₃ im-tum₂-tum₂-ma
+c.6.1.16,Proverbs: collection 16,,E30,zag-bi he₂-en-MUŠ₂
+c.6.1.16,Proverbs: collection 16,,F1,
+c.6.1.16,Proverbs: collection 16,,F2,gid₂-i X-ŋa₂-ŋa₂

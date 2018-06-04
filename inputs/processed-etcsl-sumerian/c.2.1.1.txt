@@ -1,0 +1,431 @@
+id_text,text_name,version,l_no,text
+c.2.1.1,The Sumerian king list,,1,nam-lugal an-ta ed₃-de₃-a-ba
+c.2.1.1,The Sumerian king list,,2,eridug{ki} nam-lugal-la
+c.2.1.1,The Sumerian king list,,3,eridug{ki} a₂-lu-lim lugal
+c.2.1.1,The Sumerian king list,,4,mu ₂₈₈₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,5,a₂-lal₃-ŋar mu ₃₆₀₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,6,₂ lugal
+c.2.1.1,The Sumerian king list,,7,mu-bi ₆₄₈₀₀ ib₂-ak
+c.2.1.1,The Sumerian king list,,8,eridug{ki} ba-šub
+c.2.1.1,The Sumerian king list,,9,nam-lugal-bi bad₃-tibira{ki}-še₃
+c.2.1.1,The Sumerian king list,,10,ba-de₆
+c.2.1.1,The Sumerian king list,,11,bad₃-tibira{ki} en-me-en-lu₂-an-na
+c.2.1.1,The Sumerian king list,,12,mu ₄₃₂₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,13,en-me-en-gal-an-na
+c.2.1.1,The Sumerian king list,,14,mu ₂₈₈₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,15,{d}dumu-zid sipad mu ₃₆₀₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,16,₃ lugal
+c.2.1.1,The Sumerian king list,,17,mu-bi ₁₀₈₀₀₀ ib₂-ak
+c.2.1.1,The Sumerian king list,,18,bad₃-tibira{ki} ba-šub-be₂-en
+c.2.1.1,The Sumerian king list,,19,nam-lugal-bi la-ra-ag{ki}-še₃ ba-de₆
+c.2.1.1,The Sumerian king list,,20,la-ra-ag{ki} en-sipad-zid-an-na
+c.2.1.1,The Sumerian king list,,21,mu ₂₈₈₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,22,₁ lugal
+c.2.1.1,The Sumerian king list,,23,mu-bi ₂₈₈₀₀ ib₂-ak
+c.2.1.1,The Sumerian king list,,24,la-ra-ag{ki} ba-šub-be₂-en
+c.2.1.1,The Sumerian king list,,25,nam-lugal-bi zimbir{ki}-še₃ ba-de₆
+c.2.1.1,The Sumerian king list,,26,zimbir{ki} en-me-en-dur₂-an-na
+c.2.1.1,The Sumerian king list,,27,lugal-am₃ mu ₂₁₀₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,28,₁ lugal
+c.2.1.1,The Sumerian king list,,29,mu-bi ₂₁₀₀₀ ib₂-ak
+c.2.1.1,The Sumerian king list,,30,zimbir{ki} ba-šub-be₂-en
+c.2.1.1,The Sumerian king list,,31,nam-lugal-bi šuruppag{ki}-še₃ ba-de₆
+c.2.1.1,The Sumerian king list,,32,šuruppag{ki} ubara-tu₃-tu₃
+c.2.1.1,The Sumerian king list,,33,lugal-am₃ mu ₁₈₆₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,34,₁ lugal
+c.2.1.1,The Sumerian king list,,35,mu-bi ₁₈₆₀₀ ib₂-ak
+c.2.1.1,The Sumerian king list,,36,₅ iri{ki}-me-eš
+c.2.1.1,The Sumerian king list,,37,₈ lugal
+c.2.1.1,The Sumerian king list,,38,mu-bi ₂₄₁₂₀₀ ib₂-ak
+c.2.1.1,The Sumerian king list,,39,a-ma-ru ba-ur₃
+c.2.1.1,The Sumerian king list,,40,eŋer a-ma-ru ba-ur₃-ra-ta
+c.2.1.1,The Sumerian king list,,41,nam-lugal an-ta ed₃-de₃-a-ba
+c.2.1.1,The Sumerian king list,,42,kiš{ki} nam-lugal-la
+c.2.1.1,The Sumerian king list,,43,kiš{ki} ŋušurₓ
+c.2.1.1,The Sumerian king list,,44,lugal-am₃
+c.2.1.1,The Sumerian king list,,45,mu ₁₂₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,46,kul₂-la-si₂-na-be-el
+c.2.1.1,The Sumerian king list,,47,mu ₉₆₀ i₃-ak
+c.2.1.1,The Sumerian king list,,48,na-an-ŋiš-li-iš-ma
+c.2.1.1,The Sumerian king list,,49,₆₇₀ mu i₃-ak
+c.2.1.1,The Sumerian king list,,50,en-tarah-an-na-ke₄
+c.2.1.1,The Sumerian king list,,51,₄₂₀ mu a-ra₂ itid ₃ ud ₃ ₁/₂ i₃-ak
+c.2.1.1,The Sumerian king list,,52,ba-bu-um
+c.2.1.1,The Sumerian king list,,53,₃₀₀ mu i₃-ak
+c.2.1.1,The Sumerian king list,,54,pu-an-nu-um mu ₈₄₀ i₃-ak
+c.2.1.1,The Sumerian king list,,55,ka₃-li₂-bu-um
+c.2.1.1,The Sumerian king list,,56,mu ₉₆₀ i₃-ak
+c.2.1.1,The Sumerian king list,,57,ka-lu-mu-um mu ₈₄₀ i₃-ak
+c.2.1.1,The Sumerian king list,,58,zu₂-qa₂-qi₄-ip
+c.2.1.1,The Sumerian king list,,59,mu ₉₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,60,a₂-tab mu ₆₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,61,maš-da₃ dumu a₂-tab-ba mu ₈₄₀ i₃-ak
+c.2.1.1,The Sumerian king list,,62,ar-wi-u₂-um dumu maš-da₃-ke₄
+c.2.1.1,The Sumerian king list,,63,mu ₇₂₀ i₃-ak
+c.2.1.1,The Sumerian king list,,64,e-ta-na sipad lu₂ an-še₃
+c.2.1.1,The Sumerian king list,,65,ba-ed₃-de₃
+c.2.1.1,The Sumerian king list,,66,lu₂ kur-kur mu-un-gen₆-na
+c.2.1.1,The Sumerian king list,,67,lugal-am₃ mu ₁₅₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,68,ba-li-ih
+c.2.1.1,The Sumerian king list,,69,dumu e-ta-na-ke₄
+c.2.1.1,The Sumerian king list,,70,mu ₄₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,71,en-me-nun-na mu ₆₆₀ i₃-ak
+c.2.1.1,The Sumerian king list,,72,me-lem₄-kiš{ki} dumu en-me-nun-na-ke₄
+c.2.1.1,The Sumerian king list,,73,mu ₉₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,73A,₁₅₆₀ mu bal en-me-nun-na-kam
+c.2.1.1,The Sumerian king list,,74,bar-sal-nun-na dumu en-me-nun-na-ke₄
+c.2.1.1,The Sumerian king list,,75,mu ₁₂₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,76,zamug dumu bar-sal-nun-na-ke₄
+c.2.1.1,The Sumerian king list,,77,mu ₁₄₀ i₃-ak
+c.2.1.1,The Sumerian king list,,78,ti-iz-qar dumu zamug-ke₄
+c.2.1.1,The Sumerian king list,,79,mu ₃₀₅ i₃-ak
+c.2.1.1,The Sumerian king list,,79A,₁₆₂₀
+c.2.1.1,The Sumerian king list,,80,il-ku-u₂ mu ₉₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,81,il-ta-sa-du-um
+c.2.1.1,The Sumerian king list,,82,mu ₁₂₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,83,en-me-en-barag-ge-si
+c.2.1.1,The Sumerian king list,,84,lu₂ ma-da elam{ki}-ma
+c.2.1.1,The Sumerian king list,,85,{ŋeš}tukul-bi ib₂-ta-an-gam
+c.2.1.1,The Sumerian king list,,86,lugal-am₃ mu ₉₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,87,ag-ga₃
+c.2.1.1,The Sumerian king list,,88,dumu en-me-en-barag-ge-si-ke₄
+c.2.1.1,The Sumerian king list,,89,mu ₆₂₅ i₃-ak
+c.2.1.1,The Sumerian king list,,89A,₁₅₂₅ mu bal
+c.2.1.1,The Sumerian king list,,89B,en-me-barag-ge₄-e-si
+c.2.1.1,The Sumerian king list,,90,₂₃ lugal
+c.2.1.1,The Sumerian king list,,91,mu-bi ₂₄₅₁₀ itid ₃
+c.2.1.1,The Sumerian king list,,92,ud ₃ ud ₁/₂ ib₂-ak
+c.2.1.1,The Sumerian king list,,93,kiš{ki} {ŋeš}tukul ba-an-sag₃
+c.2.1.1,The Sumerian king list,,94,nam-lugal-bi e₂-an-na-še₃ ba-de₆
+c.2.1.1,The Sumerian king list,,95,e₂-an-na-ka
+c.2.1.1,The Sumerian king list,,96,meš₃-ki-aŋ₂-ga-še-er
+c.2.1.1,The Sumerian king list,,97,dumu {d}utu en-am₃
+c.2.1.1,The Sumerian king list,,98,lugal-am₃ mu ₃₂₄ i₃-ak
+c.2.1.1,The Sumerian king list,,99,meš₃-ki-aŋ₂-ga-še-er
+c.2.1.1,The Sumerian king list,,100,ab-ba ba-an-kur₉
+c.2.1.1,The Sumerian king list,,101,hur-saŋ-še₃ ba-an-ed₃
+c.2.1.1,The Sumerian king list,,102,en-me-er-kar₂ dumu meš₃-ki-aŋ₂-ga-še-er
+c.2.1.1,The Sumerian king list,,103,lugal unug{ki}-ga lu₂ unug{ki}
+c.2.1.1,The Sumerian king list,,104,mu-un-du₃-a
+c.2.1.1,The Sumerian king list,,105,lugal-am₃
+c.2.1.1,The Sumerian king list,,106,mu ₄₂₀ i₃-ak
+c.2.1.1,The Sumerian king list,,106A,₇₄₅ mu bal meš₃-ki-in-ga-še-er
+c.2.1.1,The Sumerian king list,,107,{d}lugal-ban₃-da sipad
+c.2.1.1,The Sumerian king list,,108,mu ₁₂₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,109,{d}dumu-zid šu-KU₆
+c.2.1.1,The Sumerian king list,,110,iri{ki}-ni kuara{ki}
+c.2.1.1,The Sumerian king list,,111,mu ₁₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,111A,šu dili en-me-barag-ge₄-e-si
+c.2.1.1,The Sumerian king list,,111B,nam-ra i₃-ak
+c.2.1.1,The Sumerian king list,,112,{d}gilgameš₃
+c.2.1.1,The Sumerian king list,,113,ab-ba-ni lil₂-la₂
+c.2.1.1,The Sumerian king list,,114,en kul-ab-ba-ke₄
+c.2.1.1,The Sumerian king list,,115,mu ₁₂₆ i₃-ak
+c.2.1.1,The Sumerian king list,,116,ur-{d}nun-gal
+c.2.1.1,The Sumerian king list,,117,dumu {d}gilgameš₂
+c.2.1.1,The Sumerian king list,,118,mu ₃₀ i₃-ak
+c.2.1.1,The Sumerian king list,,119,u-dul₃-kalam-ma
+c.2.1.1,The Sumerian king list,,120,dumu ur-{d}nun-gal-ke₄
+c.2.1.1,The Sumerian king list,,121,mu ₁₅ i₃-ak
+c.2.1.1,The Sumerian king list,,122,la-ba-aʾ-šum
+c.2.1.1,The Sumerian king list,,123,mu ₉ i₃-ak
+c.2.1.1,The Sumerian king list,,124,en-nun-tarah-an-na
+c.2.1.1,The Sumerian king list,,125,mu ₈ i₃-ak
+c.2.1.1,The Sumerian king list,,126,meš₃-he₂ simug mu ₃₆ i₃-ak
+c.2.1.1,The Sumerian king list,,127,me-lem₄-an-na
+c.2.1.1,The Sumerian king list,,128,mu ₆ i₃-ak
+c.2.1.1,The Sumerian king list,,129,lugal-ki-tun₃ mu ₃₆ i₃-ak
+c.2.1.1,The Sumerian king list,,130,₁₂ lugal
+c.2.1.1,The Sumerian king list,,131,mu-bi ₂₃₁₀ ib₂-ak
+c.2.1.1,The Sumerian king list,,132,unug{ki} {ŋeš}tukul ba-an-sag₃
+c.2.1.1,The Sumerian king list,,133,nam-lugal-bi urim₂{ki}-še₃ ba-de₆
+c.2.1.1,The Sumerian king list,,134,urim₂{ki}-ma
+c.2.1.1,The Sumerian king list,,135,meš₃-an-ne₂-pad₃-da
+c.2.1.1,The Sumerian king list,,136,lugal-am₃ mu ₈₀ i₃-ak
+c.2.1.1,The Sumerian king list,,137,meš₃-ki-aŋ₂-{d}nanna
+c.2.1.1,The Sumerian king list,,138,dumu meš₃-an-ne₂-pad₃-da
+c.2.1.1,The Sumerian king list,,139,lugal-am₃
+c.2.1.1,The Sumerian king list,,140,mu ₃₆ i₃-ak
+c.2.1.1,The Sumerian king list,,141,e-lu-lu mu ₂₅ i₃-ak
+c.2.1.1,The Sumerian king list,,142,ba-lu-lu ₃₆ mu i₃-ak
+c.2.1.1,The Sumerian king list,,143,₄ lugal
+c.2.1.1,The Sumerian king list,,144,mu-bi ₁₇₁ ib₂-ak
+c.2.1.1,The Sumerian king list,,145,urim₂{ki} {ŋeš}tukul ba-an-sag₃
+c.2.1.1,The Sumerian king list,,146,nam-lugal-bi
+c.2.1.1,The Sumerian king list,,147,a-wa-an{ki}-še₃ ba-de₆
+c.2.1.1,The Sumerian king list,,148,a-wa-an{ki}-na
+c.2.1.1,The Sumerian king list,,149,lugal-am₃
+c.2.1.1,The Sumerian king list,,150,mu i₃-ak
+c.2.1.1,The Sumerian king list,,152,mu i₃-ak
+c.2.1.1,The Sumerian king list,,153,ku-ul-X
+c.2.1.1,The Sumerian king list,,154,mu ₃₆ i₃-ak
+c.2.1.1,The Sumerian king list,,155,₃ lugal
+c.2.1.1,The Sumerian king list,,156,mu-bi ₃₅₆ ib₂-ak
+c.2.1.1,The Sumerian king list,,157,a-wa-an{ki} {ŋeš}tukul ba-an-sag₃
+c.2.1.1,The Sumerian king list,,158,nam-lugal-bi
+c.2.1.1,The Sumerian king list,,159,kiš{ki}-še₃ ba-de₆
+c.2.1.1,The Sumerian king list,,160,kiš{ki} su₈-sud₃-da {lu₂}azlag₂
+c.2.1.1,The Sumerian king list,,161,lugal-am₃
+c.2.1.1,The Sumerian king list,,162,mu ₂₀₁ i₃-ak
+c.2.1.1,The Sumerian king list,,163,da-da-sig mu ₈₁ i₃-ak
+c.2.1.1,The Sumerian king list,,164,ma₂-ma₂-gal {lu₂}ma₂-lah₄-e
+c.2.1.1,The Sumerian king list,,165,mu ₃₆₀ i₃-ak
+c.2.1.1,The Sumerian king list,,166,ka-al-bu-um
+c.2.1.1,The Sumerian king list,,167,dumu ma₂-ma₂-gal-ke₄
+c.2.1.1,The Sumerian king list,,168,mu ₁₉₅ i₃-ak
+c.2.1.1,The Sumerian king list,,169,TUG₂-e mu ₃₆₀ i₃-ak
+c.2.1.1,The Sumerian king list,,170,men-nun-na dumu TUG₂-e-ke₄ mu ₁₈₀ i₃-ak
+c.2.1.1,The Sumerian king list,,171,i-bi-X-X
+c.2.1.1,The Sumerian king list,,172,mu ₂₉₀ i₃-ak
+c.2.1.1,The Sumerian king list,,173,lugal-ŋu₁₀ mu ₃₆₀ i₃-ak
+c.2.1.1,The Sumerian king list,,174,₈ lugal
+c.2.1.1,The Sumerian king list,,175,mu-bi ₃₁₉₅ ib₂-ak
+c.2.1.1,The Sumerian king list,,176,kiš{ki} {ŋeš}tukul ba-an-sag₃
+c.2.1.1,The Sumerian king list,,177,nam-lugal-bi
+c.2.1.1,The Sumerian king list,,178,ha-ma-zi₂{ki}-še₃ ba-de₆
+c.2.1.1,The Sumerian king list,,179,ha-ma-zi₂{ki}-a ha-da-ni-iš
+c.2.1.1,The Sumerian king list,,180,lugal-am₃
+c.2.1.1,The Sumerian king list,,181,mu ₆ šu-ši i₃-ak
+c.2.1.1,The Sumerian king list,,182,₁ lugal
+c.2.1.1,The Sumerian king list,,183,mu-bi ₆ šu-ši ib₂-ak
+c.2.1.1,The Sumerian king list,,184,ha-ma-zi₂{ki} {ŋeš}tukul ba-an-sag₃
+c.2.1.1,The Sumerian king list,,185,nam-lugal-bi unug{ki}-še₃ ba-de₆
+c.2.1.1,The Sumerian king list,,186,unug{ki}-ga en-šakkan₂-ša₄-an-na
+c.2.1.1,The Sumerian king list,,187,lugal-am₃ mu ₁ šu-ši i₃-ak
+c.2.1.1,The Sumerian king list,,188,lugal-ur-e ₂ šu-ši mu i₃-ak
+c.2.1.1,The Sumerian king list,,189,ar-ga-an-de₂-a ₇ mu i₃-ak
+c.2.1.1,The Sumerian king list,,190,₃ lugal mu-bi ₁₈₇ ib₂-ak
+c.2.1.1,The Sumerian king list,,191,unug{ki} {ŋeš}tukul ba-sag₃
+c.2.1.1,The Sumerian king list,,192,nam-lugal-bi urim₂-še₃ ba-de₆
+c.2.1.1,The Sumerian king list,,193,urim₂-ma na-an-ni
+c.2.1.1,The Sumerian king list,,194,lugal-am₃
+c.2.1.1,The Sumerian king list,,195,mu ₁₂₀ i₃-ak
+c.2.1.1,The Sumerian king list,,196,meš₃-ki-aŋ₂-{d}nanna dumu na-an-ni-ke₄
+c.2.1.1,The Sumerian king list,,197,mu ₄₈ i₃-ak
+c.2.1.1,The Sumerian king list,,198,X-ak
+c.2.1.1,The Sumerian king list,,199,
+c.2.1.1,The Sumerian king list,,200,mu ₂ i₃-ak
+c.2.1.1,The Sumerian king list,,201,₃ lugal
+c.2.1.1,The Sumerian king list,,202,mu-bi ₅₈₂ ib₂-ak
+c.2.1.1,The Sumerian king list,,203,urim₂{ki} {ŋeš}tukul ba-sag₃
+c.2.1.1,The Sumerian king list,,204,nam-lugal-bi adab{ki}-še₃ ba-de₆
+c.2.1.1,The Sumerian king list,,205,adab{ki}-ba lugal-an-ne₂-mu-un-du₃
+c.2.1.1,The Sumerian king list,,206,lugal-am₃ mu ₉₀ in-ak
+c.2.1.1,The Sumerian king list,,207,₁ lugal
+c.2.1.1,The Sumerian king list,,208,mu-bi ₉₀ in-ak
+c.2.1.1,The Sumerian king list,,209,adab{ki} {ŋeš}tukul ba-an-sag₃
+c.2.1.1,The Sumerian king list,,210,nam-lugal-bi ma-ri₂{ki}-še₃ ba-de₆
+c.2.1.1,The Sumerian king list,,211,ma-ri₂{ki}-a AN.BU
+c.2.1.1,The Sumerian king list,,212,lugal-am₃ mu ₃₀ i₃-ak
+c.2.1.1,The Sumerian king list,,213,AN.BA dumu AN.BU-ke₄
+c.2.1.1,The Sumerian king list,,214,mu ₁₇ i₃-ak
+c.2.1.1,The Sumerian king list,,215,ba-zi {lu₂}ašgab mu ₃₀ i₃-ak
+c.2.1.1,The Sumerian king list,,216,zi-zi {lu₂}azlag₂ mu ₂₀ i₃-ak
+c.2.1.1,The Sumerian king list,,217,li-im-er gudug mu ₃₀ i₃-ak
+c.2.1.1,The Sumerian king list,,218,šarrum-i-ter mu ₉ i₃-ak
+c.2.1.1,The Sumerian king list,,219,₆ lugal
+c.2.1.1,The Sumerian king list,,220,mu-bi ₁₃₆ i₃-ak
+c.2.1.1,The Sumerian king list,,221,ma-ri{ki} {ŋeš}tukul ba-an-sag₃
+c.2.1.1,The Sumerian king list,,222,nam-lugal-bi
+c.2.1.1,The Sumerian king list,,223,kiš{ki}-še₃ ba-de₆
+c.2.1.1,The Sumerian king list,,224,kiš{ki}-a kug-{d}ba-u₂
+c.2.1.1,The Sumerian king list,,225,{f}lu₂-kurun-na
+c.2.1.1,The Sumerian king list,,226,suhuš kiš{ki} mu-un-gen₆-na
+c.2.1.1,The Sumerian king list,,227,lugal-am₃ mu ₁₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,228,₁ lugal
+c.2.1.1,The Sumerian king list,,229,mu-bi ₁₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,230,kiš{ki} {ŋeš}tukul ba-an-sag₃
+c.2.1.1,The Sumerian king list,,231,nam-lugal-bi akšak{ki}-še₃ ba-de₆
+c.2.1.1,The Sumerian king list,,232,akšak{ki}-a un-zi
+c.2.1.1,The Sumerian king list,,233,lugal-am₃ mu ₃₀ i₃-ak
+c.2.1.1,The Sumerian king list,,234,un-da-lu-lu mu ₆ i₃-ak
+c.2.1.1,The Sumerian king list,,235,ur-ur mu ₆ i₃-ak
+c.2.1.1,The Sumerian king list,,236,puzur₄-{d}nirah mu ₂₀ i₃-ak
+c.2.1.1,The Sumerian king list,,237,i-šu-il mu ₂₄ i₃-ak
+c.2.1.1,The Sumerian king list,,238,šu-{d}suen dumu i-šu-il-la-ke₄ mu ₇ i₃-ak
+c.2.1.1,The Sumerian king list,,239,₆ lugal
+c.2.1.1,The Sumerian king list,,240,mu-bi ₉₉ ib₂-ak
+c.2.1.1,The Sumerian king list,,241,akšak{ki} {ŋeš}tukul ba-sag₃
+c.2.1.1,The Sumerian king list,,242,nam-lugal-bi
+c.2.1.1,The Sumerian king list,,243,kiš{ki}-še₃ ba-de₆
+c.2.1.1,The Sumerian king list,,244,kiš{ki}-a puzur₄-{d}suen
+c.2.1.1,The Sumerian king list,,245,dumu kug-{d}ba-u₂-ke₄
+c.2.1.1,The Sumerian king list,,246,lugal-am₃ mu ₂₅ i₃-ak
+c.2.1.1,The Sumerian king list,,247,ur-{d}za-ba₄-ba₄
+c.2.1.1,The Sumerian king list,,248,dumu puzur₄-{d}suen-na-ke₄
+c.2.1.1,The Sumerian king list,,249,mu ₄₀₀ i₃-ak
+c.2.1.1,The Sumerian king list,,249A,₁₃₁ mu bal kug-ba-u₂-kam
+c.2.1.1,The Sumerian king list,,250,zi-mu-dar mu ₃₀ i₃-ak
+c.2.1.1,The Sumerian king list,,251,u₂-ṣi₂-wa-tar₂ dumu zi-mu-dar-ra-ke₄ mu ₇ i₃-ak
+c.2.1.1,The Sumerian king list,,252,eš₄-tar₂-mu-ti mu ₁₁ i₃-ak
+c.2.1.1,The Sumerian king list,,253,iš-me-{d}šamaš mu ₁₁ i₃-ak
+c.2.1.1,The Sumerian king list,,253A,šu-i₃-li₂-šu
+c.2.1.1,The Sumerian king list,,253B,₁₅ mu i₃-ak
+c.2.1.1,The Sumerian king list,,254,na-an-ni-ia zadim mu ₇ i₃-ak
+c.2.1.1,The Sumerian king list,,255,₇ lugal
+c.2.1.1,The Sumerian king list,,256,mu-bi ₄₉₁ ib₂-ak
+c.2.1.1,The Sumerian king list,,257,kiš{ki} {ŋeš}tukul ba-an-sag₃
+c.2.1.1,The Sumerian king list,,258,nam-lugal-bi unug{ki}-še₃ ba-de₆
+c.2.1.1,The Sumerian king list,,259,unug{ki}-ga lugal-zag-ge-si
+c.2.1.1,The Sumerian king list,,260,lugal-am₃ mu ₂₅ i₃-ak
+c.2.1.1,The Sumerian king list,,261,₁ lugal
+c.2.1.1,The Sumerian king list,,262,mu-bi ₂₅ i₃-ak
+c.2.1.1,The Sumerian king list,,263,unug{ki} {ŋeš}tukul ba-an-sag₃
+c.2.1.1,The Sumerian king list,,264,nam-lugal-bi
+c.2.1.1,The Sumerian king list,,265,a-ga-de₃{ki}-še₃ ba-de₆
+c.2.1.1,The Sumerian king list,,266,a-ga-de₃{ki}-a šar-ru-ki-in
+c.2.1.1,The Sumerian king list,,267,ab-ba-ni nu-kiri₆
+c.2.1.1,The Sumerian king list,,268,sagi ur-{d}za-ba₄-ba₄
+c.2.1.1,The Sumerian king list,,269,lugal a-ga-de₃{ki} lu₂ a-ga-de₃{ki}
+c.2.1.1,The Sumerian king list,,270,mu-un-du₃-a
+c.2.1.1,The Sumerian king list,,271,lugal-am₃ mu ₅₆ i₃-ak
+c.2.1.1,The Sumerian king list,,272,ri₂-mu-uš dumu šar-ru-ki-in
+c.2.1.1,The Sumerian king list,,273,mu ₉ i₃-ak
+c.2.1.1,The Sumerian king list,,274,ma-ni-iš-ti-iš-šu
+c.2.1.1,The Sumerian king list,,275,šeš-gal ri₂-mu-uš
+c.2.1.1,The Sumerian king list,,276,dumu šar-ru-ki-in
+c.2.1.1,The Sumerian king list,,277,mu ₁₅ i₃-ak
+c.2.1.1,The Sumerian king list,,278,na-ra-am-{d}suen
+c.2.1.1,The Sumerian king list,,279,dumu ma-ni-iš-ti-iš-šu
+c.2.1.1,The Sumerian king list,,280,mu ₅₆ i₃-ak
+c.2.1.1,The Sumerian king list,,281,šar-ka₃-li₂-šar-ri₂
+c.2.1.1,The Sumerian king list,,282,dumu na-ra-am-{d}suen
+c.2.1.1,The Sumerian king list,,283,mu ₂₅ i₃-ak
+c.2.1.1,The Sumerian king list,,283A,₁₅₇ mu bal
+c.2.1.1,The Sumerian king list,,283B,šar-ru-ki₂-nim
+c.2.1.1,The Sumerian king list,,284,a-ba-am₃ lugal a-ba-am₃ nu lugal
+c.2.1.1,The Sumerian king list,,285,ir-gi₄-gi₄ lugal
+c.2.1.1,The Sumerian king list,,286,i-mi lugal
+c.2.1.1,The Sumerian king list,,287,na-nu-um lugal
+c.2.1.1,The Sumerian king list,,288,i-lu-lu lugal
+c.2.1.1,The Sumerian king list,,289,₄-bi ₃ mu ib₂-ak
+c.2.1.1,The Sumerian king list,,290,du-du mu ₂₁ i₃-ak
+c.2.1.1,The Sumerian king list,,291,šu-dur-ul₃ dumu du-du-ke₄
+c.2.1.1,The Sumerian king list,,292,mu ₁₅ i₃-ak
+c.2.1.1,The Sumerian king list,,293,₁₁ lugal
+c.2.1.1,The Sumerian king list,,294,mu-bi ₁₈₁ ib₂-ak
+c.2.1.1,The Sumerian king list,,295,a-ga-de₃{ki} {ŋeš}tukul ba-an-sag₃
+c.2.1.1,The Sumerian king list,,296,nam-lugal-bi unug{ki}-še₃ ba-de₆
+c.2.1.1,The Sumerian king list,,297,unug{ki}-ga ur-niŋin₃ lugal-am₃
+c.2.1.1,The Sumerian king list,,298,mu ₇ i₃-ak
+c.2.1.1,The Sumerian king list,,299,ur-{ŋeš}gigir dumu ur-niŋin₃-ke₄
+c.2.1.1,The Sumerian king list,,300,mu ₆ i₃-ak
+c.2.1.1,The Sumerian king list,,301,kud-da mu ₆ i₃-ak
+c.2.1.1,The Sumerian king list,,302,puzur₄-i₃-li₂ mu ₅ i₃-ak
+c.2.1.1,The Sumerian king list,,303,ur-{d}utu mu ₆ i₃-ak
+c.2.1.1,The Sumerian king list,,304,₅ lugal mu-bi ₃₀ ib₂-ak
+c.2.1.1,The Sumerian king list,,305,unug{ki} {ŋeš}tukul ba-an-sag₃
+c.2.1.1,The Sumerian king list,,306,nam-lugal-bi
+c.2.1.1,The Sumerian king list,,307,ugnim gu-tu-um{ki}-še₃ ba-de₆
+c.2.1.1,The Sumerian king list,,308,ugnim gu-tu-um{ki}
+c.2.1.1,The Sumerian king list,,309,lugal mu nu-tuku
+c.2.1.1,The Sumerian king list,,310,ni₂-ta-a lugal-am₃ mu ₃ i₃-ak
+c.2.1.1,The Sumerian king list,,311,in-ki-šuš₂ mu ₆ i₃-ak
+c.2.1.1,The Sumerian king list,,312,zar₂-lagab mu ₆ i₃-ak
+c.2.1.1,The Sumerian king list,,313,šul-me-e mu ₆ i₃-ak
+c.2.1.1,The Sumerian king list,,314,si-lu-lu-me-eš mu ₆ i₃-ak
+c.2.1.1,The Sumerian king list,,315,i-ni-ma-ba-ke-eš mu ₅ i₃-ak
+c.2.1.1,The Sumerian king list,,316,i-ge₄-eš-a-uš mu ₆ i₃-ak
+c.2.1.1,The Sumerian king list,,317,ia-ar-la-gab mu ₁₅ i₃-ak
+c.2.1.1,The Sumerian king list,,318,i-ba-te mu ₃ i₃-ak
+c.2.1.1,The Sumerian king list,,319,ia-ar-la mu ₃ i₃-ak
+c.2.1.1,The Sumerian king list,,320,ku-ru-um mu ₁ i₃-ak
+c.2.1.1,The Sumerian king list,,321,a-pil-ki-in mu ₃ i₃-ak
+c.2.1.1,The Sumerian king list,,322,la-e₂-ra-bu-um mu ₂ i₃-ak
+c.2.1.1,The Sumerian king list,,323,i-ra-ru-um mu ₂ i₃-ak
+c.2.1.1,The Sumerian king list,,324,ib-ra-nu-um mu ₁ i₃-ak
+c.2.1.1,The Sumerian king list,,325,ha-ab-lum mu ₂ i₃-ak
+c.2.1.1,The Sumerian king list,,326,puzur₄-{d}suen dumu ha-ab-lum
+c.2.1.1,The Sumerian king list,,326A,mu ₇ i₃-ak
+c.2.1.1,The Sumerian king list,,327,ia-ar-la-ga-an-da mu ₇ i₃-ak
+c.2.1.1,The Sumerian king list,,328,si-UD mu ₇ i₃-ak
+c.2.1.1,The Sumerian king list,,329,ti-ri-ga ud ₄₀ i₃-ak
+c.2.1.1,The Sumerian king list,,330,₂₁ lugal
+c.2.1.1,The Sumerian king list,,331,mu-bi ₁₂₄ ud ₄₀ ib₂-ak
+c.2.1.1,The Sumerian king list,,332,ugnim gu-ti-um{ki}
+c.2.1.1,The Sumerian king list,,333,{ŋeš}tukul ba-an-sag₃
+c.2.1.1,The Sumerian king list,,334,nam-lugal-bi unug{ki}-še₃ ba-de₆
+c.2.1.1,The Sumerian king list,,335,unug{ki}-ga {d}utu-he₂-ŋal₂ lugal-am₃
+c.2.1.1,The Sumerian king list,,336,mu ₇ šu-ši ₇ ud i₃-ak
+c.2.1.1,The Sumerian king list,,337,₁ lugal
+c.2.1.1,The Sumerian king list,,338,mu-bi ₇ šu-ši ₇ ud i₃-ak
+c.2.1.1,The Sumerian king list,,339,unug{ki} {ŋeš}tukul ba-an-sag₃
+c.2.1.1,The Sumerian king list,,340,nam-lugal-bi urim₂{ki}-še₃ ba-de₆
+c.2.1.1,The Sumerian king list,,341,urim₂{ki}-ma ur-{d}namma lugal-am₃
+c.2.1.1,The Sumerian king list,,342,mu ₁₈ i₃-ak
+c.2.1.1,The Sumerian king list,,343,{d}šul-gi dumu ur-{d}namma-ke₄
+c.2.1.1,The Sumerian king list,,344,mu ₄₆ i₃-ak
+c.2.1.1,The Sumerian king list,,345,{d}amar-{d}suen-na dumu {d}šul-gi-ke₄
+c.2.1.1,The Sumerian king list,,346,mu ₉ i₃-ak
+c.2.1.1,The Sumerian king list,,347,šu-{d}suen dumu {d}amar-{d}suen-na-ke₄
+c.2.1.1,The Sumerian king list,,348,mu ₉ i₃-ak
+c.2.1.1,The Sumerian king list,,349,i-bi₂-{d}suen dumu šu-{d}suen-ke₄
+c.2.1.1,The Sumerian king list,,350,mu ₂₄ i₃-ak
+c.2.1.1,The Sumerian king list,,351,₄ lugal
+c.2.1.1,The Sumerian king list,,352,mu-bi ₁₀₈ ib₂-ak
+c.2.1.1,The Sumerian king list,,353,urim₂{ki}-ma {ŋeš}tukul ba-an-sag₃
+c.2.1.1,The Sumerian king list,,353A,suhuš ki-en-gi-ra mu-un-bu
+c.2.1.1,The Sumerian king list,,354,nam-lugal-bi i₃-si-in{ki}-še₃ ba-de₆
+c.2.1.1,The Sumerian king list,,355,i₃-si-in{ki}-na iš-bi-{d}er₃-ra lugal-am₃
+c.2.1.1,The Sumerian king list,,356,mu ₃₃ i₃-ak
+c.2.1.1,The Sumerian king list,,357,šu-i₃-li₂-šu dumu iš-bi-{d}er₃-ra-ke₄
+c.2.1.1,The Sumerian king list,,358,mu ₂₀ i₃-ak
+c.2.1.1,The Sumerian king list,,359,i-din-{d}da-gan dumu šu-i₃-li₂-šu-ke₄
+c.2.1.1,The Sumerian king list,,360,mu ₂₁ i₃-ak
+c.2.1.1,The Sumerian king list,,361,iš-me-{d}da-gan dumu i-din-{d}da-gan-ke₄
+c.2.1.1,The Sumerian king list,,362,mu ₂₀ i₃-ak
+c.2.1.1,The Sumerian king list,,363,li-pi₂-it-eš₄-tar₂ dumu iš-me-{d}da-gan-ke₄
+c.2.1.1,The Sumerian king list,,364,mu ₁₁ i₃-ak
+c.2.1.1,The Sumerian king list,,365,{d}ur-{d}nin-urta dumu {d}iškur-ke₄ mu he₂-ŋal₂-la bal sag₉-ga til₃ niŋ₂ dug₃-ga ud ha-ba-zal-zal-e mu ₂₈ i₃-ak
+c.2.1.1,The Sumerian king list,,366,{d}bur-{d}suen dumu {d}ur-{d}nin-urta-ke₄
+c.2.1.1,The Sumerian king list,,367,mu ₂₁ i₃-ak
+c.2.1.1,The Sumerian king list,,368,{d}li-pi₂-it-{d}en-lil₂
+c.2.1.1,The Sumerian king list,,369,dumu bur-{d}suen-ke₄ mu ₅ i₃-ak
+c.2.1.1,The Sumerian king list,,370,{d}er₃-ra-i-mi-ti mu ₈ i₃-ak
+c.2.1.1,The Sumerian king list,,370A,itid ₆ in-ak
+c.2.1.1,The Sumerian king list,,371,{d}en-lil₂-ba-ni mu ₂₄ i₃-ak
+c.2.1.1,The Sumerian king list,,372,{d}za-am-bi-ia mu ₃ i₃-ak
+c.2.1.1,The Sumerian king list,,373,{d}i-te-er-pi₄-ša mu ₄ i₃-ak
+c.2.1.1,The Sumerian king list,,374,{d}ur-du₆-kug-ga mu ₄ i₃-ak
+c.2.1.1,The Sumerian king list,,375,{d}suen-ma-gir mu ₁₁ i₃-ak
+c.2.1.1,The Sumerian king list,,375A,da-mi-iq-i₃-li₂-šu dumu {d}suen-ma-gir mu ₂₃ in-ak
+c.2.1.1,The Sumerian king list,,376,₁₄ lugal
+c.2.1.1,The Sumerian king list,,377,mu-bi ₂₀₃ ib₂-ak
+c.2.1.1,The Sumerian king list,,378,šu-niŋin₂ ₄₀-la₂-₁ lugal
+c.2.1.1,The Sumerian king list,,379,mu-bi ₁₄₄₀₀ ₉ mu ₃ itid ₃ ₁/₂ ud ib₂-ak
+c.2.1.1,The Sumerian king list,,380,a-ra₂ ₄-kam
+c.2.1.1,The Sumerian king list,,381,šag₄ kiš{ki}
+c.2.1.1,The Sumerian king list,,382,šu-niŋin₂ ₂₂ lugal
+c.2.1.1,The Sumerian king list,,383,mu-bi ₂₆₁₀ ₆ itid ₁₅ ud ib₂-ak
+c.2.1.1,The Sumerian king list,,384,a-ra₂ ₅-kam
+c.2.1.1,The Sumerian king list,,385,šag₄ unug{ki}-ga
+c.2.1.1,The Sumerian king list,,386,šu-niŋin₂ ₁₂ lugal
+c.2.1.1,The Sumerian king list,,387,mu-bi ₃₉₆ mu ib₂-ak
+c.2.1.1,The Sumerian king list,,388,a-ra₂ ₃-kam
+c.2.1.1,The Sumerian king list,,389,šag₄ urim₂{ki}-ma
+c.2.1.1,The Sumerian king list,,390,šu-niŋin₂ ₃ lugal
+c.2.1.1,The Sumerian king list,,391,mu-bi ₃₅₆ mu ib₂-ak
+c.2.1.1,The Sumerian king list,,392,a-ra₂ ₁-kam
+c.2.1.1,The Sumerian king list,,393,šag₄ a-wa-an{ki}
+c.2.1.1,The Sumerian king list,,394,šu-niŋin₂ ₁ lugal
+c.2.1.1,The Sumerian king list,,395,mu-bi ₄₂₀ mu i₃-ak
+c.2.1.1,The Sumerian king list,,396,a-ra₂ ₁-kam
+c.2.1.1,The Sumerian king list,,397,šag₄ ha-ma-zi{ki}-a
+c.2.1.1,The Sumerian king list,,414,šu-niŋin₂ ₁₂ lugal
+c.2.1.1,The Sumerian king list,,415,mu-bi ₆₀ ₁₃₇ mu ib₂-ak
+c.2.1.1,The Sumerian king list,,416,a-ra₂ ₁-kam
+c.2.1.1,The Sumerian king list,,417,šag₄ a-ga-de₃{ki}
+c.2.1.1,The Sumerian king list,,418,šu-niŋin₂ ₂₁ lugal
+c.2.1.1,The Sumerian king list,,419,mu-bi ₁₂₅ mu ₄₀ ud ib₂-ak
+c.2.1.1,The Sumerian king list,,420,a-ra₂ ₁-kam
+c.2.1.1,The Sumerian king list,,421,šag₄ ugnim
+c.2.1.1,The Sumerian king list,,422,gu-ti-um{ki}
+c.2.1.1,The Sumerian king list,,423,šu-niŋin ₁₁ lugal
+c.2.1.1,The Sumerian king list,,424,mu-bi ₁₅₉ mu ib₂-ak
+c.2.1.1,The Sumerian king list,,425,šag₄ i-si-in{ki}-na
+c.2.1.1,The Sumerian king list,,426,₁₁ iri{ki}
+c.2.1.1,The Sumerian king list,,427,iri{ki} nam-lugal-la ib₂-ak-ka₃
+c.2.1.1,The Sumerian king list,,428,šu-niŋin₂ ₁₃₄ lugal
+c.2.1.1,The Sumerian king list,,429,šu-niŋin₂
+c.2.1.1,The Sumerian king list,,430,mu-bi ₂₈₈₀₀ ₇₆
+c.2.1.1,The Sumerian king list,,431,₂₁

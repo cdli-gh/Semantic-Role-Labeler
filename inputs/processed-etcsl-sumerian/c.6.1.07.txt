@@ -1,0 +1,142 @@
+id_text,text_name,version,l_no,text
+c.6.1.07,Proverbs: collection 7,,A1,ki gul-la-ba ki he₂-en-gul
+c.6.1.07,Proverbs: collection 7,,A2,ki nu-gul-la-ba gu₂-ŋiri₃ he₂-en-ŋal₂
+c.6.1.07,Proverbs: collection 7,,A3,ki-ni ki lu-ub₂{sar} ku₅-ra₂ he₂-a
+c.6.1.07,Proverbs: collection 7,,A4,me-bi ba-da-ha-lam
+c.6.1.07,Proverbs: collection 7,,A5,di-ir-ga-a ki nam-ba-e-gul
+c.6.1.07,Proverbs: collection 7,,A6,me-bi na-ab-da-ha-lam-e-en-ze₂-en
+c.6.1.07,Proverbs: collection 7,,B1,
+c.6.1.07,Proverbs: collection 7,,B2,a-a-bi nu-gur-re
+c.6.1.07,Proverbs: collection 7,,B3,₁ lag ₁ ab-sin₂
+c.6.1.07,Proverbs: collection 7,,B4,ŋe₂₆-e ₃-kam-ma-bi-me-en
+c.6.1.07,Proverbs: collection 7,,B5,lag a-a gurud₂-da bi-iz-bi gul-la
+c.6.1.07,Proverbs: collection 7,,B6,umun₃-še₃ piriŋ-gin₇ du
+c.6.1.07,Proverbs: collection 7,,B7,kiŋ₂ ak-de₃ niŋ₂-gilim-gin₇ du
+c.6.1.07,Proverbs: collection 7,,B8,umbin kud tug₂-mu-dur₇-ra mu₄-mu₄
+c.6.1.07,Proverbs: collection 7,,B9,kašbir-a ga-naŋ
+c.6.1.07,Proverbs: collection 7,,B10,zag gal-la ga-tuš
+c.6.1.07,Proverbs: collection 7,,B11,nu-mu-na-kal ezem-ma ba-DU
+c.6.1.07,Proverbs: collection 7,,B12,haš₂ a-ra-an-gid₂-nam lu₂ še-ŋiš-i₃ bi₂-ib₂-il₂-il₂-i
+c.6.1.07,Proverbs: collection 7,,B13,ba-ra-an-ak
+c.6.1.07,Proverbs: collection 7,,B15,ma₂ ha-ba-su-su barag ga-ba-ra-ab-ur₃
+c.6.1.07,Proverbs: collection 7,,B16,ud mu-da-zal a-na mu-e-ši-ti
+c.6.1.07,Proverbs: collection 7,,B17,i₃-dirig nu-su-su
+c.6.1.07,Proverbs: collection 7,,B18,ud i₃-di-de₃-en ud šu₂-uš i₃-di-de₃-en
+c.6.1.07,Proverbs: collection 7,,B19,balaŋ er₂-ra im-ma-gub-gub-bu-de₃-en
+c.6.1.07,Proverbs: collection 7,,B20,aga-us₂ du₁₄ ŋiš ba-ni-ib-la₂
+c.6.1.07,Proverbs: collection 7,,B21,
+c.6.1.07,Proverbs: collection 7,,B22,
+c.6.1.07,Proverbs: collection 7,,B23,DU-am₃
+c.6.1.07,Proverbs: collection 7,,B24,
+c.6.1.07,Proverbs: collection 7,,B25,kur₂
+c.6.1.07,Proverbs: collection 7,,B26,ga-sam₂-bi
+c.6.1.07,Proverbs: collection 7,,B27,saŋ-du suhur{ku₆} saŋ-du maš₂-gur-ra-ŠEŠ{ku₆} he₂-da-gu₇-e
+c.6.1.07,Proverbs: collection 7,,B28,di gid₂-i al-ŋal₂
+c.6.1.07,Proverbs: collection 7,,B29,aš₂ gid₂-i nu-ŋal₂
+c.6.1.07,Proverbs: collection 7,,B30,umun₃-e gada ba-la₂
+c.6.1.07,Proverbs: collection 7,,B31,nim-sahar-ra {gi}kid-aš-rin ba-e-sig₉
+c.6.1.07,Proverbs: collection 7,,B32,muš-da-gur₄-ra šutum ba-na-an-du₃
+c.6.1.07,Proverbs: collection 7,,B33,a-ra₂-bu{mušen} niŋ₂ a₂-ba-ka nu-gu₇
+c.6.1.07,Proverbs: collection 7,,B34,im-ma-an-de₅-de₅ šah₂-ni ba-an-šum
+c.6.1.07,Proverbs: collection 7,,B35,im-ma-an-de₅-de₅ ŋiš-ni ba-an-til
+c.6.1.07,Proverbs: collection 7,,B36,du₆ kug
+c.6.1.07,Proverbs: collection 7,,B37,u₂
+c.6.1.07,Proverbs: collection 7,,B38,gun₂-ŋu₁₀
+c.6.1.07,Proverbs: collection 7,,B39,{ŋeš}dusu im bal-bal-am₃
+c.6.1.07,Proverbs: collection 7,,B40,nam
+c.6.1.07,Proverbs: collection 7,,B41,ma₂ kar gana₂
+c.6.1.07,Proverbs: collection 7,,B42,ninda šu ti-a li-bi₂-in-gur-ra
+c.6.1.07,Proverbs: collection 7,,B43,kar-ke₄
+c.6.1.07,Proverbs: collection 7,,B44,alan
+c.6.1.07,Proverbs: collection 7,,B45,
+c.6.1.07,Proverbs: collection 7,,B46,
+c.6.1.07,Proverbs: collection 7,,B47,bi₂-in-dug₄ ba-da-an-gur
+c.6.1.07,Proverbs: collection 7,,B48,{ŋeš}ma₂-gin₇ a-a am₃-zig₃-zig₃
+c.6.1.07,Proverbs: collection 7,,B49,{na₄}kinkin bur₁₂-ra-gin₇ al-du₇-du₇-du₇-un
+c.6.1.07,Proverbs: collection 7,,B50,ka ba-an-la₂-a dam-a-ni gi₄-in-nam
+c.6.1.07,Proverbs: collection 7,,B51,ka-ŋu₁₀ lu₂-da an-da-sa₂-e-en
+c.6.1.07,Proverbs: collection 7,,B52,u₆ di kalam di-de₃ iri-ni mu-un-ed₂-e
+c.6.1.07,Proverbs: collection 7,,B53,al-di-di-de₃-en nu-kuš₂-u₃-de₃-en
+c.6.1.07,Proverbs: collection 7,,B54,i₃-di-di-de₃-en u₃ nu-ku-ku-me-en
+c.6.1.07,Proverbs: collection 7,,B55,til₃-la lul-la hul na-an-gu-ul-e
+c.6.1.07,Proverbs: collection 7,,B56,gam ha-la-zu mu-un-ŋal₂
+c.6.1.07,Proverbs: collection 7,,B57,tug₂-me-en-ze₂-er-še₃ ba-X-da-bir₇-ra
+c.6.1.07,Proverbs: collection 7,,B58,še sahar-ba im-ma-an-til₃-la
+c.6.1.07,Proverbs: collection 7,,B59,ta šu ba-ni-in-ti
+c.6.1.07,Proverbs: collection 7,,B60,a de₂-a-bi en še sig₉-ga-bi en
+c.6.1.07,Proverbs: collection 7,,B61,in-gu₇ nu-un-gu₇ numun sag₉-ga-am₃
+c.6.1.07,Proverbs: collection 7,,B62,ga-ša-an tug₂ gal-gal-la-ŋen
+c.6.1.07,Proverbs: collection 7,,B63,{tug₂}niŋ₂-dara₂-ŋu₁₀ da-an-kud
+c.6.1.07,Proverbs: collection 7,,B64,u₃-mu-un id₂ da-ma-al-la-ŋen
+c.6.1.07,Proverbs: collection 7,,B65,i₃-gu₇-e-en
+c.6.1.07,Proverbs: collection 7,,C1,nam-tar ur-am₃ zu₂ mu-un-da-ab-kud
+c.6.1.07,Proverbs: collection 7,,C2,tug₂-mu-dur₇-ra-gin₇ im-ma-tab-tab
+c.6.1.07,Proverbs: collection 7,,C3,ga-ša-an-an-na
+c.6.1.07,Proverbs: collection 7,,C4,
+c.6.1.07,Proverbs: collection 7,,C5,
+c.6.1.07,Proverbs: collection 7,,C6,niŋ₂ ga-ša-an-an-na
+c.6.1.07,Proverbs: collection 7,,C7,aŋ₂ ŋiri₃-ba
+c.6.1.07,Proverbs: collection 7,,C8,ur i-im-di
+c.6.1.07,Proverbs: collection 7,,C9,me₂-er im-di
+c.6.1.07,Proverbs: collection 7,,C10,lu₂-ŋu₁₀ ba-ra-mu-un-di
+c.6.1.07,Proverbs: collection 7,,C11,{ŋeš}ma₂-addir lu₂ dirig
+c.6.1.07,Proverbs: collection 7,,C12,lu₂-ŋu₁₀ ba-ra-mu-un-u₅
+c.6.1.07,Proverbs: collection 7,,C13,i₃-bi mu-dur₇-ra
+c.6.1.07,Proverbs: collection 7,,C14,še-bi sahar-ra
+c.6.1.07,Proverbs: collection 7,,C15,e-le-lum-ŋu₁₀ kur-re
+c.6.1.07,Proverbs: collection 7,,C16,umuš-ŋu₁₀ ur₅-re nu-um-ši-kar-X
+c.6.1.07,Proverbs: collection 7,,C17,uₓ-a bi₂-in-dug₄ ma₂ ba-da-an-su
+c.6.1.07,Proverbs: collection 7,,C18,a-la-la bi₂-in-dug₄ {ŋeš}gi-muš ba-da-an-haš
+c.6.1.07,Proverbs: collection 7,,C19,ŋuruš-e u₈-a diŋir-ra-am₃ di {ŋeš}ma₂ ki-bi ba-te
+c.6.1.07,Proverbs: collection 7,,C20,a-ba-am₃ sahar mu-un-zig₃
+c.6.1.07,Proverbs: collection 7,,C21,a-ba-am₃ {ŋeš}ma₂ bi₂-in-zu
+c.6.1.07,Proverbs: collection 7,,C22,šag₄-ŋu₁₀ {ŋeš}kiri₆ ha-ra-dirig-ga-ta
+c.6.1.07,Proverbs: collection 7,,C23,{d}utu nu-mu-un-ta-e₃
+c.6.1.07,Proverbs: collection 7,,C24,aŋrig šu dim₄-ma-am₃ sa-KU kalag-ga-me-en
+c.6.1.07,Proverbs: collection 7,,C25,gud kur₂-ra u₂ gu₇-gu₇
+c.6.1.07,Proverbs: collection 7,,C26,gud ni₂-ba i₃-šim-ma nu₂-nu₂
+c.6.1.07,Proverbs: collection 7,,C27,niŋ₂ u₂ nu-gu₇ am kur-ra-kam
+c.6.1.07,Proverbs: collection 7,,C35,šag₄
+c.6.1.07,Proverbs: collection 7,,C36,
+c.6.1.07,Proverbs: collection 7,,C37,
+c.6.1.07,Proverbs: collection 7,,C38,ga-ab-hul-hul
+c.6.1.07,Proverbs: collection 7,,C39,geme₂ lukur-ra-kam
+c.6.1.07,Proverbs: collection 7,,C40,lul dug₄-ga-ab
+c.6.1.07,Proverbs: collection 7,,C41,zid dug₄-ga-ab
+c.6.1.07,Proverbs: collection 7,,C42,gu₂ zu-hu-ul-a-ni-ta du₃-du₃-am₃
+c.6.1.07,Proverbs: collection 7,,C43,gu₂ bal gu₂ ki-ta al-ak-e
+c.6.1.07,Proverbs: collection 7,,C44,a-šag₄ buru₄{mušen}-gin₇ zu₂ e-da-an-ra-ah
+c.6.1.07,Proverbs: collection 7,,C45,ad-da a hur nu-ri
+c.6.1.07,Proverbs: collection 7,,C46,ama-a a hur nu-ri
+c.6.1.07,Proverbs: collection 7,,C47,{gi}en₃-bar gaba ud-da e₃-a
+c.6.1.07,Proverbs: collection 7,,C48,
+c.6.1.07,Proverbs: collection 7,,C49,
+c.6.1.07,Proverbs: collection 7,,C50,
+c.6.1.07,Proverbs: collection 7,,C51,gig gu₂-nida-a lal₃-gin₇ ib₂-ak
+c.6.1.07,Proverbs: collection 7,,C52,mar-tu i₃-gu₇-e niŋ₂ šag₄-bi nu-un-zu
+c.6.1.07,Proverbs: collection 7,,C53,še sur-ra gu₂ na-an-mar-mar-re
+c.6.1.07,Proverbs: collection 7,,C54,še-zu-še₃ tum₄ tu₁₁ lugal-zu ba-an-gu₇
+c.6.1.07,Proverbs: collection 7,,C55,sag₉-ga-bi pad₃-da
+c.6.1.07,Proverbs: collection 7,,C56,hul-bi u₂-gu de₂-a
+c.6.1.07,Proverbs: collection 7,,C57,nam-sag₉-ga kaš-a
+c.6.1.07,Proverbs: collection 7,,C58,nam-hul kaskal-la
+c.6.1.07,Proverbs: collection 7,,C59,al-ŋal₂-la {tug₂}niŋ₂-dara₂-am₃
+c.6.1.07,Proverbs: collection 7,,C60,u₂-gu ba-an-de₂ tug₂-ga-am₃
+c.6.1.07,Proverbs: collection 7,,C61,ud-da ga-til₃-e gud-gin₇ saman₂ bi₂-in-la₂
+c.6.1.07,Proverbs: collection 7,,C65,šag₄-bi zig₃-ga ugula nam-me
+c.6.1.07,Proverbs: collection 7,,C66,sipad engar nam-me
+c.6.1.07,Proverbs: collection 7,,C67,uš-bar du₈-a geme₂ ₂-am₃
+c.6.1.07,Proverbs: collection 7,,C68,uŋ₃-il₂ du₈-a arad ₃-am₃
+c.6.1.07,Proverbs: collection 7,,C69,na₄ niŋ₂ ga-ša-an-ŋa₂-a-ke₄ gaz-za-am₃
+c.6.1.07,Proverbs: collection 7,,C70,lu₂ ŋi₆-a-ka
+c.6.1.07,Proverbs: collection 7,,C71,du₇-du₇-du₇-un
+c.6.1.07,Proverbs: collection 7,,C72,ki ŋa₂-a-kam
+c.6.1.07,Proverbs: collection 7,,C73,mu-ni-ib-zig₃-zig₃
+c.6.1.07,Proverbs: collection 7,,C89,
+c.6.1.07,Proverbs: collection 7,,C90,iri{ki} en₃-du-bi maš₂-šu-gid₂-gid₂-bi
+c.6.1.07,Proverbs: collection 7,,C91,X-si-en-de₃-en
+c.6.1.07,Proverbs: collection 7,,C92,
+c.6.1.07,Proverbs: collection 7,,C93,X-gu₇-un-de₃-en
+c.6.1.07,Proverbs: collection 7,,C94,X-naŋ-en-de₃-en
+c.6.1.07,Proverbs: collection 7,,C95,mu-e-dul
+c.6.1.07,Proverbs: collection 7,,C96,bi₂-dul

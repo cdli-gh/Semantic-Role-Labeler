@@ -1,0 +1,24 @@
+id_text,text_name,version,l_no,text
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,1,da-ŋu₁₀
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,2,mu-nu₂ lal₃ hab₂-ba
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,3,šu-ni šu-ŋa₂ im-ma-X
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,4,me-ri-ni me-ri-ŋa₂ im-ma-X
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,5,šu-um-du-um-ŋu₁₀ ka-na
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,6,murub₄ mah
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,7,šag₄ ki aŋ₂-ŋa₂-ni eš₂-gin₇
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,8,har-gin₇ šu-ŋa₂
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,9,za-gin₇ gu₂-ŋa₂ teš₂
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,10,kug-gin₇ mu-ud-na-ŋa₂
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,11,šeš-e {ŋeš}kiri₆-ni-a im-ma-X
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,12,mu gub-ba-ni he₂-X-ni-gub
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,13,mu nu₂-a-ni he₂-X-nu₂-e-de₃
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,14,bi₂-in-nu₂
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,15,zu₂-lum in-ze₂-ze₂ bi₂-in-PA
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,16,aŋ₂-e {ŋeš}hašhur-a ma-da-ab-be₂
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,17,ze₂-ba kal-la-ŋu₁₀ saŋ-ŋa₂
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,18,aŋ₂-e {mu}PEŠ₃-a ma-da-ab-be₂
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,19,ze₂-ba kal-la-ŋu₁₀
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,20,aŋ₂-e {mu}KIM₃-e ma-da-ab-be₂
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,21,ze₂-ba kal-la-ŋu₁₀
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,22,aŋ₂-e ka saŋ-e ma-da-ab-be₂
+c.4.08.32,A song of Inana and Dumuzid (Dumuzid-Inana F1),,23,ze₂-ba kal-la-ŋu₁₀

@@ -1,0 +1,67 @@
+id_text,text_name,version,l_no,text
+c.6.1.04,Proverbs: collection 4,,A1,₁ dug sukuₓ-ra₂ alan gu₃ de₂-de₂
+c.6.1.04,Proverbs: collection 4,,A2,niŋ₂ izi sig₉ me i₃-kal-kal-am₃ eŋer-ra-bi na
+c.6.1.04,Proverbs: collection 4,,A3,MAŠ giŋ₄ MAŠ giŋ₄ ki im-du-a-kam
+c.6.1.04,Proverbs: collection 4,,A4,šub giŋ₄ ki am muš-a-kam
+c.6.1.04,Proverbs: collection 4,,A5,an an-guru₃ ki šu-ni-še₃ an-la₂
+c.6.1.04,Proverbs: collection 4,,A6,šul-a-lum-bi al-il₂-il₂
+c.6.1.04,Proverbs: collection 4,,A7,u₂-a-gin₇ saŋ-gu₂-ne-ka-ra ba-e-a-ed₃-de₃-de₃-en
+c.6.1.04,Proverbs: collection 4,,A8,ud šu₂-uš ŋiš₃-e a ab-ra-an
+c.6.1.04,Proverbs: collection 4,,A9,uš₂ šag₄-ba-gin₇ gi duru₅-a ab-la₂-en
+c.6.1.04,Proverbs: collection 4,,A10,lu₂ ga-šum dab₅-ba-ni al-me-a lu₂ du₁₄-da-ka-na ba-an-kur₉
+c.6.1.04,Proverbs: collection 4,,A11,{tum₉}si-sa₂ tum₉ si-am₃ {tum₉}u₁₈-lu lu₂-bi sig₁₀-ga-am₃
+c.6.1.04,Proverbs: collection 4,,A12,{tum₉}sa₁₂-ti-um tum₉ šeŋ₁₄-ŋa₂ {tum₉}mar-tu lu₂ til₃-ba dirig-ga
+c.6.1.04,Proverbs: collection 4,,A13,{tum₉}sa₁₂-ti-um tum₉ he₂-ŋal₂-la gu₅-li {d}na-ra-am-{d}suen
+c.6.1.04,Proverbs: collection 4,,A14,niŋ₂ zu a-na-aš he₂-en-de₃-šu₂
+c.6.1.04,Proverbs: collection 4,,A15,dim₃-ma-ŋu₁₀ ki na-aŋ₂-ba-al
+c.6.1.04,Proverbs: collection 4,,A16,aŋ₂ u₂-gu de₂-a-ŋu₁₀ nu-ub-pad₃-de₃-en
+c.6.1.04,Proverbs: collection 4,,A17,maš₂ a-a lu₂ ba-ni-in-ed₃-de₃ kaš-a su-bur₂
+c.6.1.04,Proverbs: collection 4,,A18,gu₇-ŋu₁₀
+c.6.1.04,Proverbs: collection 4,,A19,lu₂-tur ga nu-un-da-gu₇-a ama-zu sumun₂ kurun-a
+c.6.1.04,Proverbs: collection 4,,A20,ni₂ teŋ₃-ŋa₂-ni nu-ub-da-an-til niŋ₂-gu₇ ab-ta-kud
+c.6.1.04,Proverbs: collection 4,,A21,a zig₃-ga-gin₇ peš₁₀ he₂-da-hul₂
+c.6.1.04,Proverbs: collection 4,,A22,{id₂}idigna a-u₃-ba ŋal₂-la-gin₇ {d}en-lil₂ he₂-da-hul₂
+c.6.1.04,Proverbs: collection 4,,A23,sag₉-ga-zu zu₂ he₂-kud
+c.6.1.04,Proverbs: collection 4,,A24,tug₂ huŋ-ŋa₂-am₃ gada huŋ-ŋa₂-am₃
+c.6.1.04,Proverbs: collection 4,,A25,za-gin₃ huŋ-ŋa₂-am₃ šu he₂-ma-ŋal₂
+c.6.1.04,Proverbs: collection 4,,A26,su-ni i₃-še₂₂-še₂₂
+c.6.1.04,Proverbs: collection 4,,A27,engur a mu-de₃-tah-e
+c.6.1.04,Proverbs: collection 4,,A28,
+c.6.1.04,Proverbs: collection 4,,B1,
+c.6.1.04,Proverbs: collection 4,,B2,bal-e-da
+c.6.1.04,Proverbs: collection 4,,B3,X-ši-ib₂-guru₃-gur₃-ru
+c.6.1.04,Proverbs: collection 4,,B4,{ŋeš}tukul a₂ gud en₃ ma-tar-re-e-še
+c.6.1.04,Proverbs: collection 4,,B5,mu-na-ab-ši-GI-re-de₃-X ŋiš₃-am₃ ŋiš ab-ra-ra
+c.6.1.04,Proverbs: collection 4,,B6,eŋer-ra-a-ni in-su-re-eš-a
+c.6.1.04,Proverbs: collection 4,,B7,ugu-ŋu₁₀-uš am₃-kum₂-e-še
+c.6.1.04,Proverbs: collection 4,,B8,bi₂-ed₃-de₃-eš ŋiškim ba-ab-til₃
+c.6.1.04,Proverbs: collection 4,,B9,tug₂ ib₂-taka₄ ha-la dumu geme₂-kam
+c.6.1.04,Proverbs: collection 4,,B10,ib₂-ta-šub in-bul-bul-a bi₂-in-ak
+c.6.1.04,Proverbs: collection 4,,B11,HAR.UŠ šu keše₂-da-ni i₃ ri-a i₃ šeš₄-da-ni
+c.6.1.04,Proverbs: collection 4,,B12,aŋ₂ sig₁₀-ga A.NUMUN₂ mu-nu₂-da-ni
+c.6.1.04,Proverbs: collection 4,,B13,{ŋeš}kiši₁₆ nam-lu₂-inim-ma
+c.6.1.04,Proverbs: collection 4,,B14,harub-ba-am₃ im-ta-e₃-a
+c.6.1.04,Proverbs: collection 4,,B15,šag₄ niŋ₂-kas₇ nu-zu šag₄ igi-ŋal₂-tuku
+c.6.1.04,Proverbs: collection 4,,B16,lu₂ a-šag₄ ur₁₁-ru-ke₄ a-šag₄ he₂-ur₁₁-ru
+c.6.1.04,Proverbs: collection 4,,B17,lu₂ še šu su-ub-bu-da-ke₄ še šu he₂-eb-su-ub-be₂
+c.6.1.04,Proverbs: collection 4,,B18,ka-bi kišib-gin₇ MAŠ-am₃ bid₃-bi u₂-a ma₃-ur₃-am₃
+c.6.1.04,Proverbs: collection 4,,B19,muš un-na-dab₅ e-ne ka-inim-ma ba-ab-šum₂-mu
+c.6.1.04,Proverbs: collection 4,,B20,ta-am₃ u₈-am₃ ta-am₃ a-a-lum-am₃
+c.6.1.04,Proverbs: collection 4,,B21,ta-am₃ ma-mu₂ gi₄-in-na-kam
+c.6.1.04,Proverbs: collection 4,,B22,ta-am₃ sizkur₂ e-re sig₁₀ ki-in-na-kam
+c.6.1.04,Proverbs: collection 4,,B23,e-da-gu₇ til-e-da-gin₇
+c.6.1.04,Proverbs: collection 4,,B24,niŋ₂ šu dug₄-ga-ŋu₁₀ ki diŋir-ra-na nam-ba-e-til-en
+c.6.1.04,Proverbs: collection 4,,B25,ama er₂ še₈-še₈ bi₂-ib₂-gu₇-en
+c.6.1.04,Proverbs: collection 4,,B26,ama-ŋu₁₀ saŋ rig₇
+c.6.1.04,Proverbs: collection 4,,B27,geme₂-ŋu₁₀ al-me-a-gin₇ e-ak-e
+c.6.1.04,Proverbs: collection 4,,B28,SIG₇-a a sig₉-sig₉
+c.6.1.04,Proverbs: collection 4,,B29,lu₂ mu-šum₂-e-še
+c.6.1.04,Proverbs: collection 4,,B30,lu₂ ur₃-ra-ke₄ lu₂ e₂-a til₃-la-ka
+c.6.1.04,Proverbs: collection 4,,B31,mu-na-ab-be₂-a im-ma-zalag-ge-e-še
+c.6.1.04,Proverbs: collection 4,,B32,piriŋ-e e₂ ni₂-te-na-ka-da du₃-a ab-la₂-la₂
+c.6.1.04,Proverbs: collection 4,,B33,lu₂-IM ib₂-dab₅-ba lu₂ gen₆-na ba-an-dim₂
+c.6.1.04,Proverbs: collection 4,,B34,ki ab-kal diŋir-ra-kam sahar-ra-am₃ bi₂-ib₂-šu₂-šu₂-un
+c.6.1.04,Proverbs: collection 4,,B35,zig₃-ga saŋ-niŋ₂-gur₁₁-ra-ka bid₃ ab-gu₅-ul
+c.6.1.04,Proverbs: collection 4,,B36,nam-sis-a bid₃ ib-ra ka ba-an-kur₉
+c.6.1.04,Proverbs: collection 4,,B37,gu-du-e še₁₀ dur₂-e dug₄-ge inim dirig-ge am₃-ta-ab-tum₃
+c.6.1.04,Proverbs: collection 4,,B38,ama sikil-sikil-la ma₂-addir-ra a nu-tuku-me-en

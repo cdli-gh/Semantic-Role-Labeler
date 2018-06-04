@@ -1,0 +1,45 @@
+id_text,text_name,version,l_no,text
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,A1,
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,A2,{d}a-nun-na diŋir gal-gal-e-ne
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,A3,e₂-gal kug ki-tuš
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,A4,nam-sukkal-mah-a-ni mu-ra-an-šum₂ en {d}nu-nam-nir-re
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,A5,ŋidru kug šu-za ma-ra-ni-in-ge-en mu-zu dalla bi₂-in-e₃
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,A6,ŋiš-hur e₂-kur-ra šu du₇-du₇ niŋ₂ galam-galam-ma-bi
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,A7,šu-luh ŋarza mah-bi us₂ zid dab₅-be₂ kug-ge sikil-e-bi
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,A8,me lu-lu-a me dirig-ga-bi pa e₃ mah ak-bi
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,A9,šu ši-bi₂-du₇-du₇ dug₄-ga nam-gal-la ud til₃-la-še₃ za-a-am₃
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,A10,{d}nuska nun na de₅ e₂-kur-ra za-e ši-bi₂-in-ga-me-en-nam
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,A11,an ki šu₂-a kur niŋin₂-na-ba dili-zu i₃-mah-me-en
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,A12,ub-šu-unken-na ki di gal ku₅-ru a₂ aŋ₂-ŋa₂ gal-gal-la-še₃
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,A13,{d}a-nun-na diŋir ki a-na me-a gu₂ ma-ra-si-si-de₃-eš
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,A14,eš-bar dug₄-ga u₁₈-ru {d}en-lil₂-la₂ za-e šu
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,A15,inim kug an-gin₇ šu nu-teŋ₃-ŋe₂₆-zu-še₃ igi-bi šu-mu-e-ši-ŋal₂
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,A16,mah ni₂ guru₃ ki us₂-a-bi nam-bi igi-bi ib-zu-zu-un
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,A17,sa-gid₂-da-am₃
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,A18,{d}iš-me-{d}da-gan-na ki
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,A19,he₂-a aŋ₂
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B1,
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B2,me
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B5,en gal {d}nuska saŋ en₃ tar diŋir gal-gal-e-ne
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B6,{d}nuska nun nir-ŋal₂ e₂-kur-ra saŋ en₃ tar
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B7,šul a₂ aŋ₂-e gal-zu eš-bar
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B8,diŋir zid ki aŋ₂ šudu₃ ŋiš tuku
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B9,ud e₂-kur za-gin₃ eš₃ me i-i ezen-gin₇ du₃-a-ba
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B10,{d}en-lil₂ {d}nin-lil₂-bi hi-li-a mu-un-dur₂-ru-ne-eš-a-ba
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B11,inim sag₉-ga {d}iš-me-{d}da-gan-na ka kug-zu he₂-em-tum₃
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B12,i₃-ne-dug₄ ud šu₂-še₃ e-ne-ne-er su₃-ra₂-še₃ hu-mu-ne-dug₃
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B13,ud e₂ {d}en-lil₂-la₂ eš₃ me i-i ezen-gin₇ du₃-a-ba
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B14,{d}en-lil₂ {d}nin-lil₂-bi hi-li-a mu-un-dur₂-ru-ne-eš-a-ba
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B15,inim sag₉-ga {d}iš-me-{d}da-gan-na ka kug-zu he₂-em-tum₃
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B16,i₃-ne-dug₄ ud šu₂-še₃ e-ne-ne-er su₃-ra₂-še₃ hu-mu-ne-dug₃
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B17,šudu₃ a-ra-zu-a šu mu₂-mu₂-da-ni igi dug₃ hu-mu-ni-du₈-uš
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B18,til₃ niŋ₂ dug₃ bal dug₃ mu giri₁₇-zal-la za-e e₃-mu-na-ra-ab
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B19,en-en gal-gal sig nim-ma-ke₄-ne nun il₂-bi he₂-a
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B20,nam-nun zi-ŋal₂-la kur-kur uŋ₃ lu-a ul-še₃ he₂-ak-e
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B21,{d}iš-me-{d}da-gan dumu {d}en-lil₂-la₂-ka igi dug₃ hu-mu-ni-du₈-uš
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B22,til₃ niŋ₂ dug₃ bal dug₃ mu giri₁₇-zal-la za-e e₃-mu-na-ra-ab
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B23,en-en gal-gal sig nim-ma-ke₄-ne nun il₂-bi he₂-a
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B24,nam-nun zi-ŋal₂-la kur-kur uŋ₃ lu-a ul-še₃ he₂-ak-e
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B25,{d}nuska
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B26,he₂-me-en
+c.2.5.4.17,An adab (?) to Nuska for Išme-Dagan (Išme-Dagan Q),,B27,

@@ -1,0 +1,464 @@
+id_text,text_name,version,l_no,text
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,1,ud re-a ud su₃-ra₂ re-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,2,ŋi₆ re-a ŋi₆ ba₉-ra₂ re-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,3,mu re-a mu su₃-ra₂ re-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,4,ud ul niŋ₂-du₇-e pa e₃-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,5,ud ul niŋ₂-du₇-e mi₂ zid dug₄-ga-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,6,eš₃ kalam-ma-ka ninda šu₂-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,7,{im}šu-rin-na kalam-ma-ka niŋ₂-tab ak-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,8,an ki-ta ba-da-ba₉-ra₂-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,9,ki an-ta ba-da-sur-ra-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,10,mu nam-lu₂-u₁₈-lu ba-an-ŋar-ra-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,11,ud an-ne₂ an ba-an-de₆-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,12,{d}en-lil₂-le ki ba-an-de₆-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,13,{d}ereš-ki-gal-la-ra kur-ra saŋ rig₇-bi-še₃ im-ma-ab-rig₇-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,14,ba-u₅-a-ba ba-u₅-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,15,a-a kur-še₃ ba-u₅-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,16,{d}en-ki kur-še₃ ba-u₅-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,17,lugal-ra tur-tur ba-an-da-ri
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,18,{d}en-ki-ra gal-gal ba-an-da-ri
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,19,tur-tur-bi na₄ šu-kam
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,20,gal-gal-bi na₄ gi gu₄-ud-da-kam
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,21,ur₂ {ŋeš}ma₂ tur-re {d}en-ki-ka₃-ke₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,22,niŋ₂-bun₂-na du₇-am₃ mi-šu₂-šu₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,23,lugal-ra a {ŋeš}ma₂-saŋ-ŋa₂-ke₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,24,ur-bar-ra-gin₇ teš₂ mu-na-gu₇-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,25,{d}en-ki-ra a {ŋeš}ma₂-eŋer-ra-ke₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,26,ur-mah-gin₇ saŋ ŋiš im-ra-ra
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,27,ud-bi-a ŋiš ₁-am₃ {ŋeš}ha-lu-ub₂ ₁-am₃ ŋiš ₁-am₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,28,gu₂ {id₂}buranun-na kug-ga-ka du₃-a-bi
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,29,{id₂}buranun-na a na₈-na₈-da-bi
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,30,a₂ u₁₈-lu ur₂-ba mu-ni-in-bur₁₂ pa-ba mu-ni-in-suh
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,31,{id₂}buranun-na a im-ma-ni-ib-ra
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,32,munus-e inim an-na-ta ni₂ te-a du
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,33,inim {d}en-lil₂-la₂-ta ni₂ te-a du
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,34,ŋiš šu-na mu-un-dab₅ unug{ki}-še₃ ba-ni-in-kur₉-re
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,35,{ŋeš}kiri₆ gi-rin {d}inana-še₃ im-ma-ni-in-ku₄-ku₄-re
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,36,munus-e ŋiš šu-na li-bi₂-in-du ŋiri₃-ni-ta bi₂-in-du
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,37,munus-e ŋiš šu-na a li-bi₂-in-dug₄ ŋiri₃-ni-ta bi₂-in-dug₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,38,me-na-am₃ {ŋeš}gu-za gi-rin ba-ni-tuš-de₃-en bi₂-in-dug₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,39,me-na-am₃ ŋiš-nu₂ gi-rin ba-ni-nu₂-de₃-en bi₂-in-dug₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,40,mu ₅-am₃ mu ₁₀-am₃ ba-e-zal-la re
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,41,ŋiš ba-gur₄ kuš-bi nu-mu-un-da-dar
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,42,ur₂-bi-a muš tu₆ nu-zu-e gud₃ im-ma-ni-ib-us₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,43,pa-bi-a mušen anzud{mušen}-de₃ amar im-ma-ni-ib-ŋar
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,44,šab-bi-a ki-sikil lil₂-la₂-ke₄ e₂ im-ma-ni-ib-du₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,45,ki-sikil zu₂ li₉-li₉ šag₄ hul₂-hul₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,46,kug {d}inana-ke₄ er₂ e-ne ba-še₈-še₈
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,47,ud zal-le-da an-ur₂ zalag-ge-da
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,48,buru₅ ud zal-le šeg₁₀ gi₄-gi₄-da
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,49,{d}utu agrun-ta e₃-a-ni
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,50,nin₉-a-ni kug {d}inana-ke₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,51,ur-saŋ šul {d}utu-ra gu₃ mu-na-de₂-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,52,šeš-ŋu₁₀ ud re-a na-aŋ₂ ba-tar-ra-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,53,ud he₂-ma-al-la ka-na-aŋ₂-ŋa₂ ba-e-zal-la re
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,54,ud an-ne₂ an ba-an-ir-ra-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,55,{d}mu-ul-lil₂-le ki ba-an-ir-ra-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,56,{d}ga-ša-an-ki-gal-la-ra kur-ra saŋ rig₇-ga-še₃ im-ma-ab-rig₇-ga-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,57,ba-u₅-a-ba ba-u₅-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,58,a-a kur-še₃ ba-u₅-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,59,{d}am-an-ki kur-še₃ ba-u₅-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,60,u₃-mu-un-ra tur-tur ba-an-da-ri
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,61,{d}am-an-ki-ra gal-gal ba-an-da-ri
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,62,tur-tur-bi na₄ šu-a-kam
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,63,gal-gal-bi na₄ gi gu₄-ud-da-kam
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,64,ur₂ {ŋeš}ma₂ tur-re {d}am-an-ki-ka₃-ke₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,65,še-en-bun₂-na du₇-am₃ i₃-šu₂-šu₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,66,u₃-mu-un-ra a {ŋeš}ma₂-saŋ-ŋa₂-ke₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,67,ur-bar-ra-gin₇ teš₂ mu-un-na-gu₇-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,68,{d}am-an-ki-ra a {ŋeš}ma₂-eŋer-ra-ke₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,69,ur-mah-gin₇ saŋ ŋiš im-ra-ra
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,70,ud-bi-a mu di-ta-am₃ {ŋeš}ha-lu-ub₂ di-ta di-ta-am₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,71,gu₂ {id₂}buranun-na kug-ga-ka du₃-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,72,{id₂}buranun-na a na₈-na₈-da-bi
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,73,a₂ {tum₉}u₁₈-lu ur₂-ba mu-ni-in-bur₁₂ pa-ba mu-ni-in-suh
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,74,{id₂}buranun-na a im-ma-ni-ib-ra
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,75,nu-nus e-ne-eŋ₃ an-na-ta ni₂ te-a du
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,76,e-ne-eŋ₃ {d}mu-ul-lil₂-la₂-ta ni₂ te-a du
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,77,mu šu-ŋa₂ mu-un-dab₅ unug{ki}-še₃ ba-ni-in-kur₉
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,78,{ŋeš}kiri₆ gi-rin kug ga-ša-an-na-še₃ im-ma-ni-in-ku₄-ku₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,79,nu-nus-ŋen mu šu-ŋa₂ li-bi₂-in-du me-ri-ŋu₁₀-ta bi₂-in-du
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,80,{d}ga-ša-an-na-ŋen mu šu-ŋa₂ a li-bi₂-in-de₂ me-ri-ŋu₁₀-ta a bi₂-du
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,81,me-na-am₃ {ŋeš}gu-za gi-rin ba-ni-tuš-u₃-de₃-en bi₂-in-dug₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,82,me-na-am₃ ŋiš-nu₂ gi-rin ba-ni-nu₂-de₃-en bi₂-in-dug₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,83,mu ₅-am₃ mu ₁₀-am₃ ba-e-zal-la re
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,84,mu ba-gur₄ kuš-bi nu-mu-un-da-dar
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,85,ur₂-bi-a muš tu₆ nu-zu-e gud₃ im-ma-ni-ib-us₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,86,pa-bi-a mušen anzud{mušen} amar im-ma-ni-ib-ŋar
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,87,šab-ba-bi-a ki-sikil lil₂-la₂-ke₄ e₂ im-ma-ni-in-us₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,88,ki-sikil zu₂ li₉-li₉ šag₄ hul₂-hul₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,89,kug {d}inana-ke₄ er₂ e-ne ba-še₈-še₈
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,90,šeš-a-ni ur-saŋ šul {d}utu inim-bi nu-mu-de₃-gub
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,91,ud zal-le-da an-ur₂ zalag-ge-de₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,92,mušen buru₅{mušen} ud zal-le šeg₁₀ gi₄-gi₄-da
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,93,{d}utu agrun-ta e₃-a-ni
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,94,nin₉-a-ni kug {d}inana-ke₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,95,ur-saŋ {d}gilgameš₂ gu₃ mu-na-de₂-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,96,šeš-ŋu₁₀ ud re-a na-aŋ₂ ba-tar-ra-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,97,ud he₂-ma-al-la ka-na-aŋ₂ ba-e-zal-la re
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,98,ud an-ne₂ an ba-an-ir-ra-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,99,{d}mu-ul-lil₂-le ki ba-an-ir-ra-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,100,{d}ga-ša-an-ki-gal-la-ra kur-ra saŋ rig₇-ga-še₃ im-ma-ab-rig₇-ga-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,101,ba-u₅-a-ba ba-u₅-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,102,a-a kur-še₃ ba-u₅-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,103,{d}am-an-ki kur-še₃ ba-u₅-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,104,u₃-mu-un-ra tur-tur ba-an-da-ri
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,105,{d}am-an-ki-ra gal-gal ba-an-da-ri
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,106,tur-tur-bi na₄ šu-kam
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,107,gal-gal-bi na₄ gi gu₄-ud-da-kam
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,108,ur₂ {ŋeš}ma₂ tur-re {d}am-an-ki-ka₃-ke₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,109,še-en-bun₂-na du₇-am₃ i₃-šu₂-šu₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,110,u₃-mu-un-ra a {ŋeš}ma₂-saŋ-ŋa₂-ke₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,111,ur-bar-ra-gin₇ teš₂ mu-un-na-gu₇-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,112,{d}am-an-ki-ra a {ŋeš}ma₂-eŋer-ra-ke₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,113,ur-mah-gin₇ saŋ ŋiš im-ra-ra
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,114,ud-bi-a mu di-ta-am₃ {ŋeš}ha-lu-ub₂ di-ta-am₃ di-ta-am₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,115,gu₂ {id₂}buranun-na kug-ga-ka du₃-a-ba
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,116,{id₂}buranun-na a na₈-na₈-da-bi
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,117,a₂ {tum₉}u₁₈-lu ur₂-ba mu-ni-in-bur₁₂ pa-ba mu-un-ni-in-suh
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,118,{id₂}buranun-na a im-ma-ni-ib-ra
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,119,nu-nus-e e-ne-eŋ₃ an-na-ta ni₂ te-a du
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,120,e-ne-eŋ₃ {d}mu-ul-lil₂-la₂-ta ni₂ te-a du
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,121,mu šu-ŋa₂ mu-un-dab₅ unug{ki}-še₃ ba-an-ni-kur₉
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,122,{ŋeš}kiri₆ gi-rin ga-ša-an-an-na-še₃ im-ma-ni-in-ku₄-ku₄-re
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,123,nu-nus-e mu šu-na li-bi₂-du₁₁ ŋiri₃-ni-ta bi₂-in-du
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,124,{d}ga-ša-an-na-ke₄ mu šu-na a li-bi₂-de₂ ŋiri₃-ni-ta bi₂-in-du
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,125,me-na-am₃ {ŋeš}gu-za gi-rin ba-ni-tuš-u₃-de₃-en bi₂-in-dug₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,126,me-na-am₃ ŋiš-nu₂ gi-rin ba-ni-nu₂-de₃-en bi₂-in-dug₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,127,mu ₅-am₃ mu ₁₀-am₃ ba-e-zal-la re
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,128,mu ba-gur₄ kuš-bi nu-mu-un-da-dar
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,129,ur₂-bi-a muš tu₆ nu-zu-e gud₃ im-ma-ni-ib-us₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,130,pa-bi-a mušen anzud{mušen}-de₃ amar-bi im-ma-ni-ib-ŋar
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,131,šab-ba-bi-a ki-sikil lil₂-la₂-ke₄ e₂ im-ma-ni-in-du₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,132,ki-sikil zu₂ li₉-li₉ šag₄ hul₂-hul₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,133,kug {d}inana-ke₄ er₂ e-ne ba-še₈-še₈
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,134,nin₉-a-ni inim in-na-an-dug₄-ga
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,135,šeš-a-ni ur-saŋ {d}gilgameš₂ inim-bi ba-de₃-gub
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,136,{tug₂}ib₂-ba-ru šag₄-ba ₅₀ ma-na-am₃ ib₂-ba-na ba-an-du₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,137,₅₀-am₃ ₃₀ giŋ₄ ba-ši-in-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,138,{urud}ha-zi-in-na-ni har-ra-an-na-ka-ni
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,139,₇ gun₂ ₇ ma-na-ka-ni šu-ni-a ba-an-dab₅
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,140,ur₂-bi-a muš tu₆ nu-zu-e saŋ ŋiš ba-an-ra
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,141,pa-bi-a mušen anzud{mušen}-de₃ amar-bi šu ba-an-ti hur-saŋ-še₃ ba-an-kur₉
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,142,šab-ba-bi-a ki-sikil lil₂-la₂-ke₄ e₂ im-ma-an-ni-in-zal
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,143,e₂-ri-e₂-ri-še₃ ba-an-kar-kar-re
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,144,ŋiš ur₂-ba mu-ni-in-bur₁₂ pa-ba mu-ni-in-suh
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,145,dumu iri-na mu-un-de₃-re₇-eš-am₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,146,pa-bi i₃-ku₅-ru-ne zu₂ ba-keše₂-re-ne
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,147,nin₉-a-ni kug {d}inana-ra {ŋeš}gu-za-ni-še₃ mu-na-ab-šum₂-mu
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,148,ŋiš-nu₂-da-ni-še₃ mu-na-ab-šum₂-mu
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,149,e-ne ur₂-bi {ŋeš}ellag-a-ni-še₃ ba-da-ab-dim₂-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,150,pa-bi {ŋeš}e-ke₄-ma-ni-še₃ ba-ab-dim₂-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,151,{ŋeš}ellag al dug₄-dug₄-ge sila ur₃-ra {ŋeš}ellag na-mu-un-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,152,ni₂ silim dug₄-dug₄-ge sila ur₃-ra ni₂ silim na-mu-un-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,152A,ŋuruš iri-na-ka {ŋeš}ellag al dug₄-dug₄-ga-ne
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,153,e-ne erin₂ dumu nu-mu-un-su-a-ke₄-ne u₅-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,154,a gu₂-ŋu₁₀ a ib₂-ba-ŋu₁₀ a-nir im-ŋa₂-ŋa₂-ne
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,155,ama tuku dumu-ni-ir ninda mu-na-ab-de₆
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,156,nin₉ tuku šeš-a-ni-ir a mu-na-de₂-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,157,u₂-sa₁₁-an-e um-ma-te-a-ra
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,158,ki {ŋeš}ellag ŋar-ra-ka-ni ŋiš-hur in-hur-re
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,159,{ŋeš}ellag-a-ni igi-ni-a mu-ni-in-il₂ e₂-a-ni-še₃ mu-un-de₆
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,160,a₂-gu₂-zig₃-ga-ta ki ŋiš-hur in-hur-ra u₅-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,161,šu du₃-du₃-a nu-mu-un-su-a-ta
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,162,i-{d}utu ki-sikil tur-ra-ta
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,163,{ŋeš}ellag-a-ni u₃ {ŋeš}e-ke₄-ma-ni dur₂ kur-ra-še₃ ba-da-an-šub
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,163A,sa₂ nu-mu-da-ab-dug₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,164,šu-ni mu-ni-in-dug₄ sa₂ nu-mu-un-da-dug₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,165,ŋiri₃-ni mu-ni-in-dug₄ sa₂ nu-mu-un-da-dug₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,166,abula ganzer igi kur-ra-ka dur₂ im-ma-ni-in-ŋar
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,167,{d}gilgameš₂ er₂ im-ma-an-pad₃ šeₓ-šeₓ i₃-ŋa₂-ŋa₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,168,a {ŋeš}ellag-ŋu₁₀ a {ŋeš}e-ke₄-ma-ŋu₁₀
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,169,{ŋeš}ellag la-la-bi nu-mu-un-gi₄-a-ŋu₁₀
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,170,ešemen di nu-mu-un-sug₄-ga-ŋu₁₀
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,171,ud-ba {ŋeš}ellag-ŋu₁₀ e₂ nagar-ra-ka nu-uš-ma-da-ŋal₂-am₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,172,dam nagar-ra ama ugu-ŋu₁₀-gin₇ nu-uš-ma-da-ŋal₂-la-am₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,173,dumu nagar-ra nin₉ ban₃-da-ŋu₁₀-gin₇ nu-uš-ma-da-ŋal₂-la-am₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,174,{ŋeš}ellag-ŋu₁₀ kur-še₃ mu-da-šub a-ba-a ma-ra-ab-ed₃-de₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,175,{ŋeš}e-ke₄-ma-ŋu₁₀ ganzer-še₃ mu-da-šub a-ba-a ma-ra-ab-ed₃-de₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,176,arad-da-ni en-ki-du₁₀-e {d}gilgameš₂ inim mu-un-ni-ib-gi₄-gi₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,177,lugal-ŋu₁₀ er₂ e-ne ba-še₈-še₈ šag₄ hul a-na-aš mu-e-dim₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,178,ud-da {ŋeš}ellag-zu kur-ta ŋe₂₆-e ga-mu-ra-ab-ed₃-de₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,179,{ŋeš}e-ke₄-ma-zu ganzer-ta ŋe₂₆-e ga-mu-ra-ab-ed₃-de₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,180,{d}gilgameš₂-e en-ki-du₁₀-ra inim mu-un-na-ni-ib-gi₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,181,tukum-bi ud-da kur-še₃ mu-ni-in-ed₃-de₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,182,na ga-de₅ na de₅-ŋu₁₀ he₂-dab₅
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,183,inim ga-ra-ab-dug₄ inim-ŋu₁₀-še₃ ŋeštug₂-zu
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,184,tug₂ dan₂-dan₂-na-zu na-an-mu₄-mu₄-un
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,185,gir₅-gin₇ ŋiškim na-an-ni-ib-e₃-eš
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,186,i₃ dug₃-ga bur-ra na-an-še₂₂-še₂₂-en
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,187,ir-si-im-bi-še₃ nam-mu-e-niŋin₂-niŋin₂-ne-eš
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,188,{ŋeš}ilar kur-ra nam-mu-e-sag₃-ge
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,189,lu₂ {ŋeš}ilar ra-a nam-mu-e-niŋin₂-niŋin₂-ne-eš
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,190,{ŋeš}ma-nu šu-za nam-ba-e-ŋa₂-ŋa₂-an
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,191,gidim ba-e-de₃-ur₄-re-eš
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,192,{kuš}e-sir₂ ŋiri₃-za nam-mu-e-sig₉-ge
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,193,kur-ra gu₃ nam-mu-un-ŋa₂-ŋa₂-an
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,194,dam ki aŋ₂-ŋa₂-zu ne na-an-su-ub-be₂-en
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,195,dam hul gig-ga-zu niŋ₂ nam-mu-ra-ra-an
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,196,dumu ki aŋ₂-zu ne na-an-su-ub-be₂-en
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,197,dumu hul gig-ga-zu niŋ₂ nam-mu-ra-ra-an
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,198,i-{d}utu kur-ra ba-e-dab₅-be₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,199,i₃-nu₂-a-ra i₃-nu₂-a-ra
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,200,ama {d}nin-a-zu i₃-nu₂-a-ra
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,201,mur kug-ga-na tug₂ nu-um-dul
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,202,gaba kug-ga-na gada nu-um-bur₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,203,šu-si-ni {urud}lub-gin₇ an-da-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,204,siki-ni ga-raš{sar}-gin₇ i₃-guru₅-guru₅
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,205,en-ki-du₁₀ inim lugal-la-na-aš šu nu-um-ma-gid₂-i
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,206,tug₂ dan₂-dan₂-na-ni im-ma-an-mur₁₀
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,207,gir₅-gin₇ ŋiškim im-ma-an-ne-eš
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,208,i₃ dug₃-ga {na₄}bur-ra im-ma-an-šeš₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,209,ir-si-im-bi-še₃ im-ma-an-niŋin₂-niŋin₂-ne-eš
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,210,{ŋeš}ilar kur-ra im-ma-an-sag₃-ge
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,211,lu₂ {ŋeš}ilar ra-a im-ma-an-niŋin₂-niŋin₂-ne-eš
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,212,{ŋeš}ma-nu šu-na im-ma-ni-in-ŋar
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,213,gidim ba-an-da-ur₄-re-eš
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,214,{kuš}e-sir₂ ŋiri₃-na im-ma-ni-in-sig₉
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,215,kur-ra tuku₄-tuku₄ im-ma-ni-in-ŋar
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,216,dam ki aŋ₂-ŋa₂-ni ne im-ma-an-su-ub
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,217,dam hul gig-ga-ni niŋ₂ im-ma-ni-in-ra
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,218,dumu ki aŋ₂-ŋa₂-ni ne im-ma-an-su-ub
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,219,dumu hul gig-ga-ni niŋ₂ im-ma-ni-in-ra
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,220,i-{d}utu kur-ra im-ma-an-dab₅
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,221,ur-saŋ {d}gilgameš₂ dumu {d}nin-sumun₂-na-ke₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,222,e₂-kur-re e₂ {d}en-lil₂-la₂-še₃ ŋiri₃-ni dili mu-un-gub
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,223,igi {d}en-lil₂-la₂-še₃ er₂ im-ma-še₈-še₈
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,224,a-a {d}en-lil₂ {ŋeš}ellag-ŋu₁₀ kur-še₃ mu-da-an-šub {ŋeš}e-ke₄-ma-ŋu₁₀ ganzer-še₃ mu-da-an-šub
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,225,en-ki-du₁₀ ed₃-de₃ i₃-gi₄ kur-re im-ma-an-dab₅
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,226,nam-tar nu-un-dab₅ a₂-sag₃ nu-un-dab₅ kur-re im-ma-an-dab₅
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,227,{d}udug {d}nergal saŋ šu nu-du₇ nu-mu-un-dab₅ kur-re im-ma-an-dab₅
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,228,ki nam-nitah-a-ke₄ me₃-a nu-un-šub kur-re im-ma-an-dab₅
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,229,a-a {d}en-lil₂ inim-bi nu-mu-de₃-gub eridug{ki}-še₃ ba-ŋen
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,230,eridug{ki} e₂ {d}en-ki-ka₃-še₃ ŋiri₃-ni dili mu-un-gub
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,231,igi {d}en-ki-ka₃-še₃ er₂ im-ma-še₈-še₈
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,232,a-a {d}en-ki {ŋeš}ellag-ŋu₁₀ kur-še₃ mu-da-an-šub {ŋeš}e-ke₄-ma-ŋu₁₀ ganzer-še₃ mu-da-an-šub
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,233,en-ki-du₁₀ ed₃-de₃ i₃-gi₄-en kur-re im-ma-an-dab₅
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,234,nam-tar nu-un-dab₅ a₂-sag₃ nu-un-dab₅ kur-re im-ma-an-dab₅
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,235,{d}udug {d}nergal saŋ šu nu-du₇ nu-mu-un-dab₅ kur-re im-ma-an-dab₅
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,236,ki nam-nitah-a-ke₄ me₃-a nu-un-šub kur-re im-ma-an-dab₅
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,237,a-a {d}en-ki inim-bi ba-e-de₃-gub
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,238,ur-saŋ šul {d}utu-ra dumu {d}nin-gal-e tud-da gu₃ mu-na-de₂-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,239,i₃-ne-eš₂ ab-lal₃ kur-ra ŋal₂ u₃-bi₂-in-taka₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,240,šubur-a-ni kur-ta ed₃-de₃-mu-na-ab
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,241,ab-lal₃ kur-ra ŋal₂ im-ma-an-taka₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,242,si-si-ig-ni-ta šubur-a-ni kur-ta mu-da-ra-ab-ed₃-de₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,243,gu₂-ni gu₂-da mu-ni-in-la₂ ne mu-un-su-ub-be₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,244,en₃ tar-re im-mi-in-kuš₂-u₃-ne
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,245,a₂ aŋ₂-ŋa₂ kur-ra igi bi₂-du₈
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,246,nu-uš-ma-ab-be₂-en gu₅-li-ŋu₁₀ nu-uš-ma-be₂-en
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,247,tukum-bi a₂ aŋ₂-ŋa₂ kur-ra mu-ra-ab-be₂-en
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,248,za-e tuš-a er₂ ŋe₂₆-e ga-tuš ga-er₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,249,šu bi₂-in-tag-ga šag₄-zu ba-e-hul₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,250,X-ši-du-un bi₂-in-dug₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,251,tug₂ sumun-a-gin₇ uh bi₂-in-tag
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,252,ki-in-dar-ra-gin₇ sahar-ra a-ab-si
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,253,en-e u₈ bi₂-in-dug₄ sahar-ra ba-da-an-tuš
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,254,lu₂ dumu-ni ₁-am₃ igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,255,{ŋeš}gag e₂-ŋar₈-a-na ab-du₃-a gig-ga i-i
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,256,lu₂ dumu-ni ₂-am₃ igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,257,šeg₁₂ ₂-a al-tuš ninda al-gu₇-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,258,lu₂ dumu-ni ₃-am₃ igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,259,{kuš}ummud dag-si-ke₄ a al-na₈-na₈
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,260,lu₂ dumu-ni ₄-am₃ igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,261,lu₂ anše ₄ la₂-gin₇ šag₄-ga-ni al-hul₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,262,lu₂ dumu-ni ₅-am₃ igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,263,dub-sar sag₉-ga-gin₇ a₂-ni ŋal₂ bi₂-in-taka₄ e₂-gal si sa₂-bi ba-an-ku₄-ku₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,264,lu₂ dumu-ni ₆-am₃ igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,265,{lu₂}{ŋeš}apin-la₂-gin₇ šag₄-ga-ni al-hul₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,266,lu₂ dumu-ni ₇-am₃ igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,267,dub-us₂ diŋir-re-e-ne-ke₄ {ŋeš}gu-za ib₂-tuš di-da ŋiš ba-tuku
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,268,tiru-e igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,269,pa a-la-la hur-ra-gin₇ ub-dug₄-ga-a ab-us₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,270,munus nu-u₃-tud igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,271,{dug}zal-lil₂-da-gin₇ i₃-gurud lu₂ nu-mu-un-hul₂-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,272,ŋuruš tur ur₂ dam-na-ka tug₂ nu-ub-sig₉-ge igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,273,eš₂-šu-ak šu im-mi-du₇-un eš₂-šu-ak-ba er₂ im-mi-in-še₈-še₈
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,274,ki-sikil ur₂ dam-na-ka tug₂ nu-ub-sig₉-ge igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,275,gi-šu-ak šu im-mi-du₇-un gi-šu-ak er₂ mi-in-še₈-še₈
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,276,lu₂ ibila nu-tuku igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,277,šeg₁₂ {ŋeš}KID-ra-gin₇ ninda al-gu₇-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,278,igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,279,
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,286,lu₂ igi bi₂-du₈-am₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,287,u₂-ni al-bar a-ni al-bar u₂ gid₂ al-gu₇-e a gid₂ al-na₈-na₈
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,287A,lu₂ ur-mah-e gu₇-a igi bi₂-du₈-am₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,287B,a šu-ŋu₁₀ a ŋiri₃-ŋu₁₀ gig-ga-bi im-me
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,287C,lu₂ ur₃ šub-ba igi bi₂-du₈-am₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,287D,ŋiri₃-paₓ-ra₂-ni šu nu-ub-be₂-eš
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,288,lu₂-sahar-šub-ba igi bi₂-du₈-am₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,289,gud-gin₇ al-dub₂ uh im-da-gu₇-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,290,lu₂ me₃-a šub-ba igi bi₂-in-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,291,ad ama-ni saŋ-du nu-mu-un-dab₅ dam-a-ni er₂ i₃-še₈-še₈
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,292,gidim lu₂ ninda sig₁₀-ge₅ nu-tuku igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,293,šu su-ub-be₂ ninda pad-paₓ-ra₂ sila šub-ba i₃-gu₇-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,293A,igi bi₂-du₈-am₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,293B,
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,294,lu₂ {ŋeš}ma₂-du₃ ra u₃-ni-in-šu₂-šu₂ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,295,a₂-še ama-ŋu₁₀ lu₂ he₂-en-na-ab-be₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,296,{ŋeš}ma₂-du₃ bur₁₂-ra-ni a he₂-em-mi-dib-be₂-eš
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,297,{ŋeš}saŋ-du ninda pad-paₓ-ra₂-ni niŋ₂ mu-ni-gu-ul-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,298,niŋin₃-ŋar tur-tur-ŋu₁₀ ni₂-ba nu-zu igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,299,{ŋeš}banšur kug-sig₁₇ kug-babbar lal₃ i₃-nun-ta e-ne im-di-e-ne
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,300,lu₂ ug₇-am₃ i₃-uš₂ igi bi₂-du₈-am₃ igi bi₂-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,301,ki ŋiš-nu₂ diŋir-re-e-na al-nu₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,302,lu₂ izi la₂ igi bi₂-du₈-am₃ igi nu-mu-ni-du₈-am₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,A,303,gidim-a-ni nu-ŋal₂ i-bi₂-ni an-na ba-e-ed₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,1,lu₂ ur₃-ta šub-ba igi bi₂-du₈-am₃ igi i-ni-in-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,2,ŋiri₃-paₓ-ra₂-ni šu nu-ub-be₂-eš
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,3,lu₂ {d}iškur-ra ŋiri₃-bal mu-ni-in-ra-ra igi bi₂-du₈-am₃ igi i-ni-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,4,gud-gin₇ al-dub₂ uh im-da-gu₇-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,5,lu₂-sahar-šub-ba igi bi₂-du₈-am₃ igi i-ni-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,6,u₂-ni al-bar a-ni al-bar u₂ gid₂ al-gu₇-e a gid₂ al-na₈-na₈
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,7,iri bar-ra-a al-tuš
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,8,lu₂ inim ama a-a-na-ke₄ ni₂ nu-teŋ₃-ŋe₂₆-dam igi bi₂-du₈-am₃ igi i-ni-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,9,a ni₂-ŋu₁₀ a ŋiš-ge-en-na šeg₁₀ gi₄ nu-ub-gul-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,10,lu₂ aš₂ ama a-a-na-ke₄ sa₂ bi₂-dug₄-ga igi bi₂-du₈-am₃ igi i-ni-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,11,ibila ba-da-kar gidim-ma-ni šu al-dag-dag-ge
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,12,lu₂ mu diŋir-ra-ni saŋ igi bi₂-du₈-am₃ igi i-ni-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,13,gidim-ma-ni
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,14,gidim lu₂ ninda sig₁₀-ge₅ nu-tuku igi bi₂-du₈-am₃ igi i-ni-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,15,šu su-ub-be₂ utul₂-a ninda pad-paₓ-ra₂ sila šub-ba i₃-gu₇-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,16,niŋin₃-ŋar tur-tur-ŋu₁₀ ni₂-ba nu-zu igi bi₂-du₈-am₃ igi i-ni-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,17,{ŋeš}banšur kug-sig₁₇ kug-babbar lal₃ i₃-nun-na e-ne im-da-e-ne
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,18,lu₂ izi la₂ igi bi₂-du₈-am₃ igi nu-mu-na-du₈-am₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,19,i-bi₂-ni an-na ba-a-ed₃-am₃ gidim-a-ni ki-a nu-ub-tuš
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,20,lu₂ diŋir lul-lul sig₁₀-ge₅ nam-erim₂ ba-an-kud igi bi₂-du₈-am₃ igi i-ni-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,21,ki-a-naŋ saŋ kur-ra-ke₄ naŋ-a i₃-naŋ-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,22,dumu ŋir₂-su{ki} a il₂-il₂ a-a-na u₃ ama-na igi bi₂-du₈-am₃ igi i-ni-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,23,igi lu₂ ₁-ta-am₃ li-im dumu mar-tu-me-eš gidim-a-ni šu la-ba-an-ta-ra-ra gaba nu-ši-dub-bu
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,24,dumu mar-tu{ki}-a ki-a-naŋ saŋ kur-ra-ke₄ igi-ba bi₂-ib₂-dab₅-be₂-en
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,25,dumu ki-en-gi ki-uri-ke₄ igi bi₂-du₈-am₃ igi i-ni-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,26,a ki-lul-la a lu₃-a bi₂-ib₂-naŋ-me-eš
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,27,a-a-ŋu₁₀ u₃ ama-ŋu₁₀ me-a se₁₂-me-eš igi bi₂-du₈-am₃ igi i-ni-du₈-am₃ a-na-gin₇ an-ak
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 58,28,₂-a-ne-ne-ne a ki-lul-la a lu₃-a bi₂-ib₂-naŋ-me-eš
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 59,A1,lu₂ {ŋeš}ma₂-du₃ ra igi bi₂-du₈ a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 59,A2,a₂-še₃ ama-ŋu₁₀ lu₂ he₂-en-na-ab-be₂ bur₁₂-ra-ni a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 59,A3,{ŋeš}saŋ-du ninda pad-paₓ-ra₂-ni a bi₂-ib-gul-la-Xbr-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 59,A4,lu₂ ur₃-ta šub-ba igi bi₂-du₈ a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 59,A5,gud-gin₇ al-šub uh im-da-ab-gu₇
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 59,A6,lu₂ aš₂ ama-na-ke₄ sa₂ bi₂-in-dug₄-ga igi bi₂-du₈ a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 59,A7,ibila ba-an-da-kar gidim-a-ni šu al-ŋa₂-ŋa₂-ke₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 59,A8,lu₂ inim a-a-na u₃ ama-na ni₂ nu-teŋ₃-ŋe₂₆-dam igi bi₂-du₈ a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 59,A9,
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 59,B1,u₂-ni al-bar a-ni al-bar u₂ gid₂ al-gu₇-e a gid₂ al-na₈-na₈
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 59,B2,lu₂ me₃-a šub-ba igi bi₂-du₈ a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 59,B3,ad ama-ni saŋ-du nu-dab-dab-be₂-ne dam-a-ni er₂ ba-ni-še₈-še₈
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 59,B4,igi bi₂-du₈ a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 59,B5,šu-ta
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 59,B6,gidim lu₂ ninda ki-sig₁₀-ga nu-tuku igi bi₂-du₈ a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 59,B7,šu su-ub-be₂ ninda pad-paₓ-ra₂-a-ni sila šub-ba i₃-gu₇-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 59,B8,niŋin₃-ŋar-ra tur-tur-ŋu₁₀ ni₂-bi nu-zu igi bi₂-du₈ a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 59,B9,{ŋeš}buniŋ kug-sig₁₇ kug-babbar lal₃ i₃-nun-na e-ne im-di-e-ne
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 59,B10,lu₂ izi igi bi₂-du₈ igi nu-mu-ni-du₈
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 59,B11,gidim-ma-ni nu-ŋal₂ i-bi₂-ni an-na ba-e-ed₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 60,1,unug{ki} im-mi-gi₄-gi₄-ne
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 60,2,iri-bi im-mi-gi₄-gi₄-ne
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 60,3,{ŋeš}šu-kar₂ a₂-kar₂-ra-ke₄ pa-a-šu a₂-gid₂-da da-da-ra-še₃ mi-ni-in-kur₉
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 60,4,e₂-gal-la-na hul₂-hul₂-la mi-ni-in-ŋar
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 60,5,ŋuruš ki-sikil unug-ga{ki} saŋ-tuku bur-šum₂-ma kul-aba{ki}
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 60,6,alan-bi igi mu-un-bar-bar-re-ne im-ma-hul₂-hul₂-la
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 60,7,{d}utu agrun-na-ta e₃-a-na saŋ mi-ni-in-il₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 60,8,a₂-bi mu-un-da-an-aŋ₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 60,9,a-a-ŋu₁₀ u₃ ama-ŋu₁₀ a si-ig-ga naŋ-ze₂-en
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 60,10,ud nu-mu-un-da-sa₉ am₃-da-dirig aga₃-bi in-ši-in-tag-ne
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 60,11,{d}gilgameš₂-e ki hul-a ba-an-šub
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 60,12,ud ₉-kam ki hul-a ba-an-šub
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 60,13,ŋuruš ki-sikil unug{ki}-ga saŋ-tuku bur-šu-ma kul-aba{ki} er₂ ba-še₈-še₈
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 60,14,bi₂-in-dug₄-ga-gin₇-nam
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 60,15,dumu ŋir₂-su{ki}-a zag bi₂-in-tag
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 60,16,a-a-ŋu₁₀ u₃ ama-ŋu₁₀ a si-ig-ga naŋ-ze₂-en
+c.1.8.1.4,Gilgameš Enkidu and the nether world,UET 6 60,17,ur-saŋ {d}gilgameš₂ dumu {d}nin-sumun₂-ka za₃-mi₂-zu dug₃-ga-am₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A1,im-ma-niŋin₂-ne-eš
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A2,ma-an-il₂ gidim mu-un-da-e-re
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A3,im-ma-ni-in-ŋar
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A4,im-ma-ŋa₂-ŋa₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A5,dam ki aŋ₂-ŋa₂-a-ni ne im-ma-ni-su-ub
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A6,dam hul gig-ga-a-ni im-ma-ni-ib-ra
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A7,dumu ki aŋ₂-ŋa₂-a-ni ne im-ma-ni-su-ub
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A8,dumu hul gig-ga-a-ni im-ma-ni-ib-ra
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A9,i-{d}utu-bi kur-ra ba-e-dab-be₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A10,ud hul-ŋal₂-da en-na ud ₇-na-še₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A11,šubur-ra-a-ni {d}en-ki-du₁₀-ra kur-ta nu-mu-un-ed₂-de₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A12,lugal-e i-lu mu-un-na-ab-be₂ er₂ gig šeₓ-šeₓ
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A13,šubur šag₄-ga-a-ŋu₁₀ tab-ba gen₆-na-a-ŋu₁₀ ad gi₄-gi₄-a-ŋu₁₀ kur-ra im-ma-an-dab
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A14,nam-tar nu-dab a₂-sag₃ nu-dab kur-ra im-ma-an-dab
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A15,{d}udug {d}nergal saŋ nu-dab kur-ra im-ma-an-dab
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A16,ki nam-X me₃ nu-un-šub kur-ra im-ma-ab-dab
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A17,e₂-kur-ra e₂ {d}en-lil₂-la₂-a-še₃ ŋiri₃-ni dili mu-un-gub
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A18,igi {d}mu-ul-lil₂-la₂-še₃ ba-gub
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A19,{ŋeš}ellag-a-ŋu₁₀ kur-ta mu-un-da-šub
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A20,{ŋeš}e-AG-a-ŋu₁₀ ganzerₓ-da mu-un-da-šub
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A21,{d}en-ki-du₁₀ ed₂-de₃ ed₃-de₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A22,šubur šag₄-ga-a-ŋu₁₀ tab-ba gen₆-na-a-ŋu₁₀ ad gi₄-gi₄-a-ŋu₁₀ kur-ra im-ma-an-dab
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A23,nam-tar nu-dab a₂-sag₃ nu-dab kur-ra im-ma-an-dab
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,A24,nu-dab kur-ra im-ma-an-dab
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B1,lu₂ dumu ₁-am₃ igi bi₂-du₈-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B2,a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B3,gig-ga i
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B4,lu₂ dumu-ne ₂-am₃ igi bi₂-du₈-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B5,a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B6,a-ab-tuš
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B7,lu₂ dumu-ne ₃-am₃ igi bi₂-du₈-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B8,a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B9,a mu-na₈-na₈
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B10,lu₂ dumu-ne ₄-am₃ igi bi₂-du₈-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B11,a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B11A,lu₂ anše ₄ la₂-gin₇
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B12,šag₄-ga-ni al-dug₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B13,lu₂ dumu-ne ₅-am₃ igi bi₂-du₈-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B14,a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B15,dub-sar sag₉-ga-gin₇ a₂-ni ŋal₂ bi₂-in-taka₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B16,e₂-gal si sa₂-bi ba-an-ku₄-ku₄
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B17,lu₂ dumu-ne ₆-am₃ igi bi₂-du₈-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B18,a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B19,lu₂ {ŋeš}apin il₂-la-gin₇ šag₄-ga-ni al-dug₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B20,lu₂ dumu-ne ₇-am₃ igi bi₂-du₈-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B21,a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B22,dub-us₂ diŋir-re-e-ne {ŋeš}gu-za ib₂-tuš di-da ŋiš ba-an-tuku
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B23,lu₂ ibila nu-tuku igi bi₂-du₈-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B24,a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B25,ninda i₃-gu₇-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B29,igi bi₂-du₈-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B30,a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B31,a na₈-na₈
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B32,igi bi₂-du₈-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B33,a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B34,im-da-ab-gu₇-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B35,lu₂ ur-e gu₇-a igi bi₂-du₈-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B36,a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B37,a₂ šu-ŋu₁₀ a₂ ŋiri₃-ŋu₁₀ a₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B38,lu₂ dimgul ra igi bi₂-du₈-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B39,a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B40,a₂-še₃ ama-ŋu₁₀ lu₂ mu-na-be₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B41,{ŋeš}gag-e du₃-du₃
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B42,niŋ₂-gu₇-e saŋ-du ninda bad-bad-de₃ niŋ₂ gul-gul
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B43,munus nu-u₃-tud igi bi₂-du₈-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B44,a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B45,{dug}sahar til₃-la in-šub lu₂ na-me nu-mu-ši-la₂-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B46,ŋuruš tur ur₂ dam-na-ke₄ tug₂ nu-sig₉-ga igi bi₂-du₈-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B47,a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B48,gi-šu-ak-a šu mi-ni-du₈ ugu gi-šu-ak-a gig
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B49,ki-sikil tur ur₂ dam-na-ke₄ {ŋeš}dala₂ nu-du₁₀ igi bi₂-du₈-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B50,a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B51,{tug₂}eš₅-tab-ba šu im-mi-du₈ ugu eš₅-tab-ba-a gig-ga i
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B52,lu₂ ni₂ buluŋ₅-ŋa₂ igi bi₂-du₈-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B53,a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B54,gud-gin₇ im-gam im-da-gu₇-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B55,lu₂ ur₃ šub-ba igi bi₂-du₈-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B56,a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B57,ŋiri₃-pad-a-ni gidim-a-ni di in-du₈-a igi bi₂-du₈-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B58,a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B59,lu₂-sahar-šub-ba igi bi₂-du₈-a a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B60,a al-bar-ra u₂ al-bar-ra
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B61,udug di in-du₈ bar-bi-a im-tuš
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B62,niŋin₃-ŋu₁₀ nu-sa₄-am₃ igi bi₂-du₈-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B63,a-na-gin₇ i₃-ŋal₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B64,{ŋeš}banšur kug-sig₁₇ kug-babbar im-di-e-ne
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B65,lu₂ izi la₂ igi nu-bi₂-du₈-a
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B66,a-na-aš-am₃ gu₅-li-a-ŋu₁₀ nu-bi₂-in-tar
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B67,en₃-bi in-tar gu₅-li-a-ŋu₁₀
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B68,gidim-a-ni kur-ta e-bi-da an-e ba-e
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B69,šag₄ ba-sag₃ mu-ra-a-ni ba-uš₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B70,lugal-e nam-til₃-la i₃-kiŋ₂-kiŋ₂
+c.1.8.1.4,Gilgameš Enkidu and the nether world,Me-Turan,B71,en-e kur lu₂ til₃-la-še₃ ŋeštug-ga-ni na-an-gub

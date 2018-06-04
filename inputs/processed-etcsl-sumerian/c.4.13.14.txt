@@ -1,0 +1,34 @@
+id_text,text_name,version,l_no,text
+c.4.13.14,A hymn to Nanna (Nanna N),,1,an kug-ge si-a
+c.4.13.14,A hymn to Nanna (Nanna N),,2,ku-zu-e mi-li gur-u₃-a
+c.4.13.14,A hymn to Nanna (Nanna N),,3,nanna me-en-zu ku-ku-gu
+c.4.13.14,A hymn to Nanna (Nanna N),,4,en di-il₅ en ud an-ne
+c.4.13.14,A hymn to Nanna (Nanna N),,5,u₃-na ba-ba-ra ud
+c.4.13.14,A hymn to Nanna (Nanna N),,6,an ki-a na de₅
+c.4.13.14,A hymn to Nanna (Nanna N),,7,diŋir-me-en
+c.4.13.14,A hymn to Nanna (Nanna N),,8,ki-u₃-lu-X
+c.4.13.14,A hymn to Nanna (Nanna N),,9,su
+c.4.13.14,A hymn to Nanna (Nanna N),,10,kug si gur e-a-zu-ne
+c.4.13.14,A hymn to Nanna (Nanna N),,11,mi-li-im-mu na-il₅
+c.4.13.14,A hymn to Nanna (Nanna N),,12,kug-ga-am da-da-ga
+c.4.13.14,A hymn to Nanna (Nanna N),,13,e i lu₂-gal-ŋu₁₀ u₃ zid ši-mu-nu
+c.4.13.14,A hymn to Nanna (Nanna N),,14,{d}nanna kug si gur e-a-zu-ne
+c.4.13.14,A hymn to Nanna (Nanna N),,15,mi-li-im-mu na-il₅
+c.4.13.14,A hymn to Nanna (Nanna N),,16,kug-ga-am da-da-ga
+c.4.13.14,A hymn to Nanna (Nanna N),,17,e i lu₂-gal-ŋu₁₀ u₃ zid ši-mu-nu
+c.4.13.14,A hymn to Nanna (Nanna N),,18,en ša-ge ba-da-na
+c.4.13.14,A hymn to Nanna (Nanna N),,19,ku-zu pa₃ e ši-mi-nu
+c.4.13.14,A hymn to Nanna (Nanna N),,20,en nu-si-li-ge
+c.4.13.14,A hymn to Nanna (Nanna N),,21,u₃ bi-na zid a-na šu-du sa₂ ha-pa-du
+c.4.13.14,A hymn to Nanna (Nanna N),,22,ki-sa₂-al ma-he ninda ba-ŋa₂-ra-zu
+c.4.13.14,A hymn to Nanna (Nanna N),,23,ti-gi ni₅ du-ge si ha-pa₃-ne-sa₂
+c.4.13.14,A hymn to Nanna (Nanna N),,24,um-mi na-na ti-gi mu-ra-an-du
+c.4.13.14,A hymn to Nanna (Nanna N),,25,{d}nanna ki-sa₂-al ma-he ninda ba-ŋa₂-ra-zu
+c.4.13.14,A hymn to Nanna (Nanna N),,26,ti-gi ni₅-in du-ge si ha-pa-ne-sa₂
+c.4.13.14,A hymn to Nanna (Nanna N),,27,um-mi na-na ti-gi mu-ra-an-du
+c.4.13.14,A hymn to Nanna (Nanna N),,28,URU×UD-zu he-ŋa₂-la he-da-an-du
+c.4.13.14,A hymn to Nanna (Nanna N),,29,u₃-ri-ma gu an-še₃ he-en-zig₃-ge
+c.4.13.14,A hymn to Nanna (Nanna N),,30,en di-il₅ en ud su-ud-šu ul-a-še₃
+c.4.13.14,A hymn to Nanna (Nanna N),,31,{d}nanna URU×UD-zu he-ŋa₂-la he-da-an-du
+c.4.13.14,A hymn to Nanna (Nanna N),,32,u₃-ri-ma gu an-še₃ he-en-zig₃-ge
+c.4.13.14,A hymn to Nanna (Nanna N),,33,en di-il₅ en ud su-ud-šu ul-a-še₃

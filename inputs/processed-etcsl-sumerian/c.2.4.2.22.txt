@@ -1,0 +1,36 @@
+id_text,text_name,version,l_no,text
+c.2.4.2.22,A dedication of a statue (Šulgi V),,1,{d}en-lil₂ ud e₃ dug₄-ga-ni nu-kur₂-ra
+c.2.4.2.22,A dedication of a statue (Šulgi V),,2,u₁₈-ru gal {d}a-nun-ke₄-ne
+c.2.4.2.22,A dedication of a statue (Šulgi V),,3,{d}šul-gi ušum ni₂ guru₃
+c.2.4.2.22,A dedication of a statue (Šulgi V),,4,lugal šu dug₄-ga-ni-ir bar
+c.2.4.2.22,A dedication of a statue (Šulgi V),,5,ne gal-gal šum₂
+c.2.4.2.22,A dedication of a statue (Šulgi V),,6,za-pa-ŋa₂-ni an ki ŋa₂-ar-ŋa₂-ra
+c.2.4.2.22,A dedication of a statue (Šulgi V),,7,e₂-kur gal:muš idim-ma me
+c.2.4.2.22,A dedication of a statue (Šulgi V),,8,dur-an-ki giri₁₇-zal-a me ul ba-bad nam-he₂-ŋal₂
+c.2.4.2.22,A dedication of a statue (Šulgi V),,9,šeg₁₂ nun ki ŋar-ra-ba {ŋeš}isimu₂{sar}-bi ud sud-sud-u₅
+c.2.4.2.22,A dedication of a statue (Šulgi V),,10,{d}šul-gi bal nam-he₂ ba-tud-da šag₄-ta gal mu-tar
+c.2.4.2.22,A dedication of a statue (Šulgi V),,11,uŋ₃ gu₃ teš₂-a sig₁₀-i₃
+c.2.4.2.22,A dedication of a statue (Šulgi V),,12,su₃-ud-bi lugal šar₂-ra-ba-ke₄
+c.2.4.2.22,A dedication of a statue (Šulgi V),,13,dub₃-tuku ud mar-uru₅ zag-še-ni nu-til-e
+c.2.4.2.22,A dedication of a statue (Šulgi V),,14,kaš₄ a₂-dam-a₂-dam-ta e₃-a
+c.2.4.2.22,A dedication of a statue (Šulgi V),,15,hu-luh-e kaš₄-kaš₄-e huš-ZA-am₃
+c.2.4.2.22,A dedication of a statue (Šulgi V),,16,uŋ₃-ta igi saŋ₅-ŋa₂ u₃-su-bi saŋ
+c.2.4.2.22,A dedication of a statue (Šulgi V),,17,a₂ an-ba₉-ra₂-a bar-ra-ni-še₃
+c.2.4.2.22,A dedication of a statue (Šulgi V),,18,{d}šul-gi niŋ₂ kaš₄ an-ur₂-ta ŋa₂-ŋa₂-ŋa₂-dam
+c.2.4.2.22,A dedication of a statue (Šulgi V),,19,nam a-nun-ŋal₂-la-ne₂-eš a₂-na ŠU.KAD₄-ŠU.KAD₄-e
+c.2.4.2.22,A dedication of a statue (Šulgi V),,20,nu-kuš₂-u₅ kaskal-e
+c.2.4.2.22,A dedication of a statue (Šulgi V),,21,saŋ gig₂-ga-a lugal na-me saŋ nu-sig₁₀ di gal-še₃ na-an-ŋar
+c.2.4.2.22,A dedication of a statue (Šulgi V),,22,ud giri₁₇-zal-a-aš e₃-a dungu šeŋₓ-ka ŋar-ra
+c.2.4.2.22,A dedication of a statue (Šulgi V),,23,nibru{ki} ki-ur₃-ta na-kaš₄
+c.2.4.2.22,A dedication of a statue (Šulgi V),,24,eš₃ urim₂{ki} e₂-temen-ni₂-guru₃-še₃
+c.2.4.2.22,A dedication of a statue (Šulgi V),,25,{d}nanna unu₂ kiŋ₂-nim bur nun sug₂-ga-ni sa₂ nam-mi-in-dug₄
+c.2.4.2.22,A dedication of a statue (Šulgi V),,26,ud ne-X-a nam-he nam im-mi-in-tar
+c.2.4.2.22,A dedication of a statue (Šulgi V),,27,{tum₉}GAN₂.AH.ME.U {tum₉}dal-ha-mu šu ba-ra-am₃
+c.2.4.2.22,A dedication of a statue (Šulgi V),,28,{d}utu-e sig-ge-eš₂
+c.2.4.2.22,A dedication of a statue (Šulgi V),,29,a-ne e₂-kur za-gin₃-še₃ na-gur
+c.2.4.2.22,A dedication of a statue (Šulgi V),,30,ud til₃-la-še₃ ur-saŋ-e-ne-e
+c.2.4.2.22,A dedication of a statue (Šulgi V),,31,{d}šul-gi-ra nam-mah gal-gal-la-ni a-re-eš₂ pad₃-de₃-de₃
+c.2.4.2.22,A dedication of a statue (Šulgi V),,32,alan ud su₃-ra₂ mu da-ri₂-ka-na
+c.2.4.2.22,A dedication of a statue (Šulgi V),,33,mul-an-ne₂-eš₂ bi₂-in-gun₃
+c.2.4.2.22,A dedication of a statue (Šulgi V),,34,a-a {d}en-lil₂ mah-di nu-kur₂-ra
+c.2.4.2.22,A dedication of a statue (Šulgi V),,35,igi dug₃ niŋ₂ giri₁₇-zal si-a-ni-še₃ nam-nun-na mi-ni-in-gub

@@ -1,0 +1,33 @@
+id_text,text_name,version,l_no,text
+c.5.5.a,A drinking song,,1,{gi}gakkul-e {gi}gakkul-e
+c.5.5.a,A drinking song,,2,{gi}gakkul-e {dug}lam-sa₂-ri
+c.5.5.a,A drinking song,,3,{gi}gakkul-e niŋ₂ ur₅ sag₉-sag₉-ge
+c.5.5.a,A drinking song,,4,{dug}lam-sa₂-ri niŋ₂ šag₄ hul₂-hul₂-e
+c.5.5.a,A drinking song,,5,{dug}u-gur-bal niŋ₂ e₂-a me-te-bi
+c.5.5.a,A drinking song,,6,{dug}šag₄-gub-be₂ niŋ₂ kaš sig₉-sig₉-ge
+c.5.5.a,A drinking song,,7,{dug}am-am {dug}lam-sa₂-ra-ke₄
+c.5.5.a,A drinking song,,8,{gi}buniŋ {u₂}bur₂ {gi}ba-an-du₈ silaŋ-ŋa₂-ke₄
+c.5.5.a,A drinking song,,9,dug sag₉ dag-dug-e sa gi₄-a
+c.5.5.a,A drinking song,,10,šag₄ diŋir-za hu-mu-ra-ab-huŋ-e
+c.5.5.a,A drinking song,,11,igi {gi}gakkul-am₃ igi-me na-nam
+c.5.5.a,A drinking song,,12,šag₄ {gi}gakkul-am₃ šag₄-me na-nam
+c.5.5.a,A drinking song,,13,aŋ₂ šag₄-zu gur₄-gur₄-ru ni₂-bi-a
+c.5.5.a,A drinking song,,14,šag₄-me-a gur₄-gur₄-ru ni₂-bi-a
+c.5.5.a,A drinking song,,15,ur₅-me bi₂-sag₉ šag₄-me bi₂-hul₂
+c.5.5.a,A drinking song,,16,šeg₁₂ nam tar-ra a de₂-zu
+c.5.5.a,A drinking song,,17,silim-ma he₂-ŋal₂-e ki us₂-sa-zu
+c.5.5.a,A drinking song,,18,{d}nin-ka-si za-da hu-mu-u₈-da-an-til₃
+c.5.5.a,A drinking song,,19,kaš ŋeštin hu-mu-ra-an-bal-bal-e
+c.5.5.a,A drinking song,,20,kurun₂ lal₃-e gu₃ nun ha-ra-ni-ib-be₂
+c.5.5.a,A drinking song,,21,{gi}buniŋ {u₂}bur₂-a kaš ku₇-ku₇-dam
+c.5.5.a,A drinking song,,22,sagi lu₂-tur-ra lunga₃ bi₂-in-gub-en
+c.5.5.a,A drinking song,,23,a-niŋin₂-e niŋin-na-ŋu₁₀-ne
+c.5.5.a,A drinking song,,24,gur₄-gur₄-re-ŋa₂ gur₄-gur₄-re-ŋa₂-ŋu₁₀-ne
+c.5.5.a,A drinking song,,25,kaš naŋ-e me-e sig₁₀-ga-ŋu₁₀-ne
+c.5.5.a,A drinking song,,26,kurun₂ naŋ-a ul ti-a-ŋu₁₀-ne
+c.5.5.a,A drinking song,,27,šag₄ hul₂-la ur₅ sag₉-ga-ŋu₁₀-ne
+c.5.5.a,A drinking song,,28,šag₄-ŋa₂ šag₄ hul₂-la ŋal₂-la-bi
+c.5.5.a,A drinking song,,29,ur₅ sag₉ {tug₂}pala₃-a ša-mur₁₀-ra-ŋu₁₀-ne
+c.5.5.a,A drinking song,,30,šag₄ {d}inana ki-bi ba-ab-gi₄
+c.5.5.a,A drinking song,,31,šag₄ ga-ša-an-an-na-ke₄ ki-bi ba-ab-gi₄
+c.5.5.a,A drinking song,,32,{d}nin-ka-si-kam

@@ -1,0 +1,129 @@
+id_text,text_name,version,l_no,text
+c.5.9.1,The home of the fish,,A1,ku₆-ŋu₁₀ e₂ du₃ ku₆-ŋu₁₀ ma-ra-an-du₃
+c.5.9.1,The home of the fish,,A2,ku₆-ŋu₁₀ e₂ ma-ra-an-du₃ arah₄ ma-ra-an-du₃
+c.5.9.1,The home of the fish,,A3,e₂-a e₂ dirig-ga amaš gid₂-da ma-ra-an-du₃
+c.5.9.1,The home of the fish,,A4,šag₄-bi na-izi tug₂ ma-ra-mur₁₀ ki šag₄ hul₂-le a asila
+c.5.9.1,The home of the fish,,A5,e₂ gu ha-la-ha-la-ba na-an-na-te kuš₃-kuš₃-ta
+c.5.9.1,The home of the fish,,A6,e₂-e niŋ₂-gu₇ i₃-ŋal₂ niŋ₂-gu₇ saŋ-ŋa₂-ba
+c.5.9.1,The home of the fish,,A7,e₂-e niŋ₂-gu₇ i₃-ŋal₂ niŋ₂-gu₇ silim-ma-ba
+c.5.9.1,The home of the fish,,A8,e₂ ki kaš de₂-a-zu nim nu-mu-un-bu-bu-bu
+c.5.9.1,The home of the fish,,A9,mu du₆-da ŋiri₃ kur₂ nu-ŋal₂-la
+c.5.9.1,The home of the fish,,A10,zag-du₈ {ŋeš}si-ŋar-bi zid₂ dub-dub-bu niŋ₂-na-e ŋar-ra
+c.5.9.1,The home of the fish,,A11,e₂-e ir-bi tir šim {ŋeš}erin-na-gin₇ ir-si-bi ba-ur₅
+c.5.9.1,The home of the fish,,A12,e₂-e kaš mu-un-ŋal₂ kaš sig₅-ga mu-un-ŋal₂
+c.5.9.1,The home of the fish,,A13,{kaš}dida-imŋaŋa ninda ku₇-ku₇-da-bi gi ŋar-re-eš mu-un-ŋal₂
+c.5.9.1,The home of the fish,,A14,zu-a-zu he₂-em-du
+c.5.9.1,The home of the fish,,A15,kal-la-zu he₂-em-du
+c.5.9.1,The home of the fish,,A16,ad-da pap-bil₂-ga-zu he₂-em-du
+c.5.9.1,The home of the fish,,A17,dumu šeš-gal-zu dumu šeš-ban₃-da-zu he₂-em-du
+c.5.9.1,The home of the fish,,A18,di₄-di₄-la₂-zu gal-gal-zu he₂-em-du
+c.5.9.1,The home of the fish,,A19,dam-zu dumu-zu he₂-em-du
+c.5.9.1,The home of the fish,,A20,gu₅-li-zu dub₃-us₂-sa-zu he₂-em-du
+c.5.9.1,The home of the fish,,A21,murum₅ ušbar-zu he₂-em-du
+c.5.9.1,The home of the fish,,A22,ildum₂ bar nam-ga-kur₉-ra-zu-uš he₂-em-du
+c.5.9.1,The home of the fish,,A23,dumu gu₇-li-zu nam-mu-ni-ib-da₁₃-da₁₃-a
+c.5.9.1,The home of the fish,,A24,da-a-zu nam-me-eš nam-mu-ni-in-da₁₃-da₁₃
+c.5.9.1,The home of the fish,,A25,kur₉-ra-ma-ni-ib dumu ki aŋ₂-ŋu₁₀
+c.5.9.1,The home of the fish,,A26,kur₉-ra-ma-ni-ib dumu sag₉-ga-ŋu₁₀
+c.5.9.1,The home of the fish,,A27,ud nam-zal-e ŋi₆ nam-sa₂-e
+c.5.9.1,The home of the fish,,A28,iti₆ e₂-ba nam-ba-ni-ib-ku₄-ku₄
+c.5.9.1,The home of the fish,,A29,ud me-e-zal-la-a-gin₇ ŋi₆ me-e-sa₂-a-gin₇
+c.5.9.1,The home of the fish,,A30,kur₉-ra ba-ni-huŋ-ŋe₂₆ ki-ŋar ma-ra-ab-du₇
+c.5.9.1,The home of the fish,,A31,šag₄-ba dur₂ ŋar si ma-ra-ab-sa₂-e
+c.5.9.1,The home of the fish,,A32,ku₆-ŋu₁₀ lu₂ nu₂-a ba-ra-ab-zi-zi
+c.5.9.1,The home of the fish,,A33,lu₂ tuš-a du₁₄ ba-ra-mu₂-mu₂
+c.5.9.1,The home of the fish,,A34,kur₉-ra-ma-ni-ib dumu ki aŋ₂-ŋu₁₀
+c.5.9.1,The home of the fish,,A35,kur₉-ra-ma-ni-ib dumu sag₉-ga-ŋu₁₀
+c.5.9.1,The home of the fish,,A36,id₂ mun-na-gin₇ pa₅ na-an-zu-zu
+c.5.9.1,The home of the fish,,A37,sahar-ŋar id₂-da-gin₇ zi-zi na-an-zu-zu-u₃
+c.5.9.1,The home of the fish,,A38,a zal-le-gin₇ nu₂-zu na-an-ba-la₂-e
+c.5.9.1,The home of the fish,,A39,iti₆ e₂-ba nam-ba-ni-in-ku₄-ku₄
+c.5.9.1,The home of the fish,,A40,na-an-ga-ba-e-da-du-e igi-zu ki-ŋu₁₀-uš-še₃
+c.5.9.1,The home of the fish,,A41,ki mur gu₇-zu-še₃ na-an-ga-ba-e-da-du-e igi-zu ki-ŋu₁₀-uš-še₃
+c.5.9.1,The home of the fish,,A42,ur-gin₇ ki si-im-si-im ak-zu-še₃ na-an-ga-ba-e-da-du-e igi-zu ki-ŋu₁₀-uš-še₃
+c.5.9.1,The home of the fish,,A43,tum₁₂{mušen}-gin₇ ki ab-TU du-zu-še₃ na-an-ga-ba-e-da-du-e igi-zu ki-ŋu₁₀-uš-še₃
+c.5.9.1,The home of the fish,,A44,gud-gin₇ tur₃-zu-še₃ udu-gin₇ amaš-zu-še₃ na-an-ga-ba-e-da-du-e igi-zu ki-ŋu₁₀-uš-še₃
+c.5.9.1,The home of the fish,,A45,a₂-še gud-gin₇ tur₃-zu-še₃
+c.5.9.1,The home of the fish,,A46,kur₉-ra-ma-ni {d}suen he₂-en-da-hul₂-hul₂
+c.5.9.1,The home of the fish,,A47,a₂-še udu-gin₇ amaš-zu-še₃
+c.5.9.1,The home of the fish,,A48,kur₉-ra-ma-ni {d}dumu-zid-de₃ he₂-en-da-hul₂-hul₂
+c.5.9.1,The home of the fish,,A49,gud-gin₇ tur₃-zu-še₃ saŋ il₂-la-zu-ne
+c.5.9.1,The home of the fish,,A50,en {d}aš-im₂-babbar {d}suen he₂-en-da-hul₂-hul₂
+c.5.9.1,The home of the fish,,A51,udu-gin₇ amaš-a saŋ il₂-la-zu-ne
+c.5.9.1,The home of the fish,,A52,{d}dumu-zid {lu₂}sipad he₂-en-da-hul₂-hul₂
+c.5.9.1,The home of the fish,,A53,
+c.5.9.1,The home of the fish,,A68,ku₆ ba-ba zag nam
+c.5.9.1,The home of the fish,,A69,ku₆-ŋu₁₀ ku₆ hi-a he₂-ga-me-da-an-ku₄-ku₄
+c.5.9.1,The home of the fish,,A70,sun₄ sag₉-sag₉ u₂-lal₃ gu₇-gu₇
+c.5.9.1,The home of the fish,,A71,ku₆-ŋu₁₀ suhur-gal{ku₆}-ŋu₁₀ he₂-ga-me-da-an-ku₄-ku₄
+c.5.9.1,The home of the fish,,A72,{gi}ub-zal gu₇-gu₇
+c.5.9.1,The home of the fish,,A73,ku₆-ŋu₁₀ suhur-tur{ku₆}-ŋu₁₀ he₂-ga-me-da-an-ku₄-ku₄
+c.5.9.1,The home of the fish,,A74,nundum gal-gal gi-zi naŋ-ŋa₂
+c.5.9.1,The home of the fish,,A75,ha-la
+c.5.9.1,The home of the fish,,A76,gu₇-gu₇-da-bi
+c.5.9.1,The home of the fish,,A77,ku₆-ŋu₁₀ eštub{ku₆}-ŋu₁₀ he₂-en-ga-mu-e-da-an-ku₄-ku₄
+c.5.9.1,The home of the fish,,A78,{ŋeš}gi-muš gig₂ a-šag₄-ga ri-a
+c.5.9.1,The home of the fish,,A79,šah₂ ama gan gu₂ id₂-da-ka niŋ₂-silaŋ-ŋa₂ kar-kar-re
+c.5.9.1,The home of the fish,,A80,ku₆-ŋu₁₀ gu₂-bi₂{ku₆}-ŋu₁₀ he₂-en-ga-mu-e-da-an-ku₄-ku₄
+c.5.9.1,The home of the fish,,A81,kun si gam₃ si ku₆ ku-ru-uš-ta
+c.5.9.1,The home of the fish,,A82,ku₆-ŋu₁₀ ŠE.SUHUR-gal{ku₆}-ŋu₁₀ he₂-en-ga-mu-e-da-an-ku₄-ku₄
+c.5.9.1,The home of the fish,,A83,ku₆ šudu₃-ba dumu er₂ pad₃-da-gin₇
+c.5.9.1,The home of the fish,,A84,ku₆-ŋu₁₀ ŠE.SUHUR-sig₁₀{ku₆}-ŋu₁₀ he₂-en-ga-mu-e-da-an-ku₄-ku₄
+c.5.9.1,The home of the fish,,A85,saŋ-du {ŋeš}al-la zu₂ {ŋeš}ga-rig₂ zu
+c.5.9.1,The home of the fish,,A86,ŋiri₃-paₓ-ra₂-bi {ŋeš}u₃-suh₅ an-na
+c.5.9.1,The home of the fish,,A87,mu-tun₃-na-bi {kuš}ummud {d}dumu-zid-da
+c.5.9.1,The home of the fish,,A88,kuš niŋ₂-gu₇-a kiŋ₂-še₃ nu-ŋa₂-ŋa₂
+c.5.9.1,The home of the fish,,A89,kun sal-la-bi {kuš}a₂-si šu-KU₆-de₃-ne
+c.5.9.1,The home of the fish,,A90,ku₆ šu tu₁₁-tu₁₁ kuš ni₂-ba gu₇-gu₇
+c.5.9.1,The home of the fish,,A91,šag₄-ga-ni giri₁₇-ba nu-ŋal₂-la
+c.5.9.1,The home of the fish,,A92,ku₆ gaba-ri a₂-ur₂ dab₅-ba
+c.5.9.1,The home of the fish,,A93,{kuš}dala₂-a gag-še₃ bal-bal-a-bi
+c.5.9.1,The home of the fish,,A94,niŋ₂-gig eš₃ iri sa₂-dug₄ nu-ŋa₂-ŋa₂
+c.5.9.1,The home of the fish,,A95,ku₆-ŋu₁₀ mur{ku₆}-ŋu₁₀ he₂-en-ga-mu-e-da-an-ku₄-ku₄
+c.5.9.1,The home of the fish,,A96,ŋiri₃ ku₆-a a lu₃-lu₃ gur-ra
+c.5.9.1,The home of the fish,,A97,ku₆ i₃-guru₅-a igi du₈-de₃ dab₅-ba
+c.5.9.1,The home of the fish,,A98,ku₆-ŋu₁₀ kiŋ₂{ku₆}-ŋu₁₀ he₂-en-ga-mu-e-da-an-ku₄-ku₄
+c.5.9.1,The home of the fish,,A99,saŋ-du {na₄}kinkin-šu šu saŋ ur-gir₁₅-ra
+c.5.9.1,The home of the fish,,A100,bar šir du₃-du₃-de₃
+c.5.9.1,The home of the fish,,A101,ku₆ {u₂}X nu-gu₇ al-HAR
+c.5.9.1,The home of the fish,,A102,ku₆-ŋu₁₀ ŋir₂-gid₂{ku₆}-ŋu₁₀ he₂-en-ga-mu-e-da-an-ku₄-ku₄
+c.5.9.1,The home of the fish,,A103,šag₄-niŋin za-pa-aŋ₂-bi gu₂ bal-bi
+c.5.9.1,The home of the fish,,A104,ku₆-ŋu₁₀ gir{ku₆}-ŋu₁₀ he₂-en-ga-mu-e-da-an-ku₄-ku₄
+c.5.9.1,The home of the fish,,A105,ku₆ sig₁₀-ga ku₆ še-er-tab-ba e₃ zu-zu
+c.5.9.1,The home of the fish,,A106,ku₆ dug₃-ga i₃-ŋal₂ niŋ₂-gig-ga
+c.5.9.1,The home of the fish,,A107,ku₆-ŋu₁₀ ab-suhur{ku₆}-ŋu₁₀ he₂-en-ga-mu-e-da-an-ku₄-ku₄
+c.5.9.1,The home of the fish,,A108,ku₆ a-KUD du₃ ze₂ me-ze₂-bi ŋar-ra
+c.5.9.1,The home of the fish,,A109,ku₆-ŋu₁₀ a-garₓ-garₓ{ku₆}-ŋu₁₀ he₂-en-ga-mu-e-da-an-ku₄-ku₄
+c.5.9.1,The home of the fish,,A110,dumu dam-gar₃-ra
+c.5.9.1,The home of the fish,,A111,ku₆-ŋu₁₀ ka-mar{ku₆}-ŋu₁₀ he₂-en-ga-mu-e-da-an-ku₄-ku₄
+c.5.9.1,The home of the fish,,A112,dumu mar-tu bar-ta tum₂-tum₂-mu
+c.5.9.1,The home of the fish,,A113,ku₆-ŋu₁₀ NUN.BAR-gid₂{ku₆} he₂-en-ga-mu-e-da-an-ku₄-ku₄
+c.5.9.1,The home of the fish,,A114,ku₆ u₂-gu₇ nu-gu₇-a a pu₂
+c.5.9.1,The home of the fish,,A115,ku₆-ŋu₁₀ a-zag-gur₁₁{ku₆}-ŋu₁₀ he₂-en-ga-mu-e-da-an-ku₄-ku₄
+c.5.9.1,The home of the fish,,A116,kuš dugud gar₃-ru šu
+c.5.9.1,The home of the fish,,A117,ku₆-ŋu₁₀ muš{ku₆}-ŋu₁₀ he₂-en-ga-mu-e-da-an-ku₄-ku₄
+c.5.9.1,The home of the fish,,A118,
+c.5.9.1,The home of the fish,,B1,ama pe-en-du
+c.5.9.1,The home of the fish,,B2,ku₆-ŋu₁₀ ŊIR₂.U₂{ku₆}-ŋu₁₀ he₂-en-ga-mu-e-da-an-ku₄-ku₄
+c.5.9.1,The home of the fish,,B3,tur-tur a bar-ra tum₂-tum₂-mu
+c.5.9.1,The home of the fish,,B4,ku₆-ŋu₁₀ sal-sal{ku₆}-ŋu₁₀ he₂-en-ga-mu-e-da-an-ku₄-ku₄
+c.5.9.1,The home of the fish,,B5,igi muš ka peš₂ peš₁₀-peš₁₀
+c.5.9.1,The home of the fish,,B6,zid-da šag₄ nu₂-nu₂
+c.5.9.1,The home of the fish,,B7,sig₁₀-ga
+c.5.9.1,The home of the fish,,C1,ambar id₂-da gu₃-gu₃ hul-bi de₂-de₂
+c.5.9.1,The home of the fish,,C2,ku₆-ŋu₁₀ akan-ne₂{mušen}-ŋu₁₀ šu-še₃ ba-e-la₂-e
+c.5.9.1,The home of the fish,,C3,a sa-sa la₂ sa-par₃ ma-ra-niŋin₂-niŋin₂
+c.5.9.1,The home of the fish,,C4,ku₆-ŋu₁₀ ubur-re{mušen}-ŋu₁₀ šu-še₃ ba-e-la₂-e
+c.5.9.1,The home of the fish,,C5,ŋiri₃ niŋ₂ zi-zi zu₂
+c.5.9.1,The home of the fish,,C6,a bar-bar-ta im-sar-sar-re
+c.5.9.1,The home of the fish,,C7,ku₆-ŋu₁₀ kiši₆-bar{mušen}-ŋu₁₀ šu-še₃ ba-e-la₂-e
+c.5.9.1,The home of the fish,,C8,a šu nu-tag-tag-ge
+c.5.9.1,The home of the fish,,C9,mušen-a ŋiri₃ ku₆-a
+c.5.9.1,The home of the fish,,C10,ku₆-ŋu₁₀ ki-ib{mušen}-ŋu₁₀ šu-še₃ ba-e-la₂-e
+c.5.9.1,The home of the fish,,C11,niŋ₂-ur₂-₄ ambar gir₅-gir₅ dab₅
+c.5.9.1,The home of the fish,,C12,ku₆-ŋu₁₀ kud-da-ŋu₁₀ šu-še₃ ba-e-la₂-e
+c.5.9.1,The home of the fish,,C13,šu-še₃ nu-mu-e-la₂-e ŋiri₃-še₃ nu-mu-e-il₂
+c.5.9.1,The home of the fish,,C14,ku₆-ŋu₁₀ ud zal-zal-la za-e ugu-ŋu₁₀-uš ŋa₂-nu
+c.5.9.1,The home of the fish,,C15,ud zal-zal-la za-e ugu-ŋu₁₀-uš ŋa₂-nu
+c.5.9.1,The home of the fish,,C16,ga-ša-an {lu₂}šu-KU₆-da
+c.5.9.1,The home of the fish,,C17,{d}nanše za-ra he₂-en-da-hul₂

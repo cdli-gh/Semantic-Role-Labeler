@@ -1,0 +1,98 @@
+id_text,text_name,version,l_no,text
+c.1.4.1.3,Dumuzid and his sisters,,1,
+c.1.4.1.3,Dumuzid and his sisters,,2,igi hur-ra-bi-ŋu₁₀
+c.1.4.1.3,Dumuzid and his sisters,,3,giri₁₇ hur-ra-bi-ŋu₁₀
+c.1.4.1.3,Dumuzid and his sisters,,4,sag₃-a-ŋu₁₀
+c.1.4.1.3,Dumuzid and his sisters,,5,saŋ šum₂-ma-ŋu₁₀
+c.1.4.1.3,Dumuzid and his sisters,,6,ma-al-la-zu
+c.1.4.1.3,Dumuzid and his sisters,,7,ma-al-la-X
+c.1.4.1.3,Dumuzid and his sisters,,8,šu šim-ŋu₁₀ sag₃
+c.1.4.1.3,Dumuzid and his sisters,,9,{ŋeš}mar gu₂-un-na-ŋu₁₀
+c.1.4.1.3,Dumuzid and his sisters,,10,ka-ŋu₁₀
+c.1.4.1.3,Dumuzid and his sisters,,11,
+c.1.4.1.3,Dumuzid and his sisters,,12,mu-lu giri₁₇-zal
+c.1.4.1.3,Dumuzid and his sisters,,13,mu-lu še ša₄ mu-X
+c.1.4.1.3,Dumuzid and his sisters,,14,{ŋeš}ig abul-la mi-X
+c.1.4.1.3,Dumuzid and his sisters,,15,šeš-ŋu₁₀ {ŋeš}ig abul-la
+c.1.4.1.3,Dumuzid and his sisters,,16,u₂ tud
+c.1.4.1.3,Dumuzid and his sisters,,17,nam-nin₉-a
+c.1.4.1.3,Dumuzid and his sisters,,18,id₂ mah-a a₂
+c.1.4.1.3,Dumuzid and his sisters,,19,a-šag₄-bi {kuš}ummud a
+c.1.4.1.3,Dumuzid and his sisters,,20,a-še-er-ta ba-zu
+c.1.4.1.3,Dumuzid and his sisters,,21,hul gig-ga
+c.1.4.1.3,Dumuzid and his sisters,,22,šeš-ŋu₁₀ me-ri gig-ga me-ri-zu e-sir₂
+c.1.4.1.3,Dumuzid and his sisters,,23,šeš-ŋu₁₀ me-a di-di me-e mu-da-ul₄-le-en
+c.1.4.1.3,Dumuzid and his sisters,,24,{d}du₅-mu-zid me-a di-di me-e mu-da-ul₄-le-en
+c.1.4.1.3,Dumuzid and his sisters,,25,mu-un-da-ul₄-le-en mu-un-da-ul₄-le-en
+c.1.4.1.3,Dumuzid and his sisters,,26,gi-in-zu di u₃-mu-un-na me-e mu-X
+c.1.4.1.3,Dumuzid and his sisters,,27,u₃-mu-un-na-ke₄ ma-al
+c.1.4.1.3,Dumuzid and his sisters,,28,gi-in-zu di u₃-mu-un-na me-e
+c.1.4.1.3,Dumuzid and his sisters,,29,šeš-ŋu₁₀ ba-ra-ba-an-da-hul₂-la šeš-ŋu₁₀
+c.1.4.1.3,Dumuzid and his sisters,,30,{d}du₅-mu-zid šeš-ŋu₁₀ ba-ra-ba-an-da-hul₂-la šeš-ŋu₁₀ X-lu
+c.1.4.1.3,Dumuzid and his sisters,,31,ma-al i-bi₂-ni-še₃
+c.1.4.1.3,Dumuzid and his sisters,,32,lu₂ a₂-la₂-a-ni i-bi₂-še₃ mu-un-da-an-ŋen
+c.1.4.1.3,Dumuzid and his sisters,,33,lu₂ šu du₃-a-ni eŋer-ra-ni im-ŋen
+c.1.4.1.3,Dumuzid and his sisters,,34,lu₂ niŋ₂ ra-a-ni ni₂ mu-ni-ib₂-dib₂-be₂-ne
+c.1.4.1.3,Dumuzid and his sisters,,35,nin₉ gal-la gu₃ mu-un-na-de₂-e
+c.1.4.1.3,Dumuzid and his sisters,,36,gig-ra inim mu-un-na-ni-ib₂-gi-gi
+c.1.4.1.3,Dumuzid and his sisters,,37,lu-u₃-ne im-mi-ib₂-dab₅-be-ne
+c.1.4.1.3,Dumuzid and his sisters,,38,da-ma-ma-ne
+c.1.4.1.3,Dumuzid and his sisters,,39,mu-un-bur₁₂-bur₁₂-re
+c.1.4.1.3,Dumuzid and his sisters,,40,
+c.1.4.1.3,Dumuzid and his sisters,,41,
+c.1.4.1.3,Dumuzid and his sisters,,42,
+c.1.4.1.3,Dumuzid and his sisters,,54,
+c.1.4.1.3,Dumuzid and his sisters,,55,za-e in-ga-X
+c.1.4.1.3,Dumuzid and his sisters,,56,za-e in-ga-X
+c.1.4.1.3,Dumuzid and his sisters,,57,ŋeštug₂ mu-na-sug₂-X
+c.1.4.1.3,Dumuzid and his sisters,,58,sila daŋal-ta ba-ŋen
+c.1.4.1.3,Dumuzid and his sisters,,59,ba-ŋen-na sila daŋal-ta ba-ŋen
+c.1.4.1.3,Dumuzid and his sisters,,60,ŋar-ra gal₅-la₂ gaba ba-an-ri
+c.1.4.1.3,Dumuzid and his sisters,,61,ŋar-ra gal₅-la₂ gaba ba-an-ri
+c.1.4.1.3,Dumuzid and his sisters,,62,gal₅-la₂ gaba ba-an-ri
+c.1.4.1.3,Dumuzid and his sisters,,63,an-ta ba-an-di-ni-ib₂-gi gal₅-la₂ gaba ba-an-ri
+c.1.4.1.3,Dumuzid and his sisters,,64,ki-še-er ba-an-na-ni-in-dug₄
+c.1.4.1.3,Dumuzid and his sisters,,65,siki ze₂-na ki-še-er ba-an-na-ni-in-dug₄
+c.1.4.1.3,Dumuzid and his sisters,,66,igi hur-ra-na giri₁₇ hur-ra-na ki-še-er ba-an-na-ni-in-dug₄
+c.1.4.1.3,Dumuzid and his sisters,,67,dirig-dirig-ga-na ki-še-er ba-an-na-ni-in-dug₄
+c.1.4.1.3,Dumuzid and his sisters,,68,šu-um-du-um hi-li-a dug₄-ga-na ki-še-er ba-an-na-ni-in-dug₄
+c.1.4.1.3,Dumuzid and his sisters,,69,za-e ki-sikil mu-lu en-ra sig₁₀-ga za-e nin-ni-ŋen
+c.1.4.1.3,Dumuzid and his sisters,,70,mu-lu₂ {d}du₅-mu-zid-ra sig₁₀-ga za-e nin-ni-ŋen
+c.1.4.1.3,Dumuzid and his sisters,,71,za-e nin₉ ban₃-da ŋuruš-a-ŋen za-e nin-ni-ŋen
+c.1.4.1.3,Dumuzid and his sisters,,72,nin₉ ban₃-da {d}du₅-mu-zid-da-ŋen za-e nin₉-ni-ŋen
+c.1.4.1.3,Dumuzid and his sisters,,73,ku₅-ru-de₃-en-ze₂-en me-e nin₉-ni-ŋen
+c.1.4.1.3,Dumuzid and his sisters,,74,{d}du₅-mu-zid-da ku₅-ru-de₃-en-ze₂-en me-e nin₉-ni-ŋen
+c.1.4.1.3,Dumuzid and his sisters,,75,me-e nin₉ ban₃-da ŋuruš-a-ŋen me-e nin₉-ni-ŋen
+c.1.4.1.3,Dumuzid and his sisters,,76,me-e nin₉ ban₃-da {d}du₅-mu-zid-da-ŋen me-e nin₉-ni-ŋen
+c.1.4.1.3,Dumuzid and his sisters,,77,i-ne-eš₂ kug-ga na-an-ga-mu-na-ab-sig₁₀-ge-en me-e nin₉-ni-ŋen
+c.1.4.1.3,Dumuzid and his sisters,,78,KA.BAR-še₃ kug-ga na-an-ga-mu-na-ab-sig₁₀-ge-en me-e nin₉-ni-ŋen
+c.1.4.1.3,Dumuzid and his sisters,,79,gu šu-ŋa₂ de₃-em-ma-al šu-ŋu₁₀ ba-ra-gig-ga-am₃
+c.1.4.1.3,Dumuzid and his sisters,,80,dug ŋeštin-na gu₂-ŋa₂ de₃-em-ma-al gu₂-ŋu₁₀ ba-ra-gig-ga-am₃
+c.1.4.1.3,Dumuzid and his sisters,,81,a₂ mu-un-na-ni-in-gi₄ a mu-da-lu-lu
+c.1.4.1.3,Dumuzid and his sisters,,82,a ki-in-dar-re mu-na-an-de₂ mu-tin-an-na-ke₄
+c.1.4.1.3,Dumuzid and his sisters,,83,mu-tin-e ŋar-ra a al-ur₄-ur₄-re
+c.1.4.1.3,Dumuzid and his sisters,,84,a a šeš-ra a al-ur₄-ur₄-re
+c.1.4.1.3,Dumuzid and his sisters,,85,a al-ur₄-ur₄-re id₂-da bi₂-i-gi-gi
+c.1.4.1.3,Dumuzid and his sisters,,86,id₂-za gi₄-bi id₂-za gi₄-bi id₂-za gi₄-bi
+c.1.4.1.3,Dumuzid and his sisters,,87,a šeš-ŋu₁₀ nu-mu-un-naŋ-a re id₂-za gi₄-bi
+c.1.4.1.3,Dumuzid and his sisters,,88,a {d}du₅-mu-zid nu-mu-un-naŋ-a re a id₂-za gi₄-bi
+c.1.4.1.3,Dumuzid and his sisters,,89,id₂-da-ke₄ bi₂-in-tu₁₀-tu₁₀ {id₂}buranun-na bi₂-in-lu₃-lu₃
+c.1.4.1.3,Dumuzid and his sisters,,90,uru₂ šeš-ŋu₁₀ nu-un-til₃ bi₂-in-da-kud-de₃
+c.1.4.1.3,Dumuzid and his sisters,,91,{d}du₅-mu-zid nu-un-til₃ bi₂-in-da-kud-de₃
+c.1.4.1.3,Dumuzid and his sisters,,92,nu-un-til₃ nu-un-til₃ ba-ra-gi₄-gi₄-de₃
+c.1.4.1.3,Dumuzid and his sisters,,93,nu-un-til₃
+c.1.4.1.3,Dumuzid and his sisters,,94,mu-ud-na-ŋu₁₀ nu-un-til₃
+c.1.4.1.3,Dumuzid and his sisters,,95,mu-ud-na-ŋu₁₀ nu-un-til₃
+c.1.4.1.3,Dumuzid and his sisters,,96,nu-un-til₃
+c.1.4.1.3,Dumuzid and his sisters,,97,nu-un-til₃
+c.1.4.1.3,Dumuzid and his sisters,,98,nu-un-til₃
+c.1.4.1.3,Dumuzid and his sisters,,99,{d}du₅-mu-zid nu-un-til₃ ba-ra-gi₄-gi₄-de₃
+c.1.4.1.3,Dumuzid and his sisters,,100,in-tu-ud-da-zu ba-ra-ba-an-da-hul₂-le-en
+c.1.4.1.3,Dumuzid and his sisters,,101,in-tu-ud-da-zu ba-ra-ba-an-da-hul₂-le-en
+c.1.4.1.3,Dumuzid and his sisters,,102,in-tu-ud-da-zu ba-ra-ba-an-da-hul₂-le-en
+c.1.4.1.3,Dumuzid and his sisters,,103,in-tu-ud
+c.1.4.1.3,Dumuzid and his sisters,,104,ba-an-tu-ud
+c.1.4.1.3,Dumuzid and his sisters,,105,{d}mu-tin-ŋen
+c.1.4.1.3,Dumuzid and his sisters,,106,{d}du₅-mu-zid-da-še₃
+c.1.4.1.3,Dumuzid and his sisters,,107,{d}mu-tin-ŋen
+c.1.4.1.3,Dumuzid and his sisters,,108,

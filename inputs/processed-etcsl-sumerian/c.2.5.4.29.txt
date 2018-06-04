@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+c.2.5.4.29,A hymn to Ninurta for Išme-Dagan,,A1,{d}en-ki en dumu-saŋ an kug-ga
+c.2.5.4.29,A hymn to Ninurta for Išme-Dagan,,A2,nam-{d}en-lil₂-ban₃-da-aš mu-ni-in-il₂-i-iš an ki-a du₇ mah-e-eš
+c.2.5.4.29,A hymn to Ninurta for Išme-Dagan,,A3,ki pad₃-de₃ ŋeštug₂ ₇-bi saŋ-e-eš mu-ni-in-rig₇-eš
+c.2.5.4.29,A hymn to Ninurta for Išme-Dagan,,A4,ad gi₄-gi₄ nam gal tar-tar-re
+c.2.5.4.29,A hymn to Ninurta for Išme-Dagan,,A5,ud e₃ igi-ŋal₂ šum₂-mu gi₁₆-sa-še₃ mu-ni-in-ak-eš
+c.2.5.4.29,A hymn to Ninurta for Išme-Dagan,,A6,abzu kug e₂ šeg₁₂-bi bar-bi šag₄ kuš₂-u₃
+c.2.5.4.29,A hymn to Ninurta for Išme-Dagan,,A7,šag₄ igi-ni-še₃ ŋa₂-ŋa₂
+c.2.5.4.29,A hymn to Ninurta for Išme-Dagan,,A8,
+c.2.5.4.29,A hymn to Ninurta for Išme-Dagan,,B1,e-ne-ne nun er₉-me-eš en nam tar-re-me-eš
+c.2.5.4.29,A hymn to Ninurta for Išme-Dagan,,B2,šag₄-zu-a en {d}nin-urta-ra me mu-na-ni-in-šum₂-mu-uš
+c.2.5.4.29,A hymn to Ninurta for Išme-Dagan,,B3,nibru{ki} šir₃ kug-zu niŋ₂ kal-kal a-re-eš dib-ba-am₃
+c.2.5.4.29,A hymn to Ninurta for Išme-Dagan,,B4,{d}iš-me-{d}da-gan-me-en du-ri₂-še₃ ka-ga₁₄ mu-ni-ŋar

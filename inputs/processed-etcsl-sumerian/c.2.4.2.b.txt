@@ -1,0 +1,26 @@
+id_text,text_name,version,l_no,text
+c.2.4.2.b,A praise poem of Šulgi,,A1,kug-sig₁₇ mi₂ he₂-ma-ni-in-dug₄
+c.2.4.2.b,A praise poem of Šulgi,,A2,{ŋeš}tukul-la ud sud u₁₈-ru-gin₇ ki he₂-ma-ni-us₂-sa
+c.2.4.2.b,A praise poem of Šulgi,,A3,
+c.2.4.2.b,A praise poem of Šulgi,,A4,gaba zig₃-ga-ŋu₁₀-ne
+c.2.4.2.b,A praise poem of Šulgi,,A5,še-er-zid ud-de₉-eš₂ mu₂-a-gin₇ men kug-ga mul-la-ŋu₁₀-ne
+c.2.4.2.b,A praise poem of Šulgi,,A6,ŋidru mah nam-he₂-a ur₄-ur₄-ra šu-ŋu₁₀-še₃ ŋal₂-la-bi
+c.2.4.2.b,A praise poem of Šulgi,,A7,{ŋeš}gu-za suhuš gen₆-na saŋ-eš₂ rig₇-ga-ŋa₂
+c.2.4.2.b,A praise poem of Šulgi,,A8,saŋ an-še₃ he-bi₂-il₂
+c.2.4.2.b,A praise poem of Šulgi,,A9,šul-gi sipad zid ki-en-gi-ra-me-en₃ niŋ₂-zid ki-bi-še₃ hu-mu-ŋar-ŋa₂-ar
+c.2.4.2.b,A praise poem of Šulgi,,A10,niŋ₂-erim₂ a-ŋi₆ a e₃-a-gin₇ uzugₓ-ge he₂-mi-bu₃
+c.2.4.2.b,A praise poem of Šulgi,,A11,mi₂ gal-gal ni₂-ŋu₁₀ en-na bi₂-dug₄-ga
+c.2.4.2.b,A praise poem of Šulgi,,A12,mu {d}en-lil₂-la₂ lul ba-ra-na he₂-gen₆
+c.2.4.2.b,A praise poem of Šulgi,,A13,am babbar₂-gin₇ saŋ
+c.2.4.2.b,A praise poem of Šulgi,,A14,
+c.2.4.2.b,A praise poem of Šulgi,,B1,
+c.2.4.2.b,A praise poem of Šulgi,,B2,unken ak
+c.2.4.2.b,A praise poem of Šulgi,,B3,mi₂-bi-im hu-mu-dug₄
+c.2.4.2.b,A praise poem of Šulgi,,B4,
+c.2.4.2.b,A praise poem of Šulgi,,B5,X-mu-dug₄
+c.2.4.2.b,A praise poem of Šulgi,,B6,kalam-ma ŋen-na-ŋa₂ mi₂-bi-im hu-mu-dug₄
+c.2.4.2.b,A praise poem of Šulgi,,B7,šu dim₄ niŋ₂ sag₉-ge ka-ga mi-ni-ŋal₂-la ŋa₂-ra mi₂ zid-bi-im hu-mu-dug₄
+c.2.4.2.b,A praise poem of Šulgi,,B8,ŋešpu₂ lirum₃-ta a₂ ha-ma-gun₃ mi₂-bi-im hu-mu-dug₄
+c.2.4.2.b,A praise poem of Šulgi,,B9,a-la {d}en-lil₂-da ma-ab-be₂ kalam-ma gi₄-a dar-ra-ŋa₂
+c.2.4.2.b,A praise poem of Šulgi,,B10,eš₃ nibru{ki}-še₃ ŋiri₃ urim₅{ki}-ma-še₃ šu niŋin₂-niŋin₂-na-ŋa₂
+c.2.4.2.b,A praise poem of Šulgi,,B11,kaskal da-na ₃₀ ŋen-na-ŋa₂ ŋa₂-ra mi₂ zid-bi-im hu-mu-dug₄

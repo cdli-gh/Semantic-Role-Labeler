@@ -1,0 +1,30 @@
+id_text,text_name,version,l_no,text
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,A1,an ki-še₃ dili-ni dib
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,A2,saŋ il₂ palil {d}a-nun-na-ke₄-ne
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,A3,ka-ta e₃-a-ni sag₂ nu-di
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,A4,{d}nu-nam-nir eš-bar dug₄-ga nu-kur₂-ru
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,A5,saŋ-kug-ŋal₂ ni₂ su zig₃ ri-a
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,A6,dili-a-ni-še₃ saŋ il₂ nun-gal-e-ne
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,A7,eš₃ nibru{ki} dur-an-ki-a-ka
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,A8,e₂-kur e₂ nam tar-tar-re-da
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,A9,e₂ kug za-gin₃-na dur₂ bi₂-in-ŋar
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,A10,ama {d}nin-lil₂ kur gal-da zag ša₄
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,A11,gu₂-da u₃-mu-ni-in-la₂
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,A12,inim mu-na-ab-dug₄-ge
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,A13,šag₄-ge pad₃-da
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,B1,iri a₂ aŋ₂
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,B2,zu₂ keše₂-bi
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,B3,{d}en-lil₂-me-en dug₄-ga-zu mah-am₃
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,B4,diŋir na-me nu-mu-e-da-bur₂-re
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,B5,nam i-ri-tar pa e₃ ga-mu-ra-ab-dirig
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,B6,nam-til₃-zu nam-til₃ ga-mu-ra-ab-tah
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,B7,{d}utu-gin₇ ud-zu ga-ra-ab-sud-su₃-ud
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,B8,kur-kur-ra diŋir-bi za-e-me-en
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,B9,sa-ŋar-ra-am₃
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,B10,en nam tar-re-me-en {d}bur-{d}suen ŋiškim lugal mu-e-til₃-le-en
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,B11,ŋiš-gi₄-ŋal₂-bi-im
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,B12,niŋ₂-zid niŋ₂-gen₆-na pa bi₂-a-e₃ su kalam-ma mu-dug₃
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,B13,{d}bur-{d}suen ud šu₂-uš mu-zu he₂-em-hul₂
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,B14,saŋ-zu he₂-ni-in-il₂ en saŋ-bi-še₃ he₂-pad₃
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,B15,u₁₈-ru₁₂-bi-im
+c.2.5.7.2,An adab to Enlil for Būr-Suen (Būr-Suen B),,B16,a-da-ab {d}en-lil₂-la₂-kam

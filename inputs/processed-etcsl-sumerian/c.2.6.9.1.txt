@@ -1,0 +1,26 @@
+id_text,text_name,version,l_no,text
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,1,{d}en-lil₂ lugal an ki-a niŋ₂-dug₄-ga-ni zid inim-ma-ni
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,2,{d}ri-im-{d}suen sipad ud gi₄-a lugal-ŋu₁₀
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,3,niŋ₂-gu₇ zi til₃-la nibru{ki} du₃ in-na-an-šum₂-ma šudu₃ he₂-en-na-ša₄
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,4,{d}ezina₂ lu₂ sag₉ nam-lu₂-ulu₃ saŋ-e-eš he₂-en-na-rig₇
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,5,mu gi-bi ma-da-na-ka šag₄ hul₂-la ud he₂-en-na-ab-zal-zal-e
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,6,{d}ri-im-{d}suen lugal-ŋu₁₀ mu-da-an-GUD-GUD-ne
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,7,{ŋeš}gu-za nam-lugal-bi he₂-en-na-gen₆ bal-bi he₂-en-na-su₃-ud
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,8,ŋidru-ni sig igi-nim-ma he₂-en-e-dug₄
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,9,lugal gu₂-zal-a-bi he₂-en-na-ab-gam-e
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,10,nidba {d}ri-im-{d}suen lugal-ŋu₁₀ tur mah-e nibru{ki} e₂-kur
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,11,šu-si-bi-ta lal₃ i₃-nun-gin₇ al-biz-biz-ze₂-e ŋe₂₆-e dumu lu₂ ₁-gin₇-nam lal₃ i₃-nun-na
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,12,nidba lugal-ŋu₁₀ asila-ŋu₁₀-ta šu li-bi₂-ib-sub
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,13,dumu nu-u₈-gin₇ ₂ ŋanun kug-babbar ma-an-šum₂-mu-uš
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,14,dili-ŋu₁₀ al-DA
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,15,sukkal dumu lu₂-u₃ ŋe₂₆-e-me-en
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,16,da dumu lu₂-u₃-ne mu-da-la₂-e-en
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,17,igi bar mu-u₈-dug₄
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,18,dili-am₃ {d}ri-im-{d}suen lugal-ŋu₁₀ lal₃ i₃-nun-gin₇ šu sub saŋ
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,19,inim-ŋu₁₀ si bi₂-ib-sa₂ e₂ ad-da-ŋu₁₀ in-zu hu-mu-ak-e
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,20,₁ {d}en-lil₂ kur gal-a-ni mu-zu-gin₇ {d}ri-im-{d}suen kur gal-a-zu he₂-me
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,21,nam-til₃-zu šag₄ {d}nin-urta hul₂ he₂-em-dug₄ {d}nin-nibru{ki} nin uru₂ ki ŋa₂-ŋa₂
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,22,arhuš₂ šag₄-la₂ sug₄-gin₇-nam ba-niŋin₂-niŋin₂ nam-til₃-še₃ he₂-ri-ib-niŋin₂-niŋin₂
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,23,{d}nin-šubur an igi {d}nanna-ke₄ ba-dug₄-X
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,24,niŋ₂ sag₉-ga saŋ-zu-še₃ nam-til₃-zu he₂-eb-be₂
+c.2.6.9.1,A prayer to Enlil for Rīm-Sîn (Rīm-Sîn A),,25,igi-zu ib₂-ba-a-du₈ šag₄

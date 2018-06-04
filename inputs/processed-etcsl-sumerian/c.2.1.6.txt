@@ -1,0 +1,63 @@
+id_text,text_name,version,l_no,text
+c.2.1.6,The victory of Utu-heŋal,,1,{d}en-lil₂ gu-ti-um{ki} muš-ŋiri₂ hur-saŋ-ŋa₂
+c.2.1.6,The victory of Utu-heŋal,,2,lu₂ a₂ zig₃-ga diŋir-re-e-ne
+c.2.1.6,The victory of Utu-heŋal,,3,lu₂ nam-lugal ki-en-gi-ra₂ kur-še₃ ba-de₆-a
+c.2.1.6,The victory of Utu-heŋal,,4,ki-en-gi-ra₂ niŋ₂-a-erim₂ bi₂-in-si-a
+c.2.1.6,The victory of Utu-heŋal,,5,dam tuku dam-ni ba-an-da-kar-ra
+c.2.1.6,The victory of Utu-heŋal,,6,dumu tuku dumu-ni ba-an-da-kar-ra
+c.2.1.6,The victory of Utu-heŋal,,7,niŋ₂-a-erim₂ niŋ₂-a₂-zig₃ kalam-ma mi-ni-in-ŋar-ra
+c.2.1.6,The victory of Utu-heŋal,,8,{d}en-lil₂ lugal kur-kur-ra-ke₄
+c.2.1.6,The victory of Utu-heŋal,,9,mu-bi ha-lam-e-de₃
+c.2.1.6,The victory of Utu-heŋal,,10,{d}utu-he₂-ŋal₂ nitah kalag-ga lugal unug{ki}-ga
+c.2.1.6,The victory of Utu-heŋal,,11,lugal an ub-da ₄-ba lugal dug₄-ga-na nu-gi₄-gi₄-da
+c.2.1.6,The victory of Utu-heŋal,,12,{d}en-lil₂ lugal kur-kur-ra-ke₄ a₂-bi mu-da-an-aŋ₂
+c.2.1.6,The victory of Utu-heŋal,,13,{d}inana nin-a-ni mu-na-an-ŋen šudu₃ mu-na-ša₄
+c.2.1.6,The victory of Utu-heŋal,,14,nin-ŋu₁₀ piriŋ me₃ kur-kur-da du₇-du₇
+c.2.1.6,The victory of Utu-heŋal,,15,{d}en-lil₂-le nam-lugal ki-en-gi-ra šu-ba gi₄-gi₄-de₃
+c.2.1.6,The victory of Utu-heŋal,,16,a₂-bi mu-da-an-aŋ₂ a₂-tah-ŋu₁₀ he₂-me-en
+c.2.1.6,The victory of Utu-heŋal,,17,ugnim lu₂-kur₂-kur₂-ra ki he₂-X-us₂-us₂
+c.2.1.6,The victory of Utu-heŋal,,18,ti-ri₂-ga-a-an lugal gu-ti-um{ki}-ke₄
+c.2.1.6,The victory of Utu-heŋal,,19,ka-bi ba-ši-ba lu₂ nu-mu-ši-e₃
+c.2.1.6,The victory of Utu-heŋal,,20,{id₂}idigna gu₂ ₂-a-ba bi₂-in-tuš
+c.2.1.6,The victory of Utu-heŋal,,21,sig-še₃ ki-en-gi-ra₂ gana₂ bi₂-keše₂
+c.2.1.6,The victory of Utu-heŋal,,22,igi-nim-še₃ ŋiri₃ i₃-keše₂
+c.2.1.6,The victory of Utu-heŋal,,23,kaskal kalam-ma-ke₄ u₂ gid₂-da bi₂-in-mu₂
+c.2.1.6,The victory of Utu-heŋal,,24,lugal {d}en-lil₂-le a₂ šum₂-ma
+c.2.1.6,The victory of Utu-heŋal,,25,{d}inana-ke₄ šag₄-ge šag₄ kug-ge pad₃-da
+c.2.1.6,The victory of Utu-heŋal,,26,{d}utu-he₂-ŋal₂ nitah kalag-ga unug{ki}-ta mu-ši-e₃
+c.2.1.6,The victory of Utu-heŋal,,27,e₂ {d}iškur-ka ŋiš bi₂-du₃
+c.2.1.6,The victory of Utu-heŋal,,28,dumu iri-na-ke₄-ne gu₃ mu-ne-de₂-e
+c.2.1.6,The victory of Utu-heŋal,,29,gu-ti-um{ki} {d}en-lil₂-le ma-an-šum₂ nin-ŋu₁₀ {d}inana a₂-tah-ŋu₁₀-um
+c.2.1.6,The victory of Utu-heŋal,,30,{d}dumu-zid-ama-ušumgal-an-na-ke₄ nam-ŋu₁₀ bi₂-dug₄
+c.2.1.6,The victory of Utu-heŋal,,31,{d}gilgameš₃ dumu {d}nin-sumun₂-na-ke₄ maškim-še₃ ma-an-šum₂
+c.2.1.6,The victory of Utu-heŋal,,32,dumu unug{ki}-ga dumu kul-aba₄{ki}-ka šag₄ hul₂-la ba-an-ŋar
+c.2.1.6,The victory of Utu-heŋal,,33,iri-ni lu₂ dili-gin₇ eŋer-ra-ni ba-ab-us₂
+c.2.1.6,The victory of Utu-heŋal,,34,zu₂ keše₂ igi bar-ra si bi₂-sa₂
+c.2.1.6,The victory of Utu-heŋal,,35,e₂ {d}iškur-ka zig₃-ga-ni
+c.2.1.6,The victory of Utu-heŋal,,36,ud ₄-kam-ma naŋ-su {id₂}EN-URU₃-ŊAL₂-ka ŋiš bi₂-du₃
+c.2.1.6,The victory of Utu-heŋal,,37,ud ₅-kam-ma barag i₃-li₂-tab-be₄-e-ka ŋiš bi₂-du₃
+c.2.1.6,The victory of Utu-heŋal,,38,ur-{d}nin-a-zu na-bi-{d}en-lil₂ šagina ti-ri₂-ga-a-an
+c.2.1.6,The victory of Utu-heŋal,,39,ki-en-gi-še₃ kiŋ₂-gi₄-a in-gi₄-gi₄-eš₂-a in-dab₅-dab₅ šu-ba ŋiš i₃-ŋar
+c.2.1.6,The victory of Utu-heŋal,,40,barag i₃-li₂-tab-be₄-e-ka zig₃-ga-ni
+c.2.1.6,The victory of Utu-heŋal,,41,ud ₆-kam-ma karkara{ki}-ka ŋiš bi₂-du₃
+c.2.1.6,The victory of Utu-heŋal,,42,{d}iškur-ra mu-na-an-ŋen šudu₃ mu-na-ša₄
+c.2.1.6,The victory of Utu-heŋal,,43,{d}iškur {ŋeš}tukul {d}en-lil₂-le ma-an-šum₂ a₂-tah-ŋu₁₀ he₂-me-en
+c.2.1.6,The victory of Utu-heŋal,,44,šag₄ ŋi₆-ba-ka im-ma-an-zig₃
+c.2.1.6,The victory of Utu-heŋal,,45,igi-nim adab{ki}
+c.2.1.6,The victory of Utu-heŋal,,46,{d}utu e₃-X mu-na-an-ŋen šudu₃ mu-na-ša₄
+c.2.1.6,The victory of Utu-heŋal,,47,{d}utu gu-ti-um{ki} {d}en-lil₂-le ma-an-šum₂ a₂-tah-ŋu₁₀ he₂-me-en
+c.2.1.6,The victory of Utu-heŋal,,48,ki-bi bar gu-ti-um{ki} ŋiš mu-na-bar
+c.2.1.6,The victory of Utu-heŋal,,49,erin₂ mu-na-lah₅
+c.2.1.6,The victory of Utu-heŋal,,50,{d}utu-he₂-ŋal₂ nitah kalag-ga šagina-bi aga₃-kar₂ im-mi-sig₁₀
+c.2.1.6,The victory of Utu-heŋal,,51,ud-ba ti-ri₂-ga-a-an lugal gu-ti-um{ki} dili-a-ni ŋiri₃ ba-da-an-kar
+c.2.1.6,The victory of Utu-heŋal,,52,ki zid-ni ba-da-an-kar-ra dab₄-ru-um{ki}-ma ba-an-sag₉
+c.2.1.6,The victory of Utu-heŋal,,53,lu₂ dab₄-ru-um{ki}-ma-ke₄ {d}utu-he₂-ŋal₂
+c.2.1.6,The victory of Utu-heŋal,,54,bar lugal {d}en-lil₂-le a₂ šum₂-ma i₃-me-a i₃-zu-a-ke₄-eš
+c.2.1.6,The victory of Utu-heŋal,,55,ti-ri₂-ga-a-an-ra šu nu-ni-ba
+c.2.1.6,The victory of Utu-heŋal,,56,lu₂-kiŋ₂-gi₄-a {d}utu-he₂-ŋal₂ ti-ri₂-ga-a-an u₃ dam dumu-ni dab₄-ru-um{ki}-ma mu-un-dab₅
+c.2.1.6,The victory of Utu-heŋal,,57,šu-na ŋiš bi₂-ŋar igi-na tug₂ bi₂-si
+c.2.1.6,The victory of Utu-heŋal,,58,{d}utu-he₂-ŋal₂ igi {d}utu-še₃ ŋiri₃-ni-še₃ mu-nu₂ gu₂-na ŋiri₃ bi₂-gub
+c.2.1.6,The victory of Utu-heŋal,,59,gu-ti-um{ki} muš-ŋiri₂ hur-saŋ-ŋa₂
+c.2.1.6,The victory of Utu-heŋal,,60,ki-in-dar-a bi₂-naŋ ŋiš
+c.2.1.6,The victory of Utu-heŋal,,61,ma₂-gid₂ zag-ba im-ta-ŋar
+c.2.1.6,The victory of Utu-heŋal,,62,nam-lugal ki-en-gi-ra šu-ba im-mi-gi₄

@@ -1,0 +1,80 @@
+id_text,text_name,version,l_no,text
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,1,{d}i-din-{d}da-gan an-ne₂ ki mah-a-ni-a nam gal mu-ri-in-tar
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,2,aga zid-de₃ dalla mu-ra-ni-in-e₃
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,3,nam-sipad kalam-ma-še₃ mu-un-il₂-en
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,4,kur ŋiri₃-zu-še₃ mu-un-ŋar
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,5,{d}en-lil₂-le igi zid mu-e-ši-in-bar
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,6,{d}i-din-{d}da-gan gu₃ zid mu-ra-an-de₂
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,7,us₂-saŋ ki-en-gi-re gen₆-ne₂-de₃
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,8,uŋ₃ us₂-a sig₁₀-ge-de₃
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,9,ki-en-gi ki-uri an-dul₃ daŋal-la-za ni₂ dub₂-bu-de₃
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,10,uŋ₃-e u₂ nir-ŋal₂ gu₇-u₃-de₃ a dug₃ na₈-na₈-de₃
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,11,{d}en-lil₂-le a₂-bi mu-e-da-an-aŋ₂
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,12,{d}i-din-{d}da-gan sipad šag₄-ga-na-me-en
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,13,gu₃ zid de₂-a {d}en-lil₂-la₂-me-en
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,14,{d}en-ki-ke₄ ŋeštug₂ daŋal niŋ₂-nam-ma zu-zu
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,15,kiŋ₂ igi-ŋal₂ zi ka piriŋ-ta ed₂-de₃
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,16,{d}i-din-{d}da-gan za-ra mu-ra-an-de₆
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,17,kur-kur-re me-teš₂ he₂-i-i
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,18,dumu tud-da {d}da-gan-na en il₂ uŋ₃ daŋal-le
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,19,{d}i-din-{d}da-gan iri-zu-še₃ u₆ dug₃-ge-eš he₂-i
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,20,i₃ li niŋ₂ šag₄-ga nu-da₁₃-da₁₃
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,21,{d}en-lil₂ he₂-da-hul₂
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,22,{d}utu-gin₇ ud zid e₃-a-zu-še₃ igi-bi he₂-em-ši-ŋal₂
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,23,kur-kur-re an-dul₃ daŋal-la-zu-še₃ ni₂ im-ši-dub₂-be₂
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,24,har-ra-an kaskal-la si bi₂-sa₂
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,25,su kalam-ma mu-e-dug₃
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,26,niŋ₂-si-sa₂ ka-ga₁₄ mu-e-ni-ŋar
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,27,niŋ₂-du₇ pa bi₂-i-e₃
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,28,in mu-e-dub-dub ki mu-e-sur-sur
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,29,ki-en-gi ki-uri gu₂ bi₂-i-zig₃
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,30,šu-luh diŋir-re-e-ne si bi₂-i-sa₂
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,31,{d}i-din-{d}da-gan ki-bi-še₃ gi₄-gi₄-en
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,32,niŋ₂-dug₄-ga-zu X-im-ŋar
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,33,inim-zu an kug-ge us₂-sa
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,34,ka-ta e₃-a-zu an-ne₂ dul-lu
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,35,dug₄-ga {d}en-lil₂-la₂-ta
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,36,igi bar-ra-zu lu₂ mu-un-til₃-le
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,37,ka ba-zu lu₂ mu-un-silim-e
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,38,dug₄-ga-a-zu {d}en-lil₂ mu-ši-hul₂
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,39,šag₄-ge de₆-a-zu {d}nin-lil₂-le he₂-am₃-bi im-me
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,40,sipad {d}en-lil₂-ra ŋiškim til₃-me-en
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,41,{d}i-din-{d}da-gan a-ba za-e-gin₇ i₃-dim₂
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,42,igi-bi he₂-em-ši-ŋal₂
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,43,e₂-kur-še₃ za-e lu₂-bi he₂-me-en
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,44,nidba-zu e₂ {d}en-lil₂-la₂-kam muš₃ nam-ba-an-tum₂-mu
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,45,šeg₁₂ e₂-kur-ra-ke₄ sag₉-ga-zu {d}en-lil₂ {d}nin-lil₂-ra hu-mu-un-ne-eb₂-be₂
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,46,inim sag₉-ga an {d}en-lil₂-la₂-ta {d}i-din-{d}da-gan a₂ nun he₂-mu-e-te-ŋal₂
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,47,mu mah-zu kalam-ma i₃-ŋal₂
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,48,an-zag-še₃ mu-zu pa bi₂-in-e₃
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,49,kalag-ga nam-ur-saŋ a₂ me₃ šen-šen gub-bu
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,50,ki-bal-da du₇-du₇ mu-e-DU
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,51,šag₄-ta {d}da-gan-na nam-še₃ mu-ri-in-tar
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,52,za₃-mi₂-zu ka-ga₁₄ i-ni-in-ŋal₂
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,53,nam-lugal-zu uŋ₃-e ba-sag₉
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,54,nam-sipad-zu šag₄-ge um-ma-dug₃
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,55,uŋ₃ e-da-lu uŋ₃ e-da-daŋal
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,56,kur-kur u₂-sal-la mu-e-ri-nu₂
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,57,uŋ₃-e he₂-ŋal₂-la ud mu-ri-ib₂-zal-e
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,58,saŋ gig₂-ga a-a-zu-gin₇
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,59,{d}i-din-{d}da-gan igi-bi mu-e-ši-ŋal₂
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,60,{d}en-lil₂ en nam tar-tar-re-de₃
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,61,{d}i-din-{d}da-gan ud-zu he₂-eb₂-su₃-ud-de₃
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,62,nam-kal-la niŋ₂-nam-e zu-a
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,63,igi dug₃ hu-mu-ri-in-du₈
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,64,ŋeštug₂ dirig dub {d}nisaba-ke₄ šum₂-ma-zu
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,65,e₂-dub-ba-a im-ma muš₃ nam-ba-an-tum₂-mu
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,66,e₂-dub-ba-a-ba eš₃ niŋ₂ u₃-tud-gin₇ ki nam-ba-silig-ge
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,67,dub-sar-tur šu-ni ib₂-ši-in-tum₄ im bi₂-ib₂-sar-a
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,68,{d}nisaba nin mul-a ŋeštug₂ hu-mu-un-na-šum₂
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,69,šu hu-mu-un-bad
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,70,ki nam-dub-sar-ra-ka ud-gin₇ he₂-en-na-e₃
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,71,{d}i-din-{d}da-gan ad-da-zu {d}šu-i₃-li₂-šu lugal kalam-ma-ke₄
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,72,ki-en-gi ki-uri suhuš-bi mu-ra-an-ge-en
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,73,dug₄-dug₄-ga an {d}en-lil₂-ta ba-e-dirig
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,74,gu₂-erim₂-ŋal₂ sa₂ ba-e-dug₄
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,75,{d}i-din-{d}da-gan lugal kalag-ga lugal i₃-si-in{ki}-na
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,76,lugal ki-en-gi₄ ki-uri niŋ₂-nam-ma ŋeštug₂ eŋer-ra-bi
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,77,igi-še₃ mu-ri-DU
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,78,ibila kalag-ga-me-en₃ nir mu-e-ŋal₂
+c.2.5.3.2,A praise poem of Iddin-Dagan (Iddin-Dagan B),,79,{d}i-din-{d}da-gan nam-nun-na gu₂ an-še₃ mi-ni-in-zig₃

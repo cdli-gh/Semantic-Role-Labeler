@@ -1,0 +1,74 @@
+id_text,text_name,version,l_no,text
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,1,{d}en-lil₂ mah ar₂
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,2,en nam-nun gal-la-ni
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,3,{d}nu-nam-nir an ki lugal-bi
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,4,uŋ₃-ŋa₂ igi mi-ni-in-il₂ sipad zid ur-{d}namma
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,5,kur gal {d}en-lil₂-le uŋ₃ šar₂-ra-ni-a im-ma-ni-in-pad₃
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,6,sipad he₂-a {d}nu-nam-nir-ra-ka ni₂ huš mu-un-da-ri
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,7,šeg₁₂ e₂-kur-ra-ke₄ me am₃-hur
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,8,kur gal {d}en-lil₂-le e₂-kur eš₃ mah-a-na ud-gin₇ kar₂-kar₂-da
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,9,šag₄ inim-ŋal₂ kug zid-de₃ si-a-ni nam-de₆
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,10,sipad {d}ur-{d}namma-da e₂-kur-ra saŋ an-še₃ il₂-i-de₃ a₂-bi mu-u₈-da-aŋ₂
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,11,lugal-e kalam-ma a₂ he₂-ni-in-mah uŋ₃-ŋa₂ saŋ he₂-ni-in-il₂
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,12,sipad zid ur-{d}namma {d}nu-nam-nir-da ud su₃-ra₂-še₃ nir-ŋal₂-la
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,13,di zu en ŋeštug₂ daŋal-la-kam {ŋeš}u₃-šub-ba si am₃-mi-in-sa₂
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,14,{d}en-lil₂-le sipad {d}ur-{d}namma-ra ki-bal erim₂-ŋal₂-la-ni si mu-na-an-sa₂
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,15,ki-en-gi-re ud nam-he₂-a ak
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,16,asila gu₂ mu-un-di-ni-ib-mar-re
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,17,uš₈ mu-un-dug₃-eš temen kug mi-ni-in-si-eš
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,18,enkum ninkum-e me-teš₂ am₃-i-i-ne
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,19,nam-šub galam-ma-na {d}en-ki-ke₄ e₂-e ul ba-ni-in-sig₇-ga
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,20,sipad {d}ur-{d}namma-ke₄ e₂-kur mah dur-an-ki-a-ka an-še₃ mi-ni-in-mu₂
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,21,u₆ di-bi-še₃ uŋ₃ šar₂-ra-ba ši-im-ma-gub
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,22,kan₄ mah kan₄ gal kan₄ silim-ma hur-saŋ-galam-ma kan₄ še nu-kud-da
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,23,su₃-ra₂-aŋ₂ kug-me-a sig₇-igi-ba še-er-ka-an mu-ni-in-dug₄
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,24,anzud₂{mušen}-de₃ dub₃ am₃-ma-ni-in-bad
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,25,hu-ri₂-in umbin-ba lu₂-erim₂ dili mu-un-dab₅
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,26,{ŋeš}ig-bi mah-am₃ ul-la mi-ni-in-si
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,27,e₂ mah-am₃ su zig₃ am₃-da-ŋal₂
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,28,daŋal am₃-tag ni₂-bi gal ši-ri
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,29,hur-saŋ-galam-ma gi-gun₄-na ki-tuš kug kur gal-la-ra
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,30,u₁₈-ru mah-gin₇ šag₄-bi-a ki am₃-ma-ni-in-us₂
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,31,ŋa₂-ŋiš-šu₂-a e₂-gal mah-di gal ku₅-ru-da-ni
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,32,ama gal {d}nin-lil₂-ra ul mu-na-ni-in-de₆
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,33,{d}en-lil₂ {d}nin-lil₂-bi dug₃ mi-ni-in-ŋal₂-le-eš
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,34,unu₂ gal-ba šul zid mu pad₃-da {d}nu-nam-nir-ra-ka
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,35,ninda mah am₃-mi-ni-dug₃ e₂-kur hul₂-la-am₃
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,36,igi zid mu-un-ši-in-bar-re-eš sipad {d}ur-{d}namma-ra
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,37,kur gal-e sipad {d}ur-{d}namma-ra nam gal ud su₃-ra₂-še₃ mu-ni-in-tar
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,38,saŋ gig₂-ga-na a₂ mi-ni-in-mah
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,39,sa-gid₂-da-am₃
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,40,{d}nu-nam-nir dug₄-ga eš-bar zid niŋ₂ nu-kur₂-ru ŋe₂₆-me-en
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,41,e₂-kur mah-ŋu₁₀ dalla mu-e-a-e₃
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,42,suh₁₀ kar₂-kar₂-ka-da an-še₃ gu₂ he₂-ni-in-us₂
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,43,šul zid kalam-ma dalla hu-mu-ni-in-e₃
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,44,{d}ur-{d}namma en uru₁₆ nam-lugal-la gu₂ an-ta-bi he₂-em
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,45,mu-zu an-zag-še₃ kur-ur₂-še₃ he₂-ŋal₂
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,46,kur gal a-a {d}en-lil₂ dug₄-ga eš-bar zid niŋ₂ nu-kur₂-ru ŋe₂₆-me-en
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,47,e₂-kur mah-ŋu₁₀ dalla mu-e-a-e₃
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,48,suh₁₀ kar₂-kar₂-ka-da an-še₃ gu₂ he₂-ni-in-us₂
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,49,šul zid kalam-ma dalla hu-mu-ni-in-e₃
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,50,{d}ur-{d}namma en uru₁₆ nam-lugal-la gu₂ an-ta-bi he₂-em
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,51,mu-zu an-zag-še₃ kur-ur₂-še₃ he₂-ŋal₂
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,52,lugal-ŋu₁₀ udug₂ mah kur erim₂-ŋal₂-la saŋ sahar-re-eš dub-bu ki-bal-a ša₅-ša₅
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,53,sipad {d}ur-{d}namma-ke₄ udug₂ mah erim₂-ŋal₂-la saŋ sahar-re-eš dub-bu ki-bal-a ša₅-ša₅
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,54,e-ne-er mu-na-an-šum₂ en {d}nu-nam-nir-re
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,55,kur am₃-tu₁₁-be₂ ŋiri₃ saga₁₁ am₃-me
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,56,sipad {d}ur-{d}namma-ke₄ mu-na-an-šum₂ en {d}nu-nam-nir-re
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,57,kur am₃-tu₁₁-be₂ ŋiri₃ saga₁₁ am₃-me
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,58,hul-ŋal₂-la uru₂ am₃-mi-in-gul-gul
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,59,nam-gu₂ mah-am₃ lil₂ am₃-mi-ni-in-su-ub
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,60,sipad {d}ur-{d}namma-ke₄ hul-ŋal₂-la uru₂ am₃-mi-in-gul-gul
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,61,nam-gu₂ mah-am₃ lil₂ am₃-mi-ni-in-su-ub
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,62,ar₂-a-ni huš-am₃ e₂ ki-bal
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,63,u₁₈-lu-ni lu₂ erim₂-ŋal₂ mu-ni-ib₂-DU
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,64,sipad {d}ur-{d}namma ar₂-a-ni huš-am₃ e₂ ki-bal
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,65,u₁₈-lu-ni lu₂ erim₂-ŋal₂ mu-ni-ib₂-DU
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,66,barag nam-lugal-la-ke₄ ki-a mu-ni-in-us₂
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,67,urim₂{ki}-ma pa e₃ hu-mu-ni-ib₂-ak
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,68,sipad {d}ur-{d}namma-ke₄ ni₂ bi₂-in-gur₃-ru saŋ he₂-ni-in-il₂ lugal kalam-ma-kam
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,69,ki lugal-a-ni {d}en-lil₂-la₂-ka saŋ-e-eš he₂-ni-rig₇
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,70,nam am₃-tar-re šu zid am₃-mi-in-ŋar
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,71,giri₁₇-zal urim₂{ki}-ma {d}ur-{d}namma nam-he₂-a
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,72,sa-ŋar-ra-am₃
+c.2.4.1.2,A tigi to Enlil for Ur-Namma (Ur-Namma B),,73,tigi {d}en-lil₂-la₂-kam

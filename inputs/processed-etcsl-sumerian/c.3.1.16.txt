@@ -1,0 +1,46 @@
+id_text,text_name,version,l_no,text
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,1,{m}šar-ru-um-ba-ni u₃-na-a-dug₄
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,2,{d}šu-{d}suen lugal-zu na-ab-be₂-a
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,3,lu₂-kiŋ₂-gi₄-a mu-e-ši-gi-a-ŋu₁₀ dirig šag₄-še₃
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,4,ud e₃ a₂ aŋ₂-ŋa₂-ŋu₁₀ ŋa₂-a-gin₇-nam li-bi₂-ib-dirig-ge
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,5,ud ed₂-da-zu-ne igi
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,6,ŋe₂₆-e a-na ma-ab-be₂-en-na-X
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,7,šag₄ ma-da-ka ŋen-a-zu-ne
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,8,ma-da a-ba e-te ŋi₆ sa₂
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,9,lu₂ gal-gal-be₂-e-ne inim
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,10,tukum-bi niŋ₂ te-na-ŋa₂
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,11,
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,12,lu₂ gal-gal-be₂-e-ne šubtum₆ he₂-mu-e-da-sug₂-X
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,13,ub-ta-ri
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,14,e-ne-ne-gin₇-nam ma-da
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,15,tukum-bi u₃ lu₂-ŋarza₂-be₂-e-ne
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,16,dib₂-be₂-de₃-aš-am₃
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,17,buru₃-da-ne-ne nu-e-da-sig₁₀-ge₅
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,18,lu₂-kur₂-ra ŋar-ŋar-bi
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,19,iri-bi zag-bi u₃-ne-eš₂
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,20,en-na ib₂-ta-ab-ed₃-de₃ na-ab-ta-bal-e-ne
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,21,nitah-bi u₃-gaz
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,22,munus-bi iri ma-da-ka-zu dib₂-ba-am₃
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,23,a₂-še₃ mu-e-da-aŋ₂
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,24,a-na-aš-am₃ ŋa₂-a-gin₇-nam nu-ak
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,25,lu₂ gaz-de₃ igi hul-hul-le-de₃
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,26,iri gul-gul-de₃ šu-zu-še₃ nu-ŋar-ra
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,27,nam-nir-ŋal₂ mu-ra-šum₂
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,28,ud bad₃ igi {d}šul-gi ad-da-ŋu₁₀ mu-un-du₃-a
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,29,za-e-en-ze₂-en in-nu
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,30,{ŋeš}gu-za-ŋa₂ {ŋeš}gu-za {d}šul-gi-ra-ka in-nu
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,31,{m}lu₂-{d}en-ki ensi₂ ma-da zi-mu-dar{ki}-še₃
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,32,he₂-mu-e-ši-du
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,33,₆₀ ugnim-ma-ka he₂-tum₂
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,34,he₂-mi-ib-gi₄-gi₄
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,35,X-ti pisaŋ-dub-ba bi₂-tur-e a₂ aŋ₂-ta
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,36,mu-na-an-šum₂-ma-ta bad₃-bi he₂-du₃-a
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,37,u₃ za-e erin₂ šu-zu-ta i₃-ŋal₂-la
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,38,hi-ri-tum₂ ba-al-la₂
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,39,ma-da dim₂-ma-bi nu-kur₂-ru-de₃
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,40,nam-ba-šum₂-mu-un-ze₂-en
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,41,en-na ma-da nu-um-gen₇-na-ta
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,42,erin₂ nam-mu-un-du₈-re-ze₂-en
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,43,lu₂-kiŋ₂-gi₄-a-e-ne a₂ aŋ₂-ŋa₂ ma-da
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,44,{d}utu ed₂-da-bi ha-ma-tum₃
+c.3.1.16,Letter from Šu-Suen to Šarrum-bāni about digging a trench,,45,a-ma-ru-kam

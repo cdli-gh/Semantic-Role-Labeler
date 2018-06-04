@@ -1,0 +1,39 @@
+id_text,text_name,version,l_no,text
+c.6.1.17,Proverbs: collection 17,,A1,
+c.6.1.17,Proverbs: collection 17,,A2,ŋal₂
+c.6.1.17,Proverbs: collection 17,,A3,ŋal₂
+c.6.1.17,Proverbs: collection 17,,A4,zu
+c.6.1.17,Proverbs: collection 17,,A5,
+c.6.1.17,Proverbs: collection 17,,B1,še
+c.6.1.17,Proverbs: collection 17,,B2,ki aŋ₂-ŋa₂
+c.6.1.17,Proverbs: collection 17,,B3,dug₃ lul
+c.6.1.17,Proverbs: collection 17,,B4,sukud-de₃ an-na šu nu-um-da-la₂
+c.6.1.17,Proverbs: collection 17,,B5,daŋal-e ki-a igi nu-um-ma-an-il₂-il₂
+c.6.1.17,Proverbs: collection 17,,B6,kalag-ga ki-nu₂ ni₂ nu-mu-un-gid₂-de₃
+c.6.1.17,Proverbs: collection 17,,B7,za-e-me-en ud-gin₇ dug₄-dug₄-ga
+c.6.1.17,Proverbs: collection 17,,B8,piriŋ-gin₇ ne he₂-gub
+c.6.1.17,Proverbs: collection 17,,B9,{ŋeš}kiri₆ a he₂-eb-de₆
+c.6.1.17,Proverbs: collection 17,,B10,lu₂ nam-bi₂-ib-til-e
+c.6.1.17,Proverbs: collection 17,,B11,šul diŋir-ŋu₁₀ ŋiri₃ {d}lamma-ŋu₁₀
+c.6.1.17,Proverbs: collection 17,,B12,nam-ŋuruš anše kar-ra-gin₇
+c.6.1.17,Proverbs: collection 17,,B13,haš₂-ŋa₂ ba-an-taka₄
+c.6.1.17,Proverbs: collection 17,,B14,hur-saŋ gig₂-ŋu₁₀ im-babbar ba-an-mu₂
+c.6.1.17,Proverbs: collection 17,,B15,ama-ŋu₁₀ tir-ta ŋiš dab₅-ba šu dab₅ mu-da-an-šum₂
+c.6.1.17,Proverbs: collection 17,,B16,{d}nin-kilim i₃ niŋ₂ hab₂-ba gu₇-gu₇-ŋu₁₀
+c.6.1.17,Proverbs: collection 17,,B17,dug i₃-nun-na-še₃ gu₂ nu-mu-un-ši-la₂-e
+c.6.1.17,Proverbs: collection 17,,B18,ukur₃-re dumu-na tibir₂ ₁-am₃ šu nu-um-ma-ni-dug₄-ge
+c.6.1.17,Proverbs: collection 17,,B19,gi₁₆-sa da-ri₂-še₃ mu-un-na-ni-ak-e
+c.6.1.17,Proverbs: collection 17,,B20,ukur₃-re al-ŋal₂-la tu₇ DAG.KISIM₅×X-ra bi₂-in-šu₂
+c.6.1.17,Proverbs: collection 17,,B21,ukur₃ tu₇-a igi bar-ra
+c.6.1.17,Proverbs: collection 17,,B22,ŋiš-erin₂ sa ak-am₃ {ŋeš}pu₂ niŋ₂-lul ak-a
+c.6.1.17,Proverbs: collection 17,,B23,dam-gar₃-ra gu₅-li-ni-še₃ lu₂ ši-in-ga-an-tuku-tuku
+c.6.1.17,Proverbs: collection 17,,B24,dam-gar₃-ra kug-babbar ta ba-an-tur-re-en
+c.6.1.17,Proverbs: collection 17,,B25,u₃ še ta ba-an-tur-re-en
+c.6.1.17,Proverbs: collection 17,,B26,e₂-gal
+c.6.1.17,Proverbs: collection 17,,B27,ud ₁ ama tud-da-am₃
+c.6.1.17,Proverbs: collection 17,,B28,ud ₁ ama a-nir-ra-am₃
+c.6.1.17,Proverbs: collection 17,,B29,
+c.6.1.17,Proverbs: collection 17,,C1,X-ak-am₃
+c.6.1.17,Proverbs: collection 17,,C2,
+c.6.1.17,Proverbs: collection 17,,C3,
+c.6.1.17,Proverbs: collection 17,,C4,geme₂

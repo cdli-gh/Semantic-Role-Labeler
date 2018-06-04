@@ -1,0 +1,31 @@
+id_text,text_name,version,l_no,text
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,1,mu-ti-in šag₄-ŋa₂ mu-lu ki-ig-ga aŋ₂-ŋu₁₀
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,2,hi-li-zu aŋ₂ ze₂-ba-am₃ lal₃-am₃ ku₇-ku₇-da
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,3,gi-ru šag₄-ŋa₂ mu-lu ki-ig-ga aŋ₂-ŋu₁₀
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,4,hi-li-zu aŋ₂ ze₂-ba-am₃ lal₃-am₃ ku₇-ku₇-da
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,5,en-dab₅-en ni₂-ŋa₂ du₅-mu-u₈-ši-ŋen
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,6,mu-ti-in ga-ba-e-da-kar ki mu-nu₂-da-še₃
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,7,en-dab₅-en ni₂-ŋa₂ du₅-mu-u₈-ši-ŋen
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,8,gi-ru ga-ba-e-da-kar ki mu-nu₂-da-še₃
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,9,mu-ti-in aŋ₂ ze₂-ze₂-ba du₅-mu-u₈-ak
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,10,ze₂-ba kal-la-ŋu₁₀ lal₃-e da-aŋ₂-e-ga
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,11,e₂ ki-nu₂-a lal₃ hab₂ dug₄-ga-ba
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,12,hi-li aŋ₂ ze₂-ba-zu ga-ba-hul₂-hul₂-le-en-de₃-en
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,13,gi-ru aŋ₂ ze₂-ze₂-ba du₅-mu-u₈-ak
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,14,ze₂-ba kal-la-ŋu₁₀ lal₃-e da-aŋ₂-e-ga
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,15,mu-ti-in ma-ra hi-li mu-e-kar
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,16,ama-ŋu₁₀-ra dug₄-ga-na-ab ni₂ mu-ra-ab-ze₂-eŋ₃-e
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,17,ad-da-ŋu₁₀-ur₂ aŋ₂ ba-ba mu-un-ba
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,18,ur₅-za ki ur₅ sag₉-ge-bi mu-zu
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,19,mu-ti-in ud te-en-še₃ e₂-me-a nu₂-a
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,20,šag₄-za ki šag₄ hul₂-bi mu-zu
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,21,gi-ru ud te-en-še₃ e₂-me-a nu₂-a
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,22,za-e ma-a-ra ki mu-e-a-aŋ₂-a-ta
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,23,gi-ru ma-a-ra aŋ₂ ze₂-ba-zu nu-uš-mu-e-a-ak-e
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,24,u₃-mu-un diŋir-ŋu₁₀ u₃-mu-un {d}lamma-ŋu₁₀
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,25,{d}šu-{d}suen šag₄ {d}mu-ul-lil₂-la₂-ke₄ ba-ze₂-be₂-en-na-ŋu₁₀
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,26,ki ze₂-ba-zu nu-uš-mu-e-a-ak-a
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,27,ki lal₃-gin₇ ze₂-ba-zu šu nu-uš-mu-e-tag-ge
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,28,tug₂ {ŋeš}ba-an-na-gin₇ šu de₆-ma-ni
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,29,tug₂ {ŋeš}ba-an sum-ki-na-gin₇ šu gun₃-gun₃-ma-ni
+c.2.4.4.2,A balbale to Inana for Šu-Suen (Šu-Suen B),,30,bal-bal-e {d}inana-kam

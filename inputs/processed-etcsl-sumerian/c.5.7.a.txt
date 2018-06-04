@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+c.5.7.a,Public announcement of the loss of a seal,,1,kišib mu sar ur-DUN dam-gar₃-ra u₂-gu ba-an-de₂
+c.5.7.a,Public announcement of the loss of a seal,,2,inim pu-uh₂-ru-um-ma-ta
+c.5.7.a,Public announcement of the loss of a seal,,3,niŋir-e sila-sila-a si gu₃ ba-ni-in-ra
+c.5.7.a,Public announcement of the loss of a seal,,4,lu₂ na-me niŋ₂ na-me ugu-na li-bi₂-in-tuku
+c.5.7.a,Public announcement of the loss of a seal,,5,{m}lu₂-{d}suen-na šagina
+c.5.7.a,Public announcement of the loss of a seal,,6,{m}lugal-me-lem₄ ensi₂ saŋŋa
+c.5.7.a,Public announcement of the loss of a seal,,6A,ba-an-me-eš kišib-ba-ne-ne in-X-eš
+c.5.7.a,Public announcement of the loss of a seal,,7,{m}zu-zu um-mi-a
+c.5.7.a,Public announcement of the loss of a seal,,8,{m}si-du₃ dub-sar
+c.5.7.a,Public announcement of the loss of a seal,,9,{m}al-lub aŋrig
+c.5.7.a,Public announcement of the loss of a seal,,10,{m}ba-an-sag₉-ge-en gala
+c.5.7.a,Public announcement of the loss of a seal,,11,{m}ul-li₂-a ha-za-nu-um
+c.5.7.a,Public announcement of the loss of a seal,,12,niŋir lu₂-ki-inim-ma-me

@@ -1,0 +1,37 @@
+id_text,text_name,version,l_no,text
+c.6.1.25,Proverbs: collection 25,,1,ud šu₂-uš-ru im nu-šeŋ₃-ŋe₂₆
+c.6.1.25,Proverbs: collection 25,,2,im al-šeŋ₃-ŋe₂₆ {kuš}gur₂₁-ra nu-du₈-e
+c.6.1.25,Proverbs: collection 25,,3,{id₂}idigna a-u₅-ba ŋal₂-la a-gar₃-ra nu-si-sa₂
+c.6.1.25,Proverbs: collection 25,,4,peš₁₀ im al-šeŋ₃-ŋe₂₆ bar-rim₄-ma im nu-ba-e
+c.6.1.25,Proverbs: collection 25,,5,en-e ku₆ an-gu₇ ga-raš{sar} mu-un-gu₇
+c.6.1.25,Proverbs: collection 25,,6,za₃-hi-li-a{sar} mu-un-da-an-gig
+c.6.1.25,Proverbs: collection 25,,7,en-e unug{ki}-ga nam ba-e-kud-de₃
+c.6.1.25,Proverbs: collection 25,,8,e-ne-ra nin e₂-an-na-ke₄ nam mu-un-na-kud-de₃
+c.6.1.25,Proverbs: collection 25,,9,na-an-ni libir-ra mu-un-kal-la
+c.6.1.25,Proverbs: collection 25,,10,e₂ {d}en-lil₂-la₂ i-du₃ nu-til₃
+c.6.1.25,Proverbs: collection 25,,11,bad₃ nibru{ki} i-du₃ im-mi-in-DU
+c.6.1.25,Proverbs: collection 25,,12,e₂-an-na i-du₃ mu-un-šub im-ma-an-DU
+c.6.1.25,Proverbs: collection 25,,13,si-mu-ru{ki} i₃-dab₅ gu₂-bi nu-mu-un-da-gid₂-X
+c.6.1.25,Proverbs: collection 25,,14,nam-lugal-la kalag-ga nu-mu-un-na-an-šum₂
+c.6.1.25,Proverbs: collection 25,,15,ur₅ na-an-ni šag₄ sig-ga kur-še₃ la-ba-an-de₆
+c.6.1.25,Proverbs: collection 25,,16,ud nu-dug₃-ga šid-bi nu-til₃
+c.6.1.25,Proverbs: collection 25,,17,nam-til₃ nam-uš₂-a dirig
+c.6.1.25,Proverbs: collection 25,,18,
+c.6.1.25,Proverbs: collection 25,,19,
+c.6.1.25,Proverbs: collection 25,,20,
+c.6.1.25,Proverbs: collection 25,,21,iri{ki} nam-uš₂ ŋal₂-la-še₃
+c.6.1.25,Proverbs: collection 25,,22,anše-bal-a-gin₇ he₂-ni-ib₂-sar-re-X
+c.6.1.25,Proverbs: collection 25,,23,e₂ lu₂ zid-da mu-un-du₃-a
+c.6.1.25,Proverbs: collection 25,,24,lu₂-lul-la mu-un-gul
+c.6.1.25,Proverbs: collection 25,,25,e₂-gal ki-ma-an-ze-er ma-an-ze₂-ra
+c.6.1.25,Proverbs: collection 25,,26,e₂-še₃ ga-ŋen-na ŋiri₃-zu en-nu-uŋ₃ ak-ab
+c.6.1.25,Proverbs: collection 25,,27,e₂-gal ni₂-bi-ta gam-e-de₃
+c.6.1.25,Proverbs: collection 25,,28,e₂-gal ud ₁-e ama nir-ra ud ₁-e ama u₃-tud-da
+c.6.1.25,Proverbs: collection 25,,29,e₂-gal a-ri-a nu-da₁₃-da₁₃ {ŋeš}ma₂-gur₈ in-nu nu-da₁₃-da₁₃
+c.6.1.25,Proverbs: collection 25,,30,dumu-gir₁₅ du-lum-ma nu-da₁₃-da₁₃
+c.6.1.25,Proverbs: collection 25,,31,an-ku₄-ku₄ nu-si-si
+c.6.1.25,Proverbs: collection 25,,32,ib₂-ta-e₃ nu-silig-ge
+c.6.1.25,Proverbs: collection 25,,33,niŋ₂-gur₁₁ lugal-la-ke₄
+c.6.1.25,Proverbs: collection 25,,34,igi-zu na-an-il₂-en
+c.6.1.25,Proverbs: collection 25,,35,lu₂ ma₂ dirig-ga lu₂ ma₂ gaba in-ru-gu₂
+c.6.1.25,Proverbs: collection 25,,36,niŋ₂ kab₂ di-de₃ niŋ₂-gig {d}suen-na-kam

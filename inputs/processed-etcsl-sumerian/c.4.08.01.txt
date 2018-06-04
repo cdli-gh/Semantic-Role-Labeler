@@ -1,0 +1,58 @@
+id_text,text_name,version,l_no,text
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,1,šeš-e nin₉-ra mi₂ na-mu-e
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,2,{d}utu nin₉-ra mi₂ na-mu-e
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,3,kug {d}inana-ra mi₂ zid na-mu-e
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,4,in-nin₉ gu sar-ra hi-li gur₃-ru
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,5,{d}inana gu sar-ra hi-li gur₃-ru
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,6,še ab-sin₂-na hi-li ma-az dirig-ga
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,7,nin₉ gada mah-e hi-li ba-e-te-a
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,8,{d}inana gada mah-e hi-li ba-e-te-a
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,9,al ga-mu-ra-ab-ak ga-mu-ra-ab-šum₂
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,10,in-nin₉ gu sar-ra ga-mu-ra-de₆
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,11,{d}inana gu sar-ra ga-mu-ra-de₆
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,12,šeš gu sar-ra a-ma-i-ra-ta
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,13,a-ba-a ma-e-ri a-ba-a ma-e-ri
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,14,gu-bi ma-a-ra a-ba-a ma-e-ri
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,15,nin₉-ŋu₁₀ ri-a-bi ga-mu-ra-de₆
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,16,{d}inana ri-a-bi ga-mu-ra-de₆
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,17,šeš ri-a-bi a-ma-i-ra-ta
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,18,a-ba-a ma-ab-NU-NU a-ba-a ma-ab-NU-NU
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,19,gu-bi ma-a-ra a-ba-a ma-ab-NU-NU
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,20,nin₉-ŋu₁₀ NU-a-bi ga-mu-ra-de₆
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,21,{d}inana NU-a-bi ga-mu-ra-de₆
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,22,šeš NU-a-bi a-ma-i-ra-ta
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,23,a-ba-a ma-ab-tab-be₂ a-ba-a ma-ab-tab-be₂
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,24,gu-bi ma-a-ra a-ba-a ma-ab-tab-be₂
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,25,nin₉-ŋu₁₀ tab-ba-bi ga-mu-ra-de₆
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,26,{d}inana tab-ba-bi ga-mu-ra-de₆
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,27,šeš tab-ba-bi a-ma-i-ra-ta
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,28,a-ba-a ma-ab-ze₂-ze₂ a-ba-a ma-ab-ze₂-ze₂
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,29,gu-bi ma-a-ra a-ba-a ma-ab-ze₂-ze₂
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,30,nin₉-ŋu₁₀ ze₂-a-bi ga-mu-ra-de₆
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,31,{d}inana ze₂-a-bi ga-mu-ra-de₆
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,32,šeš ze₂-a-bi a-ma-i-ra-ta
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,33,a-ba-a ma-ab-TUKU₅-TUKU₅ a-ba-a ma-ab-TUKU₅-TUKU₅
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,34,gu-bi ma-a-ra a-ba-a ma-ab-TUKU₅-TUKU₅
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,35,nin₉-ŋu₁₀ tuku₅-a-bi ga-mu-ra-de₆
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,36,{d}inana tuku₅-a-bi ga-mu-ra-de₆
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,37,šeš tuku₅-a-bi a-ma-i-ra-ta
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,38,a-ba-a ma-DAN₃-DAN₃ a-ba-a ma-DAN₃-DAN₃
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,39,gu-bi ma-a-ra a-ba-a ma-DAN₃-DAN₃
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,40,nin₉-ŋu₁₀ dan₃-na-bi ga-mu-ra-de₆
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,41,{d}inana dan₃-na-bi ga-mu-ra-de₆
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,42,šeš dan₃-na-bi a-ma-i-ra-ta
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,43,a-ba-a mu-da-an-nu₂ a-ba-a mu-da-an-nu₂
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,44,gu-bi ma-a-ra a-ba-a mu-da-an-nu₂
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,45,za-ra he₂-da-an-nu₂ he₂-da-an-nu₂
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,46,za-ra nitalam-zu he₂-da-an-nu₂
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,47,{d}ama-ušumgal-an-na he₂-da-an-nu₂
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,48,gu₅-li {d}en-lil₂-la₂ he₂-da-an-nu₂
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,49,šag₄ zid-ta e₃-a he₂-da-an-nu₂
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,50,a barag-ga ri-a he₂-da-an-nu₂
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,51,i₃-ge₄-en mu-lu ša₃-ab-ŋa₂-kam mu-lu ša₃-ab-ŋa₂-kam
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,52,šeš mu-lu ša₃-ab-ŋu₁₀ im-mi-in-dug₄-ga-am₃
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,53,al nu-ak-am₃ guru₇ dub-dub-ba-am₃
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,54,še ŋa₂-nun-e sa₂ dug₄-dug₄-ga-am₃
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,55,mu-un-gar₃ še-ni guru₇ šar₂-ra-kam
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,56,sipad e-ze₂-ni siki sug₄-sug₄-ga-am₃
+c.4.08.01,A balbale to Inana (Dumuzid-Inana A),,57,bal-bal-e {d}inana-kam

@@ -1,0 +1,45 @@
+id_text,text_name,version,l_no,text
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,A2,šag₄ kug-ga
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,A3,inim sig₁₀-sig₁₀-ge inim-ma-ni u₁₈-ru eš-bar-e
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,A4,palil diŋir-re-e-ne niŋ₂-nam-ma gal-zu
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,A5,{d}en-ki šag₄ kuš₂ an kug-ga ad gi₄-gi₄ kur gal
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,A6,palil diŋir-re-e-ne niŋ₂-nam-ma gal-zu
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,A7,{d}en-ki šag₄ kuš₂ an kug-ga ad gi₄-gi₄ kur gal
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,A8,sa₂ pad₃-de₃ dug₄-ga-ni nu-kam₃-me a-ra₂-a-ni ni₂
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,A9,šag₄ su₃-ud-ŋal₂ me šar₂-ra u₅-a {d}en-lil₂-gin₇
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,A10,{d}nu-dim₂-mud barag kug si-par₃-si-par₃
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,A11,en ni₂ guru₃ an uraš-e tud-da pap gal
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,A12,lugal a-ra₂ zu {d}en-lil₂-la₂ saŋ en₃ tar
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,A13,zag dib dumu-saŋ an kug-ga me-ni šu nu-teŋ₃-ŋa₂
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,A14,{d}en-lil₂ ban₃-da dug₄-ga zid-da ŋiš-hur-e
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,A15,{d}nu-dim₂-mud en nam tar-tar-re kalam ge-en
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,A16,{d}en-ki gud gal eridug{ki}-ga il₂
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,A17,buluŋ₃ dirig {d}a-nun-ke₄-ne
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,A18,
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,A19,u₈-gin₇
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,B1,ŋal₂-la
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,B2,{d}iš-me-{d}da-gan
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,B3,
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,B4,e₂ {d}en-lil₂
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,B5,{d}en-lil₂-la₂-ra dug₄-ga-ni
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,B6,šag₄ kuš₂ an kug-ga
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,B7,
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,C1,{d}nu-dim₂-mud
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,C2,en eridug{ki}
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,C3,{d}iš-me-{d}da-gan
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,C4,dumu {d}en-lil₂-la₂
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,C5,a₂-zu mu-da-X-aŋ₂
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,C6,igi-ŋal₂ pad₃
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,C7,ŋiš-hur tuku
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,C8,kug-zu niŋ₂-nam-ma
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,C9,kiŋ₂ mah
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,C10,
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,D1,me dirig
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,D2,
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,D3,kurun₂ {kaš}ulušin₃
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,D4,KI.LUGAL.GUB-a šu si ha-ra-X-sa₂ giri₁₇ šu ha-ra-X-ŋal₂
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,D5,sizkur₂-ra ma-ra-ni-ib₂-be₂
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,D6,{d}iš-me-{d}da-gan dumu {d}en-lil₂-la₂-ke₄ nam-til₃-la-na ud zig₃-ga ud ha-ba-ni-ib₂-su₃-ud
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,D7,a-a {d}en-ki {d}iš-me-{d}da-gan dumu {d}en-lil₂-la₂-ke₄ nam-til₃-la-na ud zig₃-ga ud ha-ba-ni-ib₂-su₃-ud
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,D8,ŋiš-gi₄-ŋal₂-bi-im
+c.2.5.4.05,A balbale to Enki for Išme-Dagan (Išme-Dagan E),,D9,bal-bal-e {d}en-ki-ka-kam

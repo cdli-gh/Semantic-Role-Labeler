@@ -1,0 +1,29 @@
+id_text,text_name,version,l_no,text
+c.4.24.1,An adab to Ninlil (Ninlil A),,1,{d}nin-lil₂ me šar₂-ra daŋal si-a kur gal-da zag ša₄
+c.4.24.1,An adab to Ninlil (Ninlil A),,2,en {d}nu-nam-nir-da nam tar-ra piriŋ gal-e he₂-du₇
+c.4.24.1,An adab to Ninlil (Ninlil A),,3,an ki-še₃ mah-di egir₂ giri₁₇-zal nin me nam-nun-na-ka
+c.4.24.1,An adab to Ninlil (Ninlil A),,4,su zig₃ gur₃-ru sa₂ zu ama {d}nin-lil₂ dug₄-ga-ni u₁₈-lu
+c.4.24.1,An adab to Ninlil (Ninlil A),,5,{d}en-lil₂-la₂ hi-li šag₄-ga-na-me-en gu₂-da ša-mu-ri-in-la₂
+c.4.24.1,An adab to Ninlil (Ninlil A),,6,ki-šar₂ u₆ ki-še₃ ša-mu-ra-an-aŋ₂ en {d}nu-nam-nir-e
+c.4.24.1,An adab to Ninlil (Ninlil A),,7,barag kug-e mi-ni-ib-si-in ama {d}nin-lil₂ nam-he₂-a ru-a
+c.4.24.1,An adab to Ninlil (Ninlil A),,8,en-en gal-gal barag-barag-ge₂-ne giri₁₇ šu ma-ra-ŋal₂-le-eš
+c.4.24.1,An adab to Ninlil (Ninlil A),,9,ud sed₄ an-dul₃ daŋal-la nam-nun-e u₅-a
+c.4.24.1,An adab to Ninlil (Ninlil A),,10,ama {d}nin-lil₂ diŋir me giri₁₇-zal nam-he₂-a ru-a-me-en
+c.4.24.1,An adab to Ninlil (Ninlil A),,11,sa-gid₂-da-am₃
+c.4.24.1,An adab to Ninlil (Ninlil A),,12,{d}nin-lil₂ ša-mu-ne-mah diŋir gal-gal-e-ne me huš gal-la gu₂ mu-ni-u₂-us₂
+c.4.24.1,An adab to Ninlil (Ninlil A),,13,ŋiš-gi₄-ŋal₂-bi-im
+c.4.24.1,An adab to Ninlil (Ninlil A),,14,diŋir gal-gal-da zag ša₄
+c.4.24.1,An adab to Ninlil (Ninlil A),,15,
+c.4.24.1,An adab to Ninlil (Ninlil A),,22,mah mu kur-kur-ra
+c.4.24.1,An adab to Ninlil (Ninlil A),,23,ki-ur₃-ra ša-mu-un-til₃ {d}en-lil₂-la₂ munus zid ama {d}nin-lil₂
+c.4.24.1,An adab to Ninlil (Ninlil A),,24,me giri₁₇-zal šag₄ hi-li si-a-na gu₂-da ma-ra-ni-in-la₂
+c.4.24.1,An adab to Ninlil (Ninlil A),,25,{d}en-ki {d}nin-ki me kur-kur-ra-ba šu mu-ra-ni-in-du₇-uš
+c.4.24.1,An adab to Ninlil (Ninlil A),,26,nin-ŋu₁₀ dug₄-ga-zu niŋ₂ mah-am₃ e₂-kur-za hul₂-ni-ib
+c.4.24.1,An adab to Ninlil (Ninlil A),,27,sa-ŋar-ra-am₃
+c.4.24.1,An adab to Ninlil (Ninlil A),,28,munus zid ama {d}nin-lil₂ an ki-a i-lim u₅
+c.4.24.1,An adab to Ninlil (Ninlil A),,29,ŋiš-gi₄-ŋal₂-bi-im
+c.4.24.1,An adab to Ninlil (Ninlil A),,30,nin-ŋu₁₀ an ki-še₃ diŋir ušum zag dib
+c.4.24.1,An adab to Ninlil (Ninlil A),,31,ama {d}nin-lil₂ nin mah an ki-še₃ diŋir ušum zag dib
+c.4.24.1,An adab to Ninlil (Ninlil A),,32,me giri₁₇-zal šag₄ hi-li si-a-na ki aŋ₂-ni za-e-me-en ul-še₃ me zalag lil₂ im-ma-ni-dab₅-be₂
+c.4.24.1,An adab to Ninlil (Ninlil A),,33,u₁₈-ru₁₂-bi-im
+c.4.24.1,An adab to Ninlil (Ninlil A),,34,a-da-ab {d}nin-lil₂-la₂-kam

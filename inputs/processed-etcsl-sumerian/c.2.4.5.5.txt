@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+c.2.4.5.5,A hymn to Suen for Ibbi-Suen (Ibbi-Suen E),,1,me-zu
+c.2.4.5.5,A hymn to Suen for Ibbi-Suen (Ibbi-Suen E),,2,a-a {d}nanna
+c.2.4.5.5,A hymn to Suen for Ibbi-Suen (Ibbi-Suen E),,3,uŋ₃-ŋa₂ mi-ni-pad₃
+c.2.4.5.5,A hymn to Suen for Ibbi-Suen (Ibbi-Suen E),,4,šul {d}suen KI.LUGAL.GUB-zu kug
+c.2.4.5.5,A hymn to Suen for Ibbi-Suen (Ibbi-Suen E),,5,an aga zid men saŋ-ŋa₂-zu za-e
+c.2.4.5.5,A hymn to Suen for Ibbi-Suen (Ibbi-Suen E),,6,ki barag gal mah dur₂ ŋar-ra-zu zi
+c.2.4.5.5,A hymn to Suen for Ibbi-Suen (Ibbi-Suen E),,7,ka kug ba-a-zu u₁₈-ru gal me pa
+c.2.4.5.5,A hymn to Suen for Ibbi-Suen (Ibbi-Suen E),,8,aga nam-lugal-la men kug suh₁₀-gir₁₁
+c.2.4.5.5,A hymn to Suen for Ibbi-Suen (Ibbi-Suen E),,9,{ŋeš}gu-za me ur₄-ur₄ barag saŋ il₂
+c.2.4.5.5,A hymn to Suen for Ibbi-Suen (Ibbi-Suen E),,10,peš₁₀-ŋal₂ nam barag-ga numun zid
+c.2.4.5.5,A hymn to Suen for Ibbi-Suen (Ibbi-Suen E),,11,{d}i-bi₂-{d}suen-ŋu₁₀ an kug-ta nam
+c.2.4.5.5,A hymn to Suen for Ibbi-Suen (Ibbi-Suen E),,12,en me kug-ku₃-ug me sikil šu-luh zalag nam
+c.2.4.5.5,A hymn to Suen for Ibbi-Suen (Ibbi-Suen E),,13,si mul-mul su₃-ra₂-aŋ₂ an-na šul {d}suen
+c.2.4.5.5,A hymn to Suen for Ibbi-Suen (Ibbi-Suen E),,14,ud te-eš-e gal idim-ma hi-li-bi ki
+c.2.4.5.5,A hymn to Suen for Ibbi-Suen (Ibbi-Suen E),,15,nibru{ki} a₂ tal₂-tal₂ {d}nanna šag₄ kug
+c.2.4.5.5,A hymn to Suen for Ibbi-Suen (Ibbi-Suen E),,16,nun zi-le an ki šu₂-a-ba iti₆
+c.2.4.5.5,A hymn to Suen for Ibbi-Suen (Ibbi-Suen E),,17,gud pa e₃ {d}en-lil₂-da mah dib
+c.2.4.5.5,A hymn to Suen for Ibbi-Suen (Ibbi-Suen E),,18,
+c.2.4.5.5,A hymn to Suen for Ibbi-Suen (Ibbi-Suen E),,19,

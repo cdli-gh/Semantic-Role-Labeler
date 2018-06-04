@@ -1,0 +1,70 @@
+id_text,text_name,version,l_no,text
+c.4.13.05,A hymn to Nanna (Nanna E),,1,dumu nun-e AB×A kug-ta e₃-a ba-zal-zal si
+c.4.13.05,A hymn to Nanna (Nanna E),,2,kur me sikil eš₃ abzu šag₄ daŋal kur me
+c.4.13.05,A hymn to Nanna (Nanna E),,3,ki-ur₃ mah dur₂ daŋal-la
+c.4.13.05,A hymn to Nanna (Nanna E),,4,ambar-ta me-lem₄ huš tum₃ muš₃ ni₂
+c.4.13.05,A hymn to Nanna (Nanna E),,5,nam-dug₃-zu-še₃ nam-gal nam-mah-zu-še₃ saŋ im-ma-il₂-la₂
+c.4.13.05,A hymn to Nanna (Nanna E),,6,nam tar-re-de₃-eš a₂ mah mi-ni-in-sud₄-un
+c.4.13.05,A hymn to Nanna (Nanna E),,7,nam-lugal an ki-zu an gal-e šu daŋal mu-ri-in-dug₄
+c.4.13.05,A hymn to Nanna (Nanna E),,8,nam-dumu nun gal-zu {d}en-lil₂-le nam-men šu mi-ri-in-du₇
+c.4.13.05,A hymn to Nanna (Nanna E),,9,nam-diŋir mah {d}en-lil₂ pa e₃ ma-ra-ni-in-e₃
+c.4.13.05,A hymn to Nanna (Nanna E),,10,a DU-a a sig mah-zu-še₃ nam tar-re ki dug₃ ama dug₃
+c.4.13.05,A hymn to Nanna (Nanna E),,11,{d}en-ki AB×A-šag₄ kug-ta ŋiri₃-zu-še₃ im-mi-in-ŋar
+c.4.13.05,A hymn to Nanna (Nanna E),,12,{d}en-lil₂ nam-mah nam-en-na mi-ni-in-tud-de₃-en
+c.4.13.05,A hymn to Nanna (Nanna E),,13,{d}nanna ud-sakar-zu ud-sakar ₇-bi mu pad₃-da
+c.4.13.05,A hymn to Nanna (Nanna E),,14,{d}en-lil₂ an ki-ka mu-zu mu kug-ga mu mi-ri-in-pad₃
+c.4.13.05,A hymn to Nanna (Nanna E),,15,dumu nun-e nam-gal-zu an ki-a pa e₃ im-mi-in-e₃
+c.4.13.05,A hymn to Nanna (Nanna E),,16,unken mah nam {d}en-lil₂-la₂-na saŋ-e-eš mu-ra-an-rig₇
+c.4.13.05,A hymn to Nanna (Nanna E),,17,{d}en-ki-ke₄ ki eš₃ eridug{ki}-ta nam-men nam-mah-zu mu-ri-in-tar
+c.4.13.05,A hymn to Nanna (Nanna E),,18,abzu mah ki eš₃ eridug{ki}-ta nam-en gal-zu-še₃
+c.4.13.05,A hymn to Nanna (Nanna E),,19,lugal an ki-ke₄ an ki gun₃-a nam-gal-zu-še₃ ba-an-dug₄
+c.4.13.05,A hymn to Nanna (Nanna E),,20,{d}nanna saŋ-zu il₂ {d}a-nun-na-ke₄-ne-er ha-la ba-an-pad₃
+c.4.13.05,A hymn to Nanna (Nanna E),,21,me sikil šag₄ hul₂-la-ka-ne-ne ki-tuš kug im-mi-ni-in-tuš-un
+c.4.13.05,A hymn to Nanna (Nanna E),,22,diŋir gal-gal-e-ne nidba-eš gal ba-an-pad₃
+c.4.13.05,A hymn to Nanna (Nanna E),,23,zag gu-la₂ šag₄ hi-li mah si-a im-mi-ni-in-durun-uš
+c.4.13.05,A hymn to Nanna (Nanna E),,24,diŋir-re-e-ne sizkur₂ šag₄ hul₂-la-ne-ne im-mi-ni-in-šum₂-šum₂
+c.4.13.05,A hymn to Nanna (Nanna E),,25,ki mah ki kug-ga mi-ni-in-tuš-un
+c.4.13.05,A hymn to Nanna (Nanna E),,26,{d}nanna ki kug-ga ki-tuš kug mi-ni-in-tuš-un
+c.4.13.05,A hymn to Nanna (Nanna E),,27,{d}en-ki-ke₄ ki-tuš ma-ra-ab-sikil-e ki-tuš ma-ra-ab-šen-e
+c.4.13.05,A hymn to Nanna (Nanna E),,28,an mu-ra-ab-kug-ge ki mu-ra-ab-šen-e
+c.4.13.05,A hymn to Nanna (Nanna E),,29,e₂-kiš-nu-ŋal₂ e₂ tir {ŋeš}erin-na an-še₃ si ma-ra-an-sa₂
+c.4.13.05,A hymn to Nanna (Nanna E),,30,dur₂ mah-zu ki kug-ga ma-ra-ab-ak ur₂ niŋ₂ an ki-a
+c.4.13.05,A hymn to Nanna (Nanna E),,31,ŋiš-hur šu-luh mah-zu si ma-ra-an-sa₂-e
+c.4.13.05,A hymn to Nanna (Nanna E),,32,gir₄ banšur ki kug-ga ma-ra-ab-šen
+c.4.13.05,A hymn to Nanna (Nanna E),,33,kiŋ₂-sig-bi kiŋ₂-sig kiŋ₂-nim-zu
+c.4.13.05,A hymn to Nanna (Nanna E),,34,si ma-ra-an-sa₂
+c.4.13.05,A hymn to Nanna (Nanna E),,35,šu-luh-ha ma-ra-ab-ku₃-ug ma-ra-ab-šen
+c.4.13.05,A hymn to Nanna (Nanna E),,36,du₈ ba-an-sig₇
+c.4.13.05,A hymn to Nanna (Nanna E),,37,mi-ni-in-pad₃
+c.4.13.05,A hymn to Nanna (Nanna E),,38,{d}en-ki abzu-ni u₃-tud šu-luh mu-ra-an-ŋa₂-ŋa₂
+c.4.13.05,A hymn to Nanna (Nanna E),,39,{d}ku₃-su₁₃-e šu-luh-ha ba-ni-gub e₂ ni₂-bi u₃-tud
+c.4.13.05,A hymn to Nanna (Nanna E),,40,AB×A-šag₄ bar-ba gir₄ gud udu ninda eš₃ bar-ba šu-luh kug-bi
+c.4.13.05,A hymn to Nanna (Nanna E),,41,e₂-e i₃ im-sikil-e saŋ ba-ab-ha-za a₂-šu-ŋiri₃ ba-an-KU-uš
+c.4.13.05,A hymn to Nanna (Nanna E),,42,šu-luh kug nu-šub-bu-še₃ ambar mah
+c.4.13.05,A hymn to Nanna (Nanna E),,43,AB×A daŋal kug-ga-ta nam-bi im-ta-e₃
+c.4.13.05,A hymn to Nanna (Nanna E),,44,e₂-kiš-nu-ŋal₂ barag mah kug-ga me gal mah an ki-a šu du₇
+c.4.13.05,A hymn to Nanna (Nanna E),,45,AB×A kug-ta peš₁₀ mah a tu₅-a-zu
+c.4.13.05,A hymn to Nanna (Nanna E),,46,i₃ hur-saŋ su kug ŋal₂-la-zu
+c.4.13.05,A hymn to Nanna (Nanna E),,47,{d}nanna barag mah-zu ba-ŋar-ra
+c.4.13.05,A hymn to Nanna (Nanna E),,48,gada mah keše₂ saŋ il₂ si mul suh₁₀-gir₁₁ nam-men-na
+c.4.13.05,A hymn to Nanna (Nanna E),,49,i₃ mah i₃ nam-men i₃ erim₃ gal-zu su-bar kug-ga-ka
+c.4.13.05,A hymn to Nanna (Nanna E),,50,kar-za-gin₃ kar mah kar kug-ga-na
+c.4.13.05,A hymn to Nanna (Nanna E),,51,{d}nin-gublaga-ke₄ en šu im-ma-an-kug-ga
+c.4.13.05,A hymn to Nanna (Nanna E),,52,{d}tarah abzu eridug{ki}-ta šu-bi i₃ im-sikil-e
+c.4.13.05,A hymn to Nanna (Nanna E),,53,u₂-a-zu banšur unu₂ ki gal-zu-še₃ šu kug ŋa₂-ŋa₂-zu-še₃
+c.4.13.05,A hymn to Nanna (Nanna E),,54,{d}ku₃-su₃-e šu sikil šu dadag ak šu im-ma-an-kug-ge
+c.4.13.05,A hymn to Nanna (Nanna E),,55,{d}tarah abzu eridug{ki}-ta šu-bi i₃ im-sikil-e
+c.4.13.05,A hymn to Nanna (Nanna E),,56,eš₃ abzu barag mah urim₂{ki}-ma nam dug₃ gal tar-re
+c.4.13.05,A hymn to Nanna (Nanna E),,57,e₂-kiš-nu-ŋal₂ ki-tuš kug dug₃-ga-am₃ {d}nin-gal nin mah-bi
+c.4.13.05,A hymn to Nanna (Nanna E),,58,ki-tuš kug ki nam-nin-za {d}nanna lugal-bi-ir
+c.4.13.05,A hymn to Nanna (Nanna E),,59,e₂-kiš-nu-ŋal₂ agrun-kug-ga e₂ nam-lugal-zu
+c.4.13.05,A hymn to Nanna (Nanna E),,60,{d}nanna {d}nin-gal ki-tuš mi-ni-ib₂-hul₂-ne
+c.4.13.05,A hymn to Nanna (Nanna E),,61,{d}suen-e en zu mah an ki aga-zu aga mah-am₃
+c.4.13.05,A hymn to Nanna (Nanna E),,62,me-lem₄ huš an ki-a sig₉-ge {d}aš-im₂-babbar-e šu he₂-en-na-kug-ge
+c.4.13.05,A hymn to Nanna (Nanna E),,63,an-gin₇ he₂-en-na-kug-ge ki-gin₇ he₂-en-na-šen-e
+c.4.13.05,A hymn to Nanna (Nanna E),,64,šag₄ an-na-gin₇ he₂-en-na-dadag-ge
+c.4.13.05,A hymn to Nanna (Nanna E),,65,aga an ki-a aga kug saŋ he₂-em-ma-il₂-e
+c.4.13.05,A hymn to Nanna (Nanna E),,66,{d}suen-e en zu mah an ki barag sikil-la šu du₇
+c.4.13.05,A hymn to Nanna (Nanna E),,67,{d}aš-im₂-babbar-e saŋ-men aga zid-da si mul mah
+c.4.13.05,A hymn to Nanna (Nanna E),,68,saŋ im-ma-il₂-e
+c.4.13.05,A hymn to Nanna (Nanna E),,69,i₃ kug i₃ sikil i₃ dadag-ge

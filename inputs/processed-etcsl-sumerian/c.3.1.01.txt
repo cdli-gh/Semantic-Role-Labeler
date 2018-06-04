@@ -1,0 +1,35 @@
+id_text,text_name,version,l_no,text
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,1,lugal-ŋu₁₀-ra u₃-na-a-dug₄
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,2,{m}arad₂-ŋu₁₀ arad₂-zu na-ab-be₂-a
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,3,kur su-bir₄{ki}-še₃ har-ra-an kaskal-la si sa₂-sa₂-e-ra
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,4,gun₂ ma-da ge-en-gen₆-ne₂-de₃
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,5,a-ra₂ ma-da zu-zu-de₃
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,6,ugu a-pi-il-la-ša gal-zu unken-na-še₃
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,7,ad gi₄-gi₄-de₃ gu₃ teš₂-a sig₁₀-ge₅-de₃
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,8,ud-da-ka-ne-ne-a he₂-em-tum₃ a₂-še₃ mu-e-da-a-aŋ₂
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,9,kan₄ e₂-gal-la-še₃ ŋen-a-ŋu₁₀-ne
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,10,silim-ma lugal-ŋa₂-ke₄ en₃ li-bi₂-in-tar
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,11,dur₂ na-ma-ta-an-zig₃ ki-a nu-ub-za ba-an-da-mud-de₃-en
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,12,teŋ₃-ŋe₂₆-e-da-ŋu₁₀-ne
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,13,e₂ kaskal-la-zu ga-rig₂-ak {urud}šukur kug-sig₁₇ kug-babbar
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,14,{na₄}gug {na₄}za-gin₃ ŋar-ra-ta a-ab-du₃-du₃-a ₃₀ sar-am₃ i-ib₂-KU
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,15,kug-sig₁₇ {na₄}za-gin₃-na mi₂ zid-de₃-eš im-me
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,16,{ŋeš}gu-za barag {tug₂}šutur-e ri-a i-ib₂-tuš
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,17,{ŋeš}ŋiri₃-gub kug-sig₁₇-ka ŋiri₃-ni i-ib₂-ŋar
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,18,ŋiri₃-ni na-ma-ta-an-kur₂
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,19,aga-us₂ saŋ-ŋa₂-na ₅ li-mu-um-ta-am₃ zid-da gab₂-bu-na ib₂-ta-an-gub-bu-uš
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,20,₆ gud niga ₆₀ udu niga niŋ₂-zu₂-gub-še₃ in-ŋar
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,21,šu-luh lugal-ŋa₂-ke₄ sa₂ bi₂-in-dug₄
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,22,kan₄-na en₃ tar-tar-ra-a-ba lu₂ na-ma-ši-in-kur₉-re-en
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,23,ku₄-ku₄-da-ŋu₁₀-ne
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,24,{ŋeš}gu-za gar₃-ba kug-sig₁₇ huš-a ŋar-ra lu₂ ma-an-de₆ tuš-a ma-an-dug₄
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,25,a₂ aŋ₂-ŋa₂ lugal-ŋa₂-ke₄ i₃-gub-be₂-en nu-tuš-u₃-de₃-en bi₂-dug₄
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,26,₂ gud niga ₂₀ udu niga {ŋeš}banšur-ŋu₁₀ lu₂ ma-an-sa₂
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,27,nu-kar₂-kar₂-de₃ aga-us₂ lugal-ŋa₂-ke₄ {ŋeš}banšur-ŋu₁₀ in-bal-a-še₃
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,28,ni₂ ba-da-te su ba-da-zig₃
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,29,itid ezen-{d}nin-a-zu ud ₁₅-kam-ma-ta
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,30,lugal-ŋu₁₀ a₂-še mu-e-da-a-a-aŋ₂
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,31,itid u₅-bi₂-gu₇ ud ₁-kam-ma-X
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,32,lu₂-kaš₄-e mu-ši-gi₄-in
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,33,ud MAŠ-am₃ ba-te
+c.3.1.01,Letter from Aradŋu to Šulgi about Apillaša,,34,lugal-ŋu₁₀ he₂-en-zu

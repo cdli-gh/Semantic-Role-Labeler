@@ -1,0 +1,57 @@
+id_text,text_name,version,l_no,text
+c.0.2.04,OB catalogue from Urim (U2),,1,nin mul-an-gin₇
+c.0.2.04,OB catalogue from Urim (U2),,2,bur-šum₂-ma gal
+c.0.2.04,OB catalogue from Urim (U2),,3,zi-ŋal₂
+c.0.2.04,OB catalogue from Urim (U2),,4,lugal-me šag₄-ta ur-saŋ-me-en
+c.0.2.04,OB catalogue from Urim (U2),,5,lugal me dug₄-ga
+c.0.2.04,OB catalogue from Urim (U2),,6,me-ta-am₃ me-di
+c.0.2.04,OB catalogue from Urim (U2),,7,me-ta-am₃ im-du
+c.0.2.04,OB catalogue from Urim (U2),,8,nin me šar₂-ra
+c.0.2.04,OB catalogue from Urim (U2),,9,en-e kur lu₂ til₃-la-še₃
+c.0.2.04,OB catalogue from Urim (U2),,10,i₃-a lu₂-ulu₃
+c.0.2.04,OB catalogue from Urim (U2),,11,šul me₃-kam
+c.0.2.04,OB catalogue from Urim (U2),,12,lu₂-kiŋ₂-gi₄-a
+c.0.2.04,OB catalogue from Urim (U2),,13,in-nin me huš-a
+c.0.2.04,OB catalogue from Urim (U2),,14,e₂ ud huš an ki
+c.0.2.04,OB catalogue from Urim (U2),,15,hur-saŋ an ki-bi-da-ke₄
+c.0.2.04,OB catalogue from Urim (U2),,16,{d}en-lil₂ su₃-ra₂-še₃
+c.0.2.04,OB catalogue from Urim (U2),,17,saŋ-ki gid₂-da
+c.0.2.04,OB catalogue from Urim (U2),,18,{ŋeš}al-e {ŋeš}al-e
+c.0.2.04,OB catalogue from Urim (U2),,19,ud ul-e re-da
+c.0.2.04,OB catalogue from Urim (U2),,20,ki-ur₃ gal-e
+c.0.2.04,OB catalogue from Urim (U2),,21,e₂-u₄-nir
+c.0.2.04,OB catalogue from Urim (U2),,22,an-ne₂ nam-nir-ra
+c.0.2.04,OB catalogue from Urim (U2),,23,nam nun-e
+c.0.2.04,OB catalogue from Urim (U2),,24,nam nun-e saŋ na-il₂
+c.0.2.04,OB catalogue from Urim (U2),,25,nam-lugal
+c.0.2.04,OB catalogue from Urim (U2),,26,šag₄-ga-a-ni
+c.0.2.04,OB catalogue from Urim (U2),,27,an gal-ta ki gal-še₃
+c.0.2.04,OB catalogue from Urim (U2),,28,ud re-a nam ba-tar-ra
+c.0.2.04,OB catalogue from Urim (U2),,29,ud re-a ud sud₄-ta re-a
+c.0.2.04,OB catalogue from Urim (U2),,30,ud re-a niŋ₂-ul-e
+c.0.2.04,OB catalogue from Urim (U2),,31,
+c.0.2.04,OB catalogue from Urim (U2),,32,di₄-di₄-la₂ ud-da
+c.0.2.04,OB catalogue from Urim (U2),,33,₃ dumu e₂-dub-ba
+c.0.2.04,OB catalogue from Urim (U2),,34,
+c.0.2.04,OB catalogue from Urim (U2),,35,ud-ul-la-ur₁₁
+c.0.2.04,OB catalogue from Urim (U2),,36,in-nin me gal-gal
+c.0.2.04,OB catalogue from Urim (U2),,37,ud ul an ki-ta
+c.0.2.04,OB catalogue from Urim (U2),,38,mah ki-ta
+c.0.2.04,OB catalogue from Urim (U2),,39,{d}lugal-ban₃-da
+c.0.2.04,OB catalogue from Urim (U2),,40,iri{ki} gud huš
+c.0.2.04,OB catalogue from Urim (U2),,41,lugal ud me-lem₄-bi nir-ŋal₂
+c.0.2.04,OB catalogue from Urim (U2),,42,an-gin₇ dim₂-ma
+c.0.2.04,OB catalogue from Urim (U2),,43,₁₁ lugal
+c.0.2.04,OB catalogue from Urim (U2),,44,tur₃-ra-na
+c.0.2.04,OB catalogue from Urim (U2),,45,ud šu bal ki-ta
+c.0.2.04,OB catalogue from Urim (U2),,46,ud huš ki-en-gi-ra
+c.0.2.04,OB catalogue from Urim (U2),,47,ur-saŋ-e
+c.0.2.04,OB catalogue from Urim (U2),,48,ud-bi-ta
+c.0.2.04,OB catalogue from Urim (U2),,49,ud an-ne₂
+c.0.2.04,OB catalogue from Urim (U2),,50,
+c.0.2.04,OB catalogue from Urim (U2),,51,{d}en-lil₂ dirig-še₃
+c.0.2.04,OB catalogue from Urim (U2),,52,ku₆-ŋu₁₀ e₂ du₃
+c.0.2.04,OB catalogue from Urim (U2),,53,ur-saŋ kur-ra
+c.0.2.04,OB catalogue from Urim (U2),,54,iri-am₃ er₂ a-nir-ra
+c.0.2.04,OB catalogue from Urim (U2),,55,lu₂ i-lu di
+c.0.2.04,OB catalogue from Urim (U2),,56,šu-niŋin ₆₇

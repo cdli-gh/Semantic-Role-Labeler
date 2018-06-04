@@ -1,0 +1,638 @@
+id_text,text_name,version,l_no,text
+c.1.8.2.3,Enmerkar and the lord of Aratta,,1,iri gud huš {d}teš₂ ni₂ gal gur₃-ru
+c.1.8.2.3,Enmerkar and the lord of Aratta,,2,kul-aba₄{ki} keše₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,3,gaba ud-da ki nam tar-re-da
+c.1.8.2.3,Enmerkar and the lord of Aratta,,4,unug{ki} kur gal šag₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,5,kiŋ₂-sig unu₂ gal an-na
+c.1.8.2.3,Enmerkar and the lord of Aratta,,6,ud re-a nam ba-tar-ra-ba
+c.1.8.2.3,Enmerkar and the lord of Aratta,,7,unug{ki} kul-aba₄{ki} e₂-an-na
+c.1.8.2.3,Enmerkar and the lord of Aratta,,8,saŋ il₂-la nun-gal-e-ne
+c.1.8.2.3,Enmerkar and the lord of Aratta,,9,he₂-ŋal₂ a-eštub ŋal₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,10,šeŋₓ še gu-nu ŋal₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,11,unug{ki} kul-aba₄{ki}-a ib-da-an-tab
+c.1.8.2.3,Enmerkar and the lord of Aratta,,11A,X-in-zal
+c.1.8.2.3,Enmerkar and the lord of Aratta,,12,kur dilmun{ki} in-nu
+c.1.8.2.3,Enmerkar and the lord of Aratta,,13,e₂-an-na unug{ki}-e kul-aba₄{ki}-a-ka ki us₂-sa-a
+c.1.8.2.3,Enmerkar and the lord of Aratta,,14,ŋi₆-par₄ kug {d}inana-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,15,šeg₁₂ kul-aba₄{ki}-ke₄ kug ki-in-dar-ra-gin₇ pa e₃ ak-am₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,16,nu-il₂ bal nu-ak-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,17,nu-il₂ nam-ga-raš nu-ak-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,18,kug-sig₁₇ kug-babbar urud nagga {na₄}lagab za-gin₃-na
+c.1.8.2.3,Enmerkar and the lord of Aratta,,19,na₄ hur-saŋ-ŋa₂ kur-bi-ta teš₂-bi nu-mu-un-ed₃-de₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,20,ezem-ma a nu-un-tu₅
+c.1.8.2.3,Enmerkar and the lord of Aratta,,21,nu-mu-un-dur₂-ru
+c.1.8.2.3,Enmerkar and the lord of Aratta,,22,ud bi₂-in-zal
+c.1.8.2.3,Enmerkar and the lord of Aratta,,23,
+c.1.8.2.3,Enmerkar and the lord of Aratta,,24,
+c.1.8.2.3,Enmerkar and the lord of Aratta,,25,gun₃-gun₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,26,ki kug {na₄}za-gin₃ duru₅-am₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,27,šag₄-bi {ŋeš}meš₃ babbar-gin₇ gurun il₂-la sig₇-ga-am₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,28,{d}inana-ra en aratta{ki}-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,29,saŋ-men kug-sig₁₇-ga mu-na-ni-in-ŋal₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,30,en kul-aba₄{ki}-a-gin₇ nu-mu-na-sag₉
+c.1.8.2.3,Enmerkar and the lord of Aratta,,31,aratta{ki} eš₃ e₂-an-na ŋi₆-par₄ ki kug-gin₇
+c.1.8.2.3,Enmerkar and the lord of Aratta,,32,kug {d}inana-ra šeg₁₂ kul-aba₄{ki}-gin₇ nu-mu-un-na-du₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,33,ud-ba en šag₄-ge pad₃-da {d}inana-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,34,kur šuba-ta šag₄ kug-ge pad₃-da {d}inana-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,35,en-me-er-kar₂ dumu {d}utu-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,36,nin₉-a-ni nin kurku₂ dug₃-ga
+c.1.8.2.3,Enmerkar and the lord of Aratta,,37,kug {d}inana-ra u₃-gul mu-un-na-ŋa₂-ŋa₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,38,nin₉-ŋu₁₀ aratta{ki} unug{ki}-še₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,39,kug-sig₁₇ kug-babbar ha-ma-an-galam-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,40,{na₄}za-gin₃ duru₅ lagab-ta
+c.1.8.2.3,Enmerkar and the lord of Aratta,,41,su₃-ra₂-aŋ₂ {na₄}za-gin₃ duru₅
+c.1.8.2.3,Enmerkar and the lord of Aratta,,42,unug{ki}-ga kur kug du₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,43,e₂ an-ta ed₃-da ki-gub-ba-za
+c.1.8.2.3,Enmerkar and the lord of Aratta,,44,aratta{ki} eš₃ e₂-an-na he₂-en-du₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,45,ŋi₆-par₄ kug-ga dur₂ ŋar-ra-za
+c.1.8.2.3,Enmerkar and the lord of Aratta,,46,šag₄-bi aratta{ki} ha-ma-an-galam-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,47,ŋe₂₆-e šag₄-ba amar za-gin₃-na gu₂ ga-mu-ni-X-la₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,48,aratta{ki} unug{ki}-še₃ gu₂ ŋiš ha-ma-ŋa₂-ŋa₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,49,nam-lu₂-u₁₈-lu aratta{ki}-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,50,na₄ hur-saŋ-ŋa₂ kur-bi ha-ma-ab-ed₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,51,eš₃ gal ha-ma-du₃-e unu₂ gal ha-ma-ŋa₂-ŋa₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,52,unu₂ gal unu₂ diŋir-re-e-ne-ke₄ pa e₃ ha-ma-ab-ak-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,53,me-ŋu₁₀ kul-aba₄{ki}-a si ha-ma-ni-ib-sa₂-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,54,abzu kur kug-gin₇ ha-ma-ab-mu₂-mu₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,55,eridug{ki} hur-saŋ-gin₇ ha-ma-ab-sikil-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,56,eš₃ abzu kug ki-in-dar-ra-gin₇ pa e₃ ha-ma-ab-ak-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,57,ŋe₂₆-e abzu-ta za₃-mi₂ dug₄-ga-ŋu₁₀-ne
+c.1.8.2.3,Enmerkar and the lord of Aratta,,58,eridug{ki}-ta me de₆-a-ŋu₁₀-ne
+c.1.8.2.3,Enmerkar and the lord of Aratta,,59,nam-en-na men eš₃ bar-gin₇ sig₇-ga-ŋu₁₀-ne
+c.1.8.2.3,Enmerkar and the lord of Aratta,,60,unug{ki} kul-aba₄{ki}-a saŋ-men kug ŋal₂-la-ŋu₁₀-ne
+c.1.8.2.3,Enmerkar and the lord of Aratta,,61,PA.A eš₃ gal-la-ke₄ ŋi₆-par₄-ra hu-mu-un-tum₂-mu
+c.1.8.2.3,Enmerkar and the lord of Aratta,,62,PA.A ŋi₆-par₄-ra-ke₄ eš₃ gal-la hu-mu-un-tum₂-mu
+c.1.8.2.3,Enmerkar and the lord of Aratta,,63,nam-lu₂-ulu₃ u₆ dug₃-ge-eš hu-mu-un-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,64,{d}utu igi hul₂-la he₂-em-ši-bar-bar-re
+c.1.8.2.3,Enmerkar and the lord of Aratta,,65,ud-bi-a giri₁₇-zal an kug-ga nin kur-ra igi-ŋal₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,66,in-nin₉ {d}ama-ušumgal-an-na šembi₂-zid-da-ni
+c.1.8.2.3,Enmerkar and the lord of Aratta,,67,{d}inana nin kur-kur-ra-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,68,en-me-er-kar₂ dumu {d}utu-ra gu₃ mu-na-de₂-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,69,en-me-er-kar₂ ŋa₂-nu na ga-e-de₅ na de₅-ŋu₁₀ he₂-e-dab₅
+c.1.8.2.3,Enmerkar and the lord of Aratta,,70,inim ga-ra-ab-dug₄ ŋizzal he₂-ši-ak
+c.1.8.2.3,Enmerkar and the lord of Aratta,,71,kiŋ₂-gi₄-a inim zu zag-še tuku erin₂-ta u₃-ba-e-re-pad₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,72,inim gal {d}inana gal-zu inim-ma-ke₄ me-a hu-mu-na-ab-tum₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,73,hur-saŋ zubi-še₃ he₂-bi₂-in-ed₃-de₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,74,hur-saŋ zubi-ta he₂-em-ma-da-ra-ed₃-de₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,75,šušin{ki}-e kur an-ša₄-an{ki}-a-še₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,76,peš₂ tur-gin₇ giri₁₇ šu hu-mu-na-ab-ŋal₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,77,hur-saŋ gal-gal ni₂-ba lu-a
+c.1.8.2.3,Enmerkar and the lord of Aratta,,78,sahar-ra hu-mu-na-da-gur₄-gur₄-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,79,aratta{ki} unug{ki}-še₃ gu₂ ŋiš ha-ma-ŋa₂-ŋa₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,80,nam-lu₂-ulu₃ aratta{ki}-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,81,na₄ hur-saŋ-ŋa₂ kur-bi um-ta-ab-ed₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,82,eš₃ gal ha-ra-du₃-e unu₂ gal ha-ra-ŋa₂-ŋa₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,83,unu₂ gal unu₂ diŋir-re-e-ne-ke₄ pa e₃ ha-ra-ab-ak-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,84,me-zu kul-aba₄{ki}-a si ha-ra-ni-ib₂-sa₂-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,85,abzu kur kug-gin₇ ha-ra-ab-mu₂-mu₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,86,eridug{ki} hur-saŋ-gin₇ ha-ra-ab-sikil-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,87,eš₃ abzu kug ki-in-dar-ra-gin₇ pa e₃ ha-ra-ab-ak-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,88,za-e abzu-ta za₃-mi₂ dug₄-ga-zu-ne
+c.1.8.2.3,Enmerkar and the lord of Aratta,,89,eridug{ki}-ta me de₆-a-zu-ne
+c.1.8.2.3,Enmerkar and the lord of Aratta,,90,nam-en men-na eš₃ bar-gin₇ sig₇-ga-zu-ne
+c.1.8.2.3,Enmerkar and the lord of Aratta,,91,unug{ki}-e kul-aba₄{ki}-a saŋ-men kug ŋal₂-la-zu-ne
+c.1.8.2.3,Enmerkar and the lord of Aratta,,92,PA.A eš₃ gal-la-ke₄ ŋi₆-par₄-ra hu-mu-e-tum₂-mu
+c.1.8.2.3,Enmerkar and the lord of Aratta,,93,PA.A ŋi₆-par₄-ra-ke₄ eš₃ gal-la hu-mu-e-tum₂-mu
+c.1.8.2.3,Enmerkar and the lord of Aratta,,94,nam-lu₂-ulu₃ u₆ dug₃-ge-eš he₂-mu-e-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,95,{d}utu igi hul₂-la he₂-mu-e-ši-bar-bar-re
+c.1.8.2.3,Enmerkar and the lord of Aratta,,96,nam-lu₂-ulu₃ aratta{ki}-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,97,ud šu₂-uš-ta um-ta-ab-il₂-ke₄-eš
+c.1.8.2.3,Enmerkar and the lord of Aratta,,98,ud te-en-e um-ma-te-e-ta
+c.1.8.2.3,Enmerkar and the lord of Aratta,,99,ki {d}dumu-zid-da u₈ maš₂ sila₄-ni lu-a
+c.1.8.2.3,Enmerkar and the lord of Aratta,,100,a kalag-ga a-šag₄ {d}dumu-zid-da-ka
+c.1.8.2.3,Enmerkar and the lord of Aratta,,101,udu kur-ra-gin₇ dub₃ ha-ra-ni-ib-ŋar
+c.1.8.2.3,Enmerkar and the lord of Aratta,,102,gaba kug-ŋa₂-a ud-gin₇ e₃-i₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,103,zi-pa-aŋ₂-ŋa₂ niŋ₂-suh₁₀-bi he₂-me-en
+c.1.8.2.3,Enmerkar and the lord of Aratta,,104,za-ra en-me-er-kar₂ dumu {d}utu za₃-mi₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,105,en-e inim kug {d}inana-ka-še₃ saŋ keše₂ ba-ši-in-ak
+c.1.8.2.3,Enmerkar and the lord of Aratta,,106,kiŋ₂-gi₄-a inim zu zag-še tuku erin₂-ta ba-ra-an-pad₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,106A,kiŋ₂-gi₄-a-ni-ir
+c.1.8.2.3,Enmerkar and the lord of Aratta,,107,inim gal {d}inana gal-zu inim-ma-ke₄ me-a mu-na-ab-tum₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,108,hur-saŋ zubi-ka he₂-bi₂-in-ed₃-de₃-en
+c.1.8.2.3,Enmerkar and the lord of Aratta,,109,hur-saŋ zubi-ta he₂-em-ma-da-ra-an-ed₃-de₃-en
+c.1.8.2.3,Enmerkar and the lord of Aratta,,110,šušin{ki}-e kur an-ša₄-an{ki}-a-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,111,peš₂ tur-gin₇ giri₁₇ šu hu-mu-na-ab-ŋal₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,112,hur-saŋ gal-gal ni₂-ba lu-a
+c.1.8.2.3,Enmerkar and the lord of Aratta,,113,sahar-ra hu-mu-na-da-gur₄-gur₄-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,114,kiŋ₂-gi₄-a en aratta{ki}-ra u₃-na-dug₄ u₃-na-de₃-tah
+c.1.8.2.3,Enmerkar and the lord of Aratta,,115,iri-bi ir₇-saŋ{mušen}-gin₇ ŋiš-bi-ta na-an-na-ra-ab-dal-en
+c.1.8.2.3,Enmerkar and the lord of Aratta,,116,mušen-gin₇ gud₃ us₂-sa-bi-a nam-bi₂-ib-dal-en
+c.1.8.2.3,Enmerkar and the lord of Aratta,,117,ganba ŋal₂-la-gin₇ na-an-si-ig-en
+c.1.8.2.3,Enmerkar and the lord of Aratta,,118,iri gul-gul-lu-gin₇ sahar nam-bi₂-ib-ha-za-en
+c.1.8.2.3,Enmerkar and the lord of Aratta,,119,aratta{ki} a₂-dam {d}en-ki-ke₄ nam ba-an-kud
+c.1.8.2.3,Enmerkar and the lord of Aratta,,120,ki bi₂-in-gul-la-gin₇ ki nam-ga-bi₂-ib-gul-en
+c.1.8.2.3,Enmerkar and the lord of Aratta,,121,eŋer-bi {d}inana ba-ši-in-zig₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,122,gu₃ im-mi-in-ra šeg₁₁ im-mi-in-gi₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,123,kuš₇ bi₂-in-su-a-gin₇ kuš₇ nam-ga-bi₂-ib-su-su
+c.1.8.2.3,Enmerkar and the lord of Aratta,,124,kug-sig₁₇ u₃-tud-da-ba {kuš}lu-ub₂/lu-ub₂-šir a-ba-ni-in-ak
+c.1.8.2.3,Enmerkar and the lord of Aratta,,125,kug-me-a sahar-ba zag u₃-ba-ni-in-us₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,126,kug saŋ-PA-še₃ u₃-mu-un-dim₂-dim₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,127,anše kur-kur-ra-ke₄ barag um-mi-in-la₂-la₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,128,ŋe₂₆-e-še₃-am₃ {d}en-lil₂ ban₃-da ki-en-gi-ra-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,129,en {d}nu-dim₂-mud šag₄ kug-ge pad₃-da
+c.1.8.2.3,Enmerkar and the lord of Aratta,,130,kur me sikil-la-ke₄ ha-ma-du₃-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,131,{ŋeš}taškarin-gin₇ hi-li ha-ma-ab-ak-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,132,{d}utu agrun-ta e₃-a-gin₇ si-muš₂ ha-ma-ab-gun₃-gun₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,133,zag-du₈-zag-du₈-bi urin ha-ma-mul-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,134,e₂-nun-e₂-nun-ba šir₃ kug nam-šub du₁₂-a-ba
+c.1.8.2.3,Enmerkar and the lord of Aratta,,135,nam-šub {d}nu-dim₂-mud-da-ke₄ e-ne-ra dug₄-mu-na-ab
+c.1.8.2.3,Enmerkar and the lord of Aratta,,136,ud-ba muš nu-ŋal₂-am₃ ŋiri₂ nu-ŋal₂-am₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,137,kir₄ nu-ŋal₂-am₃ ur-mah nu-ŋal₂-am₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,138,ur-gir₁₅ ur-bar-ra nu-ŋal₂-am₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,139,ni₂ teŋ₃-ŋe₂₆ su zi-zi-i nu-ŋal₂-am₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,140,lu₂-u₁₈-lu gaba-šu-ŋar nu-tuku
+c.1.8.2.3,Enmerkar and the lord of Aratta,,141,ud-ba kur šubur{ki} ha-ma-zi{ki}
+c.1.8.2.3,Enmerkar and the lord of Aratta,,142,eme ha-mun ki-en-gi kur gal me nam-nun-na-ka
+c.1.8.2.3,Enmerkar and the lord of Aratta,,143,ki-uri kur me-te-ŋal₂-la
+c.1.8.2.3,Enmerkar and the lord of Aratta,,144,kur mar-tu u₂-sal-la nu₂-a
+c.1.8.2.3,Enmerkar and the lord of Aratta,,145,an ki niŋin₂-na uŋ₃ saŋ sig₁₀-ga
+c.1.8.2.3,Enmerkar and the lord of Aratta,,146,{d}en-lil₂-ra eme ₁-am₃ he₂-en-na-da-ab-dug₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,147,ud-ba a-da en a-da nun a-da lugal-la
+c.1.8.2.3,Enmerkar and the lord of Aratta,,148,{d}en-ki a-da en a-da nun a-da lugal-la
+c.1.8.2.3,Enmerkar and the lord of Aratta,,149,a-da en-e a-da nun-e a-da lugal-la
+c.1.8.2.3,Enmerkar and the lord of Aratta,,150,{d}en-ki en he₂-ŋal₂-la en dug₄-ga zid-da
+c.1.8.2.3,Enmerkar and the lord of Aratta,,151,en ŋeštug₂-ga igi-ŋal₂ kalam-ma-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,152,mas-su diŋir-re-e-ne-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,153,ŋeštug₂-ge pad₃-da en eridug{ki}-ga-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,154,ka-ba eme i₃-kur₂ en-na mi-ni-in-ŋar-ra
+c.1.8.2.3,Enmerkar and the lord of Aratta,,155,eme nam-lu₂-ulu₃ ₁ i₃-me-a
+c.1.8.2.3,Enmerkar and the lord of Aratta,,156,₂-kam-ma-še₃ en-e kiŋ₂-gi₄-a kur-še₃ du-ur₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,157,aratta{ki}-aš inim mu-na-ab-tah-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,158,kiŋ₂-gi₄-a ŋi₆ u₃-na-ka im ₁-gin₇ šeŋ₃-ŋa₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,159,an-bar₇-gana₂-ka im-du₈-gin₇ zig₃-ga
+c.1.8.2.3,Enmerkar and the lord of Aratta,,160,kiŋ₂-gi₄-a inim lugal-la-na-ke₄ saŋ keše₂ ba-ši-in-ak
+c.1.8.2.3,Enmerkar and the lord of Aratta,,161,ŋi₆ u₃-na-ka mul-am₃ im-ŋen
+c.1.8.2.3,Enmerkar and the lord of Aratta,,162,an-bar₇-gana₂-ka {d}utu an-na-ta mu-un-de₃-ŋen
+c.1.8.2.3,Enmerkar and the lord of Aratta,,163,inim gal {d}inana gi-zu₂-lum-ma me-a mu-na-ab-tum₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,164,hur-saŋ zubi-še₃ bi₂-in-ed₃-de₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,165,hur-saŋ zubi-ta im-ma-da-ra-ab-ed₃-de₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,166,šušin{ki}-e kur an-ša₄-an{ki}-a-še₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,167,peš₂ tur-gin₇ giri₁₇ šu mu-na-ab-ŋal₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,168,hur-saŋ gal-gal ni₂-ba lu-a
+c.1.8.2.3,Enmerkar and the lord of Aratta,,169,sahar-ra mu-na-da-gur₄-gur₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,170,hur-saŋ ₅ hur-saŋ ₆ hur-saŋ ₇-e im-me-re-bal-bal
+c.1.8.2.3,Enmerkar and the lord of Aratta,,171,igi mu-un-il₂ aratta{ki}-aš ba-te
+c.1.8.2.3,Enmerkar and the lord of Aratta,,172,kisal aratta{ki}-ka ŋiri₃ hul₂-la mi-ni-in-gub
+c.1.8.2.3,Enmerkar and the lord of Aratta,,173,nam-nir-ŋal₂ lugal-a-na mu-un-zu
+c.1.8.2.3,Enmerkar and the lord of Aratta,,174,bur₂-ra-bi inim šag₄-ga-na bi₂-ib₂-be₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,175,kiŋ₂-gi₄-a en aratta{ki}-ra mu-na-ab-bal-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,176,a-a-zu lugal-ŋu₁₀ mu-e-ši-in-gi₄-in-nam
+c.1.8.2.3,Enmerkar and the lord of Aratta,,177,en unug{ki}-ga en kul-aba₄{ki}-a-ke₄ mu-e-ši-in-gi₄-nam
+c.1.8.2.3,Enmerkar and the lord of Aratta,,178,lugal-za dug₄-ga-ni nam-ŋu₁₀ tah-a-ni nam-ŋu₁₀
+c.1.8.2.3,Enmerkar and the lord of Aratta,,179,lugal-ŋu₁₀ a-na bi₂-in-dug₄ a-na bi₂-in-tah-am₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,180,lugal-ŋu₁₀ u₃-tud-da-ni-ta nam-en-na tum₂-ma
+c.1.8.2.3,Enmerkar and the lord of Aratta,,181,en unug{ki}-ga muš-saŋ-kal ki-en-gi-ra til₃-la kur zid₂-gin₇ ma₅-ma₅
+c.1.8.2.3,Enmerkar and the lord of Aratta,,182,tarah-maš kur-bad₃-da a₂-nun-ŋal₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,183,šilam-za maš naŋa kug-ga umbin sud₂-sud₂-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,184,ab₂ zid-da kur-šag₄-ga tud-da
+c.1.8.2.3,Enmerkar and the lord of Aratta,,185,en-me-er-kar₂ dumu {d}utu-ke₄ mu-e-ši-in-gi₄-nam
+c.1.8.2.3,Enmerkar and the lord of Aratta,,185A,lugal-zu dug₄-ga-ni nam-ŋu₁₀ tah-a-ni nam-ŋu₁₀
+c.1.8.2.3,Enmerkar and the lord of Aratta,,185B,lugal-ŋu₁₀ a-na bi₂-in-dug₄ a-na bi₂-in-tah-am₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,186,lugal-ŋu₁₀ na-ab-be₂-a
+c.1.8.2.3,Enmerkar and the lord of Aratta,,187,iri-ni ir₇-saŋ{mušen}-gin₇ ŋiš-bi-ta na-na-ra-ab-dag-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,188,mušen-gin₇ gud₃ us₂-sa-bi-a nam-bi₂-ib₂-hu-luh-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,189,ganba ŋal₂-la-gin₇ na-an-sig₉-ge-en
+c.1.8.2.3,Enmerkar and the lord of Aratta,,190,iri gul-gul-la-gin₇ sahar na-an-bi₂-ib-ha-za-en
+c.1.8.2.3,Enmerkar and the lord of Aratta,,191,aratta{ki} a₂-dam {d}en-ki-ke₄ nam ba-an-kud
+c.1.8.2.3,Enmerkar and the lord of Aratta,,192,ki bi₂-in-gul-la-gin₇ ki nam-ga-bi₂-ib-gul-en
+c.1.8.2.3,Enmerkar and the lord of Aratta,,193,eŋer-bi {d}inana ba-ši-in-zig₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,194,gu₃ im-mi-in-ra šeg₁₁ im-mi-in-gi₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,195,kuš₇ bi₂-in-su-a-gin₇ kuš₇ na-an-ga-bi₂-ib-su-su-un
+c.1.8.2.3,Enmerkar and the lord of Aratta,,196,kug-sig₁₇ u₃-tud-da-ba {kuš}lu-ub₂/lu-ub₂-šir a-ba-ni-in-ak
+c.1.8.2.3,Enmerkar and the lord of Aratta,,197,kug-me-a sahar-ba zag u₃-ba-ni-in-us₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,198,kug saŋ-PA-še₃ u₃-mu-un-dim₂-dim₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,199,anše kur-kur-ra-ke₄ barag um-mi-in-la₂-la₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,200,ŋe₂₆-e-še₃-am₃ {d}en-lil₂ ban₃-da ki-en-gi-ra-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,201,en {d}nu-dim₂-mud-e šag₄ kug-ge pad₃-da
+c.1.8.2.3,Enmerkar and the lord of Aratta,,202,kur me sikil-la-ke₄ ha-ma-du₃-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,203,{ŋeš}taškarin-gin₇ hi-li ha-ma-ab-ak
+c.1.8.2.3,Enmerkar and the lord of Aratta,,204,{d}utu agrun-ta e₃-a-gin₇ si-muš₂ ha-ma-ab-gun₃-gun₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,205,zag-du₈-zag-du₈-ba urin ha-ma-mul-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,206,e₂-nun-e₂-nun-ba šir₃ kug nam-šub du₁₂-a-ba
+c.1.8.2.3,Enmerkar and the lord of Aratta,,207,nam-šub {d}nu-dim₂-mud-ke₄ ŋa₂-ra dug₄-mu-na-ab
+c.1.8.2.3,Enmerkar and the lord of Aratta,,208,a-na ma-ab-be₂-en-na-bi u₃-mu-e-dug₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,209,a ru-a sun₄ {na₄}za-gin₃ keše₂-da-ar
+c.1.8.2.3,Enmerkar and the lord of Aratta,,210,ab₂ kal-la-ga-ni kur me sikil-la-ka tud-da-ar
+c.1.8.2.3,Enmerkar and the lord of Aratta,,211,sahar aratta{ki}-ka a₂ e₃-a-ar
+c.1.8.2.3,Enmerkar and the lord of Aratta,,212,ubur ab₂ zid-da ga gu₇-a-ar
+c.1.8.2.3,Enmerkar and the lord of Aratta,,213,kul-aba₄{ki} kur me gal-gal-la-ka nam-nun-na tum₂-ma
+c.1.8.2.3,Enmerkar and the lord of Aratta,,214,en-me-er-kar₂ dumu {d}utu-ra
+c.1.8.2.3,Enmerkar and the lord of Aratta,,215,inim-bi eš₃ e₂-an-na-ka inim dug₃ ga-na-ab-dug₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,216,ŋi₆-par₄ {ŋeš}meš₃ gibil-gin₇ gurun il₂-la-na
+c.1.8.2.3,Enmerkar and the lord of Aratta,,217,lugal-ŋu₁₀ en kul-aba₄{ki}-ra šu-a ga-mu-na-ab-gi₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,218,ur₅-gin₇ hu-mu-na-ab-be₂-a-ka
+c.1.8.2.3,Enmerkar and the lord of Aratta,,219,kiŋ₂-gi₄-a lugal-zu en kul-aba₄{ki}-a-ra u₃-na-dug₄ u₃-na-de₃-tah
+c.1.8.2.3,Enmerkar and the lord of Aratta,,220,ŋe₂₆-e-me-en en šu sikil-la tum₂-ma
+c.1.8.2.3,Enmerkar and the lord of Aratta,,221,{ŋeš}rab₃ mah an-na nin an ki-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,222,in-nin₉ me šar₂-ra kug {d}inana-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,223,aratta{ki} kur me sikil-la-še₃ hu-mu-un-de₆-en
+c.1.8.2.3,Enmerkar and the lord of Aratta,,224,kur-ra {ŋeš}ig gal-gin₇ igi-ba bi₂-in-tab-en
+c.1.8.2.3,Enmerkar and the lord of Aratta,,225,aratta{ki} unug{ki}-še₃ gu₂ a-gin₇ i₃-ŋa₂-ŋa₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,226,aratta{ki} unug{ki}-še₃ gu₂ ŋa₂-ŋa₂ nu-ŋal₂ e-ne-ra dug₄-mu-na-ab
+c.1.8.2.3,Enmerkar and the lord of Aratta,,227,ur₅-gin₇ hu-mu-na-ab-be₂-a-ka
+c.1.8.2.3,Enmerkar and the lord of Aratta,,228,kiŋ₂-gi₄-a en aratta{ki}-ra mu-na-ni-ib-gi₄-gi₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,229,nin gal an-na me huš-a u₅-a
+c.1.8.2.3,Enmerkar and the lord of Aratta,,230,hur-saŋ kur šuba-ka dur₂ ŋar-ra
+c.1.8.2.3,Enmerkar and the lord of Aratta,,231,barag kur šuba-ka še-er-ka-an dug₄-ga
+c.1.8.2.3,Enmerkar and the lord of Aratta,,232,en lugal-ŋu₁₀ šubur-a-ni-im
+c.1.8.2.3,Enmerkar and the lord of Aratta,,233,diŋir nin e₂-an-na-ka mu-un-di-ni-ib-kur₉-re-eš
+c.1.8.2.3,Enmerkar and the lord of Aratta,,234,en aratta{ki} gu₂ ki-še₃ ba-ni-in-ŋal₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,235,šeg₁₂ kul-aba₄{ki}-a-ka ur₅-gin₇ hu-mu-na-ab-be₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,236,ud-bi-a en-e šag₄ mu-un-sag₃ zi mu-un-ir-ir
+c.1.8.2.3,Enmerkar and the lord of Aratta,,237,gaba-ri nu-mu-da-ŋal₂ gaba-ri i₃-kiŋ₂-kiŋ₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,238,ŋiri₃ ni₂-te-a-na-ka igi lib-ba bi₂-in-du₈-ru gaba-ri i₃-pad₃-de₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,239,gaba-ri in-pad₃ gu₃ im-ta-an-e₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,240,kiŋ₂-gi₄-a inim-ma gaba ri-bi
+c.1.8.2.3,Enmerkar and the lord of Aratta,,241,gud-gin₇ gu₃ nun mu-un-di-ni-ib-be₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,242,kiŋ₂-gi₄-a lugal-zu en kul-aba₄{ki}-a-ra u₃-na-dug₄ u₃-na-de₃-tah
+c.1.8.2.3,Enmerkar and the lord of Aratta,,243,hur-saŋ gal {ŋeš}meš₃ an-da mu₂-a
+c.1.8.2.3,Enmerkar and the lord of Aratta,,244,ur₂-bi-še₃ sa-par₄-am₃ pa-bi ŋiš-bur₂-am₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,245,buru₅ umbin-bi anzud{mušen} hu-ri₂-in{mušen}-na
+c.1.8.2.3,Enmerkar and the lord of Aratta,,246,keše₂-da {d}inana-ka šar₂ dug₄-ge gib-ba
+c.1.8.2.3,Enmerkar and the lord of Aratta,,247,umbin hu-ri₂-in{mušen}-bi u₃-mun kur-ra kur šuba-da ed₃-da
+c.1.8.2.3,Enmerkar and the lord of Aratta,,248,aratta{ki} er₂ še₈-še₈
+c.1.8.2.3,Enmerkar and the lord of Aratta,,249,a bal-bal-am₃ zid₂ dub-dub-ba-am₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,250,kur-ra sizkur a-ra-zu-a giri₁₇ šu ŋal₂-la-am₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,251,lu₂ ₅ nu-me-a lu₂ ₁₀ nu-me-a
+c.1.8.2.3,Enmerkar and the lord of Aratta,,252,unug{ki} zig₃-ga hur-saŋ zubi-še₃ saŋ a-gin₇ i₃-ŋa₂-ŋa₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,253,lugal-zu {ŋeš}tukul-ŋa₂ saŋ ha-ba-an-šum₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,254,ŋe₂₆-e a-da-min₃-na saŋ ga-ba-an-šum₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,255,a-da-min₃ nu-um-zu teš₂ nu-um-gu₇
+c.1.8.2.3,Enmerkar and the lord of Aratta,,256,gud-de₃ gud a₂-ŋal₂-bi nu-um-zu
+c.1.8.2.3,Enmerkar and the lord of Aratta,,257,a-da-min₃ um-zu teš₂ um-gu₇
+c.1.8.2.3,Enmerkar and the lord of Aratta,,258,gud-de₃ gud a₂-ŋal₂-bi um-zu
+c.1.8.2.3,Enmerkar and the lord of Aratta,,259,e-ne a-da-min₃ mi-ni-in-taka₄-taka₄-an
+c.1.8.2.3,Enmerkar and the lord of Aratta,,260,niŋ₂ lu₂ nu-sig₁₀-ge
+c.1.8.2.3,Enmerkar and the lord of Aratta,,261,e-ne in-ga-mu-ni-in-taka₄-taka₄-an
+c.1.8.2.3,Enmerkar and the lord of Aratta,,262,₂-kam-ma-še₃ kiŋ₂-gi₄-a inim mu-ra-be₂-en
+c.1.8.2.3,Enmerkar and the lord of Aratta,,263,de₂-a ša-ra-ab-galam-e-en DU-a he₂-mu-e-ši-dib
+c.1.8.2.3,Enmerkar and the lord of Aratta,,264,e₂-an-na piriŋ šu-ba nu₂-a
+c.1.8.2.3,Enmerkar and the lord of Aratta,,265,šag₄-bi-ta gud gu₃ nun di-dam
+c.1.8.2.3,Enmerkar and the lord of Aratta,,266,ŋi₆-par₄ {ŋeš}meš₃ gibil-gin₇ gurun il₂-la-na
+c.1.8.2.3,Enmerkar and the lord of Aratta,,267,lugal-zu en kul-aba₄{ki}-a-ra šu-a gi₄-mu-na-ab
+c.1.8.2.3,Enmerkar and the lord of Aratta,,268,hur-saŋ ur-saŋ sukud sig₉-ga-am₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,269,an-usan-na {d}utu e₂-bi-še₃ du-gin₇
+c.1.8.2.3,Enmerkar and the lord of Aratta,,270,igi-bi-ta uš₂ la₂-la₂-e-gin₇
+c.1.8.2.3,Enmerkar and the lord of Aratta,,271,{d}nanna si-un₃-na mah-a-gin₇
+c.1.8.2.3,Enmerkar and the lord of Aratta,,272,saŋ-ki-bi me-lem₄ ŋal₂-la-gin₇
+c.1.8.2.3,Enmerkar and the lord of Aratta,,273,ŋiš-gin₇ kur-kur-ra gib-ba-gin₇
+c.1.8.2.3,Enmerkar and the lord of Aratta,,274,saŋ muš₃ aratta{ki}-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,275,{d}lamma sag₉-ga kur me sikil-la-še₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,276,ud-da aratta{ki} aga kug an-na-gin₇ si mu-na-an-sa₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,277,ŋe₂₆-e ud-ba nam-mah-ŋu₁₀ ga-an-zu
+c.1.8.2.3,Enmerkar and the lord of Aratta,,278,še barag-ga nam-mu-un-sig₉-si-ig-ge mar-e nam-me-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,279,še-bi kur-kur-ra nam-il₂-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,280,erin₂-na mu-un-kud nam-mu-un-ŋa₂-ŋa₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,281,še {sa}al-kad₅-e u₃-mu-ni-in-si-si
+c.1.8.2.3,Enmerkar and the lord of Aratta,,282,anše barag la₂-e um-mi-in-la₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,283,anše-bal-e da-bi-a a-ba-an-sig₁₀
+c.1.8.2.3,Enmerkar and the lord of Aratta,,284,tukum-bi kisal aratta{ki}-ka guru₇-še₃ mu-dub-be₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,285,i₃-ge-en am₃-dub-be₂ guru₇-a hi-li-bi
+c.1.8.2.3,Enmerkar and the lord of Aratta,,286,kur-kur-ra izi ŋar-ra-bi a₂-dam me-te-bi
+c.1.8.2.3,Enmerkar and the lord of Aratta,,287,bad₃ ₇-e še-er-ka-an dug₄-ga
+c.1.8.2.3,Enmerkar and the lord of Aratta,,288,nin ur-saŋ me₃-a tum₂-ma
+c.1.8.2.3,Enmerkar and the lord of Aratta,,289,{d}inana ur-saŋ me₃ sahar-ra-ke₄ saŋ ešemen {d}inana di-dam
+c.1.8.2.3,Enmerkar and the lord of Aratta,,290,i₃-ge-en aratta{ki} ur ad₆ sar-gin₇ šu-ta im-ta-ri
+c.1.8.2.3,Enmerkar and the lord of Aratta,,291,ŋe₂₆-e ud-ba ša-ba-na-gam-e-de₃-en
+c.1.8.2.3,Enmerkar and the lord of Aratta,,292,e-ne nam-mah-a-ni ši-im-ma-an-zu-zu-un
+c.1.8.2.3,Enmerkar and the lord of Aratta,,293,iri-gin₇ nam-tur-ŋa₂ gu₂ ši-im-ma-ŋa₂-ŋa₂-an e-ne-ra dug₄-mu-na-ab
+c.1.8.2.3,Enmerkar and the lord of Aratta,,294,ur₅-gin₇ hu-mu-na-ab-be₂-a-ka
+c.1.8.2.3,Enmerkar and the lord of Aratta,,295,kiŋ₂-gi₄-a en aratta{ki}-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,296,ka-ni-gin₇ inim ka-na ba-an-sig₁₀
+c.1.8.2.3,Enmerkar and the lord of Aratta,,297,sumun₂-gin₇ haš₂-a-na mu-un-gur
+c.1.8.2.3,Enmerkar and the lord of Aratta,,298,nim-sahar-ra-gin₇ tir ud zal-le-na mu-un-ŋen
+c.1.8.2.3,Enmerkar and the lord of Aratta,,299,šeg₁₂ kul-aba₄{ki}-a-ka ŋiri₃ hul₂-la mu-ni-in-gub
+c.1.8.2.3,Enmerkar and the lord of Aratta,,300,kisal mah-e kisal gu₂-en-na-ka kiŋ₂-gi₄-a i-ib₂-bur₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,301,lugal-a-ni-ir en kul-aba₄{ki}-ra
+c.1.8.2.3,Enmerkar and the lord of Aratta,,302,ka-ni-gin₇ šu mu-na-an-gi₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,303,gud-gin₇ gu₃ mu-na-an-sig₁₀
+c.1.8.2.3,Enmerkar and the lord of Aratta,,304,gud ri-ri-gin₇ ŋeštug₂ mu-na-an-ŋa₂-ŋa₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,305,lugal-e zag zid-da-ni im-mi-in-tuš
+c.1.8.2.3,Enmerkar and the lord of Aratta,,306,zag gab₂-bu-ni im-ma-ni-in-gi₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,307,i₃-ge-en aratta{ki} ŋalga šum₂-ma im-ma-zu im-me
+c.1.8.2.3,Enmerkar and the lord of Aratta,,308,ud im-zal {d}utu im-ta-e₃-a-ra
+c.1.8.2.3,Enmerkar and the lord of Aratta,,309,{d}utu kalam-ma-ka saŋ bi₂-ib-il₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,310,lugal-e {id₂}idigna {id₂}buranuna-bi-da im-ma-da-an-tab
+c.1.8.2.3,Enmerkar and the lord of Aratta,,311,{id₂}buranun-na {id₂}idigna-da im-ma-da-an-tab
+c.1.8.2.3,Enmerkar and the lord of Aratta,,312,bur gal-gal an-ne₂ ba-sug₂-su₈-ug
+c.1.8.2.3,Enmerkar and the lord of Aratta,,313,bur tur-tur sila₄ u₂-šim dur₂-gin₇ zag-bi-a im-ma-an-us₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,314,bur i-gi₈ an-na da-bi-a ba-su₈-ug
+c.1.8.2.3,Enmerkar and the lord of Aratta,,315,lugal-e eš-da kug-sig₁₇-ga-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,316,en-me-er-kar₂ dumu {d}utu-ke₄ dub₃ mu-un-bad-ba₉-re₆
+c.1.8.2.3,Enmerkar and the lord of Aratta,,317,ud-bi-a dub i-gi₈ im me-a gi-gag unken-na
+c.1.8.2.3,Enmerkar and the lord of Aratta,,318,alan kug-sig₁₇-ga ud dug₃-ga tud-da
+c.1.8.2.3,Enmerkar and the lord of Aratta,,319,{d}nanibgal sig₇-ga sikil mu₂-da
+c.1.8.2.3,Enmerkar and the lord of Aratta,,320,{d}nisaba nin ŋeštug₂ daŋal-la-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,321,e₂-ŊEŠTUG₂.{d}NISABA kug-ga-ni ŋal₂ mu-na-an-taka₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,322,e₂-gal an-na-ka kur₉-ra-ni ŋeštug₂ mu-un-ŋa₂-ŋa₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,323,en-e e₂-nun mah-a-ni ŋal₂ ba-an-taka₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,324,{ŋeš}li₂-id-ga mah-a-ni ki ba-an-us₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,325,lugal-e še-ta še libir-ra-ni šu ba-ra-an-bal
+c.1.8.2.3,Enmerkar and the lord of Aratta,,326,munu₄ ki-šar₂-ra a ba-ni-in-si
+c.1.8.2.3,Enmerkar and the lord of Aratta,,327,nundum-bi {u₂}hirin X-sug₄-ge
+c.1.8.2.3,Enmerkar and the lord of Aratta,,328,{sa}al-kad₅-e igi im-mi-in-tur-tur
+c.1.8.2.3,Enmerkar and the lord of Aratta,,329,še guru₇ ka i-ni-in-si zu₂ buru₅{mušen}-e bi₂-in-tah
+c.1.8.2.3,Enmerkar and the lord of Aratta,,330,anše barag la₂-e um-mi-in-la₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,331,anše-bal-e da-bi-a ba-an-sig₁₀
+c.1.8.2.3,Enmerkar and the lord of Aratta,,332,lugal en ŋeštug₂ daŋal-la-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,333,en unug{ki}-ga en kul-aba₄{ki}-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,334,har-ra-an aratta{ki}-ke₄ si bi₂-in-sa₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,335,nam-lu₂-ulu₃ kiši₆ ki-in-dar-ra-gin₇
+c.1.8.2.3,Enmerkar and the lord of Aratta,,336,aratta{ki}-aš ni₂-ba mu-un-sub₂-be₂-eš
+c.1.8.2.3,Enmerkar and the lord of Aratta,,337,en-e kiŋ₂-gi₄-a kur-še₃ du-ur₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,338,aratta{ki}-aš inim mu-na-ab-tah-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,339,kiŋ₂-gi₄-a en aratta{ki}-ra u₃-na-dug₄ u₃-na-de₃-tah
+c.1.8.2.3,Enmerkar and the lord of Aratta,,340,ŋidru-ŋa₂ ur₂-bi me nam-nun-na-ka
+c.1.8.2.3,Enmerkar and the lord of Aratta,,341,pa-bi kul-aba₄{ki}-a an-dul₃-eš i₃-ak
+c.1.8.2.3,Enmerkar and the lord of Aratta,,342,pa mul-mul-la-bi eš₃ e₂-an-na-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,343,kug {d}inana-ke₄ ni₂ im-ši-ib-te-en-ten
+c.1.8.2.3,Enmerkar and the lord of Aratta,,344,ŋidru um-ta-an-kid₇ hu-mu-un-da-ŋal₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,345,na₄-gug-ŋiš-dili na₄-za-gin₃-ŋiš-dili-gin₇ šu-ni-a hu-mu-un-ŋal₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,346,en aratta{ki}-ke₄ igi-ŋu₁₀-še₃ hu-mu-un-tum₂ e-ne-ra dug₄-mu-na-ab
+c.1.8.2.3,Enmerkar and the lord of Aratta,,347,ur₅-gin₇ hu-mu-na-ab-be₂-a-ka
+c.1.8.2.3,Enmerkar and the lord of Aratta,,348,kiŋ₂-gi₄-a aratta{ki}-aš du-ni
+c.1.8.2.3,Enmerkar and the lord of Aratta,,349,sahar kaskal-la ŋiri₃-ni mu-un-si
+c.1.8.2.3,Enmerkar and the lord of Aratta,,350,na₄ tur-tur hur-saŋ-ŋa₂-ke₄ suh₃-sah₄ mu-un-da-ab-za
+c.1.8.2.3,Enmerkar and the lord of Aratta,,351,ušumgal edin-na-ba kiŋ₂-ŋe₂₆-gin₇ gaba-ri nu-mu-ni-in-tuku
+c.1.8.2.3,Enmerkar and the lord of Aratta,,352,kiŋ₂-gi₄-a aratta{ki}-aš um-ma-te-a-ra
+c.1.8.2.3,Enmerkar and the lord of Aratta,,353,nam-lu₂-ulu₃ aratta{ki}-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,354,anše barag la₂-e u₆ di-de₃ im-ma-sug₂-sug₂-ge-eš
+c.1.8.2.3,Enmerkar and the lord of Aratta,,355,kiŋ₂-gi₄-a kisal aratta{ki}-ka
+c.1.8.2.3,Enmerkar and the lord of Aratta,,356,še guru₇ ka bi₂-in-si zu₂ buru₅{mušen}-e bi₂-in-tah
+c.1.8.2.3,Enmerkar and the lord of Aratta,,357,šeŋₓ an-na ud ŋal₂-la-gin₇
+c.1.8.2.3,Enmerkar and the lord of Aratta,,358,aratta{ki} he₂-ŋal₂-la i₃-du₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,359,diŋir dur₂-bi-a ba-da-ab-gi₄-a-gin₇
+c.1.8.2.3,Enmerkar and the lord of Aratta,,360,aratta{ki} šag₄-ŋar-ra-ni am₃-la₂-la₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,361,nam-lu₂-ulu₃ aratta{ki}-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,362,munu₄ a sig₉-ga-na a-šag₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,363,eŋer-ba ra₂-gaba šag₄-tam
+c.1.8.2.3,Enmerkar and the lord of Aratta,,364,taka₄-ba
+c.1.8.2.3,Enmerkar and the lord of Aratta,,365,
+c.1.8.2.3,Enmerkar and the lord of Aratta,,365B,
+c.1.8.2.3,Enmerkar and the lord of Aratta,,366,dumu-dumu aratta{ki} ŋeštug₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,367,aratta{ki}-aš inim mu-un-bur₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,368,ur₅-da aratta{ki}-a šu-ta
+c.1.8.2.3,Enmerkar and the lord of Aratta,,370,en unug{ki}-ga-ra šu-ni
+c.1.8.2.3,Enmerkar and the lord of Aratta,,371,me-en-de₃ sug₄-ga lul-la-be₂-eš₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,372,en kul-aba₄{ki}-a-ra {na₄}gug lul-la-me-a ga-mu-na-dur₂-ru-ne-en-de₃-en
+c.1.8.2.3,Enmerkar and the lord of Aratta,,373,ab-ba-ab-ba inim zu-ne
+c.1.8.2.3,Enmerkar and the lord of Aratta,,374,šu teš₂-a bi₂-ib-ri-eš zag e₂-ŋar₈-e bi₂-ib-us₂-eš
+c.1.8.2.3,Enmerkar and the lord of Aratta,,375,en-ra e₂ sikil-bi hu-mu-un-ŋa₂-ŋa₂-e-ne
+c.1.8.2.3,Enmerkar and the lord of Aratta,,376,ŋidru-ni šag₄ e₂-gal-la
+c.1.8.2.3,Enmerkar and the lord of Aratta,,377,bur₂-ra-bi inim šag₄-ga-na bi₂-ib-be₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,378,a-a-zu lugal-ŋu₁₀ mu-e-ši-in-gi₄-in-nam
+c.1.8.2.3,Enmerkar and the lord of Aratta,,379,en-me-er-kar₂ dumu {d}utu-ke₄ mu-e-ši-in-gi₄-in-nam
+c.1.8.2.3,Enmerkar and the lord of Aratta,,380,lugal-zu dug₄-ga-ni nam-ŋu₁₀ tah-a-ni nam-ŋu₁₀
+c.1.8.2.3,Enmerkar and the lord of Aratta,,381,lugal-ŋu₁₀ a-na bi₂-in-dug₄ a-na bi₂-in-tah-am₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,382,ŋidru-ŋa₂ ur₂-bi me nam-nun-na-ka
+c.1.8.2.3,Enmerkar and the lord of Aratta,,383,pa-bi kul-aba₄{ki}-a an-dul₃-eš i₃-ak
+c.1.8.2.3,Enmerkar and the lord of Aratta,,384,pa mul-mul-la-bi eš₃ e₂-an-na-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,385,kug {d}inana-ke₄ ni₂ im-ši-ib-te-en-ten
+c.1.8.2.3,Enmerkar and the lord of Aratta,,386,ŋidru um-ta-an-kid₇ hu-mu-un-da-ŋal₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,387,na₄-gug-ŋiš-dili na₄-za-gin₃-ŋiš-dili-gin₇ šu-ni-a hu-mu-un-ŋal₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,388,en aratta{ki}-ke₄ igi-ŋu₁₀-še₃ hu-mu-un-tum₂ ŋa₂-a-ra ha-ma-an-dug₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,389,ur₅-gin₇ hu-mu-na-ab-be₂-a-ka
+c.1.8.2.3,Enmerkar and the lord of Aratta,,390,nam-bi-še₃ itima-a ba-an-kur₉ šag₄-ka-tab-ba ba-an-nu₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,391,ud im-zal inim im-šar₂-šar₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,392,inim ka-še₃ nu-ŋar-ra im-me
+c.1.8.2.3,Enmerkar and the lord of Aratta,,393,inim-ma še anše gu₇-a-gin₇ ŋiri₃ mi-ni-ib-ni₁₀-ni₁₀-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,394,i₃-ne-eš₂ lu₂ lu₂-u₃-ra a-na na-an-dug₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,395,lu₂ lu₂-ra dili a-na na-an-tah
+c.1.8.2.3,Enmerkar and the lord of Aratta,,396,lu₂ lu₂-ra in-na-ab-be₂-a ur₅ he₂-en-na-nam-ma-am₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,397,kiŋ₂-gi₄-a lugal-zu en kul-aba₄{ki}-ra u₃-na-a-dug₄ u₃-na-de₃-tah
+c.1.8.2.3,Enmerkar and the lord of Aratta,,398,ŋidru ŋiš nam-me mu ŋiš na-an-sa₄-sa₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,399,šu-na um-ma-ni-in-ŋar igi um-ši-bar-bar
+c.1.8.2.3,Enmerkar and the lord of Aratta,,400,{ŋeš}ildag₂ nam-me {ŋeš}šim-gig nam-me
+c.1.8.2.3,Enmerkar and the lord of Aratta,,401,{ŋeš}erin nam-me {ŋeš}šu-ur₂-men₂ nam-me
+c.1.8.2.3,Enmerkar and the lord of Aratta,,402,{ŋeš}ha-šu-ur₂ nam-me {ŋeš}ŋišnimbar nam-me
+c.1.8.2.3,Enmerkar and the lord of Aratta,,403,{ŋeš}esi nam-me {ŋeš}za-ba-lum nam-me
+c.1.8.2.3,Enmerkar and the lord of Aratta,,404,{ŋeš}asal lam {ŋeš}gigir-ra nam-me
+c.1.8.2.3,Enmerkar and the lord of Aratta,,405,{ŋeš}kid-da ŋiš-{kuš}usan₃-na nam-me
+c.1.8.2.3,Enmerkar and the lord of Aratta,,406,kug-sig₁₇ nam-me urud nam-me
+c.1.8.2.3,Enmerkar and the lord of Aratta,,407,kug-me-a zid kug-babbar nam-me
+c.1.8.2.3,Enmerkar and the lord of Aratta,,408,{na₄}gug nam-me {na₄}za-gin₃ nam-me
+c.1.8.2.3,Enmerkar and the lord of Aratta,,409,ŋidru um-ta-an-kid₇ hu-mu-un-da-ŋal₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,410,na₄-gug-ŋiš-dili na₄-za-gin₃-ŋiš-dili-gin₇ šu-ni-a hu-mu-un-ŋal₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,411,en kul-aba₄{ki}-a-ke₄ igi-ŋu₁₀-še₃ hu-mu-un-tum₂ e-ne-ra dug₄-mu-na-ab
+c.1.8.2.3,Enmerkar and the lord of Aratta,,412,ur₅-gin₇ hu-mu-na-ab-be₂-a-ka
+c.1.8.2.3,Enmerkar and the lord of Aratta,,413,kiŋ₂-gi₄-a dur₃ si-gigir ku₅-ra₂-gin₇ ka si-il-la mu-un-ŋen
+c.1.8.2.3,Enmerkar and the lord of Aratta,,414,anše edin-na bar-rim₄-ma kaš₄ di-gin₇ kušum₄ i₃-tag-tag-ge
+c.1.8.2.3,Enmerkar and the lord of Aratta,,415,ka-ni tum₉-a bi₂-ib-zi-zi-zi
+c.1.8.2.3,Enmerkar and the lord of Aratta,,416,udu zulumhi udu sumur-ba du₇-du₇-gin₇ dub₃-us₂ dili mu-un-dab₅
+c.1.8.2.3,Enmerkar and the lord of Aratta,,417,šeg₁₂ kul-aba₄{ki}-a-ka ŋiri₃ hul₂ mi-ni-in-gub
+c.1.8.2.3,Enmerkar and the lord of Aratta,,418,lugal-a-ni en kul-aba₄{ki}-a-ra
+c.1.8.2.3,Enmerkar and the lord of Aratta,,419,inim-inim-ma mu-na-ra-si-si
+c.1.8.2.3,Enmerkar and the lord of Aratta,,420,en-me-er-kar₂-ra {d}en-ki-ke₄ ŋeštug₂ mu-na-an-šum₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,421,en-e aŋrig mah-a-ni a₂ ba-da-an-aŋ₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,422,e₂-ni
+c.1.8.2.3,Enmerkar and the lord of Aratta,,423,lugal-e sumur₃ šu ba-ra-an-ti
+c.1.8.2.3,Enmerkar and the lord of Aratta,,424,mu-un-dul-gin₇ šu bi₂-in-gur-gur igi bi₂-in-ŋa₂-ŋa₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,425,{na₄}na šim-gin₇ zu₂ ba-ni-in-ra
+c.1.8.2.3,Enmerkar and the lord of Aratta,,426,gi su-lim-ma-ka i₃-gin₇ mu-ni-in-de₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,427,ud-ta ŋissu-še₃ am₃-ed₂-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,428,ŋissu-ta ud-še₃ am₃-ed₂-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,429,mu ₅-am₃ mu ₁₀-am₃ ba-zal-la-ri
+c.1.8.2.3,Enmerkar and the lord of Aratta,,430,gi su-lim-ma giŋ₄-gin₇ bi₂-in-gaz
+c.1.8.2.3,Enmerkar and the lord of Aratta,,431,en-e igi hul₂-la im-ši-in-bar
+c.1.8.2.3,Enmerkar and the lord of Aratta,,432,i₃ li i₃ li₂ kur šuba-a-ka sag₃-ga i-ni-in-de₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,433,en-e kiŋ₂-gi₄-a kur-še₃ du-ur₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,434,ŋidru šu-na mu-un-na-ŋa₂-ŋa₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,435,kiŋ₂-gi₄-a aratta{ki}-aš du-a-ni
+c.1.8.2.3,Enmerkar and the lord of Aratta,,436,u₅{mušen}-gin₇ hur-saŋ-ŋa₂ nim-gin₇ sahar niŋin-a
+c.1.8.2.3,Enmerkar and the lord of Aratta,,437,HI.SUHUR{ku₆}-gin₇ kur ur₃-ur₃-ru-da-ni aratta{ki}-aš ba-te
+c.1.8.2.3,Enmerkar and the lord of Aratta,,438,kisal aratta{ki}-ka ŋiri₃ hul₂-la mi-ni-in-gub
+c.1.8.2.3,Enmerkar and the lord of Aratta,,439,ŋidru mu-un-gub
+c.1.8.2.3,Enmerkar and the lord of Aratta,,440,šu kiŋ₂ si bi₂-in-sa₂ a kiŋ₂ bi₂-ib-ak-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,441,en aratta{ki}-ke₄ ŋidru-ta igi tab-ba
+c.1.8.2.3,Enmerkar and the lord of Aratta,,442,itima-ka ki-tuš kug-ga-ni-a ni₂ im-kar₂-kar₂-ka
+c.1.8.2.3,Enmerkar and the lord of Aratta,,443,en-e šag₄-tam-a-ni-ir gu₃ mu-na-de₂-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,444,aratta{ki} u₈ sag₂-gin₇ he₂-em kaskal-bi kur ki-bal he₂-em
+c.1.8.2.3,Enmerkar and the lord of Aratta,,445,mah aratta{ki} kug {d}inana-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,446,en kul-aba₄{ki}-ra mu-na-an-šum₂-ma-ta
+c.1.8.2.3,Enmerkar and the lord of Aratta,,447,lu₂-kiŋ₂-gi₄-a mu-un-gi₄-a-ni
+c.1.8.2.3,Enmerkar and the lord of Aratta,,448,{d}utu ed₂-de₃ inim dugud pa ed₂-de₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,449,a-da-al kug {d}inana-ke₄ igi me-ši-kar₂-kar₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,450,aratta{ki}-a lul-e me-a he₂-en-de₃-dib-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,451,al me-da-aš šu al-zil₂-zil₂-i-a
+c.1.8.2.3,Enmerkar and the lord of Aratta,,452,me-en-de₃ sug₄-ga lul-la-be₂-eš₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,453,en kul-aba₄{ki}-ra {na₄}gug lul-la-me-a mu-na-dur₂-ru-ne-en-de₃-en
+c.1.8.2.3,Enmerkar and the lord of Aratta,,454,en aratta{ki}-ke₄ kiŋ₂-gi₄-a-ar
+c.1.8.2.3,Enmerkar and the lord of Aratta,,455,inim-ma dub mah-gin₇ šu mu-na-an-sig₁₀
+c.1.8.2.3,Enmerkar and the lord of Aratta,,456,kiŋ₂-gi₄-a lugal-zu en kul-aba₄{ki}-a-ra u₃-na-dug₄ u₃-na-de₃-tah
+c.1.8.2.3,Enmerkar and the lord of Aratta,,457,ur na-an-gig₂-ge ur na-an-babbar-re
+c.1.8.2.3,Enmerkar and the lord of Aratta,,458,ur na-an-su₄-e ur na-an-dara₄-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,459,ur na-an-sig₇-sig₇-ge ur na-an-gun₃-gun₃ ur hu-mu-ra-ab-šum₂-mu
+c.1.8.2.3,Enmerkar and the lord of Aratta,,460,ur-ŋu₁₀ ur-ra-ni a-da-min₃ he₂-em-da-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,461,a₂-ŋal₂ he₂-zu e-ne-ra dug₄-mu-na-ab
+c.1.8.2.3,Enmerkar and the lord of Aratta,,462,ur₅-gin₇ hu-mu-na-ab-be₂-a-ka
+c.1.8.2.3,Enmerkar and the lord of Aratta,,463,kiŋ₂-gi₄-a u₂-lum a-lam mu-un-ŋen
+c.1.8.2.3,Enmerkar and the lord of Aratta,,464,šeg₁₂ kul-aba₄{ki}-ke₄ eŋer sig₁₀-ga-gin₇ inim mu-un-gi₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,465,ud₅-gin₇ ka gaba kur-ra-ka igi mi-ni-ib-il₂-il₂-i
+c.1.8.2.3,Enmerkar and the lord of Aratta,,466,mir mah kiši₁₇-kiši₁₇-ta zig₃-ga-gin₇ e₂ me mu-un-ta-la₂-la₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,467,saŋ mi-ni-in-il₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,468,aratta{ki}-a-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,469,ki-tuš-a-ni-ta a mah e₃-a-gin₇ mu-un-na-ab-be₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,470,kiŋ₂-gi₄-a en aratta{ki}-ra u₃-na-dug₄ u₃-na-de₃-tah
+c.1.8.2.3,Enmerkar and the lord of Aratta,,471,tug₂ na-an-gig₂-ge tug₂ na-an-babbar-re
+c.1.8.2.3,Enmerkar and the lord of Aratta,,472,tug₂ na-an-su₄-e tug₂ na-an-dara₄-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,473,tug₂ na-an-sig₇-sig₇-ge tug₂ na-an-gun₃-gun₃ tug₂ ga-mu-na-ab-šum₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,474,ur-ŋu₁₀ gu₂-da ŋal₂ {d}en-lil₂-la₂ ur šu ga-mu-na-taka₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,475,ur-ŋu₁₀ ur-ra-ni a-da-min₃ he₂-em-di-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,476,a₂-ŋal₂ he₂-zu-zu e-ne-ra dug₄-mu-na-ab
+c.1.8.2.3,Enmerkar and the lord of Aratta,,477,₂-kam-ma-še₃ u₃-na-dug₄ u₃-na-de₃-tah
+c.1.8.2.3,Enmerkar and the lord of Aratta,,478,en₃-tukum-še₃ lul-da he₂-ni-ib-dib-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,479,iri-na udu-gin₇ igi-ni hu-mu-un-su₈-ub
+c.1.8.2.3,Enmerkar and the lord of Aratta,,480,e-ne sipad-bi-gin₇ eŋer-bi he₂-em-us₂-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,481,du-a-ni kur kug {na₄}za-gin₃-na
+c.1.8.2.3,Enmerkar and the lord of Aratta,,482,gi niŋ₂ dub-ba-gin₇ gu₂ hu-mu-na-ab-ŋar
+c.1.8.2.3,Enmerkar and the lord of Aratta,,483,kug-sig₁₇ kug-babbar su₃-ra₂-aŋ₂-bi
+c.1.8.2.3,Enmerkar and the lord of Aratta,,484,{d}inana nin e₂-an-na-ra
+c.1.8.2.3,Enmerkar and the lord of Aratta,,485,kisal aratta{ki}-ka guru₇-še₃ hu-mu-un-dub-dub-bu
+c.1.8.2.3,Enmerkar and the lord of Aratta,,486,₃-kam-ma-še₃ u₃-na-dug₄ u₃-na-de₃-tah
+c.1.8.2.3,Enmerkar and the lord of Aratta,,487,iri-ni ir₇-saŋ{mušen}-gin₇ ŋiš-bi-ta na-an-tar-ta-ta-an
+c.1.8.2.3,Enmerkar and the lord of Aratta,,488,na-an-dub₂-be₂-en
+c.1.8.2.3,Enmerkar and the lord of Aratta,,489,ganba ŋal₂-la-gin₇ na-an-si-ig-en
+c.1.8.2.3,Enmerkar and the lord of Aratta,,490,lil₂-e nam-mi-ni-in-dib-be₂-en
+c.1.8.2.3,Enmerkar and the lord of Aratta,,491,du-a-ni na₄ hur-saŋ-ŋa₂ šu u₃-mu-ni-in-ti
+c.1.8.2.3,Enmerkar and the lord of Aratta,,492,eš₃ gal eridug{ki} abzu e₂-nun ha-ma-du₃-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,493,a-sal-bar-bi im-šu₂-ra-ke₄ šu ha-ma-ni-ib-tag-ge
+c.1.8.2.3,Enmerkar and the lord of Aratta,,494,ŋissu-bi kalam-ma ha-ma-ni-ib-la₂-la₂-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,495,inim dug₄-ga-ni X-šar₂-a-ka
+c.1.8.2.3,Enmerkar and the lord of Aratta,,496,ŋiškim-a-ni e-ne-ra dug₄-mu-na-ab
+c.1.8.2.3,Enmerkar and the lord of Aratta,,497,ud-ba en
+c.1.8.2.3,Enmerkar and the lord of Aratta,,498,barag-ga dur₂ ŋar-ra numun nun-na-ke₄-ne
+c.1.8.2.3,Enmerkar and the lord of Aratta,,499,₁-a mu₂-a
+c.1.8.2.3,Enmerkar and the lord of Aratta,,500,dug₄-ga-ni mah-am₃ šag₄-bi su-su-a-am₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,501,kiŋ₂-gi₄-a ka-ni dugud šu nu-mu-un-da-an-gi₄-gi₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,502,bar kiŋ₂-gi₄-a ka-ni dugud šu nu-mu-un-da-an-gi₄-gi₄-da-ka
+c.1.8.2.3,Enmerkar and the lord of Aratta,,503,en kul-aba₄{ki}-a-ke₄ im-e šu bi₂-in-ra inim dub-gin₇ bi₂-in-gub
+c.1.8.2.3,Enmerkar and the lord of Aratta,,504,ud-bi-ta inim im-ma gub-bu nu-ub-ta-ŋal₂-la
+c.1.8.2.3,Enmerkar and the lord of Aratta,,505,i₃-ne-eš₂ {d}utu ud ne-a ur₅ he₂-en-na-nam-ma-am₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,506,en kul-aba₄{ki}-a-ke₄ inim dub-gin₇ bi₂-in-gub ur₅ he₂-en-na-nam-ma
+c.1.8.2.3,Enmerkar and the lord of Aratta,,507,kiŋ₂-gi₄-a mušen-gin₇ a₂ dub₂ i₃-ak-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,508,ur-bar-ra maš₂-e us₂-sa-gin₇ guru₅-uš i₃-bur₂-bur₂-re
+c.1.8.2.3,Enmerkar and the lord of Aratta,,509,hur-saŋ ₅ hur-saŋ ₆ hur-saŋ ₇-e im-me-re-bal-bal
+c.1.8.2.3,Enmerkar and the lord of Aratta,,510,igi mu-un-il₂ aratta{ki}-aš ba-te
+c.1.8.2.3,Enmerkar and the lord of Aratta,,511,kisal aratta{ki}-ka ŋiri₃ hul₂-la mi-ni-in-gub
+c.1.8.2.3,Enmerkar and the lord of Aratta,,512,nam-nir-ŋal₂ lugal-a-na mu-un-zu
+c.1.8.2.3,Enmerkar and the lord of Aratta,,513,bur₂-ra-bi inim šag₄-ga-na bi₂-ib₂-be₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,514,kiŋ₂-gi₄-a en aratta{ki}-ra mu-na-ab-bal-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,515,a-a-zu lugal-ŋu₁₀ mu-e-ši-in-gi₄-in-nam
+c.1.8.2.3,Enmerkar and the lord of Aratta,,516,en unug{ki}-ga en kul-aba₄{ki}-a-ke₄ mu-e-ši-in-gi₄-in-nam
+c.1.8.2.3,Enmerkar and the lord of Aratta,,517,lugal-zu dug₄-ga-ni nam-ŋu₁₀ tah-a-ni nam-ŋu₁₀
+c.1.8.2.3,Enmerkar and the lord of Aratta,,518,lugal-ŋu₁₀ a-na bi₂-in-dug₄ a-na bi₂-in-tah-am₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,519,lugal-ŋu₁₀ {ŋeš}meš₃ gal dumu {d}en-lil₂-la₂-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,520,ŋiš-bi an ki-da mu₂-a
+c.1.8.2.3,Enmerkar and the lord of Aratta,,521,pa-bi an-ne₂ us₂-sa-am₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,522,ur₂-bi ki-a gub-ba-bi
+c.1.8.2.3,Enmerkar and the lord of Aratta,,523,nam-en nam-lugal-la pa e₃ ak-a
+c.1.8.2.3,Enmerkar and the lord of Aratta,,524,en-me-er-kar₂ dumu {d}utu-ke₄ im ma-an-šum₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,525,en aratta{ki}-ke₄ im igi u₃-ni-bar šag₄ inim-ma u₃-bi₂-zu
+c.1.8.2.3,Enmerkar and the lord of Aratta,,526,a-na ma-ab-be₂-en-na-bi u₃-mu-e-dug₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,527,a ru-a sun₄ {na₄}za-gin₃ keše₂-da-ar
+c.1.8.2.3,Enmerkar and the lord of Aratta,,528,ab₂ kal-la-ga-ni kur me sikil-la-ka tud-da-ar
+c.1.8.2.3,Enmerkar and the lord of Aratta,,529,sahar aratta{ki}-ka a₂ e₃-a-ar
+c.1.8.2.3,Enmerkar and the lord of Aratta,,530,ubur ab₂ zid-da-ka ga gu₇-a-ar
+c.1.8.2.3,Enmerkar and the lord of Aratta,,531,kul-aba₄{ki} kur me gal-gal-la-ka nam-en-na tum₂-ma-ar
+c.1.8.2.3,Enmerkar and the lord of Aratta,,532,en-me-er-kar₂ dumu {d}utu-ra
+c.1.8.2.3,Enmerkar and the lord of Aratta,,533,inim-bi eš₃ e₂-an-na-ka inim dug₃ ga-mu-na-ab-dug₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,534,ŋi₆-par₄ {ŋeš}meš₃ gibil-gin₇ gurun il₂-la-na
+c.1.8.2.3,Enmerkar and the lord of Aratta,,535,lugal-ŋu₁₀ en kul-aba₄{ki}-ra šu-a ga-mu-na-ab-gi₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,536,ur₅-gin₇ hu-mu-na-ab-be₂-a-ka
+c.1.8.2.3,Enmerkar and the lord of Aratta,,537,en aratta{ki}-ke₄ kiŋ₂-gi₄-a-ar
+c.1.8.2.3,Enmerkar and the lord of Aratta,,538,im šu-rin-na-ni šu ba-ši-in-ti
+c.1.8.2.3,Enmerkar and the lord of Aratta,,539,en aratta{ki}-ke₄ im-ma igi i-ni-in-bar
+c.1.8.2.3,Enmerkar and the lord of Aratta,,540,inim dug₄-ga gag-am₃ saŋ-ki mi-re₂-da-am₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,541,en aratta{ki}-ke₄ im šu-rin-na-ni igi im-bar-bar-re
+c.1.8.2.3,Enmerkar and the lord of Aratta,,542,ud-ba en men nam-en-na tum₂-ma dumu {d}en-lil₂-la₂-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,543,{d}iškur an ki-a gu₃ nun-bi di-dam
+c.1.8.2.3,Enmerkar and the lord of Aratta,,544,ud du₇-du₇ ug gal-la ki nam-mi-ni-in-gub
+c.1.8.2.3,Enmerkar and the lord of Aratta,,545,kur-kur mu-un-tuku₄-tuku₄-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,546,hur-saŋ mu-un-da-peš₁₁-peš₁₁-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,547,ni₂ me-lem₄ gaba-na ŋal₂-la-bi
+c.1.8.2.3,Enmerkar and the lord of Aratta,,548,hur-saŋ giri₁₇-zal-la gu₃ mi-ni-in-il₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,549,aratta{ki} bar ud-bi šag₄ hur-saŋ-ŋa₂-ka
+c.1.8.2.3,Enmerkar and the lord of Aratta,,550,gig ni₂-bi mu₂-a gu₂ ni₂-bi an-ga-mu₂-a
+c.1.8.2.3,Enmerkar and the lord of Aratta,,551,gig ni₂-bi mu₂-a guru₇
+c.1.8.2.3,Enmerkar and the lord of Aratta,,552,en aratta{ki}-ra mu-na-ni-in-ku₄-ku₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,553,kisal aratta{ki}-a-ka igi-ni-še₃ i-im-dub
+c.1.8.2.3,Enmerkar and the lord of Aratta,,554,en aratta{ki}-ke₄ gig-e igi bi₂-in-du₈
+c.1.8.2.3,Enmerkar and the lord of Aratta,,555,kiŋ₂-gi₄-a igi sag₃-sag₃-a-ni mu-un-ši-ib-UR₂×KID₂-UR₂×KID₂-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,556,en aratta{ki}-ke₄ kiŋ₂-gi₄-a-ar gu₃ mu-un-na-de₂-e
+c.1.8.2.3,Enmerkar and the lord of Aratta,,557,mah-bi {d}inana nin kur-kur-ra-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,558,iri-ni aratta{ki} šu li-bi₂-in-dag unug{ki}-e la-ba-an-KA
+c.1.8.2.3,Enmerkar and the lord of Aratta,,559,e₂-za-gin₃-na-ka-ni šu li-bi₂-in-dag eš₃ e₂-an-na-ka la-ba-an-KA
+c.1.8.2.3,Enmerkar and the lord of Aratta,,560,kur me sikil-la-ka šu li-bi₂-in-dag šeg₁₂ kul-aba₄{ki}-a-ke₄ la-ba-an-KA
+c.1.8.2.3,Enmerkar and the lord of Aratta,,561,ŋiš-nu₂ še-er-kan₂ dug₄ šu li-bi₂-in-dag ŋiš-nu₂ gi-rin-na la-ba-an-KA
+c.1.8.2.3,Enmerkar and the lord of Aratta,,562,en-ra šu sikil-la-ka-ni šu li-bi₂-in-dag en unug{ki}-ga en kul-aba₄{ki}-a-ra la-ba-an-KA
+c.1.8.2.3,Enmerkar and the lord of Aratta,,563,aratta{ki} zid-da gab₂-bu-ba
+c.1.8.2.3,Enmerkar and the lord of Aratta,,564,{d}inana nin kur-kur-ra-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,565,a mah e₃-a-gin₇ mu-un-na-niŋin₂-niŋin₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,566,lu₂-be₂-ne lu₂-lu₂-ta dar-a
+c.1.8.2.3,Enmerkar and the lord of Aratta,,567,lu₂ {d}dumu-zid-de₃ lu₂-ta e₃-a-me-eš
+c.1.8.2.3,Enmerkar and the lord of Aratta,,568,inim kug {d}inana ki-bi-še₃ ŋar-ŋar-me-eš
+c.1.8.2.3,Enmerkar and the lord of Aratta,,569,ur igi-ŋal₂-la DA.A.SAR {d}dumu-zid-da he₂-ši-im-niŋin₂-niŋin₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,570,ul₄ ŋa₂-nam-ma dumu ur₄-X
+c.1.8.2.3,Enmerkar and the lord of Aratta,,571,igi a-ma-ru-ka gub-ba-me-eš
+c.1.8.2.3,Enmerkar and the lord of Aratta,,572,eŋer a-ma-ru ba-ur₃-ra-ta
+c.1.8.2.3,Enmerkar and the lord of Aratta,,573,{d}inana nin kur-kur-ra-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,574,nam gal ki aŋ₂ {d}dumu-zid-da-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,575,a nam-til₃-la-ka mu-un-ne-sud-sud
+c.1.8.2.3,Enmerkar and the lord of Aratta,,576,gu₂ kalam-ma-ka ŋiš mu-un-ne-en-ŋal₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,577,ur igi-ŋal₂-la du-a-ni
+c.1.8.2.3,Enmerkar and the lord of Aratta,,578,{tug₂}saŋšu gun₃-a ugu-na i-im-šu₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,579,{tug₂}piriŋ-piriŋ-ŋa₂ zag mu-ni-in-keše₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,580,il₂-la šu mi-ni-in-du₈-X-am₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,581,mi-ni-in-dug₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,582,nin ba-an-PA
+c.1.8.2.3,Enmerkar and the lord of Aratta,,583,
+c.1.8.2.3,Enmerkar and the lord of Aratta,,584,{d}inana
+c.1.8.2.3,Enmerkar and the lord of Aratta,,585,en₃-du-ni {d}ama-ušumgal-an-na nitalam-a-na ba-dug₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,586,ud-bi-ta ŋeštug₂ kug ŋeštug₂ kug {d}dumu-zid-da-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,587,šu mu-ni-in-du₇ šir₃ mu-ni-in-dug₄ inim mu-ni-in-zu
+c.1.8.2.3,Enmerkar and the lord of Aratta,,588,um-ma kur me sikil-še₃ du-a-ni
+c.1.8.2.3,Enmerkar and the lord of Aratta,,589,ki-sikil ud-da-na til-la-gin₇ im-ma-na-ta-e₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,590,šembi₂-zid-da igi-na mu-un-gun₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,591,tug₂ babbar-ra zag mu-ni-in-keše₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,592,aga zid-da iti₆-gin₇ mu-un-e₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,593,saŋ si ba-ni-in-sa₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,594,nitalam-a-ni en-me-er-kar₂ barag-ge₄ mu-un-da-ab-si
+c.1.8.2.3,Enmerkar and the lord of Aratta,,595,um-mi-in-zi-zi
+c.1.8.2.3,Enmerkar and the lord of Aratta,,596,ga-nam im-da-lu-lu aratta{ki}-aš u₈-da sila₄-bi
+c.1.8.2.3,Enmerkar and the lord of Aratta,,597,ga-nam im-da-lu-lu aratta{ki}-aš ud₅-da maš₂-bi
+c.1.8.2.3,Enmerkar and the lord of Aratta,,598,ga-nam im-da-lu-lu aratta{ki}-aš ab₂-da amar-bi
+c.1.8.2.3,Enmerkar and the lord of Aratta,,599,ga-nam im-da-lu-lu aratta{ki}-aš eme₅ dur₃ kaš₄ gig₂-ga-bi
+c.1.8.2.3,Enmerkar and the lord of Aratta,,600,aratta{ki}-a na-an-da-be₂-a
+c.1.8.2.3,Enmerkar and the lord of Aratta,,601,guru₇-še₃ he₂-em-dub-dub gu₂ he₂-em-ŋar-ŋar
+c.1.8.2.3,Enmerkar and the lord of Aratta,,602,he₂-ŋal₂ za-a he₂-ŋal₂-zu
+c.1.8.2.3,Enmerkar and the lord of Aratta,,603,en aratta{ki}-ra u₃-mu-ni-in-ak
+c.1.8.2.3,Enmerkar and the lord of Aratta,,604,
+c.1.8.2.3,Enmerkar and the lord of Aratta,,605,
+c.1.8.2.3,Enmerkar and the lord of Aratta,,606,mu-un-ta-e₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,607,si mu-un-na-ab-sa₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,611,me-te-aš ŋal₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,612,i-lu šag₄-ga
+c.1.8.2.3,Enmerkar and the lord of Aratta,,613,he₂-ŋal₂-zu
+c.1.8.2.3,Enmerkar and the lord of Aratta,,614,{d}en-lil₂-le saŋ-eš mu-ri-in-rig₇ he₂-zu-zu
+c.1.8.2.3,Enmerkar and the lord of Aratta,,615,kar₂ a-a-ni nu-lam-lam a nu-un-de₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,616,{d}en-lil₂ lugal kur-kur-ra-ke₄ hu-mu-un-kar₂-re ni₂-ba
+c.1.8.2.3,Enmerkar and the lord of Aratta,,617,eš₂-gar₃ im-ma-an-du₃-a-gin₇
+c.1.8.2.3,Enmerkar and the lord of Aratta,,618,nam-lu₂-u₁₈-lu aratta{ki}-a-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,619,kug-sig₁₇ kug {na₄}za-gin₃ bal ak-de₃ eš₂-gar₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,620,lu₂ gurun kug-sig₁₇ gurun ŋiš gub-bu-de₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,621,{ŋeš}peš₃ ŋeštin-ba niŋ₂-ta ub₄-ba-gin₇ guru₇ gal-še₃ u₃-mu-un-dub
+c.1.8.2.3,Enmerkar and the lord of Aratta,,622,{na₄}za-gin₃ duru₅ ur₂-ba mu-un-bur₂-re-ne
+c.1.8.2.3,Enmerkar and the lord of Aratta,,623,{gi}ušub pa-ba mu-un-ta-bal-e-ne
+c.1.8.2.3,Enmerkar and the lord of Aratta,,624,{d}inana nin e₂-an-na-ra
+c.1.8.2.3,Enmerkar and the lord of Aratta,,625,kisal e₂-an-na{ki}-ka guru₇-še₃ mu-un-dub-bu-ne
+c.1.8.2.3,Enmerkar and the lord of Aratta,,626,lugal-ŋu₁₀ ŋa₂-nu na ga-e-de₅ na de₅-ŋu₁₀ he₂-e-dab₅
+c.1.8.2.3,Enmerkar and the lord of Aratta,,627,inim ga-ra-ab-dug₄ ŋizzal he₂-e-ak
+c.1.8.2.3,Enmerkar and the lord of Aratta,,628,lu₂ kur-kur-ra uŋ₃-e u₃-un-pad₃
+c.1.8.2.3,Enmerkar and the lord of Aratta,,629,nam-lu₂-ulu₃ aratta{ki}-ke₄
+c.1.8.2.3,Enmerkar and the lord of Aratta,,630,i-im-da he₂-em-me-ne
+c.1.8.2.3,Enmerkar and the lord of Aratta,,631,ŋe₂₆-e gu₂-e-ta du-a-ŋu₁₀-ne
+c.1.8.2.3,Enmerkar and the lord of Aratta,,632,nam-lugal-ŋu₁₀ nin mul-mul-e ma-an-šum₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,633,{d}ŋeštin-an-na
+c.1.8.2.3,Enmerkar and the lord of Aratta,,634,iri-ba lil₂
+c.1.8.2.3,Enmerkar and the lord of Aratta,,635,ezen
+c.1.8.2.3,Enmerkar and the lord of Aratta,,636,ud šu₂-uš

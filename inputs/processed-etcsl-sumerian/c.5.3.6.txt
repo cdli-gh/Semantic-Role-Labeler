@@ -1,0 +1,321 @@
+id_text,text_name,version,l_no,text
+c.5.3.6,The debate between Copper and Silver,,A1,
+c.5.3.6,The debate between Copper and Silver,,A2,sud
+c.5.3.6,The debate between Copper and Silver,,A3,šeš₄
+c.5.3.6,The debate between Copper and Silver,,A4,X-an-tah
+c.5.3.6,The debate between Copper and Silver,,A5,niŋ₂ mu-ni-ib-tar-re
+c.5.3.6,The debate between Copper and Silver,,A6,a₂-tuku a₂ gal-gal-la gaba-ri ba-an-tuku-tuku-u₂
+c.5.3.6,The debate between Copper and Silver,,A7,na₄-₁-šu saŋ-kal {na₄}esi il₂-la i₃-ŋen
+c.5.3.6,The debate between Copper and Silver,,A8,mu-un-da-an-u₃-tud peš-e ha-ba-a-gub-be₂
+c.5.3.6,The debate between Copper and Silver,,A9,šeš a₂ zid-da-zu-um
+c.5.3.6,The debate between Copper and Silver,,A10,agarinₓ gub-ba-a-zu-um
+c.5.3.6,The debate between Copper and Silver,,A11,mu-un-u₃-tud pa e₃ he₂-a-ak-ke₄
+c.5.3.6,The debate between Copper and Silver,,A12,ba-al-ba-al-e niŋ₂ he₂-em-ŋar-ŋar-e
+c.5.3.6,The debate between Copper and Silver,,A13,mah-di a i₃-ni-ri
+c.5.3.6,The debate between Copper and Silver,,A14,ubur-gin₇ ama-ni bi₂-dun₅
+c.5.3.6,The debate between Copper and Silver,,A15,abzu-še₃ u₃-mu-u₃-du₈
+c.5.3.6,The debate between Copper and Silver,,A16,zag an-ur₂-ra-še₃
+c.5.3.6,The debate between Copper and Silver,,A17,hu-mu-ra-a-du
+c.5.3.6,The debate between Copper and Silver,,A18,u₃-mi-ak
+c.5.3.6,The debate between Copper and Silver,,A19,
+c.5.3.6,The debate between Copper and Silver,,A20,
+c.5.3.6,The debate between Copper and Silver,,A52,du₆ dul₂
+c.5.3.6,The debate between Copper and Silver,,A53,{ŋeš}gana₂-ur₃-ŋu₁₀
+c.5.3.6,The debate between Copper and Silver,,A54,du₆-du₆ gul-e
+c.5.3.6,The debate between Copper and Silver,,A55,urud niŋ₂ kalag-ga-a ŋiri₃
+c.5.3.6,The debate between Copper and Silver,,A56,ušumgal-e
+c.5.3.6,The debate between Copper and Silver,,A57,urud niŋ₂ kalag-ga-a a-šag₄
+c.5.3.6,The debate between Copper and Silver,,A58,a sumur-ra₂ u₈
+c.5.3.6,The debate between Copper and Silver,,A59,urud niŋ₂ kalag-ga-a a mah
+c.5.3.6,The debate between Copper and Silver,,A60,{d}en-lil₂-le
+c.5.3.6,The debate between Copper and Silver,,A61,su en-bi
+c.5.3.6,The debate between Copper and Silver,,A62,kug urud niŋ₂ kalag-ga
+c.5.3.6,The debate between Copper and Silver,,A63,{d}en-lil₂-le
+c.5.3.6,The debate between Copper and Silver,,A64,{d}en-lil₂-le šag₄
+c.5.3.6,The debate between Copper and Silver,,A65,an ki-a pa
+c.5.3.6,The debate between Copper and Silver,,A66,a₂ ba-an-da-aŋ₂
+c.5.3.6,The debate between Copper and Silver,,A67,
+c.5.3.6,The debate between Copper and Silver,,A68,
+c.5.3.6,The debate between Copper and Silver,,A69,
+c.5.3.6,The debate between Copper and Silver,,A70,
+c.5.3.6,The debate between Copper and Silver,,A71,
+c.5.3.6,The debate between Copper and Silver,,A72,urud
+c.5.3.6,The debate between Copper and Silver,,A81,{d}en-lil₂-le
+c.5.3.6,The debate between Copper and Silver,,A82,sukkal-a-ni {d}nuska-ar gu₃ mu-na-de₂-e
+c.5.3.6,The debate between Copper and Silver,,A83,sukkal {d}nuska-ŋu₁₀ ud-ul-la a-ra-zu
+c.5.3.6,The debate between Copper and Silver,,A84,{ŋeš}gu-za urud niŋ₂ kalag-ga-a i₃-gub he₂-tuš
+c.5.3.6,The debate between Copper and Silver,,A85,ur₅-gin₇ hu-mu-na-ab-be₂-a-ka
+c.5.3.6,The debate between Copper and Silver,,A86,{d}nuska-a-ke₄ a-ga sukkal ki mar-za-a-še₃
+c.5.3.6,The debate between Copper and Silver,,A87,ŋiri₃-ni ₂-a-bi mu-DU.DU
+c.5.3.6,The debate between Copper and Silver,,A88,urud niŋ₂ kalag-ga-ar kur₉-mi-ni mu-na-ab-be₂
+c.5.3.6,The debate between Copper and Silver,,A89,ud-ba urud niŋ₂ kalag-ga kiŋ₂ a₂ gal-gal-a-na
+c.5.3.6,The debate between Copper and Silver,,A90,he₂-ŋal₂ an ki maš₂ kadra-še₃ gaba-na i₃-im-tab
+c.5.3.6,The debate between Copper and Silver,,A91,u₃ kug-ga maš₂ gud udu mu-gaz-gaz-e gaba-na i₃-im-tab
+c.5.3.6,The debate between Copper and Silver,,A92,ŋiš ki nu-ŋa₂-ŋa₂
+c.5.3.6,The debate between Copper and Silver,,A93,kug kug tur-tur
+c.5.3.6,The debate between Copper and Silver,,A94,eŋer-a-ni mu tuku niŋ₂ dug₃-dug₃-ga-X
+c.5.3.6,The debate between Copper and Silver,,A95,urud niŋ₂ kalag-ga-ar gu₂-na
+c.5.3.6,The debate between Copper and Silver,,A96,kug {gi}pisaŋ libir
+c.5.3.6,The debate between Copper and Silver,,A97,šag₄-bi-a
+c.5.3.6,The debate between Copper and Silver,,A98,kug kug tur-tur im-ma-X
+c.5.3.6,The debate between Copper and Silver,,A99,ibila kalag-ga a-a {d}en-lil₂-ra
+c.5.3.6,The debate between Copper and Silver,,A100,urud niŋ₂ kalag-ga in la-ga mu-tu-ub-be₂ aš₂ la-ga im-da-an-DU
+c.5.3.6,The debate between Copper and Silver,,A101,uŋ₃-ga₆-ga₆ kiŋ₂ a₂ zag di
+c.5.3.6,The debate between Copper and Silver,,A102,al ki ba-al bahar₂ ud ₁₀-še₃ im-ma šu e₃-e₃
+c.5.3.6,The debate between Copper and Silver,,A103,he₂-dab₅ ud zal-le-da pu₂-saŋ luh a tu₅-a nu-du₇
+c.5.3.6,The debate between Copper and Silver,,A104,ma₂-GIŊ₄ ma₂ du₈ i₃ ku₆-da kum₂-ma tug₂ dan₄-na-a nu-du₇
+c.5.3.6,The debate between Copper and Silver,,A105,muhaldim i₃ kum₂ a saŋ il₂-la ki inim-ma-e gub-ba
+c.5.3.6,The debate between Copper and Silver,,A106,lunga ud {tug₂}ib₂-la₂ nu-u₃-du₈ šu im nu-šarag-ge
+c.5.3.6,The debate between Copper and Silver,,A107,MUNU₄.SAR en-te-en ni₂ nu-ten-ten uzu niŋ₂
+c.5.3.6,The debate between Copper and Silver,,A108,lu₂-kin-na-tum sa-par₄ la₂ pu₂-saŋ-e gub-ba
+c.5.3.6,The debate between Copper and Silver,,A109,šu-i peš-ša-a kud-a suhuš la suh-suh
+c.5.3.6,The debate between Copper and Silver,,A110,gud {ŋeš}mar gu₂-un-na-ka saŋ bal-e
+c.5.3.6,The debate between Copper and Silver,,A111,anše ki {ŋeš}šu-dul₄-še₃ gu₂ u₂ il₂-il₂
+c.5.3.6,The debate between Copper and Silver,,A112,saŋ ur₃-ur₃-ba mu-X
+c.5.3.6,The debate between Copper and Silver,,A113,mar še ur₃ {ŋeš}li-li
+c.5.3.6,The debate between Copper and Silver,,A114,ŋa₂-la nu-dag
+c.5.3.6,The debate between Copper and Silver,,A115,{u₂}KI.KAL
+c.5.3.6,The debate between Copper and Silver,,A116,
+c.5.3.6,The debate between Copper and Silver,,A117,nagar
+c.5.3.6,The debate between Copper and Silver,,A118,
+c.5.3.6,The debate between Copper and Silver,,A126,gir₄ ninda kum₂
+c.5.3.6,The debate between Copper and Silver,,A127,ŋiš
+c.5.3.6,The debate between Copper and Silver,,A128,
+c.5.3.6,The debate between Copper and Silver,,B1,
+c.5.3.6,The debate between Copper and Silver,,B2,X-ak-am₃
+c.5.3.6,The debate between Copper and Silver,,B3,ba-DU
+c.5.3.6,The debate between Copper and Silver,,B4,ŋal₂ im-du₈-a ak
+c.5.3.6,The debate between Copper and Silver,,B5,niŋ₂ saŋ X-du₈-u₃
+c.5.3.6,The debate between Copper and Silver,,B6,
+c.5.3.6,The debate between Copper and Silver,,B7,
+c.5.3.6,The debate between Copper and Silver,,B8,bi₂-ib₂-tuku
+c.5.3.6,The debate between Copper and Silver,,B9,ur-mah nu-BAD ši-im-SAR-e
+c.5.3.6,The debate between Copper and Silver,,B10,uš u₃ gi-sig₇ ba-ra-du₃-a
+c.5.3.6,The debate between Copper and Silver,,B11,e₃-ba-ra šu im-dag
+c.5.3.6,The debate between Copper and Silver,,B12,e₂-a e₂ ŋišbunₓ eš-gar₃-ŋu₁₀-um
+c.5.3.6,The debate between Copper and Silver,,B13,kug-ge X-in-si-ig-ga-na nu-mu-ni-in-tu-ub
+c.5.3.6,The debate between Copper and Silver,,B14,nam-kalag-ga ur₅-še₃ mu-ni-in-dug₄
+c.5.3.6,The debate between Copper and Silver,,B15,ud-ba urud niŋ₂ kalag-ga ur-saŋ an-na-kam
+c.5.3.6,The debate between Copper and Silver,,B16,su in-kal nu-mu-dab₅ gig šag₄ nu-hul sag₃
+c.5.3.6,The debate between Copper and Silver,,B17,gu₂ in-kal tug₂-ga nu-gig-ge-bi nu-mu-na-an-du₃
+c.5.3.6,The debate between Copper and Silver,,B18,diŋir-re-ne-er tug₂ igi hul₂-la-ni
+c.5.3.6,The debate between Copper and Silver,,B19,urud niŋ₂ kalag-ga-a
+c.5.3.6,The debate between Copper and Silver,,B20,{d}a-nun-na-ke₄-ne-er gu₃ mu-ne-de₂-e
+c.5.3.6,The debate between Copper and Silver,,B21,{d}nin-sumun₂ munus nam-nam-ma-ke₄ šu daŋal
+c.5.3.6,The debate between Copper and Silver,,B22,dug₄-ga-am₃ gu sa-sa-sa
+c.5.3.6,The debate between Copper and Silver,,B23,ŋeštug₂ ha-lam
+c.5.3.6,The debate between Copper and Silver,,B24,LUL-LUL-na suhuš-gin₇ bur₁₂
+c.5.3.6,The debate between Copper and Silver,,B25,šag₄ kuš₂-ŋu₁₀
+c.5.3.6,The debate between Copper and Silver,,B26,e₂-a izi-bi igi {d}en-lil₂-la₂-še₃
+c.5.3.6,The debate between Copper and Silver,,B27,a kum₂-ma saŋ-ŋa₂
+c.5.3.6,The debate between Copper and Silver,,B28,urud niŋ₂ kalag-ga kug-ra mu-na-ni-ib₂-gi₄-gi₄
+c.5.3.6,The debate between Copper and Silver,,B29,kug a-gar₅ LUL-LUL-na a₂ kiŋ₂ nu-sukuₓ-ra₂
+c.5.3.6,The debate between Copper and Silver,,B30,lul-gu dub-ba kiŋ₂ urud nu-ak-e
+c.5.3.6,The debate between Copper and Silver,,B31,šu kišib-la₂ nu-tuku kiŋ₂ du₃
+c.5.3.6,The debate between Copper and Silver,,B32,gu₂ si-ig niŋ₂ nu-il₂ gun₂-na niŋ₂
+c.5.3.6,The debate between Copper and Silver,,B33,šag₄ tukul-la su nu-tuku lu₂-ulu₃ a nu-e₃
+c.5.3.6,The debate between Copper and Silver,,B34,ma₂ esir₂ a-na id₂-de₃ lu₂
+c.5.3.6,The debate between Copper and Silver,,C1,i₃ im-ti-X
+c.5.3.6,The debate between Copper and Silver,,C2,la₂ šaŋan i₃ im-TI-TI
+c.5.3.6,The debate between Copper and Silver,,C3,pu₂ lu₂ šu du₃-a
+c.5.3.6,The debate between Copper and Silver,,C4,šu lul-la dug₄-dug₄
+c.5.3.6,The debate between Copper and Silver,,C5,šu-ni niŋ₂-ku₅-ra₂ tum₂-ma
+c.5.3.6,The debate between Copper and Silver,,C6,lul-gu ur₃ šu ur₃-ur₃
+c.5.3.6,The debate between Copper and Silver,,C7,lu₂-ta lu₂-lul ba-si-si
+c.5.3.6,The debate between Copper and Silver,,C8,bi₂-in-keše₂-ra₂-zu edin-na in-DU nu-un-DU he₂-a
+c.5.3.6,The debate between Copper and Silver,,C9,e₃-a-zu da-ga-na lu₂ ba-ra-ba-an-ŋa₂-ŋa₂
+c.5.3.6,The debate between Copper and Silver,,C10,a₂ ki-in-du-ka še ba-ra-ni-ib₂-buluŋ₃-e
+c.5.3.6,The debate between Copper and Silver,,C11,še guru₇ ba-ra-dub-dub-be₂ lu₂ ba-ra-mu-hul₂-le
+c.5.3.6,The debate between Copper and Silver,,C12,barag-ge guz-za še ba-ra-am₃-sig₉-ge
+c.5.3.6,The debate between Copper and Silver,,C13,{ŋeš}ma₂-gur₈ dim₂-ma-za lugal ba-ra-am₃-u₃
+c.5.3.6,The debate between Copper and Silver,,C14,{ŋeš}gigir-zu har-ra-an niŋ₂ su₃-ra₂-ba lu₂ ba-ra-mu-il₂-le
+c.5.3.6,The debate between Copper and Silver,,C15,gu₇-a-zu e₂-gal-la {ŋeš}banšur ba-ra-am₃-gub-be₂
+c.5.3.6,The debate between Copper and Silver,,C16,ŋuruš-bi še sur-ra-zu ur₅ ba-ra-am₃-sag₉-ge
+c.5.3.6,The debate between Copper and Silver,,C17,ŋiš hi-a i₃ dug₃-ga-zu sila-a ba-ra-gub-gub-be₂
+c.5.3.6,The debate between Copper and Silver,,C18,ŋiš ba-ra-ak-ke₄-en₆ gi ba-ra-ak-ke₄-en₆
+c.5.3.6,The debate between Copper and Silver,,C19,
+c.5.3.6,The debate between Copper and Silver,,C20,
+c.5.3.6,The debate between Copper and Silver,,C21,
+c.5.3.6,The debate between Copper and Silver,,D1,an ki-ta ba₉-ra₂-ta
+c.5.3.6,The debate between Copper and Silver,,D2,a na₈-na₈ nu-ŋal₂-la-am₃
+c.5.3.6,The debate between Copper and Silver,,D3,uŋ₃-e u₂ gu₇-de₃
+c.5.3.6,The debate between Copper and Silver,,D4,a-a-ŋu₁₀ {d}en-lil₂-le ud dili-a mu-tud-de₃-en₆-na-ta
+c.5.3.6,The debate between Copper and Silver,,D5,{id₂}idigna am gal-gin₇ he₂-ma-a-du₇-u₃
+c.5.3.6,The debate between Copper and Silver,,D6,ud-ba ŋiri₃-zu nu-bad nu-u₃-gub-gub
+c.5.3.6,The debate between Copper and Silver,,D7,{d}en-lil₂-la₂-ka
+c.5.3.6,The debate between Copper and Silver,,D8,nu-bad mu-da-a-zig₃
+c.5.3.6,The debate between Copper and Silver,,D9,e₂-ni-še₃ ŋiri₃-zu mu-ši-gub-gub
+c.5.3.6,The debate between Copper and Silver,,D10,a₂ sa gi₄-a-ŋa₂ ze₂ ma-an-gar₃-re-ne
+c.5.3.6,The debate between Copper and Silver,,D11,he₂-ŋal₂ uŋ₃-e ba-šum₂-ma-ŋa₂ ba-ni-ib₂-du₈-e
+c.5.3.6,The debate between Copper and Silver,,D12,kug e₂-gal-še₃ igi-zu bar-ra
+c.5.3.6,The debate between Copper and Silver,,D13,an mul gur₅-a-gin₇ šu mi-ni-ib₂-du₇
+c.5.3.6,The debate between Copper and Silver,,D14,ga-na kiŋ₂ a₂-zu-a bi₂-ak {d}en-lil₂-ra mu-na-a-tah-ha
+c.5.3.6,The debate between Copper and Silver,,D15,maš₂-ud₅-da-gin₇ eme-bi u₃-mu-u₃-sud igi ha-bi₂-in-tu-u₃-gin₇
+c.5.3.6,The debate between Copper and Silver,,D16,šag₄-ba e₂-gal-la-am₃ ki-gub-zu-um ŋišbunₓ eš-gar₃-zu-um
+c.5.3.6,The debate between Copper and Silver,,D17,kug e₂-gal nu ki-gub-zu nu ki-tuš-zu ga-ra-ab-pad₃
+c.5.3.6,The debate between Copper and Silver,,D18,lu₂-u₃-ne pisaŋ tur-tur kalag-kalag-ga ma₂-gin₇ a-ra-an-du₈-uš
+c.5.3.6,The debate between Copper and Silver,,D19,{tug₂}niŋ₂-dara₂ sumun-sumun-na-ni za-ra a-ra-ni-in-sub₆-eš
+c.5.3.6,The debate between Copper and Silver,,D20,šag₄ {e₂}tur₃-ra-ka lu₂-u₃ a₂ a-ra-ni-in-ra
+c.5.3.6,The debate between Copper and Silver,,D21,dug ka-bi uš₂-ša-a-gin₇ ugu₂-za im i₃-bi₂-in-du₈-eš₂
+c.5.3.6,The debate between Copper and Silver,,D22,e₂ šag₄-ga ki ku₁₀-ku₁₀-ga-ba
+c.5.3.6,The debate between Copper and Silver,,D23,ki-tum₂ ki sah₆-sah₆-a-bi-a lu₂-u₃ ki a-ra-ni-in-tum₂
+c.5.3.6,The debate between Copper and Silver,,D24,ud ki duru₅-u₃ u₃-ma-ti-a-ta
+c.5.3.6,The debate between Copper and Silver,,D25,{urud}ha-bu₃-da u₂ ki kalag-ga šar₂ nu-u₃-da-ŋal₂
+c.5.3.6,The debate between Copper and Silver,,D26,ur₅-ta en₃-zu lu₂-u₃ nu-tar-re
+c.5.3.6,The debate between Copper and Silver,,D27,ud numun-ne₂ u₃-ma-ti-a-ta
+c.5.3.6,The debate between Copper and Silver,,D28,{urud}giŋ₄ {ŋeš}apin dim₂ nu-u₃-da-ŋal₂
+c.5.3.6,The debate between Copper and Silver,,D29,ur₅-ta en₃-zu lu₂-u₃ nu-tar-re
+c.5.3.6,The debate between Copper and Silver,,D30,en-te-ne₂-e u₃-ma-ti-a-ta
+c.5.3.6,The debate between Copper and Silver,,D31,{urud}ha-zi-in u₂ kud nu-u₃-da-ŋal₂
+c.5.3.6,The debate between Copper and Silver,,D32,ur₅-ta en₃-zu lu₂-u₃ nu-tar-re
+c.5.3.6,The debate between Copper and Silver,,D33,ud buru₁₄-e u₃-ma-ti-a-ta
+c.5.3.6,The debate between Copper and Silver,,D34,{urud}gur₁₀ še gur₁₀-gur₁₀ nu-u₃-da-ŋal₂
+c.5.3.6,The debate between Copper and Silver,,D35,ur₅-ta en₃-zu lu₂-u₃ nu-tar-re
+c.5.3.6,The debate between Copper and Silver,,D36,buru₁₄ en-te-en-za {urud}giŋ₄ {urud}bulug niŋ₂ e₂ du₃-du₃ u₃ kir₁₁ za-da nu-mu-da-ŋal₂
+c.5.3.6,The debate between Copper and Silver,,D37,ur₅-ta en₃-zu lu₂-u₃ nu-tar-re
+c.5.3.6,The debate between Copper and Silver,,D38,kug sahar e₂ šag₄-ga ŋeštug₂-ga u₉-lu-a-me-en₃
+c.5.3.6,The debate between Copper and Silver,,D39,peš₂ ku₄-kur e₂ sig₉-ga eme sag₃-ge
+c.5.3.6,The debate between Copper and Silver,,D40,kug e₂-gal nu ki-gub-zu-um
+c.5.3.6,The debate between Copper and Silver,,D41,ki sah₆ ki-tum₂-ma-am₃ ur₅-ra-am₃ ki-gub-zu-um
+c.5.3.6,The debate between Copper and Silver,,D42,kug ŋišbunₓ nu eš₂-gar₃ nu šag₄-ga tab eš₂-gar₃-zu-um
+c.5.3.6,The debate between Copper and Silver,,D43,kug a-gar₅ LUL-LUL-na a₂ kiŋ₂ nu-sukuₓ-ra₂
+c.5.3.6,The debate between Copper and Silver,,D44,kiŋ₂-gi₄-a diŋir dim₂ šu-zu la-ba-tiŋ₄-ŋe₂₆-da-a
+c.5.3.6,The debate between Copper and Silver,,D45,ze₂ ur-gin₇ a-na-aš ma-an-du₇-du₇-de₃-en
+c.5.3.6,The debate between Copper and Silver,,D46,kur₉-ba-ni muš e₂ ku₁₀-ku₁₀-ga ki-tum₂-za nu₂-i₃
+c.5.3.6,The debate between Copper and Silver,,D47,urud niŋ₂ kalag-ga-a kug-ra
+c.5.3.6,The debate between Copper and Silver,,D48,i-in gen₆-na-ni mu-ni-in-dub₂ šag₄ hul mu-ni-in-dim₂
+c.5.3.6,The debate between Copper and Silver,,D49,i-in ur hul til₃-a a pu₂ mun-na-gin₇
+c.5.3.6,The debate between Copper and Silver,,D50,šu mu-na-ni-in-de₆ igi mu-ta-an-lib₄-lib₄
+c.5.3.6,The debate between Copper and Silver,,D51,kug ur-da igi lib₄-lib₄ niŋ₂ gur₄-ra-ni-še₃ nu-tum₂
+c.5.3.6,The debate between Copper and Silver,,D52,kug-ge urud niŋ₂ kalag-ga-a-ar mu-na-ni-ib-gi₄-gi₄
+c.5.3.6,The debate between Copper and Silver,,D53,{ŋeš}al saŋ ki gul-la zu₂ ba-ra-a-ba-en₆
+c.5.3.6,The debate between Copper and Silver,,D54,{ŋeš}sumun-gi₄ ki hi-hi saŋ-gag ba-ra-da-an-sar-sar
+c.5.3.6,The debate between Copper and Silver,,D55,{ŋeš}še-ŋiš-ra-ah garadin₁₀ du₆ ŋidru lid₂-da-ga-zu sa₂-ma-ab
+c.5.3.6,The debate between Copper and Silver,,D56,ma₂ gu₂-na peš₁₀ he₂-a-tiŋ₄-tiŋ₄-ŋe₂₆
+c.5.3.6,The debate between Copper and Silver,,D57,{ŋeš}ig gal e₂ ŋi₆-e he₂-a-ra-ra-ra
+c.5.3.6,The debate between Copper and Silver,,D58,tibira na₄-da du₇-du₇ nunuz-da i₃-kalag ha-ra-ab-DU
+c.5.3.6,The debate between Copper and Silver,,D59,gir₄ si-zu-ta sahar ak
+c.5.3.6,The debate between Copper and Silver,,D60,ki-gub kal lul-la mu-dub-dub
+c.5.3.6,The debate between Copper and Silver,,D61,peš₂ ha-mu-dug₄ ki eš₅-gar₃ gir₁₅-ra-ni
+c.5.3.6,The debate between Copper and Silver,,D62,zu₂-zu ki ba-al-la eme-zu sahar bal-še₃ ak
+c.5.3.6,The debate between Copper and Silver,,D63,{urud}ha-bu₃-da {ŋeš}al ki kalag-ga-ke₄ du₅-bi dab₅-ba-a
+c.5.3.6,The debate between Copper and Silver,,D64,{urud}gur₁₀ u₂ kalag-ga-a izi dub-dub-ba
+c.5.3.6,The debate between Copper and Silver,,D65,{urud}ha-zi-in ŋiš saŋ šar₂-re {ŋeš}šinig ma-nu zil bur₁₂-e zu₂-bi gul-gul-la
+c.5.3.6,The debate between Copper and Silver,,D66,{urud}šum ŋiš hur-saŋ-ŋa₂-ke₄ gu₂-ba nu₂-nu₂-a
+c.5.3.6,The debate between Copper and Silver,,D67,lu₂ ur₃-ta šub-ba-gin₇ ki-du-e u₃-um-ra-ra-an
+c.5.3.6,The debate between Copper and Silver,,D68,ur erina₈ tuku-gin₇ {ŋeš}kiši₁₇ gal ad₅ ha-ah-e u₃-ma-a-ta-ab-guru₆-guru₆
+c.5.3.6,The debate between Copper and Silver,,D69,nu-zuh ŋi₆ an-na šu u₃-mu-un-sar-ra-gin₇
+c.5.3.6,The debate between Copper and Silver,,D70,a lu₃ gal-gal saŋ us₂-sa mu a-ri u₃-um-ta-a-si
+c.5.3.6,The debate between Copper and Silver,,D71,še bar-rim₄-ma-a gu₂ id₂-da-aš u₃-mu-il₂
+c.5.3.6,The debate between Copper and Silver,,D72,še-ŋiš-i₃ sur₃-sur₃-ra gu₂ id₂-da-aš u₃-mu-il₂
+c.5.3.6,The debate between Copper and Silver,,D73,šum₂-huš šum₂-sikil šum₂-za-ha-din gu₇-a
+c.5.3.6,The debate between Copper and Silver,,D74,lu-ub₂{sar} absin₃-na la gur-gur-ra u₃-mu-il₂
+c.5.3.6,The debate between Copper and Silver,,D75,mun gazi gu₂ a-šag₄-ga-ka ŋal₂-la bal u₃-mu-ak
+c.5.3.6,The debate between Copper and Silver,,D76,gud udu še hi-a u₃-mi-gu₇
+c.5.3.6,The debate between Copper and Silver,,D77,šah₂ gurušta tud-tud u₃-mu-il₂
+c.5.3.6,The debate between Copper and Silver,,D78,ze₂-da tur-tur-bi niŋ₂-silaŋ i₃-bi₂-gu₇
+c.5.3.6,The debate between Copper and Silver,,D79,šah₂ ŋiš gal-gal-be₂-e zid₂-ku-ku u₃-mi-tukur₂
+c.5.3.6,The debate between Copper and Silver,,D80,kun-zid{ku₆} IL{ku₆} suhur{ku₆}-ra ku₆ šag₄ ŋal₂-la
+c.5.3.6,The debate between Copper and Silver,,D81,giraba{ku₆} dun-a nunuz-bi ŋar-ŋar-ŋar-ŋar-a
+c.5.3.6,The debate between Copper and Silver,,D82,gur₈-gal{mušen} sud₃-da u₅{mušen} gal ab-šag₄-ga
+c.5.3.6,The debate between Copper and Silver,,D83,nunuz uz-a mušen hi-hi-a
+c.5.3.6,The debate between Copper and Silver,,D84,niŋ₂ dug₃-dug₃ edin-na i₃-lu-a ne-ne-ha
+c.5.3.6,The debate between Copper and Silver,,E1,
+c.5.3.6,The debate between Copper and Silver,,E2,urud niŋ₂ kalag-ga
+c.5.3.6,The debate between Copper and Silver,,E3,kug tur-tur ₁ giŋ₄-a ga-mu-u₃-šum₂
+c.5.3.6,The debate between Copper and Silver,,E4,₃ ma-na ₄ ma-na saŋ he₂-a-aŋ₂
+c.5.3.6,The debate between Copper and Silver,,E5,lu₂-ulu₃ buluŋ₃-e-de₃ ŋeštug₂ u₃-mu-gub
+c.5.3.6,The debate between Copper and Silver,,E6,kug tur-tur ₅ ma-na ₁₀ ma-na mu-ur₂-ra
+c.5.3.6,The debate between Copper and Silver,,E7,u₂ igi-a sag₉ e₂-gal-la
+c.5.3.6,The debate between Copper and Silver,,E8,lu₂ mar-za-am₃ ha-ba-X
+c.5.3.6,The debate between Copper and Silver,,E9,nam-ugula nu-banda₃ gu₂
+c.5.3.6,The debate between Copper and Silver,,E10,gana₂-am₃
+c.5.3.6,The debate between Copper and Silver,,E11,a-zu ₃ ma-na ŋe₂₆-e
+c.5.3.6,The debate between Copper and Silver,,E12,ŋuruš tur₃ i₃ ga-gin₇ gu₂-ni
+c.5.3.6,The debate between Copper and Silver,,E13,kug tur-tur ₅ ma-na ₁₀ ma-na
+c.5.3.6,The debate between Copper and Silver,,E14,e₂-a-ka
+c.5.3.6,The debate between Copper and Silver,,F1,
+c.5.3.6,The debate between Copper and Silver,,F2,kiŋ₂-gi₄-a
+c.5.3.6,The debate between Copper and Silver,,F3,{d}en-lil₂-la₂ dugud-a
+c.5.3.6,The debate between Copper and Silver,,F4,kug tur-tur ₁₀ giŋ₄ mu-ur₂-ra
+c.5.3.6,The debate between Copper and Silver,,F5,hur-saŋ-ŋa₂ kur ki nu-zu-u₃
+c.5.3.6,The debate between Copper and Silver,,F6,naŋ še-ŋar
+c.5.3.6,The debate between Copper and Silver,,F7,u₂ ga-mu-ni-ib₂-gu₇
+c.5.3.6,The debate between Copper and Silver,,F8,kur-ta
+c.5.3.6,The debate between Copper and Silver,,F9,saŋ-gu₄-ŋal₂
+c.5.3.6,The debate between Copper and Silver,,F10,
+c.5.3.6,The debate between Copper and Silver,,G1,su ŋal₂
+c.5.3.6,The debate between Copper and Silver,,G2,
+c.5.3.6,The debate between Copper and Silver,,G3,teš₂-a ud-sakar-ra ha-mu-X-X
+c.5.3.6,The debate between Copper and Silver,,G4,a₂ nam-šita₄-a-ke₄ šu
+c.5.3.6,The debate between Copper and Silver,,G5,{d}en-lil₂ am₃-ŋa₂-ŋa₂
+c.5.3.6,The debate between Copper and Silver,,G6,i₃ šim {ŋeš}erin-na-ka
+c.5.3.6,The debate between Copper and Silver,,G7,lu₂-ulu₃ uŋ₃ saŋ gig₂-ge
+c.5.3.6,The debate between Copper and Silver,,G8,i₃ šim {ŋeš}erin-na-ŋa₂-ta-am₃ ha-mu-ta-šeš₄-e
+c.5.3.6,The debate between Copper and Silver,,G9,lugal-ŋa₂ niŋ₂-gig-bi-im
+c.5.3.6,The debate between Copper and Silver,,G10,
+c.5.3.6,The debate between Copper and Silver,,G11,lu₂-ulu₃
+c.5.3.6,The debate between Copper and Silver,,H1,saŋ-ŋa₂ šu
+c.5.3.6,The debate between Copper and Silver,,H2,ha-mu-ni-ib₂-X
+c.5.3.6,The debate between Copper and Silver,,H3,mul-e nu-zu-gin₇
+c.5.3.6,The debate between Copper and Silver,,H4,šag₄-gal-la-ni
+c.5.3.6,The debate between Copper and Silver,,H5,a-a-ŋu₁₀ {d}en-lil₂-ra
+c.5.3.6,The debate between Copper and Silver,,H6,igi niŋin₂-na-še₃ bi₂-sig₁₀-ge
+c.5.3.6,The debate between Copper and Silver,,H7,₂ ma-na
+c.5.3.6,The debate between Copper and Silver,,I1,
+c.5.3.6,The debate between Copper and Silver,,I2,
+c.5.3.6,The debate between Copper and Silver,,I3,nesaŋ zu₂ keše₂-ra₂-gin₇
+c.5.3.6,The debate between Copper and Silver,,I4,{d}en-lil₂-le diŋir-ra
+c.5.3.6,The debate between Copper and Silver,,I5,ib₂-X
+c.5.3.6,The debate between Copper and Silver,,I6,{d}a-nun-na
+c.5.3.6,The debate between Copper and Silver,,I7,in-LU
+c.5.3.6,The debate between Copper and Silver,,I8,ud mi-ni-ib₂-zal-zal-le
+c.5.3.6,The debate between Copper and Silver,,I9,
+c.5.3.6,The debate between Copper and Silver,,I10,kug urud niŋ₂ kalag-ga-bi a-da-min mi₂ dug₄-ga
+c.5.3.6,The debate between Copper and Silver,,I11,urud niŋ₂ kalag-ga kug-ra e₂ {d}en-lil₂-la₂-ka dub-saŋ-am₃
+c.5.3.6,The debate between Copper and Silver,,I12,a-a {d}en-lil₂ za₃-mi₂
+c.5.3.6,The debate between Copper and Silver,,I13,ud-ba ud ba-zal-zal mu ba-sud-sud
+c.5.3.6,The debate between Copper and Silver,,I14,guru₇ gu₂ im-ma-dub gu šu ra
+c.5.3.6,The debate between Copper and Silver,,I15,mu ud ul e₂-ba
+c.5.3.6,The debate between Copper and Silver,,I16,an mul ŋissu la₂
+c.5.3.6,The debate between Copper and Silver,,I17,ra ŋissu
+c.5.3.6,The debate between Copper and Silver,,I18,mul-an-na
+c.5.3.6,The debate between Copper and Silver,,I19,ŋiš-šudum-ma dub mul kug-ta pad₃-de₃
+c.5.3.6,The debate between Copper and Silver,,I20,an ki-ta ed₃ ba₉-ra₂
+c.5.3.6,The debate between Copper and Silver,,I21,
+c.5.3.6,The debate between Copper and Silver,,I22,gu₂-ni-a
+c.5.3.6,The debate between Copper and Silver,,I23,a a ki-ta id₂
+c.5.3.6,The debate between Copper and Silver,,I24,še gu-nu
+c.5.3.6,The debate between Copper and Silver,,I25,kur du₃
+c.5.3.6,The debate between Copper and Silver,,I26,ha-mu-NE-in-ŋar e₂-gal gu₂ ba-ra-ni-in-ŋar
+c.5.3.6,The debate between Copper and Silver,,I27,
+c.5.3.6,The debate between Copper and Silver,,I28,
+c.5.3.6,The debate between Copper and Silver,,I30,{d}en-lil₂-le ki-en-gi-ra gu₃ hul₂-la ba-an-de₂
+c.5.3.6,The debate between Copper and Silver,,I31,he₂-ŋal₂-la-ke₄ nam-sipad-še₃ ba-an-il₂
+c.5.3.6,The debate between Copper and Silver,,I32,e₂-kur {d}en-lil₂-le du₃-u₃-de₃
+c.5.3.6,The debate between Copper and Silver,,I33,e₂ diŋir gal-gal-e-ne-ke₄ pa e₃ ak-ak-de₃
+c.5.3.6,The debate between Copper and Silver,,I34,eg₂ pa₅-bi gu₂-bi zi-zi-de₃
+c.5.3.6,The debate between Copper and Silver,,I35,{d}en-lil₂-le sipad ur-{d}namma-ra
+c.5.3.6,The debate between Copper and Silver,,I36,kalag-ga a₂ mah-a-ni-še₃ mu-na-da-an-šum₂-mu
+c.5.3.6,The debate between Copper and Silver,,I37,nam-lugal šu ti-a-na
+c.5.3.6,The debate between Copper and Silver,,I38,dug₃-ga
+c.5.3.6,The debate between Copper and Silver,,I39,urud niŋ₂ kalag-ga šu mah mu-na-ab-dug₄
+c.5.3.6,The debate between Copper and Silver,,I40,sipad ur-{d}namma-ke₄ dugud-bi
+c.5.3.6,The debate between Copper and Silver,,I41,urim₂{ki}-ma e₂-gal {d}suen-na
+c.5.3.6,The debate between Copper and Silver,,I42,nibru{ki} e₂-kur e₂ {d}en-lil₂-la₂
+c.5.3.6,The debate between Copper and Silver,,I43,e₂ diŋir gal-gal-e-ne-ka pa e₃ im-mi-in-ak
+c.5.3.6,The debate between Copper and Silver,,I44,eg₂ pa₅-re gu₂ an-še₃ bi₂-in-zig₃
+c.5.3.6,The debate between Copper and Silver,,I45,iri-ni
+c.5.3.6,The debate between Copper and Silver,,I46,siki
+c.5.3.6,The debate between Copper and Silver,,I47,i₃
+c.5.3.6,The debate between Copper and Silver,,I48,uŋ₃-e u₂ nir-ŋal₂ mu-da-gu₇-u₃-ne
+c.5.3.6,The debate between Copper and Silver,,I49,ur-{d}namma ŋeštug₂ daŋal-la
+c.5.3.6,The debate between Copper and Silver,,I50,gal-gal urud niŋ₂ kalag-ga
+c.5.3.6,The debate between Copper and Silver,,I51,bi₂-ib₂-il₂-a-ka šag₄ ki
+c.5.3.6,The debate between Copper and Silver,,I52,nar-X-ni-še₃ ba-a-ar gu₃ mu-na-de₂-e
+c.5.3.6,The debate between Copper and Silver,,I53,babbar-re-ke₄
+c.5.3.6,The debate between Copper and Silver,,I54,urud niŋ₂ kalag-ga-ke₄ saŋ en im-ma-an-tar
+c.5.3.6,The debate between Copper and Silver,,I55,a₂-tah-a-ne-ne
+c.5.3.6,The debate between Copper and Silver,,I56,du₃-u₃-de₃
+c.5.3.6,The debate between Copper and Silver,,I57,nu-taka₄
+c.5.3.6,The debate between Copper and Silver,,I58,

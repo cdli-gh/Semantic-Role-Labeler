@@ -1,0 +1,36 @@
+id_text,text_name,version,l_no,text
+c.0.2.11,OB catalogue at Andrews University (B4),,1,in-nin šag₄ gur₄-ra
+c.0.2.11,OB catalogue at Andrews University (B4),,2,in-nin me huš-a
+c.0.2.11,OB catalogue at Andrews University (B4),,3,nin me šar₂-ra
+c.0.2.11,OB catalogue at Andrews University (B4),,4,an-e {d}uraš-e
+c.0.2.11,OB catalogue at Andrews University (B4),,5,in-nin an gal
+c.0.2.11,OB catalogue at Andrews University (B4),,6,igi {d}a-nu-na
+c.0.2.11,OB catalogue at Andrews University (B4),,7,lugal-me-en šag₄-ta
+c.0.2.11,OB catalogue at Andrews University (B4),,8,lugal mi₂ dug₄-ga
+c.0.2.11,OB catalogue at Andrews University (B4),,9,en-e niŋ₂-du₇-e
+c.0.2.11,OB catalogue at Andrews University (B4),,10,{d}en-lil₂ su₃-ra₂-še₃
+c.0.2.11,OB catalogue at Andrews University (B4),,11,lugal-e mu-ni niŋ₂-ul-še₃
+c.0.2.11,OB catalogue at Andrews University (B4),,12,gur₃-ra
+c.0.2.11,OB catalogue at Andrews University (B4),,13,
+c.0.2.11,OB catalogue at Andrews University (B4),,14,en gal
+c.0.2.11,OB catalogue at Andrews University (B4),,15,
+c.0.2.11,OB catalogue at Andrews University (B4),,16,
+c.0.2.11,OB catalogue at Andrews University (B4),,17,
+c.0.2.11,OB catalogue at Andrews University (B4),,18,
+c.0.2.11,OB catalogue at Andrews University (B4),,19,ud re-a šuruppag{ki}
+c.0.2.11,OB catalogue at Andrews University (B4),,20,ud re-a niŋ₂-ul-e
+c.0.2.11,OB catalogue at Andrews University (B4),,21,ud ul-le₂-a-ta ud ba-zal-la-ta
+c.0.2.11,OB catalogue at Andrews University (B4),,22,ud-ul-ur₁₁-e dumu-na na mu-un-de₅-ga
+c.0.2.11,OB catalogue at Andrews University (B4),,23,ud ul-le₂-a-ta ud diŋir-re-e-ne kalam-ma
+c.0.2.11,OB catalogue at Andrews University (B4),,24,ud re-a nam ba-tar-ra-ba
+c.0.2.11,OB catalogue at Andrews University (B4),,25,₁₀ u₃-ne-e-dug₄ {d}šul-gi
+c.0.2.11,OB catalogue at Andrews University (B4),,26,{d}šu-{d}suen lugal mah u₃-na-a-dug₄
+c.0.2.11,OB catalogue at Andrews University (B4),,27,{d}su-mu-la-el lugal-ŋu₁₀-ra u₃-na-a-dug₄
+c.0.2.11,OB catalogue at Andrews University (B4),,28,
+c.0.2.11,OB catalogue at Andrews University (B4),,29,
+c.0.2.11,OB catalogue at Andrews University (B4),,30,am-si ni₂-te-na
+c.0.2.11,OB catalogue at Andrews University (B4),,31,u₃-ne-X
+c.0.2.11,OB catalogue at Andrews University (B4),,32,lugal ŋiš-gid₂-da
+c.0.2.11,OB catalogue at Andrews University (B4),,33,
+c.0.2.11,OB catalogue at Andrews University (B4),,34,šag₄
+c.0.2.11,OB catalogue at Andrews University (B4),,35,

@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,1,{m}lugal-ibila u₃-na-dug₄
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,2,{m}inim-{d}inana-ke₄ na-ab-be₂-a
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,3,eme-gir₁₅-še₃ gu₂-zu na-ab-šub-be₂-en
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,4,₂-kam-ma-še₃ eme si sa₂-bi-še₃ lu₂ mu-e-ši-in-gi₄-gi₄
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,4A,he₂-ŋal₂
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,5,lu₂-tur igi-zu-še₃ al-durun-na
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,6,e₂-dub-ba-a-ta na-ab-ta-ed₂-en
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,7,na-an-ga-ma lu₂ na-me lul i-ri-ib-sig₁₀-ge₅
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,8,ugu ad-da-na-še₃ ga-am₃-ŋen a-ra-ab-be₂
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,9,en-na ŋiškim ŋe₂₆-e u₃ za-e inim i₃-bal-en-da-na
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,10,lu₂-u₃ mu-e-ši-in-gi₄-gi₄-a
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,11,lu₂-tur šu nam-bi₂-bar-re-en
+c.3.3.12,Letter from Inim-Inana to Lugal-ibila,,12,bi₂-tuku a-ma-ru-kam

@@ -1,0 +1,46 @@
+id_text,text_name,version,l_no,text
+c.4.26.1,A tigi to Nintur (Nintur A),,1,nin {d}a-ru-ru e₂ keš₃{ki}-a
+c.4.26.1,A tigi to Nintur (Nintur A),,2,hur-saŋ ki sikil-la u₃-tud-da
+c.4.26.1,A tigi to Nintur (Nintur A),,3,{d}nin-tur₅ ama mah kur-kur-ra-ka
+c.4.26.1,A tigi to Nintur (Nintur A),,4,ama {d}nin-tur₅ nin {d}a-ru-ru e₂ keš₃{ki}-a
+c.4.26.1,A tigi to Nintur (Nintur A),,5,hur-saŋ ki sikil-la u₃-tud-da
+c.4.26.1,A tigi to Nintur (Nintur A),,6,{d}nin-tur₅ ama mah kur-kur-ra-ka
+c.4.26.1,A tigi to Nintur (Nintur A),,7,su zig₃ piriŋ-ŋa₂-ka ši-mi-ni-in-e₃
+c.4.26.1,A tigi to Nintur (Nintur A),,8,en mu-un-u₃-tud lagar mu-un-u₃-tud
+c.4.26.1,A tigi to Nintur (Nintur A),,9,lugal barag kug-ga {d}nin-tur₅-re bi₂-in-u₃-tud
+c.4.26.1,A tigi to Nintur (Nintur A),,10,{d}nin-tur₅ su zig₃ piriŋ-ŋa₂-ka ši-mi-ni-in-e₃
+c.4.26.1,A tigi to Nintur (Nintur A),,11,en mu-un-u₃-tud lagar mu-un-u₃-tud
+c.4.26.1,A tigi to Nintur (Nintur A),,12,lugal barag kug-ga {d}nin-tur₅-re bi₂-in-u₃-tud
+c.4.26.1,A tigi to Nintur (Nintur A),,13,niŋ₂ saŋ-bi-še₃ e₃-a
+c.4.26.1,A tigi to Nintur (Nintur A),,14,{d}nin-tur₅-re saŋ-ŋa₂ ša-mi-ni-in-ŋal₂
+c.4.26.1,A tigi to Nintur (Nintur A),,15,hi-li-a tud ki us₂-sa
+c.4.26.1,A tigi to Nintur (Nintur A),,16,ama {d}nin-tur₅ niŋ₂ saŋ-bi-še₃ e₃-a
+c.4.26.1,A tigi to Nintur (Nintur A),,17,{d}nin-tur₅-re saŋ-ŋa₂ ša-mi-ni-in-ŋal₂
+c.4.26.1,A tigi to Nintur (Nintur A),,18,{d}nin-tur₅ hi-li-a tud ki us₂-sa
+c.4.26.1,A tigi to Nintur (Nintur A),,19,sa-gid₂-da-am₃
+c.4.26.1,A tigi to Nintur (Nintur A),,20,nin gaba-ŋal₂ nam-nun an ki-a
+c.4.26.1,A tigi to Nintur (Nintur A),,21,{d}nin-tur₅ u₃-tud-da
+c.4.26.1,A tigi to Nintur (Nintur A),,22,abzu-ta nun-e ŋar-ra
+c.4.26.1,A tigi to Nintur (Nintur A),,23,kur gal {d}en-lil₂-da šu sa₂-a
+c.4.26.1,A tigi to Nintur (Nintur A),,24,{d}nin-tur₅ nin gaba-ŋal₂ nam-nun an ki-a
+c.4.26.1,A tigi to Nintur (Nintur A),,25,{d}nin-tur₅ u₃-tud-da
+c.4.26.1,A tigi to Nintur (Nintur A),,26,abzu-ta nun-e ŋar-ra
+c.4.26.1,A tigi to Nintur (Nintur A),,27,kur gal {d}en-lil₂-da šu sa₂-a
+c.4.26.1,A tigi to Nintur (Nintur A),,28,ab₂ amar-bi-ta gu₃ nun mu-na-ab-be₂
+c.4.26.1,A tigi to Nintur (Nintur A),,29,ama {d}nin-tur₅-re i-lu-bi-ta mu-un-na-an-kiŋ₂-e
+c.4.26.1,A tigi to Nintur (Nintur A),,30,ama {d}nin-tur₅ nin mah keš₃{ki}-a
+c.4.26.1,A tigi to Nintur (Nintur A),,31,kur gal {d}en-lil₂-da šu sa₂-a
+c.4.26.1,A tigi to Nintur (Nintur A),,32,{d}nin-tur₅ ab₂ amar-bi-ta gu₃ nun mu-na-ab-be₂
+c.4.26.1,A tigi to Nintur (Nintur A),,33,ama {d}nin-tur₅-re i-lu-bi-ta mu-un-na-kiŋ₂-e
+c.4.26.1,A tigi to Nintur (Nintur A),,34,ama {d}nin-tur₅ nin mah keš₃{ki}-a
+c.4.26.1,A tigi to Nintur (Nintur A),,35,kur gal {d}en-lil₂-da šu sa₂-a
+c.4.26.1,A tigi to Nintur (Nintur A),,36,ki-tuš kug giri₁₇-zal-la ki-tuš niŋ₂ lu-lu-a
+c.4.26.1,A tigi to Nintur (Nintur A),,37,ama {d}nin-tur₅ barag tuš-a-ni
+c.4.26.1,A tigi to Nintur (Nintur A),,38,me mah kug-sig₁₇-ga-am₃ me-te uŋ₃ lu-a
+c.4.26.1,A tigi to Nintur (Nintur A),,39,nam-en nam-lugal {d}en-lil₂-še₃ ŋal₂-la
+c.4.26.1,A tigi to Nintur (Nintur A),,40,{d}nin-tur₅ ki-tuš giri₁₇-zal-la ki-tuš niŋ₂ lu-lu-a
+c.4.26.1,A tigi to Nintur (Nintur A),,41,ama {d}nin-tur₅ barag tuš-a-ni
+c.4.26.1,A tigi to Nintur (Nintur A),,42,me mah kug-sig₁₇ me-te uŋ₃ lu-a
+c.4.26.1,A tigi to Nintur (Nintur A),,43,nam-en nam-lugal {d}en-lil₂-še₃ ŋal₂-la
+c.4.26.1,A tigi to Nintur (Nintur A),,44,sa-ŋar-ra-am₃
+c.4.26.1,A tigi to Nintur (Nintur A),,45,tigi {d}nin-tur₅-ra-kam

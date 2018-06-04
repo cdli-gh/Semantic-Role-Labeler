@@ -1,0 +1,57 @@
+id_text,text_name,version,l_no,text
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,1,an-na tum₂-ma
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,2,nam-nin-e dib
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,3,{ŋeš}gu-za nitah e₂-a
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,4,{ŋeš}gu-za munus pa-pah
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,5,ŋiš-MUNUS.BUR₂ kug-sig₁₇ tug₂-ga
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,6,{ŋeš}dala₂ HA-i-zi {tug₂}niŋ₂-lam₂
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,7,aŋ₂
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,8,{d}na-na-a dug₃-ga-am₃
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,9,gaba-za
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,10,{d}na-na-a zid₂-kukkuš-bi ku₇-ku₇-da
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,11,en₃-dur-za HA-izi ga-ba-ni-ib-sig₁₀
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,12,{d}na-na-a a a
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,13,ŋen-ma-da nin-ŋu₁₀ ŋen-ma-da
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,14,ka pa-pah-a-ta ŋen-ma-da
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,15,du₃
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,15A,ŋen nin₉ ki aŋ₂-ŋu₁₀ šag₄-ŋu₁₀ he₂-em-hul₂-le
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,16,šu-zu munus-am₃ ŋiri₃-zu munus-am₃
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,17,inim lu₂-da bal-e-zu munus-am₃
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,18,igi lu₂-ra bar-re-zu munus-am₃
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,18A,šu lu₂-ra munus-am₃
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,18B,ŋiri₃ munus-am₃
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,18C,a₂-diš-kuš₃ šag₄ im-hul₂-le
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,18D,ŋiri₃ ur₅ im-mi-in-sag₉
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,19,zag e₂-ŋar₈-da gub-bu šag₄ sud-zu i₃-sag₉
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,20,gam-e-de₃ ib₂-ib₂ i₃-sag₉-sag₉
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,20A,e₂-ŋar₈-da gub-bu-ŋu₁₀ ₁ sila₄-am₃
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,20B,gam-e-ŋu₁₀ ₁ ₁/₂ giŋ₄-am₃
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,21,id₂ na-an-ba-al-le id₂-zu he₂-me-en
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,22,a-šag₄ na-an-ur₁₁-ru a-šag₄-zu he₂-me-en
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,23,mu-un-gar₃ ki duru₅ na-an-kiŋ₂-kiŋ₂-e
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,24,ze₂-ba kal-la-ŋu₁₀ ki duru₅-zu he₂-am₃
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,25,ab-sin₂-zu he₂-am₃
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,26,tur-tur-me aš₂-zu he₂-am₃
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,27,a-na zur-zur-re
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,28,a-na ki-gub ba-du-un
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,29,a-na ninda ŋeštin-da ba-da-du-du-un
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,30,ninda ŋeštin-da ma-da-du-du-nam
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,31,ŋen nin₉ ki aŋ₂-ŋu₁₀ šag₄-bi
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,32,{d}na-na-a ne ge₄-su-ub
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),A,33,bal-bal-e {d}na-na-a-kam
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A1,en₃-dur-za HA-izi
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A2,nin₉ e ze₂-ba-ŋu₁₀
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A3,murgu-za
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A4,nin₉ e-ŋu₁₀ šu
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A5,gal₄-la-za sar-ra
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A6,{d}na-na-a
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A7,gu-du-za a-šag₄
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A8,nin₉ e-ŋu₁₀ bur₃ gana₂
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,A9,ŋen-ma-da nin₉-ŋu₁₀
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,B1,
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,B2,ŋen nin₉ ki aŋ₂-ŋu₁₀
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,B3,a-na nam
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,B4,a-na nam
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,B5,a-na nam
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,B6,a-na nam
+c.4.07.8,A balbale to Inana as Nanaya (Inana H),B,B7,nin₉

@@ -1,0 +1,61 @@
+id_text,text_name,version,l_no,text
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,1,en ŋeštug₂ mah šu du₇ sa₂ gal-e pad₃-da
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,2,{d}ha-ia₃ dub gal-gal ha-ha-za ŋeštug₂-ŋeštug₂-ga peš-peš
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,3,šid-du₃ hal-an-kug igi zag til galam-ma-ke₄ e₂-ŊEŠTUG₂.{d}NISABA-ke₄
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,4,pisaŋ-dub-ba e₂-gal an ki-a kiŋ₂ kilib-ba šid-šid
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,5,gi kug-ga šu ŋal₂-le im nam-tar gal-gal mul-mul
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,6,gal-an-zu inim ŋeštug₂ de₅-ge ud-bi-še₃ an kug-ga-ra
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,7,kišib-ŋal₂ a-a {d}en-lil₂-la₂-ke₄ lu₂ tam-ma e₃ erim₃ e₂-kur-ra
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,8,he₂-du₇ eš₃-e abzu-a siki bar-ra la₂-la₂ en {d}nu-dim₂-mud-ra
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,9,{d}ha-ia₃ šag₄-gada-la₂ e₂-u₆-nir-ra uz-ga kug lu-lu
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,10,umun₂ ak-ak eš₃ e₂-kiš-nu-ŋal₂-la₂-ke₄ mu mah-bi gal-la
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,11,šag₄ inim-ŋal₂ ki-sikil {d}nin-gal-e unu₇ gal-e til₃-la
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,12,muš₃-me sag₉ nitalam₂ ki aŋ₂ {d}nun-bar-še-gu-nu
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,13,lu₂ mu mah mussa kur gal a-a {d}en-lil₂-la₂-kam
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,14,saŋŋa ban₃-da igi-ŋal₂-tuku pad₃-da an ki-bi-da-ke₄
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,15,gu₂-un diŋir-re-e-ne šu gid₂-i ma-dam kur ab su₃-ud-da inim-ma-ni bur₂-e
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,16,gal-zu me mah nam-nun-na-ka u₅ tur₃ zag keše₂-da
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,17,šag₄ daŋal sur-ra ŋiš-hur kug-ga e₂ eridug{ki}-ga-ke₄ šu dab-be₂
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,18,{d}ha-ia₃ lu₂ šu-luh sikil-la engur-ra-ke₄ tug₂-ba₁₃ tug₂ la₂-la₂
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,19,{d}indagara saŋŋa₇ utah-he₂ kur-ta ka du₈-u₃ diŋir-re-e-ne-ke₄
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,20,šag₄ dub-ba su₃-ud-da zu-a galam ak-ak diŋir gal-gal-e-ne
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,21,šu-nir-nir {ŋeš}gag-a du₃-du₃ saŋ sig₉-ga ki galam hur kalam-ma
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,22,ki šu tag-tag unu₇ sig₇-ga an-šar₂ kur gal-ra
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,23,saŋ il₂ mah eš₃-e abzu-ta dug₄-ga-ni še-ga
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,24,lu₂ saŋ keše₂ ninda babbar sikil-la šu dab-be₂ e₂ diŋir-re-e-ne
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,25,{d}ku₃-su₃ {d}indagara e-ne-ne-da nu an nu-sikil-la ki nu-dadag-ge
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,26,u₂ gal-gal sud-sud an {d}en-lil₂-la₂ unu₇ mah-ne-ne-ke₄
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,27,lu₂ muš₃ kug-ga igi du₈ en {d}nu-dim₂-mud-e
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,28,zabar kug-ga šu ŋal₂-le šag₄ hul₂-hul₂ bar sig₁₀-sig₁₀-ge₅
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,29,lugal-ŋu₁₀ nam-mah-zu šir₃-ra ga-am₃-i-i
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,30,{d}ha-ia₃ nam-gal-zu gi₁₆-sa-še₃ ga-am₃-pad₃-pad₃-de₃-en
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,31,a-ba za-a-gin₇ diŋir-re-e-ne-ke₄ me kug-ga-aš tum₂-ma
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,32,nitalam ki aŋ₂-zu ki-sikil {d}nisaba nin gal nin-e-ne
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,33,u₃-tud-da šag₄-ga-ni {d}nin-lil₂-la₂ dam mah {d}nu-nam-nir-ra
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,34,barag e₂-kur-ra-ke₄ saŋ il₂-la an-še₃ ši-in-da-til₃
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,35,nam-nin diŋir-re-e-ne-ke₄ me-er-ga-bi al-ak-e diŋir zag ša₄ nu-tuku
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,36,za-e ninda₂ gal ŋalga zid pad₃-da en₃ tar-tar diŋir-re-e-ne-ke₄
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,37,{d}ha-ia₃ me šum₂-šum₂-mu kiŋ₂ aŋ₂-e ki-šu-peš igi zu-zu-me-en
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,38,{d}en-ki-ke₄ eš₃-e abzu-ta mu₇-mu₇ nam-til₃-la-ni mu-ra-rig₇
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,39,en ŋi₆-par₃-e mu-ni-ib-huŋ-en saŋ sig₁₀ mu-ni-ib-ŋar-re-en
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,40,sipad kalam-ma-ra ŋidru mah ud su₃-ra₂ šu-ni-še₃ bi₂-ib-dab₅-e-en
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,41,{d}ha-ia₃ diŋir kalam-ma a-ra-zu uŋ₃ šar₂-ra ŋiš tuku-me-en
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,42,za-e diŋir gal-gal-e-ne uŋ₃ daŋal-la šu-ni-še₃ bi₂-ib-dab₅-e-en
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,43,a-a {d}en-ki abzu-ta ed₂-da-ni-ta
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,44,{d}ha-ia₃ nam-gal-bi za-e ša-mu-re-da-an-aŋ₂
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,45,uŋ₃ šag₄-ba i₃-ni-me-a-ke₄ gu₂-bi an-še₃ ši-bi₂-ib₂-zi-zi
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,46,nam-lu₂-ulu₃-bi ud asil-la₂ mi-ni-ib-zal-zal-le-ne
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,47,uŋ₃ šar₂-ra-bi šag₄ hul₂-la ud ul-le₂-a-aš bi₂-ib-ak-e-en
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,48,e₂ diŋir gal-gal-e-ne ezen ab-ŋar-re-en giri₁₇-zal ši-bi₂-du₈-du₈-un
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,49,saŋ-kal saŋ-kal-e diŋir-re-e-ne-ke₄ ŋiš-šub gal-gal uŋ₃ til-la-ni
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,50,igi sag₉-ga-zu nam-til₃ si-a lugal-ra igi zid bar-mu-un-ši-ib
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,51,nun {d}ri-im-{d}suen bal hul₂-hul₂ ud su₃-ud-da šu zid ŋar-mu-na-ab
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,52,im nam-til₃-la-ke₄ du-ri₂-še₃ nu-kur₂-ru mu-bi gub-i₃
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,53,sipad {d}ri-im-{d}suen nam-en-bi an {d}en-lil₂-la₂ ki he₂-aŋ₂-e-ne
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,54,lu₂ šir₃-ra-ke₄ za₃-mi₂-zu ka-bi-a mi-ni-ib-dug₃-ge-ne
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,55,{d}ha-ia₃ lu₂ šir₃-ra-ke₄ za₃-mi₂-zu ka-bi-a mi-ni-ib-dug₃-ge-ne
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,56,en an ki lugal abzu-a za₃-mi₂-bi mah-a
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,57,a-a {d}en-ki lugal abzu-a za₃-mi₂-zu dug₃-ga
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,58,u₁₈-ru₁₂-bi-im
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,59,{d}ha-ia₃ diŋir kalam-ma ga-til₃-e ki aŋ₂ nun {d}ri-im-{d}suen-e a₂ bad tal₂-ni he₂-me-en
+c.2.6.9.2,A hymn to Haia for Rīm-Sîn (Rīm-Sîn B),,60,ŋiš-gi-ŋal₂-bi-im

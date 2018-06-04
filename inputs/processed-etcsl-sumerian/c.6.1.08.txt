@@ -1,0 +1,121 @@
+id_text,text_name,version,l_no,text
+c.6.1.08,Proverbs: collection 8,,A1,šah₂ e₂-a ba-al-ba-al
+c.6.1.08,Proverbs: collection 8,,A2,šah₂ lu₂-šah₂-šum-ma mi-ni-ib-šum-e
+c.6.1.08,Proverbs: collection 8,,A3,gu₃ i₃-ra-ra kaskal ninda₂-zu
+c.6.1.08,Proverbs: collection 8,,A4,u₃ pa-bil-ga-zu i₃-re₇-eš-am₃
+c.6.1.08,Proverbs: collection 8,,A5,u₃ za-e al-du-un-na-ni gu₃ i₃-ra-ra-e-še
+c.6.1.08,Proverbs: collection 8,,A6,šah₂-gin₇ ŋiri₂-zu
+c.6.1.08,Proverbs: collection 8,,A7,šah₂-gin₇ šu ab-kar-kar-re
+c.6.1.08,Proverbs: collection 8,,A8,i-gi₄-in-zu ni₂-te-a-ni lugal-a-ni-še₃-am₃-e-še
+c.6.1.08,Proverbs: collection 8,,A9,šah₂ lu-hu-um-ma su₃-am₃
+c.6.1.08,Proverbs: collection 8,,A10,šah₂ ninda paₓ-ra₂ mu-un-il₂
+c.6.1.08,Proverbs: collection 8,,A11,
+c.6.1.08,Proverbs: collection 8,,B1,gun₂-ni
+c.6.1.08,Proverbs: collection 8,,B2,nu-ub-dirig šag₄ bi₂-zalag-e-še
+c.6.1.08,Proverbs: collection 8,,B3,megida₂ u₂-gu de₂-a-ta i₃-dur₂-ru-ne
+c.6.1.08,Proverbs: collection 8,,B4,{e₂}ir-da mu-un-kal-la-ge-ne
+c.6.1.08,Proverbs: collection 8,,B5,megida₂-gin₇ hi-li nu-mu-ni-in-ak
+c.6.1.08,Proverbs: collection 8,,B6,ŋi₆ MAŠ-a-ka še al nu-mu-ni-in-dug₄-e-še
+c.6.1.08,Proverbs: collection 8,,B7,maš₂-gin₇ sun₄ la₂-a
+c.6.1.08,Proverbs: collection 8,,B8,ud₅-de₃ saŋ rig₇ maš₂ gal-la-ka
+c.6.1.08,Proverbs: collection 8,,B9,ud₅-de₃ ud₅-X na-ab-be₂-a
+c.6.1.08,Proverbs: collection 8,,B10,u₃ ŋe₂₆-e saŋ mu-ni-ib-ra-ra
+c.6.1.08,Proverbs: collection 8,,B11,ud₅-de₃ nu-ŋen-na e₂-ri-a an-zu
+c.6.1.08,Proverbs: collection 8,,B12,ud₅-de₃ ur-bar-ra-be₂-ne bi₂-in-us₂-us₂
+c.6.1.08,Proverbs: collection 8,,B13,i₃-bal ŋiri₃-bi ŋiri₃ bi₂-in-ra
+c.6.1.08,Proverbs: collection 8,,B14,dim₃-šah₂-gin₇ bid₃-da ka-ga₁₄-na al-sag₃
+c.6.1.08,Proverbs: collection 8,,B15,lu-lim bar dag-ga
+c.6.1.08,Proverbs: collection 8,,B16,maš-da₃ igi nu-la₂ ur igi nu-ŋal₂-la lu₂ šu zig₃-zig₃-ga igi nu-du₈
+c.6.1.08,Proverbs: collection 8,,B17,maš-da₃-gin₇ a ud ₁₅-kam i₃-naŋ-naŋ
+c.6.1.08,Proverbs: collection 8,,B18,az-e daŋal tag-ga-ab hur-saŋ-ŋa₂ mu-un-ŋen
+c.6.1.08,Proverbs: collection 8,,B19,az-e itid ₆-kam-ma ti-ba u₃-un-bal
+c.6.1.08,Proverbs: collection 8,,B20,an u₃-sa₂ na-an-šum₂-mu-un
+c.6.1.08,Proverbs: collection 8,,B21,ŋa₂-a-gin₇-nam he₂-ug₇-e-še
+c.6.1.08,Proverbs: collection 8,,B22,kir₄-gin₇ en-na mi-ni-hab₂-ba nu-gu₇-e-en
+c.6.1.08,Proverbs: collection 8,,B23,umbin su-a i₃-udu-še₃ ba-an-kur₉
+c.6.1.08,Proverbs: collection 8,,B24,su-a-gin₇ kuš du₃-u₃-bi eme-am₃
+c.6.1.08,Proverbs: collection 8,,B25,su-a ki-in-dar-ra mi-ni-pad₃-de₃
+c.6.1.08,Proverbs: collection 8,,B26,ka₅-a ur₂ am-si-ka ŋiri₃-bi mu-un-gub
+c.6.1.08,Proverbs: collection 8,,B27,ab-si ab-dirig-e-še
+c.6.1.08,Proverbs: collection 8,,B28,ka₅-a {d}en-lil₂-le si-am-e al u₃-bi₂-in-dug₄
+c.6.1.08,Proverbs: collection 8,,B29,si-am-e ba-ni-in-la₂ im šeŋ₁₄ mu-na-an-zi-zi
+c.6.1.08,Proverbs: collection 8,,B30,habrud-da-ni nu-mu-da-an-ku₄-ku₄
+c.6.1.08,Proverbs: collection 8,,B31,ŋi₆ MAŠ-bi-še₃ {tum₉}mir mir
+c.6.1.08,Proverbs: collection 8,,B32,muru₉ im-šeŋ₃-ŋe₂₆
+c.6.1.08,Proverbs: collection 8,,B33,ugu-ba in-til-la-ta he₂-em-ta-had₂
+c.6.1.08,Proverbs: collection 8,,B34,ŋarza₂ lugal-a-ni-ir ga-ba-ni-ib-gur-e-še
+c.6.1.08,Proverbs: collection 8,,B35,ka₅-a šir am-e al-us₂-us₂
+c.6.1.08,Proverbs: collection 8,,B36,i-gi₄-in-zu en-na šag₄-ŋar-ra-na ug₅-ga-a
+c.6.1.08,Proverbs: collection 8,,B37,ka₅-a eg₂ al-DU gu-du gam-ma-ŋu₁₀
+c.6.1.08,Proverbs: collection 8,,B38,lu₂ na-me igi nu-mu-ni-in-du₈
+c.6.1.08,Proverbs: collection 8,,B39,ka₅-a sur₁₂ al-du₈-e sur₁₂-a nu-tur-tur
+c.6.1.08,Proverbs: collection 8,,B40,u₃ ka₅-a nu-mu-un-kuš₂-u₃
+c.6.1.08,Proverbs: collection 8,,B41,ka₅-a gu₂ gid₂ ama-na-še₃ ŋeštug₂-ga-ni in-gub-ma
+c.6.1.08,Proverbs: collection 8,,B42,al-guz-guz-e-še
+c.6.1.08,Proverbs: collection 8,,B43,ka₅-a maš₂-bi mu-šub
+c.6.1.08,Proverbs: collection 8,,B44,maš₂-tab-ba-ni mu-ni-in-i-i
+c.6.1.08,Proverbs: collection 8,,B45,ka₅-a kun-bi dugud-dam ur₃ la₂-a
+c.6.1.08,Proverbs: collection 8,,B46,ka₅-a si-ŋar-bi ŋiš-DA-am₃
+c.6.1.08,Proverbs: collection 8,,B47,ka₅-a ud₅-de₃-eš₂ an-na-ab-be₂
+c.6.1.08,Proverbs: collection 8,,B48,{kuš}e-sir₂-ŋu₁₀ e₂-zu-a ga-mu-ni-ib₂-ŋar
+c.6.1.08,Proverbs: collection 8,,B49,du-u₃-da ur-gir₁₅-ra-ka {ŋeš}gag-ta ga-mu-ni-ib₂-la₂
+c.6.1.08,Proverbs: collection 8,,B50,tukum-bi ur-gir₁₅-re e₂-zu-a ur₅-ra-še₃ an-til₃
+c.6.1.08,Proverbs: collection 8,,B51,{kuš}e-sir₂-ŋu₁₀ DU-u₃
+c.6.1.08,Proverbs: collection 8,,B52,ŋi₆ na-an-sa₂-e-en-e-še
+c.6.1.08,Proverbs: collection 8,,B53,ka₅-a dur₂ {ŋeš}kiši₁₇-še₃ in-kur₉-ma
+c.6.1.08,Proverbs: collection 8,,B54,ŋa₂-nu e₃-im-ta ed₂-de₃ nu-ub-zu
+c.6.1.08,Proverbs: collection 8,,B55,gu₂-e-ta a-na-gin₇-nam i₃-kur₉-re-en
+c.6.1.08,Proverbs: collection 8,,B56,en-na-me-še₃-am₃ na-an-sar-sar
+c.6.1.08,Proverbs: collection 8,,B57,al-tuš-en-e-še
+c.6.1.08,Proverbs: collection 8,,B58,ka₅-a
+c.6.1.08,Proverbs: collection 8,,B59,e-ne dirig ne-e lul ab-dirig-e-še
+c.6.1.08,Proverbs: collection 8,,B60,ka₅-a zig₃-ga-gin₇ za-pa-aŋ₂-zu a-gar₃-re ab-gur-e-še
+c.6.1.08,Proverbs: collection 8,,B61,ka₅-a a-na-am₃ al-ak-a
+c.6.1.08,Proverbs: collection 8,,B62,ur-gir₁₅-re a-na-am₃ mu-un-ši-ib-ak-de₃
+c.6.1.08,Proverbs: collection 8,,B63,ka₅-a nam-lul-la ŋeštug₂-ga-ni in-gub-ma
+c.6.1.08,Proverbs: collection 8,,B64,ba-šub-bu-de₃-en id₂-da mi-ni-ib-tum₂-en-e-še
+c.6.1.08,Proverbs: collection 8,,B65,ka₅-a {ŋeš}ilar-e mu-un-ni₁₀-ni₁₀
+c.6.1.08,Proverbs: collection 8,,B66,kaš-de₂-a ne-en dug₃-ga a-ba-a ba-ab-šum₂-mu-e-še
+c.6.1.08,Proverbs: collection 8,,B67,ka₅-a lu₂-igi-ze₂-ze₂ u₃-bi₂-in-dab₅
+c.6.1.08,Proverbs: collection 8,,B68,ne-eš₂ er₂ mu-e-še₈-še₈ šu ba-mu-u₈-e-še
+c.6.1.08,Proverbs: collection 8,,B69,ur₂ ka₅-a-ka uzu al-du₈-e
+c.6.1.08,Proverbs: collection 8,,B70,ugu {d}nin-kilim-ma nu-um-me ba-ab-dug₄
+c.6.1.08,Proverbs: collection 8,,C1,lu₂ še tuku-tuku u₃ mu-un-ku-ku
+c.6.1.08,Proverbs: collection 8,,C2,gud
+c.6.1.08,Proverbs: collection 8,,C3,dar{mušen}-re im-du₃-a gu₃ u₃-bi₂-in-de₂
+c.6.1.08,Proverbs: collection 8,,C4,he₂-uš₂{mušen} ₂ šu-si nu-la₂-e
+c.6.1.08,Proverbs: collection 8,,C5,bi₂-za-za{mušen}-gu₃-balaŋ-ŋa₂-kar-gir₅-za-na{mušen}
+c.6.1.08,Proverbs: collection 8,,C6,ad u₃-mu-ni-in-ŋar
+c.6.1.08,Proverbs: collection 8,,C7,eme
+c.6.1.08,Proverbs: collection 8,,C8,
+c.6.1.08,Proverbs: collection 8,,D1,
+c.6.1.08,Proverbs: collection 8,,D2,al-dug₄-e
+c.6.1.08,Proverbs: collection 8,,D3,gaz ma-an-dug₄-e-še
+c.6.1.08,Proverbs: collection 8,,D4,uga{mušen} {dug}sahar
+c.6.1.08,Proverbs: collection 8,,D5,ka₅-a en₃ i-ni-in-tar
+c.6.1.08,Proverbs: collection 8,,D6,me-am₃ i-ib₂-su₃-e
+c.6.1.08,Proverbs: collection 8,,D7,{id₂}idigna {id₂}buranun-na-še₃ i-ni-in-su₃-e
+c.6.1.08,Proverbs: collection 8,,D8,a-na-aš-am₃ en₃ mu-e-tar-tar-re
+c.6.1.08,Proverbs: collection 8,,D9,a-zag-gun₃{mušen}-gin₇ igi-a aga
+c.6.1.08,Proverbs: collection 8,,D10,
+c.6.1.08,Proverbs: collection 8,,D11,mu-e-de₃-KU
+c.6.1.08,Proverbs: collection 8,,D12,
+c.6.1.08,Proverbs: collection 8,,D13,igi dar
+c.6.1.08,Proverbs: collection 8,,E1,{ŋeš}ŋišnimbar lugal-e
+c.6.1.08,Proverbs: collection 8,,E2,šu-gi
+c.6.1.08,Proverbs: collection 8,,E3,ŋiš-gin₇ su-zu-še₃
+c.6.1.08,Proverbs: collection 8,,E4,ŋiš-e uš-bar-bi
+c.6.1.08,Proverbs: collection 8,,E5,ŋe₂₆-e u₃ za-e šeš-me-en-de₃-en
+c.6.1.08,Proverbs: collection 8,,E6,a-na-aš-am₃ šag₄ ba-ni-dar-re
+c.6.1.08,Proverbs: collection 8,,E7,ŋe₂₆-e a-na-a ga-ba-ak
+c.6.1.08,Proverbs: collection 8,,E8,na₄ dirig ŋe₂₆-e al-kal-la-ge ugu-ŋa₂ i₃-ra-ra-e-še
+c.6.1.08,Proverbs: collection 8,,E9,ŋiš-e {ŋeš}uš-bar-bi he₂-eb-dar-re
+c.6.1.08,Proverbs: collection 8,,E10,{ŋeš}gu-za igi-du₈-a kan₄-na gub-gub
+c.6.1.08,Proverbs: collection 8,,E11,{ŋeš}banšur in-hul₂ id₂-da i₃ mu-sur
+c.6.1.08,Proverbs: collection 8,,E12,{ŋeš}banšur igi-zu-še₃ al-ŋa₂-ŋa₂
+c.6.1.08,Proverbs: collection 8,,E13,i₃-gu₇ nu-gu₇ mu-zu-e-še
+c.6.1.08,Proverbs: collection 8,,E14,{ŋeš}ig erin-na-ke₄ tug₂ ki-sikil ŋar-ra la₂
+c.6.1.08,Proverbs: collection 8,,E15,{ŋeš}buniŋ-me ŋeštin si-si-še₃ ŋeštug bar-ta-am₃
+c.6.1.08,Proverbs: collection 8,,E16,{ŋeš}ilar {lu₂}ni₂-zuh ugu udu keše₂-da am₃-šub
+c.6.1.08,Proverbs: collection 8,,E17,{ŋeš}ilar-e
+c.6.1.08,Proverbs: collection 8,,E18,{ŋeš}kun₄

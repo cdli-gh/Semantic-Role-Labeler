@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+c.2.99.d,An excerpt from a royal praise poem (?),,1,{d}nibru{ki} iri diŋir-re-e-ne me saŋ-e-eš₂ rig₇
+c.2.99.d,An excerpt from a royal praise poem (?),,2,{d}nu-nam-nir kur gal en an ki-da gu la₂
+c.2.99.d,An excerpt from a royal praise poem (?),,3,lugal-ŋu₁₀ sipad saŋ gig₂-ga šag₄-ta
+c.2.99.d,An excerpt from a royal praise poem (?),,4,sa₂ pad₃-de₃ me nam-{d}en-lil₂-la₂ šibir
+c.2.99.d,An excerpt from a royal praise poem (?),,5,{d}en-lil₂ dug₄-ga-zu lugal-e šu

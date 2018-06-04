@@ -1,0 +1,50 @@
+id_text,text_name,version,l_no,text
+c.4.13.11,A šir-namšub to Suen (Nanna K),,A1,an-gin₇ su₃-ra₂-e ki-gin₇
+c.4.13.11,A šir-namšub to Suen (Nanna K),,A2,u₃-mu-un {d}nanna an-gin₇ su₃-ra₂-e ki-gin₇
+c.4.13.11,A šir-namšub to Suen (Nanna K),,A3,u₃-mu-un {d}aš-im₂-babbar an-gin₇ su₃-ra₂-e ki-gin₇
+c.4.13.11,A šir-namšub to Suen (Nanna K),,A4,mu-nu₁₀-de₃ ki ab₂ lu-a-na
+c.4.13.11,A šir-namšub to Suen (Nanna K),,A5,{d}suen-e tur₃-ta mu-lu mu-un-gi₄
+c.4.13.11,A šir-namšub to Suen (Nanna K),,A6,amar lu-a-na
+c.4.13.11,A šir-namšub to Suen (Nanna K),,A7,{d}suen-e tur₃-ta mu-lu mu-un-gi₄
+c.4.13.11,A šir-namšub to Suen (Nanna K),,A8,{d}suen
+c.4.13.11,A šir-namšub to Suen (Nanna K),,A9,{d}nanna
+c.4.13.11,A šir-namšub to Suen (Nanna K),,A10,aŋ₂
+c.4.13.11,A šir-namšub to Suen (Nanna K),,A11,{d}suen
+c.4.13.11,A šir-namšub to Suen (Nanna K),,A12,lu₂ nitalam
+c.4.13.11,A šir-namšub to Suen (Nanna K),,A13,lu₂ {d}nin-gal-e
+c.4.13.11,A šir-namšub to Suen (Nanna K),,A14,i₃ mu-da-ŋal₂
+c.4.13.11,A šir-namšub to Suen (Nanna K),,A15,i₃-te-er-da
+c.4.13.11,A šir-namšub to Suen (Nanna K),,A16,ga-ar₃ ga-gin₇
+c.4.13.11,A šir-namšub to Suen (Nanna K),,A17,ama {d}nin-gal
+c.4.13.11,A šir-namšub to Suen (Nanna K),,A18,lu₂ mu-ud-na-ŋu₁₀
+c.4.13.11,A šir-namšub to Suen (Nanna K),,A19,lu₂ {d}suen-ŋu₁₀
+c.4.13.11,A šir-namšub to Suen (Nanna K),,A20,lu₂ a tu₅-a-ŋu₁₀
+c.4.13.11,A šir-namšub to Suen (Nanna K),,A21,
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B1,u₃-mu-un-e dug₄-ga zid-da
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B2,u₃-mu-un-e e₂-kiš{ki}-nu-ŋal₂
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B3,id₂-da a-eštub si-a-na
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B4,a-šag₄-ga še gu-nu ŋal₂-la
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B5,ambar-ra HI.SUHUR suhur{ku₆}
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B6,mu-gi-e gi sumun gi henbur
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B7,tir-tir-e šeg₉ šeg₉-bar
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B8,an-edin-na {mu}MAŠ-GURUM
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B9,pu₂-kiri₆ lal₃ ŋeštin
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B10,mu-sar-re hi-iz{sar} za₃-hi-li{sar}
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B11,e₂-gal-e zi su₃-ud-ŋal₂
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B12,ŋe₂₆-e mu-un-til₃-le
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B13,ki ŋe₂₆-e mu-un-til₃-le
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B14,še-eb urim₂{ki}-ma-za
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B15,{d}nanna-za
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B16,dub-la₂-mah ki di ku₅-re-za
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B17,arahₓ ŋeštin lal₃-za
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B18,kar-zid-da kar ma₂-gur₈-ra-za
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B19,e₂ an-na-za e₂ ki aŋ₂-za ŋe₂₆-e mu-un-til₃-le
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B20,{d}nanna igi-nim-ta kur šim {ŋeš}erin-na-za ŋe₂₆-e mu-un-til₃-le
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B21,u₃-mu-un {d}nanna uru₂-za-a mu-un-til₃-le
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B22,ab₂ i₃-lu amar i₃-lu mu-un-til₃-le
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B23,{d}nanna urim₂{ki}-ma-za mu-un-til₃-le
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B24,u₃-mu-un mu-nu₂
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B25,u₃-mu-un lil₂ zid an-edin
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B26,u₃-mu-un lugal dumu an-na meš₃ ki gal
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B27,ki-ru-gu₂ ₃-kam-ma
+c.4.13.11,A šir-namšub to Suen (Nanna K),,B28,šir₃-nam-šub {d}suen-na-kam

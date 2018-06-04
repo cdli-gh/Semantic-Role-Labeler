@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+c.3.3.04,Letter from Ur-Enlila to a governor and temple administrator,,1,ensi₂ saŋŋa-ra u₃-na-a-dug₄
+c.3.3.04,Letter from Ur-Enlila to a governor and temple administrator,,2,{m}ur-{d}en-lil₂-la₂-ke₄ na-ab-be₂-a
+c.3.3.04,Letter from Ur-Enlila to a governor and temple administrator,,3,pa₅ a-luh-ha a i-ib₂-tum₃
+c.3.3.04,Letter from Ur-Enlila to a governor and temple administrator,,4,{m}{d}en-lil₂-diŋir-ŋu₁₀ u₃ ha-an-za-mu
+c.3.3.04,Letter from Ur-Enlila to a governor and temple administrator,,5,ib₂-sig₃-ge-eš mu-da-an-kar-re-eš
+c.3.3.04,Letter from Ur-Enlila to a governor and temple administrator,,6,{m}lugal-an-ne₂ na-ab-be₂-a
+c.3.3.04,Letter from Ur-Enlila to a governor and temple administrator,,7,ŋe₂₆-e pa₅ ₁-am₃ za-e pa₅ ₁-am₃ ensi₂ pa₅ ₁-am₃
+c.3.3.04,Letter from Ur-Enlila to a governor and temple administrator,,8,a he₂-mu-e-de₆ bi₂-dug₄ nu-mu-un-še-ge-eš
+c.3.3.04,Letter from Ur-Enlila to a governor and temple administrator,,9,erin₂ id₂-zu nu-ma pa₅-bi a i-ib₂-tum₃
+c.3.3.04,Letter from Ur-Enlila to a governor and temple administrator,,10,ŋa₂-a sah₆-bi a ma-ab-tum₃
+c.3.3.04,Letter from Ur-Enlila to a governor and temple administrator,,11,a₂ ma-tur ₅ ŋuruš ₁₀ hu-mu-e-ši-in-gi₄-gi₄-ma
+c.3.3.04,Letter from Ur-Enlila to a governor and temple administrator,,12,a-ma-ru-kam

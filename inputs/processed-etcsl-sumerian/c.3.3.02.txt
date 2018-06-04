@@ -1,0 +1,39 @@
+id_text,text_name,version,l_no,text
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,1,lugal zalag-ga-ni iti₆-gin₇ kur-kur-ra pa e₃-a
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,2,u₃-na-dug₄
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,3,lugal {d}utu-gin₇ di si sa₂ kud-kud-de₃ eš-bar {d}ištaran-gin₇ si sa₂-sa₂-e-ra
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,4,lugal šudu₃-de₃ ŋiš tuku-ŋu₁₀-ur₂ u₃-na-de₃-tah
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,5,{m}lugal-nesaŋ-e {m}lugal-šu₂ dumu nibru{ki} arad₂-zu na-ab-be₂-a
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,6,udu-gin₇ ka u₂ gu₇-ŋu₁₀ mu-e-pad₃ naŋa dub₂-ba i-ni-bad
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,7,gud {ŋeš}šudul₄-a nu-ub-ha-za la₂-gin₇ edin-na ba-ab-ŋen-ne-en
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,8,ab₂ amar-bi nu-ub-da-la₂-a-gin₇ gu₃ arhuš-a im-me
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,9,u₈ sila₄-bi e₂-ubur-ra dab₅-ba-gin₇ šu-ni ba-ab-dab₅-be₂
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,10,mušen-gin₇ gud₃-ŋa₂ lu₂ šu ba-ni-in-ti
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,11,{ŋeš}ma₂ kar gen₆-na-a li-bi₂-ib-taka₄-a-gin₇ tum₉-e ba-ab-dirig-ge
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,12,i-si-iš sila nibru{ki}-ka mu-gu₇-e-en
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,13,iri kur₂ iri-ŋa₂ mu-da-an-kur₉ lu₂ en₃ tar-re la-ba-tuku
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,14,e₂ kur₂ e₂-ŋa₂ mu-da-an-kur₉ ugu-ŋa₂-aš ba-ab-DUN ba-X-X
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,15,iri-ŋa₂ saŋ-gin₇ la-ba-ni-DU siki siki mu-dur₇-re ba-la₂
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,16,gu₅-li dub₃-sa zu-a kal-la-ŋu₁₀
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,17,lu₂ dili gu₇-u₃-gin₇ igi tur mu-un-gid₂-i-eš
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,18,ama ugu-ŋu₁₀ ud-sakar ubur-ra-bi ubur-a-gin₇
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,19,dug₃-ge-eš ga-ŋu₁₀ gu₇-ŋu₁₀ ka-ŋu₁₀-ta ba-an-kar
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,20,a-a-ŋu₁₀ šag₄ ur₂-bi-ta guru₃-gur₃-ru-a ki-ta ba-an-ŋar-re-en
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,21,nin arhuš-a-ŋu₁₀ e₂-bi ba-kal igi nu-mu-un-ši-bar-re
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,22,ŋiš hul gurun nu-il₂-la-gin₇ lu₂ na-ma-ši-hul₂-le
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,23,ŊIŠ.BIL₂-ŊIŠ.BIL₂-me-en {ŋeš}isimu₂{sar} nu-tuku-me-en nam-ba-tum₂-un
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Nibru,24,lugal-ŋu₁₀ en₃-ŋu₁₀ he₂-tar-re ki-ur₃-ŋu₁₀-še₃ he₂-em-mi-ib-gi₄-gi₄-in
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,5,lugal šudu₃-de₃ ŋiš tuku-ŋu₁₀-ur₂
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,6,
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,7,nibru{ki}
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,8,udu-gin₇ ka u₂ gu₇ mu-ni-in-šub
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,9,naŋa dub₂-ba i-ni-bad
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,10,gud {ŋeš}šudul₄-a nu-ub-ha-za-gin₇
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,11,edin-na ba-ab-ŋen-ne-en
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,12,ab₂ amar-bi nu-ub-la₂-a-gin₇
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,13,gu₃ arhuš-a i-im-me
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,14,
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,15,šu ba-ab-dab₅-be₂
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,16,{ŋeš}ma₂ kar gen₆-na li-bi₂-ib-taka₄-a-gin₇
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,17,tum₉-e ba-ab-dirig-ge
+c.3.3.02,Letter from Lugal-nesaŋe to a king radiant as the moon,Urim,18,

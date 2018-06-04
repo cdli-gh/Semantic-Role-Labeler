@@ -1,0 +1,21 @@
+id_text,text_name,version,l_no,text
+c.3.1.11,Letter from Aradŋu (?) to Šulgi about bandits and Apillaša,,1,lu₂-e a dug₄-ga id₂-da mi-ni-ŋar-ŋar id₂
+c.3.1.11,Letter from Aradŋu (?) to Šulgi about bandits and Apillaša,,2,lu₂ la-ga lu₂-sa-gaz-e edin sig₉-si-ig-ga-bi {ŋeš}niŋ₂-gul-bi bi₂-ak
+c.3.1.11,Letter from Aradŋu (?) to Šulgi about bandits and Apillaša,,3,nitah-be₂-e-ne munus-be₂-e-ne har-ra-an nitah-bi ki šag₄-ga-na-še₃ i₃-du-u₃
+c.3.1.11,Letter from Aradŋu (?) to Šulgi about bandits and Apillaša,,4,munus-bi {ŋeš}bal {ŋeš}kirid-da šu ba-e-si-ig har-ra-an šag₄-ga-na i₃-DU
+c.3.1.11,Letter from Aradŋu (?) to Šulgi about bandits and Apillaša,,5,edin niŋ₂-daŋal-la-ba ŋa₂-rig₇ mu-ni-in-ŋar
+c.3.1.11,Letter from Aradŋu (?) to Šulgi about bandits and Apillaša,,6,za-lam-ŋar maš-gana₂-bi ki um-mi-ŋar-ŋar
+c.3.1.11,Letter from Aradŋu (?) to Šulgi about bandits and Apillaša,,7,lu₂ kiŋ₂ ak-bi lu₂ gud-apin la₂ a-šag₄-ga ud mu-un-di-ni-ib-zal-e
+c.3.1.11,Letter from Aradŋu (?) to Šulgi about bandits and Apillaša,,8,a₂ aŋ₂-ŋa₂ {d}šul-gi lugal-ŋa₂-ke₄ gu₂-ŋu₁₀ nu-mu-da-šub
+c.3.1.11,Letter from Aradŋu (?) to Šulgi about bandits and Apillaša,,9,gu₂ ŋi₆-ba an-bar₇-ba a₂-bi i₃-ŋen-ne-en
+c.3.1.11,Letter from Aradŋu (?) to Šulgi about bandits and Apillaša,,10,{m}a-pi-il-la-ša ud tur-ra-ni-ta šu mu-e-X
+c.3.1.11,Letter from Aradŋu (?) to Šulgi about bandits and Apillaša,,11,lu₂ al-me-a-gin₇ šag₄-ŋu₁₀ i₃-zu igi-zu um-mi-zu
+c.3.1.11,Letter from Aradŋu (?) to Šulgi about bandits and Apillaša,,12,lugal-ŋu₁₀ igi bar-ra diŋir-ra lu₂ hul-la-še₃
+c.3.1.11,Letter from Aradŋu (?) to Šulgi about bandits and Apillaša,,13,lu₂-ŋarza₂ gal kur-kur-ra-ke₄ ugu-bi um-mi-dirig
+c.3.1.11,Letter from Aradŋu (?) to Šulgi about bandits and Apillaša,,14,lugal-ŋu₁₀ niŋ₂ gal-gal ba-e-dirig gaba-ri
+c.3.1.11,Letter from Aradŋu (?) to Šulgi about bandits and Apillaša,,15,dug₄-ga ab-gi₄ inim-zu inim dugud-da niŋ₂-zu niŋ₂ gal-la-am₃
+c.3.1.11,Letter from Aradŋu (?) to Šulgi about bandits and Apillaša,,16,inim sag₉-ga-ni šag₄-za i₃-ŋal₂ ud us₂-sa
+c.3.1.11,Letter from Aradŋu (?) to Šulgi about bandits and Apillaša,,17,lu₂-u₁₈-lu-am₃ igi-zu
+c.3.1.11,Letter from Aradŋu (?) to Šulgi about bandits and Apillaša,,18,šag₄-ŋu₁₀ šag₄ zu₂ keše₂ a-gin₇ he₂-en-ŋa₂-ŋa₂
+c.3.1.11,Letter from Aradŋu (?) to Šulgi about bandits and Apillaša,,19,ma-da suhuš bi₂-ge-en gu₃ teš₂-a bi₂-sig₁₀-ge₅
+c.3.1.11,Letter from Aradŋu (?) to Šulgi about bandits and Apillaša,,20,lugal-ŋu₁₀ lugal nu-mu-e-da-sa₂ šag₄-zu he₂-eb-dug₃-ge

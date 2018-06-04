@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+c.5.2.5,The poem of early rulers,,6,li-bi-in-du₃-a
+c.5.2.5,The poem of early rulers,,7,lu₂-be₂-ne šu bal ak-a
+c.5.2.5,The poem of early rulers,,8,lugal-e mu ₃₆₀₀₀-am₃ in-ak
+c.5.2.5,The poem of early rulers,,9,lugal-e lu₂ an-še₃ bi₂-in-ed₂-de₃
+c.5.2.5,The poem of early rulers,,10,zi-ud-su₃-ra₂-gin₇ nam-til₃ i₃-kiŋ₂-kiŋ₂
+c.5.2.5,The poem of early rulers,,11,ba-an-za-za dab₅-ba-ta
+c.5.2.5,The poem of early rulers,,12,kalam-ma nu-dar-ra-ke₄
+c.5.2.5,The poem of early rulers,,13,lugal-e-ne dub-saŋ ud ul-le₂-a-ke₄-ne
+c.5.2.5,The poem of early rulers,,14,X-un-peš₄-peš₄-a nu-un-tu-ud-da
+c.5.2.5,The poem of early rulers,,15,šu-ŋu₁₀ sa₂ bi₂-in-dug₄-ga
+c.5.2.5,The poem of early rulers,,16,na-me nu-mu-un-zu-a
+c.5.2.5,The poem of early rulers,,17,igi niŋin₂-na-kam
+c.5.2.5,The poem of early rulers,,18,nu-zalag-ga ugu nam-uš₂-a-kam a-ba-am₃ bi₂-in-dirig-ga
+c.5.2.5,The poem of early rulers,,19,il₂-la ud šag₄ hul₂-la niŋ₂-me-ŋar mu ₃₆₀₀₀-am₃ in-ak
+c.5.2.5,The poem of early rulers,,20,diŋir-re-e-ne bi₂-in-šum₂-ma-am₃ nam-til₃ i₃-kiŋ₂-kiŋ₂
+c.5.2.5,The poem of early rulers,,21,ha-la lu₂-u₁₈-lu-kam til₃-a e₂ ŋuruš-ke₄

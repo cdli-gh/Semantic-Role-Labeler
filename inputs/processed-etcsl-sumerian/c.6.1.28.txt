@@ -1,0 +1,39 @@
+id_text,text_name,version,l_no,text
+c.6.1.28,Proverbs: collection 28,,A1,{ŋeš}tukul mu-ni nu-pad₃-da su-ni i₃-pad₃-da
+c.6.1.28,Proverbs: collection 28,,A2,iri{ki} mu hu-mu-kur₂-kur₂ mu-ŋu₁₀ hu-mu-gen₆-na
+c.6.1.28,Proverbs: collection 28,,A3,{d}nin-kilim ni₂ diŋir-ra nu-zu
+c.6.1.28,Proverbs: collection 28,,A4,ŋiš-šub us₂-sa ama-zu hul₂-la
+c.6.1.28,Proverbs: collection 28,,A5,kaš₄ tuku-ma diŋir-zu hul₂-la
+c.6.1.28,Proverbs: collection 28,,A6,te₈{mušen} ka lu₂-kam ba-an-kur₉
+c.6.1.28,Proverbs: collection 28,,A7,nim kur₉-ra-am₃ ka-zu ba-nim-am₃
+c.6.1.28,Proverbs: collection 28,,A8,{ŋeš}ŋidru gud ha-pa-gaz {kuš}a₂-si udu ha-pa-šum₂
+c.6.1.28,Proverbs: collection 28,,A9,ki saŋ-ki nu-ŋal₂-ta lu₂ nu-dib₂ e-ne sukkal-a
+c.6.1.28,Proverbs: collection 28,,A10,šag₄ {ŋeš}ŋidru-kam i₃ he₂-en-de₂
+c.6.1.28,Proverbs: collection 28,,A11,lu₂ diŋir-ra-a-ni nu-mu-un-kal-kal lu₂-bi ki nu-tum₃
+c.6.1.28,Proverbs: collection 28,,A12,ibila-a-ni a nu-de₂ saŋ
+c.6.1.28,Proverbs: collection 28,,A13,ha-ma-da-gub-be₂
+c.6.1.28,Proverbs: collection 28,,A14,er₂ geme₂-kam
+c.6.1.28,Proverbs: collection 28,,A15,dumu geme₂-kam dam
+c.6.1.28,Proverbs: collection 28,,A16,ambar-a-ni ma₂
+c.6.1.28,Proverbs: collection 28,,A17,gu₂ ambar-a-ni
+c.6.1.28,Proverbs: collection 28,,A18,
+c.6.1.28,Proverbs: collection 28,,A19,
+c.6.1.28,Proverbs: collection 28,,B20,šeš šeš
+c.6.1.28,Proverbs: collection 28,,B21,dam nu-ŋar-ra tu-ku-a-ŋu₁₀-ne
+c.6.1.28,Proverbs: collection 28,,B22,tur₅-ra šag₄-ga lu₂
+c.6.1.28,Proverbs: collection 28,,B23,u₄-ma e₂ nu-tuku e₂ de₂-a
+c.6.1.28,Proverbs: collection 28,,B24,utul₂ šu bar ŋal₂ sahar niŋ₂-gig {d}utu-kam
+c.6.1.28,Proverbs: collection 28,,B25,nitah du-du niŋ₂ pad₃-da
+c.6.1.28,Proverbs: collection 28,,B26,munus du-du niŋ₂ ugu bi₂-ib-de₂
+c.6.1.28,Proverbs: collection 28,,B27,lu₂ huŋ še sa-ra ha-bi₂-ib-gi₄
+c.6.1.28,Proverbs: collection 28,,B28,saŋ i-bi₂ dug₄-ga
+c.6.1.28,Proverbs: collection 28,,B29,e₂-gal {ŋeš}tir-ra-am₃
+c.6.1.28,Proverbs: collection 28,,B30,lugal ur-mah-e {d}nun-gal {ŋeš}sa-uš-gal ŋuruš-e gam-gam
+c.6.1.28,Proverbs: collection 28,,B31,e₂-ta e₃ sila-ta kur₉-ra geme₂ nin-a-ni-ta ŋišbun-ni bi₂-in-ŋar
+c.6.1.28,Proverbs: collection 28,,B32,še nu-ŋal₂ šu iri{ki}-kam
+c.6.1.28,Proverbs: collection 28,,B33,gi nu-ŋal₂ nam-ukur₃ nam-ukur₃ dirig-ga
+c.6.1.28,Proverbs: collection 28,,B34,hu-su ga-me-en ašgab-e-ne
+c.6.1.28,Proverbs: collection 28,,B35,zi {d}en-ki-a u₂ za₃-le {lu₂}azlag₂-e-ne
+c.6.1.28,Proverbs: collection 28,,B36,ku₆ al-šeŋ₆-ŋa₂ ha-ra-ab-sed₆-sed₆-de₃
+c.6.1.28,Proverbs: collection 28,,B37,ŋiri₃-paₓ-ra₂ de₅-de₅-ga
+c.6.1.28,Proverbs: collection 28,,B38,nam-ba-DU ŋe₂₆-e X-hul₂-le-e

@@ -1,0 +1,49 @@
+id_text,text_name,version,l_no,text
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,1,a zal-le u₃-tud-da
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,2,{d}nin-hur-saŋ-ŋa₂-ke₄ mi₂ zid-de₃-eš dug₄-ga
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,3,{d}nin-ka-si a zal-le u₃-tud-da
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,4,{d}nin-hur-saŋ-ŋa₂-ke₄ mi₂ zid-de₃-eš dug₄-ga
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,5,iri-zu lal₃-har-re ki us₂-sa
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,6,bad₃ gal-bi šu mu-ra-an-du₇-du₇
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,7,{d}nin-ka-si iri-zu lal₃-har-re ki us₂-sa
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,8,bad₃ gal-bi šu mu-ra-an-du₇-du₇
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,9,a-a-zu {d}en-ki en {d}nu-dim₂-mud-e
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,10,ama-zu {d}nin-ti nin abzu-a
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,11,{d}nin-ka-si a-a-zu {d}en-ki en {d}nu-dim₂-mud-e
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,12,ama-zu {d}nin-ti nin abzu-a
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,13,si niŋ₂-silaŋ {ŋeš}mar mah-a du₈-a-zu
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,14,šim-lal₃-ta ub₄-ba bappir₂ hi-hi-a
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,15,{d}nin-ka-si si niŋ₂-silaŋ {ŋeš}mar mah-a du₈-a-zu
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,16,šim-lal₃-ta ub₄-ba bappir₂ hi-hi-a
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,17,bappir₂ udun-mah-e du₈-a-zu
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,18,zar gu₂-nida-am₃ si sa₂-sa₂-am₃
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,19,{d}nin-ka-si bappir₂ udun-mah-e du₈-a-zu
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,20,zar gu₂-nida-am₃ si sa₂-sa₂-am₃
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,21,munu₄ sahar ŋar-ra a sig₉-ga-zu
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,22,ur me-me nam gam-gam-ma-am₃
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,23,{d}nin-ka-si munu₄ sahar ŋar-ra a sig₉-ga-zu
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,24,ur me-me nam gam-gam-ma-am₃
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,25,sumun₂ dug-a a ŋar-ra-zu
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,26,i-zi zi-zi-dam i-zi ŋa₂-ŋa₂-dam
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,27,{d}nin-ka-si sumun₂ dug-a a ŋar-ra-zu
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,28,i-zi zi-zi-dam i-zi ŋa₂-ŋa₂-dam
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,29,titab {gi}kid-mah-a barag₂-ga-zu
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,30,šag₄ sed₈ dib-ba-a
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,31,{d}nin-ka-si titab {gi}kid-mah-a barag₂-ga-zu
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,32,šag₄ sed₈ dib-ba-a
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,33,{kaš}dida gal šu tab-ba ŋal₂-la-zu
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,34,lal₃ ŋeštin teš₂-ba sur-ra-a
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,35,{d}nin-ka-si {kaš}dida gal šu tab-ba ŋal₂-la-zu
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,36,lal₃ ŋeštin teš₂-ba sur-ra-a
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,37,
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,38,{kaš}dida dug-še₃
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,39,{d}nin-ka-si
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,40,{kaš}dida dug-še₃
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,41,{dug}niŋ₂-dur₂-buru₃-e gu₃ nun di-dam
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,42,lahtan mah-a mi-ni-in-si-sa₂-am₃
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,43,{d}nin-ka-si {dug}niŋ₂-dur₂-buru₃-e gu₃ nun di-dam
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,44,lahtan mah-a mi-ni-in-si-sa₂-am₃
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,45,kaš si-im {dug}lahtan-na de₂-a-zu
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,46,{id₂}idigna {id₂}buranun-na saŋ sig₁₀-ga-am₃
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,47,{d}nin-ka-si kaš si-im {dug}lahtan-na de₂-a-zu
+c.4.23.1,A hymn to Ninkasi (Ninkasi A),,48,{id₂}idigna {id₂}buranun-na saŋ sig₁₀-ga-am₃

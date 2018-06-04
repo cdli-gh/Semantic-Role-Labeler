@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,1,šeš-ŋu₁₀-ne u₃-na-dug₄
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,2,{m}{d}a-ba₄-tah-lugal-ŋa₂-ke₄ na-ab-be₂-a
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,3,al-su₃-ud kaskal i-im-re₇-de₃-en
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,4,u₃ lugal gen₆-na lugal-me ŋiri₃ ba-an-us₂
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,5,kaskal-kaskal-e kaskal ba-an-tah
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,6,ama-me en₃ li-bi₂-in-tar-re-de₃-en
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,7,dag-gi₄-me ud na-an-šu₂-uš-a lul-aš
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,8,₁ sila₃ mun ₁ sila₃ gazi
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,8A,šu-ta e-X
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,9,₁ šag₄-ga-du₃{tug₂}
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,10,lu₂ du hu-mu-e-X
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,11,kaskal-me al-su₃-ud
+c.3.3.06,Letter from Aba-tah-lugalŋa to his brothers,,12,a-ma-ru-kam

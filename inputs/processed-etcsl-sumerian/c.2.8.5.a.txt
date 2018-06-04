@@ -1,0 +1,37 @@
+id_text,text_name,version,l_no,text
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,A1,ud babbar-ta
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,A2,ud zalag-ga šag₄-zu
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,A3,ud zalag-ga ud {d}utu di-kud niŋ₂
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,A4,sag₉-ga niŋ₂-si-a-ni
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,A5,ešgiri₂ an-na an ki-bi
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,A6,{d}marduk
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B1,šag₄-ba
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B2,bal
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B3,nam an-gub-bu
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B4,igi {d}utu {d}nanše
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B5,igi a-bi-e-šu-uh
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B6,TU-TU-zu e₂
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B7,ki za-ba nam-diŋir-zu
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B8,ŋiš-šub-ba-zu
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B9,ŋiš e₂-e ŋiš
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B10,ud ŋi₆-a
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B11,ka-ta eme-bi
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B12,diŋir-zu nam-til₃-gin₇
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B13,{d}lamma nam-til₃-la
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B14,nam-til₃-la u₂ šudu₃
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B15,ud re-a mu su₃-ra₂ re-a
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B16,šu kug-ga {d}lamma-ni
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B17,{d}nisaba nin ereš₂{ki}-ke₄
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B18,i₃-dub še ŋal₂-la
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B19,du-du-e
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B20,kaskal har-ra-an-na
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B21,dug₄-ga bi₂-in-dug₄-ga a-ra₂-a-ra₂-zu
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B22,lu₂ huŋ munus-šag₄-zu-gin₇ {f}uš-bar
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B23,{d}utu-ra bi₂-in-dug₄-ga
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B24,{d}nanna-ra bi₂-in-dug₄-ga
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B25,e₂ kur₉-ra-ke₄
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B26,tur-ra gu-la
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B27,{ŋeš}gu-za tuš-a-ni ŋiš-nu₂-a nu₂-a-ni
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B28,sig₁₀-ge₅ di-di-da
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B29,a-ra₂-zu diŋir-zu
+c.2.8.5.a,A praise poem of Abī-Ešuh (Abī-Ešuh B),,B30,mu nam-til₃-la itid silim-ma ki šag₄ hul₂-la

@@ -1,0 +1,19 @@
+id_text,text_name,version,l_no,text
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,1,lugal-ŋu₁₀-ra u₃-na-a-dug₄
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,2,{m}arad-ŋu₁₀ arad-zu na-ab-be₂-a
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,3,lugal-ŋu₁₀ niŋ₂ na-me-še₃ a₂-še mu-e-da-a-aŋ₂
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,4,a-ab-ba kur dilmun{ki}-na-ta
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,5,a mun₄ gaba kur mar-tu{ki}-ta
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,6,da si-mu-ur-ru-um ma-da X{ki}-še₃
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,7,iri{ki} dili-dili-bi ma-da-ma-da-bi
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,8,id₂ a-šag₄ a-gar₃-bi u₃ eg₂ pa₅-bi
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,9,igi en šag₄
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,10,iri{ki}-iri{ki} ŋiš tuku lugal-ŋu₁₀
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,11,ki ur₂
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,12,bad₃-bi en-nu-uŋ₃ kalag-ga bi₂-gub
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,13,ugnim-bi gu₂ ŋiš bi₂-ŋar-ŋar
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,14,sig
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,15,a-gar₃ a ŋar-ra-bi a-ta im-ta-e₃
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,16,eg₂ zal-la-bi bi₂-ak
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,17,a-šag₄-bi ŋiš-gi
+c.3.1.03,Letter from Aradŋu to Šulgi about irrigation work,,18,saŋ sag₃-ge

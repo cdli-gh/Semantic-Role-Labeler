@@ -1,0 +1,142 @@
+id_text,text_name,version,l_no,text
+c.5.2.4,A man and his god,,1,lu₂-ulu₃ nam-mah diŋir-ra-na zid-de₃-eš-še₃ he₂-em-me
+c.5.2.4,A man and his god,,2,ŋuruš-e inim diŋir-ra-na kug-ge-eš he₂-em-i-i
+c.5.2.4,A man and his god,,3,kalam zid-de-a uŋ₃ dur₂-ru-na-bi gu-gin₇ ha-ba-si-il-e
+c.5.2.4,A man and his god,,4,{ŋeš}balaŋ di ušur gu₅-li-ni ur₅ hu-mu-un-na-bur₂-e
+c.5.2.4,A man and his god,,5,šag₄ he₂-eb-huŋ-e
+c.5.2.4,A man and his god,,6,he₂-ni-in-e₃ he₂-ni-ib-be₂
+c.5.2.4,A man and his god,,7,he₂-aŋ₂-e
+c.5.2.4,A man and his god,,8,ka i-si-iš ŋal₂-la-ni šag₄ diŋir-ra-na he₂-em-huŋ-e
+c.5.2.4,A man and his god,,9,lu₂-ulu₃ diŋir-da nu-me-a u₂-gu₇ la-ba-ak-e
+c.5.2.4,A man and his god,,10,ŋuruš-e a₂-ni ki-lul-la hul la-ba-e-ŋa₂-ŋa₂
+c.5.2.4,A man and his god,,11,a-nir a₂-sag₃ du-lum gig-ga ud im-ma-ni-in-zal
+c.5.2.4,A man and his god,,12,nam-tar-e su-gu₇-e mu-un-ni-ib-te
+c.5.2.4,A man and his god,,13,gig-ga umuš-bi mu-suh₃ mu-un-dul
+c.5.2.4,A man and his god,,14,a-ga-e šu hul mu-ni-ib-dug₄
+c.5.2.4,A man and his god,,15,šul-e igi diŋir-ra-na
+c.5.2.4,A man and his god,,16,ŋuruš-e a₂ hul ŋar-ra-na er₂ gig i₃-še₈-še₈
+c.5.2.4,A man and his god,,17,ni₂ mu-un-tuku šu-kin si bi₂-in-sa₂
+c.5.2.4,A man and his god,,18,du-lum-ma-ni mi-ni-ib-be₂
+c.5.2.4,A man and his god,,19,šag₄ kuš₂ si-a-na
+c.5.2.4,A man and his god,,20,er₂ mu-ni-in-ŋar
+c.5.2.4,A man and his god,,21,kar-ra
+c.5.2.4,A man and his god,,22,er₂ gig-ga mu-un-ŋa₂-ŋa₂
+c.5.2.4,A man and his god,,23,mu-na-da-si
+c.5.2.4,A man and his god,,24,mu-na-an-DU mu-na-ab-be₂
+c.5.2.4,A man and his god,,25,a-nir mu-ne-du₃
+c.5.2.4,A man and his god,,26,ur₅ uš₂-a
+c.5.2.4,A man and his god,,27,mi-ni-in-ŋar
+c.5.2.4,A man and his god,,28,ŋuruš-me-en zu-me-en niŋ₂-zu-ŋu₁₀ si nu-mu-da-sa₂-e
+c.5.2.4,A man and his god,,29,zid dug₄-ga-ŋu₁₀ lul-še₃ i₃-kur₉
+c.5.2.4,A man and his god,,30,lu₂-lul-la-ke₄ u₁₈-lu mu-un-dul šu-kin mu-un-na-dab₅
+c.5.2.4,A man and his god,,31,a₂ nu-zu-ŋu₁₀ ma-ra-pe-la₂-en
+c.5.2.4,A man and his god,,32,du-lum-ma ki gibil-gibil-la-bi saŋ-e-eš mu-e-rig₇
+c.5.2.4,A man and his god,,33,e₂-a u₃-mu-un-kur₉-re-en ur₅ mu-uš₂
+c.5.2.4,A man and his god,,34,ŋuruš-me-en sila-še₃ um-e₃-en šag₄ mu-un-sag₃
+c.5.2.4,A man and his god,,35,šul-me-en sipad zid-ŋu₁₀ mu-da-ib₂ igi erim₂ mu-un-du₈
+c.5.2.4,A man and his god,,36,na-gada-ŋu₁₀ lu₂-erim₂ nu-me-en-na a₂ hul ma-kiŋ₂-kiŋ₂
+c.5.2.4,A man and his god,,37,dub₃-sa-ŋu₁₀ inim gen₆-na na-ma-ab-be₂
+c.5.2.4,A man and his god,,38,gu₅-li-ŋu₁₀ inim zid dug₄-ga-ŋu₁₀-uš lul ma-ši-ŋa₂-ŋa₂
+c.5.2.4,A man and his god,,39,lu₂-lul-la-ke₄ inim teš₂ mu-un-dug₄
+c.5.2.4,A man and his god,,40,diŋir-ŋu₁₀ nu-mu-na-ni-ib-gi₄-gi₄-in
+c.5.2.4,A man and his god,,41,umuš-ŋu₁₀ ba-an-ta-DU-un
+c.5.2.4,A man and his god,,42,hul-ŋal₂-e inim teš₂ mu-du
+c.5.2.4,A man and his god,,43,mu-un-ib₂-en ud-gin₇ mu-un-du₃ šag₄ hul mu-un-dim₂
+c.5.2.4,A man and his god,,44,gal-an-zu-me-en šul nu-zu-ra a-na-aš mu-un-na-la₂-en
+c.5.2.4,A man and his god,,45,zu-me-en murub₄ lu₂ nu-zu-ka a-na-aš mu-un-na-la₂-en
+c.5.2.4,A man and his god,,46,ninda i₃-ŋal₂-ŋal₂ su-gu₇ ninda-ŋu₁₀-um
+c.5.2.4,A man and his god,,47,ud uŋ₃ šar₂-re ha-la ba-ba du-lum ha-la ba-ŋu₁₀-um
+c.5.2.4,A man and his god,,48,šeš in mu-un-dub₂ šag₄ hul mu-un-dim₂
+c.5.2.4,A man and his god,,49,
+c.5.2.4,A man and his god,,50,šu mu-un-zi-zi
+c.5.2.4,A man and his god,,51,an-da-tum₂-mu
+c.5.2.4,A man and his god,,52,erim₂ igi-ŋal₂ nu-tuku-e im mu-sar-sar-re
+c.5.2.4,A man and his god,,53,har-ra-an-na sumur-bi X-kiŋ₂-kiŋ₂
+c.5.2.4,A man and his god,,54,kaskal-la ŋiš-gin₇ mu-un-kud-e
+c.5.2.4,A man and his god,,55,ugula-a a-ga
+c.5.2.4,A man and his god,,56,nu-banda₃-ŋu₁₀
+c.5.2.4,A man and his god,,57,diŋir-ŋu₁₀ igi-zu-še₃
+c.5.2.4,A man and his god,,58,ga-mu-ra-ab-dug₄ er₂-ŋu₁₀ dirig inim-ŋu₁₀ šag₄-ne-ša₄
+c.5.2.4,A man and his god,,59,ga-ra-ni-ib-dug₄ a-ra₂-ŋa₂ niŋ₂-hul-bi gu-gin₇ ga-mu-ra-si-il
+c.5.2.4,A man and his god,,60,niŋ₂ ak-en suh₃-a-bi
+c.5.2.4,A man and his god,,61,ŋiš-hur-ŋa₂ gal-an-zu niŋ₂ er₂ nu-gul-lu-dam
+c.5.2.4,A man and his god,,62,gu₅-li-ŋu₁₀-ur₂ mu-na-an-la₂-en
+c.5.2.4,A man and his god,,63,dub₃-sa-ŋu₁₀-ur₂ a-ga-še₃ mu-un-ši-gi₄-in
+c.5.2.4,A man and his god,,64,a₂-še ama ugu-ŋu₁₀ er₂-ŋu₁₀ igi-zu-še₃ na-an-gul-e
+c.5.2.4,A man and his god,,65,nin₉-ŋu₁₀ balaŋ di ad dug₃ na-nam
+c.5.2.4,A man and his god,,66,niŋ₂ ak šu hul dug₄-ga-ŋu₁₀ er₂-ra ha-ra-ni-ib-be₂
+c.5.2.4,A man and his god,,67,dam-ŋu₁₀ du-lum-ŋu₁₀ girid₂ ha-ra-ni-ib-pad₃-pad₃-de₃
+c.5.2.4,A man and his god,,68,nar šir₃ zu-e nam-tar gig-ga-ŋu₁₀ gu-gin₇ ha-ra-si-il-e
+c.5.2.4,A man and his god,,69,diŋir-ŋu₁₀ kalam-e ud ba-zalag ŋa₂-ar ud ma-ku₁₀-ku₁₀
+c.5.2.4,A man and his god,,70,ud zalag-ga ud hi-da-gin₇
+c.5.2.4,A man and his god,,71,er₂ a-nir šag₄ sag₃ ur₅ uš₂-a šag₄-ga mu-un-ŋa₂-ŋa₂
+c.5.2.4,A man and his god,,72,du-lum-e dumu er₂ pad₃-da-gin₇ šu mu-un-dul-dul-e
+c.5.2.4,A man and his god,,73,nam-tar-ra šu-ba igi mi-ni-in-kur₂ zi-ŋu₁₀ mi-ni-tum₃-tum₃
+c.5.2.4,A man and his god,,74,su-ŋa₂ a₂-sag₃ niŋ₂ hul ŋal₂-e a im-ma-ni-ib-tu₅
+c.5.2.4,A man and his god,,75,a-ra₂-ŋa₂ niŋ₂-gig-ga-bi šu hul dug₄-ga-bi
+c.5.2.4,A man and his god,,76,ma-mu₂-da sag₉-ga igi li-bi₂-du₈-ru-un
+c.5.2.4,A man and his god,,77,ud šu₂-uš-e maš₂-ŋi₆ nu-ŋar-ra ŋa₂-la nu-mu-ta-dag-ge
+c.5.2.4,A man and his god,,78,šag₄ sag₃-e dam-bi nu-me-en-na gu₂-da in-da-la₂ a
+c.5.2.4,A man and his god,,79,zarah-e dumu tur-bi nu-me-en-na ur₂ mu-ub-tal₂-tal₂
+c.5.2.4,A man and his god,,80,a-nir ulu₃ ak-gin₇ mu-un-sig₁₀ šu
+c.5.2.4,A man and his god,,81,šeš-ŋu₁₀ u₈-e-a im-ma-ab-dug₄
+c.5.2.4,A man and his god,,82,
+c.5.2.4,A man and his god,,83,
+c.5.2.4,A man and his god,,84,
+c.5.2.4,A man and his god,,85,ba-sag₃-ge-en
+c.5.2.4,A man and his god,,86,saŋ mu-il₂
+c.5.2.4,A man and his god,,87,zi mu-ni-in-tum₃-tum₃
+c.5.2.4,A man and his god,,88,
+c.5.2.4,A man and his god,,89,
+c.5.2.4,A man and his god,,90,X-pad₃-de₃
+c.5.2.4,A man and his god,,91,im-mi-ib-DU
+c.5.2.4,A man and his god,,97,mu-še₈-še₈
+c.5.2.4,A man and his god,,98,diŋir-ŋu₁₀ za-e a-a ugu-ŋu₁₀-me-en igi-ŋu₁₀ he₂-ši-X-il₂
+c.5.2.4,A man and his god,,99,ab₂ zid diŋir arhuš-a šag₄-ne-ša₄ a₂ nun
+c.5.2.4,A man and his god,,100,en-na-me-še₃ en₃-ŋu₁₀ nu-tar-re-en ki-ŋu₁₀ nu-kiŋ₂-kiŋ₂-en
+c.5.2.4,A man and his god,,101,gud-gin₇ ga-ši-ib-zig₃ nu-mu-ra-ab-zig₃-ge-en₆
+c.5.2.4,A man and his god,,102,us₂ zid nu-mu-ub-dab₅-be₂-en
+c.5.2.4,A man and his god,,103,mi-ni-ib-be₂-ne šul gal-an-zu-ne inim zid si sa₂
+c.5.2.4,A man and his god,,104,ud na-me dumu nam-tag nu-tuku ama-a-ni nu-tu-ud
+c.5.2.4,A man and his god,,105,kuš₂ la-ba-sa₂ erin₂ nam-tag nu-tuku ul-ta nu-ŋal₂-la-am₃
+c.5.2.4,A man and his god,,106,diŋir-ŋu₁₀ ha-lam-ma niŋ₂ saŋ-bi-še₃ mu-da-ab-sud-da-ŋu₁₀
+c.5.2.4,A man and his god,,107,niŋ₂ bur₂-ra igi-zu-še₃ ŋe₂₆-e bi₂-ak-a-ŋu₁₀
+c.5.2.4,A man and his god,,108,ŋuruš na-an-šeŋ₆-ŋe₂₆ kug-zu-a inim hi-li-a he₂-ni-be₇
+c.5.2.4,A man and his god,,109,ud nu-sikil a₂-ŋa₂ nu₂-a-ŋa₂ igi-zu-še₃ ha-ba-ab-dib-be₂-en
+c.5.2.4,A man and his god,,110,nu-ku₃-ug nu-dadag-ŋu₁₀-ne iri silim-ba ha-ba-tag-ge-en
+c.5.2.4,A man and his god,,111,ud ib₂-ba šag₄ hul du₃-a zu inim hi-li-a he₂-ni-be₇
+c.5.2.4,A man and his god,,112,ud su-mu-ug tab₂-tab₂-ba zu e-ne hul₂-la hu-mu-dug₄
+c.5.2.4,A man and his god,,113,diŋir-ŋu₁₀ nam-tag-ŋu₁₀ igi-ŋu₁₀ u₃-mi-zu
+c.5.2.4,A man and his god,,114,kan₄ iri-ka ha-lam-ma-bi dili bad-bi ga-am₃-dug₄
+c.5.2.4,A man and his god,,115,ŋuruš-me-en ka tar nam-tag-ŋu₁₀ igi-zu-še₃ ga-si-il
+c.5.2.4,A man and his god,,116,unken-e u₂-KU muru₉-gin₇ hu-mu-ub-šeŋ₃-šeŋ₃-e
+c.5.2.4,A man and his god,,117,e₂-zu ama šag₄-ne-ša₄-ŋu₁₀ er₂-ŋu₁₀ he₂-še₈-X
+c.5.2.4,A man and his god,,118,šul-me-en arhuš šag₄-ne-ša₄-a-ŋu₁₀ šag₄ kug-zu he₂-em-mi-tuku
+c.5.2.4,A man and his god,,119,ŋuruš-me-en šag₄ i-zi ni₂ ri-a-zu ki-bi ha-ma-gi₄-gi₄
+c.5.2.4,A man and his god,,120,lu₂-ulu₃ er₂ gig-ga šeš₂-a-ni diŋir-ra-ni ŋiš ba-an-tuku-am₃
+c.5.2.4,A man and his god,,121,ŋuruš-ra a-nir ŋal₂ i-si-iš la₂-la₂-a-ni šag₄ diŋir-ra-na u₃-mu-un-na-huŋ
+c.5.2.4,A man and his god,,122,inim zid inim kug-ga dug₄-ga-ni diŋir-ra-ni šu ba-ši-in-ti
+c.5.2.4,A man and his god,,123,ŋuruš-e inim a-ra-zu-a mi-ni-in-zu-a-ni
+c.5.2.4,A man and his god,,124,šudu₃ ku₃-ug su diŋir-ra-na-ka i₃ li i₃-ak
+c.5.2.4,A man and his god,,125,diŋir-ra-ni inim hul-ŋal₂-ta šu-ni ba-ra-an-gid₂
+c.5.2.4,A man and his god,,126,šag₄ sag₃-ge dam-bi nu-me-en-na gu₂ in-da-la₂-e a šeŋₓ im-ma-ab-X
+c.5.2.4,A man and his god,,127,zarah-e a₂ mu-ni-tal₂-tal₂-la lil₂-še₃ im-mi-in-sag₃
+c.5.2.4,A man and his god,,128,a-nir URU{ki} ak-gin₇ mu-un-sig₁₀-ga sug-ge₄ im-mi-in-gu₇
+c.5.2.4,A man and his god,,129,nam-tar-ra su-a-na mu-un-ŋal₂-la bu₃ mu-na-an-ak
+c.5.2.4,A man and his god,,130,ŋuruš-a du-lum-ma-ni hul₂-la mu-ni-in-kur₉
+c.5.2.4,A man and his god,,131,{d}udug sig₅ ka-e en-nu-uŋ₃ ak maškim mu-un-da-an-tab
+c.5.2.4,A man and his god,,132,{d}lamma-{d}lamma igi sag₉ mu-na-an-šum₂
+c.5.2.4,A man and his god,,133,ŋuruš-e nam-mah diŋir-ra-na zid-de₃-eš-še₃ im-me
+c.5.2.4,A man and his god,,134,mi-ni-ib-e₃-eš bi₂-zu-zu
+c.5.2.4,A man and his god,,135,X-te-en-te-en
+c.5.2.4,A man and his god,,136,za-da nir ha-ba-an-ŋal₂ zi-bi ga-i-i
+c.5.2.4,A man and his god,,137,za-ra {d}utu e₃-gin₇ igi-ŋu₁₀ he₂-mu-e-ši-ni-ŋal₂
+c.5.2.4,A man and his god,,138,{d}nin-mah ŋiškim til₃-la-gin₇ a₂ nun he₂-me-te-ŋal₂
+c.5.2.4,A man and his god,,139,diŋir-ŋu₁₀ igi zid nam-til₃-la-zu su₃-ud-še₃ he₂-me-du₈
+c.5.2.4,A man and his god,,140,nam-kalag kug-kug-ga-zu dug₃-ge-eš₂ ga-an-pad₃-pad₃
+c.5.2.4,A man and his god,,141,šag₄ a zig₃-zu ki-bi ha-ma-gi₄-gi₄
+c.5.2.4,A man and his god,,142,nam-tag-ŋu₁₀ he₂-mu-e-du₈
+c.5.2.4,A man and his god,,143,šag₄-zu ha-ma-huŋ-e
+c.5.2.4,A man and his god,,144,ŋiš-gi₄-ŋal₂
+c.5.2.4,A man and his god,,145,er₂-šag₄-ne-ša₄
+c.5.2.4,A man and his god,,146,diŋir lu₂-ulu₃-kam

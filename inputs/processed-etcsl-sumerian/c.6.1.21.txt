@@ -1,0 +1,63 @@
+id_text,text_name,version,l_no,text
+c.6.1.21,Proverbs: collection 21,,A1,
+c.6.1.21,Proverbs: collection 21,,A2,
+c.6.1.21,Proverbs: collection 21,,A3,
+c.6.1.21,Proverbs: collection 21,,A6,X-ta-e₃
+c.6.1.21,Proverbs: collection 21,,A7,um-ma-tag
+c.6.1.21,Proverbs: collection 21,,A8,
+c.6.1.21,Proverbs: collection 21,,A9,
+c.6.1.21,Proverbs: collection 21,,A10,
+c.6.1.21,Proverbs: collection 21,,B1,
+c.6.1.21,Proverbs: collection 21,,B2,
+c.6.1.21,Proverbs: collection 21,,B3,
+c.6.1.21,Proverbs: collection 21,,B4,nu-mu-da-zu
+c.6.1.21,Proverbs: collection 21,,B5,lugal-e en₃ nu-tar-ra-ni
+c.6.1.21,Proverbs: collection 21,,B6,šah₂ niga ab-šum-u₃-de₃
+c.6.1.21,Proverbs: collection 21,,B7,niŋ₂ i₃-gu₇-a-ŋu₁₀ ga-ab-sug₆-e-še
+c.6.1.21,Proverbs: collection 21,,B8,{šah₂}ze₂-eh tur-e šu al-gu₄-ud-X
+c.6.1.21,Proverbs: collection 21,,C1,e₂-gi₄-a gal₄-la lu₂-kam
+c.6.1.21,Proverbs: collection 21,,C2,mussa-tur
+c.6.1.21,Proverbs: collection 21,,C3,ŋe₂₆ e₂-e
+c.6.1.21,Proverbs: collection 21,,C4,
+c.6.1.21,Proverbs: collection 21,,C5,dur₂ šah₂ he₂-gu₇-e
+c.6.1.21,Proverbs: collection 21,,C6,šah₂
+c.6.1.21,Proverbs: collection 21,,C7,kaš ga-ze₂-ze₂-eb ušur nu-kal-e
+c.6.1.21,Proverbs: collection 21,,Cx,
+c.6.1.21,Proverbs: collection 21,,C21,gi₄-in ud šu₂-šu₂-ru ŋi₆ MAŠ-a-gin₇ an-na-di-di-Xbr
+c.6.1.21,Proverbs: collection 21,,C22,gi₄-in-na an-ba pa nu-um-e₃ ga-ša-an-a-ni
+c.6.1.21,Proverbs: collection 21,,C23,ud šu₂-šu₂-ru šag₄ hul₂-la e₂-gi₄-a-kam
+c.6.1.21,Proverbs: collection 21,,C24,nu-mu-un-na-kal geme₂
+c.6.1.21,Proverbs: collection 21,,C25,gi₄-in-gi₄-in-e balaŋ ba-ra-e₃
+c.6.1.21,Proverbs: collection 21,,C26,ga-ša-an-an-na e-duru₂-bi
+c.6.1.21,Proverbs: collection 21,,C27,geme₂ e₂-gal-la za-ra dug₄-dug₄
+c.6.1.21,Proverbs: collection 21,,C28,arad e₂-gal-la ga-til₃-bi gu₇-gu₇
+c.6.1.21,Proverbs: collection 21,,C29,gal₄-la-ŋu₁₀ na-aŋ₂-gi₄-in-e ma-an-ga
+c.6.1.21,Proverbs: collection 21,,C30,gal₄-la-ŋu₁₀ lu₂ ba-an-tuku
+c.6.1.21,Proverbs: collection 21,,C31,um{mušen} al-sah₆ gu-du-bi am₃-kar
+c.6.1.21,Proverbs: collection 21,,C32,he₂-kud na-ab-dug₄ ŋa₂-ra in-na-LAGAB-u₃
+c.6.1.21,Proverbs: collection 21,,C33,egir₂ gi₄-in-na-ka
+c.6.1.21,Proverbs: collection 21,,Cx,
+c.6.1.21,Proverbs: collection 21,,D1,sipad
+c.6.1.21,Proverbs: collection 21,,D2,gala-e {ŋeš}ma₂-gur še gur
+c.6.1.21,Proverbs: collection 21,,D3,gala-e a-šag₄ lu₂-u₃-ka še zuh-zuh-de₃ i₃-ŋen
+c.6.1.21,Proverbs: collection 21,,D4,lugal a-šag₄-ga-ke₄ ba-an-dab₅
+c.6.1.21,Proverbs: collection 21,,D5,saŋ an-sag₉-ga-ŋu₁₀ bi₂-suh bi₂-bir-bir
+c.6.1.21,Proverbs: collection 21,,D6,si ga-ba-ab-sa₂ umuš-ŋu₁₀
+c.6.1.21,Proverbs: collection 21,,D7,ga-ba-ŋen-e-še
+c.6.1.21,Proverbs: collection 21,,D8,a-šag₄ u₃-mu-un gu₅-li gala-ke₄
+c.6.1.21,Proverbs: collection 21,,D9,na-an-kiŋ₂-kiŋ₂ bi₂-ib-X-a
+c.6.1.21,Proverbs: collection 21,,E1,na-ab-be₂-a
+c.6.1.21,Proverbs: collection 21,,E2,mu-un-na-MU
+c.6.1.21,Proverbs: collection 21,,E3,
+c.6.1.21,Proverbs: collection 21,,E4,
+c.6.1.21,Proverbs: collection 21,,E5,mu-na-ni-gi-gi
+c.6.1.21,Proverbs: collection 21,,E6,nu-nu₂
+c.6.1.21,Proverbs: collection 21,,E7,ŋiri₃
+c.6.1.21,Proverbs: collection 21,,E8,še
+c.6.1.21,Proverbs: collection 21,,E9,
+c.6.1.21,Proverbs: collection 21,,E10,
+c.6.1.21,Proverbs: collection 21,,E11,
+c.6.1.21,Proverbs: collection 21,,F1,
+c.6.1.21,Proverbs: collection 21,,F2,
+c.6.1.21,Proverbs: collection 21,,F3,
+c.6.1.21,Proverbs: collection 21,,F4,

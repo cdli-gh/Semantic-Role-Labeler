@@ -1,0 +1,27 @@
+id_text,text_name,version,l_no,text
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,A1,lugal palil an-na šag₄ kug-ge pad₃-da
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,A2,sa-am-su-i-lu-na lugal palil an-na šag₄ kug-ge pad₃-da
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,A3,ga-ar-za mah-ha
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,A4,ša hu-la saŋ-be₂-eš ha-pa-DU saŋ us₂-sa-a
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,A5,{ŋeš}gu-za kug-sig₁₇ ŋar-ra nam-lugal-la saŋ il₅-la
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,A6,šag₄-bi a₂ nam-ur-saŋ-ŋa₂-ki-im mah-bi tuš-ša-a
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,A7,sa-am-su-i-lu-na lugal kalag-ga an-ne₂ di-kud mah an-ne₂ nam gal mu-re-tar
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,A8,aga gen₆-na ti-il₅-la mu-ra-ni-in-zal
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,A9,lu₂ {d}en-lil₂ nam-sipad uŋ₃ da-ga-an-ni-ši mu-un-na-šum₂-ma-dah
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,A10,sipad kiŋ₂ nibru{ki} saŋ us₂ e₂-kur-ra
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,A11,engar gen₆-na e₂ {d}a-sa-lim-a-ka-am
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,A12,niŋ₂-nam nu-si-li-ge₁₈ e₂-saŋ-il₅-la-ak-ki-im
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,A13,{d}en-lil₂ me nam-sipad-zu kalam-ma ak-ka kur ŋiri₃-zu-uš mu-ŋar
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,A14,še-ga {d}utu-ke₄ kiŋ₂ {d}inana-ke₄
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,A15,sa-am-su-i-lu-na lugal nam nu-ug-ru {d}en-lil₂ lugal-ŋa₂-ta
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,A16,inim dug₄-ga {d}en-lil₂ {d}en-ki-ka₃-ta u₂ {d}a-sa-lim {d}za-ba-ba {d}lugal-gu₂-du₃-a lugal e₂-a mu-du₃-a
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,A17,kur ki-bal
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,B1,{d}iškur sa kur-kur-ra
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,B2,kur-kur-re me-te-eš he-i kalag-ga si-ig pa₃ mu-na-e₃
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,B3,sa-am-su-i-lu-na mu-u₂-a sa₃ nir-ŋal₂ kalam-ma-an-ni
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,B4,gal-zu ka-aš pa-ar kalam-me si bi-sa
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,B5,sa-am-su-i-lu-na gu₂ {id₂}idigna gu₂ {id₂}bur-na gu₂ a-a-ba-aš-ši gu da-a-bi-ša₂ lu₂ mu-na-a-IGI
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,B6,e₂-kur-re e₂ {d}en-lil₂-la₂-ta pa-la-ak šag₄ hu-la-ka-ni mu-un-ni-tuš
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,B7,{d}en-lil₂-la₂ za-am-me-en-zu dug₃-ga
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,B8,{d}en-lil₂ lugal-ŋu₁₀ nam zal-ga mu nam-til₃-la šu-mu
+c.2.8.3.6,A hymn to Enlil for Samsu-iluna (Samsu-iluna F),,B9,zi u₂ su-ud-ŋa₂-al niŋ₂-ba-aš-ši-i ba-am-ma

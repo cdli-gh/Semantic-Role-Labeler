@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,1,{d}lugal-šubur{ki} men edin-na nam-lugal-la saŋ-ŋa₂ hu-mu-ra-an-ŋal₂
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,2,{d}en-ki-ke₄ en nam-til₃-la nam-til₃-la
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,3,e₂-u₆-nir e₂ ŋiš-hur an ki-a me šar₂-ra u₅-a
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,4,suh₁₀ nam-en-na-zu ni₂ me-lem₄ ha-ra-dul-e
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,5,me nam-lugal-la pa e₃ ha-ra-ab-ak-e
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,6,ŋiš-hur nam-en-na gi₁₆-sa-še₃ hu-mu-ra-ab-la₂
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,7,mu₇-mu₇ nam-til₃-la-kam mi₂ zid hu-mu-ri-in-dug₄ nam su₃-ud-ŋal₂ ha-ra-ab-tah-e
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,8,mu pad₃-da-ni-gin₇ mu pad₃-da-zu su {d}en-ki-ke₄ ha-ba-ni-dug₃
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,9,ŋeštug₃ ŋizzal šu zid ha-ra-an-ŋa₂-ŋa₂
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,10,niŋ₂ du-ri₂-še₃ nu-ub-kur₂-ru-gin₇ mu nam-lugal-zu
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,11,a-a {d}en-ki mu nam-til₃-la-zu ha-ba-ni-sud-sud
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,12,kur-kur kilib-ba-bi nam-en-bi ha-ra-ab-rig₇-ge
+c.2.8.2.2,A prayer to Enki for Hammu-rābi (Hammu-rābi B),,13,{d}ha-am-mu-ra-bi lugal-ŋu₁₀

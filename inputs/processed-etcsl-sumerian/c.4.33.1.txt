@@ -1,0 +1,21 @@
+id_text,text_name,version,l_no,text
+c.4.33.1,A hymn to Sadarnuna (Sadarnuna A),,A1,munus zid me gal-la dur₂ ŋar-ra
+c.4.33.1,A hymn to Sadarnuna (Sadarnuna A),,A2,nin nam-nin-a dib-ba-am₃
+c.4.33.1,A hymn to Sadarnuna (Sadarnuna A),,A3,{d}sa-dar₃-nun-na munus zid ŋalga sud zid ki aŋ₂ an-na-kam
+c.4.33.1,A hymn to Sadarnuna (Sadarnuna A),,A4,nir gal kar mah {d}en-ul {d}nin-ul-e eš₃-mah-a tum₂-ma
+c.4.33.1,A hymn to Sadarnuna (Sadarnuna A),,A5,munus zid-de₃ kisal {d}en-lil₂-la₂-ka barag mah-a-na mu-un-ri
+c.4.33.1,A hymn to Sadarnuna (Sadarnuna A),,A6,{e₂}šutum kug eš₃-mah ki gub-bu-na ni₂ huš gur₃-ru-am₃
+c.4.33.1,A hymn to Sadarnuna (Sadarnuna A),,A7,u₃-tud-da ki aŋ₂ an lugal-la
+c.4.33.1,A hymn to Sadarnuna (Sadarnuna A),,A8,pad₃-da-nu-nus-e he₂-du₇-na eš₃-mah
+c.4.33.1,A hymn to Sadarnuna (Sadarnuna A),,A9,e₂-me-lem₄-huš ni₂ gal gur₃-ru-na su zig₃
+c.4.33.1,A hymn to Sadarnuna (Sadarnuna A),,A10,diŋir gal-gal an ki-ke₄-ne šu-kin
+c.4.33.1,A hymn to Sadarnuna (Sadarnuna A),,A11,nitalam-a-ni kingal {d}nuska
+c.4.33.1,A hymn to Sadarnuna (Sadarnuna A),,A12,u₁₈-ru šu zid
+c.4.33.1,A hymn to Sadarnuna (Sadarnuna A),,A13,iti₆ kalam
+c.4.33.1,A hymn to Sadarnuna (Sadarnuna A),,A14,a-ŋi₆ du₇-du₇
+c.4.33.1,A hymn to Sadarnuna (Sadarnuna A),,A15,
+c.4.33.1,A hymn to Sadarnuna (Sadarnuna A),,B1,nam
+c.4.33.1,A hymn to Sadarnuna (Sadarnuna A),,B2,{d}en-lil₂
+c.4.33.1,A hymn to Sadarnuna (Sadarnuna A),,B3,
+c.4.33.1,A hymn to Sadarnuna (Sadarnuna A),,B4,šag₄ {d}nin-lil₂-la₂
+c.4.33.1,A hymn to Sadarnuna (Sadarnuna A),,B5,{d}sa-dar₃-nun-na za₃-mi₂-zu dug₃-ga-am₃

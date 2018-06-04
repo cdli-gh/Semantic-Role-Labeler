@@ -1,0 +1,37 @@
+id_text,text_name,version,l_no,text
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,1,lugal-ŋu₁₀-ra u₃-na-a-dug₄
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,2,puzur₄-{d}šul-gi šagina bad₃ igi-hur-saŋ-ŋa₂
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,3,arad-zu na-ab-be₂-a
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,4,lugal-ŋu₁₀ kug-sig₁₇ kug-babbar diŋir-re-e-ne in-ne-dim₂-dim₂-ma
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,5,zi-ni-še₃-am₃ in-nu-u₃
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,6,lugal-ŋu₁₀ zi ugnim u₃ kalam-ma-ni-še₃
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,7,bad₃ gal igi-hur-saŋ-ŋa₂ mu lu₂-kur₂ hul-ŋal₂-še₃
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,8,uŋ₃ kalam-ma-ni-še₃ mu-un-du₃
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,9,i₃-ne-eš ugnim lu₂-kur₂-ra im-ma-an-zig₃
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,10,₁-am₃ lu₂ igi-ŋa₂ sah₆-bi i-im-tum₂-ma dab₅-dab₅-be₂
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,11,inim ma-an-dug₄-ma igi-še₃ ib-DU
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,12,ŋiškim lu₂-kur₂-ra ŋe₂₆-e i₃-zu
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,13,lu₂-kur₂ me₃-še₃ usu-ni im-ma-til usu-ŋu₁₀ i₃-tur
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,14,bad₃ nu-mu-un-da-kal-la-ge en-nu nu-mu-da-ak-e
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,15,nam {m}šu-{d}nu-muš-da ensi₂ ŊIR₂-lum-tur-ra{ki}
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,16,₅ nindan he₂-ni-dar-dar
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,17,nam {m}lugal-me-lem₄ šabra {id₂}šeg₅-šeg₅
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,18,₄₀ nindan ugu-ba nu-ub-ŋar
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,19,nam {m}KA-kug-ga-ni ensi₂ ma-da MURUB₄{ki}
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,20,₄₅ nindan gaba dab₅-ba-bi ba-gul-gul
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,21,nam {m}ta-ki-il-i₃-li₂-šu gu₂-gal {id₂}ab₂-gal u₃ {id₂}me-{d}en-lil₂-la₂
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,22,₅₀ nindan saŋ ba-sud₄ murub₄-ba im-da-an-ri
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,23,ud lu₂-kur₂ im-durunₓ-na-a ugu-bi-še₃ nu-ub-ŋar
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,24,lu₂-kur₂ i₃-durun-na-a usu-ŋu₁₀ im-til
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,24A,X-kal-la-ge X-da-ak-e
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,25,ugnim-bi šag₄ hur-saŋ-ŋa₂-ka i₃-tuš
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,26,tukum-bi lugal-ŋa₂ an-na-kam
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,27,₇₂₀₀ erin₂ lu₂ kiŋ₂ ak-ne {ŋeš}dusu-a ma-ab-il₂-e ul₄-la-bi hu-mu-ši-in-gi₄-gi₄
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,28,₇₀ aga-us₂ šimaški ib₂-SU-a
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,29,ul₄-la-bi hu-mu-ši-in-gi₄-gi₄
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,30,dim₂-ma-bi in-dab₅ ki-tuš-bi ga-ba-ni-kur₂
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,31,he₂-zu ŋi₆-ta ud ul-le₂-a-aš nam-tag-ni dugud
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,32,arad {d}šul-gi lugal-ŋa₂ gen₆-na-me-en
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,32A,niŋ₂ gu₂ šub-bu-bi in-nu-u₃
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,33,nam-ba-da-ug₅-en
+c.3.1.07,Letter from Puzur-Šulgi to Šulgi about the advance of the enemy,,34,lugal-ŋu₁₀ he₂-en-zu a-ma-ru-kam

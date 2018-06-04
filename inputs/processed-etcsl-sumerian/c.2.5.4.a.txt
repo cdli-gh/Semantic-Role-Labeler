@@ -1,0 +1,56 @@
+id_text,text_name,version,l_no,text
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,A1,
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,A2,sahar tuš-a
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,A3,ga-ša-an-na-ka
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,A4,ša-mu-un-TAR
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,A5,tug₂ na-aŋ₂-egir₃-ra-ka-na
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,A6,urin-na ša-mu-un-šar₂-ra
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,A7,ša-mu-ni-ib-be₂ gam-ma-ni na-DU
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,A8,mu-un-dag-dag-ge siki-pa na-DU
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,A9,in i₃-ak e₂-ŋu₁₀ na-aŋ₂ ba-an-kud
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,A10,in-na-še-bi-da
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,A11,uru₂-ŋu₁₀ na-aŋ₂ ba-an-kud
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,A12,sug-ge₄ bi₂-in-gu₇
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,A13,tug₂-mu-ŋu₁₀ mu-un-pe-el
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,A14,im-ma-da-an-TAR
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,A15,
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,B1,ŋarza a₂ šu
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,B2,ur₅-še₃ ur₅ ša₃-ab-ŋu₁₀
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,B3,ŋi₆ en-nu-uŋ₃-ŋa₂-gin₇ šurum₃-gin₇
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,B4,muš₃-me-ŋu₁₀ i-bi₂-gin₇
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,B5,su-ŋu₁₀ in bar₇-a-gin₇
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,B6,mu-un-ak a-a
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,B7,ki-ru-gu₂
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,B8,ga-ša-an
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,B9,ŋiš-gi₄-ŋal₂-bi-im
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,B11,
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,B12,šu du₃-a
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,B13,še₂₉-eš₂ dug₄-ga
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,B14,dumu {d}en-lil₂ dumu
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,B15,bar im-ak uŋ₃-e ki-en-gi
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,B16,{d}en-lil₂-me-en erin₂
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,B17,i₃-ne-eš₂-ta ud
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,B18,
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,C1,nam-lu₂-ulu₃ us₂ zid im-mi-in-dab₅
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,C2,ki-en-gi-da lu₂-erim₂ im-ta-an-da-ra
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,C3,eme niŋ₂ ha-lam-ma di im-da-an-kur₂
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,C4,niŋ₂-si-sa₂ urud-gin₇ pa bi₂-ib-e₃
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,C5,a-a-ra ni₂ teŋ₃-ŋe₂₆-e ama-ra ni₂ su₄-ne₂
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,C6,dumu ab-ba-ra inim-ma-ne₂-eš dur₂-u₃
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,C7,arhuš šag₄-tur₃ šag₄-ne-ša₄ gur-ru
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,C8,ad-da a-a-na an-gu₇ ama a-a-na an-naŋ
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,C9,ki-en-gi ki-uri-a mi-ni-in-ŋar
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,C10,{d}iš-me-{d}da-gan dumu {d}en-lil₂-la₂
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,C11,en unug{ki}-ga saŋ keše₂-ba mi-ni-in-kur₉
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,C12,bi₂-in-ak {d}inana nin an ki-ke₄
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,C13,an gal-e he₂-am₃-bi bi₂-in-dug₄ {d}en-lil₂-le
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,C14,ki-ru-gu₂
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,D1,
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,D2,ha-ra-ni-ib-ŋal₂
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,D3,ha-ra-ab-be₂
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,D4,si ha-ra-sa₂
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,D5,ha-mu-ra-an-KU
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,D6,ha-ra-ab-e₃-a
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,D7,X-dib
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,D8,
+c.2.5.4.a,A hymn to Inana for Išme-Dagan,,D9,

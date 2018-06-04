@@ -1,0 +1,30 @@
+id_text,text_name,version,l_no,text
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,1,lugal-me u₃-na-dug₄
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,2,ensi₂ saŋŋa-ke₄ na-ab-be₂-a
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,3,a-šag₄ da-ab-ta{ki} šar₂-šar₂-šar₂{iku}-bi
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,4,eš₂-gar₃ {d}en-lil₂ {d}nin-lil₂ u₃ {d}nin-urta
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,5,šag₄-bi-ta bur₃-bur₃-bur₃{iku}-am₃ BUR₃gunû-BUR₃gunû-BUR₃gunû{iku}-am₃ šukur₂ lu₂ niŋ₂-dab₅-ba-ke₄-ne
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,6,bur₃{iku}-am₃ sa-dur₂ a-šag₄-ga-bi
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,7,{m}iq-bi-sum₂ u₃ a-bi-qa₂-ti-e inim mu-da-an-ŋar-re-eš
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,8,tukum-bi lugal-me an-na-kam
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,9,ra-gaba hu-mu-ši-in-gi₄-gi₄-ma
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,10,kiŋ₂ a-ak bulug a-šag₄ inim dug₄ hu-mu-ni-ib-X
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,11,₂ iku bur₃ eše₃/eše₃{iku} gaba a-šag₄-ga-bi
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,12,{ŋeš}al-ta ba-dub₂ kiŋ₂-še₃ ba-ak
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,13,erin₂ tah-hu-um engar šag₄-gud lu₂ {ŋeš}apin-na nu-me-a
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,14,gud dili-dili-ta a-šag₄ ŋiš bi₂-ur₃
+c.3.3.05,Letter from a governor and temple administrator to a king,Nibru,15,al i₃-ak-en-de₃-en lugal-me he₂-en-zu
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,1,a-šag₄ me-am₃{ki} šar₂-šar₂-šar₂{iku}-am₃
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,2,eš₂-gar₃ {d}en-lil₂ u₃ {d}nin-urta
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,3,šag₄-bi-ta BUR₃gunû-BUR₃gunû-BUR₃gunû{iku}-am₃
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,4,šukur₂ lu₂ niŋ₂-PAD-e-ne
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,5,sahar ₂ iku-ba me-a
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,6,al-ta ba-dub₂ erin₂-ta he₂-X-a
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,7,kiŋ₂-še₃ sar a-šag₄-ga lu₂ apin-bi nu-bi
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,8,iq-bi-sum₂ u₃ a-bi-qa₂-ti
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,9,inim mu-e-de-ŋar-re-eš
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,10,tukum-bi lugal-ŋu₁₀
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,11,an-na-kam
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,12,ra-gaba hu-mu-un-gi₄-gi₄
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,13,kiŋ₂ ak bulug a-šag₄-ga-bi
+c.3.3.05,Letter from a governor and temple administrator to a king,Urim,14,inim dug₄-ga₁₄ mu-ni-ib-X-ne

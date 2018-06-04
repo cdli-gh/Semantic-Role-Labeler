@@ -1,0 +1,47 @@
+id_text,text_name,version,l_no,text
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,1,{d}utu lugal-ŋu₁₀-ur₂ di-kud mah an ki
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,2,saŋ en₃ tar kalam-ma ka-aš mu-un-bar-bar-re
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,3,diŋir zid lu₂ til₃-le-de₃ ki aŋ₂ a-ra-zu ŋiš tuku
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,4,arhuš sud šag₄ gur-ru mu-un-X-zu-X
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,5,niŋ₂-si-sa₂ ki aŋ₂ niŋ₂-zid bar tam-me dug₄
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,6,sun₄ mu₂ dumu {d}nin-gal sun₄ {na₄}za-gin₃
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,7,taka₄ la₂ {ŋeš}si-ŋar an ki ku₁₀-ku₁₀ zalag ŋa₂-ŋa₂
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,8,en saŋ-kal dili-a-ni pa e₃-a nam-mah-a-ni zag nu-sa₂
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,9,ur-saŋ dumu {d}nin-gal-e tud-da me saŋ keše₂ ur₄-ur₄
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,10,diŋir zid nun nam tar-tar-re a-a saŋ gig₂-ga lugal-ŋu₁₀-ur₂ u₂-na-de₃-tah
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,11,{m}{d}suen-i-din-nam lugal larsam{ki}-ma arad-zu na-ab-be₂-a
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,12,iri-zu larsam{ki}-ma šag₄-ge pad₃-da-zu niŋ₂-gig-ga im-ma-an-ak
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,13,sila daŋal ešemen ud zal-zal-la sig₉-ga im-ma-an-sig₉
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,14,erin₂ sag₉-ga-zu gu₂ ŋar-ŋar-ra gi gi-sig-ga-gin₇ si-il-si-le-de₃ ba-an-til-le-eš
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,15,ŋuruš-zu še ud a₂-ba-gin₇ ab-gur₁₀ ba-an-šab-eš gurun gibil-gin₇ mu-X-dub₂-uš
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,16,uŋ₃-ŋa₂ alan im-gin₇ im-ma-an-gul-lu-uš ni₂-bi-a ba-an-til-X
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,17,di₄-di₄-la₂ ur₂ ama-be₂-ne-ta ud hul ba-an-da-kar-Xbr
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,18,uŋ₃-ŋa₂ ŋeštug muš₃-bi ba-an-kur₂
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,19,erin₂ ka₃ an-ša-ša šu bar-ra-am₃ kalam zid₂-gin₇ e₃
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,20,šul {d}utu iri-za larsam{ki}-ma lu₂-kur₂-gin₇ bar-ta ba-da-gub
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,21,kur elam{ki}-ma X{mušen}-gin₇ mah-bi lu₂ uš₂-a nu-ŋal₂-la
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,22,su-bir₄{ki} muru₉ dugud-da diŋir-re-e-ne ni₂ teŋ₃-ŋe₂₆ nu-zu-a
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,23,ma-da-bi nu-ub-ta-be₄ ud-bi nu-ŋal₂-la
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,24,šimaški-e ki diŋir-re-e-ne-ke₄ nu-gig lukur nu-mu-da-il₂-e
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,25,erin₂-a-ni u₂-gin₇ lu-lu-a numun-a-ni daŋal-la
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,26,za-lam-ŋar til₃-la ki diŋir-re-e-ne-ke₄ nu-mu-un-zu-a
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,27,u₂-ma-am-gin₇-nam u₅-a zid₂-eša sizkur₂ nu-mu-un-zu-a
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,28,nam-tar hul-ŋal₂ a₂-sag₃ niŋ₂-gig-ga nu-mu-un-na-tum₃
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,29,lu₂ mu diŋir sal-la-bi niŋ₂-gig-ga i₃-gu₇-e ugnim-bi silim-ma
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,30,mu ₇-kam-ma-ta iri-ŋa₂ me₃ šen-šen la-ba-an-tuku uš₂ da-bi nu-ŋa₂-ŋa₂
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,31,edin-na ur-mah-e lu₂ gu₇-e nu-mu-ni-ib-la₂-X
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,32,diŋir inim sag₉-sag₉-ge-de₃ nu-zu-a ŋe₂₆-e im-ma-an-ak-Xbr
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,33,diŋir gal-gal-e-ne sizkur₂ ud šu₂-uš-e al-gub-be₂-en inim sag₉-sag₉-ge-ŋu₁₀ mah-am₃
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,34,šul {d}utu nam-bi-še₃ iri-zu larsam{ki}-ma igi zid bar-mu-un-ši-ib
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,35,a iri-zu dug₄-ga-ba-ab
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,36,a eš₃ dug₄-ga-ab
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,37,arhuš sud larsam{ki}-ma šu te-ba-ab
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,38,niŋ₂-gig-ga ak-bi en₃ tar-bi-ma
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,39,larsam{ki} e₃-ni-ib
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,40,niŋ₂-gig-ga šag₄-bi zig₃-ab-ta
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,41,huš-a šag₄ larsam{ki}-ma-ka šu
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,42,taka₄-a šu nam-uš₂-ta ba-e-šub-bu-de₃
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,43,X-til-le-eš numun-bi he₂-mah
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,44,a₂ taka₄-a ka tar-zu he₂-si-il-le
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,45,u₃ ŋe₂₆-e ni₂ teŋ₃-ŋe₂₆-ŋu₁₀-uš nam-til₃ šum₂-mu-na-ab
+c.3.2.05,Letter from Sîn-iddinam to the god Utu,,46,zi su₃-ud-ŋal₂ niŋ₂-ba-e-eš₂ ba-mu-na-ab

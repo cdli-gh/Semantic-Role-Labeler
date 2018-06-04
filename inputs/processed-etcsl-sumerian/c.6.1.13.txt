@@ -1,0 +1,105 @@
+id_text,text_name,version,l_no,text
+c.6.1.13,Proverbs: collection 13,,1,an ugu nam-lul-la nam
+c.6.1.13,Proverbs: collection 13,,2,nam-lul-la ba-gu₇-gu₇
+c.6.1.13,Proverbs: collection 13,,3,lu₂ la-ga an-ši-ed₂-de₃ lu₂-lul-lul-la
+c.6.1.13,Proverbs: collection 13,,4,lu₂-zuh-a lu₂ lu-ub₂{sar} ba-ab-dab₅-be₂-eš
+c.6.1.13,Proverbs: collection 13,,5,a-na-aš-am₃ lul
+c.6.1.13,Proverbs: collection 13,,6,lu₂-zuh-a ni₂ igi piriŋ-ŋa₂-ka
+c.6.1.13,Proverbs: collection 13,,7,lu₂ hub₂ sar-re ni₂ igi piriŋ-tur-ra-ka
+c.6.1.13,Proverbs: collection 13,,8,lu₂-zuh-a en-te-na-ka zag e₂-me-eš-a-ka mu-ni-in-bur₂
+c.6.1.13,Proverbs: collection 13,,9,lu₂-zuh-a an-bar₇-a igi mu-ni-in-du₈-uš
+c.6.1.13,Proverbs: collection 13,,10,ba-an-NE igi nu-mu-ni-in-du₈-uš ba-an-tum₃-e-še
+c.6.1.13,Proverbs: collection 13,,11,lu₂-zuh-a buru₃-buru₃-da i₃-in-sal-e
+c.6.1.13,Proverbs: collection 13,,12,lu₂-zuh-zuh-a ab lugal e₂-e-ke₄ he₂-eb-kal-la-ge-e-še
+c.6.1.13,Proverbs: collection 13,,13,lu₂-zuh e₂ buru₃-buru₃-da mu-ni-in-dab₅-be₂-eš
+c.6.1.13,Proverbs: collection 13,,14,lu₂ ur₃-ra-ka ga-mu-ni-in-us₂-e-še
+c.6.1.13,Proverbs: collection 13,,15,lu₂ huŋ-ŋa₂ {ŋeš}zi-gan šu an-še₃ zig₃-ga
+c.6.1.13,Proverbs: collection 13,,16,ŋiš al-de₅-de₅-ge an-na-ab-be₂
+c.6.1.13,Proverbs: collection 13,,17,ma₂-saŋ-ŋa₂-ta e-ra-ab-šum₂-mu
+c.6.1.13,Proverbs: collection 13,,18,ma₂-eŋer-ra-ta ga-e-ra-ab-šum₂-mu
+c.6.1.13,Proverbs: collection 13,,19,a-na-am₃ e-zu-e-še
+c.6.1.13,Proverbs: collection 13,,20,a₂-il₂ kalag-ga lugal še-ke₄ bi₂-ib-ra-ra-e-še
+c.6.1.13,Proverbs: collection 13,,21,galam-e azag-še₃ ama-ni nu-un-gu₇
+c.6.1.13,Proverbs: collection 13,,22,galam-e ušur kaš-de₂ ak-ak
+c.6.1.13,Proverbs: collection 13,,23,galam-e dab₅-ba-an-ze₂-en uŋ₃-bi-še₃ sar-re-en-ze₂-en
+c.6.1.13,Proverbs: collection 13,,24,galam-e gu₂-un-bi mu-na-ni-dugud
+c.6.1.13,Proverbs: collection 13,,25,dug₃ ₂-kam-ma-ka im-da-sig-ge
+c.6.1.13,Proverbs: collection 13,,26,galam-e siki tab-ba-ni ba-ni-in-keše₂
+c.6.1.13,Proverbs: collection 13,,27,dug i₃ li₂-ka-ni id₂-gin₇
+c.6.1.13,Proverbs: collection 13,,28,galam-e niŋ₂-nam kug nam-bi₂-la₂-e-še
+c.6.1.13,Proverbs: collection 13,,29,galam-e šu gig
+c.6.1.13,Proverbs: collection 13,,30,na₄ galam-e MAŠ-MAŠ giŋ₄
+c.6.1.13,Proverbs: collection 13,,31,ugu galam-e kalam-ma mu-ni-in-DU
+c.6.1.13,Proverbs: collection 13,,32,u₃ e-ne galam-e ugu-na bi₂-ib-dug₄
+c.6.1.13,Proverbs: collection 13,,33,kud-ku₅-ra₂ ama-ni na-ab-be₂-a
+c.6.1.13,Proverbs: collection 13,,34,ki gu-za lu₂ i₃-nu₂ ŋiri₃-paₓ-ra₂-ni na-ab-sag₉
+c.6.1.13,Proverbs: collection 13,,35,ama-ni na-ab-be₂-a
+c.6.1.13,Proverbs: collection 13,,36,a-na-am₃ ni₂ te-ni-gin₇
+c.6.1.13,Proverbs: collection 13,,37,hub₂ sar-re-zu igi u₃-bi₂-in-du₈-un-de₃-en-e-še
+c.6.1.13,Proverbs: collection 13,,38,kud-ku₅-ra₂ lu₂-kaš₄-e igi u₃-bi₂-in-du₈
+c.6.1.13,Proverbs: collection 13,,39,erin₂ u₂-gu de₂-a me-še₃-am₃ i₃-re₇-eš-am₃-e-še
+c.6.1.13,Proverbs: collection 13,,40,kud-ku₅-ra₂ na-ab-be₂-a ŋiri₃-ŋu₁₀ ŋen-na-ab-ze₂-en-e-še
+c.6.1.13,Proverbs: collection 13,,41,kud-ku₅-ra₂ a₂-ki-te-a kaš₄ di bi₂-e₃ lu₂ na-ab-be₂-a
+c.6.1.13,Proverbs: collection 13,,42,en-na nam-kud-ku₅-ra₂-zu nu-ub-da-ak-e-še
+c.6.1.13,Proverbs: collection 13,,43,dug₃ {kuš}e-sir₂-bi u₂-gu i-ni-in-de₂
+c.6.1.13,Proverbs: collection 13,,44,lu₂ šu ti-a-bi me-še₃-am₃ ab-tum₂-mu ŋe₂₆-še₃
+c.6.1.13,Proverbs: collection 13,,45,SIG₇-a ₁/₃ ma-na
+c.6.1.13,Proverbs: collection 13,,46,lu₂ šu gid₂-i-ni MAŠ ma-na
+c.6.1.13,Proverbs: collection 13,,47,SIG₇-a uru₂ bar-ra-še₃ er₂ al-ŋa₂-ŋa₂-ne
+c.6.1.13,Proverbs: collection 13,,48,lu₂ u₃-bi₂-in-us₂ kaskal MAŠ-a-ka ud-ne-ne
+c.6.1.13,Proverbs: collection 13,,49,lu₂ šu gid₂-i-ni an-na-ab-be₂ ki mu-e-re-ŋen-na
+c.6.1.13,Proverbs: collection 13,,50,u₃-um-ŋen šu ša-an-ša-ša-da šu
+c.6.1.13,Proverbs: collection 13,,51,mušen mu-u₈-gur
+c.6.1.13,Proverbs: collection 13,,52,šu-ni bid₃-da ba-ni-gid₂ nam-tag-ga
+c.6.1.13,Proverbs: collection 13,,53,
+c.6.1.13,Proverbs: collection 13,,54,lib₄-lib₄-ba-ŋu₁₀-da mu-da-X
+c.6.1.13,Proverbs: collection 13,,55,ma-da a sed₄
+c.6.1.13,Proverbs: collection 13,,56,
+c.6.1.13,Proverbs: collection 13,,57,na₄ mu-e-ne-mur₁₀
+c.6.1.13,Proverbs: collection 13,,58,bur₁₂-ra-gin₇ a uru₂-ke₄ gu₃ al-de₂-de₂-e
+c.6.1.13,Proverbs: collection 13,,59,ni₂ nu-mu-ni-te a-na-am₃ iri bar-ra a₂ dur₂-zu-e-še
+c.6.1.13,Proverbs: collection 13,,60,iri{ki} ŋa₂-ŋa₂ u₃ ŋe₂₆-e he₂-em lu₂ na-me he₂-em-e-še
+c.6.1.13,Proverbs: collection 13,,61,bar-me-en a-ba mu-da-gu₇-en a-ba ma-ni-ib-sag₉-sag₉-e-še
+c.6.1.13,Proverbs: collection 13,,62,{gi}kid-ma₂-šu₂-a-gin₇ du₆-da en₃ ab-tar-tar-re-en
+c.6.1.13,Proverbs: collection 13,,63,hub₂-bi-gin₇ igi lu₂-dun-a-za-ka ti nu-mu-ni-ib₂-bal-e-en
+c.6.1.13,Proverbs: collection 13,,64,lu₂-zuh-a-gin₇ ni₂-zu ŋarza₂-še₃ i₃-ŋa₂-ŋa₂-an
+c.6.1.13,Proverbs: collection 13,,65,lu₂-gub-ba e₂ lu₂-še₃ in-kur₉-ma dam-ba nitah-am₃ ib₂-tu-ud
+c.6.1.13,Proverbs: collection 13,,66,sun₇-na ed₂-da-ni-ta dumu dag-gi₄-a-še₃ an-na-ab-be₂ munus-e ib₂-tu-ud
+c.6.1.13,Proverbs: collection 13,,67,ud dam-ba nitah ib₂-tu-ud-da dumu dag-gi₄-a-še₃ u₃-bi₂-dug₄
+c.6.1.13,Proverbs: collection 13,,68,mu kug-zu nu-hul-hul e-ra-dug₄-e-še
+c.6.1.13,Proverbs: collection 13,,69,lu₂-gub-ba kan₄ {d}inana-ka u₃-bi₂-in-gub
+c.6.1.13,Proverbs: collection 13,,70,dumu-munus-a-ni erin₂-na an-na-ab-be₂
+c.6.1.13,Proverbs: collection 13,,71,inim ama-ŋu₁₀ lul-aš gen₆-na-am₃-e-še
+c.6.1.13,Proverbs: collection 13,,72,lu₂-gub-ba-me-en u₃ en₃ bi₂-tar-re-en
+c.6.1.13,Proverbs: collection 13,,73,tug₂ u₂-gu mu-ni-in-de₂
+c.6.1.13,Proverbs: collection 13,,74,{tug₂}niŋ₂-dara₂ ne-en nu-ub-gu-ul
+c.6.1.13,Proverbs: collection 13,,75,an-na-ab-be₂
+c.6.1.13,Proverbs: collection 13,,76,nam-erim₂ X-ku₅-ru-de₃-en-na
+c.6.1.13,Proverbs: collection 13,,77,in-nu {tug₂}niŋ₂-dara₂ dug₄-ga-ab-e-še
+c.6.1.13,Proverbs: collection 13,,78,kal-la-gin₇ aŋ₂-ŋa₂ e₂-e-ke₄ i₃-ŋa₂-ŋa₂-an
+c.6.1.13,Proverbs: collection 13,,79,inim am₃-ŋar
+c.6.1.13,Proverbs: collection 13,,80,lu₂ zag tag-ke₄-ne a-na-aš-am₃ inim am₃-ŋar
+c.6.1.13,Proverbs: collection 13,,81,an-ne-eš lu₂ kalag-ga-zu-ne-ne-a ŋešpu₂-še₃ he₂-en-ma-an-zi-zi-zi-e-še
+c.6.1.13,Proverbs: collection 13,,82,id₂ kaskal he₂-en-na-til iri-še₃-am₃ mu-ni-ib-gid₂-i-de₃
+c.6.1.13,Proverbs: collection 13,,83,dumu {lu₂}nu-{ŋeš}kiri₆-ke₄-ne u₃-mu-un-sar-re-eš
+c.6.1.13,Proverbs: collection 13,,84,₁-am₃ ki ba-an-gub ₁-am₃ sag₉-sag₉-da gu₇
+c.6.1.13,Proverbs: collection 13,,85,lu₂ ŋiš-a ba-da-an-gub-ba huŋ-ŋa₂ nu-e₃
+c.6.1.13,Proverbs: collection 13,,86,ni₂-ta en-na ŋe₂₆-e im-ši-ed₃-de₃
+c.6.1.13,Proverbs: collection 13,,87,lu₂ igi-za-ke₄-ne u₃ ŋe₂₆-e ga-mu-e-ši-ed₃-de₃
+c.6.1.13,Proverbs: collection 13,,88,lu₂ gub dab₅-ba an-na-ab-be₂
+c.6.1.13,Proverbs: collection 13,,89,nam-giri₁₇-šu-du₃-a sag₉
+c.6.1.13,Proverbs: collection 13,,90,e₂ ad-da-za-ka nu-šub-be₂-en-e-še
+c.6.1.13,Proverbs: collection 13,,91,e₂ ur₅-ra e₂ šag₄-ga nu-un-zalag
+c.6.1.13,Proverbs: collection 13,,92,e₂ ur₅-ra i-bi₂ he₂-em-ed₃-de₃
+c.6.1.13,Proverbs: collection 13,,93,e₂ ur₅-ra lugal-e mu-un-sar-re-eš
+c.6.1.13,Proverbs: collection 13,,94,lu₂-IM kug ba-an-zuh lu₂ gen₆-na giŋ₄ mu-ni-in-ak-de₃
+c.6.1.13,Proverbs: collection 13,,95,lu₂-IM banšur-zu-uš kur₉-re-eš zi ba-an-ir-eš šu bi₂-ib-ur₃-ru-ne
+c.6.1.13,Proverbs: collection 13,,96,lu₂-IM im-gig al-DU ma-da ha-lam-e-de₃ an-na-ab-be₂
+c.6.1.13,Proverbs: collection 13,,97,lu₂ mu-šub-ba ezen
+c.6.1.13,Proverbs: collection 13,,98,
+c.6.1.13,Proverbs: collection 13,,99,gir₅-ra in-na-an-hul-le-eš
+c.6.1.13,Proverbs: collection 13,,100,kan₄-na
+c.6.1.13,Proverbs: collection 13,,101,niŋ₂-gig {d}nin-urta-am₃
+c.6.1.13,Proverbs: collection 13,,102,lu₂ teš₂-ba dumu-ni
+c.6.1.13,Proverbs: collection 13,,103,X-ri-ri a₂-ni u₂-gu de₂
+c.6.1.13,Proverbs: collection 13,,104,lu₂-zuh-a

@@ -1,0 +1,27 @@
+id_text,text_name,version,l_no,text
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,A1,ki aŋ₂ an-na pad₃
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,A2,sig₇-ga zag
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,A3,{d}nin-tur₅-re u₃-tud-za šag₄ mi-ni-ib-hul₂ nam gal ša-mu-ri-in-tar
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,A4,saŋ-ki hi-li bi₂-in-ak
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,A5,me-dim₂-zu ŋiri₃ nun-na alan-zu dalla pa e₃
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,A6,bar-sud-am₃
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,A7,nam-munus ba-e-dug₄ nam-hi-li ba-e-si
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,A8,{d}inana he₂-du₇ an sikil-la nam-nin-a tum₂-ma
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,A9,šu ša-mu-u₈-du₇ nam-zu ba-dirig
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,A10,ab-be₂-en niŋin ad ša₄-ša₄-en
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,A11,nam ŋal₂
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,A12,
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,B1,mah
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,B2,bi₂-ib-X-un
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,B3,lu₂ niŋ₂-si-sa₂-ka mu-e-du₇ gu₃ teš₂ he₂-en-sig₁₀-sig₁₀
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,B4,mu he₂-ŋal₂-la ud dug₃ asil-la₂-a nam-sipad he₂-ak-ke₄
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,B5,ri-im-{d}suen lu₂ niŋ₂-si-sa₂-ka mu-e-du₇ gu₃ teš₂ he₂-en-sig₁₀-sig₁₀
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,B6,mu he₂-ŋal₂-la ud dug₃ asil-la₂-a nam-sipad he₂-ak-ke₄
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,B7,sa-ŋar-ra-am₃
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,B8,{d}inana ri-im-{d}suen mu niŋ₂-zid re šag₄ dug₃-ga-za mu-a-ni sud šum₂-ma-ni-ib
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,B9,nu-u₈-gig dirig-še₃ mah an-na-e gun₃-a
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,B10,{d}inana nu-u₈-gig dirig-še₃ mah an-na-e gun₃-a
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,B11,inim mi₂ dug₄-ga hi-li sud-a-za
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,B12,diŋir ama gal-gal ri-im-{d}suen til₃-mu-ni-ib
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,B13,ŋiš-gi-ŋal₂-bi-im
+c.2.6.9.8,An adab to Inana for Rīm-Sîn (Rīm-Sîn H),,B14,a-da-ab {d}inana-kam

@@ -1,0 +1,59 @@
+id_text,text_name,version,l_no,text
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,1,en mah zag dib me galam u₁₈-ru
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,2,pa-bil₂-ga en-en-e-ne
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,3,bar-sud-am₃
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,4,saŋ il₂ dirig ninda₂ numun i-i
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,5,mu idim ni₂ gal-le-eš ri-a
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,6,mah dug₄-ga-ni sag₂ di nu-zu
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,7,kur me sikil-la ni₂ mu-ni-in-guru₃
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,8,barag gal-la dur₂ im-mi-in-ŋar
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,9,an lugal diŋir-re-e-ne-ke₄
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,10,šag₄-ba-tuku-am₃
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,11,igi zid su₃-ra₂-še₃ mu-un-ši-in-bar
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,12,nun {d}li-pi₂-it-eš₄-tar₂-ra igi zid mu-ši-in-bar
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,13,nam-til₃ su₃-ra₂-še₃ mu-na-an-šum₂
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,14,nun {d}li-pi₂-it-eš₄-tar₂-ra nam-til₃ su₃-ra₂-še₃ mu-na-an-šum₂
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,15,an-na dug₄-ga-ni inim ki-bi-še₃ ŋar-ra
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,16,diŋir na-me saŋ la-ba-ab-šum₂-mu
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,17,{d}a-nun-na diŋir kilib₃-ba-bi
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,18,ki nam tar-re-da gu₂ mu-na-si-si-eš
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,19,šag₄-ba-tuku-am₃
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,20,me gal-gal-la pa mu-ni-in-e₃
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,21,diŋir an-na mu-na-sug₂-ge-eš
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,22,bar-sud ₂-kam-ma
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,23,ŋiš-hur-bi si mu-ni-ib-sa₂-sa₂
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,24,diŋir ki-a mu-na-gam-e-eš
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,25,me mah-a me saŋ-ki-a-ba
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,26,nam-lugal niŋ₂ kal-kal-la-am₃
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,27,{d}li-pi₂-it-eš₄-tar₂ dumu {d}en-lil₂-la₂-ra
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,28,an gal-e saŋ-e-eš mu-ni-in-rig₇
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,29,sa-gid₂-da-am₃
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,30,an gal-am₃ diŋir pa e₃ gal-am₃
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,31,an u₁₈-ru lugal {d}li-pi₂-it-eš₄-tar₂-ra ŋiškim-til₃-la-ni na-nam
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,32,ŋiš-gi₄-ŋal₂-bi-im
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,33,an-e šag₄ gu₂-bi gi₄-a-na lugal mu-ni-in-pad₃
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,34,šag₄-bal-bal nam-lugal-la-ra gu₃ zid mu-na-an-de₂
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,35,{d}li-pi₂-it-eš₄-tar₂ a₂ šum₂-ma-ŋu₁₀-me-en gu₂ an-še₃ he₂-zig₃
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,36,ud gu₃ di saŋ-bi zi-zi-gin₇ su zig₃ he₂-me-da-ri
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,37,gu₂-erim₂-ŋal₂ kur nu-še-ga-zu u₁₈-lu-zu he₂-em-dul
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,38,niŋ₂-si-sa₂ ki-en-gi ki-uri mu-ni-ŋar su kalam-ma mu-dug₃
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,39,{d}li-pi₂-it-eš₄-tar₂ dumu {d}en-lil₂-la₂ ud-gin₇ dalla he₂-ni-e₃
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,40,iri a₂-dam maš-gana₂ ki ŋar-ra gu₃ teš₂ hu-mu-ra-ab-sig₁₀
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,41,uŋ₃ saŋ gig₂-ga u₈-gin₇ lu-a us₂ zid hu-mu-ra-ab-sig₉-ge₅
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,42,{d}li-pi₂-it-eš₄-tar₂ kur ki su₃-ra₂-še₃ lugal-bi he₂-me-en
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,43,{ŋeš}gu-za mah nam-nun-na he₂-du₇ gi₁₆-sa nam-lugal-la
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,44,{d}en-lil₂-le zid-de₃-eš ma-ra-an-šum₂ suhuš-bi hu-mu-ra-ab-sig₁₀
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,45,{d}suen aga saŋ-za mi-ni-in-ga-na muš₃ nam-ba-an-tum₂-mu
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,46,{d}en-ki-ke₄ me nam-nun-na-ka še-er-ka-an hu-mu-ra-ni-in-dug₄
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,47,{d}inana tug₂ nam-nun-na-ka za-e-da hu-mu-X-de₃-gub
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,48,{d}udug sag₉-ga {d}lamma e₂-kur-ra he₂-me-da-sug₂-sug₂-ge-eš
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,49,nidba {ŋeš}ŋeštin ga il₂-la-zu šu he₂-em-da-ŋal₂-ŋal₂
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,50,dumu niŋ₂-dim₂-ma {d}en-lil₂-la₂-me-en niŋ₂ hu-mu-ra-ab-dug₃-dug₃
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,53,sa-ŋar-ra-am₃
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,54,diŋir ni₂ guru₃ šag₄-ge pad₃-da dumu {d}en-lil₂-la₂ niŋ₂ ha-ra-ab-gu-ul-gu-ul
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,55,ŋiš-gi₄-ŋal₂-bi-im
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,56,an-e dug₄-ga-ni nam dug₃ tar-ra-am₃
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,57,an gal-e dug₄-ga-ni nam dug₃ tar-ra-am₃
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,58,{d}li-pi₂-it-eš₄-tar₂ dumu {d}en-lil₂-la₂-ra šu
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,59,u₁₉-ru₁₂-bi-im
+c.2.5.5.3,An adab to An for Lipit-Eštar (Lipit-Eštar C),,60,a-da-ab an-na-kam

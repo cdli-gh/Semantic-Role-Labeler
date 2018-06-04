@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+c.2.8.3.7,A prayer for Samsu-iluna (Samsu-iluna G),,1,{d}en-ki {d}a-sa-lim u₃ diŋir-dumu eridug{ki}-ga
+c.2.8.3.7,A prayer for Samsu-iluna (Samsu-iluna G),,2,diŋir gal-gal-e-ne šu-du-um mu-un-na-an-ša
+c.2.8.3.7,A prayer for Samsu-iluna (Samsu-iluna G),,3,{ŋeš}gu-za kug-sig₁₇ nam-lugal saŋ il₅-la
+c.2.8.3.7,A prayer for Samsu-iluna (Samsu-iluna G),,4,šag₄-bi an-na nam-ur-saŋ-ŋa₂-ak-ka-ni mah-bi su-uš-a
+c.2.8.3.7,A prayer for Samsu-iluna (Samsu-iluna G),,5,lugal urim₂{ki}-ma lugal larsam{ki}-ma
+c.2.8.3.7,A prayer for Samsu-iluna (Samsu-iluna G),,6,lugal ki-en₆-ŋi₆ ŋi₆-u₂-ri-ke₄

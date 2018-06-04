@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+c.2.8.2.3,A praise poem of Hammu-rābi (Hammu-rābi C),,1,{d}en-ki-ke₄ eš₃-e ki mah-a mi₂ zid mu-ni-in-dug₄
+c.2.8.2.3,A praise poem of Hammu-rābi (Hammu-rābi C),,2,lugal-e lu₂ šu-luh-e ki aŋ₂ me sikil-la tum₂-ma
+c.2.8.2.3,A praise poem of Hammu-rābi (Hammu-rābi C),,3,lugal ŋiš-hur kal-kal gal-zu-a ni₂-tuku inim sag₉-sag₉-ge šu-ni-še₃ ŋal₂-la
+c.2.8.2.3,A praise poem of Hammu-rābi (Hammu-rābi C),,4,sipad šag₄ še-ga en {d}nu-nam-nir-ra ki aŋ₂ ama {d}nin-lil₂-la₂
+c.2.8.2.3,A praise poem of Hammu-rābi (Hammu-rābi C),,5,nidba gal-gal e₂-kur-ra
+c.2.8.2.3,A praise poem of Hammu-rābi (Hammu-rābi C),,6,šag₄ dug₃-ga nun gal {d}en-ki-ke₄
+c.2.8.2.3,A praise poem of Hammu-rābi (Hammu-rābi C),,7,mi₂ dug₄-ga kug {d}dam-gal-nun-na sipad zid {d}ha-am-mu-ra-bi
+c.2.8.2.3,A praise poem of Hammu-rābi (Hammu-rābi C),,8,lugal-e eš₃ e₂-kiš-nu-ŋal₂ niŋ₂-nam
+c.2.8.2.3,A praise poem of Hammu-rābi (Hammu-rābi C),,9,ha-am-mu-ra-bi
+c.2.8.2.3,A praise poem of Hammu-rābi (Hammu-rābi C),,10,{d}nanna {d}nin-gal-bi ud šu₂-uš
+c.2.8.2.3,A praise poem of Hammu-rābi (Hammu-rābi C),,11,lugal niŋ₂-hul₂-la-ni šu-luh ŋiš-hur me
+c.2.8.2.3,A praise poem of Hammu-rābi (Hammu-rābi C),,12,ki-bi-še₃ bi₂-in-gi₄-gi₄
+c.2.8.2.3,A praise poem of Hammu-rābi (Hammu-rābi C),,13,ša-ra-da-gub-bu šu bur₂-ra
+c.2.8.2.3,A praise poem of Hammu-rābi (Hammu-rābi C),,14,šul {d}suen niŋ₂ al di še še-ga

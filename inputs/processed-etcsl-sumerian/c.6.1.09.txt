@@ -1,0 +1,101 @@
+id_text,text_name,version,l_no,text
+c.6.1.09,Proverbs: collection 9,,A1,nir-ŋal₂-e a-na bi₂-in-dug₄ nu-sag₉
+c.6.1.09,Proverbs: collection 9,,A2,nir-ŋal₂-e a-na bi₂-in-dug₄ nu-zid
+c.6.1.09,Proverbs: collection 9,,A3,nir-ŋal₂ kug-zu-am₃ ukur₃ šu dim₄-ma-am₃
+c.6.1.09,Proverbs: collection 9,,A4,šu ŋar ŋal₂-la aratta{ki}-ka
+c.6.1.09,Proverbs: collection 9,,A5,a₂-tuku lugal ki-in-du-ka
+c.6.1.09,Proverbs: collection 9,,A6,usu ka lu₂-ta am₃-kur₉-kur₉
+c.6.1.09,Proverbs: collection 9,,A7,usu igi-ŋal₂-tuku nu-ub-da-sa₂
+c.6.1.09,Proverbs: collection 9,,A8,usu diŋir-ŋa₂ ni₂-ŋa₂ ba-til
+c.6.1.09,Proverbs: collection 9,,A9,nam-ŋuruš-ŋu₁₀ anše kar-ra-gin₇ haš₂-ŋa₂ ba-e-taka₄
+c.6.1.09,Proverbs: collection 9,,A10,nu-zu e₂-gal-la ba-šar₂
+c.6.1.09,Proverbs: collection 9,,A11,zu-a nu-di is-hab₂-ba-am₃
+c.6.1.09,Proverbs: collection 9,,A12,kug-zu nu-mu-un-da-sa₂
+c.6.1.09,Proverbs: collection 9,,A13,ka ba-tar
+c.6.1.09,Proverbs: collection 9,,A14,in-gaz-za nu-ŋa₂-ŋa₂
+c.6.1.09,Proverbs: collection 9,,A15,šah₂ niga ab-šum-u₃-de₃ niŋ₂-ŋu₁₀ gu₇-a-ŋu₁₀ ga-an-sug₆-e-še
+c.6.1.09,Proverbs: collection 9,,A16,{šah₂}ze₂-eh tur-re šu al-gud-gu₄-ud
+c.6.1.09,Proverbs: collection 9,,A17,sag₉-ga-aš ŋe₂₆-e nu-gu₇-e-še
+c.6.1.09,Proverbs: collection 9,,A18,dam u₃-mu-un-si gam-am₃ geme₂ ug₅-ga-am₃
+c.6.1.09,Proverbs: collection 9,,A19,u₃-mu-un-si gam-am₃ arad ug₅-ga-am₃
+c.6.1.09,Proverbs: collection 9,,A20,šag₄-ŋu₁₀
+c.6.1.09,Proverbs: collection 9,,A21,peš₁₀ gu₂
+c.6.1.09,Proverbs: collection 9,,A22,
+c.6.1.09,Proverbs: collection 9,,A23,
+c.6.1.09,Proverbs: collection 9,,B1,na-an-ni libir-ra mu-un-kal
+c.6.1.09,Proverbs: collection 9,,B2,lugal e₂-gal
+c.6.1.09,Proverbs: collection 9,,B3,gi₄-in-na-X
+c.6.1.09,Proverbs: collection 9,,B4,egir₂ gi₄-in-X
+c.6.1.09,Proverbs: collection 9,,B5,aŋ₂ tukum-bi
+c.6.1.09,Proverbs: collection 9,,Bx,
+c.6.1.09,Proverbs: collection 9,,B12,lu₂ ma-an-zi-le {kuš}suhub₂ šu ti-a
+c.6.1.09,Proverbs: collection 9,,B13,{tug₂}aŋ₂-dara₂ {tug₂}aŋ₂-lam₂ šu ti-a
+c.6.1.09,Proverbs: collection 9,,B14,u₃-mu-un
+c.6.1.09,Proverbs: collection 9,,B15,e-re na-aŋ₂-u₃-mu-un ir-ra gi₄-in-e na-aŋ₂-ga-ša-an ir-ra
+c.6.1.09,Proverbs: collection 9,,B16,aŋ₂-e
+c.6.1.09,Proverbs: collection 9,,B17,munus-e
+c.6.1.09,Proverbs: collection 9,,B18,gaz
+c.6.1.09,Proverbs: collection 9,,C1,niŋ₂ lu₂
+c.6.1.09,Proverbs: collection 9,,C2,ur-e
+c.6.1.09,Proverbs: collection 9,,C3,ur-e ŋiš
+c.6.1.09,Proverbs: collection 9,,C4,ur munus
+c.6.1.09,Proverbs: collection 9,,C5,
+c.6.1.09,Proverbs: collection 9,,C6,e₂
+c.6.1.09,Proverbs: collection 9,,D1,lu₂
+c.6.1.09,Proverbs: collection 9,,D2,kug-zu
+c.6.1.09,Proverbs: collection 9,,D3,gal-an-zu
+c.6.1.09,Proverbs: collection 9,,D4,is-hab₂ ki-bid₃
+c.6.1.09,Proverbs: collection 9,,D5,šu ša-an-ša-ša-da šu-ni bid₃-da ba-ni-ib-gid₂
+c.6.1.09,Proverbs: collection 9,,D6,kaš₄ dug₄-ga-ab lugal-la-kam
+c.6.1.09,Proverbs: collection 9,,D7,kug-ŋa₂-ke₄-eš kug-sig₁₇-ŋa₂-ke₄-eš
+c.6.1.09,Proverbs: collection 9,,D8,dub-šen-ŋa₂-ke₄-eš
+c.6.1.09,Proverbs: collection 9,,D9,ŋe₂₆-e ba-til-de₃-en
+c.6.1.09,Proverbs: collection 9,,D10,
+c.6.1.09,Proverbs: collection 9,,E1,me
+c.6.1.09,Proverbs: collection 9,,E2,dumu-ni
+c.6.1.09,Proverbs: collection 9,,E3,
+c.6.1.09,Proverbs: collection 9,,E4,dam igi sila₃
+c.6.1.09,Proverbs: collection 9,,E5,ŋeštug-ga
+c.6.1.09,Proverbs: collection 9,,E6,igi mu-ni-in-du₈
+c.6.1.09,Proverbs: collection 9,,E7,ga-ba-ŋen lu₂ niŋ₂-lul-la-ka
+c.6.1.09,Proverbs: collection 9,,E8,{d}utu di-kud-me-en di-ŋu₁₀ kud-de₃
+c.6.1.09,Proverbs: collection 9,,E9,ka-aš bar-bar-re-me-en ka-aš-ŋu₁₀ bar-ra
+c.6.1.09,Proverbs: collection 9,,E10,maš₂-ŋi₆ igi ba-ni-in-du₈-a sag₉-ga-aš kur₉-ni-ib₂
+c.6.1.09,Proverbs: collection 9,,E11,si sa₂-bi ga-ŋen tab-ba-ŋu₁₀ sa₂ ga-am₃-dug₄
+c.6.1.09,Proverbs: collection 9,,E12,gi₄-in ma₂ gid₂ u₃-sa₂ dab₅
+c.6.1.09,Proverbs: collection 9,,E13,gi₄-in u₃-sa₂ dab₅ kaskal-la du
+c.6.1.09,Proverbs: collection 9,,E14,nam-sun₅-na-da a-ba in-da-sa₂ sag₉-ga an-ši-ŋal₂
+c.6.1.09,Proverbs: collection 9,,F1,
+c.6.1.09,Proverbs: collection 9,,F2,dub-sar
+c.6.1.09,Proverbs: collection 9,,F3,dub-sar
+c.6.1.09,Proverbs: collection 9,,F4,{kuš}e-sir₂
+c.6.1.09,Proverbs: collection 9,,F5,ki lu₂
+c.6.1.09,Proverbs: collection 9,,F6,kug
+c.6.1.09,Proverbs: collection 9,,F7,
+c.6.1.09,Proverbs: collection 9,,F8,
+c.6.1.09,Proverbs: collection 9,,F9,
+c.6.1.09,Proverbs: collection 9,,G1,
+c.6.1.09,Proverbs: collection 9,,G2,
+c.6.1.09,Proverbs: collection 9,,G3,niŋ₂ še
+c.6.1.09,Proverbs: collection 9,,G4,ze₂-eŋ₃
+c.6.1.09,Proverbs: collection 9,,G5,am₃-X
+c.6.1.09,Proverbs: collection 9,,G6,ma-ni-in-ŠUB
+c.6.1.09,Proverbs: collection 9,,G7,mu-tum₂-ma
+c.6.1.09,Proverbs: collection 9,,G8,mu-tum₂-ma mu-un-da-an-ši-lu-lu
+c.6.1.09,Proverbs: collection 9,,G9,nam-dumu-na lu₂-{d}suen-na-ka
+c.6.1.09,Proverbs: collection 9,,G10,kur kug ba-al-gin₇ lu₂ dim₂-ma nu-sag₉
+c.6.1.09,Proverbs: collection 9,,H1,gi₄
+c.6.1.09,Proverbs: collection 9,,H2,
+c.6.1.09,Proverbs: collection 9,,H3,
+c.6.1.09,Proverbs: collection 9,,H4,šu-nir šu-na bi₂-sig₉
+c.6.1.09,Proverbs: collection 9,,H5,sahar-ra šu-ŋa₂ la-ba-ni-in-si
+c.6.1.09,Proverbs: collection 9,,H6,lu₂-bi nu-zu-gin₇
+c.6.1.09,Proverbs: collection 9,,H7,NUN-ra mu-e-mur₁₀-e
+c.6.1.09,Proverbs: collection 9,,H8,kug tur-ra sa₂ bi₂-in-dug₄
+c.6.1.09,Proverbs: collection 9,,H9,an-ne₂ šeŋ₃
+c.6.1.09,Proverbs: collection 9,,H10,a-na-am₃ ad-us₂-bi
+c.6.1.09,Proverbs: collection 9,,H11,BU-ra-gin₇
+c.6.1.09,Proverbs: collection 9,,H12,ab-gub-be₂-en
+c.6.1.09,Proverbs: collection 9,,H13,igi-za an-tum₃
+c.6.1.09,Proverbs: collection 9,,H14,di-kud-gin₇-nam
+c.6.1.09,Proverbs: collection 9,,H15,ŋiš a-ra-ši-nu₂

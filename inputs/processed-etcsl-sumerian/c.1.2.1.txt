@@ -1,0 +1,155 @@
+id_text,text_name,version,l_no,text
+c.1.2.1,Enlil and Ninlil,,1,iri{ki} na-nam iri{ki} na-nam na-an-dur₂-ru-ne-en-de₃-en
+c.1.2.1,Enlil and Ninlil,,2,nibru{ki} iri{ki} na-nam na-an-dur₂-ru-ne-en-de₃-en
+c.1.2.1,Enlil and Ninlil,,3,dur-{ŋeš}ŋišnimbar{ki} iri{ki} na-nam na-an-dur₂-ru-ne-en-de₃-en
+c.1.2.1,Enlil and Ninlil,,4,id₂-sal-la id₂ kug-bi na-nam
+c.1.2.1,Enlil and Ninlil,,5,kar-ŋeštin-na kar-bi na-nam
+c.1.2.1,Enlil and Ninlil,,6,kar-a-sar kar {ŋeš}ma₂ us₂-bi na-nam
+c.1.2.1,Enlil and Ninlil,,7,pu₂-lal₃ pu₂ a dug₃-ga-bi na-nam
+c.1.2.1,Enlil and Ninlil,,8,id₂-nun-bi-ir-tum₂ pa₅ mul-bi na-nam
+c.1.2.1,Enlil and Ninlil,,9,ib₂-ta-gid₂-i-de₃ ₅₀ sar-am₃ gana₂ ŋar-bi na-nam
+c.1.2.1,Enlil and Ninlil,,10,{d}en-lil₂ ŋuruš tur-bi na-nam
+c.1.2.1,Enlil and Ninlil,,11,{d}nin-lil₂ ki-sikil tur-bi na-nam
+c.1.2.1,Enlil and Ninlil,,12,{d}nun-bar-še-gu-nu um-ma-bi na-nam
+c.1.2.1,Enlil and Ninlil,,13,ud-ba ki-sikil ama ugu-na ša na-mu-un-de₅-de₅
+c.1.2.1,Enlil and Ninlil,,14,{d}nin-lil₂-le {d}nun-bar-še-gu-nu ša na-mu-un-de₅-de₅
+c.1.2.1,Enlil and Ninlil,,15,id₂ kug-ga-am₃ nu-nus-e id₂ kug-ga-am₃ a nam-mi-tu₅-tu₅
+c.1.2.1,Enlil and Ninlil,,16,{d}nin-lil₂-le gu₂ id₂-nun-bi-ir-tum₂-ka nam-mi-in-du-de₃
+c.1.2.1,Enlil and Ninlil,,17,i-bi₂ kug-ga-am₃ u₃-mu-un-e i-bi₂ kug-ga-am₃ i-bi₂ ba-e-ši-bar-re
+c.1.2.1,Enlil and Ninlil,,18,kur gal a-a {d}mu-ul-lil₂ i-bi₂ kug-ga-am₃ i-bi₂ ba-e-ši-bar-re
+c.1.2.1,Enlil and Ninlil,,19,sipad na-aŋ₂ tar-tar-re i-bi₂ kug-ga-am₃ i-bi₂ ba-e-ši-bar-re
+c.1.2.1,Enlil and Ninlil,,20,a-da-lam mu-bi am₃-i-i še am₃-mi-ib₂-su-ub-be₂
+c.1.2.1,Enlil and Ninlil,,21,šag₄ hul₂ a hi-li šag₄-ge si-a-na am₃-mu-un-di-ni-ib-da₁₃-da₁₃
+c.1.2.1,Enlil and Ninlil,,22,na šag₄ mu-ni-in-de₅ mu-uš-tug₂ mu-na-ze₂-eŋ₃
+c.1.2.1,Enlil and Ninlil,,23,id₂ kug-ga-am₃ munus-e id₂ kug-ga-am₃ a im-ma-ni-tu₅-tu₅
+c.1.2.1,Enlil and Ninlil,,24,{d}nin-lil₂-le gu₂ id₂-nun-bi-ir-tum₂-ka i-im-du-de₃
+c.1.2.1,Enlil and Ninlil,,25,igi kug-ga-am₃ lugal-e igi kug-ga-am₃ igi im-ma-ši-in-bar
+c.1.2.1,Enlil and Ninlil,,26,kur gal a-a {d}en-lil₂-le igi kug-ga-am₃ igi im-ma-ši-in-bar
+c.1.2.1,Enlil and Ninlil,,27,sipad na-aŋ₂ tar-tar-re igi kug-ga-am₃ igi im-ma-ši-in-bar
+c.1.2.1,Enlil and Ninlil,,28,lugal-e ŋiš₃ ga-e-dug₄ mu-na-ab-be₂ nu-un-da-ra-ši-ib-še-ge
+c.1.2.1,Enlil and Ninlil,,29,{d}en-lil₂-le ne ga-e-su-ub mu-na-ab-be₂ nu-un-da-ra-ši-ib-še-ge
+c.1.2.1,Enlil and Ninlil,,30,gal₄-la-ŋu₁₀ tur-ra-am₃ peš₁₁ nu-mu-un-zu
+c.1.2.1,Enlil and Ninlil,,31,šu-um-du-um-ŋu₁₀ tur-ra-am₃ še su-ub nu-un-zu
+c.1.2.1,Enlil and Ninlil,,32,ama-ŋu₁₀ ba-zu-zu šu-ŋu₁₀ mu-un-sag₃-ge
+c.1.2.1,Enlil and Ninlil,,33,ad-da-ŋu₁₀ ba-zu-zu šu sa₂-bi mu-un-e
+c.1.2.1,Enlil and Ninlil,,34,a-da-lam ma-la-ra dug₄-ga-ŋu₁₀-uš nu-me-e ba-na-silig-ge-en
+c.1.2.1,Enlil and Ninlil,,35,{d}en-lil₂-le sukkal-a-ni {d}nuska-ra gu₃ mu-na-de₂-e
+c.1.2.1,Enlil and Ninlil,,36,sukkal {d}nuska-ŋu₁₀ ud-ul a-ra-zu
+c.1.2.1,Enlil and Ninlil,,37,šidim gal e₂-kur-ra ud-ul-la lugal-ŋu₁₀
+c.1.2.1,Enlil and Ninlil,,38,{lu₂}ki-sikil ne-en sag₉-ga-ra ne-en mul-la-ra
+c.1.2.1,Enlil and Ninlil,,39,{d}nin-lil₂ ne-en sag₉-ga-ra ne-en mul-la-ra
+c.1.2.1,Enlil and Ninlil,,40,lu₂ ŋiš₃ na-an-dug₄ lu₂ ne na-an-ni-su-ub
+c.1.2.1,Enlil and Ninlil,,41,sukkal lugal-a-ni {ŋeš}ma₂-gin₇ mu-un-ši-de₆
+c.1.2.1,Enlil and Ninlil,,42,eš₂ {ŋeš}ma₂ tur-ra-am₃ mu-un-ši-ib₂-tum₂-X
+c.1.2.1,Enlil and Ninlil,,43,{ŋeš}ma₂ gu-la-am₃ mu-un-ši-ib₂-tum₂-e
+c.1.2.1,Enlil and Ninlil,,44,lugal-ŋu₁₀ MU.MES-ga-e dirig-ga-am₃
+c.1.2.1,Enlil and Ninlil,,45,ŋiš₃-bi na-mu-un-dug₄ ne-bi na-mu-un-su-ub
+c.1.2.1,Enlil and Ninlil,,46,a-a {d}en-lil₂ MU.MES-ga-e dirig-ga-am₃
+c.1.2.1,Enlil and Ninlil,,47,ŋiš₃-bi na-mu-un-dug₄ ne-bi na-mu-un-su-ub
+c.1.2.1,Enlil and Ninlil,,48,kiŋ₂-kiŋ₂-a-na šu-ni ba-an-dab₅
+c.1.2.1,Enlil and Ninlil,,49,ŋiš₃-bi na-mu-un-dug₄ ne-bi na-mu-un-su-ub
+c.1.2.1,Enlil and Ninlil,,50,peš₁₀ tur-ra-še₃ im-ma-da-ab-nu₂-e
+c.1.2.1,Enlil and Ninlil,,51,ŋiš₃-bi im-ma-ni-in-dug₄ ne-bi im-ma-ni-in-su-ub
+c.1.2.1,Enlil and Ninlil,,52,ŋiš₃ ₁ dug₄-ga-ni ne ₁ su-ub-ba-ni
+c.1.2.1,Enlil and Ninlil,,53,a {d}suen-{d}aš-im₂-babbar-ra šag₄ mu-na-ni-ri
+c.1.2.1,Enlil and Ninlil,,54,{d}en-lil₂ ki-ur₃-ra im-ma-ni-in-dib-be₂
+c.1.2.1,Enlil and Ninlil,,55,{d}en-lil₂ ki-ur₃-ra dib-dib-be₂-da-ni
+c.1.2.1,Enlil and Ninlil,,56,diŋir gal-gal ₅₀-ne-ne
+c.1.2.1,Enlil and Ninlil,,57,diŋir nam tar-ra ₇-na-ne-ne
+c.1.2.1,Enlil and Ninlil,,58,{d}en-lil₂ ki-ur₃-ra im-ma-ni-in-dab₅-be₂-ne
+c.1.2.1,Enlil and Ninlil,,59,{d}en-lil₂ u₂-zug₄-ge iri-ta ba-ra-e₃
+c.1.2.1,Enlil and Ninlil,,60,{d}nu-nam-nir u₂-zug₄-ge iri-ta ba-ra-e₃
+c.1.2.1,Enlil and Ninlil,,61,{d}en-lil₂ niŋ₂-nam-še₃ nam mu-un-tar-ra-ke₄
+c.1.2.1,Enlil and Ninlil,,62,{d}nu-nam-nir niŋ₂-nam-še₃ nam mu-un-tar-ra-ke₄
+c.1.2.1,Enlil and Ninlil,,63,{d}en-lil₂ i₃-ŋen {d}nin-lil₂ in-us₂
+c.1.2.1,Enlil and Ninlil,,64,{d}nu-nam-nir i₃-ŋen ki-sikil mu-un-sar-re
+c.1.2.1,Enlil and Ninlil,,65,{d}en-lil₂-le lu₂ abula-ra gu₃ mu-na-de₂-e
+c.1.2.1,Enlil and Ninlil,,66,lu₂ abul-la lu₂ {ŋeš}si-ŋar-ra
+c.1.2.1,Enlil and Ninlil,,67,lu₂ {ŋeš}suhub₄ lu₂ {ŋeš}si-ŋar kug-ga
+c.1.2.1,Enlil and Ninlil,,68,nin-zu {d}nin-lil₂-le i-im-ŋen
+c.1.2.1,Enlil and Ninlil,,69,ud-da en₃-ŋu₁₀ mu-ra-tar-re
+c.1.2.1,Enlil and Ninlil,,70,za-e ki-ŋu₁₀ nam-mu-ni-in-pad₃-de₃
+c.1.2.1,Enlil and Ninlil,,71,{d}nin-lil₂-le lu₂ abul-la-ra gu₃ mu-na-de₂-e
+c.1.2.1,Enlil and Ninlil,,72,mu-lu abula mu-lu {ŋeš}si-ŋar-ra
+c.1.2.1,Enlil and Ninlil,,73,mu-lu {ŋeš}suhub₄ mu-lu {ŋeš}si-ŋar kug-ga
+c.1.2.1,Enlil and Ninlil,,74,{d}mu-ul-lil₂ u₃-mu-un-zu me-ta ba-ŋen e-ne-ra mu-na-ab-be₂
+c.1.2.1,Enlil and Ninlil,,75,{d}en-lil₂-le lu₂ abul-la-ra mu-na-ni-ib-gi₄-gi₄
+c.1.2.1,Enlil and Ninlil,,76,lugal-ŋu₁₀ sag₉-sag₉-ga ba-ra-mu-da-ab-dug₄
+c.1.2.1,Enlil and Ninlil,,77,{d}en-lil₂-le sag₉-sag₉-ga ba-ra-mu-da-ab-dug₄
+c.1.2.1,Enlil and Ninlil,,78,umuš-ŋa₂ i-ni-in-tar inim-ŋa₂ i-ni-in-sig₁₀-ge-am₃
+c.1.2.1,Enlil and Ninlil,,79,šag₄ sug₄-ge-da-ŋu₁₀ ba-e-de₃-si-in
+c.1.2.1,Enlil and Ninlil,,80,{d}mu-ul-lil₂ u₃-mu-un kur-kur-ra-ke₄ ŋa₂-a-ra ŋiš₃ ha-ma-an-dug₄
+c.1.2.1,Enlil and Ninlil,,81,{d}mu-ul-lil₂ u₃-mu-un-zu i₃-me-a-gin₇ u₃ me-e ga-ša-an-zu-ŋen
+c.1.2.1,Enlil and Ninlil,,82,ud-da nin-ŋu₁₀-me-en NE.ŠE₃-zu šu-ŋu₁₀ he₂-tag-ge
+c.1.2.1,Enlil and Ninlil,,83,a u₃-mu-un-zu a dadag-ga šag₄-ŋa₂ i₃-ŋal₂
+c.1.2.1,Enlil and Ninlil,,84,a {d}suen-na a dadag-ga šag₄-ŋa₂ i₃-ŋal₂
+c.1.2.1,Enlil and Ninlil,,85,a lugal-ŋu₁₀ an-še₃ he₂-du a-ŋu₁₀ ki-še₃ he₂-du
+c.1.2.1,Enlil and Ninlil,,86,a-ŋu₁₀ a lugal-ŋa₂-gin₇ ki-še₃ he₂-em-ma-du
+c.1.2.1,Enlil and Ninlil,,87,{d}en-lil₂-le nam lu₂ abul-la-ra da-ga-na ba-nu₂
+c.1.2.1,Enlil and Ninlil,,88,ŋiš₃ im-ma-ni-in-dug₄ ne im-ma-ni-in-su-ub
+c.1.2.1,Enlil and Ninlil,,89,ŋiš₃ ₁ dug₄-ga-ni ne ₁ su-ub-ba-ni
+c.1.2.1,Enlil and Ninlil,,90,a {d}nergalₓ-{d}meš₃-lam-ta-e₃-a šag₄ mu-na-ni-ri
+c.1.2.1,Enlil and Ninlil,,91,{d}en-lil₂ i₃-ŋen {d}nin-lil₂ in-us₂
+c.1.2.1,Enlil and Ninlil,,92,{d}nu-nam-nir i₃-ŋen ki-sikil mu-un-sar-re
+c.1.2.1,Enlil and Ninlil,,93,lu₂ id₂-kur-ra id₂ lu₂ gu₇-gu₇-e {d}en-lil₂ im-ma-te
+c.1.2.1,Enlil and Ninlil,,94,lu₂ id₂-kur-ra id₂ lu₂ gu₇-gu₇-ŋu₁₀
+c.1.2.1,Enlil and Ninlil,,95,nin-zu {d}nin-lil₂-le i-im-ŋen
+c.1.2.1,Enlil and Ninlil,,96,ud-da en₃-ŋu₁₀ mu-ra-tar-re
+c.1.2.1,Enlil and Ninlil,,97,za-e ki-ŋu₁₀ nam-mu-ni-in-pad₃-de₃
+c.1.2.1,Enlil and Ninlil,,98,lu₂ id₂-kur-ra id₂ lu₂ gu₇-gu₇ {d}nin-lil₂ im-ma-te
+c.1.2.1,Enlil and Ninlil,,99,lu₂ id₂-kur-ra id₂ lu₂ gu₇-gu₇-ŋu₁₀
+c.1.2.1,Enlil and Ninlil,,100,{d}mu-ul-lil₂ u₃-mu-un-zu me-ta ba-ŋen e-ne-ra mu-un-na-ab-be₂
+c.1.2.1,Enlil and Ninlil,,101,{d}en-lil₂-le nam lu₂ id₂-kur-ra-še₃ mu-un-na-ni-ib-gi₄-gi₄
+c.1.2.1,Enlil and Ninlil,,102,lugal-ŋu₁₀ sag₉-sag₉-ga ba-ra-mu-da-ab-dug₄
+c.1.2.1,Enlil and Ninlil,,103,{d}en-lil₂-le sag₉-sag₉-ga ba-ra-mu-da-ab-dug₄
+c.1.2.1,Enlil and Ninlil,,104,umuš-ŋa₂ i-ni-in-tar-ra inim-ŋa₂ i-ni-in-sig₁₀-ge-am₃
+c.1.2.1,Enlil and Ninlil,,105,šag₄ sug₄-ge-da-ŋu₁₀ ba-e-da-si-in
+c.1.2.1,Enlil and Ninlil,,106,{d}mu-ul-lil₂ u₃-mu-un kur-kur-ra-ke₄ ŋa₂-a-ra ŋiš₃ ha-ma-an-dug₄
+c.1.2.1,Enlil and Ninlil,,107,{d}mu-ul-lil₂ u₃-mu-un-zu i₃-me-a-gin₇ u₃ ŋe₂₆-e ga-ša-an-zu-me-en
+c.1.2.1,Enlil and Ninlil,,108,ud-da nin-ŋu₁₀-me-en NE.ŠE₃-zu šu-ŋu₁₀ he₂-tag-ge
+c.1.2.1,Enlil and Ninlil,,109,a u₃-mu-un-zu a dadag-ga šag₄-ŋa₂ i₃-ŋal₂
+c.1.2.1,Enlil and Ninlil,,110,a {d}suen-na a dadag-ga šag₄-ŋa₂ i₃-ŋal₂
+c.1.2.1,Enlil and Ninlil,,111,a lugal-ŋu₁₀ an-še₃ he₂-du a-ŋu₁₀ ki-še₃ he₂-du
+c.1.2.1,Enlil and Ninlil,,112,a-ŋu₁₀ a lugal-ŋa₂-gin₇ ki-še₃ he₂-em-ma-du
+c.1.2.1,Enlil and Ninlil,,113,{d}en-lil₂-le lu₂ id₂-kur-ra-gin₇ da-ga-na ba-nu₂
+c.1.2.1,Enlil and Ninlil,,114,ŋiš₃ im-ma-ni-in-dug₄ ne im-ma-ni-in-su-ub
+c.1.2.1,Enlil and Ninlil,,115,ŋiš₃ ₁ dug₄-ga-ni ne ₁ su-ub-ba-ni
+c.1.2.1,Enlil and Ninlil,,116,a {d}nin-a-zu lugal eš₂-gana₂ gid₂-da šag₄ mu-na-ni-ri
+c.1.2.1,Enlil and Ninlil,,117,{d}en-lil₂ i₃-ŋen {d}nin-lil₂ in-us₂
+c.1.2.1,Enlil and Ninlil,,118,{d}nu-nam-nir i₃-ŋen ki-sikil mu-un-sar-re
+c.1.2.1,Enlil and Ninlil,,119,SI.LU.IGI lu₂ {ŋeš}ma₂-addir-ra {d}en-lil₂ im-ma-te
+c.1.2.1,Enlil and Ninlil,,120,SI.LU.IGI lu₂ {ŋeš}ma₂-addir-ra-ŋu₁₀
+c.1.2.1,Enlil and Ninlil,,121,nin-zu {d}nin-lil₂-le i-im-ŋen
+c.1.2.1,Enlil and Ninlil,,122,ud-da en₃-ŋu₁₀ mu-ra-tar-re
+c.1.2.1,Enlil and Ninlil,,123,za-e ki-ŋu₁₀ nam-mu-ni-in-pad₃-de₃
+c.1.2.1,Enlil and Ninlil,,124,lu₂ {ŋeš}ma₂-addir-ra {d}nin-lil₂ im-ma-te
+c.1.2.1,Enlil and Ninlil,,125,lu₂ {ŋeš}ma₂-addir-ra-ke₄
+c.1.2.1,Enlil and Ninlil,,126,{d}mu-ul-lil₂ u₃-mu-un-zu me-ta ba-ŋen e-ne-ra mu-na-ab-be₂
+c.1.2.1,Enlil and Ninlil,,127,{d}en-lil₂-le mu-lu SI.LU.IGI-e inim mu-ni-ib-gi₄-gi₄
+c.1.2.1,Enlil and Ninlil,,128,lugal-ŋu₁₀ sag₉-sag₉-ga ba-ra-mu-da-ab-dug₄
+c.1.2.1,Enlil and Ninlil,,129,{d}en-lil₂-le sag₉-sag₉-ga ba-ra-mu-da-ab-dug₄
+c.1.2.1,Enlil and Ninlil,,130,umuš-ŋa₂ i-ni-in-tar-ra inim-ŋa₂ i-ni-in-sig₁₀-ge-am₃
+c.1.2.1,Enlil and Ninlil,,131,šag₄ sug₄-ge-da-ŋu₁₀ ba-e-de₃-si-in
+c.1.2.1,Enlil and Ninlil,,132,{d}mu-ul-lil₂ lugal kur-kur-ra-ke₄ ŋa₂-a-ra ŋiš₃ ha-ma-an-dug₄
+c.1.2.1,Enlil and Ninlil,,133,{d}mu-ul-lil₂ u₃-mu-un-zu i₃-me-a-gin₇ u₃ ŋe₂₆-e ga-ša-an-zu-me-en
+c.1.2.1,Enlil and Ninlil,,134,ud-da nin-ŋu₁₀-me-en NE.ŠE₃-zu šu-ŋu₁₀ he₂-tag-ge
+c.1.2.1,Enlil and Ninlil,,135,a u₃-mu-un-zu a dadag-ga šag₄-ŋa₂ i₃-ŋal₂
+c.1.2.1,Enlil and Ninlil,,136,a {d}suen-na a dadag-ga šag₄-ŋa₂ i₃-ŋal₂
+c.1.2.1,Enlil and Ninlil,,137,a lugal-ŋu₁₀ an-še₃ he₂-du a-ŋu₁₀ ki-še₃ he₂-du
+c.1.2.1,Enlil and Ninlil,,138,a-ŋu₁₀ a lugal-ŋa₂-gin₇ ki-še₃ he₂-em-ma-du
+c.1.2.1,Enlil and Ninlil,,139,{d}en-lil₂-le nam SI.LU.IGI-e da-ga-na ba-nu₂
+c.1.2.1,Enlil and Ninlil,,140,ŋiš₃ im-ma-ni-in-dug₄ ne im-ma-ni-in-su-ub
+c.1.2.1,Enlil and Ninlil,,141,ŋiš₃ ₁ dug₄-ga-ni ne ₁ su-ub-ba-ni
+c.1.2.1,Enlil and Ninlil,,142,a {d}en-bi₂-lu-lu ku₃-ŋal₂ id₂-da šag₄ mu-na-ni-ri
+c.1.2.1,Enlil and Ninlil,,143,en za-e-me-en lugal za-e-me-en
+c.1.2.1,Enlil and Ninlil,,144,{d}en-lil₂ en za-e-me-en lugal za-e-me-en
+c.1.2.1,Enlil and Ninlil,,145,{d}nu-nam-nir en za-e-me-en lugal za-e-me-en
+c.1.2.1,Enlil and Ninlil,,146,en en uru₁₈-na za-e-me-en
+c.1.2.1,Enlil and Ninlil,,147,en gu mu₂-mu₂ en še mu₂-mu₂ za-e-me-en
+c.1.2.1,Enlil and Ninlil,,148,en an-na en he₂-ŋal₂ en ki-a za-e-me-en
+c.1.2.1,Enlil and Ninlil,,149,en ki-a en he₂-ŋal₂ en an-na za-e-me-en
+c.1.2.1,Enlil and Ninlil,,150,{d}en-lil₂ an-na {d}en-lil₂ lugal-la-am₃
+c.1.2.1,Enlil and Ninlil,,151,en dug₄-ga-ni niŋ₂ nu-kur₂-ru-dam
+c.1.2.1,Enlil and Ninlil,,152,dug₄-ga-ni saŋ du₃-du₃-a šu nu-bal-e-de₃
+c.1.2.1,Enlil and Ninlil,,153,za₃-mi₂ dug₄-ga ama {d}nin-lil₂-la₂-še₃
+c.1.2.1,Enlil and Ninlil,,154,kur gal a-a {d}en-lil₂ za₃-mi₂

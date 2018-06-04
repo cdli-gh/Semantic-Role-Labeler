@@ -1,0 +1,109 @@
+id_text,text_name,version,l_no,text
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,1,u₅-a a-u₃-a
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,2,u₃-ru-ru-ŋa₂ he₂-em-ma-gur₄-e
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,3,u₃-ru-ru-ŋa₂ he₂-em-ma-buluŋ₃-e
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,4,{ŋeš}i-ri₉-na-gin₇ ur₂ he₂-gur₄-re
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,5,{u₂}šakir₃-ra-gin₇ pa he₂-tal₂-tal₂-e
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,6,u₃-mu-un ne-ta mu-e-zu me-ta-me
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,7,{ŋeš}hašhur zal-le id₂-de₃ la₂-a-ba
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,8,lu₂ di-de₃ šu-ni ha-ma-an-peš-e
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,9,lu₂ al-nu₂-a šu-ni ha-ma-ab-zi-zi-i
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,10,du₅-mu-ŋu₁₀ u₃-sa₂-ge ša-mu-un-ku₄-ku₄-ku₄
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,11,u₃-sa₂-ge ša-mu-un-ŋa₂-ŋa₂-ŋa₂
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,12,u₃-sa₂ ŋa₂-nu u₃-sa₂ ŋa₂-nu
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,13,u₃-sa₂ ŋa₂-nu ki du₅-mu-ŋa₂-še₃
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,14,u₃-sa₂ kul-u₃ ki du₅-mu-ŋa₂-še₃
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,15,igi lib₄-lib₄-a-ni u₃ ku-ni-ib
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,16,igi gun₃-a-ni šu-zu ŋar-bi
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,17,u₃ eme za ma-li-li-ka-ni
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,18,za ma-al-li-li u₃ na-gul-e
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,19,imŋaŋa₃ ur₂-za hu-mu-ra-an-si
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,20,ga-ar₃ tur-tur ŋe₂₆-e ga-mu-ra-da-ab-dug₃
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,21,ga-ar₃-bi a-zu lu₂-ulu₃-kam
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,22,a-zu lu₂-ulu₃ du₅-mu u₃-mu-un-na-kam
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,23,du₅-mu u₃-mu-un-na {d}šul-gi-ra-kam
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,24,{ŋeš}kiri₆-ŋu₁₀ hi-iz{sar}-am₃ a im-mi-dug₄
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,25,hi-iz{sar} gakkul-am₃ ma₈ im-mi-dug₄
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,26,hi-iz{sar}-bi u₃-mu-un-e he₂-gu₇-e
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,27,u₃-ru-ru-ŋa₂ dam ga-an-na-an-ze₂-eŋ₃
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,28,dam ga-an-na-an-ze₂-eŋ₃ du₅-mu ga-an-na-an-ze₂-eŋ₃
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,29,emeda šag₄ hul₂-la hu-mu-un-da-e
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,30,emeda šag₄ hul₂-la ga he₂-ni-gu₇-e
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,31,me-e du₅-mu-ŋa₂ dam
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,32,du₅-mu aŋ₂ ze₂-ba he₂-en-ši-X-tud
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,33,dam ur₂ kum₂-ma-na he₂-en-nu₂
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,34,du₅-mu a₂ tal₂-tal₂-la-na he₂-en-nu₂
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,35,dam he₂-en-da-ze₂-eb
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,36,du₅-mu he₂-en-da-ze₂-eb
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,37,dam tur ur₂-ra-na ha-ba-hul₂-e
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,38,du₅-mu du₁₀-ub ze₂-ba-na ha-ba-buluŋ₃-e
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,39,zi mu-da-i-ir
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,40,ba-ni-in-kuš₂-u₃-en
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,41,im-ma-si-in mul-e igi bi₂-du₈-ru-un
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,42,ud-sakar igi-ŋa₂ am₃-bar-bar-re
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,43,ŋiri₃-paₓ-ra₂-zu bad₃-da he₂-eb-la₂
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,44,lu₂ bad₃-da-ke₄ er₂ ha-ra-še₈-še₈
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,45,še-en-kilim balaŋ-balaŋ ha-ra-sag₃-ge
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,46,muš-da-gur₄-e te ha-ra-hur-e
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,47,nim-e nundum-a-ni ha-ra-ze₂-e
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,48,eme-šid-e eme-a-ni ha-ra-suh-e
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,49,u₃-a-lum-e he₂-me-lum-lum-e
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,50,u₃-a-lam-e he₂-me-lam-lam-e
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,51,lum-ma-zu-ne lam-ma-zu-ne
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,52,dun₅ {dug}šakir₃-ra
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,53,u₃-sa₂ aŋ₂ ze₂-ba
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,54,ki-nu₂ aŋ₂ ze₂-ba
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,55,gu₂-un u₈-a
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,56,niŋ₂-hul₂-la-da
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,57,dam šukur₂-zu he₂-a du₅-mu
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,58,du₅-mu ha-la-zu he₂-a
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,59,še nir-ra mu-ud-na-zu he₂-a
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,60,{d}ezina₂-{d}ku₃-su₃ a₂-tah-zu
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,61,inim sag₉-sag₉-ge {d}lamma tuku he₂-me-en
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,62,bal ud sag₉-ga a₂ e₃ he₂-me-en
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,63,ezen saŋ-ki zalag-ga he₂-me-en
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,64,du₅-mu-ŋu₁₀ DAG.KISIM₅×X-am₃ aŋ₂ nu-un-zu
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,65,libir-ra-na šid-bi nu-un-zu
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,66,ki-tuš-bi nu-un-zu
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,67,ha-ba-an-pad₃-de₃-en
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,68,he₂-gu₇-e
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,69,
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,70,
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,71,ha-ba-te
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,72,he₂-me-en
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,73,he₂-me-en
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,74,
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,75,
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,76,
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,77,
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,78,mu-un-u₅
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,79,mu-un-u₅
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,80,ki mah
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,81,maš₂ udu anše mu-un-u₅
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,82,mu-un-KAL ŋiš mu-un-u₅
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,83,{d}nin-ka-si gakkul-a mu-un-u₅
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,84,
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,85,{d}NE
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,86,{d}nanna
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,87,zid-de₃
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,88,dam mu-X
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,89,dam sipad-da u₅ gu₂-na mu-un-u₅
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,90,ki-luh mu-nim-mar-ra mu-un-u₅
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,91,peš-tur-ZI nesaŋ-bi-a mu-un-de₆
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,92,u₃ za-e u₃-sa₂-ga nu₂-i₃
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,93,mu-nim-mar-zu pa la₂-la₂-de₃
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,94,{ŋeš}peš₃-gin₇ asila he₂-la₂
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,95,urim₂{ki} zag-bi-še₃ u₃-dub₂-ba gub-bi₂
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,96,unug{ki}-ga zag-bi-še₃ ne-mur-ra gub-bi₂
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,97,ur-ra ka-na bal-e-gin₇ dab₅-ba-ni
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,98,gi-sa-gin₇ a₂-na la₂-ba-ni
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,99,ur-e igi-zu ni₂ u₃-ba-ni-ib-te
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,100,murgu-zu barag-gin₇ he₂-si-il-le
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,101,u₃-šub-bi
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,102,kaš
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,103,an-za-gar₃
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,104,eŋer
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,111,
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,112,amar nu-dar-dar
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,113,til₃-la
+c.2.4.2.14,A lullaby for a son of Šulgi (Šulgi N),,114,lu₂-gin₇

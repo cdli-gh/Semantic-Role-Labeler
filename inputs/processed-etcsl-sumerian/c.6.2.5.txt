@@ -1,0 +1,207 @@
+id_text,text_name,version,l_no,text
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,A1,
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,A2,
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,A3,
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,A4,lu₂
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,A5,ki
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,A6,
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,A7,kug tuku šag₄ an-hul₂ še tuku ur₅ an-sag₉
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,A8,niŋ₂-ur₂-limmu₂ tuku-e u₃ nu-un-da-ku-ku
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,A9,ur-saŋ dili na-nam dili-na lu₂ šar₂-ra-am₃
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,A10,
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,A11,is-hab₂-ba
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,B1,
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,B2,a-a ba-an-ed₃-de₃-de₃-en
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,B3,um{mušen} gu₃ de₂ nu-sag₉
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,B4,an-na ku₆-da engur-ra mul-am₃
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,B5,ud šu₂-šu₂-ru šag₄ hul₂-la e₂-gal-la-kam
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,B6,geme₂-a-kam
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,B7,nu-mu-un-na-kal geme₂
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,B8,gi₄-in-gi₄-in-ne balaŋ ba-ra-an-e₃-eš
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,B9,ga-ša-an-an-na e-duru₂-še₃ tuš-tuš
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,B10,a šu na₄ an-na-kur₉
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,B11,geme₂ niŋ₂ hi-li-a-ke₄ {d}iškur diŋir lugal
+c.6.2.5,Proverbs: of unknown provenance,IM 62823,B12,ukuš₂-gin₇ ki dug₃ hu-mu-dar-e-še
+c.6.2.5,Proverbs: of unknown provenance,BM 80722,A1,{ŋeš}ma₂ dilmun-na tum₉ nu-mir ba-an-da-su
+c.6.2.5,Proverbs: of unknown provenance,BM 80722,A2,ŋiš mah a-zu šu li-bi₂-TAG
+c.6.2.5,Proverbs: of unknown provenance,BM 80722,A3,ki-nu₂ dug₃-ga-zu u₃-sa₂ nu-mu-ni-nu
+c.6.2.5,Proverbs: of unknown provenance,BM 80722,A4,id₂ a mah a mi-ni-ib₂-de₂-a-zu
+c.6.2.5,Proverbs: of unknown provenance,BM 80722,A5,bar-ra-ŋu₁₀ nu-mu-sed₅
+c.6.2.5,Proverbs: of unknown provenance,BM 80722,A6,uš₁₁-ŋu₁₀ nu-mu-ni-til
+c.6.2.5,Proverbs: of unknown provenance,BM 80722,A7,DU-da-za še nu-mu-ni-in-la₂
+c.6.2.5,Proverbs: of unknown provenance,BM 80722,A8,izi-ŋar-zu-ta {gi}šu-bil-la₂-ŋu₁₀ šu bar zid li-bi₂-ak
+c.6.2.5,Proverbs: of unknown provenance,BM 80722,A9,gan du-bu-ul-la ab-naŋ-a saŋ-ki nu-ut-tu-tu-ud-du-bi
+c.6.2.5,Proverbs: of unknown provenance,BM 80722,A10,ha-la-zu gan tur šu te ba-ab-HI-za niŋ₂-bi-a
+c.6.2.5,Proverbs: of unknown provenance,BM 80722,A11,ma-an-ra
+c.6.2.5,Proverbs: of unknown provenance,BM 80722,A12,mu-na-gi-e-še
+c.6.2.5,Proverbs: of unknown provenance,BM 80722,A13,
+c.6.2.5,Proverbs: of unknown provenance,BM 80722,B1,lu₂-dim₃-ma ugu-ŋa₂ di mu-un-dug₄-dug₄-e-še
+c.6.2.5,Proverbs: of unknown provenance,BM 80722,B2,hi-iz-ur-bar-ra{sar} ŋeštin-ka₅-a{sar}-ke₄ {u₂}ug {u₂}piriŋ-GI
+c.6.2.5,Proverbs: of unknown provenance,BM 80722,B3,{u₂}eme-ur-gir₁₅-ra-ke₄ {u₂}niŋ₂-u₂-rum {u₂}gu₃-i₃-ra-ke₄
+c.6.2.5,Proverbs: of unknown provenance,BM 80722,B4,ur-mah gu₃ de₂-de₂
+c.6.2.5,Proverbs: of unknown provenance,BM 80722,B5,mu li-bi₂-in-tuku-e-še
+c.6.2.5,Proverbs: of unknown provenance,BM 80722,B6,ŋiš-šub lu₂-dim₃-ma {d}utu al-dim₂-e
+c.6.2.5,Proverbs: of unknown provenance,BM 80722,B7,ur-saŋ-e šag₄-ŋar-ta i₃-gam
+c.6.2.5,Proverbs: of unknown provenance,BM 80722,B8,ba-an-gam-ma-ta ki-sig₁₀-ga in-na-ab-du-du-ne
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-39,1,
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-39,2,de₅-ga-še₃
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-39,3,
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-39,4,nu-me
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-39,5,šag₄
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-39,6,lul
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-39,7,ki šag₄ iri
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-39,8,
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-39,9,
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-39,10,
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-39,11,
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-39,12,X-un-du₃
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-39,13,lu₂ lu₂
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-39,14,lu₂
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-39,15,
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-39,16,
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-39,17,ŋe₂₆-e
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-39,18,nu-NE-NE-e
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-39,19,
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-39,20,
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-39,21,
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-519,A1,he₂-me-ni-tum₂-ma
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-519,A2,
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-519,A3,
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-519,A4,ŋiš ab-ur₃-ur₃-re-e-eš
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-519,A5,niŋ₂ šag₄ hul₂-la gala-ke₄ na-an-ze₂-en
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-519,A6,šu-na im-ma-ab-ŋa₂-ŋa₂
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-519,A7,igi engar-e mu-e-ši-in-il₂-la
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-519,A8,{d}en-lil₂-le iri nam ku₅-ra₂-ni ha-ba-ši-in-il₂-e
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-519,A9,igi sipad-tur-re mu-e-ši-in-il₂-la
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-519,A10,{d}en-lil₂-le iri nam ku₅-ra₂-ni ha-ba-ši-in-il₂-la
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-519,A11,igi bahar₂-e mu-e-ši-in-il₂-la
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-519,A12,{d}en-lil₂-le iri nam ku₅-ra₂-ni ha-ba-ši-in-il₂-la
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-519,A13,igi nu-{ŋeš}kiri₆-e mu-e-ši-in-il₂-la
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-519,A14,{d}en-lil₂-le iri nam ku₅-ra₂-ni ha-ba-ši-in-il₂-la
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-519,B1,šu gi₄-gi₄-ra šu he₂-en-na-gi₄
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-519,B2,e₂-gal ni₂-bi-še₃ gam-e-dam
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-519,B3,nu-ŋar-ra nu-ŋar-ra dab₅-be₂-X
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-519,B4,dumu-nitah e₂ ad-da-na-ka sa-ra
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-519,B5,niŋ₂-gig {d}nin-urta-kam
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-519,B6,šu gi₄-gi₄ niŋ₂-gig {d}nin-urta-kam
+c.6.2.5,Proverbs: of unknown provenance,UM 29-16-519,B7,ha-la-bi šeš-da gid₂-i niŋ₂-gig {d}nin-urta-kam
+c.6.2.5,Proverbs: of unknown provenance,IM 43438,A1,nir-ŋal₂-e a-na-am₃ bi₂-in-dug₄ nu-sag₉
+c.6.2.5,Proverbs: of unknown provenance,IM 43438,A2,nir-ŋal₂-e kug-zu-kam ukur₃ šu dib-ba šu ŋar ŋal₂-la aratta{ki}
+c.6.2.5,Proverbs: of unknown provenance,IM 43438,A3,dam e₂ e₂
+c.6.2.5,Proverbs: of unknown provenance,IM 43438,A4,dam-ŋu₁₀ dam
+c.6.2.5,Proverbs: of unknown provenance,IM 43438,A5,zag tur-ra dug₃-ga
+c.6.2.5,Proverbs: of unknown provenance,IM 43438,B1,nin u₃-ma-ta-ŠEŠ-ŠEŠ li-bi-dug₄-Xbr
+c.6.2.5,Proverbs: of unknown provenance,IM 43438,B2,e₂ ad-ta gul-gul
+c.6.2.5,Proverbs: of unknown provenance,IM 43438,B3,gu₅-li an-na
+c.6.2.5,Proverbs: of unknown provenance,IM 43438,B4,lu₂ niŋ₂-tuku lu₂ niŋ₂ nu-tuku gig-še₃ in-ŋar
+c.6.2.5,Proverbs: of unknown provenance,IM 43438,B5,i₃-ŋal₂ nam-tar-zu ad nu-ni-ŋal₂
+c.6.2.5,Proverbs: of unknown provenance,IM 43438,B6,niŋ₂-gig-zu he₂-a niŋ₂-tuku ha-la ba-zu he₂-a
+c.6.2.5,Proverbs: of unknown provenance,IM 43438,B7,ur-idim-bi ur-gir₁₅ ur
+c.6.2.5,Proverbs: of unknown provenance,IM 43438,B8,lu₂ ur-a
+c.6.2.5,Proverbs: of unknown provenance,YBC 8713,1,niŋ₂-gen₆-na-da
+c.6.2.5,Proverbs: of unknown provenance,YBC 8713,2,a-ba mu-un-da-sa₂
+c.6.2.5,Proverbs: of unknown provenance,YBC 8713,3,niŋ₂-erim₂-me a₂-bi
+c.6.2.5,Proverbs: of unknown provenance,YBC 8713,4,{ŋeš}ma₂ niŋ₂-gen₆-na ni₂ ba-ra-dirig
+c.6.2.5,Proverbs: of unknown provenance,YBC 8713,5,{d}utu kar gen₆-na X-kiŋ₂-kiŋ₂
+c.6.2.5,Proverbs: of unknown provenance,YBC 8713,6,lu₂ dam-a-ni
+c.6.2.5,Proverbs: of unknown provenance,YBC 8713,7,e₂-kinkin-na du₈ he₂-ŋal₂ geme₂ ha-ba-ra-be₂-e-še
+c.6.2.5,Proverbs: of unknown provenance,YBC 8713,8,geme₂ lul-la kar
+c.6.2.5,Proverbs: of unknown provenance,YBC 8713,9,ŋiš-gan-na šu-dib nu-tuku
+c.6.2.5,Proverbs: of unknown provenance,YBC 8713,10,igi ba-KAL-KAL teš₂-bi la₂
+c.6.2.5,Proverbs: of unknown provenance,YBC 8713,11,pa₅ nam-gu₅-li
+c.6.2.5,Proverbs: of unknown provenance,YBC 8713,12,
+c.6.2.5,Proverbs: of unknown provenance,YBC 4677,1,šah₂ niga he₂-šum-e
+c.6.2.5,Proverbs: of unknown provenance,YBC 4677,2,niŋ₂ i₃-gu₇-a ga-ra-ab-gi₄
+c.6.2.5,Proverbs: of unknown provenance,YBC 4677,3,{šah₂}ze₂-eh tur-e al-gud-gu₄-ud-de₃
+c.6.2.5,Proverbs: of unknown provenance,YBC 4677,4,sag₉-ga-aš ŋe₂₆-e nu-ub-gu₇
+c.6.2.5,Proverbs: of unknown provenance,YBC 4677,5,niŋ₂ am₃-da-tuku-tuku igi am₃-da-uru₃-e
+c.6.2.5,Proverbs: of unknown provenance,YBC 4677,6,niŋ₂ ha-lam-ma diŋir-ra-kam
+c.6.2.5,Proverbs: of unknown provenance,YBC 4677,7,šu tu-tu nu-ub-zu
+c.6.2.5,Proverbs: of unknown provenance,YBC 4677,8,{d}en-lil₂-le a-na-am₃ in-ak
+c.6.2.5,Proverbs: of unknown provenance,YBC 4677,9,in-bul-bul {urud}šukur ma-an-e₃
+c.6.2.5,Proverbs: of unknown provenance,YBC 4677,10,su-ŋu₁₀ ib₂-te-te
+c.6.2.5,Proverbs: of unknown provenance,YBC 4677,11,{d}en-lil₂ i₃-zig₃-ge-en-na-ŋu₁₀ {tug₂}niŋ₂-dara₂-ŋu₁₀ du-um
+c.6.2.5,Proverbs: of unknown provenance,MLC 618,1,{d}en-lil₂
+c.6.2.5,Proverbs: of unknown provenance,MLC 618,2,in-a niŋ₂-gig
+c.6.2.5,Proverbs: of unknown provenance,MLC 618,3,maš₂ ba-da-DU
+c.6.2.5,Proverbs: of unknown provenance,MLC 618,4,
+c.6.2.5,Proverbs: of unknown provenance,MLC 618,5,ur₂
+c.6.2.5,Proverbs: of unknown provenance,MLC 618,6,
+c.6.2.5,Proverbs: of unknown provenance,MLC 618,7,
+c.6.2.5,Proverbs: of unknown provenance,UM 29-15-748,1,lu₂ niŋ₂
+c.6.2.5,Proverbs: of unknown provenance,UM 29-15-748,2,tar-re
+c.6.2.5,Proverbs: of unknown provenance,UM 29-15-748,3,šeš-gal-la sun₅-sun₅-X
+c.6.2.5,Proverbs: of unknown provenance,UM 29-15-748,4,šeš-e dam
+c.6.2.5,Proverbs: of unknown provenance,UM 29-15-748,5,mu-un-ne-X a₂-a bi₂-in-taka₄
+c.6.2.5,Proverbs: of unknown provenance,UM 29-15-748,6,šah₂-e niŋ₂ mu-un-la₂ me-a dam-ŋu₁₀ im-me
+c.6.2.5,Proverbs: of unknown provenance,UM 29-15-748,7,nam-tar u₃-mu-un-na-te
+c.6.2.5,Proverbs: of unknown provenance,BM 57994,A1,lu₂ {ŋeš}ma₂ lu₂ niŋ₂ kab₂-a di-da
+c.6.2.5,Proverbs: of unknown provenance,BM 57994,A2,gal₄-la tug₂-ga šu tag-ga
+c.6.2.5,Proverbs: of unknown provenance,BM 57994,A3,niŋ₂-gig {d}suen-na-kam
+c.6.2.5,Proverbs: of unknown provenance,BM 57994,B1,nin
+c.6.2.5,Proverbs: of unknown provenance,BM 57994,B2,
+c.6.2.5,Proverbs: of unknown provenance,BM 57994,B3,
+c.6.2.5,Proverbs: of unknown provenance,CBS 6565,1,
+c.6.2.5,Proverbs: of unknown provenance,CBS 6565,2,a-na-gin₇-nam niŋ₂ i₃-gu₇-a-ŋu₁₀ gub-ba-e-še
+c.6.2.5,Proverbs: of unknown provenance,CBS 6565,3,muš-lah₅-e muš an-da-ŋal₂
+c.6.2.5,Proverbs: of unknown provenance,CBS 6565,4,zu₂ mu-ra-ze₂-X
+c.6.2.5,Proverbs: of unknown provenance,CBS 6565,5,
+c.6.2.5,Proverbs: of unknown provenance,CBS 6855,1,ud-da-tuš
+c.6.2.5,Proverbs: of unknown provenance,CBS 6855,2,
+c.6.2.5,Proverbs: of unknown provenance,CBS 6855,3,igi-a utul₂-zu
+c.6.2.5,Proverbs: of unknown provenance,CBS 6855,4,ud-da-tuš
+c.6.2.5,Proverbs: of unknown provenance,CBS 6855,5,
+c.6.2.5,Proverbs: of unknown provenance,Free Library of Philadelphia unnumbered,1,di niŋ₂-gen₆-na hul-a
+c.6.2.5,Proverbs: of unknown provenance,Free Library of Philadelphia unnumbered,2,di niŋ₂-erim₂-e ki aŋ₂
+c.6.2.5,Proverbs: of unknown provenance,Free Library of Philadelphia unnumbered,3,niŋ₂-gig {d}utu-kam
+c.6.2.5,Proverbs: of unknown provenance,MM 1134,1,mušen
+c.6.2.5,Proverbs: of unknown provenance,MM 1134,2,mušen saŋ
+c.6.2.5,Proverbs: of unknown provenance,MM 1134,3,mušen i₃-udu mušen-bi bur
+c.6.2.5,Proverbs: of unknown provenance,YBC 7301,1,gud šu-gi₄ ki ni₁₀-ni₁₀-da kaš₄ u₃-bi₂-in-du
+c.6.2.5,Proverbs: of unknown provenance,YBC 7301,2,usu niŋ₂ ud-bi-da-ŋu₁₀ ni₂-me-en gur-e-še
+c.6.2.5,Proverbs: of unknown provenance,YBC 7301,3,iri re-ta e-da i₃-me-am₃ usu-ŋu₁₀ niŋ₂-tukum-ta-e-še
+c.6.2.5,Proverbs: of unknown provenance,YBC 7345,1,kud-kud gi-gur ba-an-dab
+c.6.2.5,Proverbs: of unknown provenance,YBC 7345,2,inim-ma-a-ni-ra lu₂ al-sag₃-e
+c.6.2.5,Proverbs: of unknown provenance,YBC 7345,3,lu₂-ulu₃ al-NI-DI
+c.6.2.5,Proverbs: of unknown provenance,YBC 7351,1,di-kud niŋ₂-gen₆-na hul-a aš₂ a₂ zid-da bal-e
+c.6.2.5,Proverbs: of unknown provenance,YBC 7351,2,dumu-nitah tur-ra e₂ ad-da-na-ka ib₂-ta-an-sar-re
+c.6.2.5,Proverbs: of unknown provenance,YBC 7351,3,niŋ₂-gig {d}nin-urta-ke₄
+c.6.2.5,Proverbs: of unknown provenance,YBC 7352,1,lu₂ inim gen₆-na bal-bal
+c.6.2.5,Proverbs: of unknown provenance,YBC 7352,2,inim diŋir-ra-ni-ta nam-tar sag₉-ga-am₃
+c.6.2.5,Proverbs: of unknown provenance,YBC 7352,3,ud šu₂-uš mu-da-ŋal₂
+c.6.2.5,Proverbs: of unknown provenance,Emory 106,1,lugal-ŋu₁₀ en an-na šu du₇
+c.6.2.5,Proverbs: of unknown provenance,Emory 106,2,ambar a-ri-a e₂ bi₂-in-du₃
+c.6.2.5,Proverbs: of unknown provenance,NBC 8070,1,ur₃ lugal-bi-ir nu-gub-ba
+c.6.2.5,Proverbs: of unknown provenance,NBC 8070,2,{ŋeš}alal-bi a nu-um-de₂-e-še
+c.6.2.5,Proverbs: of unknown provenance,P 374,1,ka₅-a ŋeštug-bi al-gig
+c.6.2.5,Proverbs: of unknown provenance,P 374,2,ŋiri₃-bi al-guz-e
+c.6.2.5,Proverbs: of unknown provenance,YBC 7320,1,a-la-zu ni e₂ du₃-du₃-a
+c.6.2.5,Proverbs: of unknown provenance,YBC 7320,2,nam-tur-ra dam tuku
+c.6.2.5,Proverbs: of unknown provenance,YBC 7331,1,inim-inim niŋ₂-si-sa₂ tum₂-ma
+c.6.2.5,Proverbs: of unknown provenance,YBC 7331,2,{d}id₂-lu₂-ru-gu₂ šag₄-bi u₆ di-e
+c.6.2.5,Proverbs: of unknown provenance,YBC 7344,1,lu₂-ulu₃ diŋir-da nu-me-a
+c.6.2.5,Proverbs: of unknown provenance,YBC 7344,2,nu la-ba-gu nu la-ba-tur-ra
+c.6.2.5,Proverbs: of unknown provenance,YBC 7347,1,lu₂ igištu-ke₄ izi al-gu₇-e
+c.6.2.5,Proverbs: of unknown provenance,YBC 7347,2,lu₂ eŋer na-ab-be₂ me-am₃ lu₂ du₁₁-saŋ
+c.6.2.5,Proverbs: of unknown provenance,YBC 7348,1,amaš šeg₉-bar-ŋu₁₀ en-nam
+c.6.2.5,Proverbs: of unknown provenance,YBC 7348,2,ildum₂ ₅₀-am₃ u₂-a ba-an-lu
+c.6.2.5,Proverbs: of unknown provenance,YBC 7693,1,ŋiš-gu₂-ka ha-mu-ra-an-KU
+c.6.2.5,Proverbs: of unknown provenance,YBC 7693,2,engar gu₄-ra-ke₄ addir ha-mu-ra-an-sag₃-ge
+c.6.2.5,Proverbs: of unknown provenance,YBC 9908,1,niŋ₂-gur₁₁ niŋ₂-gur₁₁ lugal
+c.6.2.5,Proverbs: of unknown provenance,YBC 9908,2,an-ku₄-ku₄ nu-si-sa₂ ab-ta-e₃-a nu-silig-ge
+c.6.2.5,Proverbs: of unknown provenance,YBC 9916,1,lu₂ {kuš}a₂-ŋa₂-la₂-ni nu-keše₂-da gu₅-li-ni-da
+c.6.2.5,Proverbs: of unknown provenance,YBC 9916,2,šag₄ bi₂-in-dab₅
+c.6.2.5,Proverbs: of unknown provenance,Homsy 21,1,mu sa₄-sa₄ ur inim {d}šakkan₂-ta
+c.6.2.5,Proverbs: of unknown provenance,Homsy 22,1,nin amar an-na pad₃-da nu-pad₃-da
+c.6.2.5,Proverbs: of unknown provenance,NBC 8072,1,{d}lum-ma lu₂ niŋ₂ sag₉-ga-ra sag₉-ga-aš he₂-na-ŋal₂
+c.6.2.5,Proverbs: of unknown provenance,P 376,1,{ŋeš}banšur {d}en-lil₂-la₂-ka ba-ŋal₂-la
+c.6.2.5,Proverbs: of unknown provenance,TIM 10/1 2,1,a-ba zi-bi mu-un-tuku-e-še
+c.6.2.5,Proverbs: of unknown provenance,UIOM 1999,1,iri ad₄-lu₂-u₃-ka ba-za lu₂-kaš₄-e-kam
+c.6.2.5,Proverbs: of unknown provenance,YBC 1993,1,na₄ kalag-ga-gin₇ ki-zu₂-ur₅-ra nu-tuku
+c.6.2.5,Proverbs: of unknown provenance,YBC 7282,1,a-a hi-li a-a keše₂ saŋ ama bi₂-dug₄
+c.6.2.5,Proverbs: of unknown provenance,YBC 7297,1,KU.ŊA₂.NUN-tir-ra{mušen} gu₃ de₂ {ŋeš}šinig-am₆ me-te-bi
+c.6.2.5,Proverbs: of unknown provenance,YBC 7300,1,TUR.UZ.ZA{mušen} gu₃ de₂ ambar-am₃ me-te-bi
+c.6.2.5,Proverbs: of unknown provenance,YBC 8934,1,ga-ra-ab-šum₂-bi lu₂-ra ga-ni-in-us₂
+c.6.2.5,Proverbs: of unknown provenance,YBC 8937,1,lugal dub-sar lugal dur mah id₂-da gib-ba
+c.6.2.5,Proverbs: of unknown provenance,YBC 9906,1,lu₂ si sa₂-ra {na₄}kinkin id₂-da mu-na-dirig-dirig
+c.6.2.5,Proverbs: of unknown provenance,YBC 9912,1,haš₂ ba-ra-an-gid₂-nam lu₂ še-ŋiš-i₃ bi₂-ib₂-il₂-il₂

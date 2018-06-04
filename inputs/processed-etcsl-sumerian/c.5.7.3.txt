@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+c.5.7.3,An axe for Nergal,,1,nibru{ki}-ta-lu₂
+c.5.7.3,An axe for Nergal,,2,dumu lugal-šuba dam-gar₃-ra-ke₄
+c.5.7.3,An axe for Nergal,,3,{d}nergal-ra
+c.5.7.3,An axe for Nergal,,4,ha-zi-in nagga mu-na-ni-in-dim₂
+c.5.7.3,An axe for Nergal,,5,ŋiš-bi {ŋeš}ar-ga-nu-um hur-saŋ-ŋa₂
+c.5.7.3,An axe for Nergal,,6,a-lal₃-e dirig-ga-am₃
+c.5.7.3,An axe for Nergal,,7,na₄-bi an-ta-sur-ra-am₃
+c.5.7.3,An axe for Nergal,,8,gaba-ri nu-tuku-am₃
+c.5.7.3,An axe for Nergal,,9,he₂-sag₃-ge a₂-ni na-an-kuš₂-u₃
+c.5.7.3,An axe for Nergal,,10,he₂-eb₂-ta-TAR-e
+c.5.7.3,An axe for Nergal,,11,ga-mu-na-ab-silim
+c.5.7.3,An axe for Nergal,,12,u₂-gu he₂-ni-ib-de₂-e
+c.5.7.3,An axe for Nergal,,13,ki-bi ga-mu-na-ab-gi₄
+c.5.7.3,An axe for Nergal,,14,ud til₃-la-ŋa₂ igi hu-mu-un-du₈
+c.5.7.3,An axe for Nergal,,15,ud ba-ug₇-en kur-ra
+c.5.7.3,An axe for Nergal,,16,a sig₉-ga hu-mu-un-na₈-na₈

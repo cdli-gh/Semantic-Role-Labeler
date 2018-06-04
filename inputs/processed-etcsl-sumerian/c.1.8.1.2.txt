@@ -1,0 +1,277 @@
+id_text,text_name,version,l_no,text
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,A1,šul me₃-ka šul me₃-ka en-du-ni ga-an-dug₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,A2,en {d}gilgameš₂ šul me₃-ka en-du-ni ga-an-dug₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,A3,a₂-ur₂ sag₉-sag₉ šul me₃-ka en-du-ni ga-an-dug₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,A4,en kalag-kalag-ga šul me₃-ka en-du-ni ga-an-dug₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,A5,en {na₄}su₁₁ ku₁₀-ku₁₀ šul me₃-ka en-du-ni ga-an-dug₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,A6,ŋešpu₂ lirum šul me₃-ka en-du-ni ga-an-dug₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,A7,lugal šul ama
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,A8,lugal-ŋu₁₀
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,A9,en-ŋu₁₀ {ŋeš}kiri₆ {ŋeš}za-ba-lum
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,A10,kisal
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,A11,ŋi₆-par₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B1,
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B2,kisal
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B3,kisal mah-a me₃ nu-me-a lu₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B4,e₂-la₂-e e₂-la₂-e igi
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B5,kug {d}inana-ke₄ e₂-la₂-e igi
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B6,e₂-gal abzu-ta e₂-la₂-e igi mu-un-ba-X
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B7,am-ŋu₁₀ lu₂-ŋu₁₀ ME.EN.NE.EN šu nu-ri-bar-re
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B8,en {d}gilgameš₂ am-ŋu₁₀ lu₂-ŋu₁₀ šu nu-ri-bar-re
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B9,e₂-an-na-ka di kud-de₃ šu nu-ri-bar-re
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B10,ŋi₆-par₄ kug-ŋa₂ ka-aš bar-re šu nu-ri-bar-re
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B11,e₂-an-na an-ne₂ ki aŋ₂ di kud-de₃ šu nu-ri-bar-re
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B12,{d}gilgameš₂ za-e u₃-NE he₂-me-en za-e gud he₂-e
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B13,niŋ₂-ba {d}inana ŋi₆-par₄-zu-še₃ nam-ba-ni-ku₄-ku₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B14,{d}nin-e₂-gal a₂ nam-ur-saŋ-ŋa₂-ke₄-eš₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B15,{d}inana nin e-sir₂-ŋu₁₀ za-e nam-ba-ni-in-TAR
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B16,gud kur-ra ga-an-dug₄ tur₃-ba ga-am₃-mi-ib-si
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B17,udu kur-ra ga-an-dug₄ amaš-ba ga-am₃-mi-ib-si
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B18,kug {na₄}gug i₃-ŋar i-sur-sur-me-eš nam-X-X
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B19,in-nin₉-e gu₃ ba-an-de₂ ba-an-pa-an
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B20,{d}inana-ke₄ gu₃ ba-de₂ ba-an-pa-an
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B21,za-e i-ra-an-dug₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B22,za-ra ma-ra-an-dug₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B23,nu-du₃ {d}gilgameš₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B24,
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B25,
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B26,
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B27,tug₂-da-a
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B28,ib-ta-ni-in-ŋar
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B29,
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B30,
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B31,šag₄-bi
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B32,kuš-bi
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B33,uš₂-bi
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B34,
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B35,{d}inana-ke₄ a ši-im-lu-lu šurum
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B36,an-ne₂ ki aŋ₂-ŋu₁₀
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B37,gi-dur im-ma-ni-in-dab₅ an
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B38,lu₂-tur-ŋu₁₀ a-ba-kam a ši-lu₃-lu₃-e id₂ šurum
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B39,gud gal šu bar-ra unug{ki}-ga
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B40,gud gal {d}gilgameš₂ šu bar-ra unug{ki} ba₉-re₆
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B41,mu ni₂-ŋa₂ nu-mu-na-ab-ze₂-ŋe₂₆
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B42,a ši-im-lu₃-lu₃-e šurum gur₄-gur₄-re
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B43,a-a-ŋu₁₀ gud an-na ha-ma-ze₂-eŋ₃-e
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B44,en ga-mu-un-ug₅-ga en ga-mu-un-ug₅-ga
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B45,en {d}gilgameš₂ en ga-mu-un-ug₅-ga
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B46,an gal-e kug {d}inana-ke₄ mu-na-ni-ib₂-gi-gi₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B47,lu₂-tur-ŋu₁₀ gud an-na u₂-gu₇-bi in-nu an-ur₂-ra u₂-gu₇-bi-im
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B48,ki-sikil {d}inana gud an-na ki {d}utu e₃-a-še₃ u₂ im-da-gu₇-e
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B49,za-e gud an-na nu-mu-e-da-ab-ze₂-eŋ₃-en
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B50,kug {d}inana-ke₄ gu₂ mu-na-ni-ib₂-gi-gi
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B51,ŋe₂₆-e gu₃ ba-de₂-e-en an ki-še₃ a-ba-da-te
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B52,ni₂ ba-da-an-te ni₂ ba-da-an-te
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B52A,inana ni₂ ba-da-an-te
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B53,an gal kug {d}inana-ke₄ mu-na-ni-ib₂-gi-gi
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B54,gud an-na hu-mu-na-ab-ze₂-ŋe₂₆
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B55,ki-sikil {d}inana nam-nitah-gin₇ saman za-gin₃-na šu ba-ni-in-du₈
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B56,kug {d}inana-ke₄ gud an-na an-ta-e₃
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B57,gud unug{ki}-ga-ke₄ u₂ mu-gu₇-e
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B58,id₂ a-ŋi₆ uru₁₆ lu-a a i₃-na₈-na₈
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B59,id₂ a-ŋi₆ uru₁₆ lu-a gaba ₁ danna-ta ib₂-sa₂ šag₄-bi nu-si-si
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B60,u₂ mu-un-gu₇-e ki im-sig₉-ge
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B61,{ŋeš}ŋišnimbar unug{ki}-ga al-kud-de₃ ka-bi-še₃ i₃-gur-gur
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B62,gud gub-ba unug{ki}-e im-si
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B63,gud an-na ni₂-a-ni kul-aba₄{ki} im-si
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B64,nar-a-ni
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B65,igi il₂-a-ni
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B66,gam-gam-ma-ni
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B67,
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B68,en {d}gilgameš₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B69,inana gud an-na
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B70,gud unug{ki}
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B71,id₂ a-ŋi₆ lu a na₈-na₈
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B72,id₂ a-ŋi₆ lu danna-ta-am₃ ib₂-si šag₄-bi nu-si-si
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B73,u₂ mu-gu₇-e ki im-sig₉-ge-e
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B73A,nin-ni
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B73B,{d}gilgameš₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B73C,ama-ŋu₁₀
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B73D,nin₉-ŋu₁₀ e₂-a
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B73E,gud dur₂-bi-še₃ i-im-ma-X
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B73F,udu dur₂-bi-še₃ i-im-ma-X
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B73G,kaš dur₂-bi-še₃
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B73H,{d}gilgameš₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B73J,gud an-na u₃ za-e
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B73K,u₃ za-e nu-ub-sig₁₀-ge
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B73L,{d}gilgameš₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B74,šaŋan
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B75,mu-na-ni-ib₂-gi-gi
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B76,lu₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B77,mu-na-ni-ib₂-gi-gi
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B78,šaŋan a
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B79,ad₆-zu sila sig₉-ga he₂-en-šub
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B80,šag₄-mah-zu sila daŋal-la he₂-en-šub
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B81,kuš-zu su-si-ig-ga-aš he₂-en-šub
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B82,uzu-zu dumu nu-mu-un-su-a-ke₄ dumu iri-ke₄ {ŋeš}dusu-ta ga-am₃-ta-ha-la
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B83,si-zu ₂-a-bi šaŋan i₃ dug₃-ga-še₃ {d}inana-ra e₂-an-na-še₃ ga-mu-na-an-ŋar
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B84,inana bad₃ igi mu-ni-la₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B85,gud-de₃ sahar-ra gu₃ bi₂-in-dug₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B86,en {d}gilgameš₂ saŋ-du-ta i₃-du
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B87,en-ki-du₁₀ dur lib-ba-na ba-an-ed₃
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B88,dumu iri-na mu-un-da-ni-re₇-eš-am₃ amar ŋiš nu-zu sahar ba-e-ne-ši-dul₅
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B89,en-ki-du₁₀ eŋer gud-da-še₃ im-mi-gub ka mu-un-niŋin₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B90,lugal-a-ni-ir {d}gilgameš₂-ra gu₃ mu-na-de₂-e
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B91,i₃-a lum-lum u₃-luh-ha sud-sud
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B92,dumu-gir₁₅ giri₁₇-zal diŋir-re-ne
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B93,gud lipiš-tuku me₃-a gub-ba
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B94,en gal {d}gilgameš₂ unug{ki} bi₂-in-dug₄-ga
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B95,ama-zu dumu u₃-tud-da mah-bi he₂-em-zu
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B96,emeda-ga-la₂-zu dumu-ra ga-ba mah-bi he₂-em-zu
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B96A,en dumu-gir₁₅
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B97,ni₂ na-teŋ₃-ŋe₂₆ ur-saŋ-ŋa₂ usu nu-tuku ni₂-te-a-ni
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B98,ki a-ra₂ gen₆-na
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B99,{urud}ha-zi-in
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B100,gud-de₃
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B101,gud an-na
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B102,a-gin₇
+c.1.8.1.2,Gilgameš and the bull of heaven,Unknown Provenance,B103,
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A1,šul me₃-kam šul me₃-kam in-du-ni ga-an-dug₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A2,en {d}gilgameš₂ šul me₃-kam in-du-ni ga-an-dug₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A3,en su ku₁₀-ku₁₀ šul me₃-kam in-du-ni ga-an-dug₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A4,a₂-ur₂ sag₉-sag₉ šul me₃-kam in-du-ni ga-an-dug₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A5,šul me₃-kam in-du-ni ga-an-dug₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A6,niŋ₂-erim₂ du₇-du₇ šul me₃-kam in-du-ni ga-an-dug₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A7,lugal-e en-e ama ugu-ne-ra ta-a-ni-X id₂-da
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A8,en-ŋu₁₀ {ŋeš}kiri₆ {ŋeš}za-ba-al-še₃ kur₉-NE kiŋ₂-a-zu-ne
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A9,en ŋi₆-par₄-ta udu nir-ra-am₃ siki am₃-ze₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A10,saŋ-ŋa₂-ke₄ dur₂ bi-ŋar
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A11,lugal-e gi-sal-la gu₂ gur₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A12,nun gi-sal-la gi lum-lum-ma-gin₇ mu-ši-ib-šu₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A13,niŋ₂-erim₂-bi za-e X-šu₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A14,ama ugu-ne-ra mu-un-X-na-šum₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A15,kisal daŋal-la
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A16,{d}gilgameš₂ ŋiš buluŋ₃
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A17,gul-gul-e
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A18,kisal mah-e
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A19,ud-bi-a e₂-la₂-e
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A20,kug {d}inana-ke₄ e₂-la₂-e igi mu-un-bar
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A21,e₂ abzuₓ-ta e₂-la₂-e igi mu-un-bar
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A22,am-ŋu₁₀ lu-ŋu₁₀ šu nu-ri-bar-re
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A23,{d}gilgameš₂ šu nu-ri-bar-re
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A24,e₂-an-na-ŋu₁₀ di kud-de₃ šu nu-ri-bar-re
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A25,ŋi₆-par₄ gu₂-ŋu₁₀ kaš bar-re šu nu-ri-bar-re
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A26,e₂-an-na an-na ki aŋ₂ di kud-de₃ šu nu-ri-bar-re
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A27,{d}gilgameš₂ za-e ŋe₂₆-e
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A28,lugal-e ka-ga₁₄-ne
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A29,lugal-e ama ugu-ne-ra
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A30,{d}gilgameš₂ {d}nin-sumunₓ
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A31,ama ugu-ŋu₁₀ en-gin₇ uzu
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A32,{ŋeš}ig abula-ke₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A33,suh₁₀ bad₃-ke₄ ŋar-ŋar
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A34,am-ŋu₁₀ lu-ŋu₁₀ šu nu-mu-ni-bar-re
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A35,{d}gilgameš₂ šu nu-mu-ni-bar-re
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A36,e₂-an-na-ŋu₁₀ di mu-un-kud-de₃ šu nu-mu-ni-bar-re
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A37,ŋi₆-par₄ gu₂-ŋu₁₀ kaš mu-un-bar-re šu nu-mu-ni-bar-re
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A38,e₂-an-na an-na ki aŋ₂-a-ni
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A39,{d}gilgameš₂ za-e me₃ ŋe₂₆-e
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A40,ama ugu-ne-ra ur₅-gin₇ mu-un-na-ab-be₂-ak-ka
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,A41,ama ugu-ne {d}gilgameš₂-ra mu-na-ni-ib-gi₄-gi₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B1,kug {d}inana
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B2,an-e
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B3,dur an-na
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B4,an-e kug {d}inana-ra X-e
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B5,lu₂-tur-ŋu₁₀
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B6,{d}inana X-gi₄-gi₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B7,
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B8,
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B9,
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B10,
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B11,
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B12,
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B13,gi
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B14,
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B15,X-gu₇-e
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B16,gi
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B17,X-ab-be₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B18,sag₃
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B19,gud mu-ra-ra
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B20,šum₂-mu
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B21,šum₂-mu
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B22,
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B23,
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B24,X-gu₇-e
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,B25,X-gu₇-e
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,C1,
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,C2,naŋ
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,C3,gu₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,C4,mu-un-na-te
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,C5,igi im-ma-an-sig₁₀
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D1,
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D2,
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D3,a naŋ
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D4,
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D5,nar-ŋu₁₀ lugal-gaba-ŋar en₃-du-zu da-ga-ab sa-a-zu si-bi₂-ib
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D6,kaš mu-un-naŋ zabar sila₃ gi₄-bi-ib
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D7,lugal-gaba-ŋar {d}gilgameš₂ lugal-a-ni-ra gu₃ mu-na-ni-ib-gi₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D8,lugal-ŋu₁₀ za-e u₂ da-an-gu₇-e za-e a da-an-na₈-na₈
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D9,ŋe₂₆-e inim-bi a-na-am₃ mu-X
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D10,gud-e ra-ra-de₃
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D11,{d}gilgameš₂ gud-e ra-ra-de₃
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D12,ib₂-ba-ru ₅₀ ma-na-am₃
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D13,ŋiri₂ ₇ gu₂-un ₃₀ ma-na-am₃
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D14,ha-zi-in
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D15,ama ugu-ŋu₁₀
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D16,nin₉-a-ni
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D17,ama ugu-ni
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D18,{d}peš₃-tur nin₉ ban₃-da
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D19,{d}gilgameš₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D20,ama ugu-ŋu₁₀ e₂ {d}en-ki
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D21,{d}peš₃-tur nin₉ ban₃-da e₂-a-ni
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D22,gud dur-be₂-eš i-in-gi
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D23,udu dur-be₂-eš i-in-gi
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D24,gud an-na za-e za-e
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D25,u₃ za-e ba-an-ze₂-ge-eš
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D26,u₃ ŋe₂₆-e ba-an-ze₂-ge-eš
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D27,tukum-bi ba-an-ze₂-ge
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D28,kuš-zu sila-še₃ he₂-em-ma-ab-šum₂-mu
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D29,šag₄-mah-zu sila daŋal-la he₂-em-ma-ab-šum₂-mu
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D30,uzu-zu dumu mu-un-su iri-ŋa₂-ke₄-ne {ŋeš}dusu-ta he₂-em-ta-ba-e-ne
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D31,kuš-zu su-sig-še₃ he₂-em-ma-ab-šum₂-mu
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D32,si-zu ₂-ab₂-bi šaŋan i₃ dug₃-ga-še₃ {d}inana-ra e₂-an-na-ka he₂-em-ta-bal-e
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D33,gud-e sahar-ra
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D34,{d}gilgameš₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D35,{d}en-ki-du₃
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D36,dumu iri{ki}-na
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D37,amar ŋeštug₂-zu-gin₇ sahar-ra
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D38,{d}en-ki-du₃ saŋ gud-kam bi-ib-gub en {d}gilgameš₂ gu₂ mu-un-na-de₂-a
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D39,ia₄ lum-lum u₂-luh-ha sud-sud
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D40,dumu-gir₁₅ giri₁₇-zal diŋir-re-e-ne
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D41,gud lipiš šag₄ tuku me₃ an-gub-ba
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D42,ur-saŋ šu-zu šu
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D43,lu₂-ulu₃
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D44,lu₂-ulu₃
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D45,{d}en-ki-du {d}gilgameš₂-ra ur₅-gin₇ hu-mu-un-na-ab-e₂-ak-ke₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D46,{d}gilgameš₂ ha-zi-in ₇ gu₂-un-am₃ ugu-bi e-ne ba-an-sag₃
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D47,gud-e saŋ il₂-la il₂-la im-ma-ab-dirig
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D48,im-gin₇ mu-lu₃-lu₃ buru₁₄-gin₇ im-šu₂-šu₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D49,lugal-e muhaldim gal nu-me-a ŋiri₂ šu-ni ba-an-dab₅
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D50,{d}inana-ke₄ zag dib-ba ba-an-sag₃ tum₁₂-gur₄{mušen}-gin₇ ba-an-dal-dal bad₃-bi i₃-gul-e
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D51,lugal-e saŋ gud-kam bi₂-in-gub er₂ gig i₃-šeₓ-šeₓ
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D52,ur₅-ra-ta ŋe₂₆-e mu-un-da-gul-e ur₅-ra-am₃ i₃-kiŋ₂-de₃
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D53,bi₂-in-dug₄-ga-gi-na
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D54,kuš-bi sila-še₃ im-ma-ab-šum₂-mu
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D55,šag₄-mah-bi sila daŋal-la im-ma-ab-šum₂-mu
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D56,uzu-bi dumu nu-mu-un-su iri{ki}-na-ke₄-ne {ŋeš}dusu-ta he₂-em-ta-ba-e-ne
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D57,kuš-bi su-si-ig-še₃ im-ma-ab-šum₂-mu
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D58,si-bi ₂-a-bi {ŋeš}šaŋan i₃ dug₃-ga-ke₄ kug {d}inana-ke₄ e₂-an-na-ke₄ he₂-em-ta-da-bal-e
+c.1.8.1.2,Gilgameš and the bull of heaven,Me-Turan,D59,gud an-na ug₅-ga kug {d}inana-ke₄ za₃-mi₂-zu dug₃-ga
+c.1.8.1.2,Gilgameš and the bull of heaven,Ur III,A1,a ŋi₆-par₃ si-ki
+c.1.8.1.2,Gilgameš and the bull of heaven,Ur III,A2,{ŋeš}U₃ dub-saŋ-ŋa₂-kam dur₂ bi-in-ŋar
+c.1.8.1.2,Gilgameš and the bull of heaven,Ur III,A3,sug-ga ŋal₂-la-a-bi
+c.1.8.1.2,Gilgameš and the bull of heaven,Ur III,A4,lugal-ŋu₁₀ sug-ga ŋal₂-la-a-bi {ŋeš}ŋisal-a gu₂ gur-de₃
+c.1.8.1.2,Gilgameš and the bull of heaven,Ur III,A5,mu-un {ŋeš}ŋisal gi lum-lum-ma-a-gin₇ a-a hu-mu-ri-ib₂-šum₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Ur III,A6,niŋ₂ dirig-bi gazi a-a hu-mu-ri-ib₂-šum₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Ur III,A7,kisal daŋal e₂ {d}inana-ka
+c.1.8.1.2,Gilgameš and the bull of heaven,Ur III,A8,{d}gilgameš₂ ŋiš buluŋ₃
+c.1.8.1.2,Gilgameš and the bull of heaven,Ur III,A9,lugal-ŋu₁₀ {ŋeš}kiri₆ zabalam
+c.1.8.1.2,Gilgameš and the bull of heaven,Ur III,A10,ku₄-ku₄ kiŋ₂-ŋa₂-zu-ne
+c.1.8.1.2,Gilgameš and the bull of heaven,Ur III,A11,a ŋi₆-par₃-ra-kam u₆-du nin si-ki ni₃-si₂₃
+c.1.8.1.2,Gilgameš and the bull of heaven,Ur III,A12,{ŋeš}U₃ dub-saŋ-ŋa₂-kam dur₂ bi-in-ŋar sug-ga-a mu-ni-in-la₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Ur III,A13,lugal-ŋu₁₀ sug-ga mu-ni-in-la₂ {ŋeš}ŋisal-a gu₂ ni₃-gur
+c.1.8.1.2,Gilgameš and the bull of heaven,Ur III,A14,mu-un {ŋeš}ŋisal-a gi lum-lum-ma-a-gin₇ a-a hu-mu-na-ab-šum₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Ur III,A15,niŋ₂ dirig-bi gazi a-a hu-mu-na-ab-šum₂
+c.1.8.1.2,Gilgameš and the bull of heaven,Ur III,B1,niŋ₂-ba {d}inana ŋi₆-par₃-ra
+c.1.8.1.2,Gilgameš and the bull of heaven,Ur III,B2,nam-ba-ni-in-ku₄-ku₄
+c.1.8.1.2,Gilgameš and the bull of heaven,Ur III,B3,a₂ nam-ur-saŋ-ŋa₂-ŋu₁₀
+c.1.8.1.2,Gilgameš and the bull of heaven,Ur III,B4,tug₂ nam-i₃-dul-e

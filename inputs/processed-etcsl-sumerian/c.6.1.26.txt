@@ -1,0 +1,68 @@
+id_text,text_name,version,l_no,text
+c.6.1.26,Proverbs: collection 26,,A26,mu-ni-DU
+c.6.1.26,Proverbs: collection 26,,A27,e₂-gal ni₂-bi-še₃ gam-e-dam
+c.6.1.26,Proverbs: collection 26,,A28,an-ku₄-ku₄
+c.6.1.26,Proverbs: collection 26,,A29,ib₂-ta-e₃ nu-silig-ge-dam
+c.6.1.26,Proverbs: collection 26,,A30,aš₂ a₂ zig₃-ga bal-e di dumu-nitah e₂ ad-da-na-ta sar-ra niŋ₂-gig {d}nin-urta-ke₄
+c.6.1.26,Proverbs: collection 26,,A31,uš₇ dug₄-ga sahar nu-gi-a eme ak an-bar₇ an-dul₃ nu-ŋal₂-la niŋ₂-gig {d}utu-ke₄
+c.6.1.26,Proverbs: collection 26,,A32,šu gi₄-gi₄ niŋ₂-gig {d}nin-urta-ke₄
+c.6.1.26,Proverbs: collection 26,,A33,nu-dug₄-ga niŋ₂-gig {d}nin-urta-ke₄
+c.6.1.26,Proverbs: collection 26,,A34,niŋ₂ zu a-na-am₃ ga-ra-ad-da-be₂ niŋ₂ nu-zu a-na-am₃ lu₂-ki-inim ba-ab-e₃ niŋ₂-gig {d}utu-ke₄
+c.6.1.26,Proverbs: collection 26,,A35,ki-ta kur₂ niŋ₂-gig {d}nin-urta-ke₄
+c.6.1.26,Proverbs: collection 26,,A36,lu₂ {ŋeš}ma₂ dirig-ga lu₂ {ŋeš}ma₂ ru-ru-gu₂ niŋ₂ kab₂ di-dam niŋ₂-gig {d}suen-na-ke₄
+c.6.1.26,Proverbs: collection 26,,A37,{ŋeš}ma₂ niŋ₂-gen₆-na ni₂ ba-ab-dirig {d}utu kar gen₆-na mu-un-na-ši-kiŋ₂-kiŋ₂
+c.6.1.26,Proverbs: collection 26,,A38,ni₂ teŋ₃-ŋe₂₆ nam-sag₉-ga in-tu-ud
+c.6.1.26,Proverbs: collection 26,,A39,er₂ nam-tag al-du₈-am₃
+c.6.1.26,Proverbs: collection 26,,A40,sizkur nam-til₃ ba-ab-tah-e
+c.6.1.26,Proverbs: collection 26,,A41,aš₂ dug₄-ga-ŋu₁₀ aš₂ nu-mu-un-gi
+c.6.1.26,Proverbs: collection 26,,A42,aš₂-e gi-a-ŋu₁₀ aš₂ mu-un-gi
+c.6.1.26,Proverbs: collection 26,,B1,
+c.6.1.26,Proverbs: collection 26,,B2,nin {ŋeš}li
+c.6.1.26,Proverbs: collection 26,,B3,{kuš}a₂-si udu ha-ba-šum₂
+c.6.1.26,Proverbs: collection 26,,B4,ŋiš sipad
+c.6.1.26,Proverbs: collection 26,,B5,ki saŋ-ki nu-ŋal₂-la lu₂ nu-dib₂
+c.6.1.26,Proverbs: collection 26,,B6,šag₄ {ŋeš}ŋidru-kam i₃ he₂-en-de₂ lu₂ na-me nu-zu
+c.6.1.26,Proverbs: collection 26,,B7,šum₂-ma-ab lugal-la-kam
+c.6.1.26,Proverbs: collection 26,,B8,šum₂-ma-ab lugal-la-kam
+c.6.1.26,Proverbs: collection 26,,B9,gu₅-li
+c.6.1.26,Proverbs: collection 26,,B10,du₁₄
+c.6.1.26,Proverbs: collection 26,,B11,
+c.6.1.26,Proverbs: collection 26,,C1,
+c.6.1.26,Proverbs: collection 26,,C2,kug kalag-ga la₂ ka kalag-ga sam₂
+c.6.1.26,Proverbs: collection 26,,C3,niŋ₂ sam₂-ma niŋ₂ sag₉-ga
+c.6.1.26,Proverbs: collection 26,,C4,{ninda}gug₂ du₈ šag₄ niŋ₂-silaŋ-ŋa₂ in-nu-u₃
+c.6.1.26,Proverbs: collection 26,,C5,ninda ₂ MAŠ-ta-am₃ du₈-de₃ šag₄-ŋu₁₀ ba-ab-tum₂-tum₂-am₃
+c.6.1.26,Proverbs: collection 26,,C6,{im}šu-rin-na-ta šu-ŋu₁₀ nu-ub-ta-e₃
+c.6.1.26,Proverbs: collection 26,,C7,lu₂ kal-la-ŋu₁₀ la-ba-an-na-kal-e
+c.6.1.26,Proverbs: collection 26,,C8,a₂ dub₂-ŋu₁₀-ta mušen ku-dun mu-un-dug₄
+c.6.1.26,Proverbs: collection 26,,C9,lu₂ kal-la-ŋu₁₀ la-ba-an-na-kal-e
+c.6.1.26,Proverbs: collection 26,,C10,šu-na bi₂-in-dab₅
+c.6.1.26,Proverbs: collection 26,,C11,e-ne-še₃ sahar šu-ŋu₁₀ bi₂-in-si
+c.6.1.26,Proverbs: collection 26,,C12,lu₂ kaš nu-zu-gin₇ ni₂ dar-dar-ra-am₃
+c.6.1.26,Proverbs: collection 26,,C13,{tum₉}u₁₈-lu igi-ŋa₂ sahar-ra bi₂-in-sig₉
+c.6.1.26,Proverbs: collection 26,,C14,a-na-am₃ eŋer-ra-ŋa₂ ne mu-un-su-ub-su-ub-be₂-en
+c.6.1.26,Proverbs: collection 26,,C15,nam-tar-ŋu₁₀ ga-am₃-dug₄ in-na-am₃
+c.6.1.26,Proverbs: collection 26,,C16,pa ga-ab-e₃ su-lum mar-am₃
+c.6.1.26,Proverbs: collection 26,,C17,in-na in-bi-im
+c.6.1.26,Proverbs: collection 26,,D1,
+c.6.1.26,Proverbs: collection 26,,D2,tug₂ nam-ba-ša-ra-ge-en
+c.6.1.26,Proverbs: collection 26,,D3,ab-ba i-de₅-de₅-ga
+c.6.1.26,Proverbs: collection 26,,D4,u₂ de₅-de₅-ga kalag-ga-še₃
+c.6.1.26,Proverbs: collection 26,,D5,sig₉-ga bar-rim₄-ma ba-e-tuš
+c.6.1.26,Proverbs: collection 26,,D6,en-te-en-na-ka a-šag₄ nu-ur₁₁-ru
+c.6.1.26,Proverbs: collection 26,,D7,ud buru₁₄-a-ka šu-ni ga-rig₂ an-du₃-du₃-e
+c.6.1.26,Proverbs: collection 26,,D8,gud uš-ša numun nu-ŋa₂-ŋa₂
+c.6.1.26,Proverbs: collection 26,,D9,buru₁₄-ta gu₃-e lag nu-bur₁₂-re
+c.6.1.26,Proverbs: collection 26,,D10,gud sur₁₂-ra ab-sin₂-bi ab-sag₉-sag₉
+c.6.1.26,Proverbs: collection 26,,D11,ga-zi-in-bu lugal-ŋu₁₀ ur-saŋ mu-bi-im
+c.6.1.26,Proverbs: collection 26,,D12,ga-zi-in-bu su la₂-a nu₂-nu₂
+c.6.1.26,Proverbs: collection 26,,D13,gud gu₃ ra-ah lag-bi nu-bur₁₂-re
+c.6.1.26,Proverbs: collection 26,,D14,gud sig₉-ga sahar-ra igi-bi zid₂ ak-a
+c.6.1.26,Proverbs: collection 26,,D15,{u₂}numun₂-bi {gi}en₃-bar sumun₂-bi niŋ₂ izi sag₃-ge niŋ₂ an-ta ed₂-de₃
+c.6.1.26,Proverbs: collection 26,,D16,id₂ niŋ₂ ŋal₂-la he₂-gid₂-i
+c.6.1.26,Proverbs: collection 26,,D17,engar-e a-šag₄ na-ab-daŋal-la
+c.6.1.26,Proverbs: collection 26,,D18,diŋir lu₂-u₁₈-lu šag₄-gal-la-ni nam-ba-ab-tah-e
+c.6.1.26,Proverbs: collection 26,,D19,ŋi₆ ₅₀-am₃ ud ₅₀-am₃ ud lul ₅₅-am₃
+c.6.1.26,Proverbs: collection 26,,D20,a-da tuš kur-šag₄-ga igi du₈
+c.6.1.26,Proverbs: collection 26,,D21,ni₂-bi-še₃ igi nu-du₈
+c.6.1.26,Proverbs: collection 26,,D22,

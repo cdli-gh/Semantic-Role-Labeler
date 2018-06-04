@@ -1,0 +1,56 @@
+id_text,text_name,version,l_no,text
+c.4.07.5,A tigi to Inana (Inana E),,1,nin {d}nin-gal-e ul-e hi-li-še₃ sig₇-ga
+c.4.07.5,A tigi to Inana (Inana E),,2,ušumgal-am₃ hu-hub₂ ša-mu-ra-an-ŋal₂
+c.4.07.5,A tigi to Inana (Inana E),,3,{d}inana {d}nin-gal-e ul-e hi-li-še₃ sig₇-ga
+c.4.07.5,A tigi to Inana (Inana E),,4,ušumgal-am₃ hub₂-hub₂ ša-mu-ra-an-ŋal₂
+c.4.07.5,A tigi to Inana (Inana E),,5,ulu₃-a u₅-a abzu-ta me šu ti-a-me-en
+c.4.07.5,A tigi to Inana (Inana E),,6,lugal {d}ama-ušumgal-an-na barag kug-za ši-im-mi-tuš
+c.4.07.5,A tigi to Inana (Inana E),,7,{d}inana ulu₃-a u₅-a abzu-ta me šu ti-a-me-en
+c.4.07.5,A tigi to Inana (Inana E),,8,lugal {d}ama-ušumgal-an-na barag kug-za ši-im-mi-tuš
+c.4.07.5,A tigi to Inana (Inana E),,9,diŋir ur-saŋ-ŋa₂ bi₂-in-ŋar me-zu an-na mu-un-dirig-dam
+c.4.07.5,A tigi to Inana (Inana E),,10,šag₄ ama-za-ta šita₂ mi-tum-ma zag ša-mu-ni-in-keše₂
+c.4.07.5,A tigi to Inana (Inana E),,11,{d}inana ur-saŋ-ŋa₂ bi₂-in-ŋar me-zu an-na mu-un-dirig-dam
+c.4.07.5,A tigi to Inana (Inana E),,12,šag₄ {d}nin-gal-ta šita₂ mi-tum-ma zag ša-mu-ni-in-keše₂
+c.4.07.5,A tigi to Inana (Inana E),,13,lugal kalam-ma ŋi₆ zal-a-ra {d}utu te ša-mu-na-sag₉-ge-eš
+c.4.07.5,A tigi to Inana (Inana E),,14,kur-re ba-e-il₂ kur ša-mu-u₈-da-hul₂-la-am₃
+c.4.07.5,A tigi to Inana (Inana E),,15,{d}ama-ušumgal-an-na kalam-ma ŋi₆ zal-a-ra {d}utu te ša-mu-na-sag₉-ge-eš
+c.4.07.5,A tigi to Inana (Inana E),,16,kur-re ba-il₂ kur ša-mu-u₈-da-hul₂-la-am₃
+c.4.07.5,A tigi to Inana (Inana E),,17,nin-ŋu₁₀ dam ni₂-za im-mi-šum₂ hul₂-hul₂-la-mu-un-da
+c.4.07.5,A tigi to Inana (Inana E),,18,{d}en-lil₂-le ma-ra-an-šum₂ kur niŋ₂ gal-la šu-zu-uš
+c.4.07.5,A tigi to Inana (Inana E),,19,{d}inana dam ni₂-za im-mi-šum₂ hul₂-hul₂-la-mu-un-da
+c.4.07.5,A tigi to Inana (Inana E),,20,{d}en-lil₂-le ma-ra-an-šum₂ kur niŋ₂ gal-la šu-zu-uš
+c.4.07.5,A tigi to Inana (Inana E),,21,in-nin er₉-a-zu mu-un-na-šum₂ lugal-am₃
+c.4.07.5,A tigi to Inana (Inana E),,22,{d}ama-ušumgal-an-na še-er-zid ša-ra-ab-ed₂-de₃
+c.4.07.5,A tigi to Inana (Inana E),,23,{d}inana er₉-a-zu mu-un-na-šum₂ lugal-am₃
+c.4.07.5,A tigi to Inana (Inana E),,24,{d}ama-ušumgal-an-na še-er-zid ša-ra-ab-ed₂-de₃
+c.4.07.5,A tigi to Inana (Inana E),,25,ki-bal kur ba₉-ra₂ e₃-a-ni suh₃-suh₃-a ud mi-ni-ib-zal-zal-e
+c.4.07.5,A tigi to Inana (Inana E),,26,{d}ama-ušumgal-an-na-ke₄ kur ba₉-ra₂ e₃-a-ni suh₃-suh₃-a ud mi-ni-ib-zal-zal-e
+c.4.07.5,A tigi to Inana (Inana E),,27,{d}utu kur šim {ŋeš}erin-na-ta e₃-a-ni i₃ dug₃-ga ša-mu-u₈-ši-peš-peš-e
+c.4.07.5,A tigi to Inana (Inana E),,28,{d}ama-ušumgal-an-na {d}utu kur šim {ŋeš}erin-na-ta e₃-a-gin₇ i₃ dug₃-ga ša-mu-un-ši-peš-peš-e
+c.4.07.5,A tigi to Inana (Inana E),,29,sa-gid₂-da-am₃
+c.4.07.5,A tigi to Inana (Inana E),,30,nin me₃-na nu-gub-bu dumu gal {d}suen-na an-na e₃-a su-lim ŋa₂-ŋa₂
+c.4.07.5,A tigi to Inana (Inana E),,31,nam-ŋuruš teš₂-bi-še₃ gub-gub-bu me₃ ezen-gin₇ ša-mu-ra-de₃-ul
+c.4.07.5,A tigi to Inana (Inana E),,32,ki-bal e₂ ni₂-bi ša-ra-gul-e
+c.4.07.5,A tigi to Inana (Inana E),,33,{d}ama-ušumgal-an-na ur-saŋ kalag-ga šita₂ za-gin₃ šar₂ ša-ra-ni-in-uš₂
+c.4.07.5,A tigi to Inana (Inana E),,34,{d}inana nin me₃-ni nu-gub-bu dumu gal {d}suen-na an-na e₃-a su-lim ŋa₂-ŋa₂
+c.4.07.5,A tigi to Inana (Inana E),,35,nam-ŋuruš teš₂-bi-še₃ gub-gub-bu me₃ ezen-gin₇ ša-mu-ra-de₃-ul
+c.4.07.5,A tigi to Inana (Inana E),,36,ki-bal e₂ ni₂-bi ša-ra-gul-e
+c.4.07.5,A tigi to Inana (Inana E),,37,{d}ama-ušumgal-an-na ur-saŋ kalag-ga šita₂ za-gin₃ šar₂ ša-ra-ni-in-uš₂
+c.4.07.5,A tigi to Inana (Inana E),,38,nin an-an-še₃ ki-ki-še₃ niŋ₂ šag₄-zu niŋ₂ gal a-ba-a mu-e-da-an-zu
+c.4.07.5,A tigi to Inana (Inana E),,39,inim-zu gu tab-ba nu-kur₂-ru-da an teš₂-ba ši-im-da-gu₇-gu₇
+c.4.07.5,A tigi to Inana (Inana E),,40,a-a-zu {d}en-lil₂-le mu-ra-an-šum₂
+c.4.07.5,A tigi to Inana (Inana E),,41,{d}ama-ušumgal-an-na-ke₄ me₃ zar-re-eš ak ušumgal-gin₇ nir-ŋal₂ ša-ra-ni-in-sa₂
+c.4.07.5,A tigi to Inana (Inana E),,42,{d}inana nin an-an-še₃ ki-ki-še₃ niŋ₂ šag₄-zu niŋ₂ gal a-ba-a mu-e-da-an-zu
+c.4.07.5,A tigi to Inana (Inana E),,43,inim-zu gu tab-ba nu-kur₂-ru-da an teš₂-ba ši-im-da-gu₇-gu₇
+c.4.07.5,A tigi to Inana (Inana E),,44,a-a-zu {d}en-lil₂-le mu-ra-an-šum₂
+c.4.07.5,A tigi to Inana (Inana E),,45,{d}ama-ušumgal-an-na-ke₄ me₃ zar-re-eš ak ušumgal-gin₇ nir-ŋal₂ ša-ra-ni-in-sa₂
+c.4.07.5,A tigi to Inana (Inana E),,46,nin-ŋu₁₀ {d}ama-ušumgal-an-na-ke₄ nir ša-mu-u₈-da-ŋal₂
+c.4.07.5,A tigi to Inana (Inana E),,47,tug₂-ba₁₃-zu-gin₇ bar-ra ši-bi₂-dul
+c.4.07.5,A tigi to Inana (Inana E),,48,itid-da ud-sakar-ra {d}suen-gin₇ an-ne₂ za-ra ša-mu-ra-an-u₃-tud
+c.4.07.5,A tigi to Inana (Inana E),,49,lugal {d}ama-ušumgal-an-na šag₄-za ki aŋ₂-bi-im {d}utu e₃-a-gin₇ ša-mu-na-an-i-i-ne
+c.4.07.5,A tigi to Inana (Inana E),,50,{d}inana nin-ŋu₁₀ {d}ama-ušumgal-an-na-ke₄ nir ša-mu-u₈-da-ŋal₂
+c.4.07.5,A tigi to Inana (Inana E),,51,tug₂-ba₁₃-zu-gin₇ bar-ra ši-bi₂-dul
+c.4.07.5,A tigi to Inana (Inana E),,52,itid-da ud-sakar-ra {d}suen-gin₇ an-ne₂ za-ra ša-mu-ra-an-u₃-tud
+c.4.07.5,A tigi to Inana (Inana E),,53,lugal {d}ama-ušumgal-an-na {d}utu-gin₇ e₃-a ša-mu-u₈-da-i-i-ne
+c.4.07.5,A tigi to Inana (Inana E),,54,sa-ŋar-ra-am₃
+c.4.07.5,A tigi to Inana (Inana E),,55,tigi₂ {d}inana-kam

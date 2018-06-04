@@ -1,0 +1,50 @@
+id_text,text_name,version,l_no,text
+c.4.32.f,A šir-namšub to Utu (Utu F),,1,
+c.4.32.f,A šir-namšub to Utu (Utu F),,2,kur
+c.4.32.f,A šir-namšub to Utu (Utu F),,3,{d}utu
+c.4.32.f,A šir-namšub to Utu (Utu F),,4,{d}utu
+c.4.32.f,A šir-namšub to Utu (Utu F),,13,
+c.4.32.f,A šir-namšub to Utu (Utu F),,14,
+c.4.32.f,A šir-namšub to Utu (Utu F),,15,
+c.4.32.f,A šir-namšub to Utu (Utu F),,16,
+c.4.32.f,A šir-namšub to Utu (Utu F),,17,
+c.4.32.f,A šir-namšub to Utu (Utu F),,18,šul {d}utu amar sumun₂-na-ke₄
+c.4.32.f,A šir-namšub to Utu (Utu F),,19,amar sumun₂-na-ke₄ amar dumu zid-da-ke₄
+c.4.32.f,A šir-namšub to Utu (Utu F),,20,{d}utu šeš lugal {d}inana-ke₄
+c.4.32.f,A šir-namšub to Utu (Utu F),,21,en-me-en de₆-de₆ sila sir₂-ra-ke₄
+c.4.32.f,A šir-namšub to Utu (Utu F),,22,{d}utu kaš mu-un-ŋal₂ e₂ kurun-ka-ke₄
+c.4.32.f,A šir-namšub to Utu (Utu F),,23,šul {d}utu kaš mu-un-ŋal₂ e₂ kurun-ka-ke₄
+c.4.32.f,A šir-namšub to Utu (Utu F),,24,šeš-ŋu₁₀ u₃-mu-un ni₂ gur₃-ru kur-še₃ ga-ba-e-da-u₅
+c.4.32.f,A šir-namšub to Utu (Utu F),,25,u₃-mu-un an-na u₃-mu-un ni₂ gur₃-ru u₃-mu-un kur-še₃ ga-ba-e-da-u₅
+c.4.32.f,A šir-namšub to Utu (Utu F),,26,kur šim-ma-še₃ kur {ŋeš}erin-na-še₃ kur-še₃
+c.4.32.f,A šir-namšub to Utu (Utu F),,27,kur {ŋeš}erin-na kur ha-šu-ur₂-ra-še₃ kur-še₃
+c.4.32.f,A šir-namšub to Utu (Utu F),,28,kur kug-ga kur za-gin₃-na-še₃ kur-še₃
+c.4.32.f,A šir-namšub to Utu (Utu F),,29,kur gakkul₃-a mu-un-mu₂-mu₂-še₃ kur-še₃
+c.4.32.f,A šir-namšub to Utu (Utu F),,30,id₂ hal-hal-la a-ki-ta su₃-ud-bi-še₃ kur-še₃
+c.4.32.f,A šir-namšub to Utu (Utu F),,31,šeš-ŋu₁₀ ŋen-a
+c.4.32.f,A šir-namšub to Utu (Utu F),,32,šeš-ŋu₁₀ ab-šag₄-ga igi-ŋu₁₀
+c.4.32.f,A šir-namšub to Utu (Utu F),,33,šeš-ŋu₁₀ munus-e-ne
+c.4.32.f,A šir-namšub to Utu (Utu F),,34,{d}utu munus-e-ne
+c.4.32.f,A šir-namšub to Utu (Utu F),,35,aŋ₂ munus-e-ne mu nu-zu-ŋen
+c.4.32.f,A šir-namšub to Utu (Utu F),,36,aŋ₂ munus-e-ne mu dug₄ nu-zu-ŋen
+c.4.32.f,A šir-namšub to Utu (Utu F),,37,aŋ₂ munus-e-ne še su-ub nu-zu-ŋen
+c.4.32.f,A šir-namšub to Utu (Utu F),,38,mu dug₄ nu-zu-ŋen še su-ub nu-zu-ŋen
+c.4.32.f,A šir-namšub to Utu (Utu F),,39,kur-ra a-na mu-un-ma-al a-na ga-gu₇-un-de₃-en
+c.4.32.f,A šir-namšub to Utu (Utu F),,40,hur-saŋ-ŋa₂ a-na mu-un-ma-al a-na ga-gu₇-un-de₃-en
+c.4.32.f,A šir-namšub to Utu (Utu F),,41,kur šim-ma-še₃ kur {ŋeš}erin-na-še₃
+c.4.32.f,A šir-namšub to Utu (Utu F),,42,kur {ŋeš}erin-na kur ha-šu-ur₂-ra-še₃
+c.4.32.f,A šir-namšub to Utu (Utu F),,43,kur-ra a-na mu-un-ma-al a-na ga-gu₇-un-de₃-en
+c.4.32.f,A šir-namšub to Utu (Utu F),,44,šim mu-un-gu₇-a-ta {ŋeš}erin mu-un-gu₇-a-ta
+c.4.32.f,A šir-namšub to Utu (Utu F),,45,šu-ŋu₁₀ šu u₃-bi₂-du₃ e₂-ŋu₁₀-še₃ gi₄-mu
+c.4.32.f,A šir-namšub to Utu (Utu F),,46,e₂-ŋu₁₀-še₃ gi₄-mu e₂-ŋu₁₀ zabalam{ki}-a-ra
+c.4.32.f,A šir-namšub to Utu (Utu F),,47,ama-ŋu₁₀-še₃ gi₄-mu ama-ŋu₁₀ ga-ša-an-gal-ra
+c.4.32.f,A šir-namšub to Utu (Utu F),,48,ušbar-ŋu₁₀-še₃ gi₄-mu ga-ša-an-sumun₂-na-ra
+c.4.32.f,A šir-namšub to Utu (Utu F),,49,e-rib-bi₂-ŋu₁₀ gi₄-mu {d}mu-tin-an-na-ra
+c.4.32.f,A šir-namšub to Utu (Utu F),,50,šu dili ed₂-da-ke₄ e₂ lu₂ ed₂-da-ke₄
+c.4.32.f,A šir-namšub to Utu (Utu F),,51,e₂ lu₂ ed₂-da-ke₄ šu dili ed₂-da-ke₄
+c.4.32.f,A šir-namšub to Utu (Utu F),,52,{d}utu ama-bi-me-en {d}utu a-a-bi-me-en
+c.4.32.f,A šir-namšub to Utu (Utu F),,53,{d}utu nu-siki-ke₄ {d}utu nu-mu-su-e
+c.4.32.f,A šir-namšub to Utu (Utu F),,54,{d}utu nu-siki-ke₄ a-a-ni-gin₇ igi-bi ma-ra-pad₃
+c.4.32.f,A šir-namšub to Utu (Utu F),,55,{d}utu nu-mu-su-e ama-bi-gin₇ šu gi₄-gi₄-bi-me-en
+c.4.32.f,A šir-namšub to Utu (Utu F),,56,a-lu za-da a-lu
+c.4.32.f,A šir-namšub to Utu (Utu F),,x,

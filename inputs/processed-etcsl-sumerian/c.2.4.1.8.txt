@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+c.2.4.1.8,A praise poem of Ur-Namma (Ur-Namma H),,A1,ur-{d}namma lugal kalam-ma
+c.2.4.1.8,A praise poem of Ur-Namma (Ur-Namma H),,A2,su₃-ra₂ ba₉-ra₂
+c.2.4.1.8,A praise poem of Ur-Namma (Ur-Namma H),,A3,{ŋeš}esi
+c.2.4.1.8,A praise poem of Ur-Namma (Ur-Namma H),,A4,
+c.2.4.1.8,A praise poem of Ur-Namma (Ur-Namma H),,B1,
+c.2.4.1.8,A praise poem of Ur-Namma (Ur-Namma H),,B2,kug za-gin₃-na nam
+c.2.4.1.8,A praise poem of Ur-Namma (Ur-Namma H),,B3,kug-gin₇ kalam-ma
+c.2.4.1.8,A praise poem of Ur-Namma (Ur-Namma H),,B4,edin-na
+c.2.4.1.8,A praise poem of Ur-Namma (Ur-Namma H),,B5,piriŋ ušumgal igi il₂
+c.2.4.1.8,A praise poem of Ur-Namma (Ur-Namma H),,B6,ur-{d}namma lugal kalam-ma su₃-ra₂ ba₉-ra₂

@@ -1,0 +1,70 @@
+id_text,text_name,version,l_no,text
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,1,puzur₄-{d}šul-gi ensi₂ ka-zal-lu{ki}
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,2,u₃-na-a-dug₄
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,3,{d}i-bi₂-{d}suen lugal-zu na-ab-be₂-a
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,4,erin₂-ta mu-ra-suh-a-gin₇-nam ensi₂ ka-zal-lu{ki}-še₃ mu-ra-ŋal₂
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,5,ŋe₂₆-e-gin₇-nam erin₂-zu dugud-da-zu in-nu-u₃
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,6,a-na-aš-am₃ lu₂ mu-e-ši-in-gi₄
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,7,{m}iš-bi-{d}er₃-ra
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,8,ugu-ŋu₁₀-še₃ igi-ni im-ma-ši-in-ŋar
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,9,u₃ ŋe₂₆-e u₃-mu-un-šub ga-am₃-ŋen
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,10,en-na iš-bi-{d}er₃-ra kur-re bi₂-in-gi₄-a a-gin₇ nu-e-zu
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,11,za-e gir-bu-bu ensi₂ ŊIR₂-kal{ki}-ke₄
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,12,a-na-aš-am₃ erin₂ šu-zu-še₃ i₃-ŋal₂-la igi-ni-še₃ la-ba-an-sug₂-ge-za-na
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,13,ki-bi gi₄-gi₄-da
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,14,a-gin₇ mi-ni-ib-šum₂-za-na
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,15,ud-da {d}en-lil₂-le ki-en-gi hul mu-un-gi₄
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,16,ugu₄-bi kur-bi-ta ed₃-de₃
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,17,nam-sipad kalam-ma-še₃ mu-X-il₂
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,18,i₃-ne-eš₂ {d}en-lil₂-le lu₂-IM sa₁₀-sa₁₀ nu-luh-ha{sar}
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,19,{m}iš-bi-er₃-ra numun ki-en-gi-ra nu-me-a nam-lugal-la mu-na-an-šum₂
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,20,ga-nam pu-uh₂-rum ki diŋir-re-e-ne ki-en-gi sag₂ ba-ab-dug₄
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,21,a-a {d}en-lil₂ dug₄-ga-dug₄-ga-ni dib-be₂-da-aš
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,22,en-na urim₅{ki}-ma lu₂-erim₂-ša mu-un-ri-a
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,23,iš-bi-{d}er₃-ra lu₂ ma₂-ri₂{ki}-ke₄ suhuš-bi ba-bur₁₂-re
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,24,ki-en-gi he₂-aŋ₂-e ur₅-gin₇-nam bi₂-in-dug₄
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,25,u₃ tukum-bi ensi₂ dili-dili i₃-ŋar-ŋar-re-en-ze₂-en
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,26,inim {d}en-lil₂-la₂-ta iš-bi-er₃-ra i₃-bal-e-eš-a
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,27,{lu₂}tab-zu-gin₇ iri erim₂-ra ba-šum₂-mu-na-ta
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,28,u₃ za-e arad gen₆-na še-ni-gin₇ iš-bi-er₃-ra nu-mu-un-zu-a
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,29,i₃-ne-eš₂ inim dug₃-ga gi₄-gi₄-de₃
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,30,lul du₈-du₈-u₃-da he₂-ni-ib-tum₂-tum₂-mu
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,31,uŋ₃-ba buru₁₄-ba he₂-ak-e-de₃
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,32,za-e na-an-gur-ru ugu-ŋu₁₀-še₃ nam-ma-ši-du-un
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,33,šu-ni iri{ki}-a nam-bi₂-ib-sa₂-sa₂
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,34,lu₂ ma₂-ri₂{ki}-ke₄ ŋalga ur-re nam-en na-an-na-ak-e
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,35,i₃-ne-eš₂ mar-tu kur-bi-ta {d}en-lil₂ a₂-tah-ŋu₁₀ im-ma-zig₃
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,36,elam{ki} ki zag mu-un-tag-ge u₃ {d}iš-bi-er₃-ra mu-un-dab₅-be₂
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,37,kalam ki-bi gi₄-gi₄-de₃ nam-kalag-ga kur-kur-ra he₂-zu-zu
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,A,38,a-ma-ru-kam za-e nam-ba-še-be₂-en
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,1,gi₄
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,3,
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,4,ba-e-sug₂-ge-de₃-eš
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,5,kur šu bi₂-gi₄-a a-gin₇ nu-e-zu
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,6,ŊIR₂-kal{ki}-a-ke₄
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,7,in-ŋal₂-le-eš igi-ni-še₃ la-ba-an-sug₂-de₃-eš
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,8,a-gin₇ mi-ni-ib₂-šum₂-mu-za-na
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,9,gi hul ba-an-gig
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,10,
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,11,nam-sipad kalam-ma mu-un-il₂-la
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,12,nu-ha-ra{sar}
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,13,nam-lugal-la mu-na-šum₂
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,14,gi sag₂ u₃-bi₂-in-dug₄
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,18,
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,19,bi₂-in-dug₄
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,20,
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,21,X-X-er₃-ra i₃-bal-e
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,22,erim₂-še₃ ba-ra-an-šum₂-ma-ta
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,23,X-er₃-ra ni₂-bi mu-un-zu-a
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,24,X-ze₂-me-en
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,25,X-e-ši-hul
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,26,
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,27,illu ba-ni-bal-e
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,28,X-gi₄-gi₄
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,29,ŋal₂-la-ŋa₂
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,30,ŋeštug₂-ga mu-de₅
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,31,silim-ma im-ma-an-ŋar
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,32,ba-da-dirig u₃-mu-ni-ak
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,33,šu-ŋa₂ ba-ni-in-dab₅-be₂
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,34,ed₂-de₃ ba-nu₂-de₃
+c.3.1.20,Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall,B,35,

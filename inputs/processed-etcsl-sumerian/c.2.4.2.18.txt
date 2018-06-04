@@ -1,0 +1,92 @@
+id_text,text_name,version,l_no,text
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,1,ma₂-gur₈ {d}en-ki-ke₄ kar he-ŋal₂ nam-še₃ ma-ra-ni-in-tar
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,2,a-a {d}en-lil₂-le igi zid mu-u₃-ši-bar
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,3,nin-zu-u₃ {d}nin-lil₂-le u₃-tud-zu bi₂-in-dug₄
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,4,uₓ-a zid lugal šul-gi-da a₂-zu mu-da-an-aŋ₂
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,5,ŋeštug₃ daŋal-la-kam sa₂ gal mu-u₃-ši-in-pad₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,6,sipad-de₃ ud ŋi₆-a u₃ nu-mu-u₃-ši-in-ku₄-ku₄
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,7,igi-ŋal₂-tuku ŋiš-hur-re kiŋ₂-ŋa₂ kug-zu niŋ₂-nam-ma-ke₄
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,8,{ŋeš}tir gal-gal-la erin gal ma-ra-an-ni-in-kud
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,9,me-zu-u₃ šu bi₂-du₇ u₆-e ba-an-gub-be₂-en₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,10,tug₂ sig₁₀-ga gu-a tag-ga-a-zu-u₃ ki
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,11,kid-mah-hal-zu-u₃ ud a₂-dam kug-ge daŋal-bi si-a-me-en₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,12,ŋiš-šu-dim₂-zu-u₃ muš-šag₄-tur₃ sim-dam ak šu-ba nu₂-me-en₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,13,gi-muš-zu-u₃ ušumgal ki-nu₂-bi-a u₃ dug₃ ku₄-me-en₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,14,{ŋeš}mi-ri₂-za-zu-u₃ muš sig-sig kur-ku šag₄ ki tab-ba-me-en₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,15,{ŋeš}eme-sig-zu-u₃ a-ŋi₆ {id₂}buranuna kug-ga teš₂-ba gun₃-gun₃-me-en₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,16,{ŋeš}u₃ {ŋeš}har-ra keše₂-keše₂-ra₂-zu-u₃ ki ŋa₂-ar-ŋa₂-ra-bi
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,17,kun-saŋ pu₂ kur-ra si sa₂-a ŋiš sig₉-si-ig-ga-me-en₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,18,{ŋeš}LU kug-zu-u₃ he₂-ŋal₂ ŋar-ŋar-ra-a ki he₂-us₂-sa-me-en₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,19,ŋiš-hum-zu-u₃ abzu šag₄-bi-a barag mah-a ri-a-me-en₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,20,{ŋeš}IGI.X-zu-u₃ arattaₓ{ki} gi₁₆-sa šu ŋa₂-ar-ŋa₂-ra-me-en₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,21,kan₄ ud e₃-še₃ ŋal₂-la-a-zu-u₃ {d}nin-uš{mušen}-a
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,22,umbin-ba niŋ₂ mi-ni-ib₂-la₂ a₂ mu-u₃-sud-sud-e
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,23,aš-me kug-sig₁₇-ga gun₃-a-zu-u₃ {kuš}usan₃ il₂-la-a-bi
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,24,i₃-ti niŋ₂ giri₁₇-zal kur-kur-ra zid-de₃-eš₂ e₃-a-me-en₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,25,an-ti-bal me nam-lugal-la-ka še-er-ha-an dug₄-ga-zu-u₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,26,tir {ŋeš}ha-šu-ur₂-ra a sig ŋa₂-ra ŋissu dug₃-ga-me-en₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,27,KID.ŠU₂-zu-u₃ u₂-si-an mul ed₂-de₃ ni₂ huš ri-a-me-en₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,28,gi-zi di₄-di₄ pa₁₂-pa₁₂-al il₂-la saŋ sig₁₀-ga-zu-a
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,29,šag₄-ba mušen buru₅{mušen} ambar kug-gin₇ ad mu-ŋa₂-ŋa₂-ŋa₂
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,30,mur ša-a-bi du₉-du₉-u₃ {dug}šakir₃-ra-gin₇ šag₄-ge dug₃-ga-bi
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,31,{d}en-lil₂ {d}nin-lil₂-ra hul₂-la-gin₇ mu-ni-ib₂-ŋa₂-ŋa₂-ŋa₂
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,32,{ŋeš}zi-gan-zu-u₃ kiŋ₂{ku₆} mah a tal₂-la ka ki-sal₄-la-me-en₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,33,alim ki gal-la ni₂ il₂-il₂-a-me-en₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,34,eš₂ ma₂ gid₂-zu-u₃ {d}nirah dar-a kalam-ma la₂-a-me-en₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,35,{ŋeš}dimgul-zu-u₃ uz₃-saŋ an-na i-i-me-en₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,36,{ŋeš}ad-us₂-zu-u₃ ur-saŋ ur-saŋ-ra si sa₂ sig₁₀-ga-me-en₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,37,ma₂-saŋ-zu-u₃ {d}nanna ur₅-ra-aš sag₉-ga
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,38,ma₂-eŋer-zu-u₃ {d}utu an-ur₂-ra
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,39,a₂-sumur₂-zu-u₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,40,sa-gid₂-da-am₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,41,ezen kug bi₃-lu₅-da gal-gal
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,42,sipad zid šul-gi-re ki-bi-še₃ mu-ŋa₂-ar-ŋa₂-ar
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,43,nibru{ki}-a diŋir gal-gal-e-ne a kug mu-tu₁₇-tu₁₇-u₃-eš₂
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,44,iri{ki}-a nam ki-bi-še₃ mu-tar-e me zid mu-hal-hal-e
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,45,ama kalam-ma {d}nin-lil₂ lu₂ sag₉-ga e₂-ta nam-X-X-e₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,46,{d}en-lil₂-le ab₂-šilam kug-gin₇ gu₂-da mu-ni-in-la₂
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,47,barag kug-bi dur₂ im-mi-in-ŋa₂-re-eš₂ niŋ₂ mi-ni-ib₂-gu-ul-gu-ul-ne
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,48,ma₂-gur₈ mah {id₂}idigna-a he₂-du₇-bi
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,49,id₂ hal-hal-la i₃-kur₉-ru a mul-mul-la
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,50,šita₂ saŋ ₅ mitum ŋiš-gid₂-da šu-nir a tu₅-a igi-še₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,51,ur-saŋ {d}en-lil₂-la₂ {d}nin-urta saŋ-bi-a mu-ŋen
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,52,addirₓ daŋal-zu-u₃ ŋiš-u₃-sal₄-la-bi-e si im-sa₂-sa₂-e
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,53,ma₂-gur₈ gi-dirig kug-ga {ŋeš}gi-muš kug-bi
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,54,lu₂ addirₓ la₂ šir₃ kug
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,55,nin nam-mah gal-gal-ni mi₂
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,56,munus zid-da {d}nin-lil₂ hul₂-la-e šul-gi
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,57,ki-en-gi urim₂{ki}-e niŋ₂-hul₂-la sag₉-ga
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,58,ma₂-gur₈ kar me-te-a-ŋi₆-a a-ne sud i₃-im-me
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,59,ŋiš-gi tum-ma-al{ki} {d}en-lil₂-la₂-ka a₂ mu-sud-sud-e
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,60,gud du₃-gin₇ saŋ mu-ni-ib₂-il₂-il₂ gu₂ mi-ni-ib₂-mar-mar
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,61,i₃-si₃ zig₃-ga-a gaba im-ra-ra-ra a šu ni₁₀-ni₁₀ i₃-HA-HA-HA
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,62,a šag₄-ga du-bi engur-ra ku₆ im-ši-hu-luh-e
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,63,a bar-ra du-bi he₂-ŋal₂-e mul-ma-al im-mi-ib₂-za
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,64,gi-dirig kug-ge nam am₃-us₂ nin tum-ma-al{ki} a-ra-zu
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,65,ama a-a {d}en-lil₂-la₂ an lugal diŋir nam tar-re giri₁₇ šu mu-ni-ŋal₂
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,66,{d}nin-lil₂-da ki ŋišbunₓ-na-ka zag-ge mu-ti-ni-ib₂-si-eš₂
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,67,šul-gi sipad nidba gal-gal-la-ni mu-ne-ši-ib₂-dib-dib-be₂
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,68,ud nam-he-a mi-ni-ib₂-zal-zal-ne ŋi₆ i₃-im-i-i-ne
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,69,lugal ma₂-gur₈ kug du₈-a-ra nam mu-ni-in-tar-re-eš₂
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,70,nam tar-ra-a-bi ul-le₂-a-še₃ niŋ₂ saŋ-ba du-am₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,71,gaba kalam-ma-ka ud mu-u₃-ŋa₂-ar {d}utu-u₃ dalla bi₂-e₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,72,ma₂-gur₈ gaba ri-bi-a nam am₃-mi-ib-gu₂-un-gun₂ gu₃ mur mu-ša₄
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,73,nin-mu-tum₂ id₂ mu he₂-ŋal₂-la-ka a šu ti-a-am₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,74,eštub{ku₆}-bi-e tun₃:mu mi-ib₂-gun₃-gun₃ {d}en-lil₂ i₃-hul₂-le
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,75,muš-u₂{ku₆}-e gu₃ ŋa₂-ar-ba a-ne mu-e {d}nin-lil₂ i₃-hul₂-le
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,76,ŊIŠ.ŠEŠ{ku₆}-ni ib₂ mi-ni-ib₂-li-e {d}en-ki i₃-hul₂-le
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,77,suhur-maš₂{ku₆}-e sun₄-bi mu-u₃-sud-e {d}nanna i₃-hul₂-le
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,78,a-nun-na im-ši-hul₂-hul₂-le-eš₂
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,79,{id₂}buranun-na saŋ mi-ni-ib₂-il₂-il₂
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,80,šag₄ kur-ra-am₃ a zal tum₃-tum₃-da
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,81,ma₂-gur₈ kug kar-re mu-ni-ib₂-us₂ nibru{ki} hul₂-la-a-am₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,82,{d}nin-lil₂-le DU-a-e lugal šul-gi-ra
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,83,igi hul₂-la₂ saŋ-ki zalag-ga-na mu-ši-im-bar-bar-re
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,84,sipad šul-gi mu gi₁₆-sa lugal ezen-na
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,85,aga an kug-ge saŋ-za mu-ni-in-gen₆-na ŋi₆-bi ga-ra-ab-bad-bad
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,86,ŋidru kug {d}en-lil₂-le ma-ra-an-šum₂-ma-a ud-bi ga-ra-ab-sud-sud
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,87,{ŋeš}gu-za {d}en-ki-ke₄ saŋ ha-ba-ra-rig₇-ga-a suhuš-bi ha-ra-ab-gen₆-ge-en₆
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,88,{d}nanna amar ban₃-da a {d}en-lil₂-la₂ zid-de₃-eš₂ ša-mu-u₃-tud
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,89,sipad niŋ₂-du₇-e pa e₃-a a-la sug₄-am₃
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,90,nam-til₃-zu-u₃ tug₂-ba₁₃ kug-ŋu₁₀-gin₇ bar-ra he₂-mi-ni-dul
+c.2.4.2.18,Šulgi and Ninlil's barge: a tigi (?) to Ninlil  (Šulgi R),,91,sa-ŋar-ra-am₃

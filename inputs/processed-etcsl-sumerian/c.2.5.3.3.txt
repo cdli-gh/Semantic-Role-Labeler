@@ -1,0 +1,65 @@
+id_text,text_name,version,l_no,text
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A1,en ud sumur huš erim₂-ma
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A2,kalag-ga en-ŋu₁₀ uŋ₃ til₃ a-a ugu ri
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A3,ud gal er₉-ra gu₃ ra-ra
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A4,en nam-šul-la-ni a₂-nun-ŋal₂ ŋal₂
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A5,bar-sud-am₃
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A6,ur-saŋ ki-bal-a gu₃ ra-ra saŋ huš-bi bi₂-tu₁₀
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A7,šeg₁₂-bi ni₂ bi₂-te in-dal-bi an-na ba-e-ed₃
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A8,sumun₂ zid ki-bal-a gu₃ ra-ra saŋ huš-bi bi₂-tu₁₀
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A9,šeg₁₂-bi ni₂ bi₂-te in-dal-bi an-na ba-e-ed₃
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A10,diŋir a nun-na iri-tuš um-te-ri {d}lamma-bi mu-u₈-ta-gub
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A11,uzug sag₉-ga-bi saŋ šu ba-e-dug₄ ŋiri₃ kur₂ im-mi-dab₅
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A12,sumun₂ zid iri-tuš um-te-ri {d}lamma-bi mu-u₈-ta-gub
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A13,uzug sag₉-ga-bi saŋ šu ba-e-dug₄ ŋiri₃ kur₂ im-mi-dab₅
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A14,kur-bi za-e ša-mu-u₈-tab-en tum₉ lil₂-e bi₂-tum₃
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A15,šul ur-saŋ-bi gu₂ im-mi-ni-ŋal₂ me₃ la-ba-gub-bu-de₃
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A16,sumun₂ zid kur-bi za-e ša-mu-u₈-tab-en tum₉ lil₂-e bi₂-tum₃
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A17,šul ur-saŋ-bi gu₂ im-mi-ni-ŋal₂ me₃ la-ba-gub-bu-de₃
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A18,šag₄-ba-tuku-am₃
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A19,niŋir gal ra
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A20,
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A21,
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A22,gal-an-zu ar₂-re-zu
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A23,bar-sud ₂-kam-ma
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A24,sumur huš erim₂-ma lu₂ hul-ŋal₂ ud
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A25,e₂ {d}suen-na-ka gud si im-ma-ni-sa₂-sa₂
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A26,sumur huš erim₂-ma lu₂ hul-ŋal₂ ud
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A27,e₂ {d}suen-na-ka gud si im-ma-ni-sa₂-sa₂
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A28,{d}aš-im₂-babbar a-ra₂-ni ki aŋ₂
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A29,zid {d}i-din-{d}da-gan {d}nanna-ar X-dug₄
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A30,{d}aš-im₂-babbar-re a-ra₂-ni ki aŋ₂
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A31,zid {d}i-din-{d}da-gan {d}nanna-ar X-an-dug₄
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,A32,
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B1,
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B2,zid-de₃-eš mu₂
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B3,sumun₂ zid gal-an-zu a-a-na ki
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B4,zid-de₃-eš mu₂
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B5,inim {d}suen-na nam-lugal-še₃ šum₂-ma
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B6,{d}aš-im₂-babbar-re tug₂ tug₂-ba₁₃ mu₄-mu₄
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B7,sumun₂ zid inim šul {d}suen-na nam-lugal-še₃ šum₂-ma
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B8,{d}aš-im₂-babbar-re tug₂ tug₂-ba₁₃ mu₄-mu₄
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B9,ur-mah a-a-na dumu giri₁₇ šu ŋal₂-la-ni-im
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B10,{d}i-din-{d}da-gan-na mu-dub-dub
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B11,sumun₂ zid ur-mah a-a-na dumu giri₁₇ šu ŋal₂-la-ni-im
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B12,{d}i-din-{d}da-gan-na mu-dub-dub
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B13,ud-gin₇ zid-de₃-eš ak
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B14,{d}aš-im₂-babbar-gin₇ di si sa₂ kud-kud
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B15,sumun₂ zid ud-gin₇ zid-de₃-eš ak
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B16,{d}aš-im₂-babbar-gin₇ di si sa₂ kud-kud
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B17,sumun₂ zid ud šu₂-uš {d}i-din-{d}da-gan-na šag₄ {d}nanna huŋ-ŋe₂₆-e
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B18,inim zid-da-ni {d}suen-ra sag₉ su zal-le-eš₂ ak
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B19,sumun₂ zid ud šu₂-uš {d}i-din-{d}da-gan-na šag₄ {d}nanna huŋ-ŋe₂₆-e
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B20,inim zid-da-ni {d}suen-ra sag₉ su zal-le-eš₂ ak
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B21,ur-saŋ {d}aš-im₂-babbar-re a₂ gal mah šum₂-ma
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B22,ŋiškim-til₃ {d}i-din-{d}da-gan-na kur nu-še-ga he₂-gul-lu-e
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B23,sumun₂ zid {d}aš-im₂-babbar-re a₂ gal mah šum₂-ma
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B24,ŋiškim-til₃ {d}i-din-{d}da-gan-na kur nu-še-ga he₂-gul-lu
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B25,sa-ŋar-ra-am₃
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B26,sumun₂ zid {d}i-din-{d}da-gan-na ud še-ga-ni he₂-me-en
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B27,ŋiš-gi₄-ŋal₂ sa-ŋar-ra-bi-im
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B28,ur-saŋ ku-kur dugud gaba-ri-bi-še₃ nu-e₃
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B29,en {d}nin-gublaga ku-kur dugud gaba-ri-bi-še₃ nu-e₃
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B30,{d}sumun₂-zid {d}i-din-{d}da-gan-na hul-du-ni ŋiš-gaz-bi he₂-me-en
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B31,u₁₈-ru₁₂-bi
+c.2.5.3.3,An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C),,B32,a-da-ab {d}nin-gublaga-kam

@@ -1,0 +1,35 @@
+id_text,text_name,version,l_no,text
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,1,ba-gul
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,2,gul-gul ba-gul
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,3,{d}nisaba ba-gul
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,4,e₂ {d}nisaba mu-lu₂ dub-ba-ka ba-gul
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,5,e₂ {d}ŠE.TIR-ma ba-gul
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,6,e₂ {d}nun-bar-še-gu-nu ba-gul
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,7,e₂-ha-mun ba-gul
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,8,u₂-a-nir ba-am₃-mu₂ šu-mu ba-am₃-mu₂
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,9,bad₃-bi u₂ gid₂-da ba-am₃-mu₂
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,10,šag₄-ba u₂ {mu}ŋen-na-ke₄ šu mu-un-ni₁₀-ni₁₀-e
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,11,e-ne-eŋ₃ an-na e-ne-eŋ₃ {d}mu-ul-lil₂-la₂ re
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,12,šag₄ ib₂-ba an gu-la-ke₄ šu mu-un-ni₁₀-ni₁₀-e
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,13,ša₃-ab hul-ŋal₂-la {d}mu-ul-lil₂-la₂-ke₄ šu mu-un-ni₁₀-ni₁₀-e
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,14,ma-ŋu₁₀-a iti₆ ma-ŋu₁₀-a
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,15,iti₆ aŋ₂ giri₁₇-zal ma-ŋu₁₀-a
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,16,iti₆ ŋi₆ giri₁₇-zal ma-ŋu₁₀-a
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,17,aŋ₂ giri₁₇-zal ŋi₆ giri₁₇-zal ma-ŋu₁₀-a nam-mu-un-ed₂-de₃-en
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,18,mu-lu-ŋu₁₀-ra iti₆ mu-lu-ŋu₁₀-ra bad₃-de₃ mu-na-ab-la₂
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,19,iti₆ aŋ₂ giri₁₇-zal mu-lu-ŋu₁₀-ra
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,20,iti₆ ŋi₆-a giri₁₇-zal mu-lu-ŋu₁₀-ra
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,21,aŋ₂ giri₁₇-zal ŋi₆ giri₁₇-zal mu-lu-ŋu₁₀-ra bad₃-de₃ mu-na-ab-la₂
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,22,iti₆-še₃ ki sikil iti₆-še₃ ₁-ša mu-un-nu₂-en
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,23,iti₆ hur-saŋ ki sikil-la si-a-še₃ ₁-ša mu-un-nu₂-en
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,24,kur {ŋeš}erin-na {d}mu-ul-lil₂ nu₂-a-še₃ ₁-ša mu-un-nu₂-en
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,25,er₂ gig i₃-še₈-še₈
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,26,iti₆-še₃ nu₂-a er₂ gig i₃-še₈-še₈
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,27,i₃-zalag-ga-am₃ i-e₃ me-e ba-gig₂-ge-en
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,28,iti₆ aŋ₂ giri₁₇-zal i-zalag-ga-am₃ i-e₃ me-e ba-gig₂-ge-en
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,29,iti₆ ŋi₆ giri₁₇-zal i-zalag-ga-am₃ i-e₃ me-e ba-gig₂-ge-en
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,30,aŋ₂ giri₁₇-zal ŋi₆ giri₁₇-zal i-zalag-ga-am₃ i-e₃ me-e ba-gig₂-ge-en
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,31,ki sikil ud zu ni₂ me-lem₄-ma-na er₂-še₃ ba-še₈-še₈
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,32,ama {d}ezina₂-{d}ku₃-su₃ ni₂ me-lem₄-ma-na er₂-še₃ ba-še₈-še₈
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,33,nam-tar mu-šub-ba ni₂ me-lem₄-ma-na er₂-še₃ ba-še₈-še₈
+c.4.16.2,A šir-namšub to Nisaba (Nisaba B),,34,šir₃-nam-šu-ub {d}nisaba

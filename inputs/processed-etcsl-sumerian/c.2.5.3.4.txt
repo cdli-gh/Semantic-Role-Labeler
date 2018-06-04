@@ -1,0 +1,86 @@
+id_text,text_name,version,l_no,text
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,1,nin gal a-zu mah saŋ gig₂-ga
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,2,kug {d}nin-isin₂-na dumu an-na me-teš₂ he₂-i-i
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,3,nin {tum₉}u₁₈-lu-ni ud mir-a-gin₇ an-šag₄-a ki dub₂-bu
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,4,{d}gibil₆-gin₇ igi huš il₂-la-ni erim₂-ma su dar-dar-re
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,5,ušumgal-gin₇ ki uš₁₁-bi nu-ed₃-de₃
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,6,šu piriŋ-ŋa₂ ŋiri₂ u₃-sar ak umbin uš₂ biz-biz-biz
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,7,su de₂-de₃ ni₂ su-a ru-ru-gu₂
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,8,ŋiri₂-zal bulug-kiŋ₂-gur₄ ŋiri₂ piriŋ-ŋa₂-gin₇ uzu e₃-a-zu-uš
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,9,uŋ₃ saŋ gig₂ su ma-ra-sag₃-sag₃-ge
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,10,ud gal ki us₂-sa gaba-šu-ŋar nu-tuku
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,11,ud gu₃ dub₂-dub₂ piriŋ šeg₁₂ gi₄-gi₄ erim₂-e gu₂ kud-da
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,12,ud ka ša-an-ša-ša ah₆ gug sar ak
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,13,ud ad-ba mur ša₄ ka-bi mud mu-biz-biz
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,14,ud ka-bi-ta ah₆ su₃-su₃-su₃ erim₂-e uš₁₁ bal
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,15,niŋ₂ a₂ tur
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,16,ni₂ gal edin-na saŋ
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,17,piriŋ nemurₓ šubtum₆-ta zig₃-ga lu₂ ša-mu-un-hu-luh-ha
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,18,es₂-ad mah-gin₇ hul-še₃ nu₂-a
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,19,nin me-lem₄ huš an-ne₂ tud-da
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,20,saŋ zid kalam-ma-ka en₃ tar-re unken-na igi ŋal₂
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,21,nin til₃-la ug₅-ga zi kalam-ma šu du₈
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,22,nu-gig-ra na-me nu-gub-bu kurku₂ ad ŋa₂-ŋa₂
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,23,kug {d}nin-isin₂-na niŋin₃-ŋar ki kug-ga unu₂ šuba sud-sud
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,24,nin kur-ra dirig-ga me-ni me-a huš
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,25,eš₃ gal e₂ da-ri₂ kalam-ma-ka mah mu-un-ri
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,26,nin til₃ mud kalam-ma mu-zu urin gal-bi-im
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,27,nin me mah an gal-gin₇ zag ša₄
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,28,nu-u₈-gig diŋir gal-gal-e-ne
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,29,nin ni₂-zu an ki-a ša-mu-un-ri
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,30,igi-zu huš-me-en za-pa-aŋ₂-zu mah-me-en
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,31,saŋ-ki-zu
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,32,ka-zu su-lim kur₂
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,33,a₂-zu sa-par₃-gin₇ hul-du mu-un-kud
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,34,kug {d}nin-isin₂-na
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,35,šag₄ mir-a-ni lu₂ nu-te-en-te-en šag₄ an-usan-gin₇ du₃
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,36,šag₄ ib₂-ba-ni-a diŋir na-me gaba šu nu-ŋa₂-ŋa₂
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,37,a-ab-ba-gin₇ ku-kur um-de₆ lu₂-erim₂ ba-an-na₈-na₈
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,38,a-ŋi₆ uru₁₆-gin₇ ze₂ guru₅-a gu₂-erim₂-e bi₂-ib₂-ri
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,39,en-ne₂ mah šag₄-ba mu-un-zu
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,40,kug {d}nin-isin₂-na iri ka tar-ra-zu ki-bi nu-gi₄
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,41,ka ba-a-zu du₆-du₆-da ma-ra-an-šid
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,42,ki-bal-a nam ba-e-de₃-ku₅-ra₂-zu lu₂ nu-mu-ni-in-dib-be₂
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,43,ka tar-ra-zu id₂-da nu-bal-e
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,44,nin-ŋu₁₀ nam-gur₄ dirig nam-buluŋ₃-zu saŋ-bi-še₃ e₃-a
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,45,unken ŋar-ra-zu tuku-a-bi
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,46,kug {d}nin-isin₂-na nin nu-bar-re
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,47,nu-u₈-gig nam-mah-a an-kar₂
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,48,kug {d}nin-isin₂-na nin bar
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,49,piriŋ ušum zag e₃
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,50,šu mu-šub-šub-ba hul
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,51,ki nam-erim₂-ma šu zid il₂-la im-si-si
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,52,lu₂-lul-la mu-zu sikil
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,53,gu₂-erim₂-e
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,54,lu₂ hul-ŋal₂ {d}i-din-{d}da-gan-na
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,55,{d}nin-isin₂-na mu-zu lu₂-erim₂-e nam-ba-an-tum₃
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,56,a mu-zu {d}nin-isin₂-na a mu-zu
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,57,an mah-di a-a diŋir-re-e-ne
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,58,šag₄ su₃-ra₂ me nun gal-le-eš e₃
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,59,gu₃ a-ma-ru nu-še-ga dul zu
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,60,mir mir-ra lu₂
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,61,
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,62,lu₂-lul {d}i-din-{d}da-gan-na ŋal₂-la-a {sa}šu₂-uš-gal-gin₇ hu-mu-un-šu₂
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,63,an diŋir mah mu-zu lu₂-erim₂-e nam-ba-an-tum₃
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,64,a mu-zu an gal a mu-zu
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,65,{d}en-lil₂ me gal-gal sag₂ nu-di ušum diŋir-re-e-ne
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,66,{d}nu-nam-nir dug₄-dug₄-ge dib-ba-zu ni₂ su zig₃ bar-re-dam
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,67,{d}a-nun-na kur-kur-ra-ke₄-ne šu-ta im-sag₃-ge-ne
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,68,eš-bar-zu u₁₈-lu sumur-bi
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,69,kur gu₂-erim₂-ŋal₂ nu-ŋal₂ iri-še₃ u₃-gul
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,70,lu₂ ŋiri₃ {d}i-din-{d}da-gan-na nu-mu-un-dab₅-ba a-gin₇ hu-mu-su-su
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,71,kur gal {d}en-lil₂ mu-zu lu₂-erim₂-e nam-ba-an-tum₃
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,72,a mu-zu {d}en-lil₂ a mu-zu
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,73,{d}nin-lil₂ tug₂ babbar nin mas-su igi-ŋal₂ e₃
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,74,nin me-lem₄ šar₂-ra šu gal-le-eš du₇-a {d}en-lil₂-da til₃
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,75,lugal mu-zu lul-e-eš pad₃-de₃-de₃ saŋ im-ma-ab-šum₂-mu-a
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,76,ki šer₇-da {d}id₂-lu₂-ru-gu₂ kalam-ma
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,77,garaš₂ ki uš₂ bal-bal-e-ba ni₂ la-ba-da-ab-teŋ₃-ŋe₂₆-e-a
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,78,nam-tag dugud su ed₃-de₃ e-ne-ra il₂
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,79,ama gal {d}nin-lil₂ mu-zu lu₂-erim₂-e nam-ba-an-tum₃
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,80,a mu-zu {d}nin-lil₂ a mu-zu
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,81,{d}a-ru-ru me sag₂ nu-di u₁₈-lu huš-a
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,82,{d}en-lil₂ su tar-re niŋ₂-nam-bi luh-luh
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,83,gal
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,84,niŋ₂-erim₂ niŋ₂-a₂-zig₃
+c.2.5.3.4,A šir-namerima (?) for Iddin-Dagan (Iddin-Dagan D),,85,{d}i-din-{d}da-gan

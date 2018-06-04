@@ -1,0 +1,49 @@
+id_text,text_name,version,l_no,text
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A1,en gal ud ŋiš-he₂-ta saŋ il₂ še-er-zid
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A2,{d}suen ušum saŋ-kal kur un₃-ta uŋ₃ ud ŋa₂-ŋa₂
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A3,su₃-ra₂-aŋ₂ an bad-da men giri₁₇-zal a-a ugu-na
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A4,dumu gal-di {d}nin-lil₂-le tud-da nir-ŋal₂ e₂-kur-ra
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A5,an-bar₇-a dalla e₃ šul {d}suen ud zu₂ keše₂ an-na
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A6,su-lim-ma-ni an-bar₇-gana₂ ud ŋiš-nu₁₁ uŋ₃ saŋ gig₂-ga
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A7,a-a {d}nanna U.GA.HI bad-ta ŋi₆ dug₃-dug₃ gal-zu
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A8,nir-ŋal₂ nun pa e₃ ak-a še-er-zid an-na-kam
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A9,urim₂{ki} iri uz₃-saŋ ki-en-gi-ra me-bi nu-kur₂-ru-dam
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A10,temen an ki-bi a-a {d}nanna ŋi₆ u₃-na pa e₃
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A11,mu mu-un-pad₃ hi-li šag₄-ge bi₂-in-si {d}i-bi₂-{d}suen-ŋu₁₀
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A12,eš₃ nibru{ki} šag₄-bi kur he₂-ŋal₂-la ki-tuš ki-ur₃-ra-ke₄
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A13,nam-nun-na an-ta su-lim-ma-ni kalam-ma mu-un-barag₂-ge
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A14,kisal mah-e su-lim-ma nu-til-e nam gal tar-re-de₃
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A15,a-a ugu-na u₁₈-ru gal an ki en {d}nu-nam-nir-e
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A16,{d}suen-e ub-šu-unken-na-ka u₃-gul mu-na-ŋa₂-ŋa₂
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A17,ku₆-ŋal₂ nun barag-ga nun me til₃-la šag₄-ge pad₃-da-zu
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A18,eš₃ urim₂{ki} ki-tuš mah lugal-la zi-šag₄-ŋal₂ kalam-ma
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A19,šilam {e₂}tur₃-ra dur₂ ŋar-ra i₃ ga-bi nu-til-e
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A20,i₃ šar₂-šar₂-re ku₆ mušen u₃-tud urud kug-sig₁₇ ib₂-ŋal₂-le
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A21,iri{ki} numun i-i me-bi nu-kur₂-ru {d}i-bi₂-{d}suen-ŋu₁₀
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A22,nam-lugal-ba pa ha-ma-ni-in-e₃ nam-til₃ he₂-ni-ib₂-su₃-ud-de₃
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A23,barag gal-ba suhuš-bi mu-ra-an-ge-en dur₂ an-še₃ bi₂-in-ŋar
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A24,dalla he₂-ni-in-e₃ me nam-lugal-la-ba a₂ nun he₂-em-ta-e-ŋal₂
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A25,inim mah ul-le₂-a-še₃ nu-kur₂-ru-da {d}i-bi₂-{d}suen-ŋu₁₀
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A26,{d}aš-im₂-babbar-me-en an ki niŋin₂-na-ba
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A27,nam-nir-ŋal₂ pa ba-ni-in-e₃
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A28,si sa₂ šag₄ kug-ta mu pad₃-da {d}i-bi₂-{d}suen-ŋu₁₀
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A29,{d}nanna-ar mah pa e₃
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A30,{d}suen-e ka-ta e₃-a-ni e₂-kur
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A31,an {d}en-lil₂ nam kalam-ma tar-re kur gal {d}en-lil₂
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,A32,
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,B1,nam tar-ra
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,B2,{d}aš-im₂-babbar
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,B3,me nam-lugal-la
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,B4,dalla mu-e-e₃ saŋ il₂
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,B5,{d}nanna-{d}suen-e
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,B6,giri₁₇-zal en pa e₃ an uraš-a
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,B7,ŋiškim-til₃ dumu {d}nin-lil₂-la₂ he₂-du₇
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,B8,{d}nanna en kug mu mah-am₃ zi-šag₄-ŋal₂ kalam-ma
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,B9,nun hi-li sud šag₄ kug-ŋa₂ pad₃-da {d}i-bi₂-{d}suen-ŋu₁₀
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,B10,uŋ₃ šar₂-ra-ba mu-ni su₃-ra₂-še₃ ka-aš bar kalam-ma
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,B11,bal dug nam-he₂ šar₂ kug-zu-me-en ŋanun mah-še₃ ŋeštug₂-zu
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,B12,a-a {d}nanna šag₄-ge pad₃-da-zu X-ŋal₂ šum₂-ma
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,B13,en giri₁₇-zal numun zid-de₃
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,B14,me gal-gal-la mah-di {d}en-lil₂-da eš-bar ŋal₂
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,B15,gud dili du-de₃ en pa ed₂-dam {d}suen za₃-mi₂
+c.2.4.5.4,An ululumama to Suen for Ibbi-Suen (Ibbi-Suen D),,B16,u₃-lu-lu-ma-ma {d}suen-na-kam

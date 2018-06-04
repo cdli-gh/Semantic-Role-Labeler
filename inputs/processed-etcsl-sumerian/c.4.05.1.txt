@@ -1,0 +1,172 @@
+id_text,text_name,version,l_no,text
+c.4.05.1,Enlil in the E-kur (Enlil A),,1,{d}en-lil₂ su₃-ra₂-še₃ dug₄-ga-ni mah inim-ma-ni kug-ga-am₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,2,niŋ₂ nu-kur₂-ru ka-ta e₃-a-ni nam ul-še₃ tar-re
+c.4.05.1,Enlil in the E-kur (Enlil A),,3,igi il₂-la-ni kur-re di-di
+c.4.05.1,Enlil in the E-kur (Enlil A),,4,ŋiš-nu₁₁ il₂-la-ni kur-šag₄-ga igi ŋal₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,5,a-a {d}en-lil₂ barag kug barag mah-a daŋal-bi tuš-a-ni
+c.4.05.1,Enlil in the E-kur (Enlil A),,6,{d}nu-nam-nir nam-en nam-nun-na šu gal du₇-a-ni
+c.4.05.1,Enlil in the E-kur (Enlil A),,7,diŋir ki ni₂-ba mu-un-na-gam-e-eš
+c.4.05.1,Enlil in the E-kur (Enlil A),,8,diŋir-diŋir {d}a-nun-na mu-un-na-sun₅-sun₅-ne-eš
+c.4.05.1,Enlil in the E-kur (Enlil A),,9,a₂ aŋ₂-ŋa₂ zid-de₃-eš im-ma-sug₂-ge-eš
+c.4.05.1,Enlil in the E-kur (Enlil A),,10,en u₁₉-ru gal an ki-a dirig di zu gal-an-zu-e
+c.4.05.1,Enlil in the E-kur (Enlil A),,11,dur-an-ki-ka dur₂ ba-an-ŋar ŋeštug₂ daŋal-la-ke₄
+c.4.05.1,Enlil in the E-kur (Enlil A),,12,nam-nun-na ni₂ pa e₃-a ši-bi₂-in-ak ki-ur₃ ki gal-la
+c.4.05.1,Enlil in the E-kur (Enlil A),,13,nibru{ki} uz₃-saŋ mah an ki-ka ki-tuš im-ma-ni-in-du₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,14,iri igi-bi ni₂ me-lem₄ huš-a
+c.4.05.1,Enlil in the E-kur (Enlil A),,15,bar-bi diŋir u₁₉-ru-na saŋ nu-ŋa₂-ŋa₂-dam
+c.4.05.1,Enlil in the E-kur (Enlil A),,16,šag₄-bi ka ŋiri₂ kiŋ₂-a ka garaš₂-a-ka
+c.4.05.1,Enlil in the E-kur (Enlil A),,17,{ŋeš}es₂-ad ki-bal-a pu₂ sa ak-a
+c.4.05.1,Enlil in the E-kur (Enlil A),,18,gal-bi dug₄-ga-bi ud la-ba-ni-ib-su₃-ud-de₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,19,di-da inim erim₂-ŋal₂ nu-mu-ni-ib-be₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,20,šag₄-a bar-a eme si nu-sa₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,21,inim kur₂ niŋ₂ kur₂ u₃-nu-ŋar-ra
+c.4.05.1,Enlil in the E-kur (Enlil A),,22,še₂₉-eš₂ di niŋ₂-erim₂ i-{d}utu
+c.4.05.1,Enlil in the E-kur (Enlil A),,23,igi bal niŋ₂-a₂-ŋar inim-inim sig dug₄-dug₄
+c.4.05.1,Enlil in the E-kur (Enlil A),,24,sun₇-na inim bur₂-ra ni₂ buluŋ₅ di silim-eš₂ di
+c.4.05.1,Enlil in the E-kur (Enlil A),,25,iri niŋ₂-gig-ga nu-mu-ni-ib-dib-be₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,26,nibru{ki} a₂-bi sa-par₃ gal-la-am₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,27,šag₄-ba hu-ri₂-in{mušen}-e dub₃ mu-un-bad-ba₉-re₆
+c.4.05.1,Enlil in the E-kur (Enlil A),,28,lu₂-erim₂ lu₂ hul-ŋal₂ šu-bi la-ba-ra-e₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,29,iri niŋ₂-gen₆-na saŋ-e-eš rig₇-ga
+c.4.05.1,Enlil in the E-kur (Enlil A),,30,niŋ₂-zid niŋ₂-si-sa₂ gi₁₆-sa-še₃ ak-a
+c.4.05.1,Enlil in the E-kur (Enlil A),,31,tug₂ dan₂-dan₂-na kar-ra ŋal₂-la
+c.4.05.1,Enlil in the E-kur (Enlil A),,32,šeš-gal šeš-ban₃-da dugud-de₃-da nam-lu₂-ulu₃ ak-da
+c.4.05.1,Enlil in the E-kur (Enlil A),,33,inim ab-ba-še₃ ŋizzal ak-de₃ ni₂ šu-a gi₄-gi₄-dam
+c.4.05.1,Enlil in the E-kur (Enlil A),,34,dumu ama-ni-ir sun₅-na ni₂ teŋ₃-ŋe₂₆-da nam-ab-ba sud-de₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,35,iri a₂-dam kug {d}en-lil₂-la₂-kam
+c.4.05.1,Enlil in the E-kur (Enlil A),,36,nibru{ki} eš₃ ki aŋ₂ a-a kur gal-la-kam
+c.4.05.1,Enlil in the E-kur (Enlil A),,37,barag nam-he₂ e₂-kur e₂ za-gin₃ sahar-ta ša-ba-ra-an-il₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,38,hur-saŋ il₂-la-gin₇ ki sikil-la bi₂-in-mu₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,39,nun-bi kur gal a-a {d}en-lil₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,40,e₂-kur eš₃ mah-a barag-ba dur₂ bi₂-in-ŋar
+c.4.05.1,Enlil in the E-kur (Enlil A),,41,e₂-a me-bi diŋir sag₂ nu-di
+c.4.05.1,Enlil in the E-kur (Enlil A),,42,šu-luh sikil-bi ki-gin₇ nu-silig-ge
+c.4.05.1,Enlil in the E-kur (Enlil A),,43,me-bi me abzu lu₂ igi nu-bar-re-de₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,44,šag₄-bi ab su₃-ra₂ an-zag nu-zu-a
+c.4.05.1,Enlil in the E-kur (Enlil A),,45,urin du₃-a urin mul-la-ba
+c.4.05.1,Enlil in the E-kur (Enlil A),,46,di-ir-ga me ul-e šu im-ta-du₇-du₇
+c.4.05.1,Enlil in the E-kur (Enlil A),,47,inim-inim-ma-bi šudu₃-šudu₃-de₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,48,mu₇-mu₇-bi inim sizkur-ra-kam
+c.4.05.1,Enlil in the E-kur (Enlil A),,49,inim-bi inim-ŋar sag₉ bar šu ŋiš šub-šub-bu-da
+c.4.05.1,Enlil in the E-kur (Enlil A),,50,ŋarza niŋ₂ kal-kal-la-kam
+c.4.05.1,Enlil in the E-kur (Enlil A),,51,ezen i₃ gara₂ sud he₂-ŋal₂-la du₈-a
+c.4.05.1,Enlil in the E-kur (Enlil A),,52,ŋiš-hur-bi giri₁₇-zal šag₄ hul₂-la di-bi niŋ₂ gal-gal-la-kam
+c.4.05.1,Enlil in the E-kur (Enlil A),,53,ud šu₂-uš ezem-ma ud zal-le buru₁₄ mah-am₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,54,e₂ {d}en-lil₂-la₂ kur he₂-ŋal₂-la-kam
+c.4.05.1,Enlil in the E-kur (Enlil A),,55,šu gid₂ igi-tum₃ la₂ šu sumur niŋ₂-gig-ga
+c.4.05.1,Enlil in the E-kur (Enlil A),,56,e₂-a en-bi e₂-da mu₂-a
+c.4.05.1,Enlil in the E-kur (Enlil A),,57,lagar-bi šu silim-ma he₂-du₇-am₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,58,abzu gudug-bi šu-luh-ha tum₂-ma-me-eš
+c.4.05.1,Enlil in the E-kur (Enlil A),,59,nu-eš₃-bi šita kug-ge du₇-me-eš
+c.4.05.1,Enlil in the E-kur (Enlil A),,60,engar mah-bi sipad zid kalam-ma
+c.4.05.1,Enlil in the E-kur (Enlil A),,61,ud dug₃-ga zid-de₃-eš tu-ud-da-am₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,62,engar gana₂ daŋal-la he₂-du₇-am₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,63,ši-im-da-ŋen nidba gal-gal-la-da
+c.4.05.1,Enlil in the E-kur (Enlil A),,64,ŋiš-la₂-bi nu-mu-un-DU e₂-kur za-gin₃-še₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,65,{d}en-lil₂ a₂-dam kug ki-a hur-ra-za
+c.4.05.1,Enlil in the E-kur (Enlil A),,66,nibru{ki} iri ni₂-za ši-im-mi-du₃-du₃-am₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,67,ki-ur₃ kur ki sikil-zu a bi₂-dug₃-ga
+c.4.05.1,Enlil in the E-kur (Enlil A),,68,ub-da ₄-ba murub₄-ba dur-an-ki-ka ki ba-e-ni-tag-ge
+c.4.05.1,Enlil in the E-kur (Enlil A),,69,sahar-bi zi kalam-ma zi kur-kur-ra-ka
+c.4.05.1,Enlil in the E-kur (Enlil A),,70,šeg₁₂-bi kug huš-a uš₈ {na₄}za-gin₃-na-ka
+c.4.05.1,Enlil in the E-kur (Enlil A),,71,am-gin₇ ki-en-gi-ra si mul ba-ni-ib-be₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,72,kur-kur-re saŋ im-ma-da-sag₃-ge
+c.4.05.1,Enlil in the E-kur (Enlil A),,73,ezen gal-gal-ba uŋ₃-e nam-he₂-a ud-bi mu-un-di-ni-ib-zal-e
+c.4.05.1,Enlil in the E-kur (Enlil A),,74,{d}en-lil₂ {d}uraš kug hi-li du₈-du₈-a-zu
+c.4.05.1,Enlil in the E-kur (Enlil A),,75,abzu barag kug-ga gal-bi tum₂-ma-zu
+c.4.05.1,Enlil in the E-kur (Enlil A),,76,kur sig itima kug ki ni₂ te-en-te-en-zu
+c.4.05.1,Enlil in the E-kur (Enlil A),,77,e₂-kur e₂ za-gin₃ ki-tuš mah ni₂ gur₃-ru-zu
+c.4.05.1,Enlil in the E-kur (Enlil A),,78,ni₂ me-lem₄-bi an-ne₂ im-us₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,79,ŋissu-bi kur-kur-ra ša-mu-un-la₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,80,suh₁₀-bi an-šag₄-ga-aš ša-mu-un-bad-ba₉-re₆
+c.4.05.1,Enlil in the E-kur (Enlil A),,81,en-en-e barag-barag-ge₂-ne
+c.4.05.1,Enlil in the E-kur (Enlil A),,82,nidba kug-ge si mu-ni-in-sa₂-eš
+c.4.05.1,Enlil in the E-kur (Enlil A),,83,šudu₃ sizkur-ra u₃-gul mu-na-ŋa₂-ŋa₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,84,{d}en-lil₂ sipad igi zid bar-ra-zu
+c.4.05.1,Enlil in the E-kur (Enlil A),,85,gu₃ zid de₂-a kalam-ma il₂-la-zu
+c.4.05.1,Enlil in the E-kur (Enlil A),,86,kur šu-ni-še₃ kur ŋiri₃-ni-še₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,87,kur-ra ki su₃-ra₂-bi gu₂ mu-na-ab-ŋa₂-ŋa₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,88,a sed₄-gin₇ du₈-a niŋ₂ ki-šar₂-ra-ka
+c.4.05.1,Enlil in the E-kur (Enlil A),,89,maš₂-da-ri-a gu₂-un dugud-da-bi
+c.4.05.1,Enlil in the E-kur (Enlil A),,90,sa₂ bi₂-in-dug₄ e₂ niŋ₂-gur₁₁-ra-ka
+c.4.05.1,Enlil in the E-kur (Enlil A),,91,kisal mah-ha nidba si bi₂-in-sa₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,92,e₂-kur e₂ za-gin₃-na ma-sar-re-eš im-mi-in-tum₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,93,{d}en-lil₂ sipad zid teš₂-ba lu-a
+c.4.05.1,Enlil in the E-kur (Enlil A),,94,na-gada mas-su niŋ₂-zi-ŋal₂-la-ka
+c.4.05.1,Enlil in the E-kur (Enlil A),,95,nam-nun gal-la-ni ni₂ pa e₃-a-aš bi₂-in-ak
+c.4.05.1,Enlil in the E-kur (Enlil A),,96,men suh₁₀ kug-ga mu-ni-in-sig₇
+c.4.05.1,Enlil in the E-kur (Enlil A),,97,tum₉ hur-saŋ-ŋa₂ barag-ge si-a-na
+c.4.05.1,Enlil in the E-kur (Enlil A),,98,{d}tir-an-na-gin₇ an-e ši-in-gi₄
+c.4.05.1,Enlil in the E-kur (Enlil A),,99,dungu dirig-ga-gin₇ ni₂-bi-a mu-un-ŋen
+c.4.05.1,Enlil in the E-kur (Enlil A),,100,an-na dili nun-bi-im ki-a ušumgal-bi-im
+c.4.05.1,Enlil in the E-kur (Enlil A),,101,{d}a-nun-na-ke₄-ne diŋir mah-bi-im
+c.4.05.1,Enlil in the E-kur (Enlil A),,102,nam ni₂-te-a-ni ši-im-mi-in-tar-re
+c.4.05.1,Enlil in the E-kur (Enlil A),,103,diŋir na-me igi nu-mu-ni-in-du₈
+c.4.05.1,Enlil in the E-kur (Enlil A),,104,sukkal-mah-a-ni kingal {d}nuska
+c.4.05.1,Enlil in the E-kur (Enlil A),,105,dug₄-ga inim šag₄-ga ŋal₂-la-ni
+c.4.05.1,Enlil in the E-kur (Enlil A),,106,mu-un-da-an-zu šag₄ mu-da-an-kuš₂-u₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,107,a₂ aŋ₂-ŋa₂ daŋal-bi mu-un-na-da-an-tum₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,108,šita kug me kug-ga šu mu-un-na-mu₂-mu₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,109,kur gal {d}en-lil₂-da nu-me-a
+c.4.05.1,Enlil in the E-kur (Enlil A),,110,iri nu-du₃ a₂-dam ki li-bi₂-ib-ŋar
+c.4.05.1,Enlil in the E-kur (Enlil A),,111,tur₃ nu-du₃ amaš nu-ŋar-ŋar
+c.4.05.1,Enlil in the E-kur (Enlil A),,112,lugal nu-il₂-e en nu-u₃-tud
+c.4.05.1,Enlil in the E-kur (Enlil A),,113,lu₂-mah nin-diŋir maš₂-e nu-mu-un-dab₅-be₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,114,erin₂-e šagina ugula nu-tuku-tuku
+c.4.05.1,Enlil in the E-kur (Enlil A),,115,id₂-da a-eštub{ku₆} u₃-bi nu-dun-dun
+c.4.05.1,Enlil in the E-kur (Enlil A),,116,eŋer-bi ab-ta e₃ si li-bi₂-in-sa₂ kun-bi nu-mu-un-sud-e
+c.4.05.1,Enlil in the E-kur (Enlil A),,117,ab-e erim₃ dugud ni₂-ba nu-mu-un-u₃-tud
+c.4.05.1,Enlil in the E-kur (Enlil A),,118,ku₆ engur-ra-ke₄ ŋiš-gi-a nunuz nu-mu-ni-ib-nu₂-nu₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,119,mušen an-na-ke₄ ki daŋal-la gud₃ la-ba-ni-ib-u₂-us₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,120,an-na dungu sir₂-ra ka-bi nu-du₈-e
+c.4.05.1,Enlil in the E-kur (Enlil A),,121,a-šag₄-ga še gu-nu a-gar₃-ra nu-si-si
+c.4.05.1,Enlil in the E-kur (Enlil A),,122,edin-na giri₁₇-zal-bi u₂-šim nu-mu₂-mu₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,123,{ŋeš}kiri₆-a ŋiš daŋal kur-ra-ke₄ gurun nu-il₂-e
+c.4.05.1,Enlil in the E-kur (Enlil A),,124,kur gal {d}en-lil₂-da nu-me-a
+c.4.05.1,Enlil in the E-kur (Enlil A),,125,{d}nin-tur₅ nu-ug₅-ge saŋ ŋiš nu-ra-ra
+c.4.05.1,Enlil in the E-kur (Enlil A),,126,ab₂-e {e₂}tur₃-ra amar-bi nu-šub-be₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,127,u₈-e amaš-bi-a sila₄ ŋa₂ gig nu-e₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,128,a-za-lu-lu ni₂-ba lu-a
+c.4.05.1,Enlil in the E-kur (Enlil A),,129,nu-mu-ni-ib-nu₂-nu₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,130,maš₂-anše niŋ₂-ur₂-₄-e numun nu-mu-ni-ib-e₃ e-ne su₃-ud-bi nu-mu-un-u₅
+c.4.05.1,Enlil in the E-kur (Enlil A),,131,{d}en-lil₂ niŋ₂ galam-ma-galam-ma-zu niŋ₂-me-ŋar sug₄-ga
+c.4.05.1,Enlil in the E-kur (Enlil A),,132,šag₄-bi gu suh₃-a si nu-sa₂-e-dam
+c.4.05.1,Enlil in the E-kur (Enlil A),,133,gu-gu gilim-ma igi nu-pad₃-de₃-dam
+c.4.05.1,Enlil in the E-kur (Enlil A),,134,nam-diŋir-zu-še₃ nir im-te-ŋal₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,135,šag₄ kuš₂-u₃ ad gi₄-gi₄ en ni₂-te-na-me-en
+c.4.05.1,Enlil in the E-kur (Enlil A),,136,niŋ₂ ak-zu a-ba i₃-zu-zu
+c.4.05.1,Enlil in the E-kur (Enlil A),,137,me-zu me pa nu-ed₂-de₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,138,muš₃-za diŋir igi nu-bar-re-dam
+c.4.05.1,Enlil in the E-kur (Enlil A),,139,en diŋir lugal {d}en-lil₂-la₂-me-en
+c.4.05.1,Enlil in the E-kur (Enlil A),,140,di-kud ka-aš bar an ki-me-en
+c.4.05.1,Enlil in the E-kur (Enlil A),,141,inim mah-zu an-gin₇ dugud-da-gin₇ zig₃-zig₃ nu-e-zu
+c.4.05.1,Enlil in the E-kur (Enlil A),,142,inim-zu-še₃ diŋir {d}a-nun-na šu šum₂-ma im-ma-an-ak-eš
+c.4.05.1,Enlil in the E-kur (Enlil A),,143,inim-zu an-še₃ idim-ma ki-še₃ temen-am₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,144,an-še₃ idim gal an-ne₂ us₂-sa
+c.4.05.1,Enlil in the E-kur (Enlil A),,145,ki-še₃ temen sag₂ nu-di-dam
+c.4.05.1,Enlil in the E-kur (Enlil A),,146,an-e um-ma-te he₂-ŋal₂-la-am₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,147,an-ta he₂-ŋal₂ im-da-šeŋ₃-šeŋ₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,148,ki-a um-ma-te giri₁₇-zal-am₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,149,ki-ta giri₁₇-zal im-da-mu₂-mu₂
+c.4.05.1,Enlil in the E-kur (Enlil A),,150,inim-zu gu-am₃ inim-zu še-am₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,151,inim-zu a-eštub zi kur-kur-ra-kam
+c.4.05.1,Enlil in the E-kur (Enlil A),,152,niŋ₂-zi-ŋal₂ niŋ₂-ki u₅-a
+c.4.05.1,Enlil in the E-kur (Enlil A),,153,zi dug₃-ga u₂-šim im-da-pa-an-pa-an
+c.4.05.1,Enlil in the E-kur (Enlil A),,154,{d}en-lil₂ sipad zid-me-en DU.DU-bi mu-un-zu
+c.4.05.1,Enlil in the E-kur (Enlil A),,155,dub₃-tuku-am₃ mul gun₃-gun₃-a
+c.4.05.1,Enlil in the E-kur (Enlil A),,156,{d}nin-lil₂ nitalam kug inim-ma-ni šag₄-ga
+c.4.05.1,Enlil in the E-kur (Enlil A),,157,tug₂-ba₁₃ kug ulutim₂-ta nir-ra alan me-dim₂-ta sig₁₀-ga
+c.4.05.1,Enlil in the E-kur (Enlil A),,158,munus zid igi il₂-la ba-e-de₃-tuku-dam
+c.4.05.1,Enlil in the E-kur (Enlil A),,159,ul gur₃-ru e₂-kur-ra nin me-te-ŋal₂ zu
+c.4.05.1,Enlil in the E-kur (Enlil A),,160,ad gi₄-gi₄ inim-ma ba-ab-du₇
+c.4.05.1,Enlil in the E-kur (Enlil A),,161,inim-ma-ni su-a bi₂-dug₃-ga-bi i₃ li šag₄-ga-kam
+c.4.05.1,Enlil in the E-kur (Enlil A),,162,barag kug barag sikil-da ši-im-mu-e-da-an-til₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,163,ad ši-mu-da-an-gi₄-gi₄ šag₄ ši-mu-da-an-kuš₂-u₃
+c.4.05.1,Enlil in the E-kur (Enlil A),,164,nam tar-re ki {d}utu e₃-a nam ši-mu-da-ab-tar-re
+c.4.05.1,Enlil in the E-kur (Enlil A),,165,{d}nin-lil₂ nin an ki nin kur-kur-ra-ke₄
+c.4.05.1,Enlil in the E-kur (Enlil A),,166,za₃-mi₂ kur gal-la-ka mi₂ dug₄-ga
+c.4.05.1,Enlil in the E-kur (Enlil A),,167,mah-di inim-ma-ni ki-bi-še₃ ŋar
+c.4.05.1,Enlil in the E-kur (Enlil A),,168,dug₄-ga a₂-tah-a-ni niŋ₂ nu-kur₂-ru
+c.4.05.1,Enlil in the E-kur (Enlil A),,169,ka-ta e₃-a-ni saŋ ba-an-gub
+c.4.05.1,Enlil in the E-kur (Enlil A),,170,ŋiš-hur-hur-ra-ni inim ge-en-ge-en
+c.4.05.1,Enlil in the E-kur (Enlil A),,171,kur gal a-a {d}en-lil₂ za₃-mi₂-zu mah-am₃

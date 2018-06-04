@@ -1,0 +1,69 @@
+id_text,text_name,version,l_no,text
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,1,še-er-zid bad-ta
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,2,an-na ni₂-bi
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,3,kal
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,4,{d}suen
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,5,{d}šu-{d}suen
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,6,{d}nanna ša-mu-u₈-da-an-u₅
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,7,bar-sud-am₃
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,8,hi-li an-na nun uraš-a-X
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,9,šul {d}suen u₁₈-ru ud an ki
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,10,mu he₂-ŋal₂-la dug₃ ki-bi-še₃ zal-e
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,11,{d}nanna en itid-da u₃-tud-Xbr
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,12,{d}šu-{d}suen-ŋu₁₀ mu-un-u₃-tud
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,13,šag₄-ba-tuku-am₃
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,14,peš₁₀-ŋal₂ ne₃ gal diŋir gal-e-ne
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,15,a-a {d}nanna di-zu eš-bar galam
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,16,{d}nu-nam-nir-da nam gal tar-re
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,17,{d}aš-im₂-babbar šul ki aŋ₂-ŋa₂-na
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,18,{d}šu-{d}suen-ŋu₁₀-ur₂ nam mu-ni-ib-tar-re
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,19,bar-sud ₂-kam-ma-am₃
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,20,ud ŋi₆ dug₃-dug₃ mu zu₂ keše₂-de₃
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,21,{d}nanna aga₃ an kug-ga-ke₄
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,22,{d}šu-{d}suen-ŋu₁₀
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,23,zu ki-zu ka
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,24,saŋ
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,25,šag₄-ba-tuku ₂-kam-ma-am₃
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,26,{d}nanna en gal an ki-a-ka
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,27,pa bi₂-in-e₃
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,28,al-barag₂-ge
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,29,
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,30,
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,32,
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,33,
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,34,kisal aga zid an-na
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,35,saŋ-ŋa₂ na mi-ni-in-de₅
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,36,{d}šu-{d}suen-ŋu₁₀ nun kalam-ma-ka
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,37,sa-bar-sud-da-am₃
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,38,ud-da-a-ni {d}šu-{d}suen-ŋu₁₀ su₃-ud-mu-un-ši
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,39,{d}šu-{d}suen-ŋu₁₀ an-da mu₂-a
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,40,ŋiš-gi₄-ŋal₂-bi-im
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,41,en dumu an-na
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,42,si mul-mul-da
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,43,{d}nanna gal-di
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,44,niŋ₂
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,45,ud ŋiš-he₂-a ud uraš-a
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,46,su-lim-ma-ni uŋ₃-e dub₃ bar-bar-re
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,47,en {d}aš-im₂-babbar ušum pa e₃
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,48,šul {d}suen muš₃ kug ki us₂-sa
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,49,{d}nanna an ki-a u₅-a e₃
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,50,{d}šu-{d}suen kalam-ma am₃-mi-in-u₅
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,51,ni₂ gur₃-ru an-e ušumgal
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,52,ni₂ gur₃-ru an-na
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,53,nun {d}šu-{d}suen-ŋu₁₀ nir ša-mu-u₈-da-ŋal₂-la
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,54,gu₂-da mu-ni-in-la₂-la₂
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,55,kur-kur niŋ₂-daŋal-ba
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,56,ŋidru ud su₃-ra₂
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,57,uŋ₃ ki-bal-a
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,58,kilib₃-ba-bi DU.DU-e
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,59,dumu nun zi-le {d}en-lil₂-la₂-še₃
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,60,{d}šu-{d}suen šu-ni-a mi-in-si
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,61,lugal-ŋu₁₀
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,62,{d}šu-{d}suen giri₁₇-zal
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,63,sa-ŋar-ra-am₃
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,64,{d}šu-{d}suen-ŋu₁₀ ud til₃-la
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,65,ŋiš-gi₄-ŋal₂-bi-im
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,66,en an-na dug₃-ŋal₂ ki
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,67,šul {d}suen en an-na-kam
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,68,{d}šu-{d}suen
+c.2.4.4.6,An adab (?) to Suen for Šu-Suen (Šu-Suen F),,69,u₁₈-ru₁₂-bi-im

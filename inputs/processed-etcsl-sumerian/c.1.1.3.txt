@@ -1,0 +1,466 @@
+id_text,text_name,version,l_no,text
+c.1.1.3,Enki and the world order,,1,en mah-di an ki nir-ŋal₂ ni₂-te-na
+c.1.1.3,Enki and the world order,,2,a-a {d}en-ki gud-dam a ri-a am gal-e tud-da
+c.1.1.3,Enki and the world order,,3,mi₂ dug₄-ga kur gal {d}en-lil₂-le ki aŋ₂ an kug-ga
+c.1.1.3,Enki and the world order,,4,lugal {ŋeš}meš₃ abzu-a du₃-a kur-kur-ta il₂-la
+c.1.1.3,Enki and the world order,,5,ušumgal mah eridug{ki}-ga gub-ba
+c.1.1.3,Enki and the world order,,6,ŋissu-bi an ki-a dul-la
+c.1.1.3,Enki and the world order,,7,{ŋeš}tir {ŋeš}ŋeštin-na kalam-ma la₂-a
+c.1.1.3,Enki and the world order,,8,{d}en-ki en he₂-ŋal₂-la {d}a-nun-na-ke₄-ne
+c.1.1.3,Enki and the world order,,9,{d}nu-dim₂-mud peš₁₀-ŋal₂ e₂-kur-ra gaba-ŋal₂ an ki-a
+c.1.1.3,Enki and the world order,,10,e₂-zu mah abzu-ta sig₉-ga dim gal an ki-a
+c.1.1.3,Enki and the world order,,11,{d}en-ki igi ₁ il₂-la-ni kur-šag₄-ge di-di
+c.1.1.3,Enki and the world order,,12,alim u₃-tud lu-lim u₃-tud-da
+c.1.1.3,Enki and the world order,,13,šeg₉ u₃-tud šeg₉-bar u₃-tud-da
+c.1.1.3,Enki and the world order,,14,šag₄-tum₂-ma si-dug₄-ga šag₄ hur-saŋ-ŋa₂-ka
+c.1.1.3,Enki and the world order,,15,sig₇-ga-ba lu₂ nu-ku₄-ku₄-da
+c.1.1.3,Enki and the world order,,16,šag₄ kalam-ma gi hal-hal-la-gin₇ igi-zu im-ši-ŋal₂
+c.1.1.3,Enki and the world order,,17,ud šid-e itid e₂-ba ku₄-ku₄ mu šu du₇-du₇-da
+c.1.1.3,Enki and the world order,,18,mu šu du₇ unken-e eš-bar šum₂-mu-da
+c.1.1.3,Enki and the world order,,19,eš-bar kiŋ₂ ud-da si sa₂-sa₂-e-da
+c.1.1.3,Enki and the world order,,20,a-a {d}en-ki uŋ₃ saŋ si-a-ba lugal-bi za-e-me-en
+c.1.1.3,Enki and the world order,,21,ka ba-a-zu niŋ₂ im-lu-lu he₂-ŋal₂ ki bi₂-ib-us₂
+c.1.1.3,Enki and the world order,,22,pa-zu gu gurun-ba sig₇-ga gada ha-ad-e du₇-a
+c.1.1.3,Enki and the world order,,23,diŋir-re-e-ne-ka me-te-aš im-mi-ib₂-ŋal₂
+c.1.1.3,Enki and the world order,,24,ŋiš {ŋeš}tir-ba du₃-a {tug₂}zulumhi-e na-nam
+c.1.1.3,Enki and the world order,,25,u₈ zid sila₄ zid na-su₈-e me-te-aš im-mi-ib₂-ŋal₂
+c.1.1.3,Enki and the world order,,26,gana₂ zid-da um-mi-in-ra
+c.1.1.3,Enki and the world order,,27,guru₇-du₆ guru₇-maš-e gu₂ im-da-gur-re
+c.1.1.3,Enki and the world order,,28,i₃ na-nam ga na-nam tur₃ amaš-e nam-de₆
+c.1.1.3,Enki and the world order,,29,sipad-de₃ i-lu-lam-ma-na dug₃-ge-eš im-mi-ib-be₂
+c.1.1.3,Enki and the world order,,30,unud-de₃ dun₅-dun₅ {dug}šakir-ra-ka-na ud im-di-ni-ib-zal-e
+c.1.1.3,Enki and the world order,,31,kiŋ₂-sig unu₂ gal diŋir-re-e-ne-ka me-te-aš im-mi-ib-ŋal₂
+c.1.1.3,Enki and the world order,,32,inim-zu ŋuruš-e usu-ni-gin₇ šag₄-ga mu-ni-ŋal₂
+c.1.1.3,Enki and the world order,,33,gud a₂ gur-ra-gin₇ kisal-a mu-un-du₇-du₇
+c.1.1.3,Enki and the world order,,34,inim-zu ki-sikil-e hi-li-a-ni-gin₇ saŋ-ŋa₂ mu-ni-in-ŋal₂
+c.1.1.3,Enki and the world order,,35,iri{ki} ŋar-ŋar-ra-bi uŋ₃-e u₆ mu-e
+c.1.1.3,Enki and the world order,,36,sig₁₀-ga-am₃ kaskal-e am₃-ra
+c.1.1.3,Enki and the world order,,37,DAG.KISIM₅×AB₂ du₃-a a₂-bi na-sud-e
+c.1.1.3,Enki and the world order,,38,en-en-e-ne barag-barag-ge₂-e-ne
+c.1.1.3,Enki and the world order,,39,šag₄-bi hul₂-hul₂-la-da silim di-e-de₃
+c.1.1.3,Enki and the world order,,40,za-a-da kur gal {d}en-lil₂-le a₂ mu-un-da-an-aŋ₂
+c.1.1.3,Enki and the world order,,41,{d}en-ki en he₂-ŋal₂-la en ŋeštug₂-ga
+c.1.1.3,Enki and the world order,,42,en an-ne₂ ki aŋ₂ he₂-du₇ eridug{ki}-ga
+c.1.1.3,Enki and the world order,,43,dug₄-ga eš-bar ki-bi-še₃ ŋar nam tar-re gal-zu
+c.1.1.3,Enki and the world order,,44,ud-de₃ saŋ ba-ab-gi₄ itid e₂-ba ba-an-kur₉
+c.1.1.3,Enki and the world order,,45,ba-e-a-ed₃-de₃ šid-bi sa₂ ba-ab-dug₄
+c.1.1.3,Enki and the world order,,46,uŋ₃ ki-tuš-ba bi₂-in-tuš
+c.1.1.3,Enki and the world order,,47,na-gada-bi bi₂-in-us₂
+c.1.1.3,Enki and the world order,,48,šu du₇-a
+c.1.1.3,Enki and the world order,,49,su ba-an-gi₄
+c.1.1.3,Enki and the world order,,50,{ŋeš}tukul e₂-ba bi₂-in-gi₄
+c.1.1.3,Enki and the world order,,51,en uŋ₃ ki-tuš-ba bi₂-in-ge-en
+c.1.1.3,Enki and the world order,,52,a-a {d}en-ki uŋ₃ numun-a e₃-ni numun zid he₂-i-i
+c.1.1.3,Enki and the world order,,53,{d}nu-dim₂-mud u₈ zid e₃-ni sila₄ zid he₂-u₃-tud
+c.1.1.3,Enki and the world order,,54,ab₂ numun e₃-ni amar zid he₂-u₃-tud
+c.1.1.3,Enki and the world order,,55,ud₅ zid e₃-ni maš₂ zid he₂-u₃-tud
+c.1.1.3,Enki and the world order,,56,gan₂-ne₂ gana₂ zid u₃-un-e₃-en
+c.1.1.3,Enki and the world order,,57,guru₇-du₆ guru₇-maš-e an-edin-na gu₂ hu-mu-un-gur-gur-re
+c.1.1.3,Enki and the world order,,58,kalam-ma ki tab-ba-a u₃-ba-e₃-en
+c.1.1.3,Enki and the world order,,60,
+c.1.1.3,Enki and the world order,,61,{d}en-ki lugal abzu-ke₄ ni₂ gal na-kur-ku silim zid-de₃-eš na-e
+c.1.1.3,Enki and the world order,,62,a-a-ŋu₁₀ lugal an ki-ke₄
+c.1.1.3,Enki and the world order,,63,an ki-a pa e₃ ma-ni-in-ak
+c.1.1.3,Enki and the world order,,64,pap-ŋu₁₀ lugal kur-kur-ra-ke₄
+c.1.1.3,Enki and the world order,,65,me mu-un-ur₄-ur₄ me šu-ŋu₁₀-še₃ mu-un-ŋar
+c.1.1.3,Enki and the world order,,66,e₂-kur-re e₂ {d}en-lil₂-la₂-ta
+c.1.1.3,Enki and the world order,,67,abzu eridug{ki}-ŋu₁₀-še₃ nam-galam mu-de₆
+c.1.1.3,Enki and the world order,,68,a zid am gal-e ri-a-me-en dumu-saŋ an-na-me-en
+c.1.1.3,Enki and the world order,,69,ud gal ki gal-la e₃-a-me-en en gal kalam-me-en
+c.1.1.3,Enki and the world order,,70,gu₂-gal barag-barag-ge₂-ne-me-en a-a kur-kur-ra-me-en
+c.1.1.3,Enki and the world order,,71,šeš-gal diŋir-re-e-ne-me-en he₂-ŋal₂ šu du₇-me-en
+c.1.1.3,Enki and the world order,,72,kišib-ŋal₂ an ki-bi-da-me-en
+c.1.1.3,Enki and the world order,,73,ŋeštug₂ ŋizzal kur-kur-ra-me-en
+c.1.1.3,Enki and the world order,,74,an lugal-da barag an-na-ka di si sa₂-e-me-en
+c.1.1.3,Enki and the world order,,75,{d}en-lil₂-da kur-ra igi ŋal₂-la-ka nam dug₃ tar-ra-me-en
+c.1.1.3,Enki and the world order,,76,nam tar-ra ki ud e₃-a-ke₄ šu-ŋa₂ mu-un-ŋal₂
+c.1.1.3,Enki and the world order,,77,{d}nin-tur₅-re mi₂ zid dug₄-ga-me-en
+c.1.1.3,Enki and the world order,,78,{d}nin-hur-saŋ-ŋa₂-ke₄ mu dug₃ sa₄-a-me-en
+c.1.1.3,Enki and the world order,,79,palil {d}a-nun-na-ke₄-ne-me-en
+c.1.1.3,Enki and the world order,,80,u₃-tud-da dumu-saŋ an kug-ga-me-en
+c.1.1.3,Enki and the world order,,81,en-e nam-mah mu-un-du-a-ta
+c.1.1.3,Enki and the world order,,82,nun gal-e ni₂-te-ni za₃-mi₂ mi-ni-in-dug₄-ga-ta
+c.1.1.3,Enki and the world order,,83,{d}a-nun-na šudu₃ a-ra-zu-a ši-im-ma-an-sug₂-sug₂-ge-eš
+c.1.1.3,Enki and the world order,,84,en nam-galam-ma ŋiri₃ gub-ba
+c.1.1.3,Enki and the world order,,85,eš-bar kiŋ₂-ŋa₂ za₃-mi₂ dug₄-ga {d}en-ki za₃-mi₂
+c.1.1.3,Enki and the world order,,86,₂-kam-ma-še₃ nam gal hul₂-la-da
+c.1.1.3,Enki and the world order,,87,{d}en-ki lugal abzu-ke₄ ni₂ gal na-kur-ku silim zid-de₃-eš na-e
+c.1.1.3,Enki and the world order,,88,en-me-en dug₄-ga zid-da-me-en saŋ-bi-še₃ e₃-a-me-en
+c.1.1.3,Enki and the world order,,89,dug₄-ga-ŋu₁₀ tur₃ im-ši-du₃-du₃ amaš im-ši-niŋin₂-niŋin₂
+c.1.1.3,Enki and the world order,,90,an-e um-ma-te im he₂-ŋal₂-la an-ta šeŋ₃-ŋa₂
+c.1.1.3,Enki and the world order,,91,ki-e um-ma-te a-eštub u₃-ba ŋal₂-la-am₃
+c.1.1.3,Enki and the world order,,92,a-gar₃ sig₇-sig₇-ga-bi um-ma-te
+c.1.1.3,Enki and the world order,,93,inim-ŋu₁₀-ta guru₇-du₆ guru₇-maš-e gu₂ im-da-gur-re
+c.1.1.3,Enki and the world order,,94,e₂-ŋu₁₀ eš₃ ki sikil-la bi₂-du₃ mu dug₃-ga bi₂-sa₄
+c.1.1.3,Enki and the world order,,95,abzu-ŋu₁₀ eš₃ bi₂-du₃ nam dug₃-ga bi₂-tar
+c.1.1.3,Enki and the world order,,96,e₂-ŋu₁₀ ŋissu-bi ambar muš-a i-ni-in-la₂
+c.1.1.3,Enki and the world order,,97,e₂-ŋu₁₀ suhur{ku₆}-e u₂-lal₃-e sun₄ im-ši-sud-e
+c.1.1.3,Enki and the world order,,98,eštub{ku₆} gi-zi di₄-di₄-la₂ kun mu-na-sud-e
+c.1.1.3,Enki and the world order,,99,buru₅{mušen} gud₃-ba šeg₁₁ mu-da-an-gi₄-gi₄
+c.1.1.3,Enki and the world order,,100,en ŋiš ma-an-la₂-eš
+c.1.1.3,Enki and the world order,,101,{d}en-ki-me-en za₃-mi₂-ŋa₂ ši-im-ma-sug₂-sug₂-ge-eš
+c.1.1.3,Enki and the world order,,102,abgal abrig lu₂ igi
+c.1.1.3,Enki and the world order,,103,A.ZI/ZI ZI/ZI.A{sar} ud su₃-ra₂-ŋa₂ ši-im-ma-an-sug₂-sug₂-ge-eš
+c.1.1.3,Enki and the world order,,104,enkum ninkum-e-ne šu si ša-ma-an-sa₂-e-eš
+c.1.1.3,Enki and the world order,,105,id₂ ša-ma-ab-kug eš₃ šag₄-ga ša-ma-ab-la₂
+c.1.1.3,Enki and the world order,,106,abzu-ŋa₂ šir₃ kug nam-šub ma-an-la₂
+c.1.1.3,Enki and the world order,,107,ma₂-gur₈-ŋu₁₀ men tarah abzu
+c.1.1.3,Enki and the world order,,108,šag₄-ba hul₂-hul₂-la ša-ma-ni-ib-de₆
+c.1.1.3,Enki and the world order,,109,ambar mah ki šag₄-ge pad₃-da-ŋa₂
+c.1.1.3,Enki and the world order,,110,a₂-bi ša-ma-an-sud-e gu₂ ša-ma-an-mar-mar-e
+c.1.1.3,Enki and the world order,,111,gu₃ ra-e-ne {ŋeš}ŋisal šu ša-ma-an-du₇-uš
+c.1.1.3,Enki and the world order,,112,šir₃ ša-ma-ab-dug₃-ge-ne id₂ ša-ma-ab-hul₂-le-ne
+c.1.1.3,Enki and the world order,,113,{d}niŋir-sig₇ ensi₂ {ŋeš}ma₂-gur₈-ra-ke₄
+c.1.1.3,Enki and the world order,,114,ŋidru kug-sig₁₇ šu ša-ma-ab-du₈
+c.1.1.3,Enki and the world order,,115,{d}en-ki-me-en ma₂ tarah abzu-ŋa₂ a₂ ša-ma-ni-ib-aŋ₂-e
+c.1.1.3,Enki and the world order,,116,en-me-en ŋe₂₆-e ga-ŋen
+c.1.1.3,Enki and the world order,,117,{d}en-ki-me-en kalam-ŋa₂-aš ga-an-e₃
+c.1.1.3,Enki and the world order,,118,en nam tar-tar-re-ŋu₁₀ ŋe₂₆-e
+c.1.1.3,Enki and the world order,,119,ra
+c.1.1.3,Enki and the world order,,120,u₆-e
+c.1.1.3,Enki and the world order,,121,ma-ab-šum₂ he₂-gu₇-e
+c.1.1.3,Enki and the world order,,122,sikil-la
+c.1.1.3,Enki and the world order,,123,{ŋeš}erin sig₇-sig₇-ga-bi u₆ ga-am₃-dug₄
+c.1.1.3,Enki and the world order,,124,kur me-luh-ha{ki} ma₂-gan{ki} dilmun{ki}-bi
+c.1.1.3,Enki and the world order,,125,{d}en-ki-me-en igi he₂-em-da-a-du₈
+c.1.1.3,Enki and the world order,,126,{ŋeš}ma₂ dilmun{ki}-na ŋiš he₂-en-du₃
+c.1.1.3,Enki and the world order,,127,{ŋeš}ma₂ ma₂-gan{ki}-na an-zag he₂-en-la₂
+c.1.1.3,Enki and the world order,,128,{ŋeš}ma₂-gi₄-lum me-luh-ha{ki}-a-ke₄
+c.1.1.3,Enki and the world order,,129,kug-sig₁₇ kug-babbar bal-še₃ he₂-ak-e
+c.1.1.3,Enki and the world order,,130,{d}en-lil₂ lugal kur-kur-ra-ra nibru{ki}-še₃ he₂-na-ab-tum₂
+c.1.1.3,Enki and the world order,,131,iri nu-tuku-ra e₂ nu-tuku-ra
+c.1.1.3,Enki and the world order,,132,mar-tu maš₂-anše saŋ-e-eš mu-ni-rig₇
+c.1.1.3,Enki and the world order,,133,nun gal kalam-ma-na e₃-a-ra
+c.1.1.3,Enki and the world order,,134,{d}a-nun-na-ke₄-ne mi₂ zid mu-un-ne-ne
+c.1.1.3,Enki and the world order,,135,en me gal me sikil-la u₅-a
+c.1.1.3,Enki and the world order,,136,me gal me šar₂-ra ŋiri₃ gub-ba
+c.1.1.3,Enki and the world order,,137,an ki niŋ₂-daŋal-ba zag ša₄-a
+c.1.1.3,Enki and the world order,,138,eridug{ki} ki kug ki kal-kal-la-aš me mah šu ti-a
+c.1.1.3,Enki and the world order,,139,{d}en-ki en an ki za₃-mi₂
+c.1.1.3,Enki and the world order,,140,nun gal kalam-ma-na e₃-a-ra
+c.1.1.3,Enki and the world order,,141,en-en-e-ne barag-barag-ge₂-ne
+c.1.1.3,Enki and the world order,,142,ka-mu₇-ŋal₂ eridug{ki}-ga-ke₄-ne
+c.1.1.3,Enki and the world order,,143,šag₄-gada-la₂ ki-en-gi-ra-ke₄-ne
+c.1.1.3,Enki and the world order,,144,nam-išib abzu mu-na-ab-be₂-ne
+c.1.1.3,Enki and the world order,,145,a-a {d}en-ki ki kug ki kal-la ŋiri₃ im-mi-ib-gub-bu-ne
+c.1.1.3,Enki and the world order,,146,dag agrun-na
+c.1.1.3,Enki and the world order,,147,ki-gub-ba mu X-sa₄-e-ne
+c.1.1.3,Enki and the world order,,148,eš₃ mah abzu X-sikil-e-ne
+c.1.1.3,Enki and the world order,,149,šag₄-ba li an-na u₂ sikil-la im-mi-ib₂-ed₂-ne
+c.1.1.3,Enki and the world order,,150,kug ki-en-DU mah {d}en-ki-ka-ke₄ si im-sa₂-e-ne
+c.1.1.3,Enki and the world order,,151,kun-saŋ eridug{ki}-ga kar dug₃-ga im-mi-ib₂-galam-e-ne
+c.1.1.3,Enki and the world order,,152,tarah abzu kar dug₃ kar mah im-mi-ib-dub-e-ne
+c.1.1.3,Enki and the world order,,153,uz-ga kug mu-na-ŋa₂-ŋa₂-ne
+c.1.1.3,Enki and the world order,,154,a-ra-zu-a-ra-zu mu-na-ab-be₂-ne
+c.1.1.3,Enki and the world order,,155,
+c.1.1.3,Enki and the world order,,156,
+c.1.1.3,Enki and the world order,,157,
+c.1.1.3,Enki and the world order,,158,
+c.1.1.3,Enki and the world order,,160,{ŋeš}ma₂-gur₈-ra
+c.1.1.3,Enki and the world order,,161,a-ŋi₆ uru₁₆
+c.1.1.3,Enki and the world order,,162,{d}en-ki-ra a-da-min₃-na mu-na-ab-sag₃-ge
+c.1.1.3,Enki and the world order,,163,suhur-maš{ku₆}-e u₂-lal₃-e sun₄ mu-na-sud-e
+c.1.1.3,Enki and the world order,,164,nun gal-ra ₂-kam-ma a-da-min₃ mu-na-e
+c.1.1.3,Enki and the world order,,165,eštub{ku₆}-e gi-zi di₄-di₄-la₂-bi kun mu-na-sud-e
+c.1.1.3,Enki and the world order,,166,urin gal abzu-ta sig₉-ga an-dul₃-e-eš ak-e
+c.1.1.3,Enki and the world order,,167,ŋissu-bi ki-šar₂-ra la₂-a uŋ₃-e ni₂ te-en-ten
+c.1.1.3,Enki and the world order,,168,us₂-saŋ dimgul ambar muš-a du₃-a kur-kur-ta il₂-la
+c.1.1.3,Enki and the world order,,169,en ensi₂ gal abzu-ke₄
+c.1.1.3,Enki and the world order,,170,tarah abzu-ka a₂ ša-mu-un-aŋ₂-e
+c.1.1.3,Enki and the world order,,171,meš₃ abzu-ta še-er-ka-an dug₄-ga
+c.1.1.3,Enki and the world order,,172,eridug{ki} ki kug ki kal-kal-la-aš me mah šu ti-a
+c.1.1.3,Enki and the world order,,173,nu-banda₃ mah kur-ra dumu {d}en-lil₂-la₂-ke₄
+c.1.1.3,Enki and the world order,,174,gi-muš kug-ga šu im-mi-in-du₈
+c.1.1.3,Enki and the world order,,175,ur-saŋ abzu-še₃ saŋ im-mi-ib-il₂-il₂-e
+c.1.1.3,Enki and the world order,,176,
+c.1.1.3,Enki and the world order,,180,an
+c.1.1.3,Enki and the world order,,181,lu₂
+c.1.1.3,Enki and the world order,,182,{d}sirsir ma₂-lah₅ {ŋeš}ma₂-gur₈-ra-ke₄
+c.1.1.3,Enki and the world order,,183,en-ra {ŋeš}ma₂ šu
+c.1.1.3,Enki and the world order,,184,{d}niŋir-sig₇ ensi₂ ma₂-gur₈-ra-ke₄
+c.1.1.3,Enki and the world order,,185,en-ra ŋidru kug šu ša-ma-ab-du₈
+c.1.1.3,Enki and the world order,,186,la-ha-ma engur-ra ₅₀-bi mi₂ zid mu-un-ne-ne
+c.1.1.3,Enki and the world order,,187,gu₃ ra-e-ne gam₄-gam{mušen} an-na-gin₇
+c.1.1.3,Enki and the world order,,188,lugal u₃-na gub a-a {d}en-ki kalam-ma
+c.1.1.3,Enki and the world order,,189,nun gal kalam-ma e₃-a-ra
+c.1.1.3,Enki and the world order,,190,he₂-ŋal₂ an ki-a pa e₃ mu-na-ab-ak
+c.1.1.3,Enki and the world order,,191,{d}en-ki-ke₄ nam im-mi-ib-tar-re
+c.1.1.3,Enki and the world order,,192,ki-en-gi kur gal ma-da an ki
+c.1.1.3,Enki and the world order,,193,še-er-zid gur₃-ru ud e₃-ta ud šu-uš uŋ₃-e me šum₂-mu
+c.1.1.3,Enki and the world order,,194,me-zu me mah šu nu-tu-tu
+c.1.1.3,Enki and the world order,,195,šag₄-zu galam kad₅ lu₂ nu-pad₃-de₃
+c.1.1.3,Enki and the world order,,196,umun₂ zid ki diŋir u₃-tud-za an-gin₇ šu nu-teŋ₃-ŋe₂₆
+c.1.1.3,Enki and the world order,,197,lugal u₃-tud suh zid keše₂-de₃
+c.1.1.3,Enki and the world order,,198,en u₃-tud saŋ-men ŋa₂-ŋa₂
+c.1.1.3,Enki and the world order,,199,en-zu en idim an lugal-da barag an-na i-im-tuš
+c.1.1.3,Enki and the world order,,200,lugal-zu kur gal a-a {d}en-lil₂
+c.1.1.3,Enki and the world order,,201,{ŋeš}erin-gin₇ šar₂ dug₄-ge ša-mu-ra-an-gi₁₆-ib a-a kur-kur-ra-ke₄
+c.1.1.3,Enki and the world order,,202,{d}a-nun-na diŋir gal-gal-e-ne
+c.1.1.3,Enki and the world order,,203,šag₄-za ki-ur₃-ra šu ba-ni-in-ti-eš
+c.1.1.3,Enki and the world order,,204,gi-gun₄-na ŋiš dili ŋiš dili-za u₂ mi-ni-ib-sug₄-sug₄-ne
+c.1.1.3,Enki and the world order,,205,e₂ ki-en-gi tur₃-zu he₂-du₃-du₃ ab₂-zu he₂-lu-lu
+c.1.1.3,Enki and the world order,,206,amaš-zu he₂-ŋar-ŋar udu-zu he₂-šar₂-šar₂
+c.1.1.3,Enki and the world order,,207,gi-gun₄-na-zu an-ne₂ he₂-em-us₂
+c.1.1.3,Enki and the world order,,208,e₂ zid-zu šu an-še₃ he₂-em-il₂
+c.1.1.3,Enki and the world order,,209,{d}a-nun-na-ke₄-ne šag₄-zu-a nam he₂-em-da-ab-tar-re-ne
+c.1.1.3,Enki and the world order,,210,eš₃ urim₂{ki}-e nam-mi-ib-dib
+c.1.1.3,Enki and the world order,,211,{d}en-ki lugal abzu-ke₄ nam im-mi-ib-tar-re
+c.1.1.3,Enki and the world order,,212,iri me-te-ŋal₂-la a tu₅-tu₅ gud silim-ma gub-ba
+c.1.1.3,Enki and the world order,,213,barag nam-he₂ kur-ra dub₃ ba₉-re₆ hur-saŋ-gin₇ il₂-la
+c.1.1.3,Enki and the world order,,214,{ŋeš}tir ha-šu-ur₂-ra ŋissu daŋal-la ne₃-ni-ta nir-ŋal₂
+c.1.1.3,Enki and the world order,,215,me šu du₇-a-zu si he₂-em-sa₂
+c.1.1.3,Enki and the world order,,216,kur gal {d}en-lil₂-le an ki-a mu mah-zu mi-ni-in-pad₃
+c.1.1.3,Enki and the world order,,217,iri nam tar-ra {d}en-ki-ka₃-me-en
+c.1.1.3,Enki and the world order,,218,eš₃ urim₂{ki} gu₂ an-še₃ he₂-zig₃
+c.1.1.3,Enki and the world order,,219,kur me-luh-ha{ki} nam-mi-ib₂-dib
+c.1.1.3,Enki and the world order,,220,{d}en-ki lugal abzu-ke₄ nam nam-mi-ib₂-tar-re
+c.1.1.3,Enki and the world order,,221,kur gig₂ ŋiš-zu ŋiš gal he₂-em {ŋeš}tir-zu meš₃ kur-ra he₂-em
+c.1.1.3,Enki and the world order,,222,{ŋeš}gu-za-bi e₂-gal lugal-la-ke₄ me-te he₂-em-mi-ib-ŋal₂
+c.1.1.3,Enki and the world order,,223,gi-zu gi gal he₂-em gi he₂-em
+c.1.1.3,Enki and the world order,,224,ur-saŋ-e ki me₃-ka {ŋeš}tukul
+c.1.1.3,Enki and the world order,,225,gud-zu gud gal he₂-em gud kur-ra he₂-em
+c.1.1.3,Enki and the world order,,226,gu₃-bi gu₃ am kur-ra-ka he₂-em
+c.1.1.3,Enki and the world order,,227,me gal diŋir-re-e-ne-ke₄ šu he₂-em-mi-du₇
+c.1.1.3,Enki and the world order,,228,dar{mušen}-dar{mušen} kur-ra sun₄ {na₄}gug he₂-em-la₂
+c.1.1.3,Enki and the world order,,229,mušen-zu {d}ha-ia₃{mušen} he₂-em
+c.1.1.3,Enki and the world order,,230,mu₇-mu₇-bi e₂-gal lugal-la-ka me-te he₂-em-mi-ib-ŋal₂
+c.1.1.3,Enki and the world order,,231,kug-zu kug-sig₁₇ he₂-em
+c.1.1.3,Enki and the world order,,232,urud-zu nagga zabar-ra he₂-em
+c.1.1.3,Enki and the world order,,233,kur niŋ₂-nam-zu he₂-ŋal₂ he₂-em
+c.1.1.3,Enki and the world order,,234,nam-lu₂-ulu₃-zu
+c.1.1.3,Enki and the world order,,235,nitah₂-zu nitah₂ tab-ba-ni-ir gud-gin₇ he₂-en-ed₂-de₃
+c.1.1.3,Enki and the world order,,236,iri{ki}
+c.1.1.3,Enki and the world order,,237,ba-an-ak
+c.1.1.3,Enki and the world order,,238,kur dilmun{ki}-na mu-un-sikil mu-un-dadag
+c.1.1.3,Enki and the world order,,239,{d}nin-sikil-la zag-ba nam-mi-in-gub
+c.1.1.3,Enki and the world order,,240,eš₃ agargara-še₃ ba-an-šum₂ ku₆ i₃-gu₇-e
+c.1.1.3,Enki and the world order,,241,{ŋeš}ŋišnimbar gana₂ zid-še₃ ba-an-šum₂ zu₂-lum-bi i₃-gu₇-e
+c.1.1.3,Enki and the world order,,242,elam{ki} mar-ha-ši{ki}
+c.1.1.3,Enki and the world order,,243,HA.IB-gin₇ teš₂-bi gu₇-u₃-dam
+c.1.1.3,Enki and the world order,,244,lugal {d}en-lil₂-le a₂ šum₂-ma
+c.1.1.3,Enki and the world order,,245,e₂-bi mu-un-hul bad₃-bi mu-un-gul
+c.1.1.3,Enki and the world order,,246,kug {na₄}za-gin₃-bi e₂ niŋ₂-gur₁₁-bi
+c.1.1.3,Enki and the world order,,247,{d}en-lil₂ lugal kur-kur-ra-ra nibru{ki}-še₃ he₂-na-ab-tum₂
+c.1.1.3,Enki and the world order,,248,iri nu-tuku e₂ nu-tuku-ra
+c.1.1.3,Enki and the world order,,249,{d}en-ki-ke₄ mar-tu maš₂-anše saŋ-e-eš mu-ni-rig₇
+c.1.1.3,Enki and the world order,,250,ki-bi-ta igi-ni ŋar-ra-ta
+c.1.1.3,Enki and the world order,,251,a-a {d}en-ki {id₂}buranun-na nam-mi-in-il₂-a-ta
+c.1.1.3,Enki and the world order,,252,gud du₇-du₇-gin₇ u₃-na mu-un-na-gub
+c.1.1.3,Enki and the world order,,253,ŋiš₃ im-zi-zi dub₃ im-nir-re
+c.1.1.3,Enki and the world order,,254,{id₂}idigna a zal-le im-ma-an-si
+c.1.1.3,Enki and the world order,,255,šilam u₂-numun-na amaš ŋiri₂-tab-ba amar-bi gu₃ di-dam
+c.1.1.3,Enki and the world order,,256,{id₂}idigna gud du₇-gin₇ a₂-na
+c.1.1.3,Enki and the world order,,257,ŋiš₃ im-zig₃ niŋ₂-mussa nam-de₆
+c.1.1.3,Enki and the world order,,258,{id₂}idigna am gal-gin₇ šag₄ im-hul₂ u₃-tud-ba
+c.1.1.3,Enki and the world order,,259,a nam-de₆ a zal-le na-nam kurun₂-bi na-dug₃-ge
+c.1.1.3,Enki and the world order,,260,še nam-de₆ še gu-nu na-nam uŋ₃-e na-gu₇-e
+c.1.1.3,Enki and the world order,,261,e₂-kur-re e₂ {d}en-lil₂-la₂-ke₄ niŋ₂ ŋal₂-la nam-si
+c.1.1.3,Enki and the world order,,262,{d}en-ki-da {d}en-lil₂ mu-un-da-hul₂ nibru{ki} giri₁₇-zal-am₃
+c.1.1.3,Enki and the world order,,263,en-e nam-en-še₃ suh mu-un-keše₂
+c.1.1.3,Enki and the world order,,264,nam-lugal-še₃ aga zid mu-un-ak
+c.1.1.3,Enki and the world order,,265,a₂ gab₂-bu-na ki nam-mi-in-us₂
+c.1.1.3,Enki and the world order,,266,he₂-ŋal₂ ki-ta mu-na-ra-ŋen
+c.1.1.3,Enki and the world order,,267,zid-da-na ŋidru ŋal₂-la-bi
+c.1.1.3,Enki and the world order,,268,{id₂}idigna {id₂}buranun-na teš₂ gu₇-u₃-da
+c.1.1.3,Enki and the world order,,269,ka giri₁₇-zal-ta kab₂ di-da-bi
+c.1.1.3,Enki and the world order,,270,he-nun e₂-gal-ta i₃-gin₇ lah₄-am₃
+c.1.1.3,Enki and the world order,,271,en nam tar-ra {d}en-ki lugal abzu-ke₄
+c.1.1.3,Enki and the world order,,272,{d}en-bi₂-lu-lu ku₃-ŋal₂ id₂-da-ke₄
+c.1.1.3,Enki and the world order,,273,{d}en-ki-ke₄ zag-ba nam-mi-in-gub
+c.1.1.3,Enki and the world order,,274,ambar-re gu₃ ba-an-de₂ SUHUR.HI{ku₆} suhur{ku₆} ba-an-šum₂
+c.1.1.3,Enki and the world order,,275,ŋiš-gi gu₃ ba-an-de₂ gi sumun gi henbur ba-an-šum₂
+c.1.1.3,Enki and the world order,,278,a-da-min₃
+c.1.1.3,Enki and the world order,,279,sa-par₄-ra-ni ku₆ nu-e₃
+c.1.1.3,Enki and the world order,,280,niŋ₂-keše₂-da-ni u₃-tud nu-e₃
+c.1.1.3,Enki and the world order,,281,gu la₂-a-na mušen nu-e₃
+c.1.1.3,Enki and the world order,,282,lu₂ a₂ mah dumu ezen sur₁₂-a
+c.1.1.3,Enki and the world order,,283,{d}UR₅.ŠA lu₂ ku₆-e ki aŋ₂-ŋa₂
+c.1.1.3,Enki and the world order,,284,{d}en-ki-ke₄ zag-ba nam-mi-in-gub
+c.1.1.3,Enki and the world order,,285,en-e eš₃ mu-un-ŋar eš₃ kug-ga-am₃ šag₄-bi galam kad₅-am₃
+c.1.1.3,Enki and the world order,,286,a-ab-ba eš₃ mu-un-ŋar eš₃ kug-ga-am₃ šag₄-bi galam kad₅-am₃
+c.1.1.3,Enki and the world order,,287,eš₃ šag₄-bi gu suh₃-a niŋ₂ lu₂ nu-zu-a
+c.1.1.3,Enki and the world order,,288,eš₃ ki-gub-bi {mul}iku DU-a
+c.1.1.3,Enki and the world order,,289,eš₃ kug-ga igi-nim-ma gub-bi {mul}{ŋeš}gigir-še₃ i₃-DU
+c.1.1.3,Enki and the world order,,290,ab hu-luh-ha i-zi zig₃-ga-am₃ me-lem₄-bi huš-a
+c.1.1.3,Enki and the world order,,291,{d}a-nun-na diŋir gal-gal-e-ne saŋ nu-mu-un-ŋa₂-ŋa₂-ne
+c.1.1.3,Enki and the world order,,292,šag₄-be₂-ne te-en-ten im-ši-ŋa₂-ŋa₂ e₂-gal hul₂-le-dam
+c.1.1.3,Enki and the world order,,293,{d}a-nun-na-ke₄-ne šudu₃ a-ra-zu-a ši-im-ma-sug₂-sug₂-ge-eš
+c.1.1.3,Enki and the world order,,294,{d}en-ki-ra e₂-engur-ra-ka barag mah mu-na-ri-e-ne
+c.1.1.3,Enki and the world order,,295,en-ra zal-le
+c.1.1.3,Enki and the world order,,296,nun gal u₃-tud
+c.1.1.3,Enki and the world order,,297,u₅{mušen} a-ab-ba bulug
+c.1.1.3,Enki and the world order,,298,eš₃ niŋ₂ dug₃ eš₃ niŋ₂ u₃-tud
+c.1.1.3,Enki and the world order,,299,e₂-kur-re e₂ {d}en-lil₂-la₂-ke₄ niŋ₂ ŋal₂-la nam-si
+c.1.1.3,Enki and the world order,,300,{d}en-ki-da {d}en-lil₂ mu-hul₂-hul₂ nibru{ki} giri₁₇-zal-am₃
+c.1.1.3,Enki and the world order,,301,eš₃ kug-ga u₅-a
+c.1.1.3,Enki and the world order,,302,e-ne su₃-ud di ŋar-ra
+c.1.1.3,Enki and the world order,,303,a-ŋi₆ uru₁₆ gal-la engur-ra-ke₄
+c.1.1.3,Enki and the world order,,304,i-zi hu-luh-ha kur-ku ab-ba
+c.1.1.3,Enki and the world order,,305,zi-pa-aŋ₂-ta e₃
+c.1.1.3,Enki and the world order,,306,in-nin₉ sirara₂{ki}-a ku₆ {d}nanše
+c.1.1.3,Enki and the world order,,307,a-ab-ba ki niŋ₂-daŋal-la-ba
+c.1.1.3,Enki and the world order,,308,{d}en-ki-ke₄ zag-ba nam-mi-in-gub
+c.1.1.3,Enki and the world order,,309,šeŋ₁₄ an-na-ka gu₃ ba-an-de₂
+c.1.1.3,Enki and the world order,,310,dungu dirig-ga-gin₇ bi₂-in-us₂
+c.1.1.3,Enki and the world order,,311,an-ur₂-še₃ zig₃-ga im-sar-re
+c.1.1.3,Enki and the world order,,312,du₆-du₆ gana₂-še₃ i₃-ŋa₂-ŋa₂
+c.1.1.3,Enki and the world order,,313,ud gal-la u₅-a niŋ₂-ŋir₂-da du₇-du₇
+c.1.1.3,Enki and the world order,,314,{ŋeš}si-ŋar kug an-šag₄-ge gib-ba
+c.1.1.3,Enki and the world order,,315,dumu an-na ku₃-ŋal₂ an ki-a
+c.1.1.3,Enki and the world order,,316,{d}iškur lu₂ he-ŋal₂ dumu an-na-ke₄
+c.1.1.3,Enki and the world order,,317,{d}en-ki-ke₄ zag-ba nam-mi-in-gub
+c.1.1.3,Enki and the world order,,318,{ŋeš}apin {ŋeš}šudul₂ erin₂-bi si ba-an-sa₂
+c.1.1.3,Enki and the world order,,319,nun gal {d}en-ki-ke₄ gud si-par₄ us₂-a ba-an-šum₂
+c.1.1.3,Enki and the world order,,320,ab-sin₂ kug-ge ka ba-an-du₈
+c.1.1.3,Enki and the world order,,321,gan₂-ne₂ zid-de₃ še ba-an-mu₂
+c.1.1.3,Enki and the world order,,322,en suh-gir₁₁ he₂-du₇ an-edin-na
+c.1.1.3,Enki and the world order,,323,a₂-šita₄ engar {d}en-lil₂-la₂
+c.1.1.3,Enki and the world order,,324,{d}en-ki-im-du lu₂ eg₂ pa₅-ra-ke₄
+c.1.1.3,Enki and the world order,,325,{d}en-ki-ke₄ zag-ba nam-mi-in-gub
+c.1.1.3,Enki and the world order,,326,en-e gana₂ zid-de₃ gu₃ ba-an-de₂ še gu-nu ba-an-šum₂
+c.1.1.3,Enki and the world order,,327,{d}en-ki-ke₄ gig-zid₂ gu₂-gal-la sa-zid₂ ba-an-e₃
+c.1.1.3,Enki and the world order,,328,še-eštub še gu-nu še in-nu-ha-bi guru₇-še₃ mu-un-dub-dub
+c.1.1.3,Enki and the world order,,329,{d}en-ki-ke₄ guru₇-du₆ guru₇-maš-e im-ma-da-an-tab-tab
+c.1.1.3,Enki and the world order,,330,{d}en-lil₂-da uŋ₃-e he₂-ŋal₂-la šu mu-un-di-ni-ib-peš-e
+c.1.1.3,Enki and the world order,,331,saŋ bar gun₃-gun₃ igi lal₃ šu₂-šu₂
+c.1.1.3,Enki and the world order,,332,in-nin₉ e-ne su₃-ud ŋal₂ usu kalam-ma zi saŋ gig₂-ga
+c.1.1.3,Enki and the world order,,333,{d}ezina₂ ninda dug₃ niŋ₂ ki-šar₂-ra-ke₄
+c.1.1.3,Enki and the world order,,334,{d}en-ki-ke₄ zag-ba nam-mi-in-gub
+c.1.1.3,Enki and the world order,,335,nun gal-e {ŋeš}al-e sa bi₂-in-sig₁₀ {ŋeš}u₃-šub-ba si bi₂-in-sa₂
+c.1.1.3,Enki and the world order,,336,agarin₄-e i₃-he-nun-na-gin₇ ŋiš₃ im-ma-an-dug₄
+c.1.1.3,Enki and the world order,,337,{ŋeš}al zu₂ sig₉-ga-ni muš ad₆ gu₇ niŋ₂ šu ŋal₂
+c.1.1.3,Enki and the world order,,338,{ŋeš}u₃-šub ŋar-ra-ni zar gu₂-nida u₈-e si sa₂-am₃
+c.1.1.3,Enki and the world order,,339,{d}kulla lu₂ šeg₁₂-e kalam-ma
+c.1.1.3,Enki and the world order,,340,{d}en-ki-ke₄ zag-ba nam-mi-in-gub
+c.1.1.3,Enki and the world order,,341,gu mu-un-ŋar us₂-e si bi₂-in-sa₂
+c.1.1.3,Enki and the world order,,342,a₂ unken-na-ka e₂ bi₂-in-ŋar šu-luh-e si bi₂-in-sa₂
+c.1.1.3,Enki and the world order,,343,nun gal-e uš ki nam-mi-in-tag šeg₁₂ ki nam-mi-in-us₂
+c.1.1.3,Enki and the world order,,344,uš ki tag-ga-ni nu-silig-ge
+c.1.1.3,Enki and the world order,,345,e₂ zid du₃-a-ni nu-kar₂-kar₂-re
+c.1.1.3,Enki and the world order,,346,nir-gam-ma-ni {d}tir-an-na-gin₇ an-šag₄-ge us₂-sa
+c.1.1.3,Enki and the world order,,347,{d}muš-dam-ma šidim gal {d}en-lil₂-la₂-ke₄
+c.1.1.3,Enki and the world order,,348,{d}en-ki-ke₄ zag-ba nam-mi-in-gub
+c.1.1.3,Enki and the world order,,349,edin uru₁₆-na men kug nam-mi-in-guru₃
+c.1.1.3,Enki and the world order,,350,an-edin-na sun₄ {na₄}za-gin₃ am₃-la₂ suh₁₀ {na₄}za-gin₃ am₃-keše₂
+c.1.1.3,Enki and the world order,,351,ki dug₃-ga u₂-šim giri₁₇-zal-am₃ šu gal mu-un-du₇-du₇
+c.1.1.3,Enki and the world order,,352,maš₂-anše an-edin-na mi-ni-in-lu me-te-aš bi₂-ib-ŋal₂
+c.1.1.3,Enki and the world order,,353,šeg₉ šeg₉-bar u₂-numun-na mu-un-lu e-ne su₃-ud-bi mu-un-e
+c.1.1.3,Enki and the world order,,354,ur-saŋ an-edin-na men-bi-im edin-na lugal-bi-im
+c.1.1.3,Enki and the world order,,355,piriŋ gal an-edin-na a₂-tuku gal a₂ mah {d}en-lil₂-la₂-kam
+c.1.1.3,Enki and the world order,,356,{d}šakkan₂ lugal hur-saŋ-ŋa₂-ke₄
+c.1.1.3,Enki and the world order,,357,{d}en-ki-ke₄ zag-ba nam-mi-in-gub
+c.1.1.3,Enki and the world order,,358,tur₃ mu-un-du₃ šu-luh-e si bi₂-in-sa₂
+c.1.1.3,Enki and the world order,,359,amaš mu-un-ŋar i₃ gara₂ saŋ bi₂-in-šum₂
+c.1.1.3,Enki and the world order,,360,ki ninda gu₇ diŋir-re-e-ne-ke₄ giri₁₇-zal-la mi-ni-in-gi₄
+c.1.1.3,Enki and the world order,,361,edin u₂-šim-gin₇ du₃-a he₂-ŋal₂ sa₂ bi₂-in-dug₄
+c.1.1.3,Enki and the world order,,362,lugal u₂-a zid e₂-an-na gu₅-li an-na
+c.1.1.3,Enki and the world order,,363,mussa ki aŋ₂ šul {d}suen-na dam kug {d}inana
+c.1.1.3,Enki and the world order,,364,in-nin₉ nin me gal-gal-la-ke₄
+c.1.1.3,Enki and the world order,,365,sila daŋal-la kul-aba{ki}-ka e-ne su₃-ud-bi dug₄-dug₄
+c.1.1.3,Enki and the world order,,366,{d}dumu-zid-{d}ušumgal-an-na gu₅-li an-na-kam
+c.1.1.3,Enki and the world order,,367,{d}en-ki-ke₄ zag-ba nam-mi-in-gub
+c.1.1.3,Enki and the world order,,368,e₂-kur-re e₂ {d}en-lil₂-la₂-ke₄ niŋ₂ ŋal₂-la nam-si
+c.1.1.3,Enki and the world order,,369,{d}en-ki-da {d}en-lil₂ mu-un-da-hul₂ nibru{ki} giri₁₇-zal-am₃
+c.1.1.3,Enki and the world order,,370,in mu-un-dub bulug-ga mu-un-si-si
+c.1.1.3,Enki and the world order,,371,{d}en-ki-ke₄ {d}a-nun-na-ke₄-ne-er
+c.1.1.3,Enki and the world order,,372,iri{ki}-a ki-ur₃-ra ša-mu-un-di-ni-in-ŋar
+c.1.1.3,Enki and the world order,,373,a-šag₄-ga gan₂-ne₂ ša-mu-un-de₃-ni-in-ŋar
+c.1.1.3,Enki and the world order,,374,ur-saŋ gud ha-šu-ur₂-ta e₃-a gu₃ huš de₂-de₂-e
+c.1.1.3,Enki and the world order,,375,šul {d}utu gud silim-ma gub-ba u₃-na silig ŋar-ra
+c.1.1.3,Enki and the world order,,376,ad-da iri-gal ki ud e₃-a niŋir gal an kug-ga
+c.1.1.3,Enki and the world order,,377,di-kud ka-aš bar kiŋ₂ diŋir-re-e-ne
+c.1.1.3,Enki and the world order,,378,sun₄ {na₄}za-gin₃ la₂ an kug-ga an-ur₂-ta e₃-a
+c.1.1.3,Enki and the world order,,379,{d}utu dumu {d}nin-gal-e tud-da
+c.1.1.3,Enki and the world order,,380,{d}en-ki-ke₄ an ki niŋin₂-na-ba zag-ba nam-mi-in-gub
+c.1.1.3,Enki and the world order,,381,mug mu-un-dun temen si bi₂-in-sa₂
+c.1.1.3,Enki and the world order,,382,{d}en-ki-ke₄ niŋ₂ nam-munus-a šu gal ba-ni-in-du₇
+c.1.1.3,Enki and the world order,,383,{d}en-ki-ra uŋ₃-e {tug₂}SIKI.NUMUN₂-a
+c.1.1.3,Enki and the world order,,384,teš₂ e₂-gal me-te lugal-la
+c.1.1.3,Enki and the world order,,385,{d}uttu munus zid niŋ₂-me-ŋar-ra
+c.1.1.3,Enki and the world order,,386,{d}en-ki-ke₄ zag-ba nam-mi-in-gub
+c.1.1.3,Enki and the world order,,387,ud-ba dili-ni ŋarza₂ taka₄-am₃
+c.1.1.3,Enki and the world order,,388,munus gal an-na-ke₄ {d}inana ŋarza₂ taka₄-am₃
+c.1.1.3,Enki and the world order,,389,{d}inana a-a-ni {d}en-ki-ra
+c.1.1.3,Enki and the world order,,390,e₂-a ba-ši-in-kur₉ er₂ mu-na-še₈-še₈ di-bi nam-mu-na-ab-be₂
+c.1.1.3,Enki and the world order,,391,{d}a-nun-na diŋir gal-gal-e-ne nam tar-tar-ra-bi
+c.1.1.3,Enki and the world order,,392,{d}en-lil₂-le šu-za ma-ra-ni-in-ge-en
+c.1.1.3,Enki and the world order,,393,munus-me-en dili-ŋu₁₀-ne a-na bi₂-dug₄
+c.1.1.3,Enki and the world order,,394,kug {d}inana-me-en mar-za-ŋu₁₀ me-a
+c.1.1.3,Enki and the world order,,395,{d}a-ru-ru nin₉ {d}en-lil₂-la₂-ke₄
+c.1.1.3,Enki and the world order,,396,{d}nin-tur₅ nin tud-tud-da
+c.1.1.3,Enki and the world order,,397,šeg₁₂ tud-tud kug nam-en-na-ni šu he₂-em-ma-an-ti
+c.1.1.3,Enki and the world order,,398,gi-dur kud im-ma-an ga-raš{sar}-a-ni he₂-em-ma-da-an-ri
+c.1.1.3,Enki and the world order,,399,sila₃-ŋar-ra {na₄}za-gin₃ duru₅-ni šu he₂-em-ma-an-ti
+c.1.1.3,Enki and the world order,,400,a-la₂ kug na de₅-ga-ni šu he₂-em-ma-da-an-ri
+c.1.1.3,Enki and the world order,,401,šag₄-zu kalam-ma he₂-em
+c.1.1.3,Enki and the world order,,402,lugal u₃-tud en u₃-tud-bi šu-ni-a he₂-en-ŋal₂
+c.1.1.3,Enki and the world order,,403,nin₉ e-ŋu₁₀ kug {d}nin-isin₂-na-ke₄
+c.1.1.3,Enki and the world order,,404,unu₂ šuba-a šu he₂-em-ma-an-ti nu-gig an-na he₂-em
+c.1.1.3,Enki and the world order,,405,an-e he₂-em-ma-gub kurku₂-a he₂-em-ma-ab-be₂
+c.1.1.3,Enki and the world order,,406,nin₉ e-ŋu₁₀ kug {d}nin-mug-ke₄
+c.1.1.3,Enki and the world order,,407,bulug kug-sig₁₇ ma-an-ga-ra kug-babbar šu he₂-em-ma-an-ti
+c.1.1.3,Enki and the world order,,408,{na₄}ŋiri₂-zu₂-gal an-ta-sur-ra-ni he₂-em-ma-da-an-ri
+c.1.1.3,Enki and the world order,,409,tibira kalam-ma he₂-em
+c.1.1.3,Enki and the world order,,410,lugal u₃-tud suh zid keše₂-de₃
+c.1.1.3,Enki and the world order,,411,en u₃-tud saŋ-men ŋa₂-ŋa₂ šu-na he₂-en-ŋal₂
+c.1.1.3,Enki and the world order,,412,nin₉ e-ŋu₁₀ kug {d}nisaba-ke₄
+c.1.1.3,Enki and the world order,,413,gi-₁-nindan šu he₂-em-ma-an-ti
+c.1.1.3,Enki and the world order,,414,eš₂ za-gin₃ a₂-na ha-ba-an-la₂
+c.1.1.3,Enki and the world order,,415,me gal-gal-e gu₃ ha-ba-an-de₂-e
+c.1.1.3,Enki and the world order,,416,in he₂-dub-e ki he₂-sur-re dub-sar kalam-ma he₂-em
+c.1.1.3,Enki and the world order,,417,naŋ gu₇ diŋir-re-e-ne-ke₄ šu-ni-a he₂-en-ŋal₂
+c.1.1.3,Enki and the world order,,418,{d}nanše nin uru₁₆-e u₅{mušen} kug-ga ŋiri₃-ni-še₃ ba-an-gub
+c.1.1.3,Enki and the world order,,419,enkud a-ab-ba-ka he₂-em
+c.1.1.3,Enki and the world order,,420,ku₆ niŋ₂ dug₃-dug₃ mušen niŋ₂ ku₇-ku₇
+c.1.1.3,Enki and the world order,,421,a-a-ni {d}en-lil₂-ra nibru{ki}-še₃ šu hu-mu-na-ra-gid₂-i
+c.1.1.3,Enki and the world order,,422,munus-me-en dili-ŋu₁₀-ne a-na bi₂-ak
+c.1.1.3,Enki and the world order,,423,kug {d}inana-me-en mar-za-ŋu₁₀ me-a
+c.1.1.3,Enki and the world order,,424,{d}en-ki-ke₄ dumu-ni kug {d}inana-ra mu-na-ni-ib₂-gi₄-gi₄
+c.1.1.3,Enki and the world order,,425,a-na a-ra-an-la₂
+c.1.1.3,Enki and the world order,,426,in-nin₉ a-na a-ra-an-la₂ a-na a-ra-ab-tah-e-de₃-en
+c.1.1.3,Enki and the world order,,427,ki-sikil {d}inana a-na a-ra-an-la₂ a-na a-ra-ab-tah-e-de₃-en
+c.1.1.3,Enki and the world order,,428,munus gu₃ sag₉-ge gu₃ ha-ba-e-de₂
+c.1.1.3,Enki and the world order,,429,a₂-bi-še₃ ha-ba-e-re-a-ed₃
+c.1.1.3,Enki and the world order,,430,a₂ ur-saŋ-ba tug₂ he₂-em-mi-dul
+c.1.1.3,Enki and the world order,,431,zag zid-da-bi zag gab₂-bu-bi šu bal he₂-ba-e-ni-in-ak
+c.1.1.3,Enki and the world order,,432,tug₂ a₂ munus-a he₂-em-mi-mur₁₀
+c.1.1.3,Enki and the world order,,433,eme munus-a ka-ba ha-ba-e-ni-ŋar
+c.1.1.3,Enki and the world order,,434,{ŋeš}bal {ŋeš}kirid šu-še₃ he₂-em-mi-šum₂
+c.1.1.3,Enki and the world order,,435,munus še-er-ka-an-bi ha-ba-e-ri-a-dug₄
+c.1.1.3,Enki and the world order,,436,ešgiri₂ šibir {ŋeš}ma-nu nam-sipad-da zag-ba he₂-em-de₃-gub
+c.1.1.3,Enki and the world order,,437,ki-sikil {d}inana a-na-ra-la₂ a-na-ra-ab-tah-e-en-de₃-en
+c.1.1.3,Enki and the world order,,438,me₃ šen-šen-na inim-ŋar-ra-ba inim til₃-a he₂-ne-de₃-en
+c.1.1.3,Enki and the world order,,439,murub₄-ba a₁₂-ra₂-bu{mušen} nu-me-en-na inim hul hu-mu-ne-de₃-en
+c.1.1.3,Enki and the world order,,440,gu si sa₂-a hu-mu-e-suh₃-suh₃
+c.1.1.3,Enki and the world order,,441,ki-sikil {d}inana gu suh₃-a si hu-mu-e-ni-sa₂
+c.1.1.3,Enki and the world order,,442,tug₂ hu-mu-e-ni-ŋar gada hu-mu-e-ni-mur₁₀
+c.1.1.3,Enki and the world order,,443,mug hu-mu-e-ni-dun {ŋeš}bal hu-mu-e-ni-NU
+c.1.1.3,Enki and the world order,,444,tug₂ guz-za gu-du gun₃-a hu-mu-e-ni-gun₃
+c.1.1.3,Enki and the world order,,445,{d}inana saŋ sahar-re-eš he₂-mu-e-dub saŋ numun-e-eš he₂-mu-e-ŋar
+c.1.1.3,Enki and the world order,,446,{d}inana niŋ₂ nu-gul-u₃ he₂-mu-e-gul niŋ₂ nu-sig₁₀-ge₅ he₂-mu-e-sig₁₀
+c.1.1.3,Enki and the world order,,447,šem₃ a-nir-ra-da tug₂ he₂-em-mi-si-ig
+c.1.1.3,Enki and the world order,,448,ki-sikil {d}inana tigi a-da-ab e₂-ba he₂-em-mi-gi₄
+c.1.1.3,Enki and the world order,,449,lu₂ u₆ di igi nu-kuš₂-u₃-me-en
+c.1.1.3,Enki and the world order,,450,ki-sikil {d}inana pu₂ su₃-ra₂ eš₂ la₂ nu-zu-me-en
+c.1.1.3,Enki and the world order,,451,i₃-ne-eš₂ šag₄ gu₂-bi nam-gi₄ kalam ki-bi he₂-em-gi₄
+c.1.1.3,Enki and the world order,,452,šag₄ {d}en-lil₂-la₂ gu₂-bi nam-gi₄ kalam ki-bi he₂-em-gi₄
+c.1.1.3,Enki and the world order,,453,šag₄ gu₂-bi gi₄-a nam-lu₂-u₁₈-lu-ka
+c.1.1.3,Enki and the world order,,454,niŋ₂ nam-ba-e-ŋa₂-ŋa₂
+c.1.1.3,Enki and the world order,,455,tab-ba-zu he₂-a
+c.1.1.3,Enki and the world order,,456,mu-e-da-an-TI
+c.1.1.3,Enki and the world order,,457,
+c.1.1.3,Enki and the world order,,458,suh₁₀ za-gin₃ nam-en-na-zu-um
+c.1.1.3,Enki and the world order,,459,nam-en-na-zu-um
+c.1.1.3,Enki and the world order,,460,gu₃ de₂-de₂-bi nam-en-na-zu-um
+c.1.1.3,Enki and the world order,,461,nam-en-na-zu-um
+c.1.1.3,Enki and the world order,,462,X-da-an-DU
+c.1.1.3,Enki and the world order,,463,X-un-da-sa₂-sa₂-e-ne
+c.1.1.3,Enki and the world order,,464,
+c.1.1.3,Enki and the world order,,465,X-ra-teŋ₃-ŋe₂₆-ne
+c.1.1.3,Enki and the world order,,466,ŋar-ra-a
+c.1.1.3,Enki and the world order,,467,X-ab-SAR-SAR-ne
+c.1.1.3,Enki and the world order,,468,
+c.1.1.3,Enki and the world order,,469,tuku
+c.1.1.3,Enki and the world order,,470,
+c.1.1.3,Enki and the world order,,471,
+c.1.1.3,Enki and the world order,,472,a-a {d}en-ki za₃-mi₂

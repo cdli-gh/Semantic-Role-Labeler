@@ -1,0 +1,151 @@
+id_text,text_name,version,l_no,text
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A1,iri{ki} me-lem₄-zu
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A2,an ki-a dul₄
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A3,u₁₈-ru-zu mah dib₂
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A4,eš₃ nibru{ki}
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A5,ki an a-na-šu₂-a-aš
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A6,ne₃-zu
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A7,zag-bi-še₃ ŋal₂
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A8,šeg₁₂ kilib₃-ba
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A9,kalam-ma ki ŋar-ra
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A10,šeg₁₂-zu šeg₁₂ saŋ-bi-im
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A11,kur-kur-re
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A12,iri{ki} a-na-du₃-a-ba
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A13,me mah šu mi-ni-ti
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A14,me mah-zu-gin₇
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A15,mu-zu mah-am₃
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A16,mu-zu-gin₇
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A17,sahar-zu sahar dug₃-ga-am₃
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A18,iri{ki} an ki-a
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A19,mu-zu dirig-ga-am₃
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A20,us₂-saŋ
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A21,sig igi-nim-ma
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A22,dim gal uŋ₃ šar₂-ra-me-en
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A23,me-zu me galam-ma
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A24,me nu-sag₂-dam
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A25,ŋiš-hur-zu-u₈
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A26,abzu sig₉-ga-gin₇
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A27,ni₂ gal ši-im-du₈-du₈
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A28,nam-mah-zu
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A29,{d}uraš sig₇-ga-gin₇
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A30,na-me nu-zu-zu-dam
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A31,nam-tar-ra
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A32,saŋ-bi-še₃ e₃-a-zu
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A33,niŋ₂ ar₂-re-eš dib-ba
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A34,hur-saŋ sukuₓ-ra₂
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A35,šu nu-teŋ₃-ŋe₂₆-me-en
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A36,saŋ il₂ zag dib-ba
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A37,an-ne₂ us₂-sa-me-en
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A38,šag₄-zu u₁₈-ru-me-en
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A39,bar-zu
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A40,ni₂ gur₃-ru-me-en
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A41,{d}a-nun-na-ke₄-ne-er
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A42,u₂ nam-til₃-la-bi-še₃
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A43,za-e
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A44,ši-im-ma-ab-du₃-en
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A45,gu₇ naŋ-bi-še₃
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A46,ši-im-ma-sig₇-ge-en
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A47,amaš zi-bi-še₃ ŋal₂-me-en
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A48,a₂-zu-ta
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A49,gu sa-par₄ gid₂-gin₇
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A50,niŋ₂-nam la-ba-ra-e₃
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A51,eš₃ nibru{ki}
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A52,a-ra₂-zu niŋ₂ mah-am₃
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A53,niŋ₂ ka-ge dib-ba
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A54,me hal-ha-zu
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A55,ŋiš-šub zid-da
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A56,niŋ₂ sag₂ nu-di-dam
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A57,iri{ki} šag₄-zu
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A58,kug-ga-am₃
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A59,bar-zu šen-šen-am₃
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A60,su-bar-ra-zu
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A61,me-lem₄ gur₃-ru-am₃
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A62,ki-zu ki suh-ha-am₃
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A63,en ŋeštug₂-ga
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A64,kur gal {d}en-lil₂-le
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A65,šag₄-zu-a eš₃ bi₂-in-du₃
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A66,eš₃-bi
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A67,eš₃ za-gin₃
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A68,eš₃ nam tar-re-dam
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A69,e₂-kur
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A70,e₂ za-gin₃
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A71,e₂ nam tar-re-dam
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A72,nun-zu
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A73,{d}nu-nam-nir
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A74,ninda₂ me ru-a
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A75,ama {d}ninₓ-lil₂
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A76,ninₓ gal ki-ur₃-ra-za
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A77,ninₓ me u₃-tud-da
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A78,e-ne-e-ne-gin₇
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A79,kalam-ma
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A80,diŋir a-ba
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A81,mu-un-til₃
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A82,a-ne-ne
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A83,kislah temen
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A84,šu bi₂-in-gur-ru-uš
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A85,
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A86,bi₂-in-dur₂-ru-ne-eš
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A87,me zid me gal
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A88,me ar₂-re-ka
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A89,dur₂ im-mi-in-ŋar-re-eš
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A90,{d}a-nun-na-ke₄-ne
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A91,ama a-a ugu-bi-gin₇
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A92,igi-bi im-ši-ŋal₂
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A93,inim kug kal-kal
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A94,zid-de₃-eš di-bi
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A95,ŋizzal
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A96,ši-ma-an-ke₄-eš
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A97,{d}en-lil₂
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A98,{d}ninₓ-lil₂-bi
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A99,an-na
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A100,igi im-mi-in-ŋal₂-eš
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A101,ki-a
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A102,zag mi-ni-in-ŋar-re-eš
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A103,ud-bi-a
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A104,an gal
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A105,ki daŋal-ba
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A106,šag₄-bi mu-un-e₃-a
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A107,diŋir {d}a-nun-na
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A108,an ki-ke₄-ne
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A109,kiŋ₂ ib₂-gi₄-gi₄-ne
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A110,{ŋeš}al
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A111,{ŋeš}dusu
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A112,niŋ₂ iri ki ŋa₂-ŋa₂
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A113,šu
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,A114,mu-un-ŋal₂
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,B1,
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,B2,saŋ
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,B3,an ki kilib-ba a₂ aŋ₂-ŋa₂-bi
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,B4,lugal-la ŋeštug₂ bad niŋ₂-nam zu
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,B5,inim kug dug₄-ga ama a-a ugu-bi-gin₇ igi-bi im-ši-ŋal₂
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,B6,{d}a-nun-na ub-šu-unken-na
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,B7,{d}en-lil₂ {d}nin-lil₂-ra sub₂-su₈-ub
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,B8,e₂-kur eš₃ mah-še₃ igi-bi
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,B9,a₂ aŋ₂-ŋa₂ dugud {d}en-lil₂ {d}nin-lil₂
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,B10,mah dug₄-ga-ni-še₃ an ki tuku₄-tuku₄
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,B11,ur-saŋ gal en {d}nin-urta-ra šu-ni im-mi-in-sig₉-ge-eš
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,B12,ka-ga-ni i₃ li ku₇-ku₇-da-gin₇
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,B13,mu-un-dul-le-eš me an-na me ki šu-ni im-mi-in-sig₉-ge-eš
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,B14,{d}nin-urta ur-saŋ gal a₂-tuku
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,B15,šul kur gam en iri lah₄
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,B16,a-a {d}en-lil₂ ama gal {d}nin-lil₂
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,B17,e₂-kur-ra-ka
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,B18,
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,C1,
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,C2,
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,C3,teš₂-ba
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,C4,{d}en-lil₂ {d}nin-lil₂-bi
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,C5,ki-bi
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,C6,
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,C7,dur₂ ŋar
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,C8,sud-su₃-ud
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,C9,abzu-še₃
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,C10,{d}nuska en gub
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,C11,{d}en-lil₂ {d}nin-lil₂-bi saŋ-e-eš mu-ni-in-rig₇-eš
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,C12,nibru{ki} en nin-zu-gin₇ diŋir na-me nu-dib₂
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,C13,e-ne-ne nun er₉-me-eš diŋir pa e₃-me-eš
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,C14,{d}en-lil₂ {d}nin-lil₂-gin₇ diŋir na-me nu-dib₂
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,C15,e-ne-ne nun er₉-me-eš en nam tar-re-me-eš
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,C16,šag₄-zu-a sukkal {d}nuska-ra me mu-na-ni-in-šum₂-mu-uš
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,C17,nibru{ki} šir₃ kug-zu niŋ₂ kal-kal a-re-eš-še₃ dib₂-am₃
+c.2.5.4.23,A hymn to Nibru and Išme-Dagan (Išme-Dagan W),,C18,{d}iš-me-{d}da-gan-me-en du-ri₂-še₃ ka-ga₁₄ mu-ni-ŋar

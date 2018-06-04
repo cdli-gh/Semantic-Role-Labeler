@@ -1,0 +1,90 @@
+id_text,text_name,version,l_no,text
+c.1.7.4,The Flood story,,A1,im-ŋa₂-ŋa₂
+c.1.7.4,The Flood story,,A2,nam-lu₂-ulu₃-ŋu₁₀ ha-lam-ma-bi-a
+c.1.7.4,The Flood story,,A3,{d}nin-tur₅-ra niŋ₂-dim₂-dim₂-ma-ŋu₁₀ sig₁₀-sig₁₀-bi-a ga-ba-ni-ib-gi₄-gi₄
+c.1.7.4,The Flood story,,A4,uŋ₃ ki-ur₃-bi-ta ga-ba-ni-ib-gur-ru-ne
+c.1.7.4,The Flood story,,A5,iri{ki} me-a-bi he₂-em-mi-in-du₃ ŋissu-bi ni₂ ga-ba-ab-dub₂-bu
+c.1.7.4,The Flood story,,A6,iri me-a šeg₁₂-bi ki kug-ga he₂-em-mi-in-šub
+c.1.7.4,The Flood story,,A7,ki-eš-bar me-a ki kug-ga he₂-em-mi-ni-ib-ri
+c.1.7.4,The Flood story,,A8,niŋ₂ izi ten-na si mi-ni-in-si-sa₂
+c.1.7.4,The Flood story,,A9,ŋarza me mah šu mi-ni-ib-šu-du₇
+c.1.7.4,The Flood story,,A10,ki a im-ma-ab-dug₄ silim ga-mu-ni-in-ŋar
+c.1.7.4,The Flood story,,A11,an {d}en-lil₂ {d}en-ki {d}nin-hur-saŋ-ŋa₂-ke₄
+c.1.7.4,The Flood story,,A12,saŋ gig₂-ga mu-un-dim₂-eš-a-ba
+c.1.7.4,The Flood story,,A13,niŋ₂-gilim ki-ta ki-ta mu-lu-lu
+c.1.7.4,The Flood story,,A14,maš₂-anše niŋ₂-ur₂-₄ edin-na me-te-a-aš bi₂-ib₂-ŋal₂
+c.1.7.4,The Flood story,,B1,
+c.1.7.4,The Flood story,,B2,
+c.1.7.4,The Flood story,,B3,de₅-ga
+c.1.7.4,The Flood story,,B4,du-lum-bi igi ga-ba-ni-ib-du₈-du₈-X
+c.1.7.4,The Flood story,,B5,šidim kalam-ma-ke₄ uš gen₆ ha-ba-ab-ba-al
+c.1.7.4,The Flood story,,B6,ud nam-lugal-la an-ta ed₃-de₃-a-ba
+c.1.7.4,The Flood story,,B7,men mah {ŋeš}gu-za nam-lugal-la an-ta ed₃-a-ba
+c.1.7.4,The Flood story,,B8,ŋarza me mah šu mi-ni-ib-šu-du₇
+c.1.7.4,The Flood story,,B9,iri-bi-e-ne šeg₁₂-bi ki kug-ga im-ma-an-da-šub
+c.1.7.4,The Flood story,,B10,mu-bi ba-an-sa₄ kab dug₄-ga ba-hal-hal-la
+c.1.7.4,The Flood story,,B11,nesaŋ iri-be₂-e-ne eridug{ki} maš₂-saŋ {d}nu-dim₂-mud mi-ni-in-šum₂
+c.1.7.4,The Flood story,,B12,₂-kam-ma-še₃ nu-gig-ra bad₃-tibira{ki} mi-ni-in-šum₂
+c.1.7.4,The Flood story,,B13,₃-kam-ma la-ra-ag {d}pa-bil₂-saŋ mi-ni-in-šum₂
+c.1.7.4,The Flood story,,B14,₄-kam-ma zimbir{ki} šul {d}utu mi-ni-in-šum₂
+c.1.7.4,The Flood story,,B15,₅-kam-ma šuruppag {d}sud₃{ki}-ra mi-ni-in-šum₂
+c.1.7.4,The Flood story,,B16,iri-be₂-e-ne mu-bi ba-an-sa₄-a kab dug₄-ga ba-hal-hal-la
+c.1.7.4,The Flood story,,B17,id₂ ma-an-šu₄-am₃ im-ma-al-la a im-ma-an-de₆
+c.1.7.4,The Flood story,,B18,id₂ tur-tur-re šu luh-bi mi-ni-ib₂-ŋar-ŋar
+c.1.7.4,The Flood story,,C1,ki-tuš an-na
+c.1.7.4,The Flood story,,C2,
+c.1.7.4,The Flood story,,C3,a-ma-ru
+c.1.7.4,The Flood story,,C4,nam-lu₂-ulu₃
+c.1.7.4,The Flood story,,C5,ur₅-gin₇ bi₂-in-ak
+c.1.7.4,The Flood story,,C6,ud-bi-a {d}nin-tur₅
+c.1.7.4,The Flood story,,C7,kug {d}inana-ke₄ uŋ₃-bi-še₃ a-nir mu-un-ŋa₂-ŋa₂
+c.1.7.4,The Flood story,,C8,{d}en-ki šag₄ ni₂-te-na-ke₄ ad i-ni-in-gi₄-gi₄
+c.1.7.4,The Flood story,,C9,an {d}en-lil₂ {d}en-ki {d}nin-hur-saŋ-ŋa₂-ke₄
+c.1.7.4,The Flood story,,C10,diŋir an ki-ke₄ mu an {d}en-lil₂ mu-X-pad₃
+c.1.7.4,The Flood story,,C11,ud-ba zi-ud-su₃-ra₂ lugal-am₃ gudug
+c.1.7.4,The Flood story,,C12,an saŋ mu-un-dim₂-dim₂
+c.1.7.4,The Flood story,,C13,nam-sun₅-na inim sig₁₀-sig₁₀-ge ni₂ teŋ₃-ŋe₂₆
+c.1.7.4,The Flood story,,C14,ud šu₂-uš-e saŋ us₂ gub-ba
+c.1.7.4,The Flood story,,C15,ma-mu₂ nu-me-a ed₂-de₃ inim bal
+c.1.7.4,The Flood story,,C16,mu an ki-bi-ta pad₃-pad₃-de₃
+c.1.7.4,The Flood story,,C17,ki-ur₃-še₃ diŋir-re-e-ne e₂-ŋar₈
+c.1.7.4,The Flood story,,C18,zi-ud-su₃-ra₂ da-bi gub-ba ŋiš mu-un-tuku
+c.1.7.4,The Flood story,,C19,iz-zi-da a₂ gab₂-bu-ŋu₁₀ gub-ba
+c.1.7.4,The Flood story,,C20,iz-zi-da inim ga-ra-ab-dug₄ inim-ŋu₁₀ he₂-dab₅
+c.1.7.4,The Flood story,,C21,na de₅-ga-ŋu₁₀ ŋizzal he₂-em-ši-ak
+c.1.7.4,The Flood story,,C22,a-ma-ru ugu kab dug₄-ga ba-ur₃
+c.1.7.4,The Flood story,,C23,numun nam-lu₂-ulu₃ ha-lam-e-de₃ nam-bi ba-tar
+c.1.7.4,The Flood story,,C24,di-til-la inim pu-uh₂-ru-um-ma-ka šu gi₄-gi₄ nu-ŋal₂
+c.1.7.4,The Flood story,,C25,inim dug₄-ga an {d}en-lil₂-la₂-ka šu bal-e nu-zu
+c.1.7.4,The Flood story,,C26,nam-lugal-bi bal-bi ba-bur₁₂ e-ne šag₄ kuš₂-u₃-de₃
+c.1.7.4,The Flood story,,C27,e-ne-eš₂
+c.1.7.4,The Flood story,,C28,a-na
+c.1.7.4,The Flood story,,D1,im-hul-im-hul {tum₉}si-si-ig du₃-a-bi teš₂-bi i₃-sug₂-ge-eš
+c.1.7.4,The Flood story,,D2,a-ma-ru ugu kab dug₄-ga ba-an-da-ab-ur₃-e
+c.1.7.4,The Flood story,,D3,ud ₇-am₃ ŋi₆ ₇-am₃
+c.1.7.4,The Flood story,,D4,a-ma-ru kalam-ma ba-ur₃-ra-ta
+c.1.7.4,The Flood story,,D5,{ŋeš}ma₂ gur₄-gur₄ a gal-la im-hul tuku₄-tuku₄-a-ta
+c.1.7.4,The Flood story,,D6,{d}utu i-im-ma-ra-e₃ an ki-a ud ŋa₂-ŋa₂
+c.1.7.4,The Flood story,,D7,zi-ud-su₃-ra₂ {ŋeš}ma₂ gur₄-gur₄ ab-BUR₂ mu-un-da-buru₃
+c.1.7.4,The Flood story,,D8,šul {d}utu ŋiš-nu₁₁-ni-da {ŋeš}ma₂ gur₄-gur₄-še₃ ba-an-kur₉-re-en
+c.1.7.4,The Flood story,,D9,zi-ud-su₃-ra₂ lugal-am₃
+c.1.7.4,The Flood story,,D10,igi {d}utu-še₃ giri₁₇ ki su-ub ba-gub
+c.1.7.4,The Flood story,,D11,lugal-e gud im-ma-ab-gaz-e udu im-ma-ab-šar₂-re
+c.1.7.4,The Flood story,,D12,si gal sikil-la-da
+c.1.7.4,The Flood story,,D13,mu-un-na-X-X-ba
+c.1.7.4,The Flood story,,D14,
+c.1.7.4,The Flood story,,D15,bi₂-in-si
+c.1.7.4,The Flood story,,D16,tab-ba
+c.1.7.4,The Flood story,,D17,
+c.1.7.4,The Flood story,,E1,zi an-na zi ki-a i₃-pad₃-de₃-en-ze₂-en za-zu-da he₂-em-da-la₂
+c.1.7.4,The Flood story,,E2,an {d}en-lil₂ zi an-na zi ki-a i₃-pad₃-de₃-ze₂-en za-da-ne-ne im-da-la₂
+c.1.7.4,The Flood story,,E3,niŋ₂-gilim-ma ki-ta ed₃-de₃ im-ma-ra-ed₃-de₃
+c.1.7.4,The Flood story,,E4,zi-ud-su₃-ra₂ lugal-am₃
+c.1.7.4,The Flood story,,E5,igi an {d}en-lil₂-la₂-še₃ giri₁₇ ki su-ub ba-gub
+c.1.7.4,The Flood story,,E6,an {d}en-lil₂ zi-ud-su₃-ra₂ mi₂-e-eš₂ X-dug₄-X
+c.1.7.4,The Flood story,,E7,til₃ diŋir-gin₇ mu-un-na-šum₂-mu
+c.1.7.4,The Flood story,,E8,zi da-ri₂ diŋir-gin₇ mu-un-na-ab-ed₃-de₃
+c.1.7.4,The Flood story,,E9,ud-ba zi-ud-su₃-ra₂ lugal-am₃
+c.1.7.4,The Flood story,,E10,mu niŋ₂-gilim-ma numun nam-lu₂-ulu₃ uru₃ ak
+c.1.7.4,The Flood story,,E11,kur-bal kur dilmun-na ki {d}utu e₃-še₃ mu-un-til₃-eš
+c.1.7.4,The Flood story,,E12,za-e til₃-eš

@@ -1,0 +1,39 @@
+id_text,text_name,version,l_no,text
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,1,en me sag₂ nu-di i-lim u₅ men gal-la
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,2,šul {d}suen ud ŋiš-he₂ e₃-a-še₃ {d}en-lil₂-le il₂-la
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,3,su-lim daŋal idim-e dirig {d}nin-lil₂-le tud-da
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,4,diŋir muš₃-a-ni unken kur-kur-ra
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,5,iti₆ {d}i-bi₂-{d}suen-ŋu₁₀
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,6,me nam-nun-na-ni an-da gu₂ la₂-am₃
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,7,u₁₈-ru-ni giri₁₇-zal ki us₂-sa-am₃
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,8,{d}aš-im₂-babbar-re {d}i-bi₂-{d}suen-ŋu₁₀
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,9,kalam-ma ku₆-ŋal₂-bi-še₃ uŋ₃ daŋal-la
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,10,{d}nanna men zid-da dalla mu-X-e₃
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,11,ŋidru ud du₆-ul-la {d}aš-im₂-babbar
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,12,{d}i-bi₂-{d}suen-ŋu₁₀ uŋ₃ daŋal-la gu₂
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,13,ub-da an ki-ka kalam dug₃-ga ŋiri₃-na
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,14,{d}nanna kur-kur-ra me-ni
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,15,an ki niŋ₂-daŋal-ba pa
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,16,an-e nir {d}aš-im₂-babbar
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,17,{d}nanna nam-šul-la
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,18,ul-še₃ me ud til₃-la
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,19,{d}i-bi₂-{d}suen-ŋu₁₀
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,20,dug₄-ga-ni u₁₈-ru gal sag₂ nu-di-dam
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,21,{d}i-bi₂-{d}suen šu mah-a-ni im-dab
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,22,zid-de₃-eš-še₃ mu-na-an-ak mu dug₃ sa₄-a-ni
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,23,sa-gid₂-da-am₃
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,24,urim₂{ki} iri me nun šul {d}suen-na-kam
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,25,an {d}en-lil₂ pap gal {d}nu-dim₂-mud
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,26,ama {d}nin-tur₅ kalam-ma šir₃-ra-ni mah-am₃ me-teš₂ he₂-i-i
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,27,eš₃ urim₂{ki} iri me nun šul {d}suen-na-kam
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,28,an {d}en-lil₂ pap gal {d}nu-dim₂-mud
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,29,ama {d}nin-tur₅ kalam-ma šir₃-ra-ni mah-am₃ me-teš₂ he₂-i-i
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,30,{d}a-nun-na
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,31,{d}en-ki
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,32,{d}X
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,33,{d}X
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,34,{d}X
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,35,unken ki
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,36,
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,37,sa-ŋar-ra-am₃
+c.2.4.5.1,A tigi to Suen for Ibbi-Suen (Ibbi-Suen A),,38,tigi {d}suen-na-kam

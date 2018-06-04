@@ -1,0 +1,26 @@
+id_text,text_name,version,l_no,text
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,1,en me-te kug-ga ni₂ huš gal gur₃-ru
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,2,lugal-ŋu₁₀ en {d}nin-ŋiš-zid-da ni₂ huš gal gur₃-ru
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,3,ur-saŋ sur₂-du₃{mušen} diŋir-re-e-ne
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,4,lugal-ŋu₁₀ giri₁₇-zal igi gun₃ ti mar-uru₅ šu du₇
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,5,nemurₓ ban₃-da saŋ ŋiš ra-ra muš-huš šeg₁₁ gi₄-gi₄
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,6,DU.DU-ma bi-HI ušumgal ambar-ra guruš₃ bur₂-ra u₁₈-lu lu₂-ra te-a
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,7,nun saŋ mah kur-šag₄-ga lug-ga edin saŋ dub₂-dub₂
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,8,lugal ka-zu maš-maš maš en {d}nin-ŋiš-zid-da ki ra ki ra-ra
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,9,{d}nin-ŋiš-zid-da ka-zu maš-maš maš en {d}nin-ŋiš-zid-da ki ra ki ra-ra
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,10,gada la₂-a-ŋu₁₀ a-gin₇ ŋar-ra-zu šag₄-zu a-ba mu-un-zu
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,11,{d}nin-ŋiš-zid-da a-gin₇ ŋar-ra-zu šag₄-zu a-ba mu-un-zu
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,12,inim kug-zu mu-un-zu-ra mu-un-zu nu-mu-un-zu-ra nu-mu-un-zu
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,13,nu-mu-un-zu-ra nu-mu-un-zu-ra me-dim₂
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,14,{d}nin-ŋiš-zid-da nu-mu-un-zu-ra me-dim₂
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,15,inim mah-zu ki-še₃ du-a-ba muš-huš gal na-nam
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,16,id₂-da a-ŋi₆-am₃ na-šub-šub
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,17,a-šag₄-ga mar-uru₅-am₃ na-zi-zi
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,18,ma₂-gi-lum a-u₃ me kud-ku₅-ru im-me
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,19,šag₄ ni₂-te-na-ka
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,20,ki me-a zag ŋar
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,21,lu₂ ug₅-ga-gin₇
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,22,
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,23,
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,24,en {d}nin-ŋiš-zid-da za₃-mi₂-zu dug₃-ga-am₃
+c.4.19.2,A balbale to Ninŋišzida (Ninŋišzida B),,25,bal-bal-e {d}nin-ŋiš-zid-da-ka

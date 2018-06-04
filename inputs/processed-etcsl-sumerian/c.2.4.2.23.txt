@@ -1,0 +1,25 @@
+id_text,text_name,version,l_no,text
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,1,
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,2,dim₂-ma
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,3,šu nu-bar-re
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,4,sig₉-ga-am₃
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,5,šu nu-bar-re
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,6,ŋeštug₂ kalam-ma ud šu₂-uš
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,7,ri-a mu-ri-kiŋ₂
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,8,gu₂-un dugud-da-a-ni mu-ri-zal
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,9,mu-ri-eš-am₃
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,10,zid₂-da-ni me-ri
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,11,igi bar-re
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,12,mu-ri-eš-am₃
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,13,šul-gi lugal urim₂{ki}-ma
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,14,i₃-me-en
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,15,
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,16,a-a-ŋu₁₀-ur₂
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,17,lugal-ban₃-da
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,18,ga-hul₂
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,19,su₃-ud
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,20,sud-bi
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,21,
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,22,
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,23,ŋa₂-a
+c.2.4.2.23,A praise poem of Šulgi (Šulgi W),,24,

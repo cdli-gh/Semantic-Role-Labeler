@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+c.3.1.06,Letter from Aradŋu to Šulgi about the fortress Igi-hursaŋa,,A1,lugal-ŋu₁₀-ra u₃-ne-dug₄
+c.3.1.06,Letter from Aradŋu to Šulgi about the fortress Igi-hursaŋa,,A2,arad-ŋu₁₀ arad-zu na-ab-be₂-a
+c.3.1.06,Letter from Aradŋu to Šulgi about the fortress Igi-hursaŋa,,A3,lugal-ŋu₁₀ inim-zu inim an-na niŋ₂
+c.3.1.06,Letter from Aradŋu to Šulgi about the fortress Igi-hursaŋa,,A4,nam tar-ra-zu diŋir-gin₇ šu-zu ŋar-ra
+c.3.1.06,Letter from Aradŋu to Šulgi about the fortress Igi-hursaŋa,,A5,bad₃ lugal-ŋu₁₀ šu mu-un-gi₄ kiŋ₂-bi sa₂ bi₂-dug₄
+c.3.1.06,Letter from Aradŋu to Šulgi about the fortress Igi-hursaŋa,,A6,ŋiri₃ lu₂-kur₂-e kalam-še₃ ba-bad-X
+c.3.1.06,Letter from Aradŋu to Šulgi about the fortress Igi-hursaŋa,,A7,mu mah lugal-ŋu₁₀ sig igi-nim-ma
+c.3.1.06,Letter from Aradŋu to Šulgi about the fortress Igi-hursaŋa,,A8,{d}utu e₃-ta ud šu₂-uš zag-še₃ kalam til-la-a mi-ni-in-tum₂-tum₂-mu
+c.3.1.06,Letter from Aradŋu to Šulgi about the fortress Igi-hursaŋa,,A9,mar-tu gu₂-erim₂ bi₂-in-gi-gi
+c.3.1.06,Letter from Aradŋu to Šulgi about the fortress Igi-hursaŋa,,A10,{m}kur-gam-ma-bi {d}šul-gi-ra
+c.3.1.06,Letter from Aradŋu to Šulgi about the fortress Igi-hursaŋa,,A11,har-ra-an-kalag igi-hur-saŋ-ŋa₂
+c.3.1.06,Letter from Aradŋu to Šulgi about the fortress Igi-hursaŋa,,A12,u₃ a-ba-a an-da-sa₂
+c.3.1.06,Letter from Aradŋu to Šulgi about the fortress Igi-hursaŋa,,B1,lugal-ŋu₁₀
+c.3.1.06,Letter from Aradŋu to Šulgi about the fortress Igi-hursaŋa,,B2,niŋ₂ lugal-ŋu₁₀
+c.3.1.06,Letter from Aradŋu to Šulgi about the fortress Igi-hursaŋa,,B3,lugal-ŋu₁₀

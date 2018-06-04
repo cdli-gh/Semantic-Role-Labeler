@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+c.3.3.27,Letter from Inim-Enlila to a king,,A1,lugal inim sag₉-sag₉-ge diŋir-re-e-ne-er gub-ba
+c.3.3.27,Letter from Inim-Enlila to a king,,A2,ninda nidba si bi₂-sa₂ u₃-na-a-dug₄
+c.3.3.27,Letter from Inim-Enlila to a king,,A3,alan sukud-da dim₂-ma ad gi₄-gi₄ in-tuku
+c.3.3.27,Letter from Inim-Enlila to a king,,A4,šag₄-la₂ sug₄ šag₄ kalam-ma dug₃-ga
+c.3.3.27,Letter from Inim-Enlila to a king,,A5,u₃-ne-de₃-tah
+c.3.3.27,Letter from Inim-Enlila to a king,,A6,{m}inim-{d}en-lil₂-la₂ dub-sar dumu {d}suen-pa-lil₂
+c.3.3.27,Letter from Inim-Enlila to a king,,A7,arad-zu na-ab-be₂-a
+c.3.3.27,Letter from Inim-Enlila to a king,,A8,nam-tag-ŋu₁₀ nu-zu nam-tag-ŋa₂ ŋeštug₂ la-ba-ši-ŋal₂
+c.3.3.27,Letter from Inim-Enlila to a king,,A9,nam im-ri-a hi-iš₆-ši i-si-iš-bi ib₂-gu₇-en
+c.3.3.27,Letter from Inim-Enlila to a king,,A10,ŋiri₃-paₓ-ra₂-ŋu₁₀ šag₄ iri kur₂-ra-še₃ a nam-ma-an-tum₃
+c.3.3.27,Letter from Inim-Enlila to a king,,B1,šag₄

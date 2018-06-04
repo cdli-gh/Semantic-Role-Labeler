@@ -1,0 +1,27 @@
+id_text,text_name,version,l_no,text
+c.4.13.13,A hymn to Nanna (Nanna M),,1,nam nu-ne ga-ra-na en gal a-na ka-da u₃-a
+c.4.13.13,A hymn to Nanna (Nanna M),,2,e-ri ab-ba-ge-en ni ba-ri-a-ta
+c.4.13.13,A hymn to Nanna (Nanna M),,3,su₂-en igi da-ŋal₂ e-si u₃-ri-ma
+c.4.13.13,A hymn to Nanna (Nanna M),,4,e su₂-en nam nu-ne ga-ra-na en gal a-na ka-da u₃-a
+c.4.13.13,A hymn to Nanna (Nanna M),,5,e-ri ab-ba-ge-en ni ba-ri-a-ta
+c.4.13.13,A hymn to Nanna (Nanna M),,6,su₂-en igi da-ŋal₂ e-si u₃-ri-ma
+c.4.13.13,A hymn to Nanna (Nanna M),,7,kur-ra du-da-ni₅ gi-ir-za-la e-da-ni
+c.4.13.13,A hymn to Nanna (Nanna M),,8,an nu-gi-a bi₂-ri-iŋ₃ u₃-šu-gal
+c.4.13.13,A hymn to Nanna (Nanna M),,9,en ga-ba-ŋal₂-le-a
+c.4.13.13,A hymn to Nanna (Nanna M),,10,su₂-en ka šu-gal e-si u₃-ri-ma
+c.4.13.13,A hymn to Nanna (Nanna M),,11,{d}nanna kur-ra du-da-ni₅ gi-ir-za-la
+c.4.13.13,A hymn to Nanna (Nanna M),,12,e-da-ni₅ a nu-gi-a bi-ri-iŋ₃ u₃-šu-gal
+c.4.13.13,A hymn to Nanna (Nanna M),,13,en ga-ba-ŋal₂-le-a
+c.4.13.13,A hymn to Nanna (Nanna M),,14,su₂-en ka šu-gal e-si u₃-ri-ma
+c.4.13.13,A hymn to Nanna (Nanna M),,15,ni₅-pa₃-ra i-ni-ŋar šu du šu gi₄
+c.4.13.13,A hymn to Nanna (Nanna M),,16,mi-ne ŋa₂-ŋa₂-ni₅ lu₂-gal-ŋu₁₀ pa-ra-ga tu-a-ni₅
+c.4.13.13,A hymn to Nanna (Nanna M),,17,u₃-nu gal-a-ni₅ pa-an-su-ur₂ a-na-ke₄ šu im-ma-gi-gi
+c.4.13.13,A hymn to Nanna (Nanna M),,18,{d}nanna ni₅-pa₃-ra i-ni-ŋar šu du šu gi₄
+c.4.13.13,A hymn to Nanna (Nanna M),,19,mi-ne ŋa₂-ŋa₂-ni₅ lu₂-gal-ŋu₁₀ pa-ra-ga tu-a-ni₅
+c.4.13.13,A hymn to Nanna (Nanna M),,20,u₃-nu gal-la-a-ni₅ pa-an-su-ur₂ a-na-ke₄ šu im-ma-gi-gi
+c.4.13.13,A hymn to Nanna (Nanna M),,21,me-am mu-nu-ru-ur₂ giri₁₇-za-la-e
+c.4.13.13,A hymn to Nanna (Nanna M),,22,nam me-te-ŋal₂ saŋ gi-gi
+c.4.13.13,A hymn to Nanna (Nanna M),,23,dumu-saŋ {d}en-lil₂-la i-gi-ni₅ ma-ra-ši-ŋal₂
+c.4.13.13,A hymn to Nanna (Nanna M),,24,me-am mu-nu-ru-ur₂ giri₁₇-za-la-e
+c.4.13.13,A hymn to Nanna (Nanna M),,25,nam me-te-ŋal₂ saŋ gi-gi
+c.4.13.13,A hymn to Nanna (Nanna M),,26,dumu-saŋ {d}en-lil₂-la₂ i-gi-ni₅ ma-ra-ši-ŋa₂-al

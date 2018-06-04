@@ -1,0 +1,202 @@
+id_text,text_name,version,l_no,text
+c.5.3.1,The debate between Hoe and Plough,,1,e {ŋeš}al-e {ŋeš}al-e {ŋeš}al-e sa la₂-e
+c.5.3.1,The debate between Hoe and Plough,,2,{ŋeš}al-e {ŋeš}asal₂-e zu₂ {ŋeš}ma-nu-e
+c.5.3.1,The debate between Hoe and Plough,,3,{ŋeš}al-e {ŋeš}šinig-e zu₂ ŋiš-ab-ba-ke₄
+c.5.3.1,The debate between Hoe and Plough,,4,{ŋeš}al-e zu₂ ₂-e zu₂ ₄-e
+c.5.3.1,The debate between Hoe and Plough,,5,{ŋeš}al-e dumu ukur₃-ra šag₄ {tug₂}niŋ₂-dara₂ kar-re
+c.5.3.1,The debate between Hoe and Plough,,6,{ŋeš}al-e {ŋeš}apin-na du₁₄ ga-na nam-mi-ŋar
+c.5.3.1,The debate between Hoe and Plough,,7,{ŋeš}al-e {ŋeš}apin-na a-da-min₃ dug₄-ga
+c.5.3.1,The debate between Hoe and Plough,,8,{ŋeš}al-e {ŋeš}apin-na gu₃ am₃-ma-de₂-e
+c.5.3.1,The debate between Hoe and Plough,,9,{ŋeš}apin i₃-gid₂-de₃-en gid₂-da-zu nam-ŋu₁₀
+c.5.3.1,The debate between Hoe and Plough,,10,i₃-lagab-be₂-en lagab-ba-zu nam-ŋu₁₀
+c.5.3.1,The debate between Hoe and Plough,,11,a u₃-ba-ni-ib-e₃ nu-mu-e-da-an-uš₂-en
+c.5.3.1,The debate between Hoe and Plough,,12,sahar {ŋeš}dusu-e nu-mu-e-da-an-si-si
+c.5.3.1,The debate between Hoe and Plough,,13,im nu-barag-e-en šeg₁₂ nu-du₃-e-en
+c.5.3.1,The debate between Hoe and Plough,,14,uš ki nu-ŋa₂-ŋa₂-an e₂ nu-du₃-du₃-en
+c.5.3.1,The debate between Hoe and Plough,,15,e₂-ŋar₈ sumun-na ur₂-bi nu-us₂-en
+c.5.3.1,The debate between Hoe and Plough,,16,ur₃ lu₂ zid-da-ke₄ e₂ nu-um-ŋa₂-ŋa₂-an
+c.5.3.1,The debate between Hoe and Plough,,17,{ŋeš}apin sila daŋal-la si nu-um-sa₂-sa₂-en
+c.5.3.1,The debate between Hoe and Plough,,18,{ŋeš}apin i₃-gid₂-de₃-en gid₂-da-zu nam-ŋu₁₀
+c.5.3.1,The debate between Hoe and Plough,,19,i₃-lagab-be₂-en lagab-ba-zu nam-ŋu₁₀
+c.5.3.1,The debate between Hoe and Plough,,20,{ŋeš}apin-e {ŋeš}al-e gu₃ am₃-ma-de₂-e
+c.5.3.1,The debate between Hoe and Plough,,21,ŋe₂₆-e {ŋeš}apin-e a₂ gal-e dim₂-ma šu gal-e keše₂-da
+c.5.3.1,The debate between Hoe and Plough,,22,saŋ-tun₃ mah a-a {d}en-lil₂-la₂-me-en
+c.5.3.1,The debate between Hoe and Plough,,23,engar zid nam-lu₂-ulu₃-me-en
+c.5.3.1,The debate between Hoe and Plough,,24,ezen-ŋu₁₀ itid šu-numun-a a-šag₄-ga ak-da-bi
+c.5.3.1,The debate between Hoe and Plough,,25,lugal-e gud im-ma-ab-gaz-e udu im-ma-ab-šar₂-re
+c.5.3.1,The debate between Hoe and Plough,,26,kaš bur-ra-am₃ mu-e-de₂
+c.5.3.1,The debate between Hoe and Plough,,27,lugal-e a ur₄-a mu-e-de₆
+c.5.3.1,The debate between Hoe and Plough,,28,{kuš}ub₃ {kuš}a₂-la₂-e šeg₁₁ ši-im-ma-gi₄-gi₄
+c.5.3.1,The debate between Hoe and Plough,,28A,
+c.5.3.1,The debate between Hoe and Plough,,29,lugal-e a₂-ŋu₁₀ šu bi₂-in-du₈
+c.5.3.1,The debate between Hoe and Plough,,30,gud-ŋu₁₀ {ŋeš}šudul-e si ba-ni-in-sa₂
+c.5.3.1,The debate between Hoe and Plough,,31,barag-barag gal-gal zag-ŋu₁₀-ta im-da-sug₂-sug₂-ge-eš
+c.5.3.1,The debate between Hoe and Plough,,32,kur-kur-re u₆ dug₃-ge-eš mu-e
+c.5.3.1,The debate between Hoe and Plough,,33,uŋ₃-e igi hul₂-la mu-un-ši-bar-bar-re
+c.5.3.1,The debate between Hoe and Plough,,34,ab-sin₂ gub-ba-ŋu₁₀ edin me-te-aš bi₂-ib-ŋal₂
+c.5.3.1,The debate between Hoe and Plough,,35,išin-na a-šag₄-ga ŋal₂-la-ŋu₁₀-uš
+c.5.3.1,The debate between Hoe and Plough,,36,maš₂-anše lu-a {d}šakkan₂-na im-ši-gam-e-de₃-eš
+c.5.3.1,The debate between Hoe and Plough,,37,še šeŋ₆-ŋa₂ kiŋ₂-ŋa₂ gub-ba-ŋu₁₀-uš
+c.5.3.1,The debate between Hoe and Plough,,37A,{urud}bulug-gur₁₀ niŋ₂ kalag-ga a-da-min₃ mu-e
+c.5.3.1,The debate between Hoe and Plough,,37B,gur₁₀ še ba-ur₄-a-ta
+c.5.3.1,The debate between Hoe and Plough,,38,{dug}šakir₃ {lu₂}sipad-da dug₃ ŋar-ra-am₃
+c.5.3.1,The debate between Hoe and Plough,,39,zar-maš-ŋu₁₀ a-gar₃-ra sal-la-a-bi
+c.5.3.1,The debate between Hoe and Plough,,40,udu {d}dumu-zid-da dug₃ ŋar-ra-am₃
+c.5.3.1,The debate between Hoe and Plough,,41,du₆-ŋu₁₀ edin-na du₈-du₈-a-bi
+c.5.3.1,The debate between Hoe and Plough,,42,hur-saŋ sig₇-ga hi-li gur₃-ru-am₃
+c.5.3.1,The debate between Hoe and Plough,,43,guru₇-du₆ guru₇-maš-a {d}en-lil₂-ra gu₂ mu-un-na-ab-gur-re
+c.5.3.1,The debate between Hoe and Plough,,44,ziz₂ gig-bi gu₂ mu-un-na-ra-dub-dub-be₂
+c.5.3.1,The debate between Hoe and Plough,,45,arah₄ nam-lu₂-ulu₃-ka še mi-ni-ib₂-si-si-en
+c.5.3.1,The debate between Hoe and Plough,,46,nu-siki nu-mu-un-su {lu₂}ki-gul-la
+c.5.3.1,The debate between Hoe and Plough,,47,gi-gur-ra šu um-ma-ab-ti-eš
+c.5.3.1,The debate between Hoe and Plough,,48,an pad-paₓ-ra₂-ŋu₁₀ im-de₅-de₅-ge-ne
+c.5.3.1,The debate between Hoe and Plough,,49,in-nu a-šag₄-ga dub-dub-ba-ŋu₁₀
+c.5.3.1,The debate between Hoe and Plough,,50,nam-lu₂-ulu₃ im-da-gid₂-gid₂-de₃-en
+c.5.3.1,The debate between Hoe and Plough,,51,maš₂-anše {d}šakkan₂-na lu-a-bi a₂ mu-da-an-e₃
+c.5.3.1,The debate between Hoe and Plough,,52,{ŋeš}al hul-bi buru₃-da zu₂ hul-bi bur₁₂-ra
+c.5.3.1,The debate between Hoe and Plough,,53,{ŋeš}al im-ma kiŋ₂-ŋa₂ la₂-a
+c.5.3.1,The debate between Hoe and Plough,,54,{ŋeš}al a-šag₄-ga saŋ-bi im ŋar-ra
+c.5.3.1,The debate between Hoe and Plough,,55,{ŋeš}al u₃ {ŋeš}u₃-šub-ba im-ma ud zal-la lu₂-ulu₃ nu-luh-ha
+c.5.3.1,The debate between Hoe and Plough,,56,pu₂ ba-al sur₃ ba-al lu₂ en₃-dur-ra ba-al
+c.5.3.1,The debate between Hoe and Plough,,57,ŋiš šu ukur₃-ra-ba šu nam-barag-ga-ka nu-tum₂-ma
+c.5.3.1,The debate between Hoe and Plough,,58,šu arad lu₂-ka saŋ me-te-aš bi₂-ib-ŋal₂
+c.5.3.1,The debate between Hoe and Plough,,59,za-e ŋa₂-ra in gig mu-e-dub₂
+c.5.3.1,The debate between Hoe and Plough,,60,ni₂-zu ŋa₂-da mu-da-ab-sa₂-e-en
+c.5.3.1,The debate between Hoe and Plough,,61,edin-še₃ e₃-ŋu₁₀-da igi hu-mu-un-du₈-a
+c.5.3.1,The debate between Hoe and Plough,,61A,{ŋeš}al-e {ŋeš}apin-na gur₄-ra-ni-še₃
+c.5.3.1,The debate between Hoe and Plough,,62,{ŋeš}apin sur₃ ba-al-ba-al in-še₃ mu-e-dub₂
+c.5.3.1,The debate between Hoe and Plough,,63,{ŋeš}al-e {ŋeš}apin-na gu₃ am₃-ma-de₂-e
+c.5.3.1,The debate between Hoe and Plough,,64,{ŋeš}apin tur-ra-ŋu₁₀ nam-ŋu₁₀ buluŋ₃-ŋa₂-ŋu₁₀ nam-ŋu₁₀ peš₁₀-ŋal₂-la-ŋu₁₀ nam-ŋu₁₀
+c.5.3.1,The debate between Hoe and Plough,,65,ki {d}en-lil₂-la₂-ka dub-saŋ-zu ŋe₂₆-e-me-en
+c.5.3.1,The debate between Hoe and Plough,,66,e₂ {d}en-lil₂-la₂-ka igi-še₃ ma-ra-ab-gub-be₂-en
+c.5.3.1,The debate between Hoe and Plough,,67,eg₂ i₃-ak-en pa₅ i₃-ak-en
+c.5.3.1,The debate between Hoe and Plough,,68,a-gar₃-a-gar₃-re a um-ma-si-si-in
+c.5.3.1,The debate between Hoe and Plough,,69,ŋiš-gi-ŋiš-gi-a a u₃-mu-ni-in-de₂-de₂
+c.5.3.1,The debate between Hoe and Plough,,70,{ŋeš}dusu tur-ŋu₁₀ mu-da-ab-ri
+c.5.3.1,The debate between Hoe and Plough,,71,id₂ u₃-mu-e-kud pa₅ u₃-mu-e-kud
+c.5.3.1,The debate between Hoe and Plough,,72,id₂ mah zig₃-ga-še₃ a um-ma-ni-ri
+c.5.3.1,The debate between Hoe and Plough,,73,ambar-ra da um-da-ak-e
+c.5.3.1,The debate between Hoe and Plough,,74,ŋe₂₆-e {ŋeš}al niŋin₂-bi im-da-gub-be₂-en
+c.5.3.1,The debate between Hoe and Plough,,75,{tum₉}u₁₈-lu {tum₉}mir-ra nu-mu-un-si-il-si-il-le
+c.5.3.1,The debate between Hoe and Plough,,76,mušen-du₃-e nunuz ib₂-de₅-de₅-ge
+c.5.3.1,The debate between Hoe and Plough,,77,{lu₂}šu-KU₆-de₃ ku₆ mi-ni-ib-dab₅-dab₅-be₂
+c.5.3.1,The debate between Hoe and Plough,,78,uŋ₃-e {ŋeš}har-mušen-na šu im-ma-an-ti
+c.5.3.1,The debate between Hoe and Plough,,79,e-ne-eš₂ he₂-ŋal₂-ŋu₁₀ kur-kur-ra šu-bi he₂-ni-ib-sud-sud
+c.5.3.1,The debate between Hoe and Plough,,80,a-gar₃-ta a um-ta-haš-a-ta
+c.5.3.1,The debate between Hoe and Plough,,81,ki duru₅ kiŋ₂-ŋa₂ ba-ŋal₂-la-ta
+c.5.3.1,The debate between Hoe and Plough,,82,{ŋeš}apin igi-zu-še₃ a-šag₄-ga ŋe₂₆-e ma-an-ed₃-de₃
+c.5.3.1,The debate between Hoe and Plough,,83,a-šag₄ ŋal₂ da₁₃-da₁₃ ŋe₂₆-e ma-ra-ra-an-du₈-e
+c.5.3.1,The debate between Hoe and Plough,,84,a₂-ur₂ eg₂-ga ŋe₂₆-e ma-ra-ra-an-ze₂-en
+c.5.3.1,The debate between Hoe and Plough,,85,u₂-kul a-šag₄-ga ŋe₂₆-e ma-ra-ra-an-ŋa₂-ŋa₂-e-en
+c.5.3.1,The debate between Hoe and Plough,,86,{ŋeš}mud {ŋeš}i-ri₉-na-bi a-šag₄-ga ŋe₂₆-e ma-ra-de₅-de₅-ge-en
+c.5.3.1,The debate between Hoe and Plough,,87,a-šag₄ kiŋ₂ a-ak us₂-sa ŋar-ra-am₃
+c.5.3.1,The debate between Hoe and Plough,,88,gud-zu ₆-am₃ lu₂-zu ₄-am₃ u₃ za-e šag₄ ₁₁-kam-ma-bi-me-en
+c.5.3.1,The debate between Hoe and Plough,,89,a₂ sa gi₄-a gana₂-ta mi-ni-ib-kar-kar-re
+c.5.3.1,The debate between Hoe and Plough,,90,ni₂-zu ŋa₂-a-da mu-da-ab-sa₂-e
+c.5.3.1,The debate between Hoe and Plough,,91,bar-ŋu₁₀-ta a-šag₄-ga ed₂-de₃-da-zu-ne
+c.5.3.1,The debate between Hoe and Plough,,92,ab-sin₂-zu dili-am₃ igi X-da-ab-sag₉-ge
+c.5.3.1,The debate between Hoe and Plough,,93,saŋ-zu kiŋ₂-ŋa₂ u₃-mu-e-ni-ri-en
+c.5.3.1,The debate between Hoe and Plough,,94,{ŋeš}i-ri₈-na {ŋeš}kiši₁₆ u₃-mu-e-ni-la₂
+c.5.3.1,The debate between Hoe and Plough,,95,{ŋeš}zu₂-zu mu-e-kud {ŋeš}zu₂-zu u₃-mu-e-du₃
+c.5.3.1,The debate between Hoe and Plough,,96,{ŋeš}zu₂-zu šu-zu-še₃ nu-im-mi-la₂
+c.5.3.1,The debate between Hoe and Plough,,97,engar-zu {ŋeš}apin-bi til-la mu-še₃ mi-ri-ib₂-sa₄-sa₄
+c.5.3.1,The debate between Hoe and Plough,,98,₂-kam-ma-še₃ nagar ma-ra-huŋ-e lu₂
+c.5.3.1,The debate between Hoe and Plough,,99,e₂ nam-gašam-ke₄ ma-ra-ab-ni₁₀-ni₁₀-e
+c.5.3.1,The debate between Hoe and Plough,,100,tug₂-du₈ bar ma-ra-ra-an-ze₂-en
+c.5.3.1,The debate between Hoe and Plough,,101,niŋ₂-bar-sur-ra ma-ra-ra-an-ed₃-ne
+c.5.3.1,The debate between Hoe and Plough,,102,{kuš}bar-ed₃-da-bar-ed₃-da šu-mu-ra-an-kuš₂-u₃-ne
+c.5.3.1,The debate between Hoe and Plough,,103,kuš nu-dug₃ saŋ-du-zu bi₂-ib-ŋar
+c.5.3.1,The debate between Hoe and Plough,,104,il₂-la-zu tur-ra-am₃ a-ra₂-zu mah-am₃
+c.5.3.1,The debate between Hoe and Plough,,105,ud zag-ŋu₁₀ itid ₁₂-am₃
+c.5.3.1,The debate between Hoe and Plough,,106,ud gub-ba-zu itid ₄-am₃
+c.5.3.1,The debate between Hoe and Plough,,107,ud sah₆-zu itid ₈-am₃
+c.5.3.1,The debate between Hoe and Plough,,108,gub-ba-zu-gin₇ ₂-am₃ ba-du-un
+c.5.3.1,The debate between Hoe and Plough,,109,{ŋeš}ma₂-la₂-za e₂ i₃-du₃-du₃-e-en
+c.5.3.1,The debate between Hoe and Plough,,110,u₃-mu-e-ni-ri-en šu-zu {ŋeš}dal-a u₃-mu-e-ni-bur₁₂
+c.5.3.1,The debate between Hoe and Plough,,111,igi-zu dug ŋeštin-na-gin₇ a im-ta-suh-en
+c.5.3.1,The debate between Hoe and Plough,,112,{ŋeš}dal-ta kur-ra um-ta-ak-en
+c.5.3.1,The debate between Hoe and Plough,,113,i-bi₂-ŋu₁₀ e₂-a mu-ni-in-sig₇-sig₇-en
+c.5.3.1,The debate between Hoe and Plough,,114,{ŋeš}ninda₂-zu me-am₃ gurud-da-bi
+c.5.3.1,The debate between Hoe and Plough,,115,lu₂ gurud-da-zu gu₂-guru₅ ba-ab-dug₄
+c.5.3.1,The debate between Hoe and Plough,,116,{ŋeš}šu-kar₂ sug-zag-ge₄ gu₇-a
+c.5.3.1,The debate between Hoe and Plough,,117,ŋe₂₆-e {ŋeš}al-me-en iri{ki}-a ga-an-til₃
+c.5.3.1,The debate between Hoe and Plough,,118,lu₂ nam-me dugud-da-me-en
+c.5.3.1,The debate between Hoe and Plough,,119,arad lugal-a-ni-ir us₂-sa-me-en
+c.5.3.1,The debate between Hoe and Plough,,120,e₂ lugal-a-ni-ir du₃-du₃-a-me-en
+c.5.3.1,The debate between Hoe and Plough,,121,{e₂}tur₃ gid₂-da-me-en amaš daŋal-la-me-en
+c.5.3.1,The debate between Hoe and Plough,,122,im i₃-barag-en šeg₁₂ i₃-du₃-du₃-en
+c.5.3.1,The debate between Hoe and Plough,,123,uš ki i₃-ŋa₂-ŋa₂-an e₂ i₃-du₃-du₃-en
+c.5.3.1,The debate between Hoe and Plough,,124,e₂-ŋar₈ sumun-na ur₂-bi i₃-us₂-en
+c.5.3.1,The debate between Hoe and Plough,,125,ur₃ lu₂ zid-da-ka e₂ im-ma-ŋa₂-ŋa₂-an
+c.5.3.1,The debate between Hoe and Plough,,126,{ŋeš}al-me-en sila daŋal-la si im-ma-sa₂-sa₂-e-en
+c.5.3.1,The debate between Hoe and Plough,,127,iri{ki} u₃-mu-niŋin₂ bad₃ gen₆ um-mi-du₃
+c.5.3.1,The debate between Hoe and Plough,,128,e₂ diŋir gal-gal-e-ne-ka pa e₃ u₃-ba-ni-ak
+c.5.3.1,The debate between Hoe and Plough,,129,im su₄ im sig₇ im dal-ha-mun-na mi₂ um-ma-ni-in-dug₄
+c.5.3.1,The debate between Hoe and Plough,,130,iri{ki} e₂-gal-la-ka i₃-du₃-e-en
+c.5.3.1,The debate between Hoe and Plough,,131,ugula nu-banda₃-e-ne dur₂ i-im-ŋa₂-ŋa₂-ne
+c.5.3.1,The debate between Hoe and Plough,,132,im gig-bi du₃-a im dugud-da
+c.5.3.1,The debate between Hoe and Plough,,133,e₂ du₃-du₃-a-ŋa₂ a₂ sed₄-bi-še₃ ni₂ he₂-em-ši-ib-te-en-te-en
+c.5.3.1,The debate between Hoe and Plough,,134,gu₂ izi-ka {ŋeš}al um-ma-zal-la zag gu₂ um-ma-ab-la₂
+c.5.3.1,The debate between Hoe and Plough,,135,e-ne sug₄-ga-ni nu-mu-e-ši-du-un
+c.5.3.1,The debate between Hoe and Plough,,136,mu-ni-ib-gu₇-u₃-ne mu-ni-ib-na₈-na₈-ne
+c.5.3.1,The debate between Hoe and Plough,,137,addir-ra-ni mu-na-ab-šum₂-mu-ne
+c.5.3.1,The debate between Hoe and Plough,,138,ŋuruš-ra dam dumu-ni a₂ mu-un-da-an-e₃
+c.5.3.1,The debate between Hoe and Plough,,139,ma₂-lah₅-ra gir₄ mu-na-du₃-e esir₂ mu-na-bil-bil
+c.5.3.1,The debate between Hoe and Plough,,140,{ŋeš}ma₂-gur₈ {ŋeš}ma₂-gi₄-lum u₃-mu-na-du₃
+c.5.3.1,The debate between Hoe and Plough,,141,ma₂-lah₅-ra dam dumu-ni a₂ mu-un-da-an-e₃
+c.5.3.1,The debate between Hoe and Plough,,142,lugal-ra {ŋeš}kiri₆ mu-un-na-ab-gub-be₂-en
+c.5.3.1,The debate between Hoe and Plough,,143,{ŋeš}kiri₆ u₃-mu-un-niŋin₂ im-du₃-a zag-bi u₃-bi₂-in-dab₅ gu₃ teš₂-a u₃-bi₂-in-sig₁₀-ge₅
+c.5.3.1,The debate between Hoe and Plough,,144,uŋ₃-e {ŋeš}al-e šu im-ma-an-ti-eš
+c.5.3.1,The debate between Hoe and Plough,,145,pu₂-ba u₃-mu-ba-al mu-gu₂ um-mi-du₃
+c.5.3.1,The debate between Hoe and Plough,,146,{ŋeš}zi-ri₂-gum u₃-bi₂-in-du₃ mu₂-sar-re si im-sa₂-sa₂-e-en
+c.5.3.1,The debate between Hoe and Plough,,147,ŋe₂₆-e-me-en mu₂-sar-ra a bi₂-ib₂-sig₁₀-sig₁₀-ge-en
+c.5.3.1,The debate between Hoe and Plough,,148,{ŋeš}hašhur u₃-mu-buluŋ₃-ŋe₂₆ niŋ₂-sa-ha am₃-e₃
+c.5.3.1,The debate between Hoe and Plough,,149,niŋ₂-sa-ha-bi e₂ diŋir gal-gal-e-ne-ka me-te-aš im-mi-ib-ŋal₂
+c.5.3.1,The debate between Hoe and Plough,,150,nu-{ŋeš}kiri₆-ke₄ dam dumu-ni a₂ mu-un-da-an-e₃
+c.5.3.1,The debate between Hoe and Plough,,151,id₂-da ŋiš-keše₂-da um-mi-ak ŋiri₃ si um-mi-sa₂
+c.5.3.1,The debate between Hoe and Plough,,152,ki-ba an-za-gar₃ gu₂-ba um-mi-du₃
+c.5.3.1,The debate between Hoe and Plough,,153,lu₂ a-šag₄-ga ud ba-an-da-zal-la
+c.5.3.1,The debate between Hoe and Plough,,154,ŋuruš a-šag₄-ga ŋi₆ ba-an-da-sa₂-a
+c.5.3.1,The debate between Hoe and Plough,,155,an-za-gar₃-ba um-mi-ed₃-de₃
+c.5.3.1,The debate between Hoe and Plough,,156,lu₂-bi iri{ki} du₃-a-ni zi-ni ba-ši-in-tum₃
+c.5.3.1,The debate between Hoe and Plough,,157,{kuš}ummud u₃-mu-dim₂ a mu-na-de₂-e
+c.5.3.1,The debate between Hoe and Plough,,158,zi-ni šag₄-ba mu-na-ŋa₂-ŋa₂-an
+c.5.3.1,The debate between Hoe and Plough,,159,{ŋeš}apin sur₃ ba-al-ba-al in-še₃ mu-e-dub₂
+c.5.3.1,The debate between Hoe and Plough,,160,edin bar-rim₄ ki a nu-ŋal₂-la
+c.5.3.1,The debate between Hoe and Plough,,161,a dug₃-ga-bi u₃-mu-ba-al
+c.5.3.1,The debate between Hoe and Plough,,162,lu₂ enmen tuku gu₂ pu₂-ŋa₂-še₃ zi-ni ba-ši-in-tum₃
+c.5.3.1,The debate between Hoe and Plough,,163,i₃-ne-eš₂ lu₂-u₃-ra a-na na-an-dug₄
+c.5.3.1,The debate between Hoe and Plough,,164,lu₂ lu₂-u₃-ra dili a-na na-an-tah
+c.5.3.1,The debate between Hoe and Plough,,165,sipad-de₃ u₈ sila₄-a-ni edin me-te-aš bi₂-ib-ŋal₂
+c.5.3.1,The debate between Hoe and Plough,,166,ud an-ne₂ sag₂ ba-ab-dug₄-ga-ta
+c.5.3.1,The debate between Hoe and Plough,,167,ki-en-gi a gig ba-ab-dug₄-ga-ta
+c.5.3.1,The debate between Hoe and Plough,,168,e₂ du₃ id₂-da šu mu-ni-in-la₂-a-ba
+c.5.3.1,The debate between Hoe and Plough,,169,{d}en-lil₂-le ma-da saŋ-ki ba-da-gid₂-da-a-ba
+c.5.3.1,The debate between Hoe and Plough,,170,buru₁₄ {d}en-lil₂-le mu-un-su-a-ta
+c.5.3.1,The debate between Hoe and Plough,,171,mah {d}en-lil₂-le mu-un-ak-a-ta
+c.5.3.1,The debate between Hoe and Plough,,172,{d}en-lil₂-le šu nu-me-en-dag
+c.5.3.1,The debate between Hoe and Plough,,173,{ŋeš}al zu₂ dili bar-rim₄-še₃ ba-an-šum₂
+c.5.3.1,The debate between Hoe and Plough,,174,me-en-de₃ en-te-en buru₁₄-gin₇ mu-e-la₂
+c.5.3.1,The debate between Hoe and Plough,,175,šu e₂-me-eš en-te-na-ke₄ mu-na-kar-kar-re-en-de₃-en
+c.5.3.1,The debate between Hoe and Plough,,176,{ŋeš}al-e a₂ la₂-e garadinₓ mu-un-la₂
+c.5.3.1,The debate between Hoe and Plough,,177,{ŋeš}har-mušen-na a₂ la₂-e gi-gur-ra mu-un-la₂
+c.5.3.1,The debate between Hoe and Plough,,178,ŋuruš saŋ-dili {lu₂}ki-gul-la a₂ mu-un-da-an-e₃
+c.5.3.1,The debate between Hoe and Plough,,178A,an pad-paₓ-ra₂ im-de₅-de₅-ge-ne
+c.5.3.1,The debate between Hoe and Plough,,179,ud-bi-a ud-de₃ gu₃ he₂-eb-be₂
+c.5.3.1,The debate between Hoe and Plough,,180,{na₄}kinkin ma-nu₂ {ŋeš}naŋa₄ ma-du₇-du₇
+c.5.3.1,The debate between Hoe and Plough,,181,ŋiš-gan-na-ta tu₁₀ mu-un-ak-e
+c.5.3.1,The debate between Hoe and Plough,,182,{gi}šag₄-sur {gi}ma-an-sim-bi a-da-min₃ mu-da-ak
+c.5.3.1,The debate between Hoe and Plough,,183,lu₂ sumur-ra-še₃ a-na-am₃ ab-ak
+c.5.3.1,The debate between Hoe and Plough,,184,{d}ezina₂ gu₂-zu a-na-aš mu-ni-in-šub
+c.5.3.1,The debate between Hoe and Plough,,185,še šeŋ₆-ŋa₂ a-na-aš mu bi₂-ib-su-su-un
+c.5.3.1,The debate between Hoe and Plough,,186,{d}en-lil₂-le {ŋeš}al gu₃ am₃-ma-de₂-e
+c.5.3.1,The debate between Hoe and Plough,,187,{ŋeš}al mah-bi nam-ba-e-de₃-sumur-re-de₃-en
+c.5.3.1,The debate between Hoe and Plough,,188,mah-bi gu₂-zu nam-ba-e-de₃-šub-ba
+c.5.3.1,The debate between Hoe and Plough,,189,{ŋeš}al-e {d}nisaba ugula-a-ni na-nam {d}nisaba nu-banda₃-a-ni na-nam
+c.5.3.1,The debate between Hoe and Plough,,190,dub-sar-e kiŋ₂ šu-mu-un-il₂ kiŋ₂ šu-mu-un-il₂
+c.5.3.1,The debate between Hoe and Plough,,191,{ŋeš}al-e ₅ giŋ₄ {ŋeš}al-e ₁₀ giŋ₄ niŋ₂-kas₇ ha-ra-ab-ak
+c.5.3.1,The debate between Hoe and Plough,,192,{ŋeš}al-e ₁/₃ ma-na {ŋeš}al-e ₁/₂ ma-na niŋ₂-kas₇ ha-ra-ab-ak
+c.5.3.1,The debate between Hoe and Plough,,193,geme₂-gin₇ gub-ba eš₂-gar₃ i₃-ŋa₂-ŋa₂-an
+c.5.3.1,The debate between Hoe and Plough,,194,{ŋeš}al-e {ŋeš}apin-na a-da-min₃ dug₄-ga
+c.5.3.1,The debate between Hoe and Plough,,195,{ŋeš}al-e {ŋeš}apin-na dirig-ga-ba
+c.5.3.1,The debate between Hoe and Plough,,196,{d}nisaba za₃-mi₂

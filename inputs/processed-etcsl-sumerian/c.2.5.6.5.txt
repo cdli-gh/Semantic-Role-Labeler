@@ -1,0 +1,51 @@
+id_text,text_name,version,l_no,text
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,1,an u₁₈-ru gal diŋir-re-e-ne
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,2,an nir-ŋal₂ diŋir pa e₃-a
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,3,an lugal-la nam gal tar-ra-ni
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,4,{d}ur-{d}nin-urta-ra šu zid hu-mu-na-ab-ŋar
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,5,bar-sud-am₃
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,6,zag kur-kur-ra-še₃ dili-ni dib
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,7,{d}a-nun-na-ke₄-ne saŋ keše₂-bi na-nam
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,8,me gal-gal-la zag mu-ni-in-keše₂
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,9,me šar₂-ra ŋiri₃-ni nam-mi-in-ŋar
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,10,diŋir gal-an-zu nun nam tar-re-de₃
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,11,gu₃ zid mu-na-an-de₂ an-ne₂ {d}ur-{d}nin-urta-ra gu₃ zid mu-na-an-de₂
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,12,kalam-ma mu-ni-in-mah an-ne₂ {d}ur-{d}nin-urta mu-ni-in-mah
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,13,{ŋeš}gu-za nam-lugal-la ul-še₃ suhuš gen₆-na
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,14,šibir mah me kalam-ma ur₄-ur₄
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,15,ŋidru niŋ₂-gen₆-na uŋ₃ šar₂ lah₅-lah₅-e
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,16,{d}ur-{d}nin-urta-ra mu-na-an-tah
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,17,an kug-ga ki nam tar-ra-ni
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,18,diŋir an-na ba-sug₂-ge-eš-a
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,19,{d}a-nun-na-ke₄-ne ŋizzal ba-an-ak-eš
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,20,šag₄-ba-tuku-am₃
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,21,unken ŋar-ra-ba he₂-am₃ ba-ni-in-ne-eš
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,22,iri du₃-du₃ a₂-dam ki ŋar-ra
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,23,kur gam-e kalam suhuš gen₆-na
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,24,mu he₂-ŋal₂ bal ud sud-da
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,25,{d}ur-{d}nin-urta-ra mu-na-an-šum₂
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,26,sa-gid₂-da-am₃
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,27,an-na igi su₃-ud-bi bar-ra-ni sipad zid mu-ni-in-il₂
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,28,{d}ur-{d}nin-urta dumu ki aŋ₂-ŋa₂-ni mi₂ zid-de₂-eš ša-mu-un-e
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,29,ni₂ me-lem₄-za teš₂ he₂-ŋal₂ ud gal-gin₇ u₅-bi
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,30,nam-šul-zu gaba gi₄ na-an-tuku-tuku-un ma-da he₂-de₃-ŋal₂
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,31,mu-zu kur-kur-ra he₂-em-mah-en sag₉-zu he₂-di
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,32,ma-da ni₂-ba nam-ra-an-gam-e gu₂ ŋiš hu-mu-ra-ab-ŋar
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,33,{d}ur-{d}nin-urta a₂ gal šum₂-ma-ŋu₁₀ mu-ŋu₁₀-še₃ nir he₂-ŋal₂
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,34,inim-zu {ŋeš}rab₃ mah-gin₇ hul-ŋal₂-e šu he₂-em-ri-ri
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,35,a₂ aŋ₂-ŋa₂-zu ki-bal-a ha-ba-te giri₁₇ šu ha-ma-an-ŋal₂-eš
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,36,nam-nun-zu saŋ an-še₃ he₂-eb-il₂ uŋ₃-e ha-ma-dug₃-ge
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,37,niŋ₂-gen₆-na za-e lu₂-bi he₂-me-en a₂-tah-zu he₂-a
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,38,niŋ₂-si-sa₂ šag₄-ta e₃-a-me-en {d}utu ba-gub-ba
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,39,{d}inana ki aŋ₂-zu na-nam nam-til₃ ha-ra-ab-sud-de₃
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,40,{d}lamma sag₉-ga nam-en nam-lugal-la zid-de₃-eš ha-ra-sug₂-ge-eš
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,41,mu sa₄-a ki-en-gi-ra-me-en {d}ur-{d}nin-urta-ŋu₁₀
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,42,eš₃ nibru{ki} dur-an-ki-ka saŋ il₂-la ŋen-i₃
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,43,kadra-zu šeg₁₂ e₂-kur-ra-ke₄ šu-bi im-gid₂
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,44,sipad ni₂ guru₃ nidba gal-gal-la-ni e₂-še₃ ha-ma-gub-be₂
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,45,sa-ŋar-ra-am₃
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,46,₁ diŋir-re-ne me gal-gal-la i₃-me-en
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,47,an lugal ₁ diŋir-re-ne me gal-gal-la i₃-me-en
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,48,{d}ur-{d}nin-urta ka-ta e₃-a-ŋu₁₀ ul-še₃ na-ra-kur₂-ru
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,49,u₁₈-ru₁₂-bi-im
+c.2.5.6.5,An adab to An for Ur-Ninurta (Ur-Ninurta E),,50,a-da-ab an-na-kam

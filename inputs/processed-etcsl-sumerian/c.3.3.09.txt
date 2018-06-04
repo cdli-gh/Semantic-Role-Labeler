@@ -1,0 +1,21 @@
+id_text,text_name,version,l_no,text
+c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,1,{d}en-lil₂-mas-su dimma ad gi₄ sag₉ ka lal₃ inim gun₃-gun₃-ra u₃-na-a-dug₄
+c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,2,dumu diŋir-ra-ni-ir gub-ba a-a ama-ni ni₂ teŋ₃-ŋe₂₆-e-ra
+c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,3,u₃-na-de₃-tah
+c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,4,{d}alad {d}lamma diŋir kal-la-ŋu₁₀ ulutim₂ alan zil₂-zil₂-i
+c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,5,me-te nam-dub-sar-ra
+c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,6,ur-saŋ šag₄-tam-e-ne he₂-du₇ e₂-gal-la a₂ aŋ₂ ki-bi gi₄
+c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,7,šag₄ lugal-la-na dug₃-dug₃-ge-ra u₃-na-de₃-peš
+c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,8,{m}lugal-nesaŋ-e nu-eš₃ {d}en-lil₂-la₂ lu₂ zu₂ li₉ lugal-la
+c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,9,dumu {d}en-lil₂-al-sag₉ um-mi-a nibru{ki}-a ad-da-zu na-ab-be₂-a
+c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,10,ud uru₁₆-na-zu ba-hu-hu-bu-uš-en
+c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,11,šag₄-ŋu₁₀ mu-da-šub enmen₂ šaŋar-ŋu₁₀ ba-tur
+c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,12,nam-zu ib₂-gu₇-en i-si-iš-zu ib₂-sig₉-ge-en
+c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,13,mah-zu ib₂-sur-re-en
+c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,14,bar saŋ₅-zu ib₂-til-en
+c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,15,lib bar ak-ŋu₁₀-ta šu ba-dag
+c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,16,ŋeštug₂ šag₄-ŋu₁₀-ta lul ba-ŋar
+c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,17,ni₂ te-te-ŋu₁₀-ta šag₄-ŋu₁₀ uš₂ lugud ba-si
+c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,18,en₃ tar-tar-re-de₃ zi ba-ir
+c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,19,ki nam tar-ra-še₃ nu-ub-da-ŋen-na-aš
+c.3.3.09,Letter from Lugal-nesaŋe to Enlil-massu,,20,dug₄-ga {d}en-lil₂-la₂-ta muš₃-me-zu igi he₂-bi₂-ib₂-du₈

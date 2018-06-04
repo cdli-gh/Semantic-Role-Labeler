@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+c.2.8.5.1,A hymn to Marduk for Abī-Ešuh (Abī-Ešuh A),,1,lugal me an ki-bi-da-ke₄ ab-ur₄-ra dumu saŋ-kal {d}en-ki-ke₄
+c.2.8.5.1,A hymn to Marduk for Abī-Ešuh (Abī-Ešuh A),,2,{d}marduk en er₉-ra ur-saŋ šag₄ ₁-ša₄ palil {d}nun-gal-e-ne
+c.2.8.5.1,A hymn to Marduk for Abī-Ešuh (Abī-Ešuh A),,3,a₂-ŋal₂ {d}a-nun-na-ke₄-ne diŋir gal-gal-e-ne gen₆ eš-bar ab-šum₂-šum₂-mu-a
+c.2.8.5.1,A hymn to Marduk for Abī-Ešuh (Abī-Ešuh A),,4,nun gal šag₄-bal-bal an kug-ga-ke₄ en nam tar-tar dab-ba niŋ₂-nam-ma
+c.2.8.5.1,A hymn to Marduk for Abī-Ešuh (Abī-Ešuh A),,5,gal-an-zu šag₄-zu mah nam-diŋir-bi pa e₃-a saŋ en₃ tar igi im-bar-ra-ke₄
+c.2.8.5.1,A hymn to Marduk for Abī-Ešuh (Abī-Ešuh A),,6,pa-bil₂-ga-zu an lugal diŋir-re-e-ne-ke₄ nam-en-zu an ki um-ma-na-bi ib₂-ta-an-ŋal₂
+c.2.8.5.1,A hymn to Marduk for Abī-Ešuh (Abī-Ešuh A),,7,a₂ aŋ₂-ŋa₂ gal mah an ki-bi-da-ke₄ saŋ keše₂-da-bi ma-ra-an-šum₂ šibir kur-kur-ra gamₓ-ma šu he₂-em-mi-la₂-am₃
+c.2.8.5.1,A hymn to Marduk for Abī-Ešuh (Abī-Ešuh A),,8,diŋir gal-gal-e-ne ib₂-dirig-ga ŋidru lugal ŋarza diŋir-re-e-ne si sa₂-sa₂-eš-a mu-ra-an-tah
+c.2.8.5.1,A hymn to Marduk for Abī-Ešuh (Abī-Ešuh A),,9,{d}en-lil₂-le nam-lugal kiš an ki-bi-da-ke₄ nam-še₃ mu-ni-in-tar zag ša₄ la-ba-an-tuku
+c.2.8.5.1,A hymn to Marduk for Abī-Ešuh (Abī-Ešuh A),,10,{d}a-nun-na-ke₄-ne mi-ri-ib₂-gu-ul nam-mu-ru₆-na ak-de₃ mu-ra-an-šum₂
+c.2.8.5.1,A hymn to Marduk for Abī-Ešuh (Abī-Ešuh A),,11,ki-ru-gu₂ ₁-a-kam-ma
+c.2.8.5.1,A hymn to Marduk for Abī-Ešuh (Abī-Ešuh A),,12,{d}marduk nun a-bi-e₂-šu-uh dumu ki aŋ₂ šag₄-zu-ke₄ nam-en-bi {d}utu-gin₇ an ub-ta pa e₃ ha-ba-ak-eš zag ša₄ nu-un-tuku-tuku
+c.2.8.5.1,A hymn to Marduk for Abī-Ešuh (Abī-Ešuh A),,13,ŋiš-gi-ŋal₂-bi-im
+c.2.8.5.1,A hymn to Marduk for Abī-Ešuh (Abī-Ešuh A),,14,ur-saŋ nam-kalag-ga du₈ mah sug₄-ga nam-en-bi an ki-bi-da ši-ib₂-gu-lu {d}marduk nam-kalag-ga du₈ mah sug₄-ga nam-en-bi an ki-bi-da ši-ib₂-gu-lu

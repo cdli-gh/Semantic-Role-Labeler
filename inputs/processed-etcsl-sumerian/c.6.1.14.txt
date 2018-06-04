@@ -1,0 +1,71 @@
+id_text,text_name,version,l_no,text
+c.6.1.14,Proverbs: collection 14,,A1,šu gi₄-gi₄-ra šu he₂-en-na-gi₄
+c.6.1.14,Proverbs: collection 14,,A2,{d}lum-ma lu₂ inim-ŋar sag₉-ga-ra sag₉-ga he₂-en-na-ŋal₂
+c.6.1.14,Proverbs: collection 14,,A3,igi engar-e mu-e-ši-in-il₂-la
+c.6.1.14,Proverbs: collection 14,,A4,{d}en-lil₂-le iri nam ku₅-ra₂-ni ha-ba-ši-ib₂-il₂-la
+c.6.1.14,Proverbs: collection 14,,A5,igi sipad-tur-e mu-e-ši-in-il₂-la
+c.6.1.14,Proverbs: collection 14,,A6,{d}en-lil₂-le iri nam ku₅-ra₂-ni ha-ba-ši-ib₂-il₂-la
+c.6.1.14,Proverbs: collection 14,,A7,igi bahar₂-e mu-e-ši-in-il₂-la
+c.6.1.14,Proverbs: collection 14,,A8,{d}en-lil₂-le iri nam ku₅-ra₂-ni ha-ba-ši-ib₂-il₂-la
+c.6.1.14,Proverbs: collection 14,,A9,ud al-šu₂-šu₂-ru im nu-šeŋ₃-am₃
+c.6.1.14,Proverbs: collection 14,,A10,im al-šeŋ₃ {kuš}e-sir₂ nu-du₈-a
+c.6.1.14,Proverbs: collection 14,,A11,{id₂}idigna ka-ba mu-un-zur-re a-gar₃-re nu-si-si
+c.6.1.14,Proverbs: collection 14,,A12,
+c.6.1.14,Proverbs: collection 14,,A13,du₃
+c.6.1.14,Proverbs: collection 14,,A14,
+c.6.1.14,Proverbs: collection 14,,B1,iri nam-uš₂ ŋal₂-la-še₃ anše-bal-a-ke₄ he₂-ni-ib₂-sar-re
+c.6.1.14,Proverbs: collection 14,,B2,e₂-babbar me-silim-e mu-un-du₃-a
+c.6.1.14,Proverbs: collection 14,,B3,{d}na-ni lu₂ numun til-til-la šu hul mu-un-du₃-e
+c.6.1.14,Proverbs: collection 14,,B4,e₂-e lu₂ zu-bi mu-un-gul en₃-bi-a tar-re
+c.6.1.14,Proverbs: collection 14,,B5,e₂ {d}en-lil₂-la₂ pa-har addir
+c.6.1.14,Proverbs: collection 14,,B6,šu gid₂ igi-tum₃ la₂ šu sumur niŋ₂-gig-ga-kam
+c.6.1.14,Proverbs: collection 14,,B7,e₂-gal iri₁₁-gal šag₄-bi teš₂-a ab-sig₁₀-ge₅
+c.6.1.14,Proverbs: collection 14,,B8,e₂-gal a-ri-a nu-da₁₃-da₁₃
+c.6.1.14,Proverbs: collection 14,,B9,{ŋeš}ma₂-gur₈ in-nu-da nu-da₁₃-da₁₃
+c.6.1.14,Proverbs: collection 14,,B10,dumu-gir₁₅ du-lum-ma nu-da₁₃-da₁₃
+c.6.1.14,Proverbs: collection 14,,B11,e₂-gal gud-dam kun-bi he₂-dab₅
+c.6.1.14,Proverbs: collection 14,,B12,{d}utu lugal-am₃ igi-zu he₂-en-ši-ni-ŋal₂
+c.6.1.14,Proverbs: collection 14,,B13,e₂-gal ud ₁ ama tud-da-am₃
+c.6.1.14,Proverbs: collection 14,,B14,ud ₁ ama a-nir-ra-am₃
+c.6.1.14,Proverbs: collection 14,,B15,e₂-gal ki-ma-an-ze₂-er
+c.6.1.14,Proverbs: collection 14,,B16,
+c.6.1.14,Proverbs: collection 14,,B17,
+c.6.1.14,Proverbs: collection 14,,B18,id₂-da ba-an-sig₁₀-ga
+c.6.1.14,Proverbs: collection 14,,B19,dam tuku-tuku lu₂-ulu₃-kam
+c.6.1.14,Proverbs: collection 14,,B20,dumu tuku-tuku diŋir-ra-kam
+c.6.1.14,Proverbs: collection 14,,B21,dam nu-ŋar-ra tuku-a-ŋu₁₀-ne
+c.6.1.14,Proverbs: collection 14,,B22,dumu nu-ŋar-ra tud-da-ŋu₁₀-ne
+c.6.1.14,Proverbs: collection 14,,B23,dam-ŋu₁₀ ma-dub-be₂
+c.6.1.14,Proverbs: collection 14,,B24,dumu-ŋu₁₀ ma-an-aŋ₂-e
+c.6.1.14,Proverbs: collection 14,,B25,mu-ud-na-ŋu₁₀ ku₆-ta ŋiri₃-paₓ-ra₂ ma-ni-ib₂-de₅-de₅-ge
+c.6.1.14,Proverbs: collection 14,,B26,u₂ dam-gin₇ ze₂-ba edin-ta nu-un-mu₂
+c.6.1.14,Proverbs: collection 14,,B27,u₂ dam-ŋu₁₀ na-ma-ab-il₂-i-Xbr pe-en-ze₂-er-ŋu₁₀ u-gun₃ la-ba-ak-e
+c.6.1.14,Proverbs: collection 14,,B28,dam nu-ŋar-ra e₂-a til₃-la a₂-sag₃-a₂-sag₃-a dirig-ga
+c.6.1.14,Proverbs: collection 14,,B29,šah₂-e niŋ₂ mu-un-la₂ me-a dam-ŋu₁₀ im-me
+c.6.1.14,Proverbs: collection 14,,B30,nam-tar u₃-mu-un-na-te u₂ šurum-ma-ŋu₁₀ im-me
+c.6.1.14,Proverbs: collection 14,,B31,e₂-gi₄-a ta {gi}kid-ma₂-šu₂-a ak
+c.6.1.14,Proverbs: collection 14,,B32,mussa-tur ta mu-un-i-ra-bi
+c.6.1.14,Proverbs: collection 14,,B33,ušbar₇-e ta am₃-bur₂-ra-bi
+c.6.1.14,Proverbs: collection 14,,B34,mussa-tur-re ba-an-de₆
+c.6.1.14,Proverbs: collection 14,,B35,la-ba-an-e₃
+c.6.1.14,Proverbs: collection 14,,C1,gir₅ iri kur₂-ra-am₃ saŋ-ŋa₂-am₃
+c.6.1.14,Proverbs: collection 14,,C2,nu-si-si-me-en
+c.6.1.14,Proverbs: collection 14,,C3,mu-da-ŋal₂
+c.6.1.14,Proverbs: collection 14,,C4,mu-da-ŋal₂
+c.6.1.14,Proverbs: collection 14,,C5,he₂-en-na-ba
+c.6.1.14,Proverbs: collection 14,,C6,
+c.6.1.14,Proverbs: collection 14,,C7,mu-un-sa₉
+c.6.1.14,Proverbs: collection 14,,C8,
+c.6.1.14,Proverbs: collection 14,,C9,
+c.6.1.14,Proverbs: collection 14,,C10,X-ed₃-de₃
+c.6.1.14,Proverbs: collection 14,,C11,bi₂-ib₂-ed₃-de₃
+c.6.1.14,Proverbs: collection 14,,C12,še muš₅-a-kam
+c.6.1.14,Proverbs: collection 14,,C13,šir
+c.6.1.14,Proverbs: collection 14,,C14,ŋi₆ ₅₀-am₃
+c.6.1.14,Proverbs: collection 14,,C15,ud ₅₀-am₃
+c.6.1.14,Proverbs: collection 14,,C16,
+c.6.1.14,Proverbs: collection 14,,C17,gal-bi-še₃
+c.6.1.14,Proverbs: collection 14,,C18,i-im-DU
+c.6.1.14,Proverbs: collection 14,,C19,
+c.6.1.14,Proverbs: collection 14,,C20,ŋal₂-la
+c.6.1.14,Proverbs: collection 14,,C21,gid₂

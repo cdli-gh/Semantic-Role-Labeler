@@ -1,0 +1,257 @@
+id_text,text_name,version,l_no,text
+c.4.14.1,A hymn to Nanše (Nanše A),,1,iri{ki} na-nam iri{ki} na-nam me-bi na-pad₃-de₃
+c.4.14.1,A hymn to Nanše (Nanše A),,2,niŋin₆{ki} iri{ki} na-nam me-bi na-pad₃-de₃
+c.4.14.1,A hymn to Nanše (Nanše A),,3,iri{ki} kug-ga iri{ki} na-nam me-bi na-pad₃-de₃
+c.4.14.1,A hymn to Nanše (Nanše A),,4,kur a-ta il₂-la iri{ki} na-nam me-bi na-pad₃-de₃
+c.4.14.1,A hymn to Nanše (Nanše A),,5,e₂ zid-da ud-bi na-ed₂-e nam-bi na-tar-re
+c.4.14.1,A hymn to Nanše (Nanše A),,6,iri{ki}-a niŋ₂-du₇-e pa na-mu-un-ed₂-e
+c.4.14.1,A hymn to Nanše (Nanše A),,7,ŋarza ama {d}nanše-ke₄ si na-an-sa₂-sa₂-e
+c.4.14.1,A hymn to Nanše (Nanše A),,8,nin-bi dumu eridug{ki}-ga tud-da
+c.4.14.1,A hymn to Nanše (Nanše A),,9,{d}nanše nin me kal-kal-la ki na-mu-un-gi₄-gi₄
+c.4.14.1,A hymn to Nanše (Nanše A),,10,agarin₄ na-nam ama sa-hi-in na-nam
+c.4.14.1,A hymn to Nanše (Nanše A),,11,{d}nanše ama niŋ₂ gal-gal-la na-nam
+c.4.14.1,A hymn to Nanše (Nanše A),,12,ama₅ kalam-ma-ka dugud mu-un-de-ŋal₂
+c.4.14.1,A hymn to Nanše (Nanše A),,13,erim₃-ma šim-gin₇ lal₃ šu ta-hab₂ mu-un-da-ab-dug₄
+c.4.14.1,A hymn to Nanše (Nanše A),,14,dug a nu-silig-ge mu-na-an-gub
+c.4.14.1,A hymn to Nanše (Nanše A),,15,{gi}pisaŋ niŋ₂ erim₃-ma kalam-ma-ka
+c.4.14.1,A hymn to Nanše (Nanše A),,16,{d}nanše-er sahar-ŋar id₂-da-gin₇ ki mu-un-ši-ib₂-us₂
+c.4.14.1,A hymn to Nanše (Nanše A),,17,nin dub-dim₄-dub-dim₄-ma-am₃
+c.4.14.1,A hymn to Nanše (Nanše A),,18,ŋalga niŋ₂ aratta{ki}-ka
+c.4.14.1,A hymn to Nanše (Nanše A),,19,{d}nanše nin pa₅-kur₅ pa₅ an-še₃ ŋal₂-la-am₃
+c.4.14.1,A hymn to Nanše (Nanše A),,20,nu-siki mu-un-zu nu-mu-un-su mu-un-zu
+c.4.14.1,A hymn to Nanše (Nanše A),,21,lu₂ lu₂-ra a₂ ŋal₂-la mu-un-zu nu-siki-ka ama-a-ni
+c.4.14.1,A hymn to Nanše (Nanše A),,22,{d}nanše nu-mu-un-su-a saŋ en₃ tar-ra-a-ni
+c.4.14.1,A hymn to Nanše (Nanše A),,23,e₂ ur₅-ur₅-ra sa₂ pad₃-pad₃-de₃
+c.4.14.1,A hymn to Nanše (Nanše A),,24,nin-e lu₂-kar-ra ur₂-ra bi₂-in-tum₂-mu
+c.4.14.1,A hymn to Nanše (Nanše A),,25,sig₉-ga-ar ki mu-na-ab-kiŋ₂-kiŋ₂-e
+c.4.14.1,A hymn to Nanše (Nanše A),,26,gi-gur šu DU-ni mu-na-ab-buluŋ₃-e
+c.4.14.1,A hymn to Nanše (Nanše A),,27,{dug}šaŋan šu DU-ni ku-dun mu-na-tuku-tuku
+c.4.14.1,A hymn to Nanše (Nanše A),,28,geme₂ si sa₂ ŋiri₃-ni mu-un-dab₅-ba
+c.4.14.1,A hymn to Nanše (Nanše A),,29,{d}nanše šul a₂ zid-da tuku-ni im-ma-ni-in-saŋ₅-e
+c.4.14.1,A hymn to Nanše (Nanše A),,30,nu-mu-un-su lu₂ dam nu-tuku-ni
+c.4.14.1,A hymn to Nanše (Nanše A),,31,{d}nanše ŋiš-ur₃-gin₇ e₂ zid-da im-ma-an-gur₃-ru-nam
+c.4.14.1,A hymn to Nanše (Nanše A),,32,nin-da niŋ₂-du₇-e pa na-mu-un-ed₂-e
+c.4.14.1,A hymn to Nanše (Nanše A),,33,{d}nanše lagaš{ki}-a he₂-ŋal₂-la šu mu-un-da-an-peš-e
+c.4.14.1,A hymn to Nanše (Nanše A),,34,šennu šag₄ kug-ge nam-mi-in-pad₃
+c.4.14.1,A hymn to Nanše (Nanše A),,35,ur-{d}nanše en ki aŋ₂ lagaš{ki} barag-ge mu-da-ab-si
+c.4.14.1,A hymn to Nanše (Nanše A),,36,sipad-ra ŋidru mah mu-na-an-šum₂
+c.4.14.1,A hymn to Nanše (Nanše A),,37,gu₃-de₂-a me kal-kal-la-na šu mu-na-ab-du₇-du₇
+c.4.14.1,A hymn to Nanše (Nanše A),,38,sipad šag₄ kug-ge bi₂-in-pad₃-da-ni
+c.4.14.1,A hymn to Nanše (Nanše A),,39,gu₃-de₂-a ensi₂ lagaš{ki}-a-ke₄
+c.4.14.1,A hymn to Nanše (Nanše A),,40,ab₂ he-nun tigi-a mu-ni-gub
+c.4.14.1,A hymn to Nanše (Nanše A),,41,balaŋ kug da-ba mu-ni-gub
+c.4.14.1,A hymn to Nanše (Nanše A),,42,šir₃ kug šir₃ ha-mun-na mu-un-na-du₁₂-a
+c.4.14.1,A hymn to Nanše (Nanše A),,43,{urud}kiŋ₂-tur-re e₂ im-mi-i-i
+c.4.14.1,A hymn to Nanše (Nanše A),,44,a₂ tarah nar gal-e šu mu-na-ab-tag-ge
+c.4.14.1,A hymn to Nanše (Nanše A),,45,e₂ abzu-ta me nam-ta-ba
+c.4.14.1,A hymn to Nanše (Nanše A),,46,e₂ sirara{ki}-ka šir₃ kug-ba me nun-ba mu-un-du₁₂
+c.4.14.1,A hymn to Nanše (Nanše A),,47,ensi-ke₄ ne-saŋ-ŋa₂ mu-na-an-ŋen
+c.4.14.1,A hymn to Nanše (Nanše A),,48,eš-de₂ kug mul-mul šu mu-na-ab-du₈
+c.4.14.1,A hymn to Nanše (Nanše A),,49,engiz
+c.4.14.1,A hymn to Nanše (Nanše A),,50,ninda kum₂ ninda te-en-na si mu-un-na-ab-sa₂-e
+c.4.14.1,A hymn to Nanše (Nanše A),,51,gir₄-ra-ka mu-na-an-DU
+c.4.14.1,A hymn to Nanše (Nanše A),,52,{ŋeš}mar mah-e gu₃ nun mu-na-ab-be₂
+c.4.14.1,A hymn to Nanše (Nanše A),,53,niŋ₂-šum-ma utul₂ gal-la u₃-um-de₆
+c.4.14.1,A hymn to Nanše (Nanše A),,54,a sed₄-de₃ id₂-sirara{ki}-ta u₃-um-de₆
+c.4.14.1,A hymn to Nanše (Nanše A),,55,niŋ₂ asil₃-la₂ lagaš{ki}-ta u₃-um-de₆
+c.4.14.1,A hymn to Nanše (Nanše A),,56,kurun a₂-dam-ta u₃-um-de₆
+c.4.14.1,A hymn to Nanše (Nanše A),,57,gir₄ gal unu₂ gal-da sa₂-a-ni
+c.4.14.1,A hymn to Nanše (Nanše A),,58,{d}nanše eš₃ nidba-ka-ni šeg₁₁ an-da-gi₄-gi₄
+c.4.14.1,A hymn to Nanše (Nanše A),,59,nin bur-šu-ma {d}en-lil₂-la₂-ke₄
+c.4.14.1,A hymn to Nanše (Nanše A),,60,{d}nanše nin he₂-ŋal₂-la kalam-ma til₃-la-am
+c.4.14.1,A hymn to Nanše (Nanše A),,61,TUM.GAG.MUNUS dumu {d}en-ki-ka₃-ke₄
+c.4.14.1,A hymn to Nanše (Nanše A),,62,munus zid e₂ zid-še₃ lu₂ ši-in-ŋa₂-ŋa₂
+c.4.14.1,A hymn to Nanše (Nanše A),,63,munus zid e₂ zid-še₃ lu₂ mu-un-ŋar-ra-ta
+c.4.14.1,A hymn to Nanše (Nanše A),,64,bur-saŋ-ta sa₂-dug₄ niŋ₂ ud-da e₂-a si ba-sa₂
+c.4.14.1,A hymn to Nanše (Nanše A),,65,bi-lu-da-ba še nu-um-sig₉-ge
+c.4.14.1,A hymn to Nanše (Nanše A),,66,dug ba-a-sud a nu-um-de₂
+c.4.14.1,A hymn to Nanše (Nanše A),,67,lu₂ sa₂-dug₄-ba um-ma-gub-ba šu dirig la-ba-gid₂-i-de₃
+c.4.14.1,A hymn to Nanše (Nanše A),,68,u₂-ta ba-a a-ta ba-a
+c.4.14.1,A hymn to Nanše (Nanše A),,69,sa₂-dug₄-ge taka₄-a e₂-e muš₃ tum₂-ma
+c.4.14.1,A hymn to Nanše (Nanše A),,70,ku₆ zag-ga-ka saŋ-bi zig₃-ga
+c.4.14.1,A hymn to Nanše (Nanše A),,71,{gi}en₃-bar iku ₁-e saŋ-bi-ta gid₂-i-de₃
+c.4.14.1,A hymn to Nanše (Nanše A),,72,{ŋeš}ešₓ u₂ sig₇-sig₇ {ŋeš}kiri₆-ka šag₄-bi šu ti-a
+c.4.14.1,A hymn to Nanše (Nanše A),,73,u₃-um-dib ka-ge nu-tag-ge
+c.4.14.1,A hymn to Nanše (Nanše A),,74,ninda eš₃ dag-gi₄-a nidba-še₃ nu-u₈-il₂-i
+c.4.14.1,A hymn to Nanše (Nanše A),,75,kaš saŋ šum₂-ma lu₂ im-mi-in-DU a sed₆-de₃ šu nu-um-DU
+c.4.14.1,A hymn to Nanše (Nanše A),,76,ne-saŋ ŋar-ra-bi si im-sa₂-e muš₃ nu-tum₂-mu-da
+c.4.14.1,A hymn to Nanše (Nanše A),,77,i₃ gur₃-ru he₂-em e₂-e i₃ ba-an-dib-ba
+c.4.14.1,A hymn to Nanše (Nanše A),,78,ga gur₃-ru he₂-em e₂-e ga ba-an-dib-ba
+c.4.14.1,A hymn to Nanše (Nanše A),,79,ku₆-da kaš₄ lu₂ a₂ ud-da-ka he₂-a
+c.4.14.1,A hymn to Nanše (Nanše A),,80,u₂ il₂ edin-na niŋ₂-tum₂-ni
+c.4.14.1,A hymn to Nanše (Nanše A),,81,e₂ nin-a-na-ka um-ma-an-dib-ba
+c.4.14.1,A hymn to Nanše (Nanše A),,82,ub-da a-gub-gub da a-gub-gub
+c.4.14.1,A hymn to Nanše (Nanše A),,83,eme-ta ŋal₂-la inim gen₆ inim kur₂ di
+c.4.14.1,A hymn to Nanše (Nanše A),,84,e₂ {d}nanše-ka bar-ra ku₄-ku₄ šag₄-ga nu-ed₂-e
+c.4.14.1,A hymn to Nanše (Nanše A),,85,saŋ en₃ tar e₂ {d}nanše-ka dumu {d}utu tud-da
+c.4.14.1,A hymn to Nanše (Nanše A),,86,inim-bi-ta en {d}hendur-saŋ-ŋa₂-ke₄ us₂-am₃ im-da-ab-ra
+c.4.14.1,A hymn to Nanše (Nanše A),,87,lugal-e zid dug₄-ga mu-un-zu erim₂ dug₄-ga mu-un-zu
+c.4.14.1,A hymn to Nanše (Nanše A),,88,{d}hendur-saŋ-ŋa₂-ke₄ zid dug₄-ga mu-un-zu erim₂ dug₄-ga mu-un-zu
+c.4.14.1,A hymn to Nanše (Nanše A),,89,dug₄-ga-bi erim₂-e im-gi₁₆-ib-a ŋiš mu-na-an-du₃
+c.4.14.1,A hymn to Nanše (Nanše A),,90,{d}nin-Xbr dumu ur-saŋ šul {d}suen-na-ke₄
+c.4.14.1,A hymn to Nanše (Nanše A),,91,{d}nanše-er inim-ŋar hul-bi-a mu-na-an-du₃-e
+c.4.14.1,A hymn to Nanše (Nanše A),,92,nin dug₄-ga zid-da me-ni nu-kar₂-kar₂
+c.4.14.1,A hymn to Nanše (Nanše A),,93,{d}nanše kur-kur-ra me-teš₂ he₂-i-i
+c.4.14.1,A hymn to Nanše (Nanše A),,94,zag-mu ud ŋarza-ka
+c.4.14.1,A hymn to Nanše (Nanše A),,95,nin-e bar kug-ga a bi₂-in-de₂
+c.4.14.1,A hymn to Nanše (Nanše A),,96,ud bur šukur₂-ra₂ igi kar₂-kar₂-de₃
+c.4.14.1,A hymn to Nanše (Nanše A),,97,{d}nanše-e saŋ-e kurum₇-ma igi ba-ni-ib-kar₂-kar₂
+c.4.14.1,A hymn to Nanše (Nanše A),,98,dub-sar mah-a-ni {d}nisaba-ke₄
+c.4.14.1,A hymn to Nanše (Nanše A),,99,dub kal-kal dub₃-ba nam-mi-in-ŋar
+c.4.14.1,A hymn to Nanše (Nanše A),,100,gi-dub-ba kug-sig₁₇ šu ba-ši-in-ti
+c.4.14.1,A hymn to Nanše (Nanše A),,101,{d}nanše-er saŋ-e gu dili-a si mu-na-ab-sa₂-e
+c.4.14.1,A hymn to Nanše (Nanše A),,102,kuš la₂ kuš-ni-ta mu-na-da-an-ku₄-ku₄
+c.4.14.1,A hymn to Nanše (Nanše A),,103,gada la₂ gada-ni-ta mu-na-da-an-dib-be₂
+c.4.14.1,A hymn to Nanše (Nanše A),,104,kuš la₂ kuš-ni-ta nu-mu-na-da-an-ku₄-ku₄
+c.4.14.1,A hymn to Nanše (Nanše A),,105,gada la₂ gada-ni-ta nu-mu-na-da-an-dib-be₂
+c.4.14.1,A hymn to Nanše (Nanše A),,106,lu₂ dub gub-ba zag huŋ-ŋa₂-bi
+c.4.14.1,A hymn to Nanše (Nanše A),,107,igi du₈ lu₂-inim-ma-be₂-e-ne
+c.4.14.1,A hymn to Nanše (Nanše A),,108,lu₂-inim-ma e₂ sah₇-a-na-ka gu₃ mu-ni-ib-de₂-a
+c.4.14.1,A hymn to Nanše (Nanše A),,109,saŋ balaŋ-ŋa₂ ki-gub-ba-ni-še₃ muš₃ ba-ši-in-tum₂-mu
+c.4.14.1,A hymn to Nanše (Nanše A),,110,lugal saŋ zid-da en₃ tar-tar {d}ha-ia₃ lu₂ dub-ba-ke₄
+c.4.14.1,A hymn to Nanše (Nanše A),,111,saŋ zid nin-a-na bi₂-in-dug₄-ga im-ma bi₂-in-gub-be₂
+c.4.14.1,A hymn to Nanše (Nanše A),,112,geme₂ nin-a-na nu-um-mi-in-dug₄-ga im-ma bi₂-in-kid₂-kid₂
+c.4.14.1,A hymn to Nanše (Nanše A),,113,dug-dug a nu-de₂-e ŋiri₃ si nu-sa₂-e
+c.4.14.1,A hymn to Nanše (Nanše A),,114,{ŋeš}buniŋ niŋ₂-silaŋ-ŋa₂ nu-luh-ha
+c.4.14.1,A hymn to Nanše (Nanše A),,115,e₂ ŋi₆ u₃-na-ka izi dib-ba
+c.4.14.1,A hymn to Nanše (Nanše A),,116,e₂ an-bar₇-ka mu₇-mu₇ ŋar-ra
+c.4.14.1,A hymn to Nanše (Nanše A),,117,šita-eš₃-a bal gub-ba-ni
+c.4.14.1,A hymn to Nanše (Nanše A),,118,ki-gub-ba-ni-še₃ muš₃ ba-ši-in-tum₂-mu
+c.4.14.1,A hymn to Nanše (Nanše A),,119,susbu lu₂ šukur₂-ra₂ bal-a re inim ŋar mu-un-ŋar-ra
+c.4.14.1,A hymn to Nanše (Nanše A),,120,u₃ saŋŋa e₂-a mu-un-til₃-la re
+c.4.14.1,A hymn to Nanše (Nanše A),,121,šir₃ kug inim šag₄-ga ŋal₂-la-ni pa nu-um-mi-in-e₃-a
+c.4.14.1,A hymn to Nanše (Nanše A),,122,mu-un-zu-a-ra nu-mu-un-zu-a-ra um-ma-na-ra-an-ba
+c.4.14.1,A hymn to Nanše (Nanše A),,123,ŋarza ama {d}nanše-ke₄ pa e₃ mu-da-ak-e
+c.4.14.1,A hymn to Nanše (Nanše A),,124,inim-inim-ma-bi dirig nu-ŋa₂-ŋa₂
+c.4.14.1,A hymn to Nanše (Nanše A),,125,ŋarza-bi-še₃ la-ba-an-tah-e
+c.4.14.1,A hymn to Nanše (Nanše A),,126,me-bi me na-me lu₂ nu-dub-dub-e
+c.4.14.1,A hymn to Nanše (Nanše A),,127,ur₅ niŋ₂-nam-bi nu-dub-dub-e-a-aš
+c.4.14.1,A hymn to Nanše (Nanše A),,128,e₂ {d}nanše-ka dub nu-um-ku₄-ku₄
+c.4.14.1,A hymn to Nanše (Nanše A),,129,kar-ra lu₂ mu-un-dib-be₂
+c.4.14.1,A hymn to Nanše (Nanše A),,130,e₂ {d}nanše-ka id₂-lu₂-ru-gu₂ lu₂ mu-un-dadag
+c.4.14.1,A hymn to Nanše (Nanše A),,131,eš-bar kiŋ₂ šir₃ kug abzu-ta um-ta-e₃-a-ra
+c.4.14.1,A hymn to Nanše (Nanše A),,132,ŠIR₃.MUŠ₃-e šir₃ im-ta-zu-zu
+c.4.14.1,A hymn to Nanše (Nanše A),,133,enkum ninkum šu-luh im-da-pad₃-de₃
+c.4.14.1,A hymn to Nanše (Nanše A),,134,inim tur-bi dug₄-ga dirig ŋar-ra
+c.4.14.1,A hymn to Nanše (Nanše A),,135,inim-inim-ma-bi la-ba-an-tah-e
+c.4.14.1,A hymn to Nanše (Nanše A),,136,ka du₃-a niŋ₂-a₂-zig₃ dug₄-ga gu₂-bi nu-mu-un-ši-ib-zig₃
+c.4.14.1,A hymn to Nanše (Nanše A),,137,šu dirig DU-a šu mah gid₂-i-de₃
+c.4.14.1,A hymn to Nanše (Nanše A),,138,šu sa₂-a niŋ₂-a₂-zig₃ dim₂-e
+c.4.14.1,A hymn to Nanše (Nanše A),,139,uš ŋar-ra šu i-ni-ib-bal-e-a in dub-ba kur₂-ra
+c.4.14.1,A hymn to Nanše (Nanše A),,140,ki nam-erim₂-ma-še₃ saŋ gid₂-i
+c.4.14.1,A hymn to Nanše (Nanše A),,141,saŋ niŋ₂-sag₃ niŋ₂-kud ak-a niŋ₂-šab-ta ba-a
+c.4.14.1,A hymn to Nanše (Nanše A),,142,na₄ tur-re na₄ gu-la-ar šu ba-an-zig₃-ga
+c.4.14.1,A hymn to Nanše (Nanše A),,143,{ŋeš}ba-an tur-re {ŋeš}ba-an gu-la-ar šu ba-an-zig₃-ga
+c.4.14.1,A hymn to Nanše (Nanše A),,144,niŋ₂ un-tuku niŋ₂ al ba-an-e-a
+c.4.14.1,A hymn to Nanše (Nanše A),,145,un-gu₇ i₃-gu₇-bi li-bi₂-in-dug₄-ga
+c.4.14.1,A hymn to Nanše (Nanše A),,146,un-naŋ i₃-naŋ-bi li-bi₂-in-dug₄-ga
+c.4.14.1,A hymn to Nanše (Nanše A),,147,utul₂ ga-mu-ra-ab-gub-ba kaš ga-mu-ra-ab-sur-ra
+c.4.14.1,A hymn to Nanše (Nanše A),,148,geme₂ diŋir-ra šu la₂-a re e₂-ta gi₄-a
+c.4.14.1,A hymn to Nanše (Nanše A),,149,nir nu-ŋal₂ e₂-a til₃-la re igi-tum₄ la₂ ak-a
+c.4.14.1,A hymn to Nanše (Nanše A),,150,keše₂-ra₂ ga-gu₇ um-mi-in-dug₄-ga
+c.4.14.1,A hymn to Nanše (Nanše A),,151,keše₂-ra₂ ga-naŋ um-mi-in-dug₄-ga
+c.4.14.1,A hymn to Nanše (Nanše A),,152,{d}nanše ninda i₃ nunuz dalla-ka
+c.4.14.1,A hymn to Nanše (Nanše A),,153,ki a₂ zig₃-ga-ka lu₂ la-ba-an-gu₇-e
+c.4.14.1,A hymn to Nanše (Nanše A),,154,lu₂ a₂ zig₃-ga um-mi-in-gu₇-a inim-bi la-ba-an-tum₃
+c.4.14.1,A hymn to Nanše (Nanše A),,155,igi zu₂ guz ŋiri₃ ki te-te
+c.4.14.1,A hymn to Nanše (Nanše A),,156,nu-mu-e-sig₁₀-ge nu-mu-e-da-sa₂-e
+c.4.14.1,A hymn to Nanše (Nanše A),,157,a₂-ŋal₂-la lu₂-ra
+c.4.14.1,A hymn to Nanše (Nanše A),,158,a₂-tuku e-sir₂-ra gi du₃-a
+c.4.14.1,A hymn to Nanše (Nanše A),,159,lu₂ dam tuku nu-mu-un-su-ra dam-a-ni
+c.4.14.1,A hymn to Nanše (Nanše A),,160,ud ib₂-ba-na zu₂ mu-un-li₉-a
+c.4.14.1,A hymn to Nanše (Nanše A),,161,ud su-mu-ug-ga-na a-tar mu-un-da-ak-e
+c.4.14.1,A hymn to Nanše (Nanše A),,162,nin-ra nu-um-ma-an-zi-zi
+c.4.14.1,A hymn to Nanše (Nanše A),,163,nin saŋ en₃ tar kur-kur-ra-ke₄
+c.4.14.1,A hymn to Nanše (Nanše A),,164,in-nin ama {d}nanše šag₄-ba igi mi-ni-in-ŋal₂
+c.4.14.1,A hymn to Nanše (Nanše A),,165,nu-siki ka saŋ-ŋa₂ ak nu-mu-su aŋ₂-ŋe₂₆-da
+c.4.14.1,A hymn to Nanše (Nanše A),,166,ki-gul-la a₂-tuku-ur₂ ŋa₂-ŋa₂-da
+c.4.14.1,A hymn to Nanše (Nanše A),,167,a₂-tuku a₂ nu-tuku-ra ŋa₂-ŋa₂-da
+c.4.14.1,A hymn to Nanše (Nanše A),,168,ama dumu-ni gu₃ a₂ zig₃ de₂-a
+c.4.14.1,A hymn to Nanše (Nanše A),,169,dumu ama-a-ni-ir ka du₃-a dug₄-ga
+c.4.14.1,A hymn to Nanše (Nanše A),,170,šeš-ban₃-da šeš-gal-a-ni-ir inim gaba-na dug₄-ga a-a-ra inim gi₄-a
+c.4.14.1,A hymn to Nanše (Nanše A),,171,nin gid₂-da lu₂ šu nu₂-a
+c.4.14.1,A hymn to Nanše (Nanše A),,172,{d}nanše gid₂-da lu₂ šu ŋal₂-la-a
+c.4.14.1,A hymn to Nanše (Nanše A),,173,šag₄ kalam-ma gi hal-hal-la-gin₇ {d}nanše igi mi-ni-in-ŋal₂
+c.4.14.1,A hymn to Nanše (Nanše A),,174,zag lu₂-bi i₃-ŋal₂
+c.4.14.1,A hymn to Nanše (Nanše A),,175,niŋir-a-ni en {d}hendur-saŋ-ŋa₂-ke₄ zu₂ keše₂ mu-na-ab-ak
+c.4.14.1,A hymn to Nanše (Nanše A),,176,{d}lamma-a-ni {d}dumu-tur-šu-gi₄ ŋiš-la₂-bi nu-mu-un-DU
+c.4.14.1,A hymn to Nanše (Nanše A),,177,{d}udug ka gi gub-ba ka gi en-nu-uŋ₃ ak-e
+c.4.14.1,A hymn to Nanše (Nanše A),,178,e₂ sirara{ki}-a a su₃-a-ni
+c.4.14.1,A hymn to Nanše (Nanše A),,179,e₂ an-bar₇-ka e₂ sa la₂-a-ni
+c.4.14.1,A hymn to Nanše (Nanše A),,180,{d}nanše inim-bi sa₂-e-bi
+c.4.14.1,A hymn to Nanše (Nanše A),,181,u₃-luh-ha sud-sud abzu šag₄-ga nir-ŋal₂
+c.4.14.1,A hymn to Nanše (Nanše A),,182,gi-gun₄-na e₂ {d}nanše-ka en gaba gi nu-tuku
+c.4.14.1,A hymn to Nanše (Nanše A),,183,a₂ aŋ₂-ŋa₂-bi e₂ {d}nanše-ta
+c.4.14.1,A hymn to Nanše (Nanše A),,184,lugal-e en {d}hendur-saŋ-ŋa₂ nam-ma-da-ra-e₃
+c.4.14.1,A hymn to Nanše (Nanše A),,185,i-bi₂ dugud-gin₇ ki am₃-u₂-us₂
+c.4.14.1,A hymn to Nanše (Nanše A),,186,inim-bi dungu sir₂-sir₂ an-da im-da-la₂
+c.4.14.1,A hymn to Nanše (Nanše A),,187,bulug nam-dam-ma teš₂-bi ba-dab₅
+c.4.14.1,A hymn to Nanše (Nanše A),,188,lugal-e en {d}hendur-saŋ-ŋa₂-ke₄ teš₂-bi ba-ra-si-il
+c.4.14.1,A hymn to Nanše (Nanše A),,189,zid-du zid-du-a bi₂-in-gub-be₂
+c.4.14.1,A hymn to Nanše (Nanše A),,190,erim₂-du ki-erim₂-e ba-ab-šum₂-mu
+c.4.14.1,A hymn to Nanše (Nanše A),,191,di nu-siki-ka i-ni-in-kud-de₃
+c.4.14.1,A hymn to Nanše (Nanše A),,192,di nu-mu-un-su-ka ba-da-ab-us₂-e
+c.4.14.1,A hymn to Nanše (Nanše A),,193,di ama dumu-ka-kam si im-sa₂-e
+c.4.14.1,A hymn to Nanše (Nanše A),,194,tukum-bi ama dumu-ni-ir
+c.4.14.1,A hymn to Nanše (Nanše A),,195,in-tuku mu-da-an-gu₇ in-tuku mu-da-an-naŋ
+c.4.14.1,A hymn to Nanše (Nanše A),,196,in-bul-bul-a-ni ka-na im-bu
+c.4.14.1,A hymn to Nanše (Nanše A),,197,zag-bi-a lu₂ sa₂-dug₄-ga-bi mu-un-da-an-tuš-a
+c.4.14.1,A hymn to Nanše (Nanše A),,198,u₂ il₂ edin-na niŋ₂-tum₂-a-ni ama-ni la-ba-ni-in-dib
+c.4.14.1,A hymn to Nanše (Nanše A),,199,ama iri gu-la mu-un-tud-da-ni-ir
+c.4.14.1,A hymn to Nanše (Nanše A),,200,igi ša-ra gu₂ šub-bi-a inim la-ba-an-na-ni-in-dug₄
+c.4.14.1,A hymn to Nanše (Nanše A),,201,tukum-bi ama dumu-ni-ir
+c.4.14.1,A hymn to Nanše (Nanše A),,202,ki a₂ zig₃-ga-ka gu₃ ba-da-an-de₂
+c.4.14.1,A hymn to Nanše (Nanše A),,203,ama šu im-ma-ra-an-si-ig
+c.4.14.1,A hymn to Nanše (Nanše A),,204,ubur ga ŋal₂-la-ni a ba-da-an-naŋ
+c.4.14.1,A hymn to Nanše (Nanše A),,205,ama-ba inim kiŋ₂-e inim i₃-kiŋ₂-kiŋ₂
+c.4.14.1,A hymn to Nanše (Nanše A),,206,nin bulug-ga-ke₄ ki e₃
+c.4.14.1,A hymn to Nanše (Nanše A),,207,lugal niŋ₂-si-sa₂-e ki aŋ₂ {d}hendur-saŋ-ŋa₂-ke₄
+c.4.14.1,A hymn to Nanše (Nanše A),,208,inim-inim-ma-bi si um-mi-in-sa₂ di-bi igi
+c.4.14.1,A hymn to Nanše (Nanše A),,209,nam-tag-bi ugu ama dumu-ka-ka i-im-ŋa₂-ŋa₂-de₃
+c.4.14.1,A hymn to Nanše (Nanše A),,210,a₂ nam-tag dugud-da nu-mu-un-da-il₂-i-da
+c.4.14.1,A hymn to Nanše (Nanše A),,211,lu₂-ulu₃-bi diŋir a-ra-zu-a nu-um-ma-an-tuku-tuku
+c.4.14.1,A hymn to Nanše (Nanše A),,212,tukum-bi ama dumu-ni-ir
+c.4.14.1,A hymn to Nanše (Nanše A),,213,in-tuku nu-mu-da-an-gu₇ in-tuku nu-mu-da-an-naŋ
+c.4.14.1,A hymn to Nanše (Nanše A),,214,in-bul-bul-a-ni ka-na nu-um-bu
+c.4.14.1,A hymn to Nanše (Nanše A),,215,zag-bi-a lu₂ sa₂-dug₄-ga-bi nu-mu-da-an-tuš-a
+c.4.14.1,A hymn to Nanše (Nanše A),,216,u₂ il₂ edin-na niŋ₂-tum₂-a-ni ama-ni ba-ni-in-dib
+c.4.14.1,A hymn to Nanše (Nanše A),,217,ama iri gu-la mu-un-tud-da-ni-ir
+c.4.14.1,A hymn to Nanše (Nanše A),,218,igi ša-ra gu₂ šub-bi-a inim ba-na-ni-in-dug₄
+c.4.14.1,A hymn to Nanše (Nanše A),,219,lugal niŋ₂-a₂-zig₃-ga hul gig {d}hendur-saŋ-ŋa₂-ke₄
+c.4.14.1,A hymn to Nanše (Nanše A),,220,lu₂-ulu₃-bi a-gin₇ ki-lul-la im-mi-in-e
+c.4.14.1,A hymn to Nanše (Nanše A),,221,dumu-bi-ra še-gin₇ sahar sis zag mu-na-an-tag-ge
+c.4.14.1,A hymn to Nanše (Nanše A),,222,inim ama ugu-na mu-un-da-an-ba-a lu₂ im-ma-ab-šum₂-mu
+c.4.14.1,A hymn to Nanše (Nanše A),,223,in dub-ba inim gen₆-na-a-kam
+c.4.14.1,A hymn to Nanše (Nanše A),,224,gal-zu inim si sa₂-a-bi
+c.4.14.1,A hymn to Nanše (Nanše A),,225,nin um-ma lagaš{ki} ki ŋar-ra
+c.4.14.1,A hymn to Nanše (Nanše A),,226,{d}ŋa₂-tum₃-dug₃-da
+c.4.14.1,A hymn to Nanše (Nanše A),,227,{d}nanše-er inim si sa₂-bi
+c.4.14.1,A hymn to Nanše (Nanše A),,228,nin mah-am₃ inim-ma-ni
+c.4.14.1,A hymn to Nanše (Nanše A),,229,nin {d}en-lil₂-gin₇ nam tar
+c.4.14.1,A hymn to Nanše (Nanše A),,230,barag sirara{ki}-ka
+c.4.14.1,A hymn to Nanše (Nanše A),,231,me-ni šen-šen-na igi-ni i-ni-ŋal₂
+c.4.14.1,A hymn to Nanše (Nanše A),,232,e₂ abzu-ta me nam-ta-ba
+c.4.14.1,A hymn to Nanše (Nanše A),,233,sirara{ki}-še₃ diŋir lagaš{ki}-a gu₂ mu-un-na-si-si
+c.4.14.1,A hymn to Nanše (Nanše A),,234,na₄ gen₆-na kug la₂-e-de₃ gi-gur gen₆-na gub-bu-de₃
+c.4.14.1,A hymn to Nanše (Nanše A),,235,{ŋeš}ba-an inim gen₆-na kur-kur-ra šu ba-an-ŋa₂-ŋa₂-ne
+c.4.14.1,A hymn to Nanše (Nanše A),,236,sipad mas-su kalam-ma ŋal₂ kur-kur-ra
+c.4.14.1,A hymn to Nanše (Nanše A),,237,{d}ištaran di si sa₂-a kalam-a til₃-la-am₃
+c.4.14.1,A hymn to Nanše (Nanše A),,238,{d}nin-ŋiš-zid-da-ke₄ mi-ni-in-dab₅
+c.4.14.1,A hymn to Nanše (Nanše A),,239,si im-sa₂-e-de₃
+c.4.14.1,A hymn to Nanše (Nanše A),,240,ib₂-ta-ba-ba-e
+c.4.14.1,A hymn to Nanše (Nanše A),,241,na₄ gen₆-na kug la₂-e-de₃ gi-gur gen₆-na gub-bu-de₃
+c.4.14.1,A hymn to Nanše (Nanše A),,242,{ŋeš}ba-an inim gen₆-na kur-kur-ra šu ba-ŋa₂-ŋa₂-ne
+c.4.14.1,A hymn to Nanše (Nanše A),,243,mah-a mar-za gal-gal-la-kam
+c.4.14.1,A hymn to Nanše (Nanše A),,244,šu ŋiš
+c.4.14.1,A hymn to Nanše (Nanše A),,245,erim₃ ŋar-ŋar-ra
+c.4.14.1,A hymn to Nanše (Nanše A),,246,dug a nu-silig-ge-dam
+c.4.14.1,A hymn to Nanše (Nanše A),,247,{gi}pisaŋ-a muš₃ nu-tum₂-mu-da
+c.4.14.1,A hymn to Nanše (Nanše A),,248,nin erim₃-ma-ke₄
+c.4.14.1,A hymn to Nanše (Nanše A),,249,mah-a-ni um-mi-in-ŋar ku-dun-bi tuku-tuku-da
+c.4.14.1,A hymn to Nanše (Nanše A),,250,niŋir-a-ni en {d}hendur-saŋ-ŋa₂ a₂-bi mu-da-an-aŋ₂
+c.4.14.1,A hymn to Nanše (Nanše A),,251,nin-ŋu₁₀ me-zu me mah-am₃ me-a dirig-ga-am₃
+c.4.14.1,A hymn to Nanše (Nanše A),,252,{d}nanše me-zu me na-me nu-un-ga-an-da-sa₂
+c.4.14.1,A hymn to Nanše (Nanše A),,253,an lugal-e igi hul₂-la-ni mu-un-ši-bar-bar-re
+c.4.14.1,A hymn to Nanše (Nanše A),,254,{d}en-lil₂-da barag nam tar-re-da mu-un-da-an-tuš-a
+c.4.14.1,A hymn to Nanše (Nanše A),,255,a-a {d}en-ki-ke₄ nam i-ri-in-tar
+c.4.14.1,A hymn to Nanše (Nanše A),,256,{d}nanše dumu eridug{ki}-ga tud-da za₃-mi₂-zu dug₃-ga-am₃

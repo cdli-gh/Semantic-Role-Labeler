@@ -1,0 +1,474 @@
+id_text,text_name,version,l_no,text
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A1,{d}en-lil₂ dirig-še₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A2,
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A3,
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A4,diŋir gal-gal-e-ne saŋ keše₂-bi
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A5,{d}a-nun-na-ke₄-ne temen-bi
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A6,{d}en-ki-{d}en-ki tug₂ zi-ŋal₂-bi
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A7,me gal-gal-a-ni sag₂ di nu-zu
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A8,saŋ-bi-še₃ e₃-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A9,na-me sa₂ nu-di
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A10,ni₂-ba gi₄-gi₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A11,an ki-bi dug₃-dug₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A12,iri ki du₃-du₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A13,kalam ki ŋa₂-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A14,ŋeštug₂ ud zal-la šu du₇
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A15,a₂ aŋ₂-e gal-zu
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A16,niŋ₂-zid ki-bi-še₃ ŋar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A17,ad gi₄-gi₄ inim-ma nu-kuš₂-u₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A18,eš-bar-e di-di
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A19,di-kud an ki
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A20,ŋal₂-la
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A21,niŋ₂-zi-ŋal₂ lah₅-lah₅-e
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A22,a-a {d}en-lil₂ sipad saŋ gig₂-ga
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A23,kur gam-e
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A24,zag an ki gen₆-ne₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A25,inim dug₄-ga-ni ka teš₂-e ŋa₂-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A26,en li-ib-a-ni kur-ra du-du
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A27,niŋ₂ ak-ni su zig₃ ri-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A28,di galam-ma-ni na-me nu-pad₃-de₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A29,nam-zu-ni-še₃ kur-re giri₁₇ šu ŋal₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A30,a₂ sa-par₄ gal kur-re dub-ba
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A31,sa-al-hub₂ nu-še-ga šu₂-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A32,an-še₃ ki-tuš ŋa₂-la nu-dag-ge
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A33,me niŋ₂-nam-ma da-ga-an-ba šu ti-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A34,ŋiš-hur niŋ₂-ul-e zag keše₂-ra₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A35,ub-da ₄-ba u₁₈-lu i₃-dul₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A36,{d}en-lil₂ dib-ba-ni šu tiŋ₄-ŋe₂₆-e nu-zu
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A37,a-ar₂-ni niŋ₂ šu sag₃-sag₃-ge₂-dam
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A38,{d}en-lil₂ an-še₃ mah ki-še₃ dib
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A39,zag e₃ ki-en-gi-ra daŋal tag-ga
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A40,{d}nu-nam-nir en nun-nun-e-ne lugal-a lugal-be₂-e
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A41,{d}iš-me-{d}da-gan dumu {d}da-gan-na-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A42,iri kug-ga nam dug₃ ha-ma-ni-in-tar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A43,a šag₄-ga ru-a-ŋa₂ mu dug₃ ha-ma-ni-in-sa₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A44,{d}nin-tur₅ tud-tud-a ha-ma-ni-in-gub
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A45,gi-dur ku₅-ra₂-ŋa₂ nam-en ha-ma-ni-in-ŋar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A46,{d}en-lil₂ diŋir saŋ-du-ŋa₂-ke₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A47,nam-sipad ki-en-gi-ra saŋ-e-eš hu-mu-rig₇
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A48,{d}lamma ŋa₂-la nu-dag-ge saŋ he₂-mi-in-tuku
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A49,alan niŋ₂-gen₆-na he₂-en-ga-da-tah
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A50,bal-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A51,ha-ma-ni-in-kur₉
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A52,su hu-mu-UD-MU
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A53,me-lem₄-a-ni kur-ra
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A54,za-pa-aŋ₂-a-ni an ki-a he₂-em-mi-in-dirig
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A55,uŋ₃-ŋa₂ hu-mu-ni-in-suh-en kalam he₂-ni-in-pad₃-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A56,{d}en-lil₂ lugal diŋir-re-e-ne-ke₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A57,sig igi-nim-ma nam-en-bi ha-ma-an-šum₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A58,inim dug₄-ga {d}nu-nam-nir-ra-ta
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A59,an-ne₂ gu₃ zid-de₃ ŋa₂-a-ar ha-ma-an-de₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A60,šibir ešgiri₂ šu-ŋu₁₀ ha-ma-šum₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A61,{d}uraš-e dub₃ kug-ga-ni-a mi₂ zid ha-ma-ni-dug₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A62,{d}nin-lil₂-le šag₄ zalag-zalag-ga-ni
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A63,barag mah ud su₃-ra₂-ka tuš-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A64,ŋiš-šub-ba-ŋa₂ bal-bi sag₉-ge-da
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A65,su {d}en-lil₂-la₂-ka dug₃-ge-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A66,e₂-kur-re ud šu₂-uš saŋ us₂-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A67,ki-ur₃ ki gal-e nam-še₃ ha-ma-ni-tar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A68,{d}en-ki en gal eridug{ki}-ga-ke₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A69,aga₃ zid mah saŋ-ŋa₂ ha-ma-ni-in-ge-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A70,niŋ₂ a-na mu sa₄-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A71,ŋeštug₂ ₇-a šu gal ha-ma-ni-du₇
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A72,{d}suen dumu-saŋ {d}en-lil₂-la₂-ke₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A73,{ŋeš}gu-za lugal-la me ur₄-ur₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A74,barag nam-en-na saŋ-bi-še₃ e₃-a he₂-bi₂-in-ŋar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A75,ud su₃-ra₂-še₃ aga-ŋu₁₀ dalla he₂-bi₂-in-e₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A76,{d}nuska sukkal {d}en-lil₂-la₂-ke₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A77,ŋidru nam-lugal-la šu-ŋa₂ ha-ma-ni-ŋar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A78,e₂-kur-ra a₂-bi ha-ma-an-pad₃-pad₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A79,ki-gub-bu ni₂ teŋ₃-ŋe₂₆-e-bi ha-ma-an-ŋar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A80,šag₄ {d}en-lil₂-la₂ hul₂-la-am₃-ta he₂-mi-ge-en₆
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A81,{d}nin-urta ur-saŋ kalag-ga {d}en-lil₂-la₂-ke₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A82,{d}nu-nam-nir inim-ma ha-ma-ni-in-DU
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A83,inim sag₉-ga {d}en-lil₂ {d}nin-lil₂-la₂ ŋa₂-a-ar hu-mu-na-aŋ₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A84,nam-lugal-la bal-ŋu₁₀ he₂-bi₂-in-dirig
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A85,nam-en-na ŋe₂₆-e he₂-em-mi-in-gal-e a₂-tah-ŋu₁₀ he₂-e
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A86,e₂-kur-ra šu hu-mu-da-ŋal₂-ŋal₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A87,maškim nam-lugal-ŋa₂ he₂-e
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A88,{ŋeš}tukul kalag-ga kur-kur gam-gam-e
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A89,a₂ mah šu zid-da-ŋu₁₀ he₂-bi₂-in-si
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A90,{d}utu niŋ₂-si-sa₂ inim gen₆-na ka-ŋa₂ ha-ma-ni-in-ŋar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A91,di ku₅-ru ka-aš bar uŋ₃-e si sa₂-e
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A92,niŋ₂-gen₆-na saŋ-bi-še₃ e₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A93,zid-du du-us₂ dab₅-e erim₂-du ha-lam-me
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A94,šeš-e šeš-ra niŋ₂-gen₆-na di a-a-ra šu-kin dab₅-be₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A95,nin₉ gal-ra inim gaba-na nu-di ama-ra ni₂ tuku₂-de₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A96,si-ig-ga kalag-ga-ra nu-ŋa₂-ŋa₂ lu₂ hu-nu ur₂-ra tum₂-mu
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A97,a₂-tuku niŋ₂ šag₄-ga-na nu-ak lu₂ lu₂-še₃ nu-di
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A98,niŋ₂-erim₂ niŋ₂-a₂-zig₃-bi ha-lam-e niŋ₂-si-sa₂ mu₂-mu₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A99,{d}utu dumu {d}nin-gal-e tud-da-a ha-la ba-ŋa₂ he₂-ni-in-ŋar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A100,{d}inana nin an ki-ke₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A101,nitalam₂ ki aŋ₂-a-ni-še₃ he₂-en-pad₃-de₃-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A102,mir-DU-na-ŋa₂ la-la hu-mu-ši-in-ak
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A103,igi nam-til₃-la-ka-ni hu-mu-ši-in-bar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A104,saŋ-ki zalag-ga-ni ŋa₂-a-še₃ hu-mu-ši-in-zig₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A105,ŋiš-nu₂ gi-rin-na he₂-bi₂-in-gub-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A106,ŋi₆-par₄-ra ud sud-su₃-re-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A107,nam-en nam-lugal-da tab-e-a-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A108,e₂-an-na-ka muš nu-tum₂-mu-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A109,ki unug{ki}-ga am-gin₇ gu₂ peš-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A110,kul-aba₄{ki} me-lem₄-ŋu₁₀ dul₄-lu-da
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A111,inim kug nu-kur₂-ru-da-ni he₂-bi₂-in-dug₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A112,{d}en-ki {d}nin-ki {d}en-ul {d}nin-ul
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A113,{d}a-nun-na en nam tar-re-bi
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A114,{d}udug nibru{ki} {d}lamma e₂-kur-ra-ke₄-ne
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A115,diŋir gal-gal-e-ne-a nam mu-un-tar-re-eš-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A116,he₂-am₃ nu-kur₂-ru-bi he₂-em-mi-in-ne-eš
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A117,{d}iš-me-{d}da-gan dumu {d}da-gan-na-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A118,{d}en-lil₂ lugal kur-kur-ra-ke₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A119,ud dug₃-dug₃-ga-ni-še₃ maš₂-e he₂-em-mi-in-pad₃-de₃-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A120,e₂-kur-še₃ igi hul₂ he₂-em-ši-in-bar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A121,ki-en-gi-re gu₃ zid-de₃-eš ha-ma-an-de₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A122,nibru{ki} bal sag₉-ga
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A123,{d}iš-me-{d}da-gan-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A124,ki urim₂{ki} ki-bi gi₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A125,ki giri₁₇-zal-la
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A126,{ŋeš}gu-za-ŋu₁₀ dug₃-ge-eš gur-gur
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A127,ki-en-gi ki-uri ne₃-bi-a gu₃ teš₂ sig₁₀-ge-de₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A128,šeg₁₂ šag₄-ga gur-ru-dam
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A129,e₂-kur-re ud šu₂-še₃ saŋ us₂-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A130,u₂-a nibru{ki} muš nu-tum₂-mu-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A131,ki-ur₃ ki gal-la en₃-bi tar-re-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A132,{d}en-lil₂-le a₂-bi hu-mu-da-na-aŋ₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A133,inim dug₄-ga a-a {d}en-lil₂-la₂-še₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A134,{d}iš-me-{d}da-gan-me-en gu₂-ŋu₁₀ he₂-en₆-ši-ri
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A135,ka-ta e₃-a lugal-ŋa₂-še₃ ŋizzalₓ he₂-em-ši-ak
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A136,ki-en-gi-ra niŋ₂-si-sa₂ he₂-ni-in-ŋar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A137,nibru{ki} an-gin₇ gu₂ he₂-em-mi-ni-la₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A138,e₂-kur-ra me-bi hu-mu-un-ur₄-ur₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A139,ŋiš-hur libir-a-ba en₃ he₂-bi₂-in-tar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A140,ŋarza šu-ta šub-ba-bi ki-bi he₂-bi₂-in-gi₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A141,{d}en-lil₂-la₂ me kal-kal-la
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A142,{d}iš-me-{d}da-gan-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A143,{d}nin-lil₂-la₂ niŋ₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A144,e₂-kur-ra šag₄-ga dug₃ bar-bi
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A145,giri₁₇ šu ŋal₂-la-ŋu₁₀
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A146,{d}en-lil₂ {d}en-X
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A147,kisal-a {d}udug sag₉-ga-bi
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A148,{d}lamma sag₉-ga-bi e₂-kur-ra he₂-ni-kur₉
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A149,{d}en-lil₂ nidba gal-gal-e ŋiš hu-mu-na-a-tag
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A150,dag ninda ŋar-ra {d}en-lil₂-la₂-ka
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A151,sa₂-dug₄ gal-gal-e zag ha-ra-ni-X-re
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A152,gud-i₃ udu-i₃ šag₄ la₂-la₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A153,ku₆ mušen-bi-da e₂ lugal-ŋa₂-ka he₂-ni-šar₂-šar₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A154,gir₄ mah-ba ir hu-mu-un-peš-peš-e
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A155,a-da-min₃ hu-mu-ne
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A156,sa₂-dug₄ he₂-ni-tab-tab
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A157,DUB.BA.AN-bi kurun₂-bi a₂ sikil-la
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A158,šeŋ₁₄-ta šu bar-ra-gin₇
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A159,gun₂ ne-saŋ-ŋa₂-ka a-gin₇ he₂-ni-bal-bal
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A160,an-ne₂ {d}nin-ka-si e-ne-bi-da
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A161,gu-la hu-mu-ni-lah₄-lah₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A162,kaš sig₅ šim {ŋeš}erin-da hi-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A163,šeg₁₂ e₂-kur-ra hu-mu-ni-ta-ta-hab
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A164,ud šu₂-še₃ e₂-kur buru₁₄-gin₇ hu-mu-du₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A165,itid e₂ ud ₇ e₂ ud ₁₅-bi ezen-a he₂-ni-kur₉
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A166,e₂-a šag₄ bar-bi
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A167,niŋ₂ mah gu-ul-gu-ul-lu-ta ir hu-mu-un-peš₁₁-peš₁₁
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A168,gaba nu-ša-ra-ge {d}en-lil₂-la₂-ke₄ niŋ₂ he₂-em-mi-dab₅
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A169,i₃ sahar₂ ga sahar₂ ŋar-re
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A170,niŋ₂-saŋ {ŋeš}kiri₆ zu₂-lum
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A171,{ŋeš}banšur {d}en-lil₂ lugal-ŋa₂-ka
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A172,u₂-ŋa₂ saŋ-bi a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A173,niŋ₂ sag₉-ga-ni igi
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A174,{d}en-lil₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A175,dumu {d}en-lil₂-la₂-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A176,{d}nin-lil₂-la₂-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A177,ŋuruš kalag-ga e₂-kur-ra-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A178,gu₂-kal usu ni₂-tuku u₂ mah il₂-il₂-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A179,nu-kuš₂-u₃ ŋa₂-la nu-dag-ge ŋe₂₆-e-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A180,ud šu₂-še₃ lugal-ŋu₁₀ a-na am₃-gu₇ ga-an-dug₄ a-na ga-an-naŋ
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A181,e₂-kur-ra a₂ aŋ₂-ŋa₂ gal-gal-bi sa₂ im-mi-dug₄-ga
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A182,niŋ₂-dug₄-ga {d}en-lil₂ lugal-ŋa₂ ki-bi-še₃ hu-mu-un-ŋar-ra
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A183,iri an-gin₇ šag₄ bar-ta sig₇-ga
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A184,nibru{ki} dim gal an ki-a su-bi hu-mu-dug₃-dug₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A185,erin₂-bi {ŋeš}dusu-ta he₂-em-ta-an-zig₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A186,ugnim-bi {ŋeš}tukul-ta he₂-em-ta-ŋa₂-ar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A187,kug-sig₁₇ kug-babbar gud udu-bi gu₂-un dumu nibru{ki}-ke₄-ne hu-mu-du₈
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A188,e₂ {d}en-lil₂ lugal-ŋa₂-še₃ {d}nin-lil₂-še₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A189,{d}nin-urta ur-saŋ kalag-ga {d}en-lil₂-la₂-še₃ erin₂-bi ha-ba-ra-an-ŋar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A190,niŋ₂-sur še i₃ siki udu zag ₁₀-ba ab-ak
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A191,ki-en-gi ki-uri šu ha-ma-ta-ak-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A192,niŋ₂-erim₂ niŋ₂-a₂-zig₃ e₂ ki he₂-em-mi-gi₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A193,niŋ₂-gen₆-na ki-en-gi ki-uri he₂-ni-ŋar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A194,sipad niŋ₂-si-sa₂-e ki aŋ₂-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A195,u₃-tud-da ki-en-gi-ra dumu nibru{ki}-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A196,šag₄ inim-še₃ ŋal₂-ŋal₂-la-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A197,igi kug-zu umuš-ta kal-la-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A198,ad gi₄-gi₄ a-da-da kuš₂-u₃-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A199,niŋ₂-nam zu uŋ₃-ta suh-a-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A200,di-kud u₃-en₃ nu-ša₄-ša₄-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A201,ka-aš bar si nam-e sa₂-sa₂-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A202,a₂-tuku niŋ₂ dirig nu-mu-ši-ib₂-ak-e
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A203,kalag-ga si-ig-ga LU₂-eš₂ nu-mu-un-e
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A204,nir-ŋal₂-e lu₂ la-ba-an-ŋa₂-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A205,kug-a na-ma-an-ku₄-ku₄-da-ke₄-eš
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A206,lu₂ hu-nu niŋ₂ teš₂-a inim gaba-na bi₂-ib-be₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A207,lu₂ arad iri-ŋa₂-ke₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A208,{d}en-lil₂-la₂-ka
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A209,ki-en-gi ki-uri
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A210,niŋ₂ šu tiŋ₄-ŋe₂₆ dug₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A211,ud ul-la-aš di kadra inim
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A212,lu₂ ha-lam-ma-da šu he₂-em-da-an-šub
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A213,nu-ŋar-ra lu₂ niŋ₂ kur₂ di-da ki a-ba he₂-mi-ib-gul
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A214,hi-li-a usu-na gu₂-bi hu-mu-gid₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A215,niŋ₂ bal lu₂-lul niŋ₂ ha-lam-ma e₂-e he₂-em-mi-sag₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A216,šu du₃-a nu-siki nu-mu-su-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A217,i-{d}utu i-{d}nanna di-bi dug₄-ge he₂-em-mi-gen₆
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A218,ni₂-zu ŋal₂-la hu-mu-gul
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A219,lu₂-sa-gaz-e edin im-sig₉-sig₉-ga niŋ₂-gul-bi hu-mu-ak
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A220,si sa₂-e us₂ zid he₂-em-mi-dab₅ dam dumu tur-bi hu-mu-us₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A221,a-šag₄-ga nir-ŋal₂-bi lu₂ hu-mu-un-DU
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A222,edin-na bar kug-ga he₂-ni-ŋar-ŋar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A223,iri{ki} ni₂-bi ud sud ki-šar₂-ra he₂-bi₂-du₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A224,kur-kur-re a-a tud-da-bi-gin₇
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A225,{d}iš-me-{d}da-gan-me-en igi-bi hu-mu-ši-ŋal₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A226,{d}utu-gin₇ di si sa₂ ku₅-ru-ŋu₁₀-uš
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A227,uŋ₃-e bar kug-ga šudu₃ im-mi-ib₂-ša₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A228,inim kalag-ga ŋar-ra du₃-dam
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A229,uŋ₃-e na de₅-de₅ e₂-gal gen₆-ne₂-dam
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A230,inim kalag-ga-ŋu₁₀ a-ba sa₂-da
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A231,kur-kur šu ri uŋ₃-bi ba-da-zu-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A232,ka garaš₂-a-ta lu₂ ba-ra-zi-zi
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A233,ki nam-tag-ga inim nam-uš₂ a-ba
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A234,nam-uš niŋ₂-gig-ga
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A235,mu ur₅-še₃-am₃ {d}en-lil₂ lugal-ŋu₁₀ ud-ŋu₁₀ mu-un-sud-su₃-ud
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A236,{d}iš-me-{d}da-gan an-še₃ tud-da šag₄-ge pad₃-da
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A237,a-a-gin₇ dug₃ ama-gin₇ dib-ba-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A238,bad₃ mah zi-šag₄-ŋal₂ kalam-ma-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A239,{ŋeš}meš₃ mah ur₂ gur-ra pa mul daŋal-la-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A240,an-dul₃ ki-en-gi-ra ŋissu dug₃-ga-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A241,ki saŋ sukuₓ-ra₂ šu nu-teŋ₃-ŋe₂₆-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A242,a₂-tah erin₂-na-me-en igi tab kalam-ma-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A243,ur-saŋ me₃-še₃ du-du-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A244,dub₃-tuku kaš₄ di-me-en {tum₉}mir DU-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A245,gal-an-zu niŋ₂-nam-ta e₃-a-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A246,am u₃-na gub-ba sahar kad₄-kad₄-e-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A247,gud-si-AŠ la₂-e-da
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A248,{kuš}gur₂₁-ra₂ ka-ba gub-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A249,ur-saŋ ur-saŋ-e-ne-me-en lipiš {ŋeš}tukul-la-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A250,zid-da gab₂-bu ki-bal dub₂-dub₂-bu-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A251,kug-sig₁₇ sahar-ba-me-en {na₄}za-gin₃ kur-ba-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A252,su₃-ra₂-aŋ₂-gin₇ kalam-ma ŋir₂-ŋir₂-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A253,a zid nam-lugal-la numun nam-barag-ga-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A254,{ŋeš}isimu₂{sar} {ŋeš}erin-na tir ha-šu-ur₂-ra-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A255,{ŋeš}taškarin hi-li du₈-a-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A256,su diŋir-re-e-ne
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A257,nam gal tar-ra a-a {d}en-lil₂-la₂-ta
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A258,kur-ra kur-šag₄-ba za-pa-aŋ₂-ŋu₁₀ i₃-im-dul
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A259,iri-bal-a lu₂ nu-um-me-te {ŋeš}tukul nu-um-ma-gub-ba
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A260,ni₂-bi-ta inim {d}en-lil₂-la₂-ta gu₂-un-bi
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A261,kur-še₃ ma₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A262,{na₄}nir₇-igi {na₄}gug {na₄}X
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A263,na₄-na₄-bi
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A264,ŋiš mah šag₄ gig₂ kalam-še₃ ha-ma-ab-il₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A265,dilmun{ki}-e gada zu₂-lum a₂-an-sur-bi šu ha-ma-da-ab-peš-e
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A266,mar-tu e₂ nu-zu iri{ki} nu-zu
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A267,lu₂ lil₂-la₂ hur-saŋ-ŋa₂ tuš-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A268,{udu}a-lum u₈-u₃ si ha-ma-da-ab-sa₂-sa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A269,kur igi-nim-ma ki
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A270,{ŋeš}erin {ŋeš}za-ba-lum {ŋeš}šu-ur₂-men₂ {ŋeš}taškarin ni₂-bi-a ha-ma-an-de₆
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A271,{d}en-lil₂ lugal-ŋu₁₀ kur-kur-re gu₂ ŋiš ra-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A272,uŋ₃-e du-us₂ dili-ka ha-ma-an-dab₅ ka teš₂-e ha-ma-an-ŋar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A273,ŋe₂₆-e-me-en {d}en-lil₂-še₃ ŋal₂-la-me-en ki aŋ₂ e₂-kur-ra-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A274,ud ki-en-gi ki-uri sag₂ ba-ab-dug₄-ga-ta
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A275,e₂-kur za-gin₃ {d}en-lil₂-la₂-ka
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A276,e₂-ŋa₂-ŋiš-šu₂-a zag {d}nin-lil₂-la₂-ka
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A277,lugal na-me alan ba-ra-ni-in-kur₉
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A278,{d}en-lil₂-le šag₄ ki aŋ₂-ŋa₂-ni-ta
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A279,e₂-nam-til₃-la-ka ŋal₂ ha-ma-ab-taka₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A280,e₂-kur-ra gi₁₆-sa gal-gal-e si ha-ba-ni-sa₂-sa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A281,erim₃ niŋ₂ da-ri₂ he₂-ni-ŋar-ŋar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A282,{ŋeš}gu-za me-dim₂-bi me-dim₂-ma dirig-ga
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A283,{d}en-lil₂ lugal-ŋu₁₀-ra hu-mu-na-gub
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A284,e₂-ŋa₂-ŋiš-šu₂-a ki-ur₃ ki gal-la
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A285,{ŋeš}gu-za {d}nin-lil₂-la₂ he₂-gub-ba-am₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A286,{ŋeš}gu-za {d}en-lil₂-la₂ ba-ra-an-ta-gub-ba-am₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A287,{d}iš-me-{d}da-gan dumu {d}da-gan-na-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A288,{ŋeš}gu-za barag mir ₇ ŋar-a za {na₄}nir₇-igi-bi {na₄}šuba-ke₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A289,{na₄}za-gin₃ su₃-ra₂-aŋ₂-ŋa₂ šu tag-ga
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A290,kiŋ₂ gal-le-eš šu kug-zu mah
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A291,{d}en-lil₂ lugal-ŋu₁₀-ra hu-mu-na-gub
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A292,nin-ŋu₁₀ {d}nin-lil₂-da {d}en-lil₂ hu-mu-un-da-tuš
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A293,ur₅ sag₉-ge šag₄ hul₂-la he₂-ni-ŋar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A294,{ŋeš}gu-za-bi su {d}en-lil₂-la₂-ka gal-le-eš bi₂-dug₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A295,niŋ₂ šu dug₄-ga-ŋu₁₀ i₃-in-na-aŋ₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A296,šag₄-ga dug₄-ga-ŋu₁₀ {d}en-lil₂-la₂ su-a-ni ba-dug₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A297,{urud}alan niŋ₂ kalag-ga kuš₃-kuš₃-ta sig₇-ga
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A298,ŋe₂₆-gin₇ giri₁₇ šu ŋal₂ e₂-kur-da ni₂-tuku
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A299,maš₂ kadra-ka im-tur-tur-re
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A300,{urud}alan ak-a saŋ
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A301,{d}en-lil₂ lugal an ki-ke₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A302,ki um-ši-in-zig₃-ga-še₃ a-gin₇ ki-a gub
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A303,su piriŋ sa piriŋ-ŋa₂ zag piriŋ-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A304,
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A305,šita ŋissu
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A306,bal nam-lugal-la til-la lugal-ŋu₁₀-ra a ha-mu-na-ru
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A307,ŋiš mah ki u₆ di-še₃ he₂-ni-lah₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A308,{d}nin-lil₂ nin diŋir-re-e-ne-ra
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A309,munus-a ki kug-kug-ga-na
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A310,e₂-šen-šen-na nam-til₃ si-a-na
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A311,{urud}alan gal-gal-ŋu₁₀ hu-mu-na-ni-kur₉
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A312,igi-ni-še₃ hu-mu-ni-sag₉
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A313,nam-til₃-la-ŋu₁₀-še₃ a hu-mu-na-ru
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A314,ŋe₂₆-e-me-en lu₂ sag₉-ga-ŋu₁₀
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A315,{d}iš-me-{d}da-gan-me-en sa-ra-ŋu₁₀ he₂-sag₉
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A316,{urud}alan ad-da tud-da-ŋu₁₀
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A317,e₂ {d}en-lil₂-la₂-ka {d}nin-lil₂ nin-ŋa₂-ka ŋe₂₆-e-me-en hu-mu-ni-kur₉
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A318,{urud}alan a-a gu-la-ŋu₁₀
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A319,mu-tag {urud}alan hu-mu-ni-ed₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A320,e₂ {d}en-lil₂-ka hu-mu-ni-kur₉
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A321,e₂-kur eš₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A322,
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A323,
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A324,niŋ₂ babbar-re nu-ub-ta-an-sag₉ e₂ {d}namma he₂-em-mi-ak
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A325,
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A326,nam dug₃ uŋ₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A327,inim dug₄-ga
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A328,{d}en-lil₂ en šag₄ su₃-ra₂ lugal ŋe₂₆-e-me-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A329,ŋiš ŋeštug₂-ke₄ ŋal₂ X-taka₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A330,za₃-mi₂-ŋu₁₀ ka-ka-ga he₂-ni-ŋar-ŋar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A331,{d}ŋeštin-an-na nin ka lal₃-a-ŋu₁₀-u₈
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A332,šir₃-šir₃-ra he₂-em-mi-dirig-dirig
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A333,um-mi-a nar gal-gal-e-ne
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A334,šag₄-ba la-la₂ he₂-ni-in-ŋar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A335,a-da-ab tigi₂ šumun-ša₄ ma-al-ga-tum
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A336,šir₃-gid₂-da za₃-mi₂ nam-lugal-ŋu₁₀ šag₄-bi niŋ₂ til-la
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A337,a-ra-hi bal-bal-e za-am-za-am kun-ŋar-bi
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A338,nar gal-an-zu-ne ma-an-ŋar-re-eš-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A339,en₃-du ki du₁₂-ba mu-ŋu₁₀ mi-ni-gal-eš-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A340,niŋ₂-nam zu ŋeštug₂ daŋal-la-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A341,tum₂-tum₂-mu erin₂-na mu-zu-a-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A342,ki {ŋeš}tukul-la-ka igi mi-ni-zalag-ga
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A343,sipad kug-zu uŋ₃ lah₄-lah₄-e-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A344,gal-zu niŋ₂-nam-ma i₃-me-en-na-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A345,an-e igi zid mu-ši-in-bar-ra
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A346,inim {d}en-lil₂-la₂-ta kalag ni₂-bi ŋal₂-la
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A347,{d}nin-lil₂ an-dul₃-ŋu₁₀ i₃-me-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A348,{d}en-ki-ke₄ ŋeštug₂ ma-an-šum₂-ma
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A349,{d}nin-urta-ke₄ mu-ši-in-ŋal₂-la
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A350,{d}nanna gal-le-eš ki ma-an-aŋ₂-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A351,mussa {d}nin-gal i₃-me-en-na-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A352,{d}inana-ke₄ hi-li ma-an-šum₂-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A353,iri{ki}
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A354,
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A355,in-ŋu₁₀ dub-ba ki-ŋu₁₀ sur-ra
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A356,eg₂-ŋu₁₀ sig₉-ga pa₅-ŋu₁₀
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A357,kur-kur mu-gam-ma
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A358,siki igi-nim-ma he₂-em
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A359,nam-dub-sar ki nam-galam-ma usu bi₂-DU-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A360,šag₄ dub-ba šudum niŋ₂-šid buru₃ daŋal-la kurum₇-bi mu-bur₂-ra
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A361,igi-gub-bu gana₂ gen₆-ne₂ ŋiš-as₄-lum gi e₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A362,ki-gub-ba ki igi il₂-la-ŋu₁₀-še₃ temen šu₄-ga kalam ri-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A363,šu sag₉ šu tam-tam-ma-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A364,dub ki-en-gi ki-uri-ka sar-re-bi mu-un-zu-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A365,e₂-dub-ba-a šu mi-ni-mul-mul-la
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A366,gi-dub-ba dub nam-dub-sar-ra zag im-mi-til-la
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A367,nam-nar-ra a₂-ŋu₁₀ ba-e-šum₂-ma
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A368,za₃-mi₂ ki di-bi mu-zu-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A369,ŠIR₃.NAR ad ša₄-ba nir mi-ni-ib-ŋal₂-la
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A370,sa šu-si ŋiš-gu₃-di-da inim suh-suh bal-e-bi mu-zu-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A371,{ŋeš}al-ŋar-sur₉ {ŋeš}sa-eš sa-bi₂-tum
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A372,{ŋeš}har-har za-na-ru sa₂ bi₂-dug₄-ga
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A373,nam-nar-a ki bal-bal-a-bi
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A374,šag₄ ŠIR₃.NAR-da ki dul-dul-la-bi zag im-mi-us₂-sa
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A375,um-mi-a ŠIR₃.NAR ŋar-ŋar-ŋu₁₀-ne
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A376,šir₃ gal-gal-ŋa₂ mi-ni-ŋar-re-eš-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A377,za₃-mi₂-ŋa₂ mi-ni-in-pad₃-pad₃-de₃-eš
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A378,lugal kalag-ga šu ak
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A379,{d}en-lil₂-la₂ šu il₂-il₂-la-ni mu-na-da-gub-ba
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A380,mu diŋir-re-e-ne nam-erim₂ he₂-ni-kud-de₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A381,niŋ₂ en₃-du-ŋa₂ a-na ab-ŋal₂-la
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A382,na-du₃-a-ŋa₂ a-na ab-sar-ra lul ba-ra-na he₂-ge-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A383,mi₂ dug₄-ga-ŋu₁₀ ka-ga₁₄ hu-mu-ŋal₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A384,e₂-a šir₃-ŋu₁₀ giri₁₇-zal-le-eš he₂-em-me
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A385,en₃-du-ŋu₁₀ šu-a hu-mu-un-bal-e
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A386,la-la-bi šag₄ kalam-ma-ka hu-mu-ŋal₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A387,zag-bi-a inim ka-ge-e he₂-em-tum₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A388,ki ŋišbun-ka al di-bi
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A389,la-la-bi šag₄-ga hu-mu-ŋa₂-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A390,{d}ŋeštin-an-na {d}lamma-bi he₂-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A391,erim₃ niŋ₂ da-ri₂ ibila lugal-la
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A392,gi₁₆-sa nam-en-na niŋ₂ šu nu-X-gid₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A393,ka nar-e-ne-ka su₃-ud-še₃ ge-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A394,ŋe₂₆-e-me-en {d}en-lil₂-la₂ sa₂-dug₄ ki-ke₄ bi₂-dug₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A395,nibru{ki} ki sag₉-ga šu
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A396,ki-en-gi ki-uri ŋiš-hur-bi si he₂-em-mi-sa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A397,ur₅-še₃-am₃ {d}en-lil₂ lugal-ŋu₁₀ ud-ŋu₁₀
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A398,bal-ŋu₁₀ bal-a im-mi-us₂-sa
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A399,šag₄-bal-bal-ŋu₁₀ he₂-em-da-gal-gal
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A400,e₂ {d}en-lil₂-la₂-ka nam-sipad hu-mu-un-ak-e
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A401,{d}en-lil₂ lugal-ŋu₁₀-ra šir₃-ŋu₁₀ he₂-na-DI
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A402,e₂-kur-re ki ki aŋ₂-ŋu₁₀ mu-ŋu₁₀ hu-mu-pad₃-de₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A403,{d}nin-lil₂-ra za₃-mi₂ gal-gal-ŋu₁₀ ud šu₂-še₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A404,{d}nanna en zi-le dumu {d}en-lil₂-la₂-ra
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A405,nar-e ki aŋ₂-ra
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A406,kiŋ₂-nim kiŋ₂-sig šir₃-ŋu₁₀ he₂-na-DI
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A407,e₂ diŋir gal-gal-e-ne-ka en₃-du-ŋu₁₀ hu-mu-un-DI
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A408,{d}iš-me-{d}da-gan-me-en gub-gub-bu ni₂ teŋ₃-ŋe₂₆-ŋu₁₀-še₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A409,diŋir saŋ-du-ŋa₂-ke₄ kur-zag til-la-ba gaba-ri he₂-me-ni-in-tuku
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A410,ki-en-gi ki-uri mi-ni-mah-en
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A411,barag nam-lugal-la-ka im-mi-in-sig₉
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A412,šir₃-ŋu₁₀ dalla
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A413,lu₂ X-un-zu-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A414,na-du₃-a mi-X-in-de₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A415,{d}iš-me-{d}da-gan lugal-e dirig-ga-am₃
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A416,im-me-e-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A417,igi i-ni-in-il₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A418,
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,A419,sar-ra
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B1,e₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B2,šag₄ {d}en-lil₂-la₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B3,{d}udug e₂-kur-ra
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B4,{d}lamma e₂-kur-ra
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B5,lu₂-bi lu₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B6,
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B7,gi₁₆-sa gal-gal
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B8,erim₃ dugud dugud
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B9,{ŋeš}gu-za {d}en-lil₂-la₂ X-gub-ba-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B10,{ŋeš}gigir mah
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B11,{ŋeš}mar-šum {d}nin-lil₂-ra mu-dim₂-ma-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B12,{d}en-lil₂ uru₂ mah lugal-ŋa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B13,{d}en-lil₂ lugal-ŋu₁₀-ra mu-na-ni-kur₉-ra
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B14,šita₂ saŋ ₅₀ {ŋeš}tukul-e dib-ba
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B15,{d}nin-urta mu-ni-in-de₂-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B16,{urud}gu-za mah ki galam-ma mu-na-ni-in-gub-ba
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B17,{urud}alan urud kalag-ga me-dim₂-ma sig₁₀-ga
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B18,alan {na₄}esi ulutim₂-ŋu₁₀-še₃ ak-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B19,e₂ {d}en-lil₂-la₂-ka mi-ni-kur₉-ra
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B20,mi-ni-in-sug₂-ga
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B21,da-bi-a ba-an-zu
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B22,
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B23,
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,B24,
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,C1,šag₄
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,C2,{d}utu si₂ sa₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,C3,uŋ₃ saŋ gig₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,C4,{d}en-ki {d}iškur {d}ezina₂ diŋir he₂-ŋal₂-la
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,C5,he₂-ŋal₂ an ki-a ba-da-gi₄-eš
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,C6,₂-kam-ma-še₃ nar gal he₂-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,C7,um-mi-a lu₂ šir₃ he₂-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,C8,en₃-du ŋar-ŋar ad ša₄ di he₂-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,C9,nar gu₃ dug₃-ga lugal-a he₂-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,C10,nar ad gi₄-gi₄ šag₄-ba-a hul₂ he₂-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,C11,nar ka silim-ma a₂-nu₂-da-ka he₂-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,C12,nar gu₃ bal-bal ad-da-a he₂-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,C13,zag-ba he₂-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,D1,
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,D2,{d}en-lil₂-la₂ inim zid
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,D3,gu₃ mu-un-na-de₂-e-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,D4,{na₄}esi eš₃-e nibru{ki}-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,D5,an ki-ka ki-ba e-ne lu₂-bi
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,D6,ki-ba la-ba-an-kur₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,D7,ŋiš-dub-ba-ka la₂ mu la-ba-an-sar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,D8,niŋ₂-erim₂ niŋ₂-a₂-zig₃ la-ba-an-ak
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,D9,e₂-kur za-gin₃ {d}en-lil₂-la₂-ka
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,D10,he₂-ni-in-zig₃ saŋ an-še₃ he₂-ni-in-il₂
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,D11,sipad-da kalam saŋ-e-eš rig₇-na
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,D12,he₂-na-su₃-ud
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,D13,nam-erim₂-ma ib₂-ku₅-ru-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,D14,mu-ni bi₂-ib₂-sar
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,D15,aš₂ bal-ke₄-eš lu₂-kur₂ šu ba-an-zi-zi-a
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,D16,{d}en-lil₂ lugal diŋir-re-e-ke₄-ne
+c.2.5.4.01,A praise poem of Išme-Dagan (Išme-Dagan A + V),,D17,

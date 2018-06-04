@@ -1,0 +1,33 @@
+id_text,text_name,version,l_no,text
+c.4.17.1,A balbale to Ninazu (Ninazu A),,1,lugal iri ab₂-gin₇ lu-a unud za-e-me-en
+c.4.17.1,A balbale to Ninazu (Ninazu A),,2,{d}nin-a-zu iri ab₂-gin₇ lu-a unud za-e-me-en
+c.4.17.1,A balbale to Ninazu (Ninazu A),,3,en {d}nin-a-zu-ŋu₁₀ iri ab₂-gin₇ lu-a unud za-e-me-en
+c.4.17.1,A balbale to Ninazu (Ninazu A),,4,{gi}kid za-gin₃-na-gin₇ ad-KID za-e-me-en
+c.4.17.1,A balbale to Ninazu (Ninazu A),,5,udu-gin₇ amaš-e ri-a dur₂-ru-na-dur₂-ru-na na-gada-bi za-e-me-en
+c.4.17.1,A balbale to Ninazu (Ninazu A),,6,hur-saŋ sukuₓ-ra₂ ul gur₃-ru en {d}nin-a-zu-me-en
+c.4.17.1,A balbale to Ninazu (Ninazu A),,7,en {d}nin-a-zu ki-in-du ha-ba-dim₂-ma {d}nanna he₂-e-da-hul₂
+c.4.17.1,A balbale to Ninazu (Ninazu A),,8,uru₁₇ umuš gal-la {d}nanna tud-da-me-en
+c.4.17.1,A balbale to Ninazu (Ninazu A),,9,pa mul-zu {d}aš-im₂-babbar-re a₂ he₂-em-mi-ni-in-rin₂-rin₂-ne₂
+c.4.17.1,A balbale to Ninazu (Ninazu A),,10,{ŋeš}gu-za an-ne₂ ma-ra-an-šum₂-ma-zu suhuš-bi nam-mi-in-gen₆
+c.4.17.1,A balbale to Ninazu (Ninazu A),,11,zag an ki-še₃ ŋiri₃ si he₂-da-ab-sa₂ ud-gin₇ si he₂-da-ab-sa₂
+c.4.17.1,A balbale to Ninazu (Ninazu A),,12,en {d}nin-a-zu-ŋu₁₀ ud-gin₇ si ha-ra-ab-sa₂ ud-gin₇ si ha-ra-ab-sa₂
+c.4.17.1,A balbale to Ninazu (Ninazu A),,13,{d}suen-e šibir nam-en-na-zu šu im-mi-du₇
+c.4.17.1,A balbale to Ninazu (Ninazu A),,14,{ŋeš}ŋidru mah kur-kur-ra pa e₃ uŋ₃-e im-mi-lah₆
+c.4.17.1,A balbale to Ninazu (Ninazu A),,15,{d}lamma-zu e₂-kiš-nu-ŋal₂-la a₂ gal
+c.4.17.1,A balbale to Ninazu (Ninazu A),,16,{d}nin-a-zu urim₂{ki}-ma tud-da {d}nanna he₂-e-da-hul₂
+c.4.17.1,A balbale to Ninazu (Ninazu A),,17,en {d}nin-a-zu urim₂{ki}-ma tud-da {d}nanna he₂-e-da-hul₂
+c.4.17.1,A balbale to Ninazu (Ninazu A),,18,a-a ugu-zu kur gal {d}en-lil₂-le mu-zu pa bi₂-in-e₃
+c.4.17.1,A balbale to Ninazu (Ninazu A),,19,ama ugu-zu nin mah ki-ur₃-ra nam-zu mu-ra-ni-tar
+c.4.17.1,A balbale to Ninazu (Ninazu A),,20,e₂-zu iri-zu kur ki sikil-ta ki-tuš-bi hu-mu-un-ŋa₂-ŋa₂
+c.4.17.1,A balbale to Ninazu (Ninazu A),,21,enegir{ki} iri-zu kur ki sikil-ta ki-tuš-bi hu-mu-un-ŋa₂-ŋa₂
+c.4.17.1,A balbale to Ninazu (Ninazu A),,22,en {d}nin-a-zu-ŋu₁₀ ki-tuš-bi hu-mu-un-ŋa₂-ŋa₂ ki-tuš-bi hu-mu-un-ŋa₂-ŋa₂
+c.4.17.1,A balbale to Ninazu (Ninazu A),,23,aga kug-sig₁₇ saŋ-za ma-ra-ni-in-gen₆ šu zid ma-ra-ni-in-du₇
+c.4.17.1,A balbale to Ninazu (Ninazu A),,24,dumu nir-ŋal₂ a-a ugu-na-ke₄ šag₄ ki aŋ₂-ŋa₂
+c.4.17.1,A balbale to Ninazu (Ninazu A),,25,igi saŋ-ŋa₂ mu-ši-in-bar
+c.4.17.1,A balbale to Ninazu (Ninazu A),,26,an-ne₂ nam dug₃ mu-ri-in-tar
+c.4.17.1,A balbale to Ninazu (Ninazu A),,27,dumu {d}en-lil₂ lugal kur-kur-ra-ka me-lem₄-zu he₂-e₃
+c.4.17.1,A balbale to Ninazu (Ninazu A),,28,en {d}nin-a-zu-ŋu₁₀ me-lem₄-zu he₂-e₃ me-lem₄-zu he₂-e₃
+c.4.17.1,A balbale to Ninazu (Ninazu A),,29,nitalam-zu ki-sikil munus sag₉-ga nin {d}nin-girid₂-da
+c.4.17.1,A balbale to Ninazu (Ninazu A),,30,e₂-zu iri-zu hu-mu-ra-ab-be₂ šita-še₃ ša-ra-da-gub
+c.4.17.1,A balbale to Ninazu (Ninazu A),,31,diŋir kalam-ma en {d}nin-a-zu-ŋu₁₀
+c.4.17.1,A balbale to Ninazu (Ninazu A),,32,bal-bal-e {d}nin-a-zu-kam

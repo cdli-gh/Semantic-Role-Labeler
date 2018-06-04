@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+c.4.22.3,Ninisina's journey to Nibru: a šir-namšub to Ninisina (Ninisina C),,15,
+c.4.22.3,Ninisina's journey to Nibru: a šir-namšub to Ninisina (Ninisina C),,16,ŋiri₃ mu-na-ŋa₂-ŋa₂
+c.4.22.3,Ninisina's journey to Nibru: a šir-namšub to Ninisina (Ninisina C),,17,{id₂}buranuna gi₄ henbur kug-ge mu-un-na-dirig
+c.4.22.3,Ninisina's journey to Nibru: a šir-namšub to Ninisina (Ninisina C),,18,kar-ŋeštin-na-ka ma₂ bi₂-in-us₂ {d}en-ki
+c.4.22.3,Ninisina's journey to Nibru: a šir-namšub to Ninisina (Ninisina C),,19,sun₅-na-ni e₂ {d}en-lil₂-la₂-še₃ am₃-ma-X
+c.4.22.3,Ninisina's journey to Nibru: a šir-namšub to Ninisina (Ninisina C),,20,{d}en-lil₂-la₂-ke₄ nidba
+c.4.22.3,Ninisina's journey to Nibru: a šir-namšub to Ninisina (Ninisina C),,21,{d}en-lil₂-la₂-ka gud udu mi-ni-X-gaz
+c.4.22.3,Ninisina's journey to Nibru: a šir-namšub to Ninisina (Ninisina C),,22,KI.LUGAL.GUB ud su₃-ra₂-ka šu mu-X-mu₂-mu₂
+c.4.22.3,Ninisina's journey to Nibru: a šir-namšub to Ninisina (Ninisina C),,23,zalag₂-ga-ni
+c.4.22.3,Ninisina's journey to Nibru: a šir-namšub to Ninisina (Ninisina C),,24,hul₂-la-ni
+c.4.22.3,Ninisina's journey to Nibru: a šir-namšub to Ninisina (Ninisina C),,25,

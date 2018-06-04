@@ -1,0 +1,122 @@
+id_text,text_name,version,l_no,text
+c.4.28.1,A hymn to Nungal (Nungal A),,1,e₂ ud huš an ki uŋ₃ erim₂-še₃ du₇-du₇
+c.4.28.1,A hymn to Nungal (Nungal A),,2,e₂ kur e₂-eš₂ diŋir-re-e-ne {ŋeš}rab₃ mah an ki-a
+c.4.28.1,A hymn to Nungal (Nungal A),,3,šag₄ u₂-sa₁₁-an ud-mud daŋal tag-ga ni₂ su-a ru-ru-gu₂
+c.4.28.1,A hymn to Nungal (Nungal A),,4,ab sumur zig₃-ga kur-ku il₂-la a-ra₂-bi lu₂ nu-zu
+c.4.28.1,A hymn to Nungal (Nungal A),,5,e₂ {ŋeš}es₂-ad erim₂-du-še₃ nu₂-a hul-ŋal₂-la su dub₂-bu
+c.4.28.1,A hymn to Nungal (Nungal A),,6,e₂ sa-par₄ igi-te-en-bi galam kad₅ uŋ₃ nam-re-eš ur₄-ur₄-u₃
+c.4.28.1,A hymn to Nungal (Nungal A),,7,e₂ zid-du erim₂-du igi ŋal₂ hul šu-bi nu-e₃
+c.4.28.1,A hymn to Nungal (Nungal A),,8,e₂ id₂-lu₂-ru-gu₂ si sa₂ nu-ug₇-e erim₂-e bar ak
+c.4.28.1,A hymn to Nungal (Nungal A),,9,e₂ mu mah irigal kur {d}utu e₃-a šag₄-bi lu₂ nu-zu
+c.4.28.1,A hymn to Nungal (Nungal A),,10,e₂ gu-la en-nu-uŋ₃ e₂ šer₇-da lu₂ nam-tag-ga kiŋ₂-kiŋ₂
+c.4.28.1,A hymn to Nungal (Nungal A),,11,e₂ zid-du erim₂-du bar im-ak-de₃ an-ne₂ mu-bi mu-mah
+c.4.28.1,A hymn to Nungal (Nungal A),,12,e₂ uš ki ŋar-ra-bi ni₂ gal im-da-ri
+c.4.28.1,A hymn to Nungal (Nungal A),,13,kan₄-bi u₂-sa₁₁-an sig₇-ga su zig₃ il₂-la-am₃
+c.4.28.1,A hymn to Nungal (Nungal A),,14,kun₄-bi ušumgal ka du₈-a lu₂-še₃ nu₂-a
+c.4.28.1,A hymn to Nungal (Nungal A),,15,zag-du₈-bi ŋiri₂ mah a₂ ₂-bi lu₂-erim₂ sur-sur-ru-de₃
+c.4.28.1,A hymn to Nungal (Nungal A),,16,a-sal-bar-bi ŋiri₂ sahar-ta im₂-ma ka ša-an-ša₅-ša₅-dam
+c.4.28.1,A hymn to Nungal (Nungal A),,17,dub-la₂ zag e₃-bi piriŋ su-ba saŋ nu-ŋa₂-ŋa₂-dam
+c.4.28.1,A hymn to Nungal (Nungal A),,18,nir-gam-ma-bi {d}tir-an-na-gin₇ ni₂ huš im-da-an-ri
+c.4.28.1,A hymn to Nungal (Nungal A),,19,{ŋeš}nu-kuš₂-u₃-bi hu-ri₂-in{mušen} umbin-bi niŋ₂ šu ti-a
+c.4.28.1,A hymn to Nungal (Nungal A),,20,{ŋeš}ig-bi hur-saŋ gal lu₂-erim₂-ra ŋal₂ nu-un-ta-da₁₃-da₁₃
+c.4.28.1,A hymn to Nungal (Nungal A),,21,lu₂ zid šu-ba la-ba-ni-in-ku₄-ku₄ ŋal₂ mu-un-ta-da₁₃-da₁₃
+c.4.28.1,A hymn to Nungal (Nungal A),,22,{ŋeš}saŋ-kul-bi piriŋ huš nam-šul-ba gu₂-da la₂-a
+c.4.28.1,A hymn to Nungal (Nungal A),,23,{ŋeš}suhub₄-bi muš-saŋ-kal eme ed₂-de₃ e-ne dag si-il-si-le-de₃
+c.4.28.1,A hymn to Nungal (Nungal A),,24,{ŋeš}si-ŋar-bi muš-šag₄-tur₃ ki sumur-ra ni₂-bi ur₃-ur₃-ru-dam
+c.4.28.1,A hymn to Nungal (Nungal A),,25,e₂-e an ki-a igi mi-ni-in-ŋal₂ sa-par₄-ra al-la₂
+c.4.28.1,A hymn to Nungal (Nungal A),,26,a₂-bi erim₂-du la-ba-ra-e₃ erim₂ al-ur₃-ur₃-re
+c.4.28.1,A hymn to Nungal (Nungal A),,27,nin-bi diŋir er₉ an ki-a me-lem₄-ma-ni dul-la
+c.4.28.1,A hymn to Nungal (Nungal A),,28,{d}nun-gal barag gal mah-bi-a zag-ge mu-un-di-ni-ib-sig₉
+c.4.28.1,A hymn to Nungal (Nungal A),,29,e₂-a muš₃-bi dur₂ im-mi-in-ŋar kalam im-ta-gen₆-ne₂
+c.4.28.1,A hymn to Nungal (Nungal A),,30,lugal-ra šag₄ unken-na-ka igi mu-na-ni-ŋal₂
+c.4.28.1,A hymn to Nungal (Nungal A),,31,erim₂-ŋal₂-la-ni {ŋeš}rab₃ mi-ni-gen₆-ne₂ en-nu-uŋ₃-ŋa₂-ni nu-til-e
+c.4.28.1,A hymn to Nungal (Nungal A),,32,e₂ gal ŋiš-bur₂ erim₂-še₃ nu₂-a kalam-e na de₅ šum₂-mu
+c.4.28.1,A hymn to Nungal (Nungal A),,33,i-zi hu-luh-ha a-ŋi₆ gaba zig₃-ga peš₁₀ ed₂-de₃-da
+c.4.28.1,A hymn to Nungal (Nungal A),,34,saŋ um-de₆ lu₂-ulu₃ me-lem₄-ba saŋ nu-mu-un-de₃-ŋa₂-ŋa₂
+c.4.28.1,A hymn to Nungal (Nungal A),,35,ki di ku₅-ru-bi-še₃ diŋir an ki-a im-ši-gam-e-de₃-eš
+c.4.28.1,A hymn to Nungal (Nungal A),,36,{d}nin-e₂-gal-la-ke₄ barag za-gin₃-ba dur₂ an-še₃ bi₂-ib-ŋar
+c.4.28.1,A hymn to Nungal (Nungal A),,37,di kud ka-aš bar-re-de₃ igi mi-ni-in-ŋal₂ lul zid-bi mu-zu
+c.4.28.1,A hymn to Nungal (Nungal A),,38,sa-par₄-ra-ni igi-te-en he₂-a kalam-ma mu-un-na-an-la₂
+c.4.28.1,A hymn to Nungal (Nungal A),,39,hul-du ŋiri₃-ni nu-mu-un-dab₅-be₂ a₂-ni la-ba-ra-e₃
+c.4.28.1,A hymn to Nungal (Nungal A),,40,kan₄ e₂ gal-la ud huš saŋ zig₃-ga lu₂-ra su₃-su₃-da
+c.4.28.1,A hymn to Nungal (Nungal A),,41,šul diŋir-ra-na li-bi₂-in-dug₄-ga sa₂ um-ma-ni-dug₄
+c.4.28.1,A hymn to Nungal (Nungal A),,42,{d}nun-gal nin e₂ kur-ra-ra šu mah-a-ni im-si
+c.4.28.1,A hymn to Nungal (Nungal A),,43,lu₂-ulu₃-bi am šu si-il-la-gin₇ šu gig-ge₄ im-dab₅
+c.4.28.1,A hymn to Nungal (Nungal A),,44,ŋiri₃ mu-un-dab₅ e₂ a-nir-ra-še₃
+c.4.28.1,A hymn to Nungal (Nungal A),,45,tug₂ igi-na mu-un-si šag₄-sug₄-ga mu-un-ŋen
+c.4.28.1,A hymn to Nungal (Nungal A),,46,kaskal ŋiri₃-na im-ha-al-ha-al-e sila daŋal-la im-dab₅
+c.4.28.1,A hymn to Nungal (Nungal A),,47,lu₂ zu-a-ni gu₃ nu-mu-un-da-ab-be₂ bar-ta im-da-gub
+c.4.28.1,A hymn to Nungal (Nungal A),,48,{ŋeš}ig-bi ŋal₂-lu mah nu-um-zu mu₇-mu₇ niŋ₂-gig-bi
+c.4.28.1,A hymn to Nungal (Nungal A),,49,du₆-du₆-da ŋal₂ mu-un-da₁₃-da₁₃ ŋiš-hur-bi i₃-kur₂
+c.4.28.1,A hymn to Nungal (Nungal A),,50,lu₂-be₂-e-ne buru₅{mušen} {d}nin-ninna₂{mušen}-ta šu-ta šub-ba-gin₇
+c.4.28.1,A hymn to Nungal (Nungal A),,51,ŋal₂ da₁₃-da₁₃-bi-še₃ {d}utu e₃-a-gin₇ igi-bi im-ši-ŋal₂
+c.4.28.1,A hymn to Nungal (Nungal A),,52,šeš šeš-ra ud ha-lam mu-un-da-aŋ₂-e ŋalga-bi i₃-kur₂-kur₂
+c.4.28.1,A hymn to Nungal (Nungal A),,53,šul-e šul-zu-ne nu-mu-un-zu-zu lu₂-kur₂ ŋen-na-me-eš
+c.4.28.1,A hymn to Nungal (Nungal A),,54,lu₂ lu₂ zu-ne ŋiškim nu-mu-un-ni₁₀-ni₁₀ ulutim₂-bi i₃-kur₂
+c.4.28.1,A hymn to Nungal (Nungal A),,55,e₂-a šag₄-bi er₂ a-nir-ra i-si-iš-bi im-gur₃-ru
+c.4.28.1,A hymn to Nungal (Nungal A),,56,šeg₁₂-bi lu₂ hul-ŋal₂ ba-an-ma₅-ma₅ lu₂ zid mu-un-u₃-tud
+c.4.28.1,A hymn to Nungal (Nungal A),,57,šag₄ ib₂-ba-bi er₂ a-nir-ra ud mi-ni-ib-zal-zal-e
+c.4.28.1,A hymn to Nungal (Nungal A),,58,ud um-ŋen e₂ kur ezen-gin₇ ni₂-bi-a ba-an-du₃
+c.4.28.1,A hymn to Nungal (Nungal A),,59,ki en₃ tar-re {d}id₂-lu₂-ru-gu₂-da diŋir ba-sug₂-ge-eš
+c.4.28.1,A hymn to Nungal (Nungal A),,60,zid-du erim₂-du bar im-ak-de₃ si sa₂ mu-un-u₃-tud
+c.4.28.1,A hymn to Nungal (Nungal A),,61,erim₂-ŋal₂-la-ni šu im-ri-ri-e a₂-ni la-ba-ra-e₃
+c.4.28.1,A hymn to Nungal (Nungal A),,62,ud-bi-a nin-e ni₂-te-a-ni mi₂ zid iri in-ga-am₃-me
+c.4.28.1,A hymn to Nungal (Nungal A),,63,diŋir ŋiri₃ kug {d}nun-gal-la-ke₄ ni₂ silim-eš₂ al-e
+c.4.28.1,A hymn to Nungal (Nungal A),,64,nin-me-en an-ne₂ nam mu-un-tar ŋe₂₆-e dumu an-na-me-en
+c.4.28.1,A hymn to Nungal (Nungal A),,65,{d}en-lil₂-le nam gal ma-an-tah e₂-gi₄-a-ni-me-en
+c.4.28.1,A hymn to Nungal (Nungal A),,66,diŋir-re-e-ne me an ki-a šu-ŋu₁₀-še₃ mu-un-ŋar-re-eš
+c.4.28.1,A hymn to Nungal (Nungal A),,67,ama ugu-ŋu₁₀ kug {d}ereš-ki-gal-la-ke₄ me-ni ma-ra-an-ba
+c.4.28.1,A hymn to Nungal (Nungal A),,68,irigal kur {d}utu e₃-a barag mah-ŋu₁₀ mi-ni-ri
+c.4.28.1,A hymn to Nungal (Nungal A),,69,e₂-gal ki-tuš kug nam-lugal-la-ka ŋe₂₆-e diŋir-bi-me-en
+c.4.28.1,A hymn to Nungal (Nungal A),,70,{d}inana-ra gal mu-un-da-ab-be₂ šag₄ giri₁₇-zal ŋal₂-la-ni-me-en
+c.4.28.1,A hymn to Nungal (Nungal A),,71,{d}nin-tur₅-e ki nam-dumu-zid-ka mu-da-an-gub-be₂
+c.4.28.1,A hymn to Nungal (Nungal A),,72,gi-dur kud-da nam tar-re-da inim sag₉-ge-bi mu-zu
+c.4.28.1,A hymn to Nungal (Nungal A),,73,nin aŋrig zid {d}en-lil₂-la₂-me-en niŋ₂-gur₁₁ ma-ŋar-ŋar
+c.4.28.1,A hymn to Nungal (Nungal A),,74,erim₃ niŋ₂ nu-silig-ge ŋa₂-a-kam ma-da-TAB
+c.4.28.1,A hymn to Nungal (Nungal A),,75,arhuš šag₄-ne-ša₄ ŋa₂-a-kam lu₂ la-ba-ra-an-ul₄-le-de₃-en
+c.4.28.1,A hymn to Nungal (Nungal A),,76,saŋ gig₂-ga igi-ŋa₂ mu-un-ŋal₂ en-nu-uŋ₃ im-ma-ak-e
+c.4.28.1,A hymn to Nungal (Nungal A),,77,im nam-til₃-la šu-ŋa₂ mu-un-ŋal₂ lu₂ zid bi₂-in-gub-be₂-en
+c.4.28.1,A hymn to Nungal (Nungal A),,78,erim₂-du a₂-ŋa₂ la-ba-ra-e₃ niŋ₂ ak-bi mu-zu
+c.4.28.1,A hymn to Nungal (Nungal A),,79,kur-kur-re ama diŋir-bi-gin₇ igi-bi im-ši-ŋal₂
+c.4.28.1,A hymn to Nungal (Nungal A),,80,nam-tag dugud šu-ta im-sig-ge-en ama arhuš-a-me-en
+c.4.28.1,A hymn to Nungal (Nungal A),,81,šag₄ mir-mir-ra im-sed₄-sed₄-de₃ a sed₄ im-su₃-ud
+c.4.28.1,A hymn to Nungal (Nungal A),,82,šag₄ hul mu-sed₄ ka garaš₂-ta lu₂ ba-ra-an-zi-zi-i
+c.4.28.1,A hymn to Nungal (Nungal A),,83,e₂-ŋu₁₀ šag₄-ne-ša₄ mu-un-du₃ nin lu₂ til₃-til₃-me-en
+c.4.28.1,A hymn to Nungal (Nungal A),,84,ŋissu-bi {ŋeš}ha-šu-ur₂-ra-gin₇ ki sikil-la bi₂-in-mu₂
+c.4.28.1,A hymn to Nungal (Nungal A),,85,nitalam-ŋu₁₀ {d}bi-ir-tum lu₂ ne₃ gal zag-ge mu-un-di-ni-ib-sig₉
+c.4.28.1,A hymn to Nungal (Nungal A),,86,barag gal mah-bi-a dur₂ im-mi-in-ŋar a₂ gal mu-da-aŋ₂-e
+c.4.28.1,A hymn to Nungal (Nungal A),,87,{d}udug e₂-ŋa₂ {d}lamma igi sag₉-me-eš lu₂ ba-an-ul₄-ul₄-e-ne
+c.4.28.1,A hymn to Nungal (Nungal A),,88,nu-banda₃ mah-ŋu₁₀ {d}ig-alim-ma {ŋeš}rab₃ šu-ŋa₂-kam
+c.4.28.1,A hymn to Nungal (Nungal A),,89,e₂-ŋu₁₀ saŋ en₃ tar-še₃ mu-un-il₂ lu₂ la-ba-an-ul₄-le-ne
+c.4.28.1,A hymn to Nungal (Nungal A),,90,ra-gaba-ŋu₁₀ niŋ₂-nam nu-ha-lam e₂-gal me-te-bi
+c.4.28.1,A hymn to Nungal (Nungal A),,91,iri {d}en-lil₂-le mu sa₄-a lul zid-bi mu-zu
+c.4.28.1,A hymn to Nungal (Nungal A),,92,{d}nin-har-ra-an-na inim-bi ba-da-de₆ igi-ŋu₁₀-še₃ bi₂-ib-dab₅-be₂
+c.4.28.1,A hymn to Nungal (Nungal A),,93,kindagal-ŋu₁₀ e₂ ni₂ gur₃-ru ki-nu₂-a ma-an-ŋa₂-ŋa₂
+c.4.28.1,A hymn to Nungal (Nungal A),,94,{d}ne-zi-il-la₂ niŋ₂ kal šag₄ hul₂-la si ba-ab-sa₂-e
+c.4.28.1,A hymn to Nungal (Nungal A),,95,e₂-gal lugal-la-ke₄ saŋ um-de₆ lu₂ šer₇-da ba-šum₂-mu
+c.4.28.1,A hymn to Nungal (Nungal A),,96,gal₅-la₂ gal-ŋu₁₀ {d}nin-dimgul-e a₂-ni mu-un-sud-e
+c.4.28.1,A hymn to Nungal (Nungal A),,97,ka šer₇-da-ka lu₂ bi₂-in-šum₂-mu-e saŋ ŋiš la-ba-ab-ra-ra
+c.4.28.1,A hymn to Nungal (Nungal A),,98,lu₂-u₁₈-lu-bi ka garaš₂-ta im-ra-an-zi-zi
+c.4.28.1,A hymn to Nungal (Nungal A),,99,e₂ nam-til₃-la-ŋa₂ ba-ni-in-ku₄-ku₄ en-nu-uŋ₃ im-ma-ak-e
+c.4.28.1,A hymn to Nungal (Nungal A),,100,sahar e₂-ŋa₂ tug₂ dan₄-dan₄-na lu₂ la-ba-an-si-si
+c.4.28.1,A hymn to Nungal (Nungal A),,101,e₂-ŋu₁₀ kurun₂-ta dab₅-ba-gin₇ lu₂-ra an-ed₃-de₃
+c.4.28.1,A hymn to Nungal (Nungal A),,102,muš-ŋiri₂ e₂ ku₁₀-ku₁₀-ga-ka me la₂-la₂
+c.4.28.1,A hymn to Nungal (Nungal A),,103,e₂-ŋu₁₀ lu₂ si sa₂ mu-un-u₃-tud lu₂-lul mu-un-te-en-ten
+c.4.28.1,A hymn to Nungal (Nungal A),,104,šeg₁₂-bi arhuš er₂ mi-ni-in-ŋal₂ šag₄-ne-ša₄-a mu-un-du₃
+c.4.28.1,A hymn to Nungal (Nungal A),,105,lu₂-ulu₃-ba šag₄ mu-un-na-ab-huŋ-e bar mu-un-na-ab-sed₄-de₃
+c.4.28.1,A hymn to Nungal (Nungal A),,106,šag₄ diŋir-ra-na u₃-mu-un-na-an-huŋ
+c.4.28.1,A hymn to Nungal (Nungal A),,107,kug sag₉-ga-gin₇ šu u₃-mu-ni-in-su-ub sahar u₃-mu-un-ta-zalag
+c.4.28.1,A hymn to Nungal (Nungal A),,108,kug saŋ bar kug-ge šu-a gub-ba-gin₇ sahar u₃-mu-un-ta-luh-luh
+c.4.28.1,A hymn to Nungal (Nungal A),,109,šu sag₉-ga diŋir-ra-na-še₃ im-ši-in-gi₄-gi₄
+c.4.28.1,A hymn to Nungal (Nungal A),,110,diŋir lu₂-ba-ke₄ su₃-u₄-ra₂-še₃ me-teš₂ hu-mu-i-i
+c.4.28.1,A hymn to Nungal (Nungal A),,111,lu₂-ulu₃-bi ka tar-ŋu₁₀ he₂-si-il-le nam-mah-ŋu₁₀ he₂-em-me
+c.4.28.1,A hymn to Nungal (Nungal A),,112,ar₂-ŋu₁₀ kalam-ma ak-ak-da-bi niŋ₂-me-ŋar sug₄-ga-am₃
+c.4.28.1,A hymn to Nungal (Nungal A),,113,i₃ li₂ tur₃ kug-ta mi₂ he₂-em-me niŋ₂ saŋ-bi ha-ma-an-tum₃
+c.4.28.1,A hymn to Nungal (Nungal A),,114,udu-i₃ amaš kug-ta mi₂ he₂-em-me niŋ₂ saŋ-bi ha-ma-an-tum₃
+c.4.28.1,A hymn to Nungal (Nungal A),,115,lu₂-ba {d}lamma sag₉-ga-ni-me-en ŋa₂-la nu-mu-un-ta-dag-ge
+c.4.28.1,A hymn to Nungal (Nungal A),,116,e₂-gal-la igištu-ni ŋe₂₆-me-en en-nu-uŋ₃ im-ma-ak-en
+c.4.28.1,A hymn to Nungal (Nungal A),,117,nin-e nam-mah-a-ni pa e₃ ak-a
+c.4.28.1,A hymn to Nungal (Nungal A),,118,e₂ kur e₂-eš₂ ki-tuš ki aŋ₂-ŋa₂-ni ni₂ me-lem₄ šum₂-ma
+c.4.28.1,A hymn to Nungal (Nungal A),,119,diŋir er₉ {ŋeš}rab₃ {d}a-nun-na-ke₄-ne nam-ma-ni lu₂ nu-zu
+c.4.28.1,A hymn to Nungal (Nungal A),,120,saŋ-kal me-a-na šu nu-tu-tu
+c.4.28.1,A hymn to Nungal (Nungal A),,121,{d}nun-gal-la za₃-mi₂

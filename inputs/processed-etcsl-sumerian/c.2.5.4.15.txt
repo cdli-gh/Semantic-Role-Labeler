@@ -1,0 +1,157 @@
+id_text,text_name,version,l_no,text
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A1,ur-saŋ gal a₂ gal an ki-a
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A2,{d}nin-urta e₂-kur-ra me ₅₀ šu du₇
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A3,ensi₂ a-a-na u₁₈-lu sumur zig₃-ga
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A4,kur-še₃ ni₂ gid₂-gid₂-i
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A5,gu₃ nun di
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A6,ni₂ su-a ru-ru-gu₂ gaba-šu-ŋar nu-tuku
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A7,{d}nin-urta nam-šul-a dirig-ga
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A8,usu gal mah zi-i-zi
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A9,nam {d}en-lil₂-la₂
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A10,{d}en-lil₂-ka he₂-du₇ eš₃ mah-a
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A11,me-lem₄ ŋal₂
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A12,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A13,{ŋeš}rab₃ diŋir-re-e-ne
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A14,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A15,{d}a-nun-ke₄-ne
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A16,a₂-nun-ŋal₂ mah-bi
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A17,en dumu {d}en-lil₂-la₂
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A18,hur-saŋ-ta e₃-a me šar₂-ra u₅
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A19,ur-saŋ gal ušum zag dib
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A20,nam-en-na šu du₇ e-ne-da nu-sa₂
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A21,ur-saŋ gal ne₃-ni-da nir-ŋal₂
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A22,iri
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A23,eš-bar nu-kam₃-me
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A24,dug₄-ga-ni ki-bi-še₃ ŋar
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A25,dumu mah {d}en-lil₂-la₂
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A26,kur-še₃ šu ša-an-ša
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A27,kur gal {d}en-lil₂ e₂-kur-ra an ki niŋ₂-daŋal-ba
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A28,mah-a-ni dul-la
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A29,sumur
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,A30,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B1,inim-ma-ni kal-kal-a-am₃
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B2,dug₄-ga-ni zid-da-am₃
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B3,{d}nin-urta piriŋ sumur nu-še-ga
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B4,nir-ŋal₂ kur gam-gam
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B5,sa-gid₂-da-am₃
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B6,{d}nin-urta {d}iš-me-{d}da-gan
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B7,igi nam-til₃-la hu-mu-ši-in-bar
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B8,ŋiš-gi₄-ŋal₂ sa-gid₂-da-bi-im
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B9,u₄-ta-u₁₈-lu i-lim u₅
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B10,en gal-e-ne dirig
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B11,{d}nin-urta nam-nir-ra šu du₇
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B12,saŋ en₃ tar an ki
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B13,en a₂ šum₂-ma {d}nu-nam-nir-ra
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B14,ne₃-ni-da nir-ŋal₂
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B15,{d}nin-urta saŋ-kal
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B16,{d}en-lil₂-le
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B17,gud du₇-du₇-gin₇
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B18,nu-še-zu ŋiri₃-zu
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B19,ur-saŋ gal
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B20,hur-saŋ sud
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B21,lugal-ra kur gu₂-erim₂-ŋal₂-la
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B22,šu-ni-še₃
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B23,{d}nin-urta {d}iš-me-{d}da-gan-ra
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B24,šen-šen a₂-tah
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B25,{ŋeš}tukul mah-a-ni
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B26,ki-bal nu-še-ga
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B27,udug₂ mah-a-ni erim₂
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B28,me₃ gu₂-erim₂
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B29,{d}iš-me-{d}da-gan
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,B30,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,C1,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,C2,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,C3,en kur-ra
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,C4,{d}en-ki an
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,C5,{d}en-X
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,C6,dirig
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,C7,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,C8,nin
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,C9,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,D1,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,D2,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,D3,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,D4,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,D5,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,D6,kug
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,D7,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,D8,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,D9,{d}en-ki
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,D10,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,D11,{d}en-X
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,D12,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,D13,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,D14,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,D15,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,D16,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,D17,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),A,D18,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,1,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,2,u₁₈-lu sumur zig₃-ga
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,3,piriŋ
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,4,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,5,{d}nin-urta
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,6,usu
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,7,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,8,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,9,dur
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,10,{ŋeš}rab₃ diŋir-re-e-ne
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,11,gaba nu-gi₄ kur-re
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,12,{d}nin-urta {d}a-nun-na
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,13,en e₂-kur-ra a₂-nun-ŋal₂
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,14,u₄-ta-u₁₈-lu a₂ mah
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,15,hur-saŋ-ta e₃-a me šar₂-ra
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,16,{d}nin-urta
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,17,nam-en-na šu du₇
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,18,ur-saŋ gal kur
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,19,na₄-bi sug-zag-ge₄ teš₂-bi X-gu₇
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,20,sa₂ pad₃-de₃ eš-bar nu-kam₃-me
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,21,{d}nin-urta dug₄-ga-ni ki-bi-še₃ ŋar
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,22,ur-saŋ en dumu mah {d}en-lil₂-la₂
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,23,kur-še₃ šu ša-an-ša
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,24,{d}nin-urta mah-di e₂-kur-ra
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,25,u₁₈-lu mah-a-ni
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,26,sumur-ra₂ ki-bal
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,27,nu-še-ga
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,28,{d}nin-urta
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,29,ur-saŋ gal gu₂-erim₂-ŋal₂-la ur₂
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,30,ur-saŋ igi {d}en-lil₂
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,31,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,32,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,33,erim₂-e gu₂
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,34,kur-ra
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,35,kalam-ma tug₂-gin₇ ši-im-šu₄
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,36,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,37,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,38,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,39,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,40,ur-saŋ gal
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,41,{d}a-nun-na-ke₄-ne
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,42,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,43,kal-kal
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,44,piriŋ sumur
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,45,gam-gam
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,46,sa-gid₂-da-am₃
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,47,{d}iš-me-{d}da-gan
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,48,nam-til₃
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,49,ŋiš-gi₄-ŋal₂ sa-gid₂-da-bi-im
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,50,u₄-ta-u₁₈-lu nam-nun-na
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,51,mi-tum erim₂
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,52,{d}nin-urta nam-nir-ra zag dib
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,53,saŋ en₃ tar
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,54,en a₂ šum₂-ma {d}nu-nam-nir-ra
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,55,ne₃-ni-da nir-ŋal₂ me₃-še₃ gub-bu
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,56,{d}nin-urta gu₂-gal
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,57,am gal {d}en-lil₂-le
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,58,am
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,59,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,60,{d}en-lil₂ kur gal-la
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,61,hur-saŋ sud₄-su₁₃-ra
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,62,gu₂-erim₂-ŋal₂-la
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,63,šu-ni-še₃
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,64,{d}iš-me-{d}da-gan dumu
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,65,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,66,kur-ra šu ur₄-ur₄
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,67,
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,68,a₂
+c.2.5.4.15,A tigi (?) to Ninurta for Išme-Dagan (Išme-Dagan O),B,69,hul

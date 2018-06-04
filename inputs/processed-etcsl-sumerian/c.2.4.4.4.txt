@@ -1,0 +1,63 @@
+id_text,text_name,version,l_no,text
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,1,ur-saŋ ul gal-le-eš nir gaba-ŋal₂ zag piriŋ ul sig₇-ga
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,2,{d}nin-urta mar-uru₅ ug gal šen-šen-na ru-ru-gu₂
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,3,a₂-ŋal₂ uŋ₃ erim₂ uru₂ gul-lu a₂-dam sahar-re-eš gi₄
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,4,{d}nin-urta am gal gud-si-AŠ bad₃ gal ŠU.KAD₄-ŠU.KAD₄-e
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,5,bar-sud-am₃
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,6,a-ma-ru ki-bal-še₃ hu-luh-ha gaba-šu-ŋar nu-tuku
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,7,{d}nin-urta i-lim u₅ su niŋ₂-ŋir₂ ud ŋar
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,8,lugal {d}šu-{d}suen uŋ₃ daŋal-la mu-ni
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,9,e₂-šu-me-ša₄ ki-tuš kug igi-šu-galam ki nam tar-re-za
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,10,kisal mah-ba gud gal udu gal-e si um-ma-ni-sa₂
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,11,KI.LUGAL.GUB kug-ba šu ha-ra-ni-in-mu₂-mu₂
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,12,{d}šu-{d}suen-na šu ha-ra-ni-in-mu₂-mu₂
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,13,{d}nin-urta til₃ ud su₃-ra₂-ka
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,14,{d}šu-{d}suen-na til₃ ud su₃-ra₂-ka gu₂
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,15,šag₄-ba-tuku-am₃
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,16,a₂-ni sud-sud
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,17,
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,18,{d}nin-urta dumu-saŋ {d}en-lil₂-la₂ su-lim-ma
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,19,gu₂-e me ŋar
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,20,
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,21,bar-sud ₂-kam-ma-am₃
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,22,šu nu-te
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,23,si gal-a-ni
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,24,huš-am₃ an-ur₂
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,25,{d}nin-urta kalag-ga uₓ-a mah {d}nin-lil₂-le tud-da
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,26,i-lim u₅ {d}šu-{d}suen {d}en-lil₂-še₃ ŋal₂-la
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,27,{d}nin-urta bad₃ gal-a-ni he₂-me-en igi dug₃ hu-mu-ni-du₈
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,28,{d}šu-{d}suen bad₃ gal-a-ni he₂-me-en igi dug₃ hu-mu-ni-du₈
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,29,sa-gid₂-da-am₃
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,30,{d}nin-urta {d}šu-{d}suen-ŋu₁₀-ur₂ a₂-tah {ŋeš}tukul-a-ni he₂-me-en
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,31,ŋiš-gi₅-ŋal₂-bi-im
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,32,tir galam-ma kur-šag₄-še₃ dub₃ bar-re
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,33,{d}nin-urta ulu₃ mah ki-bal-a kuš₇ lu₂-ra su-su
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,34,sa₂-ŋar me e₂-kur-ra šu du₇ ŋiškim-til₃ a-a-na
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,35,{d}nin-urta tir galam-ma kur-šag₄-še₃ dub₃ bar-re
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,36,{d}nin-urta ulu₃ mah ki-bal-a kuš₇ lu₂-ra su-su
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,37,sa₂-ŋar me e₂-kur-ra šu du₇ ŋiškim-til₃ a-a-na
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,38,lugal-ŋu₁₀ a₂ mah {d}en-lil₂-la₂ kur šu-ni nu-e₃
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,39,{d}šu-{d}suen a₂ mah šum₂-ma a-a {d}en-lil₂-la₂-ra
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,40,{d}nin-urta me₃ šen-šen-na šar₂ ša-mu-na-an-gul-e
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,41,{d}nin-urta a₂ mah {d}en-lil₂-la kur šu-ni nu-e₃
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,42,{d}šu-{d}suen a₂ mah šum₂-ma a-a {d}en-lil₂-la₂-ra
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,43,{d}nin-urta me₃ šen-šen-na šar₂ ša-mu-na-an-gul-e
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,44,lugal-ŋu₁₀ me ul dili ša-ba-ak kiŋ₂ gal-le-eš rib-ba
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,45,{d}nin-urta u₂-sa₁₁-an sig₇-ga kalam-ma ni₂ ru-ru-gu₂
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,46,{d}uraš kug-gin₇ ušum su-lim-ma izi-ŋar huš il₂-il₂-i
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,47,{d}nin-urta me ul dili ša-ba-ak kiŋ₂ gal-le-eš rib-ba
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,48,{d}nin-urta u₂-sa₁₁-an sig₇-ga kalam-ma ni₂ ru-ru-gu₂
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,49,{d}uraš kug-gin₇ ušum su-lim-ma izi-ŋar huš il₂-il₂-i
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,50,lugal-ŋu₁₀ mah-di ur-saŋ gal ne-ni-da nir-ŋal₂
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,51,{d}šu-{d}suen ŋiškim hu-mu-un-til₃-en en {d}nin-urta-ra
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,52,lugal {d}en-lil₂-le ma-ra-an-šum₂-ma-a maškim-zu he₂-a
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,53,{d}nin-urta mah-di ur-saŋ gal ne-ni-da nir-ŋal₂
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,54,{d}šu-{d}suen ŋiškim hu-mu-un-til₃-en en {d}nin-urta-ra
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,55,lugal {d}en-lil₂-le ma-ra-an-šum₂-ma-a maškim-zu he₂-a
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,56,{na₄}nir₇-a kug su-lim-ma kiŋ₂ gal-le-eš rib-ba
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,57,a₂ mah-za im-mi-in-DU mu-zu im-mi-in-sar
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,58,ul-še₃ nam-til₃-la-ni en-nu-uŋ₃ ši-im-X-ak
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,59,{d}šu-{d}suen-na kug su-lim-ma kiŋ₂ gal-le-eš rib-ba
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,60,a₂ mah-za im-mi-in-DU mu-zu im-mi-in-sar
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,61,ul-še₃ nam-til₃-la-ni en-nu-uŋ₃ ši-im-X-ak
+c.2.4.4.4,A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D),,63,sa-ŋar-ra-am₃

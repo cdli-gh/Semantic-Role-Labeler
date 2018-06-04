@@ -1,0 +1,92 @@
+id_text,text_name,version,l_no,text
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A1,
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A2,
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A3,
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A4,{d}lamma sag₉-ga {d}ba-u₂ mi₂-bi ga-mu-u₈-de₃-en
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A5,zu a kar-ra
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A6,ib₂-be₂-a a kar-ra
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A7,ŋiškim-til₃ saŋ šu
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A8,ki šu nu-la₂-e-da usu
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A9,niŋ₂-tuk-u₃ nu-X-X-du šu nu-la₂-e-da
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A10,nu-X dug₃-ga
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A11,ma₂-gur₈ {d}suen sud-sud nin a-na-zu nu-zil₂-zil₂-i
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A12,an-ti-bal ul gur₃-ru {d}lamma a-na-zu nu-sag₉
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A13,{d}lamma sag₉-ga {d}ba-u₂ mi₂-bi ga-mu-u₈-de₃-en
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A14,ŋiš-ta du-a-ni
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A15,
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A16,
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A17,
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A18,
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A19,
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A20,la-ba-ni₁₀-ni₁₀
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A21,mu-un-da-ab-dub
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A22,ud šu₂-uš ŋiri₃-X
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A23,dug₃-zu nin-ŋu₁₀
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A24,giri₁₇-zal sug₄ nin a-na-zu nu-zil₂-zil₂-i
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A25,mah kalam-ma {d}lamma a-na-zu nu-sag₉
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A26,{d}lamma sag₉-ga {d}ba-u₂ mi₂-bi ga-mu-u₈-de₃-en
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A27,munus zid nin šu tab-ba til₃ mu₂-da-ni i₃-dug₄-ga
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A28,ud me-da inim bal-bal-e-da-ni
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A29,a₂-gu₂-zig₃-ta zur-zur-re-eš₂ zag-ga-na šub-bu-dam
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A30,mu-zu gug₂ i₃ ga-gin₇ ka-ge mu-na-ab-si-a
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A31,niŋ₂ sila-ta de₆-a-na kaš sur-ra-na saŋ-bi
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A32,pu₂-kiri₆-na niŋ₂ saŋ-bi ha-ma-na-DU im-me-e-a
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A33,a₂ ud-da eš₃ ŋir₂-su₂{ki} igi mu-ri-ib-du₈-am₃
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A34,ud šu₂-uš-e zalag-ga-ni igi-zu-še₃ mu-ni-ib-dib-dib-a
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A35,{d}lamma lu₂-ulu₃-ba dam a-a-še₃ mu-na-e-šum₂
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A36,dam a-a-še₃ mu-na-e-šum₂ dumu a-šag₄ šukur₂-še₃ mu-na-e-šum₂
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A37,inim in-de₂ lu₂ i₃-DU
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,A38,šum₂ niŋ₂-su-ub ak-a
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,B1,munus zid {d}utu kalam-ma diŋir-ŋa₂ me-teš₂ ga-i-i
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,B2,sukkal-mah ama {d}ba-u₂ zi lugal-la u₃-tud
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,B3,ra-gaba kug an-šag₄-ta dub nam-til₃-la an-ed₃-de₃
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,B4,im an-ta ŋiri₃-a he₂-ŋal₂ pa e₃
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,B5,saŋ šum₂ me-te {d}ba-u₂ itima kug-ga he₂-du₇-bi-im
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,B6,{d}lamma lu₂ sizkur-ra {d}ba-u₂ ur₂-saŋ
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,B7,nam-lu₂-u₁₈-lu ki aŋ₂ niŋ₂-ba-bi hul₂-le-za
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,B8,{d}lamma sag₉-ga {d}ba-u₂ mi₂-bi su₃-ud-še₃ ga-mu-e-i-i-de₃-en
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,B9,saŋ sig₇ hi-li gur₃-ru {na₄}za-gin₃-a
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,B10,sig₇-ga umuš ŋar šita-e gun₃-gun₃-a
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,B11,
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,B12,lugal-še₃ he₂-em-ši-ni-ŋal₂
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,B13,gub-bu-zu lal₃
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,C1,
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,C2,gen₆-na
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,C3,munus zid {d}lamma-ŋu₁₀
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,C4,{d}lamma sag₉-ga {d}ba-u₂ mi₂-bi su₃-ud-še₃ ga-mu-e-i-i-de₃-en
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,C5,la₂-a i-im-me ak
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,C6,nir-ŋal₂ ki aŋ₂ {d}ba-u₂ nin saŋ ga zid-da-ke₄
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,C7,he₂-em-su₃-ra nin DU.DU-da
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,C8,en {d}ig-alim-ma-ke₄ ŋidru-bi hu-mu-ŋal₂ me-teš₂-bi
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,C9,munus zid {d}lamma-ŋu₁₀ nin nam gu₃ de₂-a-za
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,C10,{d}lamma sag₉-ga {d}ba-u₂ mi₂-bi su₃-ud-še₃ ga-mu-e-i-i-de₃-en
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,C11,nin gu₇ naŋ nam-he₂-a zu₂ keše₂ i
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,C12,ki-tuš he₂-ŋal₂ abzu-ta gu₃ nun di
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D1,{d}lamma-ŋu₁₀ nin
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D2,munus zid giri₁₇-zal il₂-il₂-i šudu₃ inim-ma ŋiš tuku
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D3,inim dug₃ eme si sa₂ nin niŋ₂-gen₆-e ki aŋ₂-X
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D4,sukkal-mah ama {d}ba-u₂ nundum kug-babbar-ra-ke₄
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D5,si sa₂ ŋeštug me-ze₂
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D6,munus zid {d}lamma-ŋu₁₀ ulutim₂ lu₂ nu-sig₁₀-ge₅-zu
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D7,igi mi₂-bi su₃-ud-še₃ ga-mu-u₈-en-de₃-en
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D8,kuš me a dadag-ga sag₉-ga gal-bi dirig-ga-am₃
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D9,zi-pa-aŋ₂
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D10,sal-sal siki sur-sur mun-na
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D11,unu₂ šuba sud-sud zag-še siki
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D12,il₂-il₂-i a₂-ur₂ ud-gin₇ zalag-zalag-ga-am₃
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D13,la-la-ŋal₂ a₂-diš-kuš₃ sal-la-am₃
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D14,tum₂-ma šu-si kug-babbar
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D15,{na₄}nir₇
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D16,e₂-gal
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D17,munus zid {d}lamma-ŋu₁₀ ulutim₂ lu₂ nu-sig₁₀-ge₅-zu
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D18,mi₂-bi su₃-ud-še₃ ga-mu-u₈-en-de₃-en
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D19,sukkal niŋ₂ nu-ha-lam-e nin ki ur₅ sag₉
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D20,šag₄ sud lu₂
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D21,{ŋeš}ŋišnimbar
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D22,ib₂-ib₂ daŋal u₂ me-te-ŋal₂
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D23,mu-zu nu-NUNUZ-a
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D24,niŋ₂ šu nin la₂
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D25,sal-la tuku₄-tuku₄-e
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D26,munus zid {d}lamma-ŋu₁₀ alan šu-a gi₄-a-za
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D27,mi₂-bi su₃-ud-še₃ ga-mu-u₈-en-de₃-en
+c.4.02.1,A hymn to Bau's beneficent protective goddess (Bau A),,D28,ga i₃-ti-ir-da-gin₇ lu-ug-ge

@@ -1,0 +1,110 @@
+id_text,text_name,version,l_no,text
+c.5.5.4,The song of the hoe,,1,en-e niŋ₂-du₇-e pa na-an-ga-mi-in-e₃
+c.5.5.4,The song of the hoe,,2,en nam tar-ra-na šu nu-bal-e-de₃
+c.5.5.4,The song of the hoe,,3,{d}en-lil₂ numun kalam-ma ki-ta ed₂-de₃
+c.5.5.4,The song of the hoe,,4,an ki-ta ba₉-re₆-de₃ saŋ na-an-ga-ma-an-šum₂
+c.5.5.4,The song of the hoe,,5,ki an-ta ba₉-re₆-de₃ saŋ na-an-ga-ma-an-šum₂
+c.5.5.4,The song of the hoe,,6,uzu-e₃-a saŋ mu₂-mu₂-de₃
+c.5.5.4,The song of the hoe,,7,dur-an-ki-ka bulug nam-mi-in-la₂
+c.5.5.4,The song of the hoe,,8,{ŋeš}al-e mu-un-ŋar ud al-e₃
+c.5.5.4,The song of the hoe,,9,eš₂-gar₃ mu-un-du₃ nam al-tar-re
+c.5.5.4,The song of the hoe,,10,{ŋeš}al-e {ŋeš}dusu-e a₂ si ba-ab-sa₂-e
+c.5.5.4,The song of the hoe,,11,{d}en-lil₂-le {ŋeš}al-a-ni za₃-mi₂ ba-an-dug₄
+c.5.5.4,The song of the hoe,,12,{ŋeš}al-a-ni kug-sig₁₇-ga saŋ-bi {na₄}za-gin₃-na
+c.5.5.4,The song of the hoe,,13,{ŋeš}al sa la₂-a-ni kug-me kug-sig₁₇-ga
+c.5.5.4,The song of the hoe,,14,{ŋeš}al-a-ni a₂ bulug-ba apin {na₄}za-gin₃-na-kam
+c.5.5.4,The song of the hoe,,15,zu₂-bi gud-si-AŠ bad₃ gal ed₂-de₃-dam
+c.5.5.4,The song of the hoe,,16,en-e {ŋeš}al mu-un-šid nam mi-ni-ib-tar-re
+c.5.5.4,The song of the hoe,,17,ki-in-du men kug saŋ-ŋa₂ mu-ni-in-ŋal₂
+c.5.5.4,The song of the hoe,,18,uzu-e₃-a {ŋeš}al am₃-mi-ni-in-du₃
+c.5.5.4,The song of the hoe,,19,saŋ nam-lu₂-ulu₃ u₃-šub-ba mi-ni-in-ŋar
+c.5.5.4,The song of the hoe,,20,{d}en-lil₂-še₃ kalam-ma-ni ki mu-un-ši-in-dar-re
+c.5.5.4,The song of the hoe,,21,saŋ gig₂-ga-ni-še₃ igi zid mu-ši-in-bar
+c.5.5.4,The song of the hoe,,22,{d}a-nun-na mu-un-na-sug₂-sug₂-ge-eš
+c.5.5.4,The song of the hoe,,23,šu-bi giri₁₇-ba mu-un-ne-ŋal₂
+c.5.5.4,The song of the hoe,,24,{d}en-lil₂ a-ra-zu-a mu-ni-in-huŋ-e-ne
+c.5.5.4,The song of the hoe,,25,uŋ₃ saŋ gig₂-ga al mu-un-da-be₂-ne
+c.5.5.4,The song of the hoe,,26,nin en u₃-tud-de₃ lugal u₃-tud-de₃
+c.5.5.4,The song of the hoe,,27,{d}nin-men-na-ke₄ tud-tud al-ŋa₂-ŋa₂
+c.5.5.4,The song of the hoe,,28,mas-su an ki-a en {d}nu-nam-nir-ra
+c.5.5.4,The song of the hoe,,29,saŋ zid saŋ kal-la mu-ni-ib-sa₄-sa₄
+c.5.5.4,The song of the hoe,,30,saŋ-bi gu dili-a mu-un-ed₂-de₃-a
+c.5.5.4,The song of the hoe,,31,diŋir-re-e-ne-ra šukur₂-še₃ mu-un-dab₅-be₂
+c.5.5.4,The song of the hoe,,32,{d}en-ki-ke₄ {ŋeš}al-a-ni za₃-mi₂ ba-an-dug₄
+c.5.5.4,The song of the hoe,,33,ki-sikil {d}nisaba eš-bar-ra ba-an-gub
+c.5.5.4,The song of the hoe,,34,{ŋeš}al mul {ŋeš}al kug-ba šu mu-un-ne-ŋal₂
+c.5.5.4,The song of the hoe,,35,e₂-kur e₂ {d}en-lil₂-la₂ {ŋeš}al-e ŋar-ra-am₃
+c.5.5.4,The song of the hoe,,36,ud-de₃ al-du₃-e ŋi₆ al-mu₂-mu₂
+c.5.5.4,The song of the hoe,,37,nibru{ki} ki ŋar-ra ama₅ tum-ma-al{ki}-a
+c.5.5.4,The song of the hoe,,38,tum-ma-al {gi}pisaŋ ninda ama {d}nin-lil₂-la₂-kam
+c.5.5.4,The song of the hoe,,39,e₂-mi tum-ma-al{ki}-a niŋ₂ sa₂ dug₄-ga-ta
+c.5.5.4,The song of the hoe,,40,ur-saŋ {d}nin-urta {d}en-lil₂-ra mu-na-da-an-ku₄-ku₄
+c.5.5.4,The song of the hoe,,41,maš₂ gig₂ nesaŋ en-na-ta
+c.5.5.4,The song of the hoe,,42,kug {d}nin-i₃-si-in-na {d}en-lil₂-ra mu-na-da-an-ku₄-ku₄
+c.5.5.4,The song of the hoe,,43,abzu igi piriŋ₃-ŋa₂ me al nu-di-da
+c.5.5.4,The song of the hoe,,44,al-tar lu₂ zid-de₃ en {d}nu-dim₂-mud-e
+c.5.5.4,The song of the hoe,,45,abzu al-du₃-e eridug{ki} al-tar-ra
+c.5.5.4,The song of the hoe,,46,ama diŋir-re-e-ne {d}nin-hur-saŋ-ŋa₂-ke₄
+c.5.5.4,The song of the hoe,,47,ud al-tar en-na keš₃{ki}-a mu-da-an-til₃
+c.5.5.4,The song of the hoe,,48,{d}šul-pa-e₃-a na-nam {ŋeš}al-tar mu-da-an-gub
+c.5.5.4,The song of the hoe,,49,eš₃ e₂-an-na {ŋeš}al-e kug-ga-am₃
+c.5.5.4,The song of the hoe,,50,nin e₂-an-na im-ma-al zid-da
+c.5.5.4,The song of the hoe,,51,{ŋeš}al du₆-du₆-dam {ŋeš}al {u₂}KI.KAL-dam
+c.5.5.4,The song of the hoe,,52,ki zabalam{ki}-a {ŋeš}al lu₂ {d}inana-kam
+c.5.5.4,The song of the hoe,,53,{ŋeš}al nam mi-ni-ib-tar-re sun₄ za-gin₃ ed₂-de₃
+c.5.5.4,The song of the hoe,,54,{ŋeš}al-tar-ra-ni-a {d}utu mu-da-an-gub
+c.5.5.4,The song of the hoe,,55,{ŋeš}al-tar ka tar-ra šul {d}utu-kam
+c.5.5.4,The song of the hoe,,56,nin ŋeštug₂ daŋal-la {d}nisaba-ke₄
+c.5.5.4,The song of the hoe,,57,šudum e₂-an-na-ka {ŋeš}al-tar ba-an-dug₄
+c.5.5.4,The song of the hoe,,58,e₂-ha-mun na-nam {ŋeš}al-tar mu-da-an-gub
+c.5.5.4,The song of the hoe,,59,lugal {ŋeš}al šid-da us₂-a ud zal-la
+c.5.5.4,The song of the hoe,,60,ur-saŋ {d}nin-urta ki-bal-a {ŋeš}al-tar ba-an-gub
+c.5.5.4,The song of the hoe,,61,iri en-še₃ nu-še-ga šu-še₃ al-ŋa₂-ŋa₂
+c.5.5.4,The song of the hoe,,62,an-še₃ ud-dam šeg₁₁ al-gi₄-gi₄
+c.5.5.4,The song of the hoe,,63,ki-še₃ ušumgal-am₃ al-ŋa₂-ŋa₂
+c.5.5.4,The song of the hoe,,64,{d}šara₂ {d}en-lil₂-la₂ dub₃-ba nam-mi-in-tuš
+c.5.5.4,The song of the hoe,,65,niŋ₂ al-dug₄-ga-ni mu-na-da-ab-šum₂-mu
+c.5.5.4,The song of the hoe,,66,šita₂ {ŋeš}tukul ti mar-uru₅ {ŋeš}al am₃-ma-an-dug₄
+c.5.5.4,The song of the hoe,,67,{d}dumu-zid al-lum-lum-ma igi-nim-ma-ka
+c.5.5.4,The song of the hoe,,68,{d}gibil₆ {ŋeš}al-a-ni saŋ an-še₃ mi-ni-il₂
+c.5.5.4,The song of the hoe,,69,{ŋeš}al-e kug-ga-am₃ izi nam-mi-in-la₂
+c.5.5.4,The song of the hoe,,70,{d}a-nun-na al-hul₂-hul₂-le-de₃-eš
+c.5.5.4,The song of the hoe,,71,e₂ {d}ŋeštin-an-na-ka {ŋeš}al-ŋar-surₓ-ra-am₃
+c.5.5.4,The song of the hoe,,72,ama {d}ŋeštin-an-na-ka {ŋeš}al-ŋar-surₓ gu₃ dug₃-ga-ka
+c.5.5.4,The song of the hoe,,73,en-e {ŋeš}al-a-ni gud-gin₇ mur im-ša₄
+c.5.5.4,The song of the hoe,,74,irigal-am₃ {ŋeš}al saŋ ki-a tum₂-ma
+c.5.5.4,The song of the hoe,,75,adₓ {ŋeš}al-e ki-ta tum₂-ma-am₃
+c.5.5.4,The song of the hoe,,76,šul idim an-na šeš-ban₃-da {d}nergal-ka-kam
+c.5.5.4,The song of the hoe,,77,ur-saŋ {d}gilgameš₂ {ŋeš}al-e sa-par₄-am₃
+c.5.5.4,The song of the hoe,,78,dumu {d}nin-sumun₂-ka gašam {ŋeš}ŋisal-e dub-saŋ-ŋa₂
+c.5.5.4,The song of the hoe,,79,{ŋeš}al-e id₂-da kindagal-am₃
+c.5.5.4,The song of the hoe,,80,dag agrun-na-ka {ŋeš}al-e sukkal-am₃
+c.5.5.4,The song of the hoe,,81,hul-ŋal₂ ud nu₂-a dumu {ŋeš}al-me-eš
+c.5.5.4,The song of the hoe,,82,u₄-sa₂ dug₄-ga-ta an-ta u₃-tud-de₃-eš
+c.5.5.4,The song of the hoe,,83,an-še₃ al-ti-ri₂-gu₇ mušen diŋir-ra-am₃
+c.5.5.4,The song of the hoe,,84,ki-še₃ {ŋeš}al-am₃ ŋiš-gi-a ur-ra tir-ra ušumgal-am₃
+c.5.5.4,The song of the hoe,,85,ki me₃-ka dur₁₀-al-lub-am₃
+c.5.5.4,The song of the hoe,,86,ki bad₃-ka {ŋeš}al-lu₅-hab₂-am₃
+c.5.5.4,The song of the hoe,,87,ki {ŋeš}banšur-ra {ŋeš}ma-al-tum-ma
+c.5.5.4,The song of the hoe,,88,ki {ŋeš}gigir-ka {ŋeš}ma-a-a-al-tum-ma
+c.5.5.4,The song of the hoe,,89,e₂ anše-ka {ŋeš}ar-gibil₂-am₃
+c.5.5.4,The song of the hoe,,90,{ŋeš}al-am₃ mu-bi dug₃-ga hur-saŋ-ŋa₂ mu-un-ŋal₂
+c.5.5.4,The song of the hoe,,91,ŋiš hur-saŋ-ŋa₂ {ŋeš}al-la-nu-um-ma
+c.5.5.4,The song of the hoe,,92,šim hur-saŋ-ŋa₂ {ŋeš}ar-ga-nu-um-ma
+c.5.5.4,The song of the hoe,,93,na₄ hur-saŋ-ŋa₂ {na₄}algameš-am₃
+c.5.5.4,The song of the hoe,,94,{ŋeš}al lum-lum-ma {ŋeš}al lam-lam-ma
+c.5.5.4,The song of the hoe,,95,{ŋeš}al še dug₃-ga {ŋeš}al sa-par₄-am₃
+c.5.5.4,The song of the hoe,,96,{ŋeš}al u₃-šub-ba {ŋeš}al saŋ ŋal₂-la-am₃
+c.5.5.4,The song of the hoe,,97,{ŋeš}al-am₃ a₂ nam-ŋuruš-a-kam
+c.5.5.4,The song of the hoe,,98,{ŋeš}al {ŋeš}dusu niŋ₂ iri du₃-du₃-dam
+c.5.5.4,The song of the hoe,,99,e₂ zid al-du₃-e gana₂ zid al-ŋa₂-ŋa₂
+c.5.5.4,The song of the hoe,,100,gan₂-ne₂ zid-de₃ šu daŋal-la-me-en
+c.5.5.4,The song of the hoe,,101,gan₂-ne₂ lugal-bi-ir bal-e
+c.5.5.4,The song of the hoe,,102,gan₂-ne₂ lugal-bi-ir gu₂ nu-ŋar-ra-e
+c.5.5.4,The song of the hoe,,103,{ŋeš}al-e lugal-bi-ir gu₂ mu-na-ab-ŋa₂-ŋa₂
+c.5.5.4,The song of the hoe,,104,{u₂}numun₂ hul {u₂}numun₂ hul-e saŋ dub₂-dub₂-be₂
+c.5.5.4,The song of the hoe,,105,ur₂-ba mu-un-bur₁₂-re pa-bi mu-un-ze₂-e
+c.5.5.4,The song of the hoe,,106,{ŋeš}al-e {u₂}hirin šu-še₃ al-ŋa₂-ŋa₂
+c.5.5.4,The song of the hoe,,107,{ŋeš}al-e ŋiš nam tar-ra a-a {d}en-lil₂-la₂
+c.5.5.4,The song of the hoe,,108,{ŋeš}al-e za₃-mi₂ dug₄-ga
+c.5.5.4,The song of the hoe,,109,{d}nisaba za₃-mi₂

@@ -1,0 +1,37 @@
+id_text,text_name,version,l_no,text
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,1,ur-saŋ en šag₄-tum₂ a-gar₃ ur-mah kur sud-da
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,2,{d}nin-ŋiš-zid-da muš-mah ušumgal-a-da tab-ba
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,3,am gal šen-šen-na gaba guz-a-ba a-ŋi₆
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,4,ama-ni ki aŋ₂ {d}nin-girid₂-da-a šag₄ hi-li-a tud-da
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,5,ubur kug-ga-na ga zid gu₇-a uš₁₁ piriŋ sub-sub-ba
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,6,abzu-a buluŋ₃-ŋa₂ išib mah-am₃ eš₂-da kug šu du₈
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,7,saŋ₅-ŋa₂ dub kalag-ga-ba niŋ₂-zid zu₂ keše₂-da
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,8,lugal am ur₅ un₃ eme si sa₂ niŋ₂-erim₂-e hul gig
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,9,uru₂ idim hur nu-mu-un-gi₄-gi₄ šu suh₃-a di-de₃
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,10,{d}nin-ŋiš-zid-da idim hur nu-mu-un-gi₄-gi₄ šu suh₃-a di-de₃
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,11,erim-erim-ma šu-zu ma-ra-ši-ŋal₂
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,12,sipad saŋ gig₂-ga šid-bi mu-e-zu
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,13,u₈ sila₄-bi kiŋ₂-kiŋ₂-de₃ ma-ra-ši-ŋen
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,14,ud₅-de₃ maš₂-bi ŋidru ud su₃-ra₂ tum₂-tum₂-mu-bi mu-e-zu
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,15,{d}nin-ŋiš-zid-da ŋidru ud su₃-ra₂ tum₂-tum₂-mu-bi mu-e-zu
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,16,lugal šag₄-la₂ sug₄ šag₄-ta e₃-a inim šudu₃-zu šu-a he₂-eb-gi₄
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,17,nam-til₃ u₃-tud za-da ša-mu-un-ŋal₂
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,18,nun hi-li sud-sud {d}nin-ŋiš-zid-da
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,19,barag ki-tuš mah-a tuš-a-ni en diŋir šul a₂ zid-da
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,20,tug₂ mur₁₀ ŋidru za-gin₃ šu u₃-mu-e-ti
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,21,šir₃-nam-šub ad mi-ri-ib-dug₄ ni₂-te-na mi-ni-ib-be₂
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,23,ka lul-la bal-bal-am₃ šag₄ mu-na-te-en-te-en
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,24,šar₂-šar₂-ra ša-mu-šub-be₂-en izi-gin₇ ba-ra-ma₅-ma₅-an
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,25,lugal en šag₄ su₃-ra₂ barag mah-za nam dug₃ mu-ri-in-tar
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,26,diŋir niŋ₂-si-sa₂-e ki aŋ₂-e inim dug₃-bi mu-un-e
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,27,palil gal-zu unken-na he₂-du₇
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,28,lugal ni₂ ri-a ildum₂ ud-bi saŋ-ba du-a
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,29,an-bar an-ta a-ba de-ŋen-ne₂ a-na an-da-sa₂-a
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,30,ur-saŋ me₃ igi ŋal₂ taka₄-a kur un₃-na i₃-a-e₃
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,31,{d}nin-ŋiš-zid-da me₃ igi ŋal₂ taka₄-a kur un₃-na i₃-a-e₃
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,32,lugal ki gu-la a₂ aŋ₂-ŋa₂ tum₂ ki DU-bi tum₂-mu-de₃
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,33,šul diŋir tuku ki a₂ aŋ₂-ŋa₂-ni igi-bi ma-ra-ši-ŋal₂
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,34,lugal ka lal₃ diŋir-re-e-ne {d}en-ki za₃-mi₂
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,35,{d}nin-ŋiš-zid-da dumu {d}nin-a-zu
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,36,a-a {d}en-ki za₃-mi₂
+c.4.19.1,A balbale to Ninŋišzida (Ninŋišzida A),,37,bal-bal-e {d}nin-ŋiš-zid-da-kam

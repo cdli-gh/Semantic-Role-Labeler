@@ -1,0 +1,43 @@
+id_text,text_name,version,l_no,text
+c.4.22.5,An adab to Ninisina (Ninisina E),,A1,an gal-e zid-de₃-eš tud-da
+c.4.22.5,An adab to Ninisina (Ninisina E),,A2,kug {d}nin-isin₂-na nam-šul šag₄-ta de₆
+c.4.22.5,An adab to Ninisina (Ninisina E),,A3,{d}uraš-a dub₃ kug-ga buluŋ₃-ŋa₂
+c.4.22.5,An adab to Ninisina (Ninisina E),,A4,me nam-nin-a gal-le-eš šum₂-ma
+c.4.22.5,An adab to Ninisina (Ninisina E),,A5,ni₂ me-lem₄ da-da-ra-še₃ dug₄-ga
+c.4.22.5,An adab to Ninisina (Ninisina E),,A6,{d}nin-isin₂-na-ra nam-mah-a-ni ga-am₃-dug₄
+c.4.22.5,An adab to Ninisina (Ninisina E),,A7,{d}nin-isin₂-na-X zid-de₃-eš tud-da
+c.4.22.5,An adab to Ninisina (Ninisina E),,A8,kug {d}nin-isin₂-na nam-nin šag₄-ta de₆
+c.4.22.5,An adab to Ninisina (Ninisina E),,A9,{d}uraš-a dub₃ kug-ga buluŋ₃-ŋa₂
+c.4.22.5,An adab to Ninisina (Ninisina E),,A10,me nam-nin-a gal-le-eš šum₂-ma
+c.4.22.5,An adab to Ninisina (Ninisina E),,A11,ni₂ me-lem₄ da-da-ra-še₃ dug₄-ga
+c.4.22.5,An adab to Ninisina (Ninisina E),,A12,{d}nin-isin₂-na-ra nam-mah-a-ni ga-am₃-dug₄
+c.4.22.5,An adab to Ninisina (Ninisina E),,A13,en gal-zu niŋ₂-nam-ma kur gal a-a {d}en-lil₂
+c.4.22.5,An adab to Ninisina (Ninisina E),,A14,saŋ-kal diŋir {d}a-nun-na-ke₄-ne
+c.4.22.5,An adab to Ninisina (Ninisina E),,A15,sun₅-na giri₁₇ šu ŋal₂-la igi zid mu-ši-in-bar
+c.4.22.5,An adab to Ninisina (Ninisina E),,A16,nam-saŋ-tun₃ za-gin₃
+c.4.22.5,An adab to Ninisina (Ninisina E),,A17,diŋir nir-re gal
+c.4.22.5,An adab to Ninisina (Ninisina E),,A18,diŋir gal-gal-e-ne-er šukur₂ šum₂-mu
+c.4.22.5,An adab to Ninisina (Ninisina E),,A19,{d}nin-isin₂-na gal
+c.4.22.5,An adab to Ninisina (Ninisina E),,A20,mar-za nam-nin-a nam-X nam-mah-a-ni
+c.4.22.5,An adab to Ninisina (Ninisina E),,A21,{d}nin-isin₂-na en gal-zu niŋ₂-nam-ma kur gal a-a {d}en-lil₂
+c.4.22.5,An adab to Ninisina (Ninisina E),,A22,saŋ-kal diŋir {d}a-nun-na-ke₄-ne
+c.4.22.5,An adab to Ninisina (Ninisina E),,A23,sun₅-na giri₁₇ šu ŋal₂-la igi zid mu-ši-in-bar
+c.4.22.5,An adab to Ninisina (Ninisina E),,A24,nam-saŋ-tun₃ za-gin₃
+c.4.22.5,An adab to Ninisina (Ninisina E),,A25,diŋir nir-re gal
+c.4.22.5,An adab to Ninisina (Ninisina E),,A26,diŋir gal-gal-e-ne-er šukur₂ šum₂-mu
+c.4.22.5,An adab to Ninisina (Ninisina E),,A27,{d}nin-isin₂-na gal
+c.4.22.5,An adab to Ninisina (Ninisina E),,A28,mar-za nam-nin-a nam-X nam-mah-a-ni
+c.4.22.5,An adab to Ninisina (Ninisina E),,B1,
+c.4.22.5,An adab to Ninisina (Ninisina E),,B2,nun
+c.4.22.5,An adab to Ninisina (Ninisina E),,B3,
+c.4.22.5,An adab to Ninisina (Ninisina E),,B4,nam
+c.4.22.5,An adab to Ninisina (Ninisina E),,B5,
+c.4.22.5,An adab to Ninisina (Ninisina E),,B6,
+c.4.22.5,An adab to Ninisina (Ninisina E),,B7,sa-ŋar-ra-am₃
+c.4.22.5,An adab to Ninisina (Ninisina E),,B8,nin
+c.4.22.5,An adab to Ninisina (Ninisina E),,B9,ŋiš-gi₄-ŋal₂ sa-ŋar-ra-bi-im
+c.4.22.5,An adab to Ninisina (Ninisina E),,B10,munus zid
+c.4.22.5,An adab to Ninisina (Ninisina E),,B11,{d}nin-isin₂-na {d}en-lil₂-la₂
+c.4.22.5,An adab to Ninisina (Ninisina E),,B12,im-mi-in-mah
+c.4.22.5,An adab to Ninisina (Ninisina E),,B13,u₁₈-ru₁₂-bi-im
+c.4.22.5,An adab to Ninisina (Ninisina E),,B14,a-da-ab {d}nin-isin₂-na-kam

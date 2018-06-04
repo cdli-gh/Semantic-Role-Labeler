@@ -1,0 +1,26 @@
+id_text,text_name,version,l_no,text
+c.4.14.2,A balbale to Nanše (Nanše B),,A1,šu du₇-a
+c.4.14.2,A balbale to Nanše (Nanše B),,A2,
+c.4.14.2,A balbale to Nanše (Nanše B),,B1,ku₆ ŋidru šu-na na-mu-un-ŋal₂ me
+c.4.14.2,A balbale to Nanše (Nanše B),,B2,ku₆ {kuš}e-sir₂ ŋiri₃-na na-mu-un-sig₉ me
+c.4.14.2,A balbale to Nanše (Nanše B),,B3,ku₆ izi ab-šag₄-ga na-mu-un-zalag-ge me
+c.4.14.2,A balbale to Nanše (Nanše B),,B4,ku₆ sur₉-re mu-na-an-du₁₂-am₃
+c.4.14.2,A balbale to Nanše (Nanše B),,B5,ku₆ gud-de₃ gu₃ nun mu-na-ab-be₂
+c.4.14.2,A balbale to Nanše (Nanše B),,B6,ku₆ tug₂-ba₁₃ šag₄-ge₄ nam-mi-in-la₂
+c.4.14.2,A balbale to Nanše (Nanše B),,B7,kaš₄-kaš₄{ku₆}-e kaš₄ mu-na-ab-kar-re
+c.4.14.2,A balbale to Nanše (Nanše B),,B8,gur₄-gur₄{ku₆}-e ab mu-na-ab-gur₄-gur₄
+c.4.14.2,A balbale to Nanše (Nanše B),,B9,ŋir₂{ku₆}-e ab mu-na-ab-ŋir₂-re
+c.4.14.2,A balbale to Nanše (Nanše B),,B10,agargara{ku₆} zar-re-eš mu-un-du₈-du₈
+c.4.14.2,A balbale to Nanše (Nanše B),,B11,ku₆ ab-ba mu-na-ab-mu₂-mu₂
+c.4.14.2,A balbale to Nanše (Nanše B),,B12,ku₆ sim{mušen} mu-na-ab-dal-dal-le-ne
+c.4.14.2,A balbale to Nanše (Nanše B),,B13,ga-ša-an-ŋen {ŋeš}ma₂-gur₈-še₃ da-an-u₅ me-e e₂-še₃ da-an-u₅
+c.4.14.2,A balbale to Nanše (Nanše B),,B14,{ŋeš}ma₂ si-bi da-an-u₅ me-e e₂-še₃ da-an-u₅
+c.4.14.2,A balbale to Nanše (Nanše B),,B15,a₂-sumur₃-bi kug-sig₁₇ šim {ŋeš}erin-da
+c.4.14.2,A balbale to Nanše (Nanše B),,B16,ab-ba ša-mu-na-ab-ŋir₂-ŋir₂-re-dam
+c.4.14.2,A balbale to Nanše (Nanše B),,B17,ŋiš-hum-bi iti₆ giri₁₇-zal-am₃
+c.4.14.2,A balbale to Nanše (Nanše B),,B18,ab-ba ša-mu-na-ab-dadag-ge
+c.4.14.2,A balbale to Nanše (Nanše B),,B19,mu-ud-na-ŋu₁₀ mu-un-kud ab-ba-ka
+c.4.14.2,A balbale to Nanše (Nanše B),,B20,u₃-mu-un-dar-a mu-un-kud ab-ba-ka
+c.4.14.2,A balbale to Nanše (Nanše B),,B21,e₂ ud-bi
+c.4.14.2,A balbale to Nanše (Nanše B),,B22,a-a
+c.4.14.2,A balbale to Nanše (Nanše B),,B23,bal-bal-e {d}nanše-kam

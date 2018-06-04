@@ -1,0 +1,33 @@
+id_text,text_name,version,l_no,text
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,A2,diŋir-re-e-ne ud
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,A3,gal sig₇-ga še-er-zid
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,A4,bar-sud-am₃
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,A5,X-ŋal₂-bi nam-nun-na ŋiri₃
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,A6,lugal palil {d}a-nun-na-ke₄-ne nun ka-aš bar zid-da
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,A7,en {d}aš-im₂-babbar an-e {d}en-lil₂-le an-e ši-ma-ab-du₇-un
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,A8,ki aŋ₂ lugal-la aga zid-da gun₃-gun₃-nu
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,A9,un₃-na e₃ an-bar₇-gana₂ ŋi₆ u₃-na ud zalag-gin₇ mu-un-e₃
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,A10,šul {d}suen en dumu kur gal-la {d}nin-lil₂-e tud-da
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,A11,{d}en-ki {d}nin-ki pa-bil₂-ga-ni nam dug₃-ge-eš tar-re
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,A12,ŋiš mu-na-an-šum₂ en zid an-na-ke₄
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,A13,šag₄-ba-tuku-am₃
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,A14,niŋin₂-na-bi saŋ en₃ tar-bi-me-en
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,A15,ki aŋ₂
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,A16,barag gal-la
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,A17,
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,A18,
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,B1,
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,B2,gu-un-gu-nu-um niŋ₂ ha-la us₂
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,B3,iri-zu ki-bi ha-ra-ab-gi₄-gi₄
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,B4,nun lugal he₂-a gaba gi₄ na-an-tuku-tuku
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,B5,ki-en-gi ki-uri sag₂ dug₄-ga ki-bi ha-ra-ab-gi₄-gi₄
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,B6,niŋ₂-du₇-e pa bi₂-i₃-e₃-a gu₂ an-še₃ he₂-zig₃
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,B7,nam-til₃ niŋ₂ dug₃ hu-mu-na-da-sud zi-ni he₂-a-u₃-tud
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,B8,šu-nir kug-sig₁₇-ni gal-le-eš rib-ba me-dim₂-bi a-re₂-eš-še₃
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,B9,ne-saŋ a-a {d}en-lil₂-la₂-še₃ muš₂ nu-tum₂-mu ud-da-ni ha-ra-su₃-ud
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,B10,sa-ŋar-ra-am₃
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,B11,urim₂{ki} iri ul kur nam-nun-na iri me gal-gal-la-za
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,B12,e₂-kiš-nu-ŋal₂ ud nu-dib-be₂ e₂ nu-ša-ra-ge-za
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,B13,gu-un-gu-nu-um šag₄-ge pad₃-da-zu nam-til₃ ud su₃-ra₂ ha-ba-ni-ib-su₃-ud-de₃
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,B14,u₁₈-ru₁₂-bi-im
+c.2.6.2.1,An adab to Nanna for Gungunum (Gungunum A),,B15,a-da-ab {d}nanna-kam

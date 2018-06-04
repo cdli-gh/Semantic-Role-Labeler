@@ -1,0 +1,156 @@
+id_text,text_name,version,l_no,text
+c.2.1.2,The rulers of Lagaš,,1,eŋer a-ma-ru ba-ur₃-ra-ta
+c.2.1.2,The rulers of Lagaš,,2,u₃ gel-le-eŋ₃ kur-ra-ke₄ ba-an-ŋar-ra-ta
+c.2.1.2,The rulers of Lagaš,,3,nam-lu₂-ulu₃ da-re-eš i-ak-a-ba
+c.2.1.2,The rulers of Lagaš,,4,numun nam-lu₂-ulu₃ im-mi-in-taka₄-a-ba
+c.2.1.2,The rulers of Lagaš,,5,uŋ₃ saŋ gig₂-ga ni₂-bi-a im-mi-in-il₂-la-a-ba
+c.2.1.2,The rulers of Lagaš,,6,ud an-ne₂ {d}en-lil₂-le
+c.2.1.2,The rulers of Lagaš,,7,nam-lu₂-ulu₃ mu-bi sa₄-a-ta
+c.2.1.2,The rulers of Lagaš,,8,u₃ nam-ensi₂ in-ŋar-ra-ta
+c.2.1.2,The rulers of Lagaš,,9,nam-lugal aga iri-am₃
+c.2.1.2,The rulers of Lagaš,,10,an-ta nu-ub-ta-an-e₃-a-ba
+c.2.1.2,The rulers of Lagaš,,11,{d}nin-ŋir₂-su {ŋeš}al {ŋeš}mar
+c.2.1.2,The rulers of Lagaš,,12,{gi}dusu {ŋeš}apin-e zi-šag₄-ŋal₂ kalam-ma
+c.2.1.2,The rulers of Lagaš,,13,uŋ₃ sig₁₀-ga šar₂-a nu-ŋar-re-eš-a-ba
+c.2.1.2,The rulers of Lagaš,,14,ud-ba lu₂-tur dan₃-dan₃-na-ka
+c.2.1.2,The rulers of Lagaš,,15,mu ₁₀₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,16,nam-buluŋ₃-ŋa₂-ni-ta mu ₁₀₀ bi₂-in-ak
+c.2.1.2,The rulers of Lagaš,,17,kiŋ₂-gi₄-a li-bi₂-ib₂-gi₄-gi₄
+c.2.1.2,The rulers of Lagaš,,18,i₃-tur i₃-tur-tur i₃-ŋal₂ ama-a-ni
+c.2.1.2,The rulers of Lagaš,,19,udu-a-ni tur₃-re im-ma-an-ri-ri
+c.2.1.2,The rulers of Lagaš,,20,ud-ba a lagaš{ki} du₃
+c.2.1.2,The rulers of Lagaš,,21,ŋir₂-su{ki} šag₄-ŋar i₃-ŋal₂-am₃
+c.2.1.2,The rulers of Lagaš,,22,id₂ nu-un-dun-na-am₃
+c.2.1.2,The rulers of Lagaš,,23,eg₂ pa₅-re šu-luh nu-ak-am₃
+c.2.1.2,The rulers of Lagaš,,24,a-gar₃ gal-gal-e
+c.2.1.2,The rulers of Lagaš,,25,gan₂-ne₂ gana₂ zid-de₃ a he₂-ŋal₂-la nu-un-de₂
+c.2.1.2,The rulers of Lagaš,,26,nam-lu₂-ulu₃ igi-bi im šeŋ₃-šeŋ₃-ŋa₂ in-bar
+c.2.1.2,The rulers of Lagaš,,27,{d}ezina₂ še gu-nu nu-ub-ta-an-mu₂
+c.2.1.2,The rulers of Lagaš,,28,ab-sin₂-na ka-bi nu-un-du₈
+c.2.1.2,The rulers of Lagaš,,29,gu₂ nu-mu-un-il₂
+c.2.1.2,The rulers of Lagaš,,30,an-edin-na nu-un-ur₁₁-ru
+c.2.1.2,The rulers of Lagaš,,31,gu₂ nu-mu-un-il₂
+c.2.1.2,The rulers of Lagaš,,32,kur-kur uŋ₃ lu-a diŋir-re-ne-er
+c.2.1.2,The rulers of Lagaš,,33,{kaš}ulušin kurun
+c.2.1.2,The rulers of Lagaš,,34,kurun dug₃
+c.2.1.2,The rulers of Lagaš,,35,nu-mu-un-ne-eb₂-bal-bal
+c.2.1.2,The rulers of Lagaš,,36,a-šag₄ gal {ŋeš}apin-ta
+c.2.1.2,The rulers of Lagaš,,37,nu-mu-un-ne-eb-ur₁₁-ru
+c.2.1.2,The rulers of Lagaš,,48,id₂
+c.2.1.2,The rulers of Lagaš,,49,a-šag₄-bi
+c.2.1.2,The rulers of Lagaš,,50,id₂ dun-ne-de₃
+c.2.1.2,The rulers of Lagaš,,51,eg₂ pa₅-re šu-luh ak-de₃
+c.2.1.2,The rulers of Lagaš,,52,a-gar₃ gal-gal-e
+c.2.1.2,The rulers of Lagaš,,53,gan₂-ne₂ gana₂ zid-de₃
+c.2.1.2,The rulers of Lagaš,,54,{ŋeš}al {ŋeš}mar {gi}dusu {ŋeš}apin-e
+c.2.1.2,The rulers of Lagaš,,55,zi-šag₄-ŋal₂ kalam-ma
+c.2.1.2,The rulers of Lagaš,,56,uŋ₃-še₃ im-ta-an-ŋar-re-eš
+c.2.1.2,The rulers of Lagaš,,57,ud-bi-a še ed₃-de₃-da
+c.2.1.2,The rulers of Lagaš,,58,ŋeštug₂-ga-a-ni na-an-gub
+c.2.1.2,The rulers of Lagaš,,59,ki-sikil-še₃ igi-ni-še₃ ba-ši-in-gub-ba-aš
+c.2.1.2,The rulers of Lagaš,,60,ud ŋi₆-bi-ta ki-ulutim-bi-še₃
+c.2.1.2,The rulers of Lagaš,,61,saŋ-ba ba-ši-in-il₂
+c.2.1.2,The rulers of Lagaš,,62,{d}ezina₂ še-numun-bi mu-mu₂-a
+c.2.1.2,The rulers of Lagaš,,63,ki-a bi₂-in-za-za-aš im-mi-ni-in-ed₃-de₃-eš
+c.2.1.2,The rulers of Lagaš,,64,{d}ezina₂ še gu-nu mu-mu₂-a
+c.2.1.2,The rulers of Lagaš,,65,
+c.2.1.2,The rulers of Lagaš,,66,X-in-il₂
+c.2.1.2,The rulers of Lagaš,,67,
+c.2.1.2,The rulers of Lagaš,,99,mu i₃-ak
+c.2.1.2,The rulers of Lagaš,,100,igi huš
+c.2.1.2,The rulers of Lagaš,,101,{id₂}PU₃ mu-un-dun
+c.2.1.2,The rulers of Lagaš,,102,mu ₂₇₆₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,103,en-a₂-ki-gal-la-gub-ba
+c.2.1.2,The rulers of Lagaš,,104,diŋir-ra-ni {d}X
+c.2.1.2,The rulers of Lagaš,,105,{id₂}niŋin₆{ki}-ŋiš-tuku-am₃ mu-un-dun
+c.2.1.2,The rulers of Lagaš,,106,mu ₁₂₀₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,107,ud-ba mu sar nu-me-a
+c.2.1.2,The rulers of Lagaš,,108,id₂ nu-un-dun {gi}dusu nu-un-il₂
+c.2.1.2,The rulers of Lagaš,,109,ud-bi-a a₂ lugal
+c.2.1.2,The rulers of Lagaš,,110,uŋ₃ ŋiš tag-ga kug-sig₁₇ si sa₂-a
+c.2.1.2,The rulers of Lagaš,,111,ed₃-de₃-ra huš-na huš-a
+c.2.1.2,The rulers of Lagaš,,112,ba-ni-in-ŋar
+c.2.1.2,The rulers of Lagaš,,113,tag-ga kabar zid-de₃
+c.2.1.2,The rulers of Lagaš,,114,kalam-še₃ im-ta-an-e₃
+c.2.1.2,The rulers of Lagaš,,115,a suhur ab-ba abrig
+c.2.1.2,The rulers of Lagaš,,116,saŋ-eš₂ mu-ni-rig₇
+c.2.1.2,The rulers of Lagaš,,117,en-{d}nin-ŋir₂-su-ki-aŋ₂
+c.2.1.2,The rulers of Lagaš,,118,dumu en-a₂-ki-gal-la-gub-ba
+c.2.1.2,The rulers of Lagaš,,119,mu ₁₃₂₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,120,en-{d}en-lil₂-le-ki-aŋ₂
+c.2.1.2,The rulers of Lagaš,,121,dumu en-{d}nin-ŋir₂-su-ki-aŋ₂
+c.2.1.2,The rulers of Lagaš,,122,mu ₁₈₀₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,123,ur-{d}ba-u₂ dumu en-{d}en-lil₂-le-ki-aŋ₂
+c.2.1.2,The rulers of Lagaš,,124,mu ₉₀₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,125,a₂-gal diŋir-ra-ni {d}ig-alim
+c.2.1.2,The rulers of Lagaš,,126,mu ₆₆₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,127,KU-e dumu a₂-gal-la-ke₄
+c.2.1.2,The rulers of Lagaš,,128,mu ₁₂₀₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,129,ama-alim dumu KU-e
+c.2.1.2,The rulers of Lagaš,,130,mu ₆₀₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,131,
+c.2.1.2,The rulers of Lagaš,,132,mu i₃-ak
+c.2.1.2,The rulers of Lagaš,,133,
+c.2.1.2,The rulers of Lagaš,,134,mu i₃-ak
+c.2.1.2,The rulers of Lagaš,,135,
+c.2.1.2,The rulers of Lagaš,,136,mu i₃-ak
+c.2.1.2,The rulers of Lagaš,,137,
+c.2.1.2,The rulers of Lagaš,,138,
+c.2.1.2,The rulers of Lagaš,,141,{id₂}X mu-un-dun
+c.2.1.2,The rulers of Lagaš,,142,mu i₃-ak
+c.2.1.2,The rulers of Lagaš,,145,{id₂}mah {id₂}X
+c.2.1.2,The rulers of Lagaš,,146,{id₂}piriŋ₃-gin₇-ŋen {id₂}X
+c.2.1.2,The rulers of Lagaš,,147,{id₂}piriŋ₃ ka {id₂}lugal-ka
+c.2.1.2,The rulers of Lagaš,,148,{id₂}gana₂-hi-li-an-na {id₂}TE-X
+c.2.1.2,The rulers of Lagaš,,149,{id₂}{d}nanše-pad₃-da mu-un-dun
+c.2.1.2,The rulers of Lagaš,,150,a-gar₃ gal-gal ₁-e en₃-bi tar-re-de₃
+c.2.1.2,The rulers of Lagaš,,151,pa₅ a dug₄-ga AMAR.TI.AN mu-un-dun
+c.2.1.2,The rulers of Lagaš,,152,mu ₂₂₂₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,153,ur-{d}nanše dumu
+c.2.1.2,The rulers of Lagaš,,154,e₂-sirara₆ e₂ šag₄ hul₂-la-ni
+c.2.1.2,The rulers of Lagaš,,155,niŋin₆{ki} iri ki aŋ₂-ŋa₂-ni mu-du₃-a
+c.2.1.2,The rulers of Lagaš,,156,mu ₁₀₈₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,157,an-ne₂-tum₂ dumu ur-{d}nanše-ke₄
+c.2.1.2,The rulers of Lagaš,,158,ki alim-ma-na diŋir-re-e-ne
+c.2.1.2,The rulers of Lagaš,,159,mu-un-gub-ba saŋ-tun₃ {d}en-lil₂ gal
+c.2.1.2,The rulers of Lagaš,,160,diŋir-ra-ni {d}šul-utul₁₀
+c.2.1.2,The rulers of Lagaš,,161,mu ₆₉₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,162,dumu an-ne₂-tum₂
+c.2.1.2,The rulers of Lagaš,,163,mu ₃₆₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,164,en-en₃-tar-zid diŋir-ra-ni {d}meš₃-an-DU
+c.2.1.2,The rulers of Lagaš,,165,numun ud re-a iri-da mu₂-a
+c.2.1.2,The rulers of Lagaš,,166,mu ₉₉₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,167,X-en-da-in-si dumu en-en₃-tar-zid
+c.2.1.2,The rulers of Lagaš,,168,{id₂}ur-mah-ban₃-da {id₂}tab-ta-ku₃-ŋal₂
+c.2.1.2,The rulers of Lagaš,,169,mu-un-dun diŋir-a-ni {d}meš₃-an-DU
+c.2.1.2,The rulers of Lagaš,,170,lugal-a-ni {d}nin-ŋir₂-su
+c.2.1.2,The rulers of Lagaš,,171,e₂-a-ni du₃-da mu-un-na-dug₄
+c.2.1.2,The rulers of Lagaš,,172,mu ₉₆₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,173,en-{d}en-lil₂-le-su mu ₆₀₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,174,en-X-X dumu en-{d}en-lil₂-le-su
+c.2.1.2,The rulers of Lagaš,,175,diŋir-ra-ni {d}nin-a-zu mu ₆₆₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,176,X-du₈ mu ₁₁₁₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,177,puzur₄-{d}nin-lil₂ mu X šu-ši ₁ i₃-ak
+c.2.1.2,The rulers of Lagaš,,178,en-{d}meš₃-an-DU dumu puzur₄-{d}nin-lil₂-la₂
+c.2.1.2,The rulers of Lagaš,,179,diŋir-ra-ni mu ₂ šu-ši i₃-ak
+c.2.1.2,The rulers of Lagaš,,180,da-du dumu en-{d}meš₃-an-DU mu ₁₆₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,181,tug₂-gur dumu da-du mu ₁₆₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,182,mu ₁₂₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,183,puzur₄-{d}ma-ma dub-sar {d}nin-ki
+c.2.1.2,The rulers of Lagaš,,184,diŋir-ra-ni {d}za-za-ru mu i₃-ak
+c.2.1.2,The rulers of Lagaš,,185,LAM.KU-niŋ₂-gen₆-na šag₄-tam puzur₄-{d}ma-ma
+c.2.1.2,The rulers of Lagaš,,186,lu₂ bad₃ ŋir₂-su{ki}
+c.2.1.2,The rulers of Lagaš,,187,e₂-gal ti-ra-aš₂ ki lagaš{ki} mu-du₃-a
+c.2.1.2,The rulers of Lagaš,,188,mu ₂₈₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,189,he₂-en-ŋal₂ dumu LAM.KU-niŋ₂-gen₆-na
+c.2.1.2,The rulers of Lagaš,,190,diŋir-ra-ni {d}pa₄-bil-saŋ mu ₁₄₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,191,dumu he₂-en-ŋal₂ mu ₁₄₄ i₃-ak
+c.2.1.2,The rulers of Lagaš,,192,ur-{d}nin-mar-ki-ka dub-sar um-mi-a
+c.2.1.2,The rulers of Lagaš,,193,saŋ dur₂-ra diŋir-ra-ni {d}ha-ia₃ {d}nisaba
+c.2.1.2,The rulers of Lagaš,,194,mu ₂₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,195,ur-{d}nin-ŋir₂-su dumu ur-{d}nin-mar-ki-ka mu X šu-ši i₃-ak
+c.2.1.2,The rulers of Lagaš,,196,ur-{d}ba-u₂ dub-sar ur-{d}nin-ŋir₂-su-ka
+c.2.1.2,The rulers of Lagaš,,197,unken-na mu ₃₀ i₃-ak
+c.2.1.2,The rulers of Lagaš,,198,gu₃-de₂-a šeš-ban₃-da ur-{d}ba-u₂-ka
+c.2.1.2,The rulers of Lagaš,,199,dumu ama-na dumu ad-da nu-me-a mu i₃-ak
+c.2.1.2,The rulers of Lagaš,,200,e₂-dub-ba sar-ra {d}nisaba za₃-mi₂

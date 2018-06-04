@@ -1,0 +1,109 @@
+id_text,text_name,version,l_no,text
+c.1.3.5,Inana and An,,A1,
+c.1.3.5,Inana and An,,A2,kug {d}inana
+c.1.3.5,Inana and An,,A3,ur-saŋ šul {d}utu
+c.1.3.5,Inana and An,,A4,ŋi₆ u₃-na
+c.1.3.5,Inana and An,,A5,e₂-an-na
+c.1.3.5,Inana and An,,A6,{d}inana-ke₄
+c.1.3.5,Inana and An,,A7,an gal
+c.1.3.5,Inana and An,,B1,
+c.1.3.5,Inana and An,,B2,e₂-an-na an-da ba-ta-ed₂-de₃
+c.1.3.5,Inana and An,,B3,nin an-na-ke₄ an gal kar-re-de₃ ŋeštug₂-ga-ni ba-an-gub
+c.1.3.5,Inana and An,,B4,{d}inana-ke₄ an gal kar-re-de₃ ŋeštug₂-ga-ni ba-an-gub
+c.1.3.5,Inana and An,,B5,an-na-ta an gal kar-re-de₃ ŋeštug₂-ga-ni ba-an-gub
+c.1.3.5,Inana and An,,B6,šul {d}utu an gal kar-re-de₃ ŋeštug₂-ga-ni ba-an-gub
+c.1.3.5,Inana and An,,B7,šeš-a-ni ur-saŋ šul {d}utu kug {d}inana-ke₄ gu₃ mu-un-na-de₂-e
+c.1.3.5,Inana and An,,B8,inim ga-ra-ab-dug₄ inim-ŋu₁₀-še₃ ŋeštug₂-zu
+c.1.3.5,Inana and An,,B9,maš-ŋu₁₀ inim ga-ra-ab-dug₄ inim-ŋu₁₀-še₃ ŋeštug₂-zu
+c.1.3.5,Inana and An,,B10,šeš-a-ni ur-saŋ šul {d}utu kug {d}inana-ke₄ mu-un-na-ni-ib₂-gi-gi
+c.1.3.5,Inana and An,,B11,nin₉-ŋu₁₀ zi an-na nam-erim₂ mu-un-pad₃
+c.1.3.5,Inana and An,,B12,zi IM.ŠEŠ an du-ru-un mu-un-pad₃
+c.1.3.5,Inana and An,,B13,zi {ŋeš}gu-za-ŋa₂ nam-mah-ŋa₂ mu-un-pad₃
+c.1.3.5,Inana and An,,B14,inim nin₉-ŋu₁₀ ma-ab-be₂-a ŋe₂₆-e ha-ba-da-ab-še-ge
+c.1.3.5,Inana and An,,B15,inim kug {d}inana-ke₄ ma-ab-be₂-a ŋe₂₆-e ha-ba-da-ab-še-ge
+c.1.3.5,Inana and An,,B16,ki-sikil {d}inana-ke₄ šeš-a-ni ur-saŋ šul {d}utu mu-un-na-ni-ib₂-gi-gi
+c.1.3.5,Inana and An,,B17,nitalam-ŋu₁₀ ma-a-ra ŋiš ma-an-dug₄ ne mu-un-su-ub
+c.1.3.5,Inana and An,,B18,al mu-na-an-dug₄ nu-mu-na-ze₂-eŋ₃
+c.1.3.5,Inana and An,,B19,in-da-ze₂-eŋ₃ an mah-e e₂-an-na nu-mu-na-ze₂-eŋ₃
+c.1.3.5,Inana and An,,B20,an me-en-de₃-na ki me-en-de₃-na an-da e₂-an-na ha-ba-da-kar-Xbr
+c.1.3.5,Inana and An,,B21,ud mu-un-dab₅-ba-ta gu₃ i-ra-de₂-e ŋiš tuku-ma-ab
+c.1.3.5,Inana and An,,B22,bar tam-ma-ab a₂ aŋ₂ za-e igi du₈-ma-ab
+c.1.3.5,Inana and An,,B23,X-dug₄ ud im-hul {tum₉}u₁₈-lu
+c.1.3.5,Inana and An,,C1,
+c.1.3.5,Inana and An,,C2,{sa}šu₂-uš-gal
+c.1.3.5,Inana and An,,C3,ku-kur
+c.1.3.5,Inana and An,,C4,šu-KU₆
+c.1.3.5,Inana and An,,C5,kug {d}inana kur₉
+c.1.3.5,Inana and An,,C6,{ŋeš}ma₂-gur₈
+c.1.3.5,Inana and An,,C7,eš₂
+c.1.3.5,Inana and An,,C8,{tum₉}u₁₈-lu {tum₉}u₁₈-lu-bi im-ma-ta-an-zig₃
+c.1.3.5,Inana and An,,C9,im-hul im-hul-bi im-ma-ta-an-zig₃
+c.1.3.5,Inana and An,,C10,an su₃-ra₂
+c.1.3.5,Inana and An,,C11,{d}HI-en-HI-sag₉
+c.1.3.5,Inana and An,,C12,šu-KU₆-de₃
+c.1.3.5,Inana and An,,C13,gi šu₂-šu₂ gi-zi gal
+c.1.3.5,Inana and An,,C14,{d}inana
+c.1.3.5,Inana and An,,C15,šul {d}utu
+c.1.3.5,Inana and An,,C16,{ŋeš}ma₂-gur₈
+c.1.3.5,Inana and An,,C17,
+c.1.3.5,Inana and An,,C18,
+c.1.3.5,Inana and An,,D1,ŋe₂₆-e
+c.1.3.5,Inana and An,,D2,ŋiri₃
+c.1.3.5,Inana and An,,D3,
+c.1.3.5,Inana and An,,D4,lu₂
+c.1.3.5,Inana and An,,D5,{d}a-dag-bi-ir-e kug {d}inana-ke₄ mu-un-na-ni-ib₂-gi-gi
+c.1.3.5,Inana and An,,D6,nin-ŋu₁₀
+c.1.3.5,Inana and An,,D7,nam-diŋir-zu
+c.1.3.5,Inana and An,,D8,šu-KU₆-de₃ {tum₉}u₁₈-lu
+c.1.3.5,Inana and An,,D9,nin-ŋu₁₀ {ŋeš}ma₂-gur₈-X ha-ba-u₅-u₅
+c.1.3.5,Inana and An,,D10,{tum₉}u₁₈-lu {tum₉}u₁₈-lu-bi ha-ma-ta-an-zig₃
+c.1.3.5,Inana and An,,D11,im-hul im-hul-bi ha-ma-ta-an-zig₃
+c.1.3.5,Inana and An,,D12,{ŋeš}ma₂-gur₈ {ŋeš}ma₂ tur gi ambar-a ba-an-su
+c.1.3.5,Inana and An,,D13,{sa}šu₂-uš-gal-la-ta he₂-en-da-an-te
+c.1.3.5,Inana and An,,D14,ku-kur-ta a-ab zig₃-X e₃-ta
+c.1.3.5,Inana and An,,D15,a nam-mi-ib₂-ra hul ba-ak-e
+c.1.3.5,Inana and An,,D16,kug {d}inana-ke₄ šu-KU₆-de₃ inim mu-na-ni-ib-gi₄-gi₄
+c.1.3.5,Inana and An,,D17,ud-da e₂-an-na za-e mu-ni-in-pad₃
+c.1.3.5,Inana and An,,D18,ki-bi ŋe₂₆-e u₆ ba-ni-in-e-a
+c.1.3.5,Inana and An,,D19,a-ra₂ sig-ge mu-e-ni-dug₄
+c.1.3.5,Inana and An,,D20,{d}a-dag-bi-ir-e kug {d}inana-ke₄ inim mu-na-ni-ib-gi₄-gi₄
+c.1.3.5,Inana and An,,D21,gi šu₂-šu₂ gi-zi gal he₂-en-da-an-RU
+c.1.3.5,Inana and An,,D22,e₂-an-na an-ta ed₂-da X-ra-pad₃-de₃
+c.1.3.5,Inana and An,,D23,{d}a-dag-bi-ir {d}en-lil₂-la₂
+c.1.3.5,Inana and An,,D24,gi šu₂-šu₂ gi-zi gal mu-un-da-an-RU
+c.1.3.5,Inana and An,,D25,e₂-an-na an-ta ed₂-da-bi u₆ mu-ni-in-dug₄
+c.1.3.5,Inana and An,,D26,{d}šul-a₂-zid-da unud an-na-ke₄ samanₓ šu ba-ni-in-dab₅
+c.1.3.5,Inana and An,,D27,utah-he-ta a-ba-da-an-e₃ u₂-dug₄-ba sa₂ nam-me
+c.1.3.5,Inana and An,,D28,nam-me ki-šar₂-ra ba-an-sud-e
+c.1.3.5,Inana and An,,D29,{id₂}u₂-la-a a nir a-ba-naŋ-a-ta
+c.1.3.5,Inana and An,,D30,{d}inana-ke₄ ŋiri₂ im-ma-da-an-gu₄-ud kun-bi im-ma-da-kud
+c.1.3.5,Inana and An,,D31,ur-mah-gin₇ gu₃ mir-a ba-ni-in-ra za-pa-aŋ₂ mu-da-an-sed₄-e
+c.1.3.5,Inana and An,,D32,im-da-an-šub im-mi-in-ge-en
+c.1.3.5,Inana and An,,D33,za-pa-aŋ₂ ŋiš bi₂-in-tuku-a-ta
+c.1.3.5,Inana and An,,D34,ba-ni-de₂ im agarin₃
+c.1.3.5,Inana and An,,D35,šub-be₂ ba-da-an-nu₂
+c.1.3.5,Inana and An,,D38,nin gal an-na-ke₄ inim-bi an-ra šu-a ba-an-gi
+c.1.3.5,Inana and An,,D39,an-ne₂ inim-bi ŋiš ba-an-tuku-a-ta
+c.1.3.5,Inana and An,,D40,haš₂-ni bi₂-in-ra u₃-u₈ dug₄-ge bi₂-in-si
+c.1.3.5,Inana and An,,D41,dumu-ŋu₁₀ a-na-am₃ bi₂-in-ak ŋe₂₆-e bi₂-in-dirig-ga
+c.1.3.5,Inana and An,,D42,{d}inana a-na-am₃ bi₂-in-ak ŋe₂₆-e bi₂-in-dirig-ga
+c.1.3.5,Inana and An,,D43,i₃-ne-eš₂-ta ud-da šid-bi ba-da-tur ud ŋi₆-bi-a ba-da-bur₂
+c.1.3.5,Inana and An,,D44,ud-da-ta en-nu-uŋ₃-bi ₃-am₃ ud ŋi₆-bi-a ba-an-da-sa₂
+c.1.3.5,Inana and An,,D45,i₃-ne-eš₂ {d}utu e₃-a ne₃ he₂-en-na-nam
+c.1.3.5,Inana and An,,D46,diŋir nam-lu₂-ulu₃ mu-un-dim₂-ma dam dam bar gid₂-de₃ nam-mu-da-ab-be₂
+c.1.3.5,Inana and An,,D47,an-ne₂ kug {d}inana-ke₄ igi bi₂-in-du₈-am₃
+c.1.3.5,Inana and An,,D48,ni₂ bur₂ ne-en-nam ni₂ bur₂ ne-en-nam nu-du₃-a-ba
+c.1.3.5,Inana and An,,D49,an-ne₂ {d}inana-ke₄ ni₂ bur₂ ne-en-nam ni₂ bur₂ ne-en-nam nu-du₃-a-ba
+c.1.3.5,Inana and An,,D50,lu₂ dumu-ŋu₁₀ ba-su nu-mu-e-dug₄-ga e₂-an-na-kam im-da-an-kar-re-en
+c.1.3.5,Inana and An,,D51,{d}inana-ke₄ ba-su nu-mu-e-dug₄-ga e₂-an-na-kam im-da-an-kar-re-en
+c.1.3.5,Inana and An,,D52,e₂-an-na an-gin₇ he₂-ge-en zag saga₁₁ nam-ba-an-tuku
+c.1.3.5,Inana and An,,D53,gu₂-kiŋ₂ kalam-ma mu-bi he₂-pad₃-de₃ gaba-ri na-an-tuku-tuku
+c.1.3.5,Inana and An,,D54,nam-lu₂-ulu₃ uŋ₃ šar₂-ra-ba ŋiri₃-ni-še₃ he₂-en-na-ab-sig₁₀-ge
+c.1.3.5,Inana and An,,D55,e-ne-eš₂ {d}utu ud ne-en-a ur₅ he₂-en-na-nam-ma-am₃
+c.1.3.5,Inana and An,,D56,e₂-an-na an-da im-da-an-kar im-mi-in-ge-en
+c.1.3.5,Inana and An,,D57,ud-da {d}inana-ke₄ e₂-an-na e₂ ki nin-am₃ im-me
+c.1.3.5,Inana and An,,D58,in-nin-e ki u₃-ma gub-bu-ba šu sa₂ dug₄-ga-am₃
+c.1.3.5,Inana and An,,D59,{d}inana-ke₄ ki u₃-ma gub-bu-ba šu sa₂ dug₄-ga-am₃
+c.1.3.5,Inana and An,,D60,e₂-an-na an-da im-da-kar-re-en ki dug₃-ga im-me
+c.1.3.5,Inana and An,,D61,{d}nun-gal-e-ne dirig-ba
+c.1.3.5,Inana and An,,D62,ki-sikil {d}inana za₃-mi₂-zu mah-am₃

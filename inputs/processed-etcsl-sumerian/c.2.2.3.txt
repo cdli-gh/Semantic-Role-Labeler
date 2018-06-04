@@ -1,0 +1,525 @@
+id_text,text_name,version,l_no,text
+c.2.2.3,The lament for Sumer and Urim,,1,ud šu bal ak-de₃ ŋiš-hur ha-lam-e-de₃
+c.2.2.3,The lament for Sumer and Urim,,2,ud-de₃ mar-uru₅-gin₇ teš₂-bi i₃-gu₇-e
+c.2.2.3,The lament for Sumer and Urim,,3,me ki-en-gi-ra šu bal ak-de₃
+c.2.2.3,The lament for Sumer and Urim,,4,bal sag₉-ga e₂-ba gi₄-gi₄-de₃
+c.2.2.3,The lament for Sumer and Urim,,5,uru₂ gul-gul-lu-de₃ e₂ gul-gul-lu-de₃
+c.2.2.3,The lament for Sumer and Urim,,6,tur₃ gul-gul-lu-de₃ amaš tab-tab-be₂-de₃
+c.2.2.3,The lament for Sumer and Urim,,7,gud-bi tur₃-bi-a nu-gub-bu-de₃
+c.2.2.3,The lament for Sumer and Urim,,8,udu-bi amaš-bi-a nu-daŋal-e-de₃
+c.2.2.3,The lament for Sumer and Urim,,9,id₂-bi a mun₄-na tum₃-u₃-de₃
+c.2.2.3,The lament for Sumer and Urim,,10,gan₂-ne₂ zid-de₃ {u₂}KI.KAL mu₂-mu₂-de₃
+c.2.2.3,The lament for Sumer and Urim,,11,edin-e u₂-a-nir mu₂-mu₂-de₃
+c.2.2.3,The lament for Sumer and Urim,,12,ama dumu-ni-ir ki nu-kiŋ₂-kiŋ₂-de₃
+c.2.2.3,The lament for Sumer and Urim,,13,ad-da a dam-ŋu₁₀ nu-di-de₃
+c.2.2.3,The lament for Sumer and Urim,,14,dam tur ur₂-ra nu-hul₂-le-de₃
+c.2.2.3,The lament for Sumer and Urim,,15,dumu tur dub₃-ba nu-buluŋ₃-ŋe₂₆-e-de₃
+c.2.2.3,The lament for Sumer and Urim,,16,emeda-e u₅-a nu-di-de₃
+c.2.2.3,The lament for Sumer and Urim,,17,nam-lugal-la ki-tuš-bi kur₂-ru-de₃
+c.2.2.3,The lament for Sumer and Urim,,18,eš-bar kiŋ₂-e šu la₂-e-de₃
+c.2.2.3,The lament for Sumer and Urim,,19,nam-lugal kalam-ma kar-kar-re-de₃
+c.2.2.3,The lament for Sumer and Urim,,20,igi-bi ki-šar₂-ra ŋa₂-ŋa₂-de₃
+c.2.2.3,The lament for Sumer and Urim,,21,inim dug₄-ga an {d}en-lil₂-la₂-ta ŋiš-hur ha-lam-e-de₃
+c.2.2.3,The lament for Sumer and Urim,,22,ud an-ne₂ kur-kur-ra saŋ-ki ba-da-an-gid₂-da-ba
+c.2.2.3,The lament for Sumer and Urim,,23,{d}en-lil₂-le igi-ni ki kur₂-ra ba-an-ŋar-ra-a-ba
+c.2.2.3,The lament for Sumer and Urim,,24,{d}nin-tur₅-re niŋ₂-dim₂-dim₂-ma-ni zag bi₂-in-tag-ga-a-ba
+c.2.2.3,The lament for Sumer and Urim,,25,{d}en-ki-ke₄ {id₂}idigna {id₂}buranun-na aš₂ bi₂-in-bal-a-ba
+c.2.2.3,The lament for Sumer and Urim,,26,{d}utu har-ra-an kaskal-e nam ba-an-kud-da-a-ba
+c.2.2.3,The lament for Sumer and Urim,,27,ki-en-gi-ra me-bi ha-lam-e-de₃ ŋiš-hur-bi kur₂-ru-de₃
+c.2.2.3,The lament for Sumer and Urim,,28,urim₅{ki}-ma me nam-lugal-la bal-bi sud-su₃-ud-de₃
+c.2.2.3,The lament for Sumer and Urim,,29,dumu nun-na e₂-kiš-nu-ŋal₂-la-na šu pe-el-la₂ di-de₃
+c.2.2.3,The lament for Sumer and Urim,,30,{d}nanna uŋ₃ u₈-gin₇ lu-a-na igi-te-en-bi si-il-le-de₃
+c.2.2.3,The lament for Sumer and Urim,,31,urim₅{ki} eš₃ nidba gal-gal-la nidba-bi kur₂-ru-de₃
+c.2.2.3,The lament for Sumer and Urim,,32,uŋ₃-bi ki-tuš-ba nu-tuš-u₃-de₃ ki-erim₂-e šum₂-mu-de₃
+c.2.2.3,The lament for Sumer and Urim,,33,šimaški{ki} elam{ki} lu₂-kur₂-ra ki-tuš-bi tuš-u₃-de₃
+c.2.2.3,The lament for Sumer and Urim,,34,sipad-bi e₂-gal-la ni₂-te-na lu₂-erim₂-e dab₅-be₂-de₃
+c.2.2.3,The lament for Sumer and Urim,,35,{d}i-bi₂-{d}suen kur elam{ki}-ma-še₃ ŋiš-bur₂-ra tum₂-u₃-de₃
+c.2.2.3,The lament for Sumer and Urim,,36,iši za-bu{ki} gaba a-ab-ba-ka-ta zag an-ša₄-an{ki}-na-še₃
+c.2.2.3,The lament for Sumer and Urim,,37,sim{mušen} e₂-bi ba-ra-an-dal-a-gin₇ iri-ni-še₃ nu-gur-re-de₃
+c.2.2.3,The lament for Sumer and Urim,,38,{id₂}idigna {id₂}buranun-na gu₂ tab ₂-a-ba u₂ hul mu₂-mu₂-de₃
+c.2.2.3,The lament for Sumer and Urim,,39,kaskal-la ŋiri₃ nu-ŋa₂-ŋa₂-de₃ har-ra-an nu-kiŋ₂-kiŋ₂-de₃
+c.2.2.3,The lament for Sumer and Urim,,40,uru₂ a₂-dam ki ŋar-ŋar-ra-ba du₆-du₆-ra šid-de₃
+c.2.2.3,The lament for Sumer and Urim,,41,uŋ₃ saŋ gig₂ lu-lu-a-ba ŋiš-haš-e ak-de₃
+c.2.2.3,The lament for Sumer and Urim,,42,gan₂-ne₂ zid-de₃ {ŋeš}al nu-ru-gu₂-de₃ numun ki nu-tag-de₃
+c.2.2.3,The lament for Sumer and Urim,,43,e-el-lu šir₃ gud sub₂-sub₂-ba edin-na nu-di-de₃
+c.2.2.3,The lament for Sumer and Urim,,44,{e₂}tur₃-ra i₃ gara₂ nu-ak-de₃ šurum ki nu-tag-e-de₃
+c.2.2.3,The lament for Sumer and Urim,,45,sipad-de₃ gi-šukur-ra amaš kug-ga šu nu-ni₁₀-ni₁₀-de₃
+c.2.2.3,The lament for Sumer and Urim,,46,i-lu-lam-ma dun₅-dun₅ {dug}šakir₃-ra amaš-a nu-di-de₃
+c.2.2.3,The lament for Sumer and Urim,,47,edin-na maš₂-anše tur-re-de₃ niŋ₂-zi-ŋal₂ til-le-de₃
+c.2.2.3,The lament for Sumer and Urim,,48,niŋ₂-ur₂-₄ {d}šakkan₂-na-ke₄ šurum ki nu-tag-ge-de₃
+c.2.2.3,The lament for Sumer and Urim,,49,ambar-ra šu ki-in-dar di-de₃ numun nu-tuku-tuku-de₃
+c.2.2.3,The lament for Sumer and Urim,,50,ŋiš-gi gi saŋ hul mu₂-mu₂-de₃ hab₂-ba til-e-de₃
+c.2.2.3,The lament for Sumer and Urim,,51,pu₂-{ŋeš}kiri₆ u₂ gibil-la₂ nu-me-a ni₂-ba šu₂-šu₂-de₃
+c.2.2.3,The lament for Sumer and Urim,,52,urim₅{ki} am gal u₃-na gub-ba ni₂-bi-ta nir-ŋal₂
+c.2.2.3,The lament for Sumer and Urim,,53,iri numun i-i nam-en nam-lugal-la ki sikil-la du₃-a
+c.2.2.3,The lament for Sumer and Urim,,54,gud-gin₇ saman ul₄-la-bi šub-bu-de₃ gu₂ ki-še₃ la₂-e-de₃
+c.2.2.3,The lament for Sumer and Urim,,55,an {d}en-lil₂ {d}en-ki {d}nin-hur-saŋ-ŋa₂-ke₄ nam-bi ha-ba-an-tar-re-eš
+c.2.2.3,The lament for Sumer and Urim,,56,nam-tar-ra-bi niŋ₂ nu-kur₂-ru-dam a-ba šu mi-ni-ib₂-bal-e
+c.2.2.3,The lament for Sumer and Urim,,57,inim dug₄-ga an {d}en-lil₂-la₂-kam saŋ a-ba-a mu-un-ŋa₂-ŋa₂
+c.2.2.3,The lament for Sumer and Urim,,58,an-ne₂ ki-en-gi ki-tuš-ba bi₂-in-hu-luh uŋ₃-e ni₂ bi₂-in-te
+c.2.2.3,The lament for Sumer and Urim,,59,{d}en-lil₂-le ud gig-ga mu-un-zal iri-a me bi₂-ib-ŋar
+c.2.2.3,The lament for Sumer and Urim,,60,{d}nin-tur₅-re ama₅ kalam-ma-ka {ŋeš}ig-šu-ur₂ im-mi-in-de₆
+c.2.2.3,The lament for Sumer and Urim,,61,{d}en-ki-ke₄ {id₂}idigna {id₂}buranun-na a im-ma-da-an-keše₂
+c.2.2.3,The lament for Sumer and Urim,,62,{d}utu niŋ₂-si-sa₂ inim gen₆-na ka-ta ba-da-an-kar
+c.2.2.3,The lament for Sumer and Urim,,63,{d}inana-ke₄ me₃ šen-šen-na ki-bal-e ba-an-šum₂
+c.2.2.3,The lament for Sumer and Urim,,64,{d}nin-ŋir₂-su-ke₄ ki-en-gi ga-gin₇ ur-e ba-an-de₂
+c.2.2.3,The lament for Sumer and Urim,,65,kalam-ma ga-ba-ra-hum im-ma-an-šub niŋ₂ lu₂ nu-zu-a
+c.2.2.3,The lament for Sumer and Urim,,66,niŋ₂ igi nu-ŋal₂-la inim nu-ŋal₂-la niŋ₂ šu nu-teŋ₃-ŋe₂₆-dam
+c.2.2.3,The lament for Sumer and Urim,,67,kur-kur-re ni₂ te-a-bi-a šu suh₃-a ba-ab-dug₄
+c.2.2.3,The lament for Sumer and Urim,,68,iri{ki} diŋir-bi ba-da-gur sipad-bi ba-da-ha-lam
+c.2.2.3,The lament for Sumer and Urim,,69,nam-lu₂-ulu₃ ni₂ te-bi-a zi gig mu-un-pa-an-pa-an
+c.2.2.3,The lament for Sumer and Urim,,70,ud-de₃ šu-ne-ne ba-du₃-du₃ ud nu-mu-un-ne-gur-re
+c.2.2.3,The lament for Sumer and Urim,,71,ud gi₄-a mu-un-ne-tuku-am₃ ud dur₂-bi-še₃ nu-ŋen
+c.2.2.3,The lament for Sumer and Urim,,72,{d}en-lil₂ sipad saŋ gig₂-ga-ke₄ a-na bi₂-in-ak-a-bi
+c.2.2.3,The lament for Sumer and Urim,,73,{d}en-lil₂-le e₂ zid gul-gul-lu-de₃ lu₂ zid tur-re-de₃
+c.2.2.3,The lament for Sumer and Urim,,74,dumu lu₂ zid-da-ke₄ dumu-saŋ-e igi hul dim₂-me-de₃
+c.2.2.3,The lament for Sumer and Urim,,75,ud-ba {d}en-lil₂-le gu-ti-um{ki} kur-ta im-ta-an-ed₃
+c.2.2.3,The lament for Sumer and Urim,,76,DU-bi a-ma-ru {d}en-lil₂-la₂ gaba gi₄ nu-tuku-am₃
+c.2.2.3,The lament for Sumer and Urim,,77,tum₉ gal edin-na edin-e im-si igi-še₃ mu-un-ne-ŋen
+c.2.2.3,The lament for Sumer and Urim,,78,edin niŋ₂-daŋal-la-ba sag₃ ba-ab-dug₄ lu₂ nu-mu-ni-in-dib-be₂
+c.2.2.3,The lament for Sumer and Urim,,79,ud ku₁₀-ku₁₀-ga šika bar₇-bar₇-ra sa-še₃ ba-ab-de₆
+c.2.2.3,The lament for Sumer and Urim,,80,ud babbar-re izi-ŋi₆-edin-na ba-da-an-tab-tab
+c.2.2.3,The lament for Sumer and Urim,,80A,ud-mud-e giri₁₇ i₃-dub-dub saŋ i₃-dab₅-dab₅
+c.2.2.3,The lament for Sumer and Urim,,80B,ud {ŋeš}gana₂-ur₃ an-ta ed₂-de₃ iri {ŋeš}al-e ba-ab-ra-ah
+c.2.2.3,The lament for Sumer and Urim,,81,ud-ba an ba-dub₂ ki ba-sag₃ igi ud-da ba-lib₄
+c.2.2.3,The lament for Sumer and Urim,,82,an ba-suh₃-suh₃ ŋissu ba-an-la₂ kur-re mur mi-ni-ib-ša₄
+c.2.2.3,The lament for Sumer and Urim,,83,{d}utu an-ur₂-ra i-in-nu₂ sahar kur-ra zal-am₃
+c.2.2.3,The lament for Sumer and Urim,,84,{d}nanna an-pa-a i-in-nu₂ uŋ₃-e ni₂ bi₂-in-te
+c.2.2.3,The lament for Sumer and Urim,,85,iri{ki}-ba diŋir-X ki-tuš ba-ab-be₂-de₃ bar-ta ba-da-gub
+c.2.2.3,The lament for Sumer and Urim,,86,kur-kur-re iri{ki} lu₂-bi nu-til-la i-im-sar-sar-re-ne
+c.2.2.3,The lament for Sumer and Urim,,87,ŋiš mah ur₂-bi-a mu-un-bal-e {ŋeš}tir-ra guru₅ i
+c.2.2.3,The lament for Sumer and Urim,,88,pu₂-{ŋeš}kiri₆ gurun-ba mu-un-BU-BU {ŋeš}ligima i₃-bur₁₂-re
+c.2.2.3,The lament for Sumer and Urim,,89,buru₁₄ išin-bi-a mu-un-su-su {d}ezina₂ i₃-tur-re
+c.2.2.3,The lament for Sumer and Urim,,90,saŋ X-in-bal-bal-e
+c.2.2.3,The lament for Sumer and Urim,,91,ba-da-kar-ra-bi ba-ab-DU
+c.2.2.3,The lament for Sumer and Urim,,92,{u₂}numun₂ ba-da-kar-ra-bi {u₂}numun₂ ba-ab-DU
+c.2.2.3,The lament for Sumer and Urim,,93,zar-re-eš mu-un-du₈-du₈ zar-re-eš mu-un-sal-sal-e-eš
+c.2.2.3,The lament for Sumer and Urim,,94,{id₂}buranun-na ad₆ i₃-la₂-a {ŋeš}tukul-e saŋ gaz i₃-ak-e
+c.2.2.3,The lament for Sumer and Urim,,95,ad-da dam-a-ni-ta ba-da-gur dam-ŋu₁₀ nu im-me
+c.2.2.3,The lament for Sumer and Urim,,96,ama dumu-ni-ta ba-da-gur dumu-ŋu₁₀ nu im-me
+c.2.2.3,The lament for Sumer and Urim,,97,e₂ zid-da-ke₄ e₂-a-ni mu-un-šub e₂-ŋu₁₀ nu im-me
+c.2.2.3,The lament for Sumer and Urim,,98,niŋ₂-gur₁₁ tuku niŋ₂-gur₁₁-ra-ni-ta ŋiri₃ kur₂ ba-ra-an-dab₅
+c.2.2.3,The lament for Sumer and Urim,,99,ud-ba nam-lugal kalam-ma-ka šu pe-el-la₂ ba-ab-dug₄
+c.2.2.3,The lament for Sumer and Urim,,100,aga men saŋ-ŋa₂ ŋal₂-la-bi teš₂-bi ba-ra-an-kur₂
+c.2.2.3,The lament for Sumer and Urim,,101,kur-kur-re dub₃-us₂ dili dab₅-ba-bi igi-te-en-bi ba-si-il
+c.2.2.3,The lament for Sumer and Urim,,102,urim₅{ki} eš₃ nidba gal-gal-la-ka nidba-bi ba-ab-kur₂
+c.2.2.3,The lament for Sumer and Urim,,103,{d}nanna uŋ₃ u₈-gin₇ lu-a-na šu bal ba-da-ab-ak
+c.2.2.3,The lament for Sumer and Urim,,104,lugal-bi e₂-gal ni₂-te-na zi im-ma-ni-in-gi₄
+c.2.2.3,The lament for Sumer and Urim,,105,{d}i-bi₂-{d}suen e₂-gal ni₂-te-na i-si-iš ba-ni-in-la₂-la₂
+c.2.2.3,The lament for Sumer and Urim,,106,e₂-nam-til₃-la šag₄ hul₂-la-ka-na er₂ gig mu-un-še₈-še₈
+c.2.2.3,The lament for Sumer and Urim,,107,a-ma-ru ki al ak-e šu im-ur₃-ur₃-re
+c.2.2.3,The lament for Sumer and Urim,,108,ud gal-gin₇ ki-a mur mi-ni-ib-ša₄ a-ba-a ba-ra-e₃
+c.2.2.3,The lament for Sumer and Urim,,109,iri gul-gul-lu-de₃ e₂ gul-gul-lu-de₃
+c.2.2.3,The lament for Sumer and Urim,,110,lu₂-lul lu₂ zid-da an-ta nu₂-u₃-de₃
+c.2.2.3,The lament for Sumer and Urim,,111,urin lu₂-lul-e lu₂ zid-ra ugu-a-na DU-še₃
+c.2.2.3,The lament for Sumer and Urim,,112,ki-ru-gu₂ ₁-a-kam
+c.2.2.3,The lament for Sumer and Urim,,113,ud-de₃ mar-uru₅-gin₇ teš₂-bi i₃-gu₇-e
+c.2.2.3,The lament for Sumer and Urim,,114,ŋiš-gi₄-ŋal₂ ki-ru-gu₂-da-kam
+c.2.2.3,The lament for Sumer and Urim,,115,e₂ kiš{ki}-a hur-saŋ-kalam-ma-ka šu hul ba-e-dug₄
+c.2.2.3,The lament for Sumer and Urim,,116,{d}za-ba₄-ba₄ ki-tuš ki aŋ₂-ŋa₂-ni ŋiri₃ kur₂ ba-ra-an-dab₅
+c.2.2.3,The lament for Sumer and Urim,,117,ama {d}ba-u₂ e₂-iri-kug-ga-na er₂ gig mu-un-še₈-še₈
+c.2.2.3,The lament for Sumer and Urim,,118,a iri gul-la e₂ gul-la-ŋu₁₀ gig-ga-bi im-me
+c.2.2.3,The lament for Sumer and Urim,,119,
+c.2.2.3,The lament for Sumer and Urim,,122,a iri gul-la e₂ gul-la-ŋu₁₀ gig-ga-bi im-me
+c.2.2.3,The lament for Sumer and Urim,,123,ka-zal-lu{ki} iri ni₂-ba lu-a šu suh₃-a ba-ab-dug₄
+c.2.2.3,The lament for Sumer and Urim,,124,{d}nu-muš-da-ke₄ iri ki-tuš ki aŋ₂-ŋa₂-ni ŋiri₃ kur₂ ba-ra-an-dab₅
+c.2.2.3,The lament for Sumer and Urim,,125,nitalam-a-ni {d}nam-ra-at munus sag₉-ga-a er₂ in-še₈-še₈-e
+c.2.2.3,The lament for Sumer and Urim,,126,a uru₂ gul-la e₂ gul-la-ŋu₁₀ gig-ga-bi im-me
+c.2.2.3,The lament for Sumer and Urim,,127,id₂-bi šag₄-sug₄-ga i₃-ŋal₂ a nu-un-de₂
+c.2.2.3,The lament for Sumer and Urim,,128,id₂ {d}en-ki-ke₄ nam ku₅-ra₂-gin₇ ka-bi-a ba-uš₂
+c.2.2.3,The lament for Sumer and Urim,,129,a-šag₄-ga še gu-nu nu-ŋal₂ uŋ₃-e nu-gu₇-e
+c.2.2.3,The lament for Sumer and Urim,,130,pu₂-{ŋeš}kiri₆-bi gir₄-gin₇ ba-hur-hur edin-bi sag₂ ba-ab-di
+c.2.2.3,The lament for Sumer and Urim,,131,maš₂-anše niŋ₂-ur₂-₄ niŋ₂-zi-ŋal₂ nu-mu-un-bu-e
+c.2.2.3,The lament for Sumer and Urim,,132,niŋ₂-ur₂-₄ {d}šakkan₂-ke₄ ni₂ nu-mu-ni-ib-te-en-te-en
+c.2.2.3,The lament for Sumer and Urim,,133,{d}lugal-mar₂-da-ke₄ iri-ni-ta bar-ta ba-da-gub
+c.2.2.3,The lament for Sumer and Urim,,134,{d}nin-zu-an-na ki-tuš ki aŋ₂-ŋa₂-ni ŋiri₃ kur₂ ba-ra-an-dab₅
+c.2.2.3,The lament for Sumer and Urim,,135,a iri gul-la e₂ gul-la-ŋu₁₀ gig-ga-bi im-me
+c.2.2.3,The lament for Sumer and Urim,,136,i₃-si-in{ki} eš₃ kar-re nu-me-a a-e ba-e-dar
+c.2.2.3,The lament for Sumer and Urim,,137,{d}nin-isin₂-na ama kalam-ma-ke₄ er₂ gig mu-un-še₈-še₈
+c.2.2.3,The lament for Sumer and Urim,,138,a iri gul-la e₂ gul-la-ŋu₁₀ gig-ga-bi im-me
+c.2.2.3,The lament for Sumer and Urim,,139,{d}en-lil₂-le dur-an-ki-ka {ŋeš}mitum₂-a ba-an-sag₃
+c.2.2.3,The lament for Sumer and Urim,,140,{d}en-lil₂-le iri-ni eš₃ nibru{ki}-a a-nir ba-ab-ŋar
+c.2.2.3,The lament for Sumer and Urim,,141,ama {d}nin-lil₂ nin ki-ur₃-ra-ke₄ er₂ gig mu-un-še₈-še₈
+c.2.2.3,The lament for Sumer and Urim,,142,a iri gul-la e₂ gul-la-ŋu₁₀ gig-ga-bi im-me
+c.2.2.3,The lament for Sumer and Urim,,143,keš₃{ki} an-edin-na dili du₃-a šu lil₂-la₂ ba-ab-dug₄
+c.2.2.3,The lament for Sumer and Urim,,144,adab{ki}-bu e₂ id₂-de₃ la₂-a re ki-bal-še₃ ba-ab-dug₄
+c.2.2.3,The lament for Sumer and Urim,,145,muš kur-ra-ke₄ ki-nu₂ ba-ni-ib-ŋar ki-bal-še₃ ba-ab-dug₄
+c.2.2.3,The lament for Sumer and Urim,,146,gu-ti-um{ki} šag₄ ba-ni-ib-bal-bal numun ba-ni-ib-i-i
+c.2.2.3,The lament for Sumer and Urim,,147,{d}nin-tur₅-re niŋ₂-dim₂-dim₂-ma-ni-še₃ er₂ gig mu-un-še₈-še₈
+c.2.2.3,The lament for Sumer and Urim,,148,a iri gul-la e₂ gul-la-ŋu₁₀ gig-ga-bi im-me
+c.2.2.3,The lament for Sumer and Urim,,149,ki zabalam{ki}-a gi-gun₄-na kug-ga šu lil₂-la₂ ba-ab-dug₄
+c.2.2.3,The lament for Sumer and Urim,,150,unug{ki}-ta {d}inana ba-da-an-kar ki-erim₂-e ba-ab-ŋen
+c.2.2.3,The lament for Sumer and Urim,,151,e₂-an-na eš₃ ŋi₆-par₄ kug-ga erim₂-e igi i-ni-in-bar
+c.2.2.3,The lament for Sumer and Urim,,152,ŋi₆-par₄ kug nam-en-na-ba šu ba-e-la₂-la₂
+c.2.2.3,The lament for Sumer and Urim,,153,en-bi ŋi₆-par₄-ta ba-da-an-kar ki-erim₂-e ba-ab-de₆
+c.2.2.3,The lament for Sumer and Urim,,154,a iri gul-la e₂ gul-la-ŋu₁₀ gig-ga-bi im-me
+c.2.2.3,The lament for Sumer and Urim,,155,umma{ki} šeg₁₂-kur-ša₃-ba-ke₄ ud gig-ga ba-e-dal
+c.2.2.3,The lament for Sumer and Urim,,156,{d}šara₂ e₂-mah ki-tuš ki aŋ₂-ŋa₂-ni ŋiri₃ kur₂ ba-ra-an-dab₅
+c.2.2.3,The lament for Sumer and Urim,,157,{d}nin-mul-e iri{ki} hul-a-na er₂ gig mu-un-še₈-še₈
+c.2.2.3,The lament for Sumer and Urim,,158,iri{ki}-ŋu₁₀ la-la-bi lu₂ nu-un-gi₄-a-ŋu₁₀ gig-ga-bi im-me
+c.2.2.3,The lament for Sumer and Urim,,159,ŋir₂-su{ki} iri{ki} ur-saŋ-ŋe₂₆-e-ne-ke₄ im ŋir₂-e ba-ab-dug₄
+c.2.2.3,The lament for Sumer and Urim,,160,{d}nin-ŋir₂-su-ke₄ e₂-ninnu-ta ŋiri₃ kur₂ ba-ra-an-dab₅
+c.2.2.3,The lament for Sumer and Urim,,161,ama {d}ba-u₂ e₂-iri-kug-ga-na er₂ gig mu-un-še₈-še₈
+c.2.2.3,The lament for Sumer and Urim,,162,a iri gul-la e₂ gul-la-ŋu₁₀ gig-ga-bi im-me
+c.2.2.3,The lament for Sumer and Urim,,163,ud-ba inim ud-dam al-du₇-du₇ šag₄-bi a-ba-a mu-un-zu
+c.2.2.3,The lament for Sumer and Urim,,164,inim {d}en-lil₂-la₂ zid-da-aš gel-le-eŋ₃-de₃ gab₂-bu zu-zu-de₃
+c.2.2.3,The lament for Sumer and Urim,,165,{d}en-lil₂ lu₂ nam tar-tar-re-de₃ a-na bi₂-in-ak-a-ba
+c.2.2.3,The lament for Sumer and Urim,,166,{d}en-lil₂-le elam{ki} lu₂-kur₂-ra kur-ta im-ta-an-e₃
+c.2.2.3,The lament for Sumer and Urim,,167,{d}nanše dumu-gir₁₅ iri bar-ra mu-un-na-tuš-am₃
+c.2.2.3,The lament for Sumer and Urim,,168,{d}nin-mar-ki-ra eš₃ gu₂-ab-ba-ka izi im-ma-da-an-te
+c.2.2.3,The lament for Sumer and Urim,,169,kug {na₄}za-gin₃-bi ma₂ gal-gal-e bal-še₃ i₃-ak-e
+c.2.2.3,The lament for Sumer and Urim,,170,nin niŋ₂-gur₁₁-ra-ni hul-lu til₃-la-am₃ kug {d}nin-mar-ki-ke₄
+c.2.2.3,The lament for Sumer and Urim,,171,ud-ba ud ka izi-gin₇ bar₇-ra-am₃ im-ma-da-ab-tar-re
+c.2.2.3,The lament for Sumer and Urim,,172,ki lagaš{ki} elam{ki} šu-ni-a im-ma-ši-in-gi₄
+c.2.2.3,The lament for Sumer and Urim,,173,ud-bi-a nin-e ud-da-a-ni sa₂ nam-ga-mu-ni-ib-dug₄
+c.2.2.3,The lament for Sumer and Urim,,174,{d}ba-u₂ lu₂-ulu₃-gin₇ ud-da-a-ni sa₂ nam-ga-mu-ni-ib-dug₄
+c.2.2.3,The lament for Sumer and Urim,,175,me-li-e-a ud-de₃ šu-ni-a im-ma-ši-in-gi₄
+c.2.2.3,The lament for Sumer and Urim,,176,ud uru₂ gul-gul-e šu-ni-a im-ma-ši-in-gi₄
+c.2.2.3,The lament for Sumer and Urim,,177,ud e₂ gul-gul-e šu-ni-a im-ma-ši-in-gi₄
+c.2.2.3,The lament for Sumer and Urim,,178,{d}dumu-zid-abzu e₂-bi ki-nu-nir-ša₃-ba-ke₄ ni₂ im-ma-da-an-te
+c.2.2.3,The lament for Sumer and Urim,,179,ki-nu-nir-ša₃{ki} iri nam-dumu-gir₁₅-ra-ka-ni kar-kar-re-de₃ ba-ab-dug₄
+c.2.2.3,The lament for Sumer and Urim,,180,{d}nanše iri-ni niŋin₆{ki}-a kur-re ba-ab-ŋar
+c.2.2.3,The lament for Sumer and Urim,,181,sirara₃{ki} ki-tuš ki aŋ₂-ŋa₂-ni hul-ŋal₂-e ba-an-šum₂
+c.2.2.3,The lament for Sumer and Urim,,182,a iri gul-la e₂ gul-la-ŋu₁₀ gig-ga-bi im-me
+c.2.2.3,The lament for Sumer and Urim,,183,ŋi₆-par₄ kug nam-en-na-ba šu ba-e-la₂-la₂
+c.2.2.3,The lament for Sumer and Urim,,184,en-bi ŋi₆-par₄-ta ba-da-an-kar ki-erim₂-e ba-ab-de₆
+c.2.2.3,The lament for Sumer and Urim,,185,gu₂ id₂-nun-na-{d}nanna-ka a₂ dugud ba-ši-in-de₆
+c.2.2.3,The lament for Sumer and Urim,,186,maš-gana₂-maš-gana₂ e₂-danna {d}nanna-ka tur₃ dugud-gin₇ ba-gul
+c.2.2.3,The lament for Sumer and Urim,,187,lu₂-kar-ra-bi maš kar-ra-gin₇ ur im-me-da
+c.2.2.3,The lament for Sumer and Urim,,188,ga-eš{ki} ga-gin₇ ur-re ba-an-de₂ i₃-gul-gul-lu-ne
+c.2.2.3,The lament for Sumer and Urim,,189,alan dim₂-ma ulutim₂ sag₉-ga-bi im-ze₂-er-ze₂-re-e-ne
+c.2.2.3,The lament for Sumer and Urim,,190,a iri gul-la e₂ gul-la-ŋu₁₀ gig-ga-bi im-me
+c.2.2.3,The lament for Sumer and Urim,,191,ŋi₆-par₄ kug nam-en-na-ba šu ba-e-la₂-la₂
+c.2.2.3,The lament for Sumer and Urim,,192,en-bi ŋi₆-par₄-ta ba-da-an-kar ki-erim₂-e ba-ab-de₆
+c.2.2.3,The lament for Sumer and Urim,,193,barag an-na-da gid₂-da-bi a-nir ba-da-ab-sa₂
+c.2.2.3,The lament for Sumer and Urim,,194,{ŋeš}gu-za an-na-bi nu-ub-gub saŋ me-te-a-aš li-bi₂-ib-ŋal₂
+c.2.2.3,The lament for Sumer and Urim,,195,{ŋeš}ŋišnimbar-gin₇ gu₂-guru₅ ba-ab-dug₄ teš₂-bi ba-ra-an-kad₄
+c.2.2.3,The lament for Sumer and Urim,,196,aš-šu{ki} e₂ id₂-de₃ la₂-a re a-e ba-da-ab-bu
+c.2.2.3,The lament for Sumer and Urim,,197,niŋ₂-erim₂ nu-dib {d}nanna-ka lu₂-erim₂-e ba-an-dib
+c.2.2.3,The lament for Sumer and Urim,,198,e₂ ur₅-re-am₃ a-na-am₃ ab-ak
+c.2.2.3,The lament for Sumer and Urim,,199,e₂-pu-uh₂-ru-um-ma šag₄-sug₄-ga ba-ab-ŋar
+c.2.2.3,The lament for Sumer and Urim,,200,ki-abrig{ki}-ga ab₂ lu amar lu-a re tur₃ dugud-gin₇ ba-gul
+c.2.2.3,The lament for Sumer and Urim,,201,{d}nin-gublaga-ke₄ ŋa₂-bur-ta ŋiri₃ kur₂ ba-ra-an-dab₅
+c.2.2.3,The lament for Sumer and Urim,,202,{d}nin-i₃-gara₂-ke₄ ni₂-te-na er₂ gig mu-un-še₈-še₈
+c.2.2.3,The lament for Sumer and Urim,,203,a iri gul-la e₂ gul-la-ŋu₁₀ gig-ga-bi im-me
+c.2.2.3,The lament for Sumer and Urim,,204,ŋi₆-par₄ kug nam-en-na-ba šu ba-e-la₂-la₂
+c.2.2.3,The lament for Sumer and Urim,,205,en-bi ŋi₆-par₄-ta ba-da-an-kar ki-erim₂-e ba-ab-de₆
+c.2.2.3,The lament for Sumer and Urim,,206,{d}nin-a-zu e₂-gid₂-da-ke₄ {ŋeš}tukul ub-ba i-ni-in-gub
+c.2.2.3,The lament for Sumer and Urim,,207,{d}nin-hur-saŋ e₂-nu-tur-ra-ke₄ ud hul ba-an-da-dal
+c.2.2.3,The lament for Sumer and Urim,,208,tum₁₂{mušen}-gin₇ ab-lal₃-ta ba-da-an-dal edin-na bar bi₂-ib-gub
+c.2.2.3,The lament for Sumer and Urim,,209,a iri{ki} gul-la e₂ gul-la-ŋu₁₀ gig-ga-bi im-me
+c.2.2.3,The lament for Sumer and Urim,,210,ŋiš-ban₃-da e₂ er₂-re ŋal₂-la re gi er₂-ra ba-an-gul
+c.2.2.3,The lament for Sumer and Urim,,211,{d}nin-ŋiš-zid-da ŋiš-ban₃-da ŋiri₃ kur₂ ba-ra-an-dab₅
+c.2.2.3,The lament for Sumer and Urim,,212,{d}a₂-zi-mu₂-a nin iri-a-ke₄ er₂ gig mu-un-še₈-še₈
+c.2.2.3,The lament for Sumer and Urim,,213,a uru₂ gul-la e₂ gul-la-ŋu₁₀ gig-ga-bi im-me
+c.2.2.3,The lament for Sumer and Urim,,214,ud-bi-a u₁₈-lu lu₂ ŋi₆-a ba-an-dur₂-ru-ne-eš
+c.2.2.3,The lament for Sumer and Urim,,215,kuara{ki} hul-hul-lu-de₃ lu₂ ŋi₆-a ba-an-dur₂-ru-ne-eš
+c.2.2.3,The lament for Sumer and Urim,,216,{d}nin-e₂-HA-ma ni₂-te-na er₂ gig mu-un-še₈-še₈
+c.2.2.3,The lament for Sumer and Urim,,217,a uru₂ gul-la e₂ gul-la-ŋu₁₀ gig-ga-bi im-me
+c.2.2.3,The lament for Sumer and Urim,,218,{d}asar-lu₂-hi ul₄-ul₄-la tug₂ ba-an-mur₁₀ LUL.KU mu-un-DU
+c.2.2.3,The lament for Sumer and Urim,,219,{d}lugal-ban₃-da ki-tuš ki aŋ₂-ŋa₂-ni ŋiri₃ kur₂ ba-ra-an-dab₅
+c.2.2.3,The lament for Sumer and Urim,,219A,{d}nin-sumun₂
+c.2.2.3,The lament for Sumer and Urim,,220,a uru₂ gul-la e₂ gul-la-ŋu₁₀ gig-ga-bi im-me
+c.2.2.3,The lament for Sumer and Urim,,221,eridug{ki} a gal-la dirig-ga a naŋ-e ba-am₃-u-gun₃
+c.2.2.3,The lament for Sumer and Urim,,222,bar-ba edin-lil₂-e du₃-a
+c.2.2.3,The lament for Sumer and Urim,,223,lu₂ zid ki-lul-la
+c.2.2.3,The lament for Sumer and Urim,,224,{d}ka-he₂-ŋal₂-la {d}igi-he₂-ŋal₂-la
+c.2.2.3,The lament for Sumer and Urim,,225,ŋuruš-me-en ud nu-gul-la-me-en mu-X-gul-X
+c.2.2.3,The lament for Sumer and Urim,,226,ud nu-gul-la hi-li nu-til-la-me-en
+c.2.2.3,The lament for Sumer and Urim,,227,{ŋeš}taškarin-gin₇ ba-sag₉-ga-me-eš i₃-sag₃-ge-de₃-en-de₃-en
+c.2.2.3,The lament for Sumer and Urim,,228,igi gun₃-gun₃-me-eš i₃-sag₃-ge-de₃-en-de₃-en
+c.2.2.3,The lament for Sumer and Urim,,229,alan-gin₇ kuš₃-kuš₃-a de₂-a-me-eš i₃-sag₃-ge-de₃-en-de₃-en
+c.2.2.3,The lament for Sumer and Urim,,230,gu-ti-um{ki} lu₂ ha-lam-ma-ke₄ me-ze₂-er-ze₂-re-ne
+c.2.2.3,The lament for Sumer and Urim,,231,a-a {d}en-ki-ra abzu eridug{ki}-še₃ šu-a ba-en-de₃-en-gi₄
+c.2.2.3,The lament for Sumer and Urim,,232,a-na im-me-en-da-na a-na bi₂-in-tah-e-da-na
+c.2.2.3,The lament for Sumer and Urim,,233,a-na im-me-en-da-na a-na bi₂-in-tah-e-da-na
+c.2.2.3,The lament for Sumer and Urim,,234,eridug{ki}-ga-ta he₂-em-da-sar-da-na
+c.2.2.3,The lament for Sumer and Urim,,235,ud-da ha-ba-gub-bu-da-na ŋissu
+c.2.2.3,The lament for Sumer and Urim,,236,ŋi₆-a ha-ba-gub-bu-da-na ud-de₃ ba-ra-an-tuku
+c.2.2.3,The lament for Sumer and Urim,,237,ud-da gub saŋ sag₃-ge-me-a a-na šu ba-ni-ti-en-de₃-en
+c.2.2.3,The lament for Sumer and Urim,,238,ŋi₆-da gub u₃ nu-ku-me-a a-na u₂-gu me-de₂-de₃-en-de₃-en
+c.2.2.3,The lament for Sumer and Urim,,239,{d}en-ki-ke₄ uru₂-zu nam ha-ba-da-an-kud ki-erim₂-e ha-ba-an-šum₂
+c.2.2.3,The lament for Sumer and Urim,,240,me-en-de₃-en eridug{ki}-ta ŋal₂-la-da a-na-aš mu-e-de₃-la₂-e-ne
+c.2.2.3,The lament for Sumer and Urim,,241,{ŋeš}ŋišnimbar-gin₇ šu nu-dug₄-ga-me-a a-na-aš mu-e-gul-gul-lu-ne
+c.2.2.3,The lament for Sumer and Urim,,242,{ŋeš}ma₂ gibil-gin₇ sa bil₂-la₂ nu-ak-e a-na-aš mu-e-ze₂-er-ze₂-re-ne
+c.2.2.3,The lament for Sumer and Urim,,243,{d}en-ki-ke₄ igi-ni ki kur₂-ra ba-an-ŋar-ra-ba
+c.2.2.3,The lament for Sumer and Urim,,244,nam-tag dugud-da-ke₄ ŋiš hul mu-un-ne-tag
+c.2.2.3,The lament for Sumer and Urim,,245,ba-da-an-zig₃-ge-eš-a ildum₂-ba mu-un-sa₄-eš
+c.2.2.3,The lament for Sumer and Urim,,246,{d}en-ki-ke₄ eridug{ki}-ga-ta ŋiri₃ kur₂ ba-ra-an-dab₅
+c.2.2.3,The lament for Sumer and Urim,,247,{d}dam-gal-nun-na ama e₂-mah-a er₂ gig mu-un-še₈-še₈
+c.2.2.3,The lament for Sumer and Urim,,248,a uru₂ gul-la e₂ gul-la-ŋu₁₀ gig-ga-bi im-me
+c.2.2.3,The lament for Sumer and Urim,,249,ŋi₆-par₄ kug nam-en-na-ba šu ba-e-la₂-la₂
+c.2.2.3,The lament for Sumer and Urim,,250,en-bi ŋi₆-par₄-ta ba-da-an-kar ki-erim₂-e ba-ab-de₆
+c.2.2.3,The lament for Sumer and Urim,,251,urim₅{ki}-ma lu₂ u₂-še₃ nu-ŋen lu₂ a-še₃ nu-ŋen
+c.2.2.3,The lament for Sumer and Urim,,252,u₂-še₃ ŋen-bi u₂-ta ba-ŋen hur nu-um-mi-ib-gur-ru
+c.2.2.3,The lament for Sumer and Urim,,253,a-še₃ ŋen-bi a-ta ba-ŋen hur nu-um-mi-ib-gur-ru
+c.2.2.3,The lament for Sumer and Urim,,254,sig-še₃ elam{ki}-ma ba-ši-in-gub-bu gaz-de₃ i₃-TIL-e
+c.2.2.3,The lament for Sumer and Urim,,255,nim-še₃ ha-al-ma lu₂-kur₂-ra-ke₄ šu-ni X-X-ŋar
+c.2.2.3,The lament for Sumer and Urim,,256,ti-id-nu-um{ki}-e ud šu₂-uš {ŋeš}mitum₂-a ur₂-ra ba-ni-in-ŋar
+c.2.2.3,The lament for Sumer and Urim,,257,sig-še₃ elam{ki}-ma u₂-a e₃-a-gin₇
+c.2.2.3,The lament for Sumer and Urim,,258,nim-še₃ in-dal tum₉ dal-la-gin₇ edin-na
+c.2.2.3,The lament for Sumer and Urim,,259,urim₅{ki} am gal u₃-na gub-ba-gin₇ gu₂ ki-še₃ ba-ab-ŋar
+c.2.2.3,The lament for Sumer and Urim,,260,{d}en-lil₂-le lu₂ nam tar-tar-re-de₃ a-na bi₂-in-ak-a-ba
+c.2.2.3,The lament for Sumer and Urim,,261,₂-kam-ma-še₃ elam{ki} lu₂-kur₂-ra kur-ta ba-ra-e₃
+c.2.2.3,The lament for Sumer and Urim,,262,e₂ saŋ-kal-la ŋiri₃ du₃-a um-ma-X
+c.2.2.3,The lament for Sumer and Urim,,263,kisiga{ki} hul-hul-lu-de₃ lu₂ ₁₀ lu₂ ₅
+c.2.2.3,The lament for Sumer and Urim,,264,ud ₃-e ŋi₆ ₃-e la-ba-da-te iri {ŋeš}al-e ba-ab-ra-ah
+c.2.2.3,The lament for Sumer and Urim,,265,kisiga{ki} {d}dumu-zid saŋ-gin₇ ba-ra-e₃ šu-ni ba-da-ab-du₃
+c.2.2.3,The lament for Sumer and Urim,,266,e₂-še₃ kug ŋiri₃ a
+c.2.2.3,The lament for Sumer and Urim,,267,zig₃-ga u₅-a zig₃-ga u₅-a
+c.2.2.3,The lament for Sumer and Urim,,268,X-un-DU zig₃-ga u₅-a
+c.2.2.3,The lament for Sumer and Urim,,269,si gal-gal ba-an-u₅-bi X-X-DU-eš
+c.2.2.3,The lament for Sumer and Urim,,270,si tur-tur maš₂ palil-gin₇ X-dab₅-be₂-eš
+c.2.2.3,The lament for Sumer and Urim,,271,niŋ₂-gur₁₁-ra-ni-ta ba-da-u₅ kur-še₃ ba-ŋen
+c.2.2.3,The lament for Sumer and Urim,,272,i-lu kur ŋiri₃ nu-ŋal₂-la-ba gal-gal-bi mi-ni-ib₂-be₂
+c.2.2.3,The lament for Sumer and Urim,,273,ga-ša-an-ŋen niŋ₂-gur₁₁-ŋa₂ ga-ba-da-u₅ ki-ba gi₄-in de₃-ŋen
+c.2.2.3,The lament for Sumer and Urim,,274,kug {na₄}za-gin₃-ŋu₁₀-ta ga-ba-e-da-u₅ ki-ba gi₄-in de₃-ŋen
+c.2.2.3,The lament for Sumer and Urim,,275,ki-ba na-aŋ₂-gi₄-in nam-lu₂-ulu₃ saŋ a-ba-a ba-ab-us₂-e
+c.2.2.3,The lament for Sumer and Urim,,276,ki-ba na-aŋ₂-gi₄-in elam{ki} saŋ a-ba-a ba-ab-us₂-e
+c.2.2.3,The lament for Sumer and Urim,,277,a iri gul-la e₂ gul-la-ŋu₁₀ gig-ga-bi im-me
+c.2.2.3,The lament for Sumer and Urim,,278,nin-ŋu₁₀ lu₂-kur nu-me-a kur-re ba-ab-ŋen
+c.2.2.3,The lament for Sumer and Urim,,279,{d}ama-ušumgal-an-na kisiga{ki}
+c.2.2.3,The lament for Sumer and Urim,,280,uru₂-gin₇
+c.2.2.3,The lament for Sumer and Urim,,281,ki-ru-gu₂ ₂-kam-ma
+c.2.2.3,The lament for Sumer and Urim,,282,
+c.2.2.3,The lament for Sumer and Urim,,284,ŋiš-gi₄-ŋal₂ ki-ru-gu₂-da-kam
+c.2.2.3,The lament for Sumer and Urim,,289,u₂-a
+c.2.2.3,The lament for Sumer and Urim,,290,u₂-a
+c.2.2.3,The lament for Sumer and Urim,,291,gub-bu-bi šukur₂ mah-gin₇
+c.2.2.3,The lament for Sumer and Urim,,292,{d}en-lil₂-le abul-la mah-ba {ŋeš}ig tum₉-ma bi₂-in-gub
+c.2.2.3,The lament for Sumer and Urim,,293,urim₅{ki}-ma lu₂ u₂-še₃ nu-ŋen lu₂ a-še₃ nu-ŋen
+c.2.2.3,The lament for Sumer and Urim,,294,uŋ₃-bi a tul₂-la₂ de₂-a-gin₇ šu i₃-ni₁₀-ni₁₀-ne
+c.2.2.3,The lament for Sumer and Urim,,295,usu-bi ni₂-bi-a nu-ŋal₂ ŋiri₃-bi ba-ra-an-dab₅
+c.2.2.3,The lament for Sumer and Urim,,296,{d}en-lil₂-le šag₄-ŋar lu₂ niŋ₂-hul iri-a ba-an-da-dab₅
+c.2.2.3,The lament for Sumer and Urim,,297,niŋ₂ iri gul-gul-e niŋ₂ e₂ gul-gul-e iri-a ba-an-da-dab₅
+c.2.2.3,The lament for Sumer and Urim,,298,niŋ₂ igi-bi-še₃ {ŋeš}tukul-e la-ba-gub-bu-a iri-a ba-an-da-dab₅
+c.2.2.3,The lament for Sumer and Urim,,299,šag₄ nu-si-si igi niŋin₂-bi iri-a ba-an-da-dab₅
+c.2.2.3,The lament for Sumer and Urim,,300,urim₅{ki}-ma gi dili du₃-a-gin₇ saŋ sag₃-ge nu-ŋa₂-ŋa₂
+c.2.2.3,The lament for Sumer and Urim,,301,uŋ₃-bi ku₆ šu dab₅-ba-gin₇ zi-bi mi-ni-in-tum₂-tum₂-mu
+c.2.2.3,The lament for Sumer and Urim,,302,tur mah-bi i₃-barag₂-barag₂-ge-eš lu₂ nu-um-zi-zi-zi
+c.2.2.3,The lament for Sumer and Urim,,303,LUGAL.BI.GUB dub-la₂-a u₅-a niŋ₂-gu₇ la-ba-na-ŋal₂
+c.2.2.3,The lament for Sumer and Urim,,304,lugal niŋ₂ sag₉-ga gu₇-gu₇-a šukur₂-re im-ma-an-dab₅
+c.2.2.3,The lament for Sumer and Urim,,305,ud im-šu₂-šu₂ igi im-la₂-e šag₄-ka-tab i₃-zu-zu
+c.2.2.3,The lament for Sumer and Urim,,306,e₂-lunga-na kaš nu-un-ŋal₂ munu₄-bi nu-um-ŋal₂
+c.2.2.3,The lament for Sumer and Urim,,307,e₂-gal-la-na niŋ₂-gu₇ la-ba-na-ŋal₂ tuš-u₃-bi nu-ub-du₇
+c.2.2.3,The lament for Sumer and Urim,,308,ŋa₂-nun mah-a-ni še nu-um-si-si zi-bi la-ba-ši-in-tum₂-tum₂-mu
+c.2.2.3,The lament for Sumer and Urim,,309,guru₇-du₆ guru₇-maš-e {d}nanna-ka {d}ezina₂ nu-un-ŋal₂
+c.2.2.3,The lament for Sumer and Urim,,310,kiŋ₂-sig unu₂ gal diŋir-re-e-ne-ke₄ šu ba-e-la₂-la₂
+c.2.2.3,The lament for Sumer and Urim,,311,unu₂ gal-bi kurun lal₃ muš₃ im-ma-ab-tum₂
+c.2.2.3,The lament for Sumer and Urim,,312,ŋiri₂-PA-a gud udu gu₇-ra u₂-šim-e ba-da-nu₂
+c.2.2.3,The lament for Sumer and Urim,,313,gir₄ mah-ba gud udu nu-ak-e ir nu-mu-un-ur₅-ur₅-e
+c.2.2.3,The lament for Sumer and Urim,,314,bur-saŋ-ta a₂ sikil {d}nanna-ka za-pa-aŋ₂-bi ba-ra-gul
+c.2.2.3,The lament for Sumer and Urim,,315,e₂ gud-gin₇ gu₃ bi₂-ib-dug₄-ga-a re sig₉-ga-bi ba-du₃
+c.2.2.3,The lament for Sumer and Urim,,316,mu-un-DU kug-ga si nu-un-sa₂-e ŋar-ra-bi ba-su₃-ud
+c.2.2.3,The lament for Sumer and Urim,,317,{na₄}kinkin {ŋeš}naŋa₃ ŋiš-gan-na i₃-dur₂-dur₂ lu₂ nu-um-ši-gam-e
+c.2.2.3,The lament for Sumer and Urim,,318,kar-za-gin₃-na {d}nanna-ka a-e ba-da-la₂
+c.2.2.3,The lament for Sumer and Urim,,319,a {ŋeš}ma₂-saŋ-ŋa₂-ke₄ gu₃ nu-mu-un-gi₄-gi₄ asil₃-la₂ nu-mu-un-šub
+c.2.2.3,The lament for Sumer and Urim,,320,unu₂-RI-ban₃-da {d}nanna-ka sahar ba-da-dub-dub
+c.2.2.3,The lament for Sumer and Urim,,321,{u₂}numun₂ ba-da-mu₂ {u₂}numun₂ ba-da-mu₂ gir re-e ba-an-mu₂
+c.2.2.3,The lament for Sumer and Urim,,322,ma₂ ma₂-gur₈-ra kar-za-gin₃-na muš₃ im-ma-ab-tum₂
+c.2.2.3,The lament for Sumer and Urim,,323,id₂ ma₂-gur₈-ra ba-ab-du₇-a-za a₂ nu-un-sud-sud-e
+c.2.2.3,The lament for Sumer and Urim,,324,ezen ki ŋarza-ka ŋiš-hur-bi ba-da-kur₂
+c.2.2.3,The lament for Sumer and Urim,,325,ma₂ nesaŋ-ŋa₂ a-a ugu-na-ka nesaŋ nu-mu-un-na-ab-tum₃
+c.2.2.3,The lament for Sumer and Urim,,326,ninda nidba-bi {d}en-lil₂ nibru{ki}-še₃ nu-mu-da-an-ku₄-ku₄
+c.2.2.3,The lament for Sumer and Urim,,327,id₂-bi šag₄-sug₄-ga i₃-ŋal₂ ma₂-gur₈ nu-mu-un-dib-be₂
+c.2.2.3,The lament for Sumer and Urim,,328,gu₂ tab ₂-a-bi ŋiri₃ nu-ŋal₂ u₂ gid₂-da ba-am₃-mu₂
+c.2.2.3,The lament for Sumer and Urim,,329,{e₂}tur₃ daŋal-la {d}nanna-ka dub-ba-an-bi ba-si-il
+c.2.2.3,The lament for Sumer and Urim,,330,gi-sig {ŋeš}kiri₆-ka šu ba-e-la₂-la₂ gu₂-ŋiri₃ ba-an-ŋar-ŋar
+c.2.2.3,The lament for Sumer and Urim,,331,ab₂-šilam-ma amar-bi ba-da-ab-dab₅ ki-erim₂-e ba-ab-de₆
+c.2.2.3,The lament for Sumer and Urim,,332,ab₂ {u₂}munzer-e edin ki nu-zu-bi ŋiri₃ kur₂ ba-ra-an-dab₅-be₂-eš
+c.2.2.3,The lament for Sumer and Urim,,333,{d}ga-a-a-u₂ lu₂ ab₂ ki aŋ₂-ŋa₂ {ŋeš}tukul šurum-ma ba-šub
+c.2.2.3,The lament for Sumer and Urim,,334,{d}šu-ni-dug₃ i₃ ga-ar₃-ra du₆-ul-du₆-ul-e i₃ ga-ar₃-ra nu-du₆-ul-du₆-ul
+c.2.2.3,The lament for Sumer and Urim,,335,i₃-bi lu₂ i₃ nu-zu-ne i₃-du₉-du₉-ne
+c.2.2.3,The lament for Sumer and Urim,,336,ga-bi lu₂ ga nu-zu-ne i₃-im-muš₃-muš₃-u₃-ne
+c.2.2.3,The lament for Sumer and Urim,,337,{e₂}tur₃-ra {dug}šakir₃-e dun₅-dun₅-e gu₃ nun nu-mu-ni-ib-be₂
+c.2.2.3,The lament for Sumer and Urim,,338,ne-mur dugud-gin₇ i₃-ra-a re i-bi₂-bi ba-gul
+c.2.2.3,The lament for Sumer and Urim,,339,unu₂ gal {d}nanna-ka
+c.2.2.3,The lament for Sumer and Urim,,340,{d}suen-e a-a-ni {d}en-lil₂-ra er₂ mu-un-na-še₈-še₈
+c.2.2.3,The lament for Sumer and Urim,,341,a-a ugu-ŋu₁₀ iri{ki}-ŋu₁₀ a-na-ra-du₃ a-na-aš ba-e-da-gur-re-en
+c.2.2.3,The lament for Sumer and Urim,,342,{d}en-lil₂ urim₅{ki}-ŋu₁₀ a-na-ra-du₃ a-na-aš ba-e-da-gur-re-en
+c.2.2.3,The lament for Sumer and Urim,,343,ma₂ nesaŋ-e a-a ugu-na-še₃ nesaŋ nu-mu-un-na-ab-tum₃
+c.2.2.3,The lament for Sumer and Urim,,344,ninda nidba-zu {d}en-lil₂ nibru{ki}-še₃ nu-mu-un-na-da-an-ku₄-ku₄
+c.2.2.3,The lament for Sumer and Urim,,345,en iri bar-ra en iri šag₄-ga lil₂-e ha-ba-ab-lah₅-e-eš
+c.2.2.3,The lament for Sumer and Urim,,346,urim₅{ki} iri{ki} {ŋeš}al-e ri-a-gin₇ du₆-du₆-da ba-šid
+c.2.2.3,The lament for Sumer and Urim,,347,du₆-ur₂ ki ni₂ dub₂-bu {d}en-lil₂-la₂ eš₃ lil₂-la₂ ba-ab-ŋar
+c.2.2.3,The lament for Sumer and Urim,,348,{d}en-lil₂ iri-zu igi bar-ra e₂-ri-a sug₄-ga
+c.2.2.3,The lament for Sumer and Urim,,349,nibru{ki} iri-zu igi bar-ra e₂-ri-a sug₄-ga
+c.2.2.3,The lament for Sumer and Urim,,350,urim₅{ki}-ma ur-bi ur₂ bad₃-da si-im-si-im nu-mu-un-ak-e
+c.2.2.3,The lament for Sumer and Urim,,351,tul₂ saŋ bulug-ga ganba-bi-a ki li-bi₂-ib-de₅-de₅-ge
+c.2.2.3,The lament for Sumer and Urim,,352,a-a ugu-ŋu₁₀ iri{ki}-ŋu₁₀ dili-bi-ta a₂-zu-še₃ niŋin₂-am₃-ši-ib
+c.2.2.3,The lament for Sumer and Urim,,353,{d}en-lil₂ urim₅{ki}-ŋu₁₀ dili-bi-ta a₂-zu-še₃ niŋin₂-am₃-ši-ib
+c.2.2.3,The lament for Sumer and Urim,,354,e₂-kiš-nu-ŋal₂-ŋu₁₀ dili-bi-ta a₂-zu-še₃ niŋin₂-am₃-ši-ib
+c.2.2.3,The lament for Sumer and Urim,,355,urim₅{ki}-ma numun ha-ra-ni-ib-e₃ uŋ₃ hu-mu-ra-ab-daŋal-la
+c.2.2.3,The lament for Sumer and Urim,,356,me ki-en-gi-ra ba-da-ha-lam-e ki-bi ha-ra-ab-gi₄-gi₄
+c.2.2.3,The lament for Sumer and Urim,,357,ki-ru-gu₂ ₃-kam-ma
+c.2.2.3,The lament for Sumer and Urim,,358,a e₂ zid e₂ zid a lu₂-bi lu₂-bi
+c.2.2.3,The lament for Sumer and Urim,,359,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.3,The lament for Sumer and Urim,,360,{d}en-lil₂-le dumu-ni {d}suen-ra mu-un-na-ni-ib-gi₄-gi₄
+c.2.2.3,The lament for Sumer and Urim,,361,uru₂ lil₂-la₂ šag₄-bi a-nir-ra gi er₂-ra ba-am₃-mu₂
+c.2.2.3,The lament for Sumer and Urim,,361A,šag₄-bi a-še-ra gi er₂-ra ba-am₃-mu₂
+c.2.2.3,The lament for Sumer and Urim,,362,šag₄-bi-a a-nir-ra ud mi-ni-ib-zal-zal-e
+c.2.2.3,The lament for Sumer and Urim,,362A,dumu-ŋu₁₀ dumu-gir₁₅ ni₂-za-bi-me-en er₂-ra na-bi-me-en
+c.2.2.3,The lament for Sumer and Urim,,363,{d}nanna dumu-gir₁₅ ni₂-za-bi-me-en er₂-ra na-bi-me-en
+c.2.2.3,The lament for Sumer and Urim,,364,di-til-la inim pu-uh₂-ru-um-ma-ka šu gi₄-gi₄ nu-ŋal₂
+c.2.2.3,The lament for Sumer and Urim,,365,inim dug₄-ga an {d}en-lil₂-la₂-ka šu bal-e nu-zu
+c.2.2.3,The lament for Sumer and Urim,,366,urim₅{ki}-ma nam-lugal ha-ba-šum₂ bal da-ri₂ la-ba-an-šum₂
+c.2.2.3,The lament for Sumer and Urim,,367,ud ul kalam ki ŋar-ra-ta zag uŋ₃ lu-a-še₃
+c.2.2.3,The lament for Sumer and Urim,,368,bal nam-lugal-la saŋ-bi-še₃ e₃-a a-ba-a igi im-mi-in-du₈-a
+c.2.2.3,The lament for Sumer and Urim,,369,nam-lugal-bi bal-bi ba-gid₂-e-de₃ šag₄ kuš₂-u₃-de₃
+c.2.2.3,The lament for Sumer and Urim,,370,{d}nanna-ŋu₁₀ na-an-kuš₂-kuš₂-u₃-de₃ iri{ki}-zu e₃-bar-ra-ab
+c.2.2.3,The lament for Sumer and Urim,,371,ud-ba lugal-ŋu₁₀ dumu-gir₁₅-ra ur₅-ra-ni ba-an-uš₂
+c.2.2.3,The lament for Sumer and Urim,,372,en {d}aš-im₂-babbar dumu-gir₁₅-ra šag₄ hul-lu im-ma-an-dim₂
+c.2.2.3,The lament for Sumer and Urim,,373,{d}nanna lu₂ iri{ki}-ni ki aŋ₂-ŋa₂ iri{ki}-ni ba-ra-e₃
+c.2.2.3,The lament for Sumer and Urim,,374,{d}suen-e urim₅{ki} ki aŋ₂-ŋa₂ ŋiri₃ kur₂ ba-ra-an-dab₅
+c.2.2.3,The lament for Sumer and Urim,,375,{d}nin-gal-e gir₅ iri{ki}-ni-ta ki kur₂-še₃ du-u₃-de₃
+c.2.2.3,The lament for Sumer and Urim,,376,tug₂ ul₄-ul₄-la-bi ba-ra-an-mur₁₀ iri{ki}-ta ba-ra-e₃
+c.2.2.3,The lament for Sumer and Urim,,377,urim₅{ki}-ma {d}a-nun-na-bi bar-ra ba-sug₂-ge-eš
+c.2.2.3,The lament for Sumer and Urim,,378,urim₅{ki}-ma ni₂-bi ki ba-a-te
+c.2.2.3,The lament for Sumer and Urim,,379,urim₅{ki}-ma ŋiš-bi tur₅-ra-am₃ gi-bi tur₅-ra-am₃
+c.2.2.3,The lament for Sumer and Urim,,380,bad₃-bi en-na niŋin₂-na-bi-da a-nir ba-da-sa₂
+c.2.2.3,The lament for Sumer and Urim,,381,ud šu₂-uš-e {ŋeš}tukul-e igi-bi-še₃ saŋ i₃-sag₃-sag₃-ge
+c.2.2.3,The lament for Sumer and Urim,,382,urim₅{ki}-ma {urud}ha-zi-in gal-gal-e igi-bi-še₃ u₃-sar i₃-ak-e
+c.2.2.3,The lament for Sumer and Urim,,383,ŋiš-gid₂-da a₂ me₃-ke₄ si bi₂-ib-sa₂-sa₂-e-ne
+c.2.2.3,The lament for Sumer and Urim,,384,{ŋeš}pan gal-gal {ŋeš}ilar {kuš}gur₂₁-ra teš₂ im-da-gu₇-e
+c.2.2.3,The lament for Sumer and Urim,,385,{ŋeš}ti zu₂-ke₄ muru₉ šeŋ₃-ŋa₂-gin₇ bar-ba mi-ni-in-si
+c.2.2.3,The lament for Sumer and Urim,,386,na₄ gal-gal-e ni₂-bi-a pu-ud-pa-ad im-mi-ib-za
+c.2.2.3,The lament for Sumer and Urim,,386A,ud šu₂-uš iri{ki}-ta im-hul-e mu-un-da-an-gi₄-gi₄
+c.2.2.3,The lament for Sumer and Urim,,387,urim₅{ki} ne₃-bi-ta nir-ŋal₂ gab₂-gaz-e ba-gub
+c.2.2.3,The lament for Sumer and Urim,,388,uŋ₃-bi lu₂-erim₂-e a₂ bi₂-ib₂-ŋar {ŋeš}tukul-e la-ba-sug₂-ge-eš
+c.2.2.3,The lament for Sumer and Urim,,389,iri{ki} {ŋeš}tukul-e saŋ nu-šum₂-mu-a šag₄-ŋar-e im-us₂
+c.2.2.3,The lament for Sumer and Urim,,390,šag₄-ŋar-e iri{ki} a-gin₇ ba-e-si ŋa₂-la nu-um-ta-dag-ge
+c.2.2.3,The lament for Sumer and Urim,,391,šag₄-ŋar-e igi-bi im-gam-me-e sa-bi im-lug-gu₂-ne
+c.2.2.3,The lament for Sumer and Urim,,392,uŋ₃-bi a-niŋin₂-na ba-e-si zi i-ak-e
+c.2.2.3,The lament for Sumer and Urim,,393,lugal-bi e₂-gal ni₂-te-na-ka zi gig mu-un-pa-an-pa-an
+c.2.2.3,The lament for Sumer and Urim,,394,nam-lu₂-ulu₃-bi {ŋeš}tukul ba-e-šub {ŋeš}tukul ki bi₂-ib₂-tag
+c.2.2.3,The lament for Sumer and Urim,,395,šu-bi gu₂-bi-še₃ ba-ši-ib-ri-ri er₂ mu-un-še₈-še₈-ne
+c.2.2.3,The lament for Sumer and Urim,,396,ni₂-bi-a ad mi-ni-ib-gi₄-gi₄ inim im-šar₂-šar₂-e-ne
+c.2.2.3,The lament for Sumer and Urim,,397,me-li-e-a dug₄-ga-me nam-ŋu₁₀ tah-me nam-ŋu₁₀
+c.2.2.3,The lament for Sumer and Urim,,398,en₃-še₃-am₃ ka garaš₂-a-ka i-im-til-le-de₃-en-de₃-en
+c.2.2.3,The lament for Sumer and Urim,,399,urim₅{ki}-ma šag₄-bi nam-uš₂-am₃ bar-bi nam-uš₂-am₃
+c.2.2.3,The lament for Sumer and Urim,,400,šag₄-bi-a niŋ₂ šag₄-ŋar-ra-ka i-im-til-le-de₃-en-de₃-en
+c.2.2.3,The lament for Sumer and Urim,,401,bar-bi-a {ŋeš}tukul elam{ki}-ma-ka ga-nam ba-e-til-le-en-de₃-en
+c.2.2.3,The lament for Sumer and Urim,,402,urim₅{ki}-ma lu₂-erim₂-e a₂ bi₂-ib-ŋar ga-nam ba-til-e-de₃-en-de₃-en
+c.2.2.3,The lament for Sumer and Urim,,403,zi-bi murgu-bi-še₃ i₃-ak-e gu₃ teš₂-a bi₂-in-sig₁₀-ge₅-eš
+c.2.2.3,The lament for Sumer and Urim,,404,e₂-gal a ba-šub-ba šu ba-e-la₂-la₂ {ŋeš}si-ŋar-bi bi₂-in-bur₁₂-bur₁₂-uš
+c.2.2.3,The lament for Sumer and Urim,,405,elam{ki}-e a mah e₃-a-gin₇ gidim im-ma-ni-ib₂-ŋar
+c.2.2.3,The lament for Sumer and Urim,,406,urim₅{ki}-ma {ŋeš}tukul-e {dug}sahar₂-gin₇ saŋ gaz i₃-ak-e
+c.2.2.3,The lament for Sumer and Urim,,407,lu₂-kar-ra-bi dub₃ nu-um-zil-e bad₃ zag-ga bi₂-in-dab₅-be₂-eš
+c.2.2.3,The lament for Sumer and Urim,,407A,ku₆ a-niŋin₂-na lug-ga-gin₇ zi-bi in-tum₃-tum₃-mu-ne
+c.2.2.3,The lament for Sumer and Urim,,407B,e₂-kiš-nu-ŋal₂ {d}nanna-ka lu₂-erim₂-e ba-e-dab₅
+c.2.2.3,The lament for Sumer and Urim,,407C,sig an-ŋar-bi dugud ŋal₂-la-a re im-ze-er-ze-re-ne
+c.2.2.3,The lament for Sumer and Urim,,408,{urud}alan uzugₓ-ge si-a-bi gu₂-guru₅ ba-an-ne-eš
+c.2.2.3,The lament for Sumer and Urim,,409,{d}nin-i₃-gara₂ aŋrig mah-e erim₃-ma šu bi₂-in-dag
+c.2.2.3,The lament for Sumer and Urim,,410,{ŋeš}gu-za-bi igi-bi-ta ba-e-šu₂ sahar-ra ba-da-an-tuš
+c.2.2.3,The lament for Sumer and Urim,,411,ab₂ mah-bi si-muš₃-bi ba-ra-an-dab₅-be₂-eš si-bi ba-ra-an-kud
+c.2.2.3,The lament for Sumer and Urim,,412,gud du₇-du₇-bi udu u₂ gu₇-a-bi {ŋeš}tukul-e ba-an-sag₃-sag₃
+c.2.2.3,The lament for Sumer and Urim,,412A,{ŋeš}ŋišnimbar-gin₇ gu₂-gur₅-ru ba-ab-dug₄ teš₂-bi ba-ra-an-kad₄
+c.2.2.3,The lament for Sumer and Urim,,413,{ŋeš}ŋišnimbar urud niŋ₂ kalag-ga a₂ nam-ur-saŋ-ŋa₂
+c.2.2.3,The lament for Sumer and Urim,,414,{u₂}numun₂-gin₇ ba-bur₁₂ {u₂}numun₂-gin₇ ba-ze₂ ur₂-ba ti mi-ni-ib-bal
+c.2.2.3,The lament for Sumer and Urim,,415,saŋ sahar-ra ki ba-ni-ib-u₂-us₂ lu₂ zi-zi la-ba-tuku
+c.2.2.3,The lament for Sumer and Urim,,416,{ŋeš}ze₂-na-bi gu₂ ba-an-guru₅-uš saŋ šu bi₂-in-hu-hu-uz
+c.2.2.3,The lament for Sumer and Urim,,417,{ŋeš}a₂-an zu₂-lum-ma-bi pu₂ du₇-du₇ ba-ra-an-BU-BU-de₃-eš
+c.2.2.3,The lament for Sumer and Urim,,418,gi-zi kug-ge mu₂-a šu ba-e-la₂-la₂
+c.2.2.3,The lament for Sumer and Urim,,419,gu₂-un gal-gal-e mi-ni-in-ŋar-re-eš-a kur-re i₃-il₂-il₂
+c.2.2.3,The lament for Sumer and Urim,,420,e₂-e ŋiš-bur₂ mah-bi ba-šub bad₃-si-bi ba-gul
+c.2.2.3,The lament for Sumer and Urim,,421,maš₂-anše zid-da gab₂-bu-ba gu₂-da la₂-a-bi
+c.2.2.3,The lament for Sumer and Urim,,422,ur-saŋ ur-saŋ-e gaz-a-gin₇ igi-bi-ta ba-šu₂
+c.2.2.3,The lament for Sumer and Urim,,423,ušumgal ka du₈-a piriŋ-ŋa₂ ni₂ guru₃-gur₃-ru-bi
+c.2.2.3,The lament for Sumer and Urim,,424,am dab₅-ba-gin₇ saman-e bi₂-in-šub-bu re ki-erim₂-e ba-ab-de₆
+c.2.2.3,The lament for Sumer and Urim,,425,ki-tuš kug {d}nanna tir šim {ŋeš}erin-na-gin₇ ir-si-im-bi ba-gul
+c.2.2.3,The lament for Sumer and Urim,,425A,a-sal-bar-bi kug-sig₁₇ {na₄}za-gin₃ ki dug₄-ga-a-bi
+c.2.2.3,The lament for Sumer and Urim,,426,e₂ u₆ di-bi i₃-dug₃-ga re u₆ di-bi ba-gul
+c.2.2.3,The lament for Sumer and Urim,,427,ud-gin₇ kur-kur-ra im-si-a an-usan an-na-gin₇ ba-e-du₃
+c.2.2.3,The lament for Sumer and Urim,,428,{ŋeš}ig-bi mul-an-na dug₄-ga-ba
+c.2.2.3,The lament for Sumer and Urim,,429,{urud}bulug gal-gal-e X-gi₄-gi₄ ba-ra-an-bur₁₂-bur₁₂-uš
+c.2.2.3,The lament for Sumer and Urim,,430,{kuš}a₂-si-bi a-ba en₃-bi-še₃ ba-ab-dug₄
+c.2.2.3,The lament for Sumer and Urim,,431,{ŋeš}nu-kuš₂-u₃-bi-da lu₂-kar-ra-gin₇ er₂ gig i₃-še₈-še₈
+c.2.2.3,The lament for Sumer and Urim,,432,{ŋeš}saŋ-kul {ŋeš}suhub₄ kug-ga {ŋeš}ig gal gu₂ gid₂-i nu-mu-na-ab-be₂
+c.2.2.3,The lament for Sumer and Urim,,433,{ŋeš}ig gu₂ gid₂-da za-pa-aŋ₂-bi ba-šub lu₂ gu₂ gid₂-i la-ba-an-tuku
+c.2.2.3,The lament for Sumer and Urim,,434,ba-la₂-la₂ sila daŋal-la ni₂-bi ba-ab-ŋar
+c.2.2.3,The lament for Sumer and Urim,,435,ki ki lugal gub-bu-na nidba-bi ba-kur₂
+c.2.2.3,The lament for Sumer and Urim,,436,ki kug-ba tigi₂ šem₅ {kuš}a₂-la₂-e gu₃ nun nu-mu-ni-ib-be₂
+c.2.2.3,The lament for Sumer and Urim,,437,{ŋeš}tigi₂ mah-ba er₂ X-si-a šir₃ kug nu-mu-na-ab-be₂
+c.2.2.3,The lament for Sumer and Urim,,438,dub-la₂-mah ki nam tar-re-de₃ ka-inim-ma nu-ŋal₂
+c.2.2.3,The lament for Sumer and Urim,,439,{ŋeš}gu-za ki di ku₅-ru-bi nu-mu-un-gub di si nu-um-sa₂-e
+c.2.2.3,The lament for Sumer and Urim,,440,{d}alamuš-e {ŋeš}ŋidru ba-da-an-šub šu-ni gu₄-ud-gu₄-ud
+c.2.2.3,The lament for Sumer and Urim,,441,a₂-nu₂-da kug {d}nanna-ka balaŋ na-mu-un-tag-ge-ne
+c.2.2.3,The lament for Sumer and Urim,,442,dub-šen kug lu₂ igi nu-bar-re-dam erim₂-e igi i-ni-in-bar
+c.2.2.3,The lament for Sumer and Urim,,443,ŋiš-nu₂ gi₄-rin-na nu-um-gub u₂ za-gin₃ nu-mu-un-barag₂
+c.2.2.3,The lament for Sumer and Urim,,444,{urud}alan uzugₓ-ge₄ si-a-ba gu₂-guru₅ ba-an-ne-eš
+c.2.2.3,The lament for Sumer and Urim,,445,engiz ensi kišib₃-ŋal₂-bi eš-da šu li-bi₂-in-du₇-uš
+c.2.2.3,The lament for Sumer and Urim,,446,gu₂ ki-še₃ ŋal₂-la-ba ba-e-sug₂-sug₂-ge-eš kur₂-re ba-ab-lah₅-e-eš
+c.2.2.3,The lament for Sumer and Urim,,447,uz-ga kug šu-luh dadag-ga šag₄-gada-la₂-be₂-e-ne
+c.2.2.3,The lament for Sumer and Urim,,448,ŋiš-hur me kug-ga ba-da-ha-lam-e iri kur₂-še₃ ba-e-re₇-eš
+c.2.2.3,The lament for Sumer and Urim,,449,{d}suen-e šag₄ hul-la-ni a-a-ni-ir ba-ši-in-ŋen
+c.2.2.3,The lament for Sumer and Urim,,450,igi a-a ugu-na {d}en-lil₂-la₂-še₃ dug₃ ki ba-ni-in-us₂
+c.2.2.3,The lament for Sumer and Urim,,451,a-a ugu-ŋu₁₀ en₃-tukum-še₃ niŋ₂-kas₇-ŋu₁₀ igi erim₂ mu-e-du₈ en₃-tukum-še₃
+c.2.2.3,The lament for Sumer and Urim,,452,nam-en nam-lugal šum₂-ma-za-am₃ mu-e-ši-de₂
+c.2.2.3,The lament for Sumer and Urim,,453,a-a {d}en-lil₂ lu₂ a₂ aŋ₂-e dug₄-ga zid
+c.2.2.3,The lament for Sumer and Urim,,454,inim kug-zu kalam-ma
+c.2.2.3,The lament for Sumer and Urim,,455,di niŋ₂ kur₂-zu šag₄
+c.2.2.3,The lament for Sumer and Urim,,456,šag₄ zu-mu-ug-ga i-zi-gin₇ hu-luh-ha-za igi zid bar-mu-un-ši-ib
+c.2.2.3,The lament for Sumer and Urim,,457,a-a {d}en-lil₂ nam mu-e-tar-ra ŋalga ba-ra-an-du₈-du₈
+c.2.2.3,The lament for Sumer and Urim,,458,siki-pa nam-en-na suh keše₂-da-ŋa₂
+c.2.2.3,The lament for Sumer and Urim,,459,ud sikil mah luh-luh tug₂-mu-dur₇-ra mi-ni-in-mur₁₀
+c.2.2.3,The lament for Sumer and Urim,,460,{d}en-lil₂-le dumu-ni {d}suen-ra inim zid mu-un-na-ab-be₂
+c.2.2.3,The lament for Sumer and Urim,,461,dumu-ŋu₁₀ iri nam-he₂ giri₁₇-zal ša-ra-da-du₃-a bal-zu ba-ši-ib-tuku
+c.2.2.3,The lament for Sumer and Urim,,462,iri{ki} gul bad₃ gal bad₃-si-bi sig₁₀-ge₅ u₃ ur₅-re bal an-ga-am₃
+c.2.2.3,The lament for Sumer and Urim,,463,sa₂ mi-ri-ib-dug₄-ga bal ud ku₁₀-ku₁₀-ga-bi-ir ŋal₂-lu ša-ra-dug₄
+c.2.2.3,The lament for Sumer and Urim,,464,dur₂-u₃ re ki-tuš e₂-temen-ni₂-gur₃-ru-za zid-de₃-eš du₃-du₃-am₃
+c.2.2.3,The lament for Sumer and Urim,,465,urim₅{ki} giri₁₇-zal-la he₂-en-du₃ uŋ₃ he₂-en-ši-gam-e
+c.2.2.3,The lament for Sumer and Urim,,466,ur₂-bi-a niŋ₂ he₂-en-ŋal₂ {d}ezina₂ he₂-eb₂-da-tuš
+c.2.2.3,The lament for Sumer and Urim,,467,pa-bi-a giri₁₇-zal he₂-en-ŋal₂ {d}utu he₂-en-da-hul₂
+c.2.2.3,The lament for Sumer and Urim,,468,{ŋeš}banšur-ba he₂-ŋal₂ {d}ezina₂-ka gu₂-da he₂-em-mi-ib-la₂
+c.2.2.3,The lament for Sumer and Urim,,469,urim₅{ki} iri an-ne₂ nam tar-re ki-bi ha-ra-ab-gi₄-gi₄
+c.2.2.3,The lament for Sumer and Urim,,470,{d}en-lil₂-le gu₃ zid de₂-am₃ gu₂ an-še₃ he₂-en-zig₃
+c.2.2.3,The lament for Sumer and Urim,,471,{d}nanna-ra ma-da sig igi-nim-ma gu₂ hu-mu-na-ab-dirig
+c.2.2.3,The lament for Sumer and Urim,,472,{d}suen-ra kaskal kur-ra-ke₄ si he₂-en-na-sa₂-e
+c.2.2.3,The lament for Sumer and Urim,,473,muru₉-gin₇ ki us₂-sa-a-gin₇ šu mu-un-na-ŋa₂-ŋa₂
+c.2.2.3,The lament for Sumer and Urim,,474,inim dug₄-ga an {d}en-lil₂-la₂-kam šu zid he₂-ŋa₂-ŋa₂
+c.2.2.3,The lament for Sumer and Urim,,475,a-a {d}nanna iri{ki}-ni urim₅{ki}-ma saŋ il₂-la mu-un-ŋen
+c.2.2.3,The lament for Sumer and Urim,,476,šul {d}suen e₂-kiš-nu-ŋal₂-la-še₃ im-ma-da-an-ku₄-ku₄
+c.2.2.3,The lament for Sumer and Urim,,477,{d}nin-gal-e agrun kug-ga-na ni₂ mu-ni-ib-te-en-te-en
+c.2.2.3,The lament for Sumer and Urim,,477A,urim₅{ki}-ma e₂-kiš-nu-ŋal₂-la-na im-ma-da-an-ku₄-ku₄
+c.2.2.3,The lament for Sumer and Urim,,478,ki-ru-gu₂ ₄-kam-ma
+c.2.2.3,The lament for Sumer and Urim,,479,iri{ki} lil₂-la₂-am₃ šag₄-bi a-še-ra gi er₂-ra ba-an-mu₂
+c.2.2.3,The lament for Sumer and Urim,,480,šag₄-bi a-še-ra gi er₂-ra ba-an-mu₂
+c.2.2.3,The lament for Sumer and Urim,,481,uŋ₃-bi a-še-er-ra ud mi-ni-ib-zal-zal-e
+c.2.2.3,The lament for Sumer and Urim,,482,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.3,The lament for Sumer and Urim,,483,ud gig-ga ud gaba-zu zig₃-ga-ab ud e₂-za gi₄-bi
+c.2.2.3,The lament for Sumer and Urim,,484,ud uru₂ gul-gul ud gaba-zu zig₃-ga-ab ud e₂-za gi₄-bi
+c.2.2.3,The lament for Sumer and Urim,,485,ud e₂ gul-gul ud gaba-zu zig₃-ga-ab ud e₂-za gi₄-bi
+c.2.2.3,The lament for Sumer and Urim,,486,ud ki-en-gi-ra ba-e-zal-la kur-re he₂-eb-zal
+c.2.2.3,The lament for Sumer and Urim,,487,ud ma-da ba-e-zal-la kur-re he₂-eb-zal
+c.2.2.3,The lament for Sumer and Urim,,488,kur ti-id-nu-um{ki}-ma-ka he₂-eb-zal kur-re he₂-eb-zal
+c.2.2.3,The lament for Sumer and Urim,,489,kur gu-ti-um{ki}-ma-ka he₂-eb-zal kur-re he₂-eb-zal
+c.2.2.3,The lament for Sumer and Urim,,490,kur an-ša₄-an{ki}-na-ka he₂-eb-zal kur-re he₂-eb-zal
+c.2.2.3,The lament for Sumer and Urim,,491,an-ša₄-an{ki}-e im-hul dal-la-gin₇ kuš₇ he₂-ni-ib-su-su
+c.2.2.3,The lament for Sumer and Urim,,492,šag₄-ŋar lu₂ niŋ₂-hul he₂-en-da-dab₅ uŋ₃ he₂-em-ši-ib-gam-e
+c.2.2.3,The lament for Sumer and Urim,,493,me an-na ŋiš-hur uŋ₃ gen₆-ne₂ an-ne₂ nam-kur₂-re
+c.2.2.3,The lament for Sumer and Urim,,494,di kud ka-aš bar-re uŋ₃ si sa₂-sa₂-e an-ne₂ nam-kur₂-re
+c.2.2.3,The lament for Sumer and Urim,,495,kaskal kalam-ma-ke₄ ŋiri₃ ŋa₂-ŋa₂ an-ne₂ nam-kur₂-re
+c.2.2.3,The lament for Sumer and Urim,,496,an-ne₂ {d}en-lil₂-bi nam-kur₂-ru-ne an-ne₂ nam-kur₂-re
+c.2.2.3,The lament for Sumer and Urim,,497,{d}en-ki {d}nin-mah-bi nam-kur₂-ru-ne an-ne₂ nam-kur₂-re
+c.2.2.3,The lament for Sumer and Urim,,498,{id₂}idigna {id₂}buranun-na a-bi tum₃-de₃ an-ne₂ nam-kur₂-re
+c.2.2.3,The lament for Sumer and Urim,,499,šeŋₓ an-na ki-a še gu-nu an-ne₂ nam-kur₂-re
+c.2.2.3,The lament for Sumer and Urim,,500,id₂ a-bi-da a-šag₄ še-bi-da an-ne₂ nam-kur₂-re
+c.2.2.3,The lament for Sumer and Urim,,501,ambar-ambar-re ku₆ mušen tum₃ an-ne₂ nam-kur₂-re
+c.2.2.3,The lament for Sumer and Urim,,502,ŋiš-gi gi sumun gi henbur mu₂-mu₂-de₃ an-ne₂ nam-kur₂-re
+c.2.2.3,The lament for Sumer and Urim,,503,an-ne₂ {d}en-lil₂-bi nam-kur₂-ru-ne
+c.2.2.3,The lament for Sumer and Urim,,504,{d}en-ki {d}nin-mah-bi nam-kur₂-ru-ne
+c.2.2.3,The lament for Sumer and Urim,,505,pu₂-{ŋeš}kiri₆ lal₃ ŋeštin u₃-tud
+c.2.2.3,The lament for Sumer and Urim,,506,an-edin-na {ŋeš}maš₂-gurum u₃-tud
+c.2.2.3,The lament for Sumer and Urim,,507,e₂-gal-la zi su₃-ud-ŋal₂ u₃-tud
+c.2.2.3,The lament for Sumer and Urim,,508,a-ab-ba he₂-ŋal₂ niŋ₂ u₃-tud an-ne₂ nam-kur₂-re
+c.2.2.3,The lament for Sumer and Urim,,509,ma-da uŋ₃ lu-a sig igi-nim-ma an-ne₂ nam-kur₂-re
+c.2.2.3,The lament for Sumer and Urim,,510,an-ne₂ {d}en-lil₂-bi nam-kur₂-re-ne an-ne₂ nam-kur₂-re
+c.2.2.3,The lament for Sumer and Urim,,511,{d}en-ki {d}nin-mah-bi nam-kur₂-re-ne an-ne₂ nam-kur₂-re
+c.2.2.3,The lament for Sumer and Urim,,512,iri du₃-du₃-a uŋ₃ šar₂-šar₂-ra
+c.2.2.3,The lament for Sumer and Urim,,513,an ki niŋin₂-na uŋ₃ saŋ sig₁₀-ga
+c.2.2.3,The lament for Sumer and Urim,,514,{d}nanna nam-lugal-zu dug₃-ga-am₃ ki-za gi₄-ni-ib
+c.2.2.3,The lament for Sumer and Urim,,515,urim₅{ki} bal dug₃ nam-he₂ ud he₂-ni-ib-su₃-ud-de₃
+c.2.2.3,The lament for Sumer and Urim,,516,uŋ₃-bi u₂-sal-la he₂-eb-nu₂ e-ne su₃-ud he₂-em-ak
+c.2.2.3,The lament for Sumer and Urim,,517,a nam-lu₂-ulu₃ ba-tu₁₁ egir₃-re mu-lu er₂ a-še-re
+c.2.2.3,The lament for Sumer and Urim,,518,{d}nanna a iri-zu a e₂-zu a nam-lu₂-u₁₈-lu-zu
+c.2.2.3,The lament for Sumer and Urim,,519,ki-ru-gu₂ ₅-kam-ma-am₃

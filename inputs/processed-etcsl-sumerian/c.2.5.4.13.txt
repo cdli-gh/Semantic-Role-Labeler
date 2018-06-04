@@ -1,0 +1,102 @@
+id_text,text_name,version,l_no,text
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A1,
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A2,dug₄-ga-ni šu zid ŋar
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A3,hi-li sud e₂-kur-ra
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A4,diŋir gal-gal-e-ne en gal mah an-na
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A5,ki-tuš diŋir na-me
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A6,mah en kur ki-gub-ba a-a {d}nanna
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A7,itid ud-sakar gu-a gen₆-ne₂ mu ki-bi-še₃ X-ŋar
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A8,uŋ₃ lu-a nam-til₃
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A9,kur-kur si sa₂-sa₂
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A10,{id₂}idigna {id₂}buranuna-bi a zal-le tum₃ kur-re
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A11,še gu-nu
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A12,ki daŋal-e u₂-šim
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A13,
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A14,en {d}iš-me-{d}da-gan
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A15,ki šu mu-a-da-ŋal₂ za-da hul₂ X-en
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A16,mah an-e {d}en-lil₂-le a-a {d}nanna saŋ-e-eš rig₇
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A17,zalag-ga ni₂ u₃-mu-ni-gid₂ ud-de₃ sa₂ i-X-dug₄
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A18,šu gal du₈-a-bi ki-a u₃-mu-ni-ge-en
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A19,ud nu₂-a itid šu du₇-a-zu uŋ₃-e u₃-X-pad₃
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A20,en kur-ra di gal mu-ku₅-re₆-en ka-aš mah mu-bar-re-en
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A21,{d}en-ki {d}nin-ki en gal nun gal en nam tar-re-bi
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A22,e₃-a ka-za-ke₄ ša-ba-an-sug₂-ge-eš a-a ud-sakar u₃-tud
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A23,nun niŋ₂-si-sa₂ ka-ga₁₄ i₃-ni-ŋar niŋ₂-du₇ pa bi₂-e₃
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A24,šag₄ ud mu-a-dug₃ nam ki-bi-še₃ ud mu-a-tar me-lem₄-zu ud
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A25,ŋiš-he₂ daŋal-la ŋir₂ ud mu-ni-bur₂ ku₁₀-ku₁₀ mu-a-dadag
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A26,e₃-zu-še₃ sizkur₂ a-ra-zu-a {d}a-nun-na im-ma-sug₂-sug₂-ge-eš
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A27,ud-sakar dalla e₃-a hi-li gur₃-ru u₆ di dug₃-ga-zu-še₃
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A28,nin gal ki-ur₃-ra ama {d}nin-lil₂ hul₂-la mu-ni-ib-DU
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A29,e₂-ŋa₂-ŋiš-šu₂-a ki-tuš šag₄ hul₂-la e₂-gal ni₂ guru₃-na
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A30,nin zid mah ab₂ zid mas-su₂ a-ra-zu ša-ba-an-de₆
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A31,sa-gid₂-da-am₃
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A32,en dadag {d}iš-me-{d}da-gan a₂ nun hu-mu-te-ŋal₂
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A33,ŋiš-gi₄-ŋal₂ sa-gid₂-da-am₃
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A34,en an-na men gal mah-bi
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,A35,{d}nin-lil₂
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B1,šag₄
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B2,mu mah-a-ni lugal
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B3,a-a-zu me-ta me ma-ra-an-šum₂ en {d}nu-nam-nir-e
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B4,nam tar-re a-ra₂ nam-{d}en-lil₂-la₂ saŋ-e-eš hu-mu-rig₇
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B5,saŋ mi-ri-ni-il₂ en gal {d}en-lil₂-le nun-ba mi-ni-in-kur₉-re-en
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B6,men aga zid barag mah kug-ga dalla mu-ra-ni-in-e₃
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B7,kur-kur ku₆-gin₇ zag dug₄-ga-ba saŋ keše₂-bi ma-ra-an-šum₂
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B8,su₈-ba-gin₇ nun kur-kur-ra-ke₄
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B9,an ki šu₂-a-ba za-e na-an-na diŋir na-me
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B10,muš₃ kug an kug-ga maš₂-zu ud-gin₇
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B11,buru₁₄ ezen gal hi-li si-a-ba kalam ši-im-ši-hul₂-X
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B12,uŋ₃ saŋ gig₂-ga a-a-bi-gin₇ igi-bi šu-mu-a-ši-ŋal₂
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B13,en gal ga-til₃-le ŋiš tuku-me-en ki aŋ₂ kalam-ma-me-en
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B14,urim₂{ki} uz₃-saŋ gal ki-en-gi-ra iri an-da mu₂-a
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B15,ul-ul-la eš₃ maš₂-a du₃-a {e₂}tur₃ šag₄ hul₂-za
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B16,ha-ra-ni-ib-AŠ a-ra₂-e {d}iš-me-{d}da-gan ab₂ kug-ga saŋ
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B17,ninda₂ gud dug₃ ha-ra-ni-ib-u₅-e numun zid ha-ra-ab-i-i
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B18,i₃ saŋ ga saŋ ga unu₂ kug-za hu-mu-peš-peš-e
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B19,mah gaba nu-ŠA maš₂-za-ke₄
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B20,ki nin ki mah
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B21,ŋiš-hur si ha-ra-ab-sa₂-sa₂-e
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B22,šim
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B23,kug-sig₁₇ si-a-zu nin {d}nin-gal
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B24,ud-gin₇ dalla he₂-ni-in-e₃ hu-mu-a-til₃-en
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B25,gal-la {d}iš-me-{d}da-gan hu-mu-ra-ab-be₂
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B26,sa-ŋar-ra-am₃
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B27,{d}iš-me-{d}da-gan dumu {d}en-lil₂-la₂ nu-kur₂-ru-da he₂-a
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B28,ŋiš-gi₄-ŋal₂ sa-ŋar-ra-bi-im
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B29,en gal an kug-ta nam tar-re gal-an-zu
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B30,en dadag an kug-ta nam tar-re gal-zu
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B31,{d}iš-me-{d}da-gan dumu {d}en-lil₂-la₂ mas-su₂ a-ba-ra ki-i gal he₂-na-a-aŋ₂
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B32,u₁₈-ru₁₂-bi-im
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),A,B33,a-da-ab {d}nanna
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,A1,ki
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,A2,ud nu₂-a
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,A3,uŋ₃
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,A4,en kur-ra
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,A5,ka-aš
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,A6,{d}en-ki {d}nin-ki
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,A7,en
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,A8,e₃-a
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,A9,a-a
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,A10,nun niŋ₂
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,A12,šag₄
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,A22,e₂
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,A23,e₂-gal ni₂ gur₃-Xbr-na
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,B1,
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,B2,
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,B3,
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,B4,
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,B5,
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,B6,kug
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,B7,
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,B8,
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,B9,{d}en-X
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,B10,
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,B11,{d}en-X
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,B12,{d}iš-X-X-da-gan-na
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,B13,X-mu-X-ab-be₂
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,B14,sa-ŋar-ra-am₃
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,B15,{d}en-lil₂-la₂
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,B16,
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,B17,ŋiš-gi₄-ŋal₂ sa-ŋar-ra-bi-im
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,B18,
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,B23,u₁₈-ru₁₂-bi-im
+c.2.5.4.13,An adab to Nanna for Išme-Dagan (Išme-Dagan M),B,B24,a-da-ab {d}nanna-kam

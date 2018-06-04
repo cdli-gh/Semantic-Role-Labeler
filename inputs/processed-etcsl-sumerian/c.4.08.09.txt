@@ -1,0 +1,47 @@
+id_text,text_name,version,l_no,text
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,1,ama-me-da nu-me-a sila a-ŋi₆ edin-na i-iŋ₃-ŋi₆-in-sar-re
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,2,šul-e ama-me-da nu-me-a sila a-ŋi₆ edin-na i-iŋ₃-ŋi₆-in-sar-re
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,3,ama-ŋu₁₀ {d}ga-ša-an-gal-da nu-me-a sila a-ŋi₆ edin-na i-iŋ₃-ŋi₆-in-sar-re
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,4,{d}ga-ša-an-gi-kug-ga-da nu-me-a sila a-ŋi₆ edin-na i-iŋ₃-ŋi₆-in-sar-re
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,5,a-a {d}suen-da nu-me-a sila a-ŋi₆ edin-na i-iŋ₃-ŋi₆-in-sar-re
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,6,šeš-ŋu₁₀ {d}utu-da nu-me-a sila a-ŋi₆ edin-na i-iŋ₃-ŋi₆-in-sar-re
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,7,{lu₂}ki-sikil du₁₄-gin₇ na-an-mu₂-mu₂-un
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,8,{d}inana inim-gin₇ ga-am₃-me-en-de₃-en
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,9,{d}inana du₁₄-gin₇ na-an-mu₂-mu₂-un
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,10,{d}nin-e₂-gal-la ad-gin₇ ga-am₃-gi₄-de₃-en
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,11,a-a-ŋu₁₀ a-a-zu-gin₇ in-ga-dim₂
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,12,{d}inana inim-gin₇ ga-am₃-me-en-de₃-en
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,13,ama-ŋu₁₀ ama-zu-gin₇ in-ga-dim₂
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,14,{d}nin-e₂-gal-la ad-gin₇ ga-am₃-gi₄-de₃-en
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,15,{d}ŋeštin-an-na {d}nin-X-he₂-nu-X-gin₇ in-ga-dim₂
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,16,{d}inana inim-gin₇ ga-am₃-me-en-de₃-en
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,17,ŋe₂₆-e {d}utu-gin₇ in-ga-dim₂-me-en
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,18,{d}nin-e₂-gal-la ad-gin₇ ga-am₃-gi₄-de₃-en
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,19,{d}en-ki {d}suen-gin₇ in-ga-dim₂
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,20,{d}inana inim-gin₇ ga-am₃-me-en-de₃-en
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,21,{d}dur₇-tur {d}nin-gal-gin₇ in-ga-dim₂
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,22,{d}nin-e₂-gal-la ad-gin₇ ga-am₃-gi₄-de₃-en
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,23,inim bi₂-in-eš-a inim hi-li-eš-am₃
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,24,du₁₄ mu₂-mu₂-da-a hi-li šag₄-ga-na-ke₄
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,25,{na₄}šuba-ke₄ {na₄}šuba-ke₄ {na₄}šuba na-ur₁₁-ru
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,26,{d}ama-ušumgal-an-na {na₄}šuba-ke₄ {na₄}šuba na-ur₁₁-ru
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,27,{na₄}šuba-na {na₄}šuba tur-tur-bi nu-mu-ne₂-eš na-ŋa₂-ŋa₂
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,28,{na₄}šuba-na {na₄}šuba gal-gal-bi guru₇-še₃ na-du₃-du₃
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,29,ur₃-ra la₂-la₂-a ur₃-ra mu-na-ab-la₂-la₂
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,30,{d}inana bad₃-da la₂-la₂-a bad₃-da mu-na-ab-la₂-la₂
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,31,{d}ama-ušumgal-an-na-ra gu₃ mu-na-de₂-e
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,32,{na₄}šuba ur₁₁-ru {na₄}šuba ur₁₁-ru a-ba-a mu-na-ur₁₁-ru
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,33,{d}ama-ušumgal-an-na {na₄}šuba ur₁₁-ru a-ba-a mu-na-ur₁₁-ru
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,34,{na₄}šuba-na {na₄}šuba tur-tur-bi ši-pa-aŋ₂-me de₃-a
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,35,{na₄}šuba-na {na₄}šuba gal-gal-bi gaba kug-me de₃-a
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,36,{d}ama-ušumgal-an-na nu-u₈-gig-ra inim mu-ni-ib-gi₄-gi₄
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,37,nu-u₈-gig-ga-am₃ dam-ŋu₁₀ nu-u₈-gig-ga-am₃ e-ne-er mu-na-ur₁₁-ru
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,38,kug {d}inana-ke₄ nu-bar-ra e-ne-er mu-na-ur₁₁-ru
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,39,{na₄}šuba-na-ke₄ {na₄}šuba-na-ke₄ {na₄}šuba na-ur₁₁-ru
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,40,{d}ama-ušumgal-an-na-ke₄ {na₄}šuba-na-ke₄ {na₄}šuba na-ur₁₁-ru
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,41,{na₄}šuba ur₁₁-ru {na₄}šuba ur₁₁-ru a-ba-a mu-na-ur₁₁-ru
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,42,{d}ama-ušumgal-an-na {na₄}šuba ur₁₁-ru a-ba-a mu-na-ur₁₁-ru
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,43,ma-ab-du₃-da-a-ŋa₂ ma-ab-du₃-da-a-ŋa₂ sun₄-a-ni {na₄}za-gin₃-na
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,44,me-a-am an-ne₂ ma-ab-du₃-da-a-ŋa₂ sun₄-a-ni {na₄}za-gin₃-na
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,45,sun₄-a-ni {na₄}za-gin₃-na sun₄-a-ni {na₄}za-gin₃-na
+c.4.08.09,A kunŋar to Inana (Dumuzid-Inana I),,46,kun-ŋar {d}inana-kam

@@ -1,0 +1,61 @@
+id_text,text_name,version,l_no,text
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,1,en gal šag₄ zid-ta nam dug₃-ge-eš tar-ra
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,2,{d}nu-muš-da en gal šag₄ zid-ta nam dug₃-ge-eš tar-ra
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,3,numun kug a {d}suen-e bi₂-in-ru-a
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,4,{d}nin-gal-le mi-ni-in-dim₂-dim₂
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,5,kur sikil-la he₂-ŋal₂-e u₃-tud-da
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,6,gurun kiri₆ sig₇-ga gu₇-a
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,7,an {d}en-lil₂-bi mu dug₃ sa₄-a
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,8,nin gal {d}nin-lil₂-le mi₂ zid-de₃-eš dug₄-ga
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,9,{d}nu-muš-da dumu nun-na muš₃ me-lem₄ du₈-du₈
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,10,sumun₂ gal ki-bal si mul di
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,11,{d}nu-muš-da en gal
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,12,šag₄-ba-tuku-am₃
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,13,piriŋ guru₅-uš bur₂ me₃-še₃ u₃-na gub-bu
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,14,muš-šag₄-tur₃ gu₂-erim₂-ra šeg₁₁ i-ni-in-gi₄
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,15,ušumgal mah tu₆ kug-ga al-gi₄-a
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,16,im₂-ma dub₃ nu-silig-ga
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,17,i-zi hu-luh-ha na-me gaba nu-ru-gu₂
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,18,a e₃-e mah peš₁₀ ur₄-ur₄-re
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,19,ud iri mu-un-til nu-mu-gi₄
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,20,diŋir saŋ-mud-ŋal₂ gaba-šu-ŋar nu-tuku
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,21,saŋ-kal nam-ur-saŋ-ŋa₂ a-ba e-da-sa₂-am₃
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,22,igi-zu piriŋ-am₃ giri₁₇ muš-huš ni₂ ri
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,23,{d}nu-muš-da
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,24,šag₄-ba-tuku ₂-bi
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,25,a₂-zu sa-par₃-am₃ kur še nu-zu-ba
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,26,umbin-zu umbin hu-ri₂-in-na lu₂ hul-ŋal₂ ha-ha-X
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,27,nam-nir-ŋal₂-zu-še₃ saŋ na-me nu-šum₂-mu
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,28,nam-mah nam-gur₄-zu ar₂-re-eš ka-ge dib
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,29,inim dug₄-ga-zu sag₂ di nu-zu
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,30,saŋ-ba du
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,31,diŋir-ŋu₁₀ lugal-ra kur nu-še-ga-na šu-ni-še₃ si-bi₂-ib
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,32,{d}nu-muš-da nun {d}suen-i-qi₂-ša-am kur nu-še-ga-na šu-ni-še₃ si-bi₂-ib
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,33,sa-gid₂-da ŋiš-gi₄-ŋal₂
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,34,ur-saŋ usu er₉-ra me galam-ma šu du₇
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,35,{d}nu-muš-da ur-saŋ usu er₉-ra me galam-ma šu du₇
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,36,diŋir me-dim₂ gud-alim igi bar-bar-re-de₃ du₇
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,37,a-a-zu {d}suen-gin₇ zi til₃-le ki ba-e-a-aŋ₂
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,38,niŋ₂-zid-de₃ bar tam-me niŋ₂-erim₂ ud za-ha-al ak
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,39,e₂-kiš-nu-ŋal₂ ki-tuš kug nam-nun-na
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,40,me-zu me kal-kal šu-luh-zu dadag-ga-am₃
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,41,{d}nu-muš-da ur-saŋ usu er₉-ra me galam-ma šu du₇
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,42,{d}nu-nam-nir en nam tar-tar-re
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,43,kur niŋ₂-daŋal-la-ba mu-zu im-mi-in-mah
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,44,iri nam-he₂ ki dug₃-ga ŋar-ra
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,45,ka-zal-lu{ki} kur he₂-ŋal₂-la ki-šu-peš mi-ri-in-zu
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,46,kun₄-sa-tu barag nam-en-na-zu
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,47,inim nu-kur₂-ru-da-na u₃-tud-ba bi₂-in-dug₄
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,48,ŋiš-hur ha-lam-ma-a-bi pa e₃-a ak-de₃
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,49,iri šub-šub-bu-da-bi ki-bi gi₄-gi₄-de₃
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,50,a-a {d}en-lil₂ šag₄-ga-ni nam-de₆
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,51,sipad zid lu₂ ŋiš-hur-zu ki aŋ₂-ŋa₂
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,52,nun {d}suen-i-qi₂-ša-am a₂-bi mu-da-an-aŋ₂
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,53,iri a₂-dam-zu ki-tuš ne-ha bi₂-in-tuš
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,54,id₂-zu mu-ba-al-ba-al eg₂ pa₅ si mi-in-sa₂
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,55,a he₂-ŋal₂ du-ri₂-še₃ nu-til-le-da
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,56,kalam-za mi-in-ŋar niŋ₂-du₇ pa bi₂-in-e₃
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,57,inim sag₉-sag₉-ge-da-ni-še₃ igi zid bar-mu-ši-ib
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,58,nun {d}suen-i-qi₂-ša-am-ra igi zid bar-mu-ši-ib
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,59,lugal šag₄ hul₂-la ud-da-ni he₂-su₃-ud
+c.2.6.7.1,A hymn to Numušda for Sîn-iqīšam (Sîn-iqīšam A),,60,{d}nu-muš-da

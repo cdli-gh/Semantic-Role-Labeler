@@ -1,0 +1,128 @@
+id_text,text_name,version,l_no,text
+c.4.14.3,Nanše and the birds (Nanše C),,A1,u₅{mušen} ŋiš-gi kug-ta nam-ta-e₃
+c.4.14.3,Nanše and the birds (Nanše C),,A2,ŋiš-gi kug-ga-ta nam-ta-e₃
+c.4.14.3,Nanše and the birds (Nanše C),,A3,u₅{mušen} kug-zu ud an-šag₄-ge mu-un-zal
+c.4.14.3,Nanše and the birds (Nanše C),,A4,u₅{mušen}-e an-na mu-ni-ib₂-gi₄
+c.4.14.3,Nanše and the birds (Nanše C),,A5,dug₃-ga-am₃ gu₃-bi ab-sag₉-X
+c.4.14.3,Nanše and the birds (Nanše C),,A6,nin-ŋu₁₀ u₅{mušen}-a-ni hi-li
+c.4.14.3,Nanše and the birds (Nanše C),,A7,in-nin₉ ama {d}nanše u₅{mušen}-a-ni hi-li
+c.4.14.3,Nanše and the birds (Nanše C),,A8,in-nin₉-me-en u₅{mušen}-ŋu₁₀ a-gin₇ ŋe₂₆-e a-gin₇ sag₉
+c.4.14.3,Nanše and the birds (Nanše C),,A9,{d}nanše-me-en u₅{mušen}-ŋu₁₀ a-gin₇ kug-e a-gin₇ sag₉
+c.4.14.3,Nanše and the birds (Nanše C),,A10,ni₂-te-a-ni u₅{mušen} gal-gin₇ a-a
+c.4.14.3,Nanše and the birds (Nanše C),,A11,e-ne an-ta ki-a gub-ba-am₃
+c.4.14.3,Nanše and the birds (Nanše C),,A12,šilam kug-gin₇ a-a
+c.4.14.3,Nanše and the birds (Nanše C),,A13,u₅{mušen} kug šilam babbar a bar-ra a bi₂-in-naŋ
+c.4.14.3,Nanše and the birds (Nanše C),,A14,a-ŋi₆ uru₁₆-da zag
+c.4.14.3,Nanše and the birds (Nanše C),,A15,{d}nanše su₃-ra₂-aŋ₂-ŋe₂₆-e
+c.4.14.3,Nanše and the birds (Nanše C),,A16,{d}a-nun-na diŋir gal-gal-e-ne-ke₄
+c.4.14.3,Nanše and the birds (Nanše C),,A17,in-nin₉ ama {d}nanše munus zid
+c.4.14.3,Nanše and the birds (Nanše C),,A18,{d}nanše nin₉ za₃-mi₂ dug₄-ga {d}a-nun-na-ke₄-ne
+c.4.14.3,Nanše and the birds (Nanše C),,A19,ama um-ma sag₉-ga {d}en-lil₂-la₂
+c.4.14.3,Nanše and the birds (Nanše C),,A20,{d}nanše u₅{mušen}-a-ni hul₂-la-e
+c.4.14.3,Nanše and the birds (Nanše C),,A21,eš₃ za-gin₃-na ba-an-ŋar
+c.4.14.3,Nanše and the birds (Nanše C),,A22,u₅{mušen} kug-ga ŋiri₃-ni ba-an-dur₂-ru
+c.4.14.3,Nanše and the birds (Nanše C),,A23,in-nin₉-me-en mušen-ŋu₁₀ zar ab-du₈-še₃ gu₂ ha-ma-ab-si-si
+c.4.14.3,Nanše and the birds (Nanše C),,A24,{d}nanše-me-en mušen-ŋu₁₀ zar ab-du₈-še₃ gu₂ ha-ma-ab-si-si
+c.4.14.3,Nanše and the birds (Nanše C),,A25,mušen an ki-a he₂-em-gub
+c.4.14.3,Nanše and the birds (Nanše C),,A26,mušen mu nu-zu sizkur he₂-em-tum₂
+c.4.14.3,Nanše and the birds (Nanše C),,A27,mušen sa nu-zu he₂-em-DU
+c.4.14.3,Nanše and the birds (Nanše C),,A28,mušen su-din gu₃ nu-e šu keše₂-ra₂-X
+c.4.14.3,Nanše and the birds (Nanše C),,A29,mušen-e an-na dub₃ mu-un-bad-bad-de₃
+c.4.14.3,Nanše and the birds (Nanše C),,A30,anzud{mušen}-de₃ {d}a-nun-na-ke₄-ne-bi nam mu-un-di-ni-ib₂-tar-re
+c.4.14.3,Nanše and the birds (Nanše C),,A31,zu₂-sis{mušen}-e a ŋeštug-ga im-ta-ra-e₃
+c.4.14.3,Nanše and the birds (Nanše C),,A32,in-nin-ŋu₁₀ ur₂
+c.4.14.3,Nanše and the birds (Nanše C),,A33,mušen zu₂-sis{mušen}-me-en ni₂-ŋa₂
+c.4.14.3,Nanše and the birds (Nanše C),,A34,{d}nanše-ŋu₁₀ ur₂
+c.4.14.3,Nanše and the birds (Nanše C),,A35,mušen zu₂-sis{mušen}-me-en ni₂-ŋa₂
+c.4.14.3,Nanše and the birds (Nanše C),,A36,an-ta gi₄
+c.4.14.3,Nanše and the birds (Nanše C),,A37,
+c.4.14.3,Nanše and the birds (Nanše C),,A38,
+c.4.14.3,Nanše and the birds (Nanše C),,A39,hu-ri₂-in{mušen}
+c.4.14.3,Nanše and the birds (Nanše C),,A40,hu-ri₂-in{mušen}
+c.4.14.3,Nanše and the birds (Nanše C),,A41,am-e kur-ur₂-ra ŋiš ba-ni-ib-ra-am₃
+c.4.14.3,Nanše and the birds (Nanše C),,A42,tarah-e kur-bad₃-da ŋiš ba-ni-ib-ra-am₃
+c.4.14.3,Nanše and the birds (Nanše C),,A43,a₁₂-ra₂-bu{mušen} a₁₂-ra₂-bu{mušen} nunuz-zu dadag-ga-am₃
+c.4.14.3,Nanše and the birds (Nanše C),,A44,mušen a₁₂-ra₂-bu{mušen} nunuz-zu dadag-ga-am₃
+c.4.14.3,Nanše and the birds (Nanše C),,A45,nunuz-zu kug-ga-am₃ nunuz-zu lu₂ me-a ba-an-tum₃
+c.4.14.3,Nanše and the birds (Nanše C),,A46,ga-nu₁₁{mušen} hur-saŋ-ŋa₂ nunuz
+c.4.14.3,Nanše and the birds (Nanše C),,A47,nunuz-bi niŋ₂ il₂-la šu nam-ma-an-ti
+c.4.14.3,Nanše and the birds (Nanše C),,A48,mušen-e ŋi₆-a en-nu-uŋ₃ im-mi-in-zu
+c.4.14.3,Nanše and the birds (Nanše C),,A49,{d}ha-ia₃{mušen} en-nu-uŋ₃-ŋa₂ ud mi-ni-ib₂-zal-zal-e
+c.4.14.3,Nanše and the birds (Nanše C),,A50,mušen kug {d}ha-ia₃{mušen} {d}ha-ia₃{mušen} ud mi-ni-ib₂-zal-zal-e
+c.4.14.3,Nanše and the birds (Nanše C),,A51,mušen {na₄}gug-ta gug {na₄}za-gin₃-ta za-gin₃
+c.4.14.3,Nanše and the birds (Nanše C),,A52,{na₄}nir₂-ta nir₂ kug-sig₁₇ na-me-a kuš kug-sig₁₇ ŋar-ra
+c.4.14.3,Nanše and the birds (Nanše C),,A53,{d}ha-ia₃{mušen} tibira-e hu-mu-ri-ib-sig₁₀-ge
+c.4.14.3,Nanše and the birds (Nanše C),,A54,mušen-e an-na te₈{mušen} uš-bar te₈{mušen} uš-bar
+c.4.14.3,Nanše and the birds (Nanše C),,A55,te₈-uz{mušen}-e an-na te₈{mušen} uš-bar te₈{mušen} uš-bar
+c.4.14.3,Nanše and the birds (Nanše C),,A56,a₂-bi teš₂-am₃ ŋiri₃-bi teš₂-am₃
+c.4.14.3,Nanše and the birds (Nanše C),,A57,šu gal
+c.4.14.3,Nanše and the birds (Nanše C),,A58,akkil-bi ŋeštug-e
+c.4.14.3,Nanše and the birds (Nanše C),,A59,gambiₓ{mušen} akkil-bi pa
+c.4.14.3,Nanše and the birds (Nanše C),,A60,luh šu gu₂-sur{mušen}
+c.4.14.3,Nanše and the birds (Nanše C),,A61,dumu nun-na
+c.4.14.3,Nanše and the birds (Nanše C),,A62,id₂-da ŋiš-gi
+c.4.14.3,Nanše and the birds (Nanše C),,A63,
+c.4.14.3,Nanše and the birds (Nanše C),,B3,na₄ šu im-ta-du₇-du₇
+c.4.14.3,Nanše and the birds (Nanše C),,B4,mi-sa-az{mušen} mur ša₄
+c.4.14.3,Nanše and the birds (Nanše C),,B5,mušen gig
+c.4.14.3,Nanše and the birds (Nanše C),,B6,muš-gu₇{mušen} sig₇-ga-am₃ im-X-an-sig₉-ga
+c.4.14.3,Nanše and the birds (Nanše C),,B7,a₂-bi ma₂-gur₈
+c.4.14.3,Nanše and the birds (Nanše C),,B8,um{mušen}-e en zid kug ib₂-ŋal₂
+c.4.14.3,Nanše and the birds (Nanše C),,B9,gu₂-bi₂{mušen} tal₂-tal₂-le
+c.4.14.3,Nanše and the birds (Nanše C),,B10,te₈{mušen} ib-ši-ku₄-ku₄
+c.4.14.3,Nanše and the birds (Nanše C),,B11,mušen im-X
+c.4.14.3,Nanše and the birds (Nanše C),,B12,mu-na-ŋa₂-ŋa₂
+c.4.14.3,Nanše and the birds (Nanše C),,B13,na-ŋa₂-ŋa₂
+c.4.14.3,Nanše and the birds (Nanše C),,B14,
+c.4.14.3,Nanše and the birds (Nanše C),,C1,gi₄-X{mušen}
+c.4.14.3,Nanše and the birds (Nanše C),,C2,{d}nin-hur-saŋ-ka niŋ₂-gur₁₁-ra-ni-še₃ kur-re ba-ab-de₆
+c.4.14.3,Nanše and the birds (Nanše C),,C3,niŋ₂-gur₁₁-ra-ni-še₃ ki kiŋ₂-kiŋ₂-da-ni-še₃
+c.4.14.3,Nanše and the birds (Nanše C),,C4,mušen-e niŋ₂-gur₁₁-mu-du-um{mušen} mu-še₃ ba-an-sa₄-Xbr
+c.4.14.3,Nanše and the birds (Nanše C),,C5,niŋ₂-gur₁₁-mu-du-um{mušen} gu₃ im-de₂
+c.4.14.3,Nanše and the birds (Nanše C),,C6,edin keš₃{ki}-a-ka i-si-iš mu-un-ŋa₂-ŋa₂-ŋa₂
+c.4.14.3,Nanše and the birds (Nanše C),,C7,mušen bal-bal e₂-gal-la lug-lug-ga
+c.4.14.3,Nanše and the birds (Nanše C),,C8,MUNUS-MUNUS{mušen}-e ni₂-bi-še₃ er₂ im-ši-še₈-še₈
+c.4.14.3,Nanše and the birds (Nanše C),,C9,kiši₆-bar{mušen} gada ha-ad-e du₇-a kar-ra ŋal₂-la-am₃
+c.4.14.3,Nanše and the birds (Nanše C),,C10,kiši₆-bar{mušen}-gu-ru-ug{mušen} su₄-a tug₂-gun₄-na ŋiš-gi-a la₂-a
+c.4.14.3,Nanše and the birds (Nanše C),,C11,UD-ša₄{mušen}-e a-zag-gur₁₁{ku₆} mi-ni-ib-dab₅-dab₅-be₂
+c.4.14.3,Nanše and the birds (Nanše C),,C12,giri₁₆-i-lu{mušen} ni₂ uŋ₃-ŋa₂ giri₁₆-i-lu-bi
+c.4.14.3,Nanše and the birds (Nanše C),,C13,li-li-bi-sig{mušen}-e bar u₂-gin₇ im-de₅-de₅
+c.4.14.3,Nanše and the birds (Nanše C),,C14,sa₄{mušen} gud₃ amar-bi bar-ba nam-mi-ib₂-sa₄
+c.4.14.3,Nanše and the birds (Nanše C),,C15,dub₂-dub₂-bu{mušen}-e ni₂-bi
+c.4.14.3,Nanše and the birds (Nanše C),,C16,šeg₅-šeg₅{mušen}-e lu₂-tur er₂ pad₃-da-gin₇ šeₓ na-ŋa₂-ŋa₂
+c.4.14.3,Nanše and the birds (Nanše C),,C17,gu₂-bi-gu₂-zag-ga{mušen} lu₂ šag₄ dab₅-ba-gin₇
+c.4.14.3,Nanše and the birds (Nanše C),,D1,
+c.4.14.3,Nanše and the birds (Nanše C),,D2,
+c.4.14.3,Nanše and the birds (Nanše C),,D3,sig₇-ga ba-tur
+c.4.14.3,Nanše and the birds (Nanše C),,D4,X{mušen}-e kiši₆ ki-in-dar-ra-gin₇
+c.4.14.3,Nanše and the birds (Nanše C),,D5,{d}ba-u₂ a nam-tu₅-tu₅ me šu mu-un-na-keše₂
+c.4.14.3,Nanše and the birds (Nanše C),,D6,ti-gi₄-lu{mušen} suhuš dar-ra zu₂ keše₂
+c.4.14.3,Nanše and the birds (Nanše C),,D7,tum₁₂{mušen}-e gana₂ daŋal-la mi₂
+c.4.14.3,Nanše and the birds (Nanše C),,D8,tum₁₂-gur₄{mušen}-e kislah lugal-la gig-bi
+c.4.14.3,Nanše and the birds (Nanše C),,D9,u₅-bi{mušen} u₅-dar{mušen}-e kiši₆
+c.4.14.3,Nanše and the birds (Nanše C),,D10,mušen-e ki
+c.4.14.3,Nanše and the birds (Nanše C),,D11,šita₃-na maš₂-anše-gin₇ e-ne nam
+c.4.14.3,Nanše and the birds (Nanše C),,D12,kug sikil nam
+c.4.14.3,Nanše and the birds (Nanše C),,D13,sun₅-bi dumu nu-siki-gin₇ ki
+c.4.14.3,Nanše and the birds (Nanše C),,D14,ha-mun{mušen}-e ha-mun-e šag₄ gada mu-ni-ib-la₂
+c.4.14.3,Nanše and the birds (Nanše C),,D15,ŋeštin-na ŋeštin-na-gin₇
+c.4.14.3,Nanše and the birds (Nanše C),,E1,igira₂{mušen}
+c.4.14.3,Nanše and the birds (Nanše C),,E2,gir-gid₂{mušen}
+c.4.14.3,Nanše and the birds (Nanše C),,E3,dur{mušen} dur
+c.4.14.3,Nanše and the birds (Nanše C),,E4,igi ŋeštin-na gu₂
+c.4.14.3,Nanše and the birds (Nanše C),,E5,dar{mušen}-e en-nu-uŋ₃
+c.4.14.3,Nanše and the birds (Nanše C),,E6,dar{mušen} ti-ku-ti-ku-ma-e
+c.4.14.3,Nanše and the birds (Nanše C),,E7,du₇-uš₂{mušen}-e ambar-re
+c.4.14.3,Nanše and the birds (Nanše C),,E8,a-dar-dar-ra{mušen}-ke₄ tug₂ sim{mušen}
+c.4.14.3,Nanše and the birds (Nanše C),,E9,TUM-keše₂{mušen}-de₃ gu la₂-a-ta ni₂-bi
+c.4.14.3,Nanše and the birds (Nanše C),,E10,zu₂-keše₂{mušen}-de₃ ambar zu₂ keše₂-de₃
+c.4.14.3,Nanše and the birds (Nanše C),,E11,šu-ur₃{mušen}-e a₂ tal₂-bi saŋ-bi
+c.4.14.3,Nanše and the birds (Nanše C),,E12,u₃-ku-ku{mušen}-e di-li-bi-pi-la ud mi-ni-ib₂-zal-zal-e
+c.4.14.3,Nanše and the birds (Nanše C),,E13,sipad{mušen} ulu₃-di-ig ulu₃-di-ig gu₃ i₃-de₂-de₂-e
+c.4.14.3,Nanše and the birds (Nanše C),,E14,sipad{mušen} dur-dar{mušen}-gin₇ gun₃-a suh₁₀ saŋ-ŋa₂ mi-ni-ib₂-ŋal₂
+c.4.14.3,Nanše and the birds (Nanše C),,E15,nu-erim₂-la₂{mušen} ab-ta gi-du₃-a ba-ra-am₃-da-lug-ga-am₃
+c.4.14.3,Nanše and the birds (Nanše C),,E16,ti-ri₂-da{mušen} ŋiš-gi-a ti-ri₂-da ba-e-sa₄
+c.4.14.3,Nanše and the birds (Nanše C),,E17,ku₆ mušen-e ki aŋ₂-me-en
+c.4.14.3,Nanše and the birds (Nanše C),,E18,sag₂ nu-di-me-en
+c.4.14.3,Nanše and the birds (Nanše C),,E19,nu-tur-re-me-en
+c.4.14.3,Nanše and the birds (Nanše C),,E20,in-nin₉ ama {d}nanše za₃-mi₂-zu dug₃-ga-am₃

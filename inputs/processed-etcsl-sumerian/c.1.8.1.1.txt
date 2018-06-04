@@ -1,0 +1,118 @@
+id_text,text_name,version,l_no,text
+c.1.8.1.1,Gilgameš and Aga,,1,lu₂-kiŋ₂-gi₄-a ag-ga dumu en-me-barag-ge₄-si-ke₄
+c.1.8.1.1,Gilgameš and Aga,,2,kiš{ki}-ta {d}gilgameš₂ unug{ki}-še₃ mu-un-ši-re₇-eš
+c.1.8.1.1,Gilgameš and Aga,,3,{d}gilgameš₂ igi ab-ba iri{ki}-na-še₃
+c.1.8.1.1,Gilgameš and Aga,,4,inim ba-an-ŋar inim i₃-kiŋ₂-kiŋ₂-e
+c.1.8.1.1,Gilgameš and Aga,,5,tul₂ til-le-da tul₂ kalam til-til-le-da
+c.1.8.1.1,Gilgameš and Aga,,6,tul₂ niŋ₂ ban₃-da kalam til-til-le-da
+c.1.8.1.1,Gilgameš and Aga,,7,tul₂ buru₃-da eš₂ la₂ til-til-le-da
+c.1.8.1.1,Gilgameš and Aga,,8,e₂ kiš{ki}-še₃ gu₂ nam-ba-an-ŋa₂-ŋa₂-an-de₃-en {ŋeš}tukul nam-ba-an-sag₃-ge-en-de₃-en
+c.1.8.1.1,Gilgameš and Aga,,9,unken ŋar-ra ab-ba iri-na-ka
+c.1.8.1.1,Gilgameš and Aga,,10,{d}gilgameš₂ mu-na-ni-ib-gi₄-gi₄
+c.1.8.1.1,Gilgameš and Aga,,11,tul₂ til-le-da tul₂ kalam til-til-le-da
+c.1.8.1.1,Gilgameš and Aga,,12,tul₂ niŋ₂ ban₃-da kalam til-til-le-da
+c.1.8.1.1,Gilgameš and Aga,,13,tul₂ buru₃-da eš₂ la₂ til-til-le-da
+c.1.8.1.1,Gilgameš and Aga,,14,e₂ kiš{ki}-še₃ gu₂ ga-am₃-ŋa₂-ŋa₂-an-de₃-en {ŋeš}tukul nam-ba-sag₃-ge-en-de₃-en
+c.1.8.1.1,Gilgameš and Aga,,15,{d}gilgameš₂ en kul-aba₄{ki}-a-ke₄
+c.1.8.1.1,Gilgameš and Aga,,16,{d}inana-ra nir-ŋal₂-la-e
+c.1.8.1.1,Gilgameš and Aga,,17,inim ab-ba iri-na-ke₄ šag₄-še₃ nu-mu-na-gid₂
+c.1.8.1.1,Gilgameš and Aga,,18,₂-kam-ma-še₃ {d}gilgameš₂ en kul-aba{ki}-a-ke₄ igi ŋuruš iri{ki}-na-še₃
+c.1.8.1.1,Gilgameš and Aga,,19,inim ba-an-ŋar inim i₃-kiŋ₂-kiŋ₂-e
+c.1.8.1.1,Gilgameš and Aga,,20,tul₂ til-le-da tul₂ kalam til-til-le-da
+c.1.8.1.1,Gilgameš and Aga,,21,tul₂ niŋ₂ ban₃-da kalam til-til-le-da
+c.1.8.1.1,Gilgameš and Aga,,22,tul₂ buru₃-da eš₂ la₂ til-til-le-da
+c.1.8.1.1,Gilgameš and Aga,,23,e₂ kiš{ki}-še₃ gu₂ nam-ba-an-ŋar-re-en-ze₂-en {ŋeš}tukul nam-ba-an-sag₃-ge-en-ze₂-en
+c.1.8.1.1,Gilgameš and Aga,,24,unken ŋar-ra ŋuruš iri{ki}-na-ka {d}gilgameš₂ mu-na-ni-ib-gi₄-gi₄
+c.1.8.1.1,Gilgameš and Aga,,25,gub-gub-bu-de₃ tuš-tuš-u₃-de₃
+c.1.8.1.1,Gilgameš and Aga,,26,dumu lugal-la da ri-e-de₃
+c.1.8.1.1,Gilgameš and Aga,,27,zib₂ anše dab₅-dab₅-be₂-e-de₃
+c.1.8.1.1,Gilgameš and Aga,,28,a-ba zi-bi mu-un-tuku-e-še
+c.1.8.1.1,Gilgameš and Aga,,29,e₂ kiš{ki}-še₃ gu₂ nam-ba-an-ŋar-re-en-ze₂-en {ŋeš}tukul nam-ba-an-sag₃-ge-en-de₃-en
+c.1.8.1.1,Gilgameš and Aga,,30,unug{ki} ŋiš-kiŋ₂-ti diŋir-re-e-ne-ke₄
+c.1.8.1.1,Gilgameš and Aga,,31,e₂-an-na e₂ an-ta ed₃-de₃
+c.1.8.1.1,Gilgameš and Aga,,32,diŋir gal-gal-e-ne me-dim₂-bi ba-an-ak-eš-am₃
+c.1.8.1.1,Gilgameš and Aga,,33,bad₃ gal bad₃ an-ne₂ ki us₂-sa
+c.1.8.1.1,Gilgameš and Aga,,34,ki-tuš mah an-ne₂ ŋar-ra-ni
+c.1.8.1.1,Gilgameš and Aga,,35,saŋ mu-e-sig₁₀ za-e lugal ur-saŋ-bi
+c.1.8.1.1,Gilgameš and Aga,,36,saŋ lum-lum nun an-ne₂ ki aŋ₂
+c.1.8.1.1,Gilgameš and Aga,,37,du-a-ni-ta a-gin₇ ni₂ ba-an-te
+c.1.8.1.1,Gilgameš and Aga,,38,erin₂-bi al-tur a-ga-bi-ta al-bir-re
+c.1.8.1.1,Gilgameš and Aga,,39,lu₂-be₂-ne igi nu-mu-un-da-ru-gu₂-uš
+c.1.8.1.1,Gilgameš and Aga,,40,ud-bi-a {d}gilgameš₂ en kul-aba₄{ki}-ke₄
+c.1.8.1.1,Gilgameš and Aga,,41,inim ŋuruš iri-na-še₃ šag₄-ga-ni an-hul₂ ur₅-ra-ni ba-an-zalag
+c.1.8.1.1,Gilgameš and Aga,,42,šubur-a-ni en-ki-du₁₀-ra gu₃ mu-na-de₂-e
+c.1.8.1.1,Gilgameš and Aga,,43,ne-eš₂ {ŋeš}šu-kar₂ a₂ me₃ sa he₂-em-mi-gi₄
+c.1.8.1.1,Gilgameš and Aga,,44,{ŋeš}tukul me₃ a₂-zu-še₃ he₂-em-mi-gi₄
+c.1.8.1.1,Gilgameš and Aga,,45,ni₂ gal me-lem₄-ma he₂-em-dim₂-dim₂-e
+c.1.8.1.1,Gilgameš and Aga,,46,e-ne du-a-ni-ta ni₂ gal-ŋu₁₀ he₂-eb-šu₂
+c.1.8.1.1,Gilgameš and Aga,,47,dim₂-ma-ni he₂-suh₃ ŋalga-a-ni he₂-bir-re
+c.1.8.1.1,Gilgameš and Aga,,48,ud nu-₅-am₃ ud nu-₁₀-am₃
+c.1.8.1.1,Gilgameš and Aga,,49,ag-ga dumu en-me-barag-ge₄-si-ke₄ unug{ki} zag-ga ba-an-dab₅-be₂-eš
+c.1.8.1.1,Gilgameš and Aga,,50,unug{ki}-ga dim₂-ma-bi ba-an-suh₃
+c.1.8.1.1,Gilgameš and Aga,,51,{d}gilgameš₂ en kul-aba{ki}-ke₄
+c.1.8.1.1,Gilgameš and Aga,,52,ur-saŋ-be₂-ne-er gu₃ mu-ne-de₂-e
+c.1.8.1.1,Gilgameš and Aga,,53,ur-saŋ-ŋu₁₀-ne igi mu-un-suh-suh-u₃-ne
+c.1.8.1.1,Gilgameš and Aga,,54,šag₄ tuku he₂-en-zi-zi-i ag-ga-še₃ ga-an-ši-ŋen
+c.1.8.1.1,Gilgameš and Aga,,55,BIR-HAR-tur-ra lu₂-saŋ-lugal-a-ni
+c.1.8.1.1,Gilgameš and Aga,,56,lugal-a-ni-ir za₃-mi₂ mu-un-na-ab-be₂
+c.1.8.1.1,Gilgameš and Aga,,57,lugal-ŋu₁₀ ŋe₂₆-e ag-ga-še₃ ga-an-ši-ŋen
+c.1.8.1.1,Gilgameš and Aga,,58,dim₂-ma-ni he₂-suh₃ ŋalga-a-ni he₂-bir-re
+c.1.8.1.1,Gilgameš and Aga,,59,BIR-HAR-tur-ra abul-la ba-ra-e₃
+c.1.8.1.1,Gilgameš and Aga,,60,BIR-HAR-tur-ra abul-la ed₂-da-ni
+c.1.8.1.1,Gilgameš and Aga,,61,kan₄ abul-la-ka mu-ni-in-dab₅-be₂-eš
+c.1.8.1.1,Gilgameš and Aga,,62,BIR-HAR-tur-ra sukuₓ-ra₂-ni mu-ni-in-gum-gum-ne
+c.1.8.1.1,Gilgameš and Aga,,63,igi ag-ga-še₃ mu-ni-in-te
+c.1.8.1.1,Gilgameš and Aga,,64,ag-ga-še₃ gu₃ mu-na-de₂-e
+c.1.8.1.1,Gilgameš and Aga,,65,inim-ma-ni nu-un-til zabar-dab₅ unug{ki}-ga-ke₄ bad₃-še₃ im-me-ed₃-de₃
+c.1.8.1.1,Gilgameš and Aga,,66,bad₃-da gu₂-na im-ma-an-la₂
+c.1.8.1.1,Gilgameš and Aga,,67,ag-ga igi im-ma-ni-in-du₈
+c.1.8.1.1,Gilgameš and Aga,,68,BIR-HAR-tur-re gu₃ mu-na-de₂-e
+c.1.8.1.1,Gilgameš and Aga,,69,arad₂ lu₂ še lugal-zu-u₃
+c.1.8.1.1,Gilgameš and Aga,,70,lu₂ še lugal-ŋu₁₀ in-nu
+c.1.8.1.1,Gilgameš and Aga,,71,lu₂ še lugal-ŋu₁₀ he₂-me-a
+c.1.8.1.1,Gilgameš and Aga,,72,saŋ-ki huš-a-ni he₂-me-a
+c.1.8.1.1,Gilgameš and Aga,,73,igi alim-ma-ka-ni he₂-me-a
+c.1.8.1.1,Gilgameš and Aga,,74,sun₄ {na₄}za-gin₃-na-ka-a-ni he₂-me-a
+c.1.8.1.1,Gilgameš and Aga,,75,šu-si sag₉-ga-ni he₂-me-a
+c.1.8.1.1,Gilgameš and Aga,,76,šar₂-ra la-ba-an-šub-bu-uš šar₂-ra la-ba-an-zig₃-ge-eš
+c.1.8.1.1,Gilgameš and Aga,,77,šar₂-ra sahar-ra la-ba-an-da-šar₂-re-eš
+c.1.8.1.1,Gilgameš and Aga,,78,kur-kur du₃-a-bi la-ba-an-da-šu₂-a
+c.1.8.1.1,Gilgameš and Aga,,79,ka ma-da-ka sahar-ra la-ba-da-an-si
+c.1.8.1.1,Gilgameš and Aga,,80,si {ŋeš}ma₂-gur₈-ra-ka la-ba-ra-an-kud
+c.1.8.1.1,Gilgameš and Aga,,81,ag-ga lugal kiš{ki}-a šag₄ erin₂-na-ka-ni šaŋa-a la-ba-ni-in-ak
+c.1.8.1.1,Gilgameš and Aga,,82,mu-ni-ib-ra-ra-ne mu-ni-ib-sag₃-sag₃-ge-ne
+c.1.8.1.1,Gilgameš and Aga,,83,BIR-HAR-tur-re sukuₓ-ra₂-ni mu-ni-in-gum-gum-ne
+c.1.8.1.1,Gilgameš and Aga,,84,eŋer zabar-dab₅ unug{ki}-ga-ke₄ {d}gilgameš₂ bad₃-še₃ im-me-ed₃-de₃
+c.1.8.1.1,Gilgameš and Aga,,85,ab-ba di₄-di₄-la₂ kul-aba₄{ki}-a-ke₄ me-lem₄ bi₂-ib-šu₂-šu₂
+c.1.8.1.1,Gilgameš and Aga,,86,ŋuruš unug{ki}-ga-ke₄ {ŋeš}tukul me₃ a₂-ne-ne bi₂-in-si
+c.1.8.1.1,Gilgameš and Aga,,87,{ŋeš}ig abul-la-ka sila-ba bi₂-in-gub
+c.1.8.1.1,Gilgameš and Aga,,88,en-ki-du₁₀ abul-la dili ba-ra-e₃
+c.1.8.1.1,Gilgameš and Aga,,89,{d}gilgameš₂ bad₃-da gu₂-na im-ma-an-la₂
+c.1.8.1.1,Gilgameš and Aga,,90,igi bar-re-da-ni ag-ga igi ba-ni-in-du₈
+c.1.8.1.1,Gilgameš and Aga,,91,arad₂ lu₂ še lugal-zu-u₃
+c.1.8.1.1,Gilgameš and Aga,,92,lu₂ še lugal-ŋu₁₀ i₃-me-a
+c.1.8.1.1,Gilgameš and Aga,,93,bi₂-in-dug₄-ga-gin₇-nam
+c.1.8.1.1,Gilgameš and Aga,,94,šar₂-ra ba-an-šub-bu-uš šar₂-ra ba-an-zig₃-ge-eš
+c.1.8.1.1,Gilgameš and Aga,,95,šar₂-ra sahar-ra ba-an-da-šar₂-re-eš
+c.1.8.1.1,Gilgameš and Aga,,96,kur-kur du₃-a-bi ba-an-da-šu₂-am₃
+c.1.8.1.1,Gilgameš and Aga,,97,ka ma-da-ka sahar-ra ba-da-an-si
+c.1.8.1.1,Gilgameš and Aga,,98,si {ŋeš}ma₂-gur₈-ra-ke₄ ba-ra-an-kud
+c.1.8.1.1,Gilgameš and Aga,,99,ag-ga lugal kiš{ki}-a šag₄ erin₂-na-ka-ni šaŋa-a ba-ni-in-ak
+c.1.8.1.1,Gilgameš and Aga,,99A,ŋuruš unug{ki}-ga-ke₄ erin₂-bi
+c.1.8.1.1,Gilgameš and Aga,,100,{d}gilgameš₂ en kul-aba₄{ki}-ke₄
+c.1.8.1.1,Gilgameš and Aga,,101,ag-ga-a gu₃ mu-na-de₂-e
+c.1.8.1.1,Gilgameš and Aga,,102,ag-ga ugula-ŋu₁₀ ag-ga nu-banda₃-ŋu₁₀
+c.1.8.1.1,Gilgameš and Aga,,102A,ag-ga ensi₂-ŋu₁₀ ag-ga šagina-ŋu₁₀
+c.1.8.1.1,Gilgameš and Aga,,103,ag-ga šagina erin₂-na-ŋu₁₀
+c.1.8.1.1,Gilgameš and Aga,,104,ag-ga zi ma-an-šum₂ ag-ga nam-til₃ ma-an-šum₂
+c.1.8.1.1,Gilgameš and Aga,,105,ag-ga lu₂-kar-ra ur₂-ra bi₂-in-tum₂-mu
+c.1.8.1.1,Gilgameš and Aga,,106,ag-ga mušen kar-ra še bi₂-ib-si-si
+c.1.8.1.1,Gilgameš and Aga,,107,unug{ki} ŋiš-kiŋ₂-ti diŋir-re-e-ne-ke₄
+c.1.8.1.1,Gilgameš and Aga,,108,bad₃ gal bad₃ an-ne₂ ki us₂-sa
+c.1.8.1.1,Gilgameš and Aga,,109,ki-tuš mah an-ne₂ ŋar-ra-ni
+c.1.8.1.1,Gilgameš and Aga,,110,saŋ mu-sig₁₀ za-e lugal ur-saŋ-bi
+c.1.8.1.1,Gilgameš and Aga,,111,saŋ lum-lum nun an-ne₂ ki aŋ₂
+c.1.8.1.1,Gilgameš and Aga,,112,igi {d}utu-še₃ šu ud-bi-ta e-ra-an-gi₄
+c.1.8.1.1,Gilgameš and Aga,,113,ag-ga kiš{ki}-še₃ šu ba-ni-in-ba
+c.1.8.1.1,Gilgameš and Aga,,114,{d}gilgameš₂ en kul-aba₄{ki}-a-ke₄
+c.1.8.1.1,Gilgameš and Aga,,115,za₃-mi₂-zu dug₃-ga-am₃

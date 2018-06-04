@@ -1,0 +1,322 @@
+id_text,text_name,version,l_no,text
+c.2.1.5,The cursing of Agade,Old Babylonian,1,saŋ-ki gid₂-da {d}en-lil₂-la₂-ke₄
+c.2.1.5,The cursing of Agade,Old Babylonian,2,kiš{ki} gud an-na-gin₇ im-ug₅-ga-ta
+c.2.1.5,The cursing of Agade,Old Babylonian,3,e₂ ki unug{ki}-ga gud mah-gin₇ sahar-ra mi-ni-ib-gaz-a-ta
+c.2.1.5,The cursing of Agade,Old Babylonian,4,ki ud-ba šar-ru-gen₆ lugal a-ga-de₃{ki}-ra
+c.2.1.5,The cursing of Agade,Old Babylonian,5,sig-ta igi-nim-še₃ {d}en-lil₂-le
+c.2.1.5,The cursing of Agade,Old Babylonian,6,nam-en nam-lugal-la mu-un-na-an-šum₂-ma-ta
+c.2.1.5,The cursing of Agade,Old Babylonian,7,ud-ba eš₃ a-ga-de₃{ki} kug {d}inana-ke₄
+c.2.1.5,The cursing of Agade,Old Babylonian,8,ama₅ mah-a-ni-še₃ im-ma-an-du₃-du₃
+c.2.1.5,The cursing of Agade,Old Babylonian,9,ul-maš{ki}-a {ŋeš}gu-za ba-ni-in-gub
+c.2.1.5,The cursing of Agade,Old Babylonian,10,lu₂-tur gibil-bi e₂ du₃-u₃-gin₇
+c.2.1.5,The cursing of Agade,Old Babylonian,11,dumu ban₃-da ama₅ ŋa₂-ŋa₂-gin₇
+c.2.1.5,The cursing of Agade,Old Babylonian,12,e₂ niŋ₂-gur₁₁-ra niŋ₂ sa₂ di-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,13,iri{ki}-bi dur₂ ki ŋar šum₂-mu-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,14,uŋ₃-bi u₂ nir-ŋal₂ gu₇-u₃-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,15,uŋ₃-bi a nir-ŋal₂ na₈-na₈-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,16,saŋ a tu₅-a kisal hul₂-le-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,17,ki ezem-ma uŋ₃ sig₇-ge-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,18,lu₂ zu-u₃-ne teš₂-bi gu₇-u₃-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,19,lu₂ bar-ra mušen nu-zu-gin₇ an-na ni₁₀-ni₁₀-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,20,mar-ha-ši{ki} le-um-ma gur-ru-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,21,ugu₄-bi am-si mah ab₂-za-za u₂-ma-am ki ba₉-ra₂
+c.2.1.5,The cursing of Agade,Old Babylonian,22,šag₄ sila daŋal-la-ke₄ teš₂-bi tag-tag-ge-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,23,ur-gir₁₅ ur-nim tarah kur-ra {udu}a-lum zulumhi si
+c.2.1.5,The cursing of Agade,Old Babylonian,24,kug {d}inana-ke₄ u₃ nu-um-ši-ku-ku
+c.2.1.5,The cursing of Agade,Old Babylonian,25,ud-ba a-ga-de₃{ki} e₂ ziz₂-a-ba kug-sig₁₇ mi-ni-in-si
+c.2.1.5,The cursing of Agade,Old Babylonian,26,e₂ ziz₂ babbar-ra-ba kug-babbar mi-ni-in-si
+c.2.1.5,The cursing of Agade,Old Babylonian,27,arah₄ še-ba urud nagga {na₄}lagab za-gin₃-na sa₂ im-mi-in-dug₄-dug₄
+c.2.1.5,The cursing of Agade,Old Babylonian,28,guru₇-bi bar-ta im ba-an-ur₃
+c.2.1.5,The cursing of Agade,Old Babylonian,29,um-ma-bi ad gi₄-gi₄ ba-an-šum₂
+c.2.1.5,The cursing of Agade,Old Babylonian,30,ab-ba-bi ka-inim-ma ba-an-šum₂
+c.2.1.5,The cursing of Agade,Old Babylonian,31,ki-sikil-bi KI.E.NE.DI ba-an-šum₂
+c.2.1.5,The cursing of Agade,Old Babylonian,32,ŋuruš-bi a₂ {ŋeš}tukul-la ba-an-šum₂
+c.2.1.5,The cursing of Agade,Old Babylonian,33,di₄-di₄-la₂-bi šag₄ hul₂-la ba-an-šum₂
+c.2.1.5,The cursing of Agade,Old Babylonian,34,emeda-ga-la₂ šu gid₂ dumu šagina-ke₄-ne
+c.2.1.5,The cursing of Agade,Old Babylonian,35,{ŋeš}al-ŋar-sur₉-da e-ne im-di-ne
+c.2.1.5,The cursing of Agade,Old Babylonian,36,iri{ki} šag₄-bi tigi-a bar-bi-ta gi-gid₂ za-am-za-am-ma
+c.2.1.5,The cursing of Agade,Old Babylonian,37,kar {ŋeš}ma₂ us₂-bi mud₅-me-ŋar-ra
+c.2.1.5,The cursing of Agade,Old Babylonian,38,kur-kur u₂-sal-la i-im-nu₂
+c.2.1.5,The cursing of Agade,Old Babylonian,39,uŋ₃-bi ki sag₉-ga igi bi₂-ib-du₈
+c.2.1.5,The cursing of Agade,Old Babylonian,40,lugal-bi sipad {d}na-ra-am-{d}suen-e
+c.2.1.5,The cursing of Agade,Old Babylonian,41,barag kug a-ga-de₃{ki}-še₃ ud-de₃-eš₂ im-e₃
+c.2.1.5,The cursing of Agade,Old Babylonian,42,bad₃-bi hur-saŋ-gin₇ an-ne₂ im-us₂
+c.2.1.5,The cursing of Agade,Old Babylonian,43,abul-a-ba {id₂}idigna a-ab-ba-še₃ du-u₃-gin₇
+c.2.1.5,The cursing of Agade,Old Babylonian,44,kug {d}inana-ke₄ ka-bi ŋal₂ bi₂-in-taka₄
+c.2.1.5,The cursing of Agade,Old Babylonian,45,ki-en-gi-ra niŋ₂-gur₁₁ ni₂-ba-ta {ŋeš}ma₂ im-da-gid₂-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,46,mar-tu kur-ra lu₂ še nu-zu
+c.2.1.5,The cursing of Agade,Old Babylonian,47,gud du₇ maš₂ du₇-da mu-un-na-da-an-ku₄-ku₄
+c.2.1.5,The cursing of Agade,Old Babylonian,48,me-luh-ha{ki} lu₂ kur gig₂-ga-ke₄
+c.2.1.5,The cursing of Agade,Old Babylonian,49,niŋ₂-šu kur₂-kur₂-ra mu-un-na-ra-ab-ed₃-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,50,elam{ki} su-bir₄{ki} anše barag la₂-gin₇ niŋ₂ mu-na-ab-la₂-la₂
+c.2.1.5,The cursing of Agade,Old Babylonian,51,ensi₂-ensi₂ saŋŋa-e-ne
+c.2.1.5,The cursing of Agade,Old Babylonian,52,saŋ-tun₃ gu₂-edin-na-ke₄-ne
+c.2.1.5,The cursing of Agade,Old Babylonian,53,nidba itid-da zag-mu-bi si am₃-sa₂-e-ne
+c.2.1.5,The cursing of Agade,Old Babylonian,54,abula a-ga-de₃{ki}-ka a-gin₇ kuš₂ mi-ni-ib-ŋal₂
+c.2.1.5,The cursing of Agade,Old Babylonian,55,nidba-bi kug {d}inana-ke₄ šu teŋ₃-ŋe₂₆ nu-zu
+c.2.1.5,The cursing of Agade,Old Babylonian,56,dumu-gir₁₅-gin₇ e₂ ki ŋar di-da la-la-bi nu-um-gi₄
+c.2.1.5,The cursing of Agade,Old Babylonian,57,inim e₂-kur-ra me-gin₇ ba-an-ŋar
+c.2.1.5,The cursing of Agade,Old Babylonian,58,a-ga-de₃{ki} tuku₄-e mu-un-na-la₂-la₂
+c.2.1.5,The cursing of Agade,Old Babylonian,59,ul-maš{ki}-a ni₂ im-ma-ni-in-te
+c.2.1.5,The cursing of Agade,Old Babylonian,60,iri{ki}-ta dur₂-ra-ni ba-ra-ŋen
+c.2.1.5,The cursing of Agade,Old Babylonian,61,ki-sikil ama₅-na šub-bu-gin₇
+c.2.1.5,The cursing of Agade,Old Babylonian,62,kug {d}inana-ke₄ eš₃ a-ga-de₃{ki} mu-un-šub
+c.2.1.5,The cursing of Agade,Old Babylonian,63,ur-saŋ {ŋeš}tukul-a saŋ ŋa₂-ŋa₂-gin₇
+c.2.1.5,The cursing of Agade,Old Babylonian,64,iri{ki}-ta me₃ šen-šen im-ma-ra-e₃
+c.2.1.5,The cursing of Agade,Old Babylonian,65,lu₂-kur₂-ra-ra gaba ba-ni-in-ri
+c.2.1.5,The cursing of Agade,Old Babylonian,66,ud nu-₅-am₃ ud nu-₁₀-am₃
+c.2.1.5,The cursing of Agade,Old Babylonian,67,sa nam-en-na aga nam-lugal-la
+c.2.1.5,The cursing of Agade,Old Babylonian,68,ma-an-si-um {ŋeš}gu-za nam-lugal-la šum₂-ma
+c.2.1.5,The cursing of Agade,Old Babylonian,69,{d}nin-urta-ke₄ e₂-šu-me-ša₄-na ba-ni-in-kur₉
+c.2.1.5,The cursing of Agade,Old Babylonian,70,iri{ki} ka-inim-ma-bi {d}utu ba-an-de₆
+c.2.1.5,The cursing of Agade,Old Babylonian,71,ŋeštug₂-bi {d}en-ki-ke₄ ba-an-de₆
+c.2.1.5,The cursing of Agade,Old Babylonian,72,me-lem₄ an-ne₂ im-us₂-sa-a-bi
+c.2.1.5,The cursing of Agade,Old Babylonian,73,an-ne₂ an-šag₄-ga ba-e-ed₃
+c.2.1.5,The cursing of Agade,Old Babylonian,74,{ŋeš}dimgul kug im-du₃-du₃-a-bi
+c.2.1.5,The cursing of Agade,Old Babylonian,75,{d}en-ki-ke₄ abzu-a mi-ni-in-bu
+c.2.1.5,The cursing of Agade,Old Babylonian,76,{ŋeš}tukul-bi {d}inana-ke₄ ba-an-de₆
+c.2.1.5,The cursing of Agade,Old Babylonian,77,eš₃ a-ga-de₃{ki} zi-bi suhur{ku₆} tur-ra-gin₇ engur-ra ba-an-til
+c.2.1.5,The cursing of Agade,Old Babylonian,78,iri{ki} teš₂-bi igi-bi am₃-da-ŋal₂
+c.2.1.5,The cursing of Agade,Old Babylonian,79,am-si mah-gin₇ gu₂ ki-še₃ mi-ni-ib-ŋar
+c.2.1.5,The cursing of Agade,Old Babylonian,80,gud mah-gin₇ si am₃-da-il₂-il₂
+c.2.1.5,The cursing of Agade,Old Babylonian,81,ušumgal uš₂-a-gin₇ saŋ am₃-ma-ze₂-re
+c.2.1.5,The cursing of Agade,Old Babylonian,82,me₃-gin₇ nam-dugud-ba am₃-da-ab-lah₄-lah₄-e
+c.2.1.5,The cursing of Agade,Old Babylonian,83,nam-lugal a-ga-de₃{ki} ki-tuš gen₆-na dug₃ nu-tuš-u₃-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,84,eŋer-bi niŋ₂ na-me nu-sag₉-ge-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,85,e₂ tuku₄-e erim₃ sag₂ di-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,86,{d}na-ra-am-{d}suen maš₂-ŋi₆-ka igi ba-ni-in-du₈-a
+c.2.1.5,The cursing of Agade,Old Babylonian,87,šag₄-ga-ni-še₃ mu-un-zu eme-na nu-um-ŋa₂-ŋa₂ lu₂-da nu-mu-un-da-ab-be₂
+c.2.1.5,The cursing of Agade,Old Babylonian,87A,e₂ tuku₄
+c.2.1.5,The cursing of Agade,Old Babylonian,87B,e₂-ni maš₂
+c.2.1.5,The cursing of Agade,Old Babylonian,88,nam e₂-kur-ra-še₃ tug₂-mu-dur₇-ra ba-an-mur₁₀
+c.2.1.5,The cursing of Agade,Old Babylonian,89,{ŋeš}gigir-ra-ni {gi}kid-ma₂-šag₄-ga ba-an-šu₂
+c.2.1.5,The cursing of Agade,Old Babylonian,90,{ŋeš}ma₂-gur₈-ra-ni sumur₃ ba-ra-an-si-ig
+c.2.1.5,The cursing of Agade,Old Babylonian,91,a₂-šita₄-a nam-lugal-la-ka-ni im-ma-ra-an-ba-ba
+c.2.1.5,The cursing of Agade,Old Babylonian,92,{d}na-ra-am-{d}suen mu ₇-am₃ mu-un-ge-en
+c.2.1.5,The cursing of Agade,Old Babylonian,93,lugal mu ₇-am₃ šu saŋ-ŋa₂ dug₄-ga a-ba igi im-mi-in-du₈-a
+c.2.1.5,The cursing of Agade,Old Babylonian,93A,šag₄-ga-ni-še₃ mu-un-zu eme-na nu-ŋa₂-ŋa₂ lu₂-da nu-mu-un-da-ab-be₂
+c.2.1.5,The cursing of Agade,Old Babylonian,94,e₂-še₃ maš₂-am₃ ši-gid₂-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,95,e₂ du₃-a maš₂-a nu-mu-un-de₃-ŋal₂
+c.2.1.5,The cursing of Agade,Old Babylonian,96,₂-kam-ma-še₃ e₂-še₃ maš₂-am₃ ši-gid₂-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,97,e₂ du₃-a maš₂-a nu-mu-un-de₃-ŋal₂
+c.2.1.5,The cursing of Agade,Old Babylonian,98,i₃-sig₁₀-ga-na šu-a bal-e-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,99,{d}en-lil₂ niŋ₂-dug₄-ga-ni ba-en-de₃-kur₂
+c.2.1.5,The cursing of Agade,Old Babylonian,100,gu₂ ŋar-ra-ni sag₂ ba-an-da-ab-dug₄
+c.2.1.5,The cursing of Agade,Old Babylonian,101,erin₂-na-ni zig₃-ga ba-ni-in-ŋar
+c.2.1.5,The cursing of Agade,Old Babylonian,102,a₂-tuku kisal mah-še₃ ku₄-ku₄-gin₇
+c.2.1.5,The cursing of Agade,Old Babylonian,103,e₂-kur-še₃ šu keše₂ ba-ši-in-ak
+c.2.1.5,The cursing of Agade,Old Babylonian,104,dub₃-tuku lirum-še₃ gam-e-gin₇
+c.2.1.5,The cursing of Agade,Old Babylonian,105,gi-gun₄-na-aš ₃₀ giŋ₄ ba-ši-in-ak
+c.2.1.5,The cursing of Agade,Old Babylonian,106,nitah lu₂ la-ga iri{ki} lah₅-gin₇
+c.2.1.5,The cursing of Agade,Old Babylonian,107,e₂-še₃ {ŋeš}kun₅ gal-gal ba-ši-in-ri-ri
+c.2.1.5,The cursing of Agade,Old Babylonian,108,e₂-kur {ŋeš}ma₂ mah-gin₇ gul-gul-lu-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,109,kur kug ba-al-gin₇ sahar du₈-u₃-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,110,hur-saŋ {na₄}za-gin₃-na-gin₇ ku₅-re-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,111,iri{ki} {d}iškur-re ba-an-de₂-a-gin₇ gu₂ ki-še₃ ŋa₂-ŋa₂-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,112,e₂-e kur-{ŋeš}erin-kud nu-me-a
+c.2.1.5,The cursing of Agade,Old Babylonian,113,{urud}ha-zi-in gal-gal ba-ši-in-de₂-de₂
+c.2.1.5,The cursing of Agade,Old Babylonian,114,{urud}aga-silig-ga a₂ ₂-na-bi-da u₄-sar ba-an-ak
+c.2.1.5,The cursing of Agade,Old Babylonian,115,ur₂-bi-a {urud}gi₂-dim ba-an-ŋar
+c.2.1.5,The cursing of Agade,Old Babylonian,116,suhuš kalam-ma-ka ki ba-e-la₂
+c.2.1.5,The cursing of Agade,Old Babylonian,117,pa-bi-a {urud}ha-zi-in ba-an-ŋar
+c.2.1.5,The cursing of Agade,Old Babylonian,118,e₂-e ŋuruš ug₅-ga-gin₇ gu₂ ki-še₃ ba-an-da-ab-la₂
+c.2.1.5,The cursing of Agade,Old Babylonian,119,gu₂ kur-kur-ra ki-še₃ ba-an-da-ab-la₂
+c.2.1.5,The cursing of Agade,Old Babylonian,120,{ŋeš}alal-bi im-ma-ra-an-zil-zil
+c.2.1.5,The cursing of Agade,Old Babylonian,121,im šeŋ₃-šeŋ₃ an-na ba-e-ed₃
+c.2.1.5,The cursing of Agade,Old Babylonian,122,ŋiš-kan₄-na-ke₄ ba-ra-an-si-ig teš₂ kalam-ma ba-kur₂
+c.2.1.5,The cursing of Agade,Old Babylonian,123,kan₄ še nu-kud-da še i-ni-in-kud
+c.2.1.5,The cursing of Agade,Old Babylonian,124,šu kalam-ma-ta še ba-da-an-kud
+c.2.1.5,The cursing of Agade,Old Babylonian,125,kan₄ silim-ma-bi {ŋeš}al-e bi₂-in-ra
+c.2.1.5,The cursing of Agade,Old Babylonian,126,kur-kur-re silim-silim-bi ba-kur₂
+c.2.1.5,The cursing of Agade,Old Babylonian,127,a-šag₄ a-gar₃ mah a-eštub{ku₆} daŋal-la-gin₇
+c.2.1.5,The cursing of Agade,Old Babylonian,128,e₂-kur-ra {urud}gi₂-dim gal-gal-bi kuš₃-kuš₃-a bi₂-in-sig₁₀-sig₁₀
+c.2.1.5,The cursing of Agade,Old Babylonian,129,itima e₂ ud nu-zu-ba uŋ₃-e igi i-ni-in-bar
+c.2.1.5,The cursing of Agade,Old Babylonian,130,dub-šen kug diŋir-re-e-ne-ke₄ uri{ki} igi i-ni-in-bar
+c.2.1.5,The cursing of Agade,Old Babylonian,131,la-ha-ma dub-la₂ gal e₂-e sug₂-ga-bi
+c.2.1.5,The cursing of Agade,Old Babylonian,132,lu₂ an-zil gu₇-a nu-me-eš-a
+c.2.1.5,The cursing of Agade,Old Babylonian,133,{d}na-ra-am-{d}suen šag₄ izi-ka ba-an-sag₃
+c.2.1.5,The cursing of Agade,Old Babylonian,134,{ŋeš}erin {ŋeš}šu-ur₂-men₅ {ŋeš}za-ba-lum {ŋeš}taškarin
+c.2.1.5,The cursing of Agade,Old Babylonian,135,ŋiš gi-gun₄-na-be₂-eš ba-an-sur-sur
+c.2.1.5,The cursing of Agade,Old Babylonian,136,kug-sig₁₇-bi mi-si-IŠ-ra bi₂-in-ak
+c.2.1.5,The cursing of Agade,Old Babylonian,137,kug-babbar-bi {kuš}lu-ub₂/{kuš}lu-ub₂-šir-ra bi₂-in-ak
+c.2.1.5,The cursing of Agade,Old Babylonian,138,urud-bi še mah de₆-a-gin₇ kar-ra bi₂-in-si-si
+c.2.1.5,The cursing of Agade,Old Babylonian,139,kug-bi kug-dim₂-e im-dim₂-e
+c.2.1.5,The cursing of Agade,Old Babylonian,140,za-bi za-dim₂-e im-dim₂-e
+c.2.1.5,The cursing of Agade,Old Babylonian,141,urud-bi simug im-tu₁₁-be₂
+c.2.1.5,The cursing of Agade,Old Babylonian,142,niŋ₂-gur₁₁ iri{ki} hul-a nu-me-a
+c.2.1.5,The cursing of Agade,Old Babylonian,143,e₂-e {ŋeš}ma₂ gal-gal kar-ra ba-an-us₂
+c.2.1.5,The cursing of Agade,Old Babylonian,144,e₂ {d}en-lil₂-la₂-še₃ {ŋeš}ma₂ gal-gal kar-ra ba-an-us₂
+c.2.1.5,The cursing of Agade,Old Babylonian,145,niŋ₂-gur₁₁ iri{ki}-ta ba-ra-e₃
+c.2.1.5,The cursing of Agade,Old Babylonian,146,niŋ₂-gur₁₁ iri{ki}-ta ed₂-da-ni
+c.2.1.5,The cursing of Agade,Old Babylonian,147,a-ga-de₃{ki} dim₂-ma-bi ba-ra-e₃
+c.2.1.5,The cursing of Agade,Old Babylonian,148,{ŋeš}ma₂-e kar ib₂-kur₂ umuš a-ga-de₃{ki} ba-kur₂
+c.2.1.5,The cursing of Agade,Old Babylonian,149,ud te-eš dug₄-ga kalam teš₂-a ŋar-ra
+c.2.1.5,The cursing of Agade,Old Babylonian,150,a-ma-ru zig₃-ga gaba-šu-ŋar nu-tuku
+c.2.1.5,The cursing of Agade,Old Babylonian,151,{d}en-lil₂-le nam e₂-kur ki aŋ₂-ŋa₂-ni ba-hul-a-še₃ a-na-am₃ im-gu-lu-a-ba
+c.2.1.5,The cursing of Agade,Old Babylonian,152,kur gu₂-bi₂-na-še₃ igi na-an-il₂
+c.2.1.5,The cursing of Agade,Old Babylonian,153,hur-saŋ daŋal teš₂-bi nam-ta-an-si-ig
+c.2.1.5,The cursing of Agade,Old Babylonian,154,uŋ₃-ŋa₂ nu-sig₁₀-ga kalam-ma nu-šid-da
+c.2.1.5,The cursing of Agade,Old Babylonian,155,gu-ti-um{ki} uŋ₃ keše₂-da nu-zu
+c.2.1.5,The cursing of Agade,Old Babylonian,156,dim₂-ma lu₂-u₁₈-lu ŋalga ur-ra ulutim₂ ugu₄-bi
+c.2.1.5,The cursing of Agade,Old Babylonian,157,{d}en-lil₂-le kur-ta nam-ta-an-e₃
+c.2.1.5,The cursing of Agade,Old Babylonian,158,buru₅{mušen}-gin₇ ki am₃-u₂-us₂
+c.2.1.5,The cursing of Agade,Old Babylonian,159,a₂-bi gu maš₂-anše-gin₇ edin-na mu-un-na-an-la₂
+c.2.1.5,The cursing of Agade,Old Babylonian,160,niŋ₂ na-me a₂-bi la-ba-ra-e₃
+c.2.1.5,The cursing of Agade,Old Babylonian,161,lu₂ na-me a₂-bi la-ba-an-da₁₃-da₁₃
+c.2.1.5,The cursing of Agade,Old Babylonian,162,lu₂-kiŋ₂-gi₄-a har-ra-an-na nu-mu-un-ŋen
+c.2.1.5,The cursing of Agade,Old Babylonian,163,{ŋeš}ma₂ ra-gaba id₂-da nu-mu-un-dib-be₂
+c.2.1.5,The cursing of Agade,Old Babylonian,164,ud₅ gen₆ {d}en-lil₂-la₂ amaš-ta ba-ra-ra-aš na-gada-bi bi₂-in-us₂-u₂-us₂
+c.2.1.5,The cursing of Agade,Old Babylonian,165,šilam tur₃-bi-ta ba-ra-ra-aš unud-bi bi₂-in-us₂-u₂-us₂
+c.2.1.5,The cursing of Agade,Old Babylonian,166,ŋiš-gu₂-ka en-nu-uŋ₃ ba-e-du₃
+c.2.1.5,The cursing of Agade,Old Babylonian,167,har-ra-an-na lu₂-sa-gaz ba-e-tuš
+c.2.1.5,The cursing of Agade,Old Babylonian,168,abula kalam-ma-ka {ŋeš}ig im-ma ba-e-gub
+c.2.1.5,The cursing of Agade,Old Babylonian,169,kur-kur-ra bad₃ iri{ki}-ne-ne-ka gu₃ gig mi-ni-ib-be₂-ne
+c.2.1.5,The cursing of Agade,Old Babylonian,170,iri{ki} šag₄ edin bar daŋal nu-me-a mu₂-sar mu-un-de₃-ŋal₂
+c.2.1.5,The cursing of Agade,Old Babylonian,171,ud iri{ki} ba-dim₂-dim₂-ma-ba ba-sig₁₀-sig₁₀-ga-ba
+c.2.1.5,The cursing of Agade,Old Babylonian,172,a-šag₄ a-gar₃ gal-gal-e še nu-um-de₆
+c.2.1.5,The cursing of Agade,Old Babylonian,173,a-šag₄ a-gar₃ sug₄-sug₄-ge ku₆ nu-um-de₆
+c.2.1.5,The cursing of Agade,Old Babylonian,174,pu₂-{ŋeš}kiri₆ lal₃ ŋeštin nu-um-de₆
+c.2.1.5,The cursing of Agade,Old Babylonian,175,IM.UD sir₂-da la-ba-šeŋ₃ {ŋeš}maš-gurum la-ba-mu₂
+c.2.1.5,The cursing of Agade,Old Babylonian,176,ud-ba i₃ ₁ giŋ₄-e ₁/₂ sila₃-am₃
+c.2.1.5,The cursing of Agade,Old Babylonian,177,še ₁ giŋ₄-e ₁/₂ sila₃-am₃
+c.2.1.5,The cursing of Agade,Old Babylonian,178,siki ₁ giŋ₄-e ₁/₂ ma-na-am₃
+c.2.1.5,The cursing of Agade,Old Babylonian,179,ku₆ ₁ giŋ₄-e {ŋeš}ba-an-e ib₂-si
+c.2.1.5,The cursing of Agade,Old Babylonian,180,ganba iri{ki}-ba-ka ur₅-gin₇ ib₂-sa₁₀-sa₁₀
+c.2.1.5,The cursing of Agade,Old Babylonian,181,ur₃-ra nu₂-a ur₃-ra ba-ug₇
+c.2.1.5,The cursing of Agade,Old Babylonian,182,e₂-a nu₂-a ki nu-um-tum₂
+c.2.1.5,The cursing of Agade,Old Babylonian,183,uŋ₃ šag₄-ŋar-bi-ta ni₂-bi-a šu im-dub₂-dub₂-ne
+c.2.1.5,The cursing of Agade,Old Babylonian,184,ki-ur₃ ki gal {d}en-lil₂-la₂-ke₄
+c.2.1.5,The cursing of Agade,Old Babylonian,185,ur sila sig₉-ga zu₂ ba-ni-ib-keše₂
+c.2.1.5,The cursing of Agade,Old Babylonian,186,šag₄-ba lu₂ ₂ du teš₂-e ba-ni-ib-gu₇
+c.2.1.5,The cursing of Agade,Old Babylonian,187,lu₂ ₃ du teš₂-e ba-ni-ib-gu₇
+c.2.1.5,The cursing of Agade,Old Babylonian,188,giri₁₇ ba-dub-dub saŋ ba-dab₅-dab₅
+c.2.1.5,The cursing of Agade,Old Babylonian,189,giri₁₇ ba-dub saŋ numun-e-eš ba-ab-ŋar
+c.2.1.5,The cursing of Agade,Old Babylonian,190,saŋ zid saŋ lul-la šu bal ba-ni-ib-ak
+c.2.1.5,The cursing of Agade,Old Babylonian,191,meš₃ meš₃-e an-ta i-im-nu₂
+c.2.1.5,The cursing of Agade,Old Babylonian,192,uš₂ lu₂-lul-e uš₂ lu₂ zid-da-ke₄ an-ta na-mu-un-DU
+c.2.1.5,The cursing of Agade,Old Babylonian,193,ud-ba {d}en-lil₂-le eš₃ gal-gal-la-ni-ta
+c.2.1.5,The cursing of Agade,Old Babylonian,194,eš₃ gi tur-tur im-ma-ra-an-du₃
+c.2.1.5,The cursing of Agade,Old Babylonian,195,ud e₃-ta ud šu₂-uš erim₃-bi ba-tur
+c.2.1.5,The cursing of Agade,Old Babylonian,196,um-ma ud-ta ba-ra-ab-taka₄-a
+c.2.1.5,The cursing of Agade,Old Babylonian,197,ab-ba ud-ta ba-ra-ab-taka₄-a
+c.2.1.5,The cursing of Agade,Old Babylonian,198,gala-mah mu-ta ba-ra-ab-taka₄-a
+c.2.1.5,The cursing of Agade,Old Babylonian,199,ud ₇ ŋi₆ ₇-še₃
+c.2.1.5,The cursing of Agade,Old Babylonian,200,balaŋ ₇-e an-ur₂ gub-ba-gin₇ ki mu-un-ši-ib-us₂
+c.2.1.5,The cursing of Agade,Old Babylonian,201,ub₃ me-ze₂ li-li-is₃ {d}iškur-gin₇ šag₄-ba mu-na-an-du₁₂
+c.2.1.5,The cursing of Agade,Old Babylonian,202,um-ma a uru₂-ŋu₁₀ nu-ŋa₂-ŋa₂
+c.2.1.5,The cursing of Agade,Old Babylonian,203,ab-ba a lu₂-bi nu-ŋa₂-ŋa₂
+c.2.1.5,The cursing of Agade,Old Babylonian,204,gala-e a e₂-kur nu-ŋa₂-ŋa₂
+c.2.1.5,The cursing of Agade,Old Babylonian,205,ki-sikil-bi siki šab-bi nu-ŋa₂-ŋa₂
+c.2.1.5,The cursing of Agade,Old Babylonian,206,ŋuruš-bi ŋiri₂ saga₁₁ nu-ŋa₂-ŋa₂
+c.2.1.5,The cursing of Agade,Old Babylonian,207,er₂-bi er₂ ama a-a {d}en-lil₂-la₂-ke₄
+c.2.1.5,The cursing of Agade,Old Babylonian,208,du₆ kug su zig₃ gur₃-ru dub₃ kug {d}en-lil₂-la₂-ke₄ i-im-ŋa₂-ŋa₂-ne
+c.2.1.5,The cursing of Agade,Old Babylonian,209,nam-bi-še₃ {d}en-lil₂ itima kug ba-an-kur₉ šag₄-ka-tab-ba ba-an-nu₂
+c.2.1.5,The cursing of Agade,Old Babylonian,210,ud-ba {d}suen {d}en-ki {d}inana {d}nin-urta {d}iškur {d}utu {d}nuska {d}nisaba diŋir gal-gal-e-ne
+c.2.1.5,The cursing of Agade,Old Babylonian,211,šag₄ {d}en-lil₂-la₂-ke₄ a sed₄ im-sed₄-e-ne a-ra-zu-ta ba-ab-be₂-ne
+c.2.1.5,The cursing of Agade,Old Babylonian,212,{d}en-lil₂ iri iri-zu im-hul-a iri-zu-gin₇ he₂-du₃
+c.2.1.5,The cursing of Agade,Old Babylonian,213,gi-gun₄-na-zu šu bi₂-in-la₂-la₂ nibru{ki}-gin₇ he₂-du₃
+c.2.1.5,The cursing of Agade,Old Babylonian,214,iri-ba saŋ tul₂-ba he₂-ni-ib-si-si
+c.2.1.5,The cursing of Agade,Old Babylonian,215,lu₂ lu₂-u₃ zu-ne na-an-ni-in-pad₃-de₃
+c.2.1.5,The cursing of Agade,Old Babylonian,216,šeš-e šeš-a-ni ŋiškim na-an-ni-in-e₃
+c.2.1.5,The cursing of Agade,Old Babylonian,217,ki-sikil-bi ama₅-na ŋiš hul he₂-en-da-ab-ra
+c.2.1.5,The cursing of Agade,Old Babylonian,218,ad-da-bi e₂ dam ug₇-a-na gu₃ gig-bi he₂-em-me
+c.2.1.5,The cursing of Agade,Old Babylonian,219,tum₁₂{mušen}-bi ab-lal₃-ba še he₂-ni-in-ša₄
+c.2.1.5,The cursing of Agade,Old Babylonian,220,buru₅{mušen}-bi a₂-bur₂-ba niŋ₂ he₂-ni-ib-ra
+c.2.1.5,The cursing of Agade,Old Babylonian,221,tum₁₂{mušen} ni₂ te-a-gin₇ ur₅-da he₂-ak-e
+c.2.1.5,The cursing of Agade,Old Babylonian,222,₂-kam-ma-še₃ {d}suen {d}en-ki {d}inana {d}nin-urta {d}iškur {d}utu {d}nuska {d}nisaba diŋir he₂-em-me-eš
+c.2.1.5,The cursing of Agade,Old Babylonian,223,iri{ki}-še₃ igi-ne-ne i-im-ŋa₂-ŋa₂-ne
+c.2.1.5,The cursing of Agade,Old Babylonian,224,a-ga-de₃{ki} aš₂ hul-a im-ma-ab-bal-e-ne
+c.2.1.5,The cursing of Agade,Old Babylonian,225,iri{ki} e₂-kur-še₃ ba-e-a-ul₄-en {d}en-lil₂ he₂-am₃
+c.2.1.5,The cursing of Agade,Old Babylonian,226,a-ga-de₃{ki} e₂-kur-še₃ ba-e-a-ul₄-en {d}en-lil₂ he₂-am₃
+c.2.1.5,The cursing of Agade,Old Babylonian,227,bad₃ kug-zu en-na sukuₓ-ra₂-bi a-nir he₂-em-da-sa₂
+c.2.1.5,The cursing of Agade,Old Babylonian,228,gi-gun₄-na-zu sahar-gin₇ he₂-dub
+c.2.1.5,The cursing of Agade,Old Babylonian,229,dub-la₂ la-ha-ma sug₂-sug₂-ga-bi
+c.2.1.5,The cursing of Agade,Old Babylonian,230,ŋuruš mah ŋeštin naŋ-a-gin₇ ki-še₃ he₂-em-ta-ŋa₂-ŋa₂
+c.2.1.5,The cursing of Agade,Old Babylonian,231,im-zu abzu-ba he₂-eb-gi₄
+c.2.1.5,The cursing of Agade,Old Babylonian,232,im {d}en-ki-ke₄ nam ku₅-ra₂ he₂-a
+c.2.1.5,The cursing of Agade,Old Babylonian,233,še-zu ab-sin₂-ba he₂-eb-gi₄
+c.2.1.5,The cursing of Agade,Old Babylonian,234,še {d}ezina₂-e nam ku₅-ra₂ he₂-a
+c.2.1.5,The cursing of Agade,Old Babylonian,235,ŋiš-zu tir-bi-a he₂-eb-gi₄
+c.2.1.5,The cursing of Agade,Old Babylonian,236,ŋiš {d}nin-ildum₂-ma-ke₄ nam ku₅-ra₂ he₂-a
+c.2.1.5,The cursing of Agade,Old Babylonian,237,gud gaz-gaz-e dam he₂-en-gaz-e
+c.2.1.5,The cursing of Agade,Old Babylonian,238,udu šum-šum-zu dumu he₂-en-šum-e
+c.2.1.5,The cursing of Agade,Old Babylonian,239,ukur₃-zu dumu kug-ge-eš pad₃-da-na a he₂-em-ta-ab-ra-ra
+c.2.1.5,The cursing of Agade,Old Babylonian,240,kar-ke₄-zu kan₄ eš₂-dam-ma-na-ka ni₂ ha-ba-ni-ib-la₂-e
+c.2.1.5,The cursing of Agade,Old Babylonian,241,ama nu-gig-zu ama nu-bar-zu dumu he₂-en-gi₄-gi₄
+c.2.1.5,The cursing of Agade,Old Babylonian,242,kug-sig₁₇-zu kug-še₃ he₂-sa₁₀-sa₁₀
+c.2.1.5,The cursing of Agade,Old Babylonian,243,kug-babbar-zu niŋ₂ za-ha-am-še₃ he₂-sa₁₀-sa₁₀
+c.2.1.5,The cursing of Agade,Old Babylonian,244,urud-zu a-gar₅-še₃ he₂-sa₁₀-sa₁₀
+c.2.1.5,The cursing of Agade,Old Babylonian,245,a-ga-de₃{ki} a₂-tuku-zu a₂-ni he₂-eb-ta-kud
+c.2.1.5,The cursing of Agade,Old Babylonian,246,{kuš}lu-ub₂ dag-si-ni na-an-il₂-il₂-e
+c.2.1.5,The cursing of Agade,Old Babylonian,247,{anše}ni-is-kum-zu a₂-ni na-an-hul₂-e ud šu₂-a he₂-nu₂
+c.2.1.5,The cursing of Agade,Old Babylonian,248,iri{ki}-bi šag₄-ŋar-ra he₂-ni-ib-ug₇-e
+c.2.1.5,The cursing of Agade,Old Babylonian,249,dumu-gir₁₅ ninda sag₉-ga gu₇-gu₇-zu u₂-šim-e ha-ba-nu₂
+c.2.1.5,The cursing of Agade,Old Babylonian,250,lu₂ saŋ₅-e ba-zig₃-ga-zu
+c.2.1.5,The cursing of Agade,Old Babylonian,251,ŋiš-ur₃-ra-na he₂-gu₇-e
+c.2.1.5,The cursing of Agade,Old Babylonian,252,{ŋeš}ig gal {kuš}gur₂₁ e₂ ad-da-na-ka
+c.2.1.5,The cursing of Agade,Old Babylonian,253,{kuš}gur₂₁-bi zu₂-ni-ta he₂-ur₅-re
+c.2.1.5,The cursing of Agade,Old Babylonian,254,e₂-gal šag₄ hul₂-la du₃-a-za šag₄ sag₃ he₂-en-šub
+c.2.1.5,The cursing of Agade,Old Babylonian,255,lu₂ hul edin ki sig₉-ga-ke₄ gu₃ hu-mu-ra-ra-ra
+c.2.1.5,The cursing of Agade,Old Babylonian,256,ki uz-ga šu-luh-ha ŋar-ra-zu
+c.2.1.5,The cursing of Agade,Old Babylonian,257,ka₅ du₆ gul-gul-la-ke₄ kun he₂-ni-ib-ur₃-ur₃-re
+c.2.1.5,The cursing of Agade,Old Babylonian,258,abula kalam-ma ŋar-ra-zu
+c.2.1.5,The cursing of Agade,Old Babylonian,259,u₃-ku-ku{mušen} mušen šag₄ sag₃-ga-ke₄ gud₃ he₂-em-ma-an-us₂
+c.2.1.5,The cursing of Agade,Old Babylonian,260,iri{ki} tigi-da u₃ nu-ku-ku-za
+c.2.1.5,The cursing of Agade,Old Babylonian,261,šag₄ hul₂-la-da nu-nu₂-za
+c.2.1.5,The cursing of Agade,Old Babylonian,262,tur₃-e si gud {d}nanna-ke₄
+c.2.1.5,The cursing of Agade,Old Babylonian,263,edin ki sig₉-ga-ke₄ ni₁₀-ni₁₀-na-gin₇ šeg₁₁ hu-mu-un-gi₄-gi₄-gi₄
+c.2.1.5,The cursing of Agade,Old Babylonian,264,gu₂ {ŋeš}ma₂ gid₂-da id₂-da-zu u₂ gid₂-da he₂-em-mu₂
+c.2.1.5,The cursing of Agade,Old Babylonian,265,har-ra-an {ŋeš}gigir-ra ba-ŋar-ra-zu u₂-a-nir he₂-em-mu₂
+c.2.1.5,The cursing of Agade,Old Babylonian,266,₂-kam-ma-še₃ gu₂ ma₂ gid₂-da ki a-la₂ id₂-da-zu
+c.2.1.5,The cursing of Agade,Old Babylonian,267,šeg₉-bar mul muš ul₄ kur-ra-ke₄ lu₂ na-an-ni-ib-dib-be₂
+c.2.1.5,The cursing of Agade,Old Babylonian,268,edin šag₄ u₂ sag₉-ga mu₂-a-zu gi er₂-ra he₂-em-mu₂
+c.2.1.5,The cursing of Agade,Old Babylonian,269,a-ga-de₃{ki} a dug₃-ga de₂-a-zu a mun-na he₂-em-de₂
+c.2.1.5,The cursing of Agade,Old Babylonian,270,iri{ki}-bi-a ga-tuš bi₂-in-dug₄-ga ki-tuš na-an-ni-dug₃-ge
+c.2.1.5,The cursing of Agade,Old Babylonian,271,a-ga-de₃{ki}-a ga-nu₂ bi₂-in-dug₄-ga ki-nu₂ na-an-ni-dug₃-ge
+c.2.1.5,The cursing of Agade,Old Babylonian,272,i-ne-eš₂ {d}utu ud ne-e-a ur₅ he₂-en-na-nam-ma-am₃
+c.2.1.5,The cursing of Agade,Old Babylonian,273,gu₂ {ŋeš}ma₂ gid₂-da id₂-da-ba u₂ gid₂-da ba-an-mu₂
+c.2.1.5,The cursing of Agade,Old Babylonian,274,har-ra-an {ŋeš}gigir-ra ba-ŋar-ra-ba u₂-a-nir ba-an-mu₂
+c.2.1.5,The cursing of Agade,Old Babylonian,275,₂-kam-ma-še₃ gu₂ {ŋeš}ma₂ gid₂-da ki a-la₂ id₂-da-ba
+c.2.1.5,The cursing of Agade,Old Babylonian,276,šeg₉-bar mul muš ul₄ kur-ra-ke₄ lu₂ nu-mu-ni-in-dib-be₂
+c.2.1.5,The cursing of Agade,Old Babylonian,277,edin šag₄ u₂ sag₉-ga mu₂-a-bi gi er₂-ra ba-an-mu₂
+c.2.1.5,The cursing of Agade,Old Babylonian,278,a-ga-de₃{ki} a dug₃-ga de₂-a-bi a mun-na ba-an-de₂
+c.2.1.5,The cursing of Agade,Old Babylonian,279,iri{ki}-bi-a ga-tuš bi₂-in-dug₄-ga ki-tuš nu-um-ma-an-da-dug₃
+c.2.1.5,The cursing of Agade,Old Babylonian,280,a-ga-de₃{ki}-a ga-nu₂ bi-in-dug₄-ga ki-nu₂ nu-um-ma-an-na-dug₃
+c.2.1.5,The cursing of Agade,Old Babylonian,281,a-ga-de₃{ki} hul-a {d}inana za₃-mi₂
+c.2.1.5,The cursing of Agade,Ur III,A1,ŋeštug₂-bi {d}en-ki-ke₄ ba-de₆
+c.2.1.5,The cursing of Agade,Ur III,A2,me-lem₄ an-ne₂ im-us₂-bi
+c.2.1.5,The cursing of Agade,Ur III,A3,an-ne₂ an-šag₄-ga ba-ed₃
+c.2.1.5,The cursing of Agade,Ur III,A4,{ŋeš}tar₂-GAG kug im-da-du₃-a-bi
+c.2.1.5,The cursing of Agade,Ur III,A5,{d}en-ki-ke₄ abzu-a mi-ni-bu
+c.2.1.5,The cursing of Agade,Ur III,B1,eŋer-še₃ niŋ₂ na-me nu-sag₉-de₃
+c.2.1.5,The cursing of Agade,Ur III,B2,e₂ tuku₄-e erim₃ sag₃ di-de₃
+c.2.1.5,The cursing of Agade,Ur III,B3,na-ra-am-{d}suen-e maš₂-ŋi₆-ka igi ba-ni-in-du₈-a
+c.2.1.5,The cursing of Agade,Ur III,C1,i₃-sig₁₀-ga-na šu bal-e-gin₇
+c.2.1.5,The cursing of Agade,Ur III,C2,gu₂ ŋar-ra-ni sag₂ mu-na-ab-dug₄
+c.2.1.5,The cursing of Agade,Ur III,C3,erin₂-na-na zig₃-ga₁₄ ba-ni-ŋar
+c.2.1.5,The cursing of Agade,Ur III,C4,a₂-tuku kisal mah-a ku₄-ku₄-gin₇
+c.2.1.5,The cursing of Agade,Ur III,C5,e₂-kur-še₃ šu keše₂ ba-ši-ak
+c.2.1.5,The cursing of Agade,Ur III,C6,dub₃-tuku lirum₃-še₃ gam-e-gin₇
+c.2.1.5,The cursing of Agade,Ur III,C7,gi-gun₄-še₃ ₃₀ giŋ₄ ba-ši-ak
+c.2.1.5,The cursing of Agade,Ur III,C8,nitah lu₂-KID₂ iri ri-ri
+c.2.1.5,The cursing of Agade,Ur III,C9,e₂-še₃ {ŋeš}kun₅ gal-gal ba-ši-lah₄
+c.2.1.5,The cursing of Agade,Ur III,C10,e₂-e kur erin-na nu-me-a
+c.2.1.5,The cursing of Agade,Ur III,C11,ha-zi-in{urud} gal-gal i₃-ma-ta-de₂
+c.2.1.5,The cursing of Agade,Ur III,C11A,{urud}aga-silig a₂ ₂-na-bi-da u₃-sa-ar ba-ak
+c.2.1.5,The cursing of Agade,Ur III,C12,ugur₂ mah a-eštub dugud-a-gin₇
+c.2.1.5,The cursing of Agade,Ur III,C13,gi₂-dim gal-gal-bi kuš₃-a bi₂-sig₁₀-sig₁₀
+c.2.1.5,The cursing of Agade,Ur III,C14,ur₂-bi-a gi₂-dim ba-ŋar
+c.2.1.5,The cursing of Agade,Ur III,D1,šu kalam-ma-ta še ba-da-kud
+c.2.1.5,The cursing of Agade,Ur III,D2,kan₄ silim-ma-bi al-e bi₂-in-šub
+c.2.1.5,The cursing of Agade,Ur III,D3,kur-kur silim-silim-bi ba-gul
+c.2.1.5,The cursing of Agade,Ur III,E1,
+c.2.1.5,The cursing of Agade,Ur III,E2,
+c.2.1.5,The cursing of Agade,Ur III,E3,
+c.2.1.5,The cursing of Agade,Ur III,E4,
+c.2.1.5,The cursing of Agade,Ur III,F1,giri₁₇ ba-an-dub-dub saŋ ba-an-tu-tu
+c.2.1.5,The cursing of Agade,Ur III,F2,giri₁₇ ba-an-dub saŋ numun-e-eš ba-ab-ŋar
+c.2.1.5,The cursing of Agade,Ur III,F3,meš₃ meš₃-a an-ta
+c.2.1.5,The cursing of Agade,Ur III,F4,u₃-ri₂-in lu₂-lul lu₂ zid-ra an-ta
+c.2.1.5,The cursing of Agade,Ur III,F5,{d}en-lil₂-le e₂ gal-gal-la-ni
+c.2.1.5,The cursing of Agade,Ur III,F6,eš₃ gi tur-tur ba-ra-du₃
+c.2.1.5,The cursing of Agade,Ur III,F7,sig-ta igi-nim-še₃

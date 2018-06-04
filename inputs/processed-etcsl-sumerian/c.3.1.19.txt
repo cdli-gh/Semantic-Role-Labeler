@@ -1,0 +1,54 @@
+id_text,text_name,version,l_no,text
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,1,{d}i-bi₂-{d}suen lugal-ŋu₁₀-ra
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,2,u₃-na-a-dug₄
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,3,{m}puzur₄-{d}šul-gi ensi₂ ka-zal-lu{ki} arad-zu na-ab-be₂-a
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,4,lu₂-kiŋ₂-gi₄-a {d}iš-bi-er₃-ra ugu-ŋu₁₀ i-im-ŋen
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,5,igi-ni ma-an-ŋar-ma
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,6,{d}iš-bi-er₃-ra lugal-ŋu₁₀ ugu-zu-še₃ kiŋ₂-gi₄-a im-mi-in-gi₄
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,7,{d}en-lil₂ lugal-ŋu₁₀ nam-sipad kalam-ma ba-an-SUM
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,8,gu₂ {id₂}idigna gu₂ {id₂}buranuna gu₂ {id₂}ab₂-gal u₃ gu₂ {id₂}me-{d}en-lil₂-la₂
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,9,iri{ki}-be₂-e-ne diŋir-be₂-e-ne u₃ ugnim-be₂-e-ne
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,10,ma-da ha-ma-zi{ki}-ta en-na a-ab-ba ma₂-gan-na{ki}-še₃
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,11,igi {d}nin-isin₂-na-ka-še₃ ku₄-ku₄-de₃
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,12,i₃-si-in{ki} nam-ŋa₂-nun {d}en-lil₂-la₂-še₃ ŋa₂-ŋa₂-da mu-še₃ tuku-tuku-de₃
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,13,nam-ra-ak-ne-ne-a ak-de₃ iri{ki}-iri{ki}-bi tuš-tuš-u₃-de₃
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,14,{d}en-lil₂-le ŋa₂-a-ra ma-an-dug₄
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,15,a-na-aš-am₃ gu₂ mu-da-ak-e
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,16,mu {d}en-lil₂ lugal-ŋu₁₀ u₃ {d}da-gan diŋir-ŋu₁₀ i₃-pad₃
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,17,ka-zal-lu{ki} šu-ŋa₂ sa₂ he₂-eb-be₂
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,18,iri ma-da {d}en-lil₂-le ma-an-dug₄-ga
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,19,šag₄ i₃-si-in{ki}-na-ka zag-us₂ ga-bi₂-ib-du₃-du₃
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,20,eš₃-eš₃-a-ne-ne-a ga-am₃-ak
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,21,alan-ŋu₁₀ šu-nir-ŋu₁₀ en lu₂-mah nin-diŋir-ŋu₁₀-ne-ne
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,22,ŋi₆-par₄-ra-ne-ne-a ga-bi₂-ib-dur₂-ru-durun
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,23,igi {d}en-lil₂-la₂-še₃ šag₄ e₂-kur-ra
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,24,igi {d}nanna-še₃ šag₄ e₂-kiš-nu-ŋal₂-la
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,25,sizkur₂-bi he₂-eb-be₂
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,26,u₃ za-e lu₂ ŋiškim-til₃-zu-um
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,27,šag₄ ma-da-ni-ta ga-am₃-ta-gub-bu
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,28,i₃-si-in{ki}-na bad₃-bi ga-am₃-du₃
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,29,i-di-il-pa-šu-nu mu-še₃ ga-an-sa₄
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,30,bi₂-in-dug₄-ga-gin₇-nam
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,31,i₃-si-in{ki}-na bad₃-bi ba-an-du₃
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,32,i-di-il-pa-šu-nu mu-še₃ ba-an-sa₄
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,33,nibru{ki} ba-an-dab₅ en-nu-ŋa₂-ni ba-an-ŋar
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,34,u₃ {m}niŋ₂-dug₄-ga-ni saŋŋa nibru{ki} ba-an-dab₅
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,35,{m}zi-in-nu-um ensi₂ su-bir₄{ki} šaŋa-a i-ni-in-dab₅
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,36,ha-ma-zi{ki} nam-ra-aš im-mi-in-ak
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,37,{m}nu-ur₂-a-hi ensi₂ eš₃-nun-na{ki}
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,38,šu-{d}en-lil₂ ensi₂ kiš{ki}-a
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,39,u₃ {m}puzur₄-{d}tu-tu ensi₂ bad₃-zi-ab-ba{ki}
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,40,ki-ni-še₃ ba-an-gur-ru-uš
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,41,za-pa-aŋ₂-ŋa₂-ni-ta ma-da i₃-dul
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,42,{d}iš-bi-er₃-ra igi erin₂-na-še₃ i₃-DU.DU
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,43,bi₂-in-dug₄-ga-gin₇-nam
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,44,gu₂ {id₂}idigna gu₂ {id₂}buranuna gu₂ {id₂}ab₂-gal u₃ gu₂ {id₂}me-{d}en-lil₂-la₂ ba-an-dab₅
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,45,{m}i-din ma₃-al-gi₄-a{ki}-a ba-ni-in-kur₉
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,46,{m}gir-bu-bu ensi₂ ŊIR₂-kal{ki}-ke₄
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,47,gu₂ in-da-ak-e {kuš}gur₂₁-ni ba-an-kud u₃ e-ne ba-an-dab₅
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,48,za-pa-aŋ₂-ŋa₂-ni im-ma-an-dugud
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,49,ugu-ŋu₁₀-uš igi-ni ma-an-ŋar
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,50,{lu₂}tab-ba nu-tuku lu₂ nu-mu-un-da-sa₂-e
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,51,šu-ni sa₂ nu-mu-un-da-ab-dug₄-ga-ta
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,52,u₃-mu-un-šub ga-am₃-ma-ŋen
+c.3.1.19,Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin,,53,lugal-ŋu₁₀ he₂-en-zu

@@ -1,0 +1,22 @@
+id_text,text_name,version,l_no,text
+c.2.4.4.5,An adab to An for Šu-Suen (Šu-Suen E),,A1,šag₄-ta ur-saŋ
+c.2.4.4.5,An adab to An for Šu-Suen (Šu-Suen E),,A2,šag₄-ba-tuku
+c.2.4.4.5,An adab to An for Šu-Suen (Šu-Suen E),,A3,{d}šu-{d}suen gal-zu
+c.2.4.4.5,An adab to An for Šu-Suen (Šu-Suen E),,A4,lu₂
+c.2.4.4.5,An adab to An for Šu-Suen (Šu-Suen E),,A5,barag
+c.2.4.4.5,An adab to An for Šu-Suen (Šu-Suen E),,A6,hi-li me-te
+c.2.4.4.5,An adab to An for Šu-Suen (Šu-Suen E),,A7,bar-sud ₂-kam-ma-am₃
+c.2.4.4.5,An adab to An for Šu-Suen (Šu-Suen E),,A8,an-e
+c.2.4.4.5,An adab to An for Šu-Suen (Šu-Suen E),,A9,{d}šu-{d}suen
+c.2.4.4.5,An adab to An for Šu-Suen (Šu-Suen E),,A10,
+c.2.4.4.5,An adab to An for Šu-Suen (Šu-Suen E),,A11,
+c.2.4.4.5,An adab to An for Šu-Suen (Šu-Suen E),,B1,
+c.2.4.4.5,An adab to An for Šu-Suen (Šu-Suen E),,B2,{d}šu-{d}suen zig₃-ga
+c.2.4.4.5,An adab to An for Šu-Suen (Šu-Suen E),,B3,sa-gid₂-da
+c.2.4.4.5,An adab to An for Šu-Suen (Šu-Suen E),,B4,
+c.2.4.4.5,An adab to An for Šu-Suen (Šu-Suen E),,B5,ŋiš-gi₄-ŋal₂ sa-gid₂-da-bi-im
+c.2.4.4.5,An adab to An for Šu-Suen (Šu-Suen E),,B6,an-e nam mu-un-tar-ra
+c.2.4.4.5,An adab to An for Šu-Suen (Šu-Suen E),,B7,an kug-ga nam mu-un-tar eš₃ urim₂
+c.2.4.4.5,An adab to An for Šu-Suen (Šu-Suen E),,B8,an-e ud-gin₇ {d}šu-{d}suen-ra me
+c.2.4.4.5,An adab to An for Šu-Suen (Šu-Suen E),,B9,u₁₈-ru₁₂-bi-im
+c.2.4.4.5,An adab to An for Šu-Suen (Šu-Suen E),,B10,a-da-ab an-na-kam

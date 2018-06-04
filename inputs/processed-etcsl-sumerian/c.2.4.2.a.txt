@@ -1,0 +1,37 @@
+id_text,text_name,version,l_no,text
+c.2.4.2.a,A song of Šulgi,,1,šag₄-ta kug-ga e₃
+c.2.4.2.a,A song of Šulgi,,2,kalam-ma ki hul₂
+c.2.4.2.a,A song of Šulgi,,3,
+c.2.4.2.a,A song of Šulgi,,4,dug₄-ga
+c.2.4.2.a,A song of Šulgi,,5,lugal-ŋu₁₀ eridug{ki}-še₃ na-ŋen
+c.2.4.2.a,A song of Šulgi,,6,nun gal a-a {d}en-ki hul₂-la-a
+c.2.4.2.a,A song of Šulgi,,7,{d}šul-gi-re eridug{ki}-še₃ na-ŋen
+c.2.4.2.a,A song of Šulgi,,8,nun gal a-a {d}en-ki hul₂-la-a
+c.2.4.2.a,A song of Šulgi,,9,lugal-ŋu₁₀ nibru{ki}-še₃ na-ŋen
+c.2.4.2.a,A song of Šulgi,,10,kur gal a-a {d}en-lil₂ hul₂-la-a
+c.2.4.2.a,A song of Šulgi,,11,{d}šul-gi-re nibru{ki}-še₃ na-ŋen
+c.2.4.2.a,A song of Šulgi,,12,kur gal a-a {d}en-lil₂ hul₂-la-a
+c.2.4.2.a,A song of Šulgi,,13,lugal-ŋu₁₀ e₂-šu-me-ša₄-še₃ na-ŋen
+c.2.4.2.a,A song of Šulgi,,14,en {d}nin-urta-ke₄ hul₂-la-a
+c.2.4.2.a,A song of Šulgi,,15,{d}šul-gi-re e₂-šu-me-ša₄-še₃ na-ŋen
+c.2.4.2.a,A song of Šulgi,,16,en {d}nin-urta-ke₄ hul₂-la-NI
+c.2.4.2.a,A song of Šulgi,,17,lugal-ŋu₁₀ keš₃{ki}-še₃ na-ŋen
+c.2.4.2.a,A song of Šulgi,,18,{d}nin-sumun₂-zid-gal-an-na hul₂-la-a
+c.2.4.2.a,A song of Šulgi,,19,{d}šul-gi-re keš₃{ki}-še₃ na-ŋen
+c.2.4.2.a,A song of Šulgi,,20,{d}nin-sumun₂-zid-gal-an-na hul₂-la-a
+c.2.4.2.a,A song of Šulgi,,21,lugal-ŋu₁₀ urim₂-še₃ na-ŋen
+c.2.4.2.a,A song of Šulgi,,22,en {d}aš-im₄-babbar hul₂-la-a
+c.2.4.2.a,A song of Šulgi,,23,{d}šul-gi-re urim₂{ki}-še₃ na-ŋen
+c.2.4.2.a,A song of Šulgi,,24,en {d}aš-im₄-babbar hul₂-la-a
+c.2.4.2.a,A song of Šulgi,,25,lugal-ŋu₁₀ e₂-babbar₂-še₃ na-ŋen
+c.2.4.2.a,A song of Šulgi,,26,sun₄ za-gin₃ hul₂-la-a
+c.2.4.2.a,A song of Šulgi,,27,{d}šul-gi-re e₂-babbar₂-še₃ na-ŋen
+c.2.4.2.a,A song of Šulgi,,28,sun₄ za-gin₃ hul₂-la-a
+c.2.4.2.a,A song of Šulgi,,29,lugal-ŋu₁₀ kul-aba₄{ki}-še₃ na-ŋen
+c.2.4.2.a,A song of Šulgi,,30,{d}nin-iri₁₂-gal-ke₄ hul₂-la-a
+c.2.4.2.a,A song of Šulgi,,31,{d}šul-gi-re kul-aba₄{ki}-še₃ na-ŋen
+c.2.4.2.a,A song of Šulgi,,32,{d}nin-iri₁₂-gal-ke₄ hul₂-la-a
+c.2.4.2.a,A song of Šulgi,,33,lugal-ŋu₁₀ ki zabalam₂{ki}-še₃ na-ŋen
+c.2.4.2.a,A song of Šulgi,,34,{d}inana-ke₄ hul₂-la-a
+c.2.4.2.a,A song of Šulgi,,35,{d}šul-gi-re ki zabalam₂{ki}-še₃ na-ŋen
+c.2.4.2.a,A song of Šulgi,,36,{d}inana-ke₄ hul₂-la-a

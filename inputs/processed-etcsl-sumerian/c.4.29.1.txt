@@ -1,0 +1,91 @@
+id_text,text_name,version,l_no,text
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A1,
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A2,
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A3,me zu₂ keše₂-ru me
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A4,ka-mud-ŋal₂ e₂ lugal
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A5,an ki niŋ₂-daŋal-ba umun₂ ak na de₅ kalam-ma
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A6,{d}nuska kur gal {d}en-lil₂-le me-ni-še₃ mu-un-pad₃-de₃-en
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A7,zi su₃-ud-ŋal₂ en {d}nu-nam-nir-re tud-da
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A8,an ki-a pa e₃ ša-mu-ri-in-ak en ki aŋ₂-ŋa₂-ni-me-en
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A9,e₂-kur eš₃ mah me nam-nun-na šu-zu-še₃ im-mi-si
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A10,me kug me mah me galam-galam-ma me a-a kur gal-la
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A11,kingal {d}nuska zid-de₃-eš bi₂-in-gub-en
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A12,uz-ga kug šu-luh sikil dadag-ga šita kug ŋa₂-ŋa₂-ŋa₂
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A13,me nam-{d}en-lil₂-la₂ šu du₇-du₇ me gal šu mu-mu₂-mu₂
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A14,{d}nuska en nun-e pad₃-da zid-de₃-eš bi₂-in-gub-en
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A15,ŋiš-hur an ki-a si sa₂-sa₂-e an ki daŋal-bi-še₃
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A16,eš-bar gal-gal-la ŋiri₃ ŋa₂-ŋa₂ ŋarza du₇-du₇
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A17,{d}nuska en zid {d}en-lil₂-la₂ kur gal-e ma-ra-an-šum₂
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A18,sukkal a₂-nun-ŋal₂ {d}en-lil₂-la₂ ŋidru kug šu du₇
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A19,zag dib palil diŋir-re-e-ne an ki peš-a
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A20,sukkal zid en inim-ma gal-gal-la dumu nir-ŋal₂ an-na
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A21,gaba daŋal nun-e a₂ mah šum₂-ma me nam-gal šu du₇
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A22,sagi zabar kug dadag-ga en me {ŋeš}banšur-ra
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A23,me-lem₄ gal-la susbu šita abzu kisal-e saŋ nam-du₈-u₃
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A24,gal du₆ kug-ga šu sa₂-sa₂ i₃ saŋ ga saŋ ak
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A25,šid ka-inim-ma sed₄ šita kug du₇-du₇-du₇
+c.4.29.1,A šir-gida to Nuska (Nuska A),,A26,dadag dub₃ bar-bar-re nidba si sa₂-e
+c.4.29.1,A šir-gida to Nuska (Nuska A),,B1,
+c.4.29.1,A šir-gida to Nuska (Nuska A),,B2,
+c.4.29.1,A šir-gida to Nuska (Nuska A),,B3,
+c.4.29.1,A šir-gida to Nuska (Nuska A),,B4,
+c.4.29.1,A šir-gida to Nuska (Nuska A),,B5,e₂-kur
+c.4.29.1,A šir-gida to Nuska (Nuska A),,B6,me gal-gal
+c.4.29.1,A šir-gida to Nuska (Nuska A),,B7,e₂
+c.4.29.1,A šir-gida to Nuska (Nuska A),,B8,e₂
+c.4.29.1,A šir-gida to Nuska (Nuska A),,B9,me gal-gal
+c.4.29.1,A šir-gida to Nuska (Nuska A),,B10,{d}nuska
+c.4.29.1,A šir-gida to Nuska (Nuska A),,B11,e₂-kur-re
+c.4.29.1,A šir-gida to Nuska (Nuska A),,B12,{d}nuska
+c.4.29.1,A šir-gida to Nuska (Nuska A),,B13,an ki
+c.4.29.1,A šir-gida to Nuska (Nuska A),,B14,igi-ŋa₂
+c.4.29.1,A šir-gida to Nuska (Nuska A),,B15,
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C1,
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C2,eš₃
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C3,di-zu di gal-gal
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C4,en idim gal-an-zu
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C5,diŋir-ŋu₁₀ tir-an-na-gin₇
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C6,ub-šu-unken-na
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C7,diŋir gal-gal an ki-a
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C8,ki {d}en-lil₂
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C9,
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C10,
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C11,ur-saŋ ŋidru za-a-da
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C12,en gu₃ di
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C13,
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C14,
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C15,mu mi-ri-in-sa₄
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C16,
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C17,me gal
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C18,
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C19,
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C20,
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C21,
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C22,
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C23,
+c.4.29.1,A šir-gida to Nuska (Nuska A),,C24,
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D1,ŋeštug₂ daŋal niŋ₂-nam-ma buru₃-da igi-ŋal₂ ki-šar₂-ra
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D2,{ŋeš}al {ŋeš}apin gana₂ zid-de₃-eš ka du₈-u₃ ab-sin₂ še gu-nu
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D3,guru₇-du₆ guru₇-maš₂-a-da sud-sud-da gu₂ im-si-a
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D4,mu he₂-ŋal₂-la giri₁₇-zal-la nam-he₂ til₃ ud sud-da
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D5,{d}nuska eš₃ mah-ta ša-mu-na-da-ab-šum₂-mu
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D6,nitah kalag-ga a₂ nam-ur-saŋ-ŋa₂ me₃-še₃ saŋ ŋa₂-ŋa₂
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D7,kalam du₆-ul-du₆-ul-e erim₂-e izi šum₂-mu hul ga-an-ze-er ma₅-ma₅
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D8,kur gu₂ du₃-a-ba ŋiri₃ saga₁₁ di kur nu-še-ga
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D9,gud a₂ gur-ra udu siki sug₄ nidba gal-gal-la
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D10,{d}nuska en an-ne₂ ki aŋ₂ ša-mu-ra-da-an-ku₄-ku₄
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D11,me-zu kur-kur-ra keše₂-ba šu zid-de₃-eš ba-an-du₇-u₃
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D12,ŋarza nam-mah gal-gal-zu niŋ₂ ša-ba-ab-gu-ul-gu-ul-u₃
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D13,{d}nuska en gal dumu an-na me-teš₂ he₂-i-i
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D14,šita kug nam-nun-na gal sig₇-ga eš-bar-re kiŋ₂-ŋa₂
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D15,an ki-še₃ mah {d}udug e₂-kur-ra e₂-kur-re he₂-du₇
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D16,di gal ku₅-ru ka-aš bar an ki-a en di gal pad₃-da
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D17,a₂ sa-par₃ erim₂-du-še₃ la₂-a zid-du si sa₂
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D18,ur-saŋ me huš gal me huš gal gur₃-ru
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D19,ki-a ni₂ me-lem₄ u₁₈-ru mah-gin₇ dul-la
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D20,nam-mah gal-gal an-ne₂ za₃-mi₂
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D21,mu mi-ri-in-dug₄ a-a ugu-na
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D22,en galam-galam-ma dur₂ ki ŋar-ra
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D23,me du₇ ug su₃-ud-da ug gub-ba
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D24,kingal {d}nuska za₃-mi₂-zu dug₃-ga-am₃
+c.4.29.1,A šir-gida to Nuska (Nuska A),,D25,šir₃-gid₂-da {d}nuska-kam

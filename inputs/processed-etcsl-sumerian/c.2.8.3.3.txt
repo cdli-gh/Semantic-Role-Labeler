@@ -1,0 +1,39 @@
+id_text,text_name,version,l_no,text
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,1,en-e {ŋeš}gu-za barag mah-a dur₂ ŋar-ra-zu-ne
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,2,ki-tuš nam-lugal-zu ha-ba-gen₆-ne₂
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,3,sa-am-su-i-lu-na {ŋeš}gu-za barag mah-a dur₂ ŋar-ra-zu-ne
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,4,ki-tuš nam-lugal-zu ha-ba-gen₆-ne₂
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,5,šibir nam-en-na dab₅-a-zu-ne
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,6,{ŋeš}gu-za-zu suhuš-bi he₂-ge-en
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,7,ki kug ki sikil-la ni₂ mu₂-mu₂-da-zu-ne
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,8,me nam-nun-na šu gal-bi he₂-ni-du₇
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,9,barag kug nam-lugal-ke₄
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,10,nam-nir-ŋal₂-la gu₂ an-še₃ he₂-ni-zig₃
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,11,me-lem₄ nam-lugal-la mu₄-mu₄-da-zu-ne ud-gin₇ mul-mul
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,12,me mah me gal-gal-la šu du₇-a-zu-ne
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,13,ni₂ gal nam-lugal-la-ka tug₂-ba₁₃-gin₇ he₂-en₆-mur₁₀
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,14,ud zalag-ga-gin₇ dalla e₃-a-zu-ne
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,15,an-e {d}en-lil₂-bi nam gal ha-ra-ab-tar-re-ne
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,16,{d}nanna-gin₇ kalam-še₃ e₃-a-zu-ne
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,17,nun gal {d}en-ki-ke₄ šag₄ gu₂-bi gi₄-a-na šudu₃ hu-mu-ri-ib₂-ša₄
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,18,aga-zu {d}utu-gin₇ kalam-ma he₂-eb-zalag-ge
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,19,{ŋeš}ŋidru-zu uŋ₃ šar₂-ra si he₂-ni-ib-sa₂-sa₂-e
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,20,{d}suen-e zi-ŋal₂ he₂-ni-ib-lah₄-lah₄-e
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,21,šibir-zu ki-en-gi ki-uri he₂-ni-ib-tum₂ ama a-a-bi-gin₇
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,22,uŋ₃ daŋal-la uŋ₃ gu₃ teš₂-a sig₁₀-ga-zu
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,23,ma₂-gur₈ an-na-gin₇ zalag-ga-zu-še₃ giri₁₇ šu ha-ra-ab-ŋal₂-le
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,24,kur ni₂-ba tuš-a diŋir-bi he₂-me-en
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,25,{d}utu-gin₇ e₃-a-zu-še₃ asila
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,26,ama a-a ugu-bi-gin₇ igi-bi X-ŋal₂
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,27,u₂-gu₇ daŋal-la-zu-še₃ zi-bi
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,28,a naŋ he₂-ŋal₂-la-zu-še₃
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,29,uŋ₃ saŋ gig₂-ga
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,30,ŋissu-zu-uš ni₂ X-te-en-te-en
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,31,nam-sipad-zu
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,32,
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,35,he₂-i-i
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,36,nam-lugal-la ud da-ri₂-še₃ he₂-eb-ge-en
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,37,
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,38,
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,39,dadag-ga-me-en
+c.2.8.3.3,A prayer for Samsu-iluna (Samsu-iluna C),,40,sa-am-su-i-lu-na lugal-ŋu₁₀

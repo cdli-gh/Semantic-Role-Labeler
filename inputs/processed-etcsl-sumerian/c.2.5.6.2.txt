@@ -1,0 +1,49 @@
+id_text,text_name,version,l_no,text
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,1,en me galam-ma umuš ki ŋar-ra šag₄ su₃-ud niŋ₂-nam zu
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,2,{d}en-ki ŋeštug₂ daŋal mas-su mah {d}a-nun-na-ke₄-ne
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,3,gal-an-zu tu₆ ŋar inim-ma sig₁₀-ga eš-bar-ra igi ŋal₂
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,4,sa₂ pad₃-de₃ ud e₃-ta ud šu₂-uš-še₃ ŋalga šum₂-mu
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,5,{d}en-ki en dug₄-ga zid-zid-da me-teš₂-e ga-a-i-i
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,6,a-a-zu an lugal en numun i-i uŋ₃ ki ŋar-ŋar-ra
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,7,me an ki saŋ keše₂-bi-še₃ ma-ra-an-sig₁₀ nun-bi-še₃ mu-un-il₂-en
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,8,{id₂}idigna {id₂}buranuna ka kug-bi du₈-u₃ niŋ₂ giri₁₇-zal si-si
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,9,dungu sir₂-re a he₂-ŋal₂-la šum₂-mu a-gar₃-ra šeŋ₃-šeŋ₃
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,10,{d}ezina₂ ab-sin₂-na saŋ il₂-il₂-i u₂-šim edin-na
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,11,pu₂-{ŋeš}kiri₆ lal₃ ŋeštin ki tag-ga tir-gin₇ sud-sud-e
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,12,an lugal diŋir-re-e-ne-ke₄ a₂-bi mu-e-da-a-aŋ₂
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,13,{d}en-lil₂-le mu mah saŋ-kug-ŋal₂ ni₂ gal gur₃-ru-ni
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,14,šu ma-ra-an-ba en niŋ₂-nam u₃-tud {d}en-lil₂ ban₃-da-me-en
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,15,an ki-a dili-ni diŋir-ra-am₃ dub-us₂-a-ni za-e-me-en
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,16,e-ne-gin₇ nam sig igi-nim-ma tar-tar-re šu-zu-še₃ ša-mu-u₈-ŋar
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,17,eš-bar zid ka-ta e₃-a-zu uru₂ dib-ba-am₃
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,18,{d}sa₂-bar-a kur-zag til-la-aš uŋ₃ daŋal dur₂-ru-na-ba
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,19,gu₇ naŋ-bi-še₃ im-da-kuš₂-u₃-de₃-en a-a zid-bi za-e
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,20,en diŋir-bi-gin₇ nam-mah-zu me-teš₂ im-mi-i-i-ne
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,21,sa-gid₂-da-am₃
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,22,{d}nu-dim₂-mud {d}ur-{d}nin-urta-ra inim kug dug₄-ga mah-zu
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,23,nir he₂-ŋal₂ gaba gi₄ na-an-tuku-tuku
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,24,ŋiš-gi₄-ŋal₂-bi-im
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,25,en mah an ki-a zag bi₂-dib mu-zu pa bi₂-e₃
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,26,{d}en-ki me a-na ŋal₂-la mu-u₈-ur₄-ur₄ abzu-še₃ mu-u₈-ŋar
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,27,ki-tuš kug šag₄-ge bi₂-pad₃-da-zu abzu eš₃ mah-a
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,28,me-bi me-a dirig ŋiš-hur-bi a-re-eš gub-ba-me-en
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,29,ŋissu-bi ud e₃-ta ud šu-uš kur-kur-ra ši-im-dul
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,30,ni₂ me-lem₄ muru₉ dugud-da-gin₇ an kug-ge ib₂-us₂
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,31,e₂-kur ki-tuš kug an {d}en-lil₂-la₂ su zig₃ im-du₈-du₈
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,32,šag₄-ba ŋidru šum₂-mu me hal-hal-la diŋir gal-gal-e-ne-še₃
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,33,numun šar₂-ra im-dim₂-e nam-lu₂-ulu₃ u₃-tud til₃-le i₃-ŋal₂
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,34,a-a {d}en-ki barag nam-tar-ra-za dur₂ ŋar-ra-zu-ne
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,35,sa-ŋar-ra-am₃
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,36,lugal {d}en-lil₂-le nir šum₂-ma {d}ur-{d}nin-urta-ke₄
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,37,e₂ ŋeštug₂-ga nam-gal-an-zu dirig-še₃ niŋin ŋal₂-la-za
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,38,ŋal₂ u₃-bi₂-in-taka₄ saŋ gig₂-ga mas-su gal-bi he₂-em
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,39,su zig₃ me-te nam-diŋir-ra ur-mah nam-lugal-la
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,40,niŋ₂ šu dug₄-ga ud saŋ-ŋa₂-na til₃-la-še₃ pa e₃-ni-ib
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,41,gu₂-un dugud a-ab-ba sig igi-nim-ma saŋ-e-eš u₃-mu-e-ni-rig₇
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,42,{d}ur-{d}nin-urta-ke₄ he₂-ni-ib-ku₄-ku₄ e₂-kur za-gin₃-še₃
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,43,{d}en-lil₂-le igi hul₂-hul₂-la-ni e-ne-ra u₃-mu-un-ši-in-bar
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,44,bal-a-na ud dug₃ mu giri₁₇-zal nam-til₃-la ha-ma-ab-tah-e
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,45,a-a {d}en-ki nam-gal ni₂ ri-a ka-ge dib-ba-zu-uš
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,46,{d}a-nun-na diŋir šeš-zu-ne he₂-me-da-hul₂-hul₂-le-eš
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,47,dumu an-na mah nir-ŋal₂-bi tuku za₃-mi₂-zu dug₃-ga-am₃
+c.2.5.6.2,A tigi to Enki for Ur-Ninurta (Ur-Ninurta B),,48,tigi {d}en-ki-ka₃-kam

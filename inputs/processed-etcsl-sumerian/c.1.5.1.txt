@@ -1,0 +1,329 @@
+id_text,text_name,version,l_no,text
+c.1.5.1,Nanna-Suen's journey to Nibru,,1,ur-saŋ-e iri ama-na-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,2,{d}nanna-{d}suen-e ŋeštug₂-ga-ni na-an-gub
+c.1.5.1,Nanna-Suen's journey to Nibru,,3,{d}suen-e iri ama-na-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,4,{d}aš-im₂-babbar-re ŋeštug₂-ga-ni na-an-gub
+c.1.5.1,Nanna-Suen's journey to Nibru,,5,iri ama-na-še₃ a-a-na-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,6,{d}nanna-{d}suen-e ŋeštug₂-ga-ni na-an-gub
+c.1.5.1,Nanna-Suen's journey to Nibru,,7,{d}en-lil₂-la₂-še₃ {d}nin-lil₂-la₂-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,8,{d}aš-im₂-babbar-e ŋeštug₂-ga-ni na-an-gub
+c.1.5.1,Nanna-Suen's journey to Nibru,,9,ur-saŋ-me-en ŋe₂₆-e iri-ŋu₁₀-še₃ ga-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,10,ŋe₂₆-e iri-ŋu₁₀-še₃ ga-ŋen a-a-ŋu₁₀-še₃ ga-an-ši-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,11,{d}suen-me-en ŋe₂₆-e iri-ŋu₁₀-še₃ ga-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,12,ŋe₂₆-e iri-ŋu₁₀-še₃ ga-ŋen a-a-ŋu₁₀-še₃ ga-an-ši-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,13,a-a-ŋu₁₀ {d}en-lil₂-la₂-še₃ ga-an-ši-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,14,ŋe₂₆-e iri-ŋu₁₀-še₃ ga-ŋen ama-ŋu₁₀-še₃ ga-an-ši-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,15,ama-ŋu₁₀ {d}nin-lil₂-la₂-še₃ ga-an-ši-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,16,a-a-ŋu₁₀-še₃ ga-an-ši-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,17,iri šen-šen-na ki sikil-la
+c.1.5.1,Nanna-Suen's journey to Nibru,,24,e₃ gal-gal-la-am₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,25,e₃ gal-gal-la-am₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,26,e₃ gal-gal-la₂-am₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,27,e₃ gal-gal-la₂-am₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,28,nibru{ki}-ŋu₁₀ ŋiš-kin₂ ŋiš gig₂ ki dug₃-ge mu₂-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,29,eš₃ nibru{ki}-ŋu₁₀ ŋiš-kin₂ ŋiš babbar ki sikil-e mu₂-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,30,nibru{ki}-ŋu₁₀ ki dug₃-ga barag-bi ša-mu-un-du₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,31,eš₃ nibru{ki} mu-bi mu dug₃-ga-am₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,32,nibru{ki}-ŋu₁₀ ki dug₃-ga barag-bi ša-mu-un-du₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,33,eš₃ nibru{ki} mu-bi mu dug₃-ga-am₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,34,iri-ŋu₁₀ {kur}dilmun{ki} nu-me-a {ŋeš}ŋišnimbar ba-mu₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,35,nibru{ki} {kur}dilmun{ki} nu-me-a {ŋeš}ŋišnimbar ba-mu₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,36,ama gal {d}nin-lil₂-le šag₄ gada ba-ni-in-la₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,37,{d}suen-e {ŋeš}ma₂-gur₈ im-nu₂-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,38,{ŋeš}ma₂-gur₈ im-nu₂-e {gi}kid-bur₂ im-gi₄-gi₄
+c.1.5.1,Nanna-Suen's journey to Nibru,,39,{ŋeš}ma₂-gur₈-ra gi-bi tum-ma-al{ki}-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,40,{d}nanna-{d}suen-e lu₂ im-ši-in-gi₄-gi₄
+c.1.5.1,Nanna-Suen's journey to Nibru,,41,{ŋeš}ma₂-gur₈-ra esir-bi abzu-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,42,{d}aš-im₂-babbar-re lu₂ im-ši-in-gi₄-gi₄
+c.1.5.1,Nanna-Suen's journey to Nibru,,43,{u₂}A.NUMUN₂-bi du₆-a-šag₄-ga-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,44,{d}nanna-{d}suen-e lu₂ im-ši-in-gi₄-gi₄
+c.1.5.1,Nanna-Suen's journey to Nibru,,45,{ŋeš}mi-ri₂-za-bi tir ha-šu-ur₂-ra-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,46,{d}aš-im₂-babbar-e lu₂ im-ši-in-gi₄-gi₄
+c.1.5.1,Nanna-Suen's journey to Nibru,,47,{ŋeš}eme-sig-bi tir kug-nun-na-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,48,{d}nanna-{d}suen-e lu₂ im-ši-in-gi₄-gi₄
+c.1.5.1,Nanna-Suen's journey to Nibru,,48A,{ŋeš}a-da-ma₂-bi kur šim {ŋeš}erin-na-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,48B,{d}aš-im₂-babbar-e lu₂ im-ši-in-gi₄-gi₄
+c.1.5.1,Nanna-Suen's journey to Nibru,,49,{ŋeš}u₃-bi tir eb₂-la-ka-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,50,{d}aš-im₂-babbar-e lu₂ im-ši-in-gi₄-gi₄
+c.1.5.1,Nanna-Suen's journey to Nibru,,51,{ŋeš}u₃-suh₅-bi {ŋeš}tir šim {ŋeš}erin-na-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,52,{d}nanna-{d}suen-e lu₂ im-ši-in-gi₄-gi₄
+c.1.5.1,Nanna-Suen's journey to Nibru,,53,u₂ {ŋeš}li la-an-gi₄-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,54,{d}aš-im₂-babbar-e lu₂ im-ši-in-gi₄-gi₄
+c.1.5.1,Nanna-Suen's journey to Nibru,,55,
+c.1.5.1,Nanna-Suen's journey to Nibru,,56,{d}aš-im₂-babbar-re lu₂ im-ši-in-gi₄-gi₄
+c.1.5.1,Nanna-Suen's journey to Nibru,,57,u₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,58,{d}nanna-{d}suen-e lu₂ im-ši-in-gi₄-gi₄
+c.1.5.1,Nanna-Suen's journey to Nibru,,59,{ŋeš}ma₂-gur₈-ra gi-bi tum-ma-al{ki}-ta
+c.1.5.1,Nanna-Suen's journey to Nibru,,60,{d}nanna-{d}suen-ra mu-na-da-ri-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,61,{ŋeš}ma₂-gur₈-ra esir-bi abzu-ta
+c.1.5.1,Nanna-Suen's journey to Nibru,,62,{d}aš-im₂-babbar-ra mu-na-da-ri-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,63,{u₂}A.NUMUN₂-bi du₆-a-šag₄-ga-ta
+c.1.5.1,Nanna-Suen's journey to Nibru,,64,{d}nanna-{d}suen-ra mu-na-da-an-ri-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,65,{ŋeš}mi-ri₂-za-bi tir ha-šu-ur₂-ra-ta
+c.1.5.1,Nanna-Suen's journey to Nibru,,66,{d}aš-im₂-babbar-ra mu-na-da-an-ri-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,67,{ŋeš}eme-sig-bi tir kug-nun-na-ta
+c.1.5.1,Nanna-Suen's journey to Nibru,,68,{d}nanna-{d}suen-ra mu-na-da-an-ri-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,68A,{ŋeš}a-da-ma₂-bi kur šim {ŋeš}erin-na-ta
+c.1.5.1,Nanna-Suen's journey to Nibru,,68B,{d}aš-im₂-babbar-e mu-na-da-an-ri-am₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,69,{ŋeš}u₃-bi tir eb₂-la-ta
+c.1.5.1,Nanna-Suen's journey to Nibru,,70,{d}aš-im₂-babbar-ra mu-na-da-an-ri-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,71,{ŋeš}u₃-suh₅-bi {ŋeš}tir šim {ŋeš}erin-na-ta
+c.1.5.1,Nanna-Suen's journey to Nibru,,72,{d}nanna-{d}suen mu-na-da-an-ri-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,73,u₂ {ŋeš}li la-an-gi₄-ta
+c.1.5.1,Nanna-Suen's journey to Nibru,,74,{d}aš-im₂-babbar-ra mu-na-da-an-ri-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,75,
+c.1.5.1,Nanna-Suen's journey to Nibru,,76,{d}aš-im₂-babbar-ra mu-na-da-an-ri-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,77,u₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,78,{d}nanna-{d}suen-ra mu-na-da-an-ri-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,79,X-ni-in-ri
+c.1.5.1,Nanna-Suen's journey to Nibru,,80,{d}utu mu-un-da-hul₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,81,bi₂-in-ŋar
+c.1.5.1,Nanna-Suen's journey to Nibru,,82,{d}gibil₆ mu-un-da-hul₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,83,ba-ni-ib-be₂-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,84,ba-ni-in-dug₄
+c.1.5.1,Nanna-Suen's journey to Nibru,,85,X-nu₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,86,bi₂-in-du₈
+c.1.5.1,Nanna-Suen's journey to Nibru,,87,mu-un-da-hul₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,88,
+c.1.5.1,Nanna-Suen's journey to Nibru,,89,mu-un-da-hul₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,90,
+c.1.5.1,Nanna-Suen's journey to Nibru,,91,
+c.1.5.1,Nanna-Suen's journey to Nibru,,97,
+c.1.5.1,Nanna-Suen's journey to Nibru,,98,{d}suen
+c.1.5.1,Nanna-Suen's journey to Nibru,,99,aškud₂-zu
+c.1.5.1,Nanna-Suen's journey to Nibru,,100,{d}suen-e {ŋeš}ma₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,101,{d}suen-e {ŋeš}ma₂ a-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,102,{d}suen-e {ŋeš}ma₂-gur₈-ra
+c.1.5.1,Nanna-Suen's journey to Nibru,,103,{d}suen-e a-u₃-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,104,{d}suen-e a-u₃-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,110,a-u₃-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,111,a-u₃-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,112,a-u₃-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,113,a-u₃-a {d}aš-im₂-babbar-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,114,a-u₃-a ur₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,115,a-u₃-a {d}nanna-{d}suen-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,116,a-u₃-a dumu {d}en-lil₂-la₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,122,a-u₃-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,123,a-u₃-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,124,a-u₃-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,125,a-u₃-a {d}nanna-{d}suen-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,126,lugal-zu a-a-ni
+c.1.5.1,Nanna-Suen's journey to Nibru,,127,{d}nanna šul {d}suen-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,128,{d}suen-e a-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,129,{d}aš-im₂-babbar-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,130,{d}suen-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,136,a-u₃-a-ba
+c.1.5.1,Nanna-Suen's journey to Nibru,,137,a-u₃-a-ba
+c.1.5.1,Nanna-Suen's journey to Nibru,,138,a-u₃-a-ba a-u₃-a {d}X
+c.1.5.1,Nanna-Suen's journey to Nibru,,139,a-u₃-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,140,lugal-zu a-a-ni {d}en-lil₂-ra
+c.1.5.1,Nanna-Suen's journey to Nibru,,141,nesaŋ mu-un-na-ab-tum₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,142,saŋ us₂ mu-na-dur₂-ru-ne-eš
+c.1.5.1,Nanna-Suen's journey to Nibru,,143,a-u₃-a-ba dumu {d}nanna-ar gi₄
+c.1.5.1,Nanna-Suen's journey to Nibru,,144,mu-na-dur₂-ru-ne-eš
+c.1.5.1,Nanna-Suen's journey to Nibru,,147,{d}nanna-{d}suen-me-en
+c.1.5.1,Nanna-Suen's journey to Nibru,,148,e₂ {d}en-lil₂-la₂-še₃ zag im-la₂-la₂-e-en
+c.1.5.1,Nanna-Suen's journey to Nibru,,149,{d}aš-im₂-babbar-me-en e₂ {d}en-lil₂-la₂-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,150,zag im-la₂-la₂-e-en
+c.1.5.1,Nanna-Suen's journey to Nibru,,157,gud-da tur₃-re gu₂ bi₂-ib-gur-gur-re
+c.1.5.1,Nanna-Suen's journey to Nibru,,158,{d}nanna-{d}suen-e e₂ {d}en-lil₂-la₂-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,159,udu niga šag₄ mu-da-ab-la₂-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,160,{d}aš-im₂-babbar-e e₂ {d}en-lil₂-la₂-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,161,tur₃-e ib₂-da-ab-luh-luh-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,162,{d}nanna-{d}suen-e e₂ {d}en-lil₂-la₂-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,163,ud₅-de₃ niŋ₂-ar₃-ra bi₂-ib₂-gu₇-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,164,{d}aš-im₂-babbar-e e₂ {d}en-lil₂-la₂-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,165,ze₂-da-niŋ₂-bar-bar-sur-ra
+c.1.5.1,Nanna-Suen's journey to Nibru,,166,{d}nanna-{d}suen-e e₂ {d}en-lil₂-la₂-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,167,peš₂-ŋiš-gi niŋ₂ kun sud kun sud-da
+c.1.5.1,Nanna-Suen's journey to Nibru,,168,šag₄ am₃-mi-ni-ib₂-gul-gul
+c.1.5.1,Nanna-Suen's journey to Nibru,,169,{d}aš-im₂-babbar-e e₂ {d}en-lil₂-la₂-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,170,kud-da mušen tur-re šu bi₂-ib₂-zu-zu
+c.1.5.1,Nanna-Suen's journey to Nibru,,171,{d}nanna-{d}suen-e e₂ {d}en-lil₂-la₂-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,172,u₅-bi₂{mušen} tur tul₂-ta ba-ra-an-tum₂-mu
+c.1.5.1,Nanna-Suen's journey to Nibru,,173,{d}aš-im₂-babbar-e e₂ {d}en-lil₂-la₂-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,174,a-zag-gun₃{mušen} tur ba-ra-an-tum₂-mu
+c.1.5.1,Nanna-Suen's journey to Nibru,,175,{d}nanna-{d}suen-e e₂ {d}en-lil₂-la₂-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,176,suhur{ku₆}-e šag₄ mu-da-ab-sur-re
+c.1.5.1,Nanna-Suen's journey to Nibru,,177,{d}aš-im₂-babbar-re e₂ {d}en-lil₂-la₂-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,178,eštub{ku₆}-e zag im-la₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,179,{d}nanna-{d}suen-e e₂ {d}en-lil₂-la₂-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,180,i₃ A.NUMUN₂ a mu-un-de₂-de₂-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,181,{d}aš-im₂-babbar-re e₂ {d}en-lil₂-la₂-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,182,nunuz ŋir₃-lam-ma mu-un-sig₉-sig₉-ge
+c.1.5.1,Nanna-Suen's journey to Nibru,,183,{d}nanna-{d}suen-e e₂ {d}en-lil₂-la₂-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,184,gi sumun gi henbur mud ŋal₂ im-me
+c.1.5.1,Nanna-Suen's journey to Nibru,,185,{d}aš-im₂-babbar-re e₂ {d}en-lil₂-la₂-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,186,u₈ ₆₀₀-am₃ sila₄ im-mi-in-tu-ud
+c.1.5.1,Nanna-Suen's journey to Nibru,,187,udu-utua₂-bi šag₄-ba šu ba-ni-in-ba-ba
+c.1.5.1,Nanna-Suen's journey to Nibru,,188,gu₂ {id₂}surungal-la im-mi-in-ba
+c.1.5.1,Nanna-Suen's journey to Nibru,,189,{d}nanna-{d}suen-e e₂ {d}en-lil₂-la₂-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,190,ud₅ ₆₀₀-am₃ maš₂ im-mi-in-tu-ud
+c.1.5.1,Nanna-Suen's journey to Nibru,,191,maš₂-ud₅-da šag₄-ba šu ba-ni-in-ba-ba
+c.1.5.1,Nanna-Suen's journey to Nibru,,192,gu₂ {id₂}surungal-la im-mi-in-ba
+c.1.5.1,Nanna-Suen's journey to Nibru,,193,{d}aš-im₂-babbar-re e₂ {d}en-lil₂-la₂-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,194,ab₂ ₆₀₀-am₃ amar im-mi-in-tu-ud
+c.1.5.1,Nanna-Suen's journey to Nibru,,195,gud-ab₂-ba šag₄-ba šu ba-ni-in-ba-ba
+c.1.5.1,Nanna-Suen's journey to Nibru,,196,gu₂ {id₂}surungal-la im-mi-in-ba
+c.1.5.1,Nanna-Suen's journey to Nibru,,197,{d}nanna-{d}suen-e e₂ {d}en-lil₂-la₂-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,198,nidba-a saŋ-bi enegir{ki}-a eŋer-bi urim₂{ki}-ma
+c.1.5.1,Nanna-Suen's journey to Nibru,,199,e₂-ta nu-e₃ e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,200,{d}nin-girid₂-da e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,201,silim-ma he₂-me-en silim-ma he₂-me-en {ŋeš}ma₂ silim-ma he₂-me-en
+c.1.5.1,Nanna-Suen's journey to Nibru,,202,{ŋeš}ma₂ {d}suen-na silim-ma he₂-me-en {ŋeš}ma₂ silim-ma he₂-me-en
+c.1.5.1,Nanna-Suen's journey to Nibru,,203,{ŋeš}ma₂-gur₈-ra zid₂ im-ma-ab-gub-be₂ duh im-ma-ab-sal-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,204,ŋiri₃-ni gakkul zabar-ra im-ma-an-šu₂-šu₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,204A,šu-si-ni bulug {ŋeš}taškarin mu-na-an-bur₁₂-bur₁₂-re
+c.1.5.1,Nanna-Suen's journey to Nibru,,205,aškud₂-bi i₃-he-nun-na-ka šu ga-am₃-ma-ni-ib-ur₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,206,šag₄-zu-a i₃-nun lal₃ ŋeštin niŋ₂ he₂-ni-ib-gu-ul-gu-ul-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,207,si {ŋeš}ma₂-saŋ-ŋa₂-zu suhur{ku₆} eštub{ku₆} ul-ul hu-mu-ni-ib-dug₄
+c.1.5.1,Nanna-Suen's journey to Nibru,,208,{ŋeš}ma₂-e gu₂-bi nu-mu-na-ab-šum₂-mu nibru{ki}-še₃ ba-du-un
+c.1.5.1,Nanna-Suen's journey to Nibru,,209,nidba-a saŋ-bi larsam{ki}-ma eŋer-bi enegir{ki}-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,210,e₂-ta nu-e₃ e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,211,{d}še-ri₅-da sag₉-ga e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,212,silim-ma he₂-me-en silim-ma he₂-me-en {ŋeš}ma₂ silim-ma he₂-me-en
+c.1.5.1,Nanna-Suen's journey to Nibru,,213,{ŋeš}ma₂ a-a-ŋu₁₀ silim-ma he₂-me-en {ŋeš}ma₂ silim-ma he₂-me-en
+c.1.5.1,Nanna-Suen's journey to Nibru,,214,{ŋeš}ma₂-gur₈-ra zid₂ im-ma-ab-gub-be₂ duh im-ma-ab-sal-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,215,ŋiri₃-ni gakkul zabar-ra im-ma-an-šu₂-šu₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,215A,šu-si-ni {ŋeš}bulug {ŋeš}taškarin mu-na-bur₁₂-bur₁₂-re
+c.1.5.1,Nanna-Suen's journey to Nibru,,216,aškud₂-bi i₃-he-nun-na-ka šu ga-am₃-ma-ni-ib-ur₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,217,šag₄-zu-a i₃-nun lal₃ ŋeštin niŋ₂ he₂-ni-ib-gu-ul-gu-ul-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,218,si {ŋeš}ma₂-saŋ-ŋa₂-zu suhur{ku₆} eštub{ku₆} ul-ul hu-mu-ni-ib-dug₄
+c.1.5.1,Nanna-Suen's journey to Nibru,,219,{ŋeš}ma₂-e gu₂-bi nu-mu-na-ab-šum₂-mu nibru{ki}-še₃ ba-du-un
+c.1.5.1,Nanna-Suen's journey to Nibru,,220,nidba-a saŋ-bi ki unug{ki}-ga eŋer-bi larsam{ki}-ma
+c.1.5.1,Nanna-Suen's journey to Nibru,,221,e₂-ta nu-e₃ e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,222,kug {d}inana-ke₄ e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,223,silim-ma he₂-me-en silim-ma he₂-me-en {ŋeš}ma₂ silim-ma he₂-me-en
+c.1.5.1,Nanna-Suen's journey to Nibru,,224,{ŋeš}ma₂ a-a-ŋu₁₀ silim-ma he₂-me-en {ŋeš}ma₂ silim-ma he₂-me-en
+c.1.5.1,Nanna-Suen's journey to Nibru,,224A,{ŋeš}ma₂ {d}suen-na silim-ma he₂-me-en {ŋeš}ma₂ silim-ma he₂-me-en
+c.1.5.1,Nanna-Suen's journey to Nibru,,225,{ŋeš}ma₂-gur₈-ra zid₂ im-ma-ab-gub-be₂ duh im-ma-ab-sal-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,226,ŋiri₃-ni gakkul zabar-ra im-ma-an-šu₂-šu₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,226A,šu-si-ni bulug {ŋeš}taškarin-na mu-na-an-bur₁₂-bur₁₂-re
+c.1.5.1,Nanna-Suen's journey to Nibru,,227,aškud₂-zu i₃-he-nun-na-ka šu ga-am₃-ma-ni-ib-ur₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,228,šag₄-zu-a i₃-nun lal₃ ŋeštin niŋ₂ he₂-ni-ib-gu-ul-gu-ul-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,229,si {ŋeš}ma₂-saŋ-ŋa₂-zu suhur{ku₆} eštub{ku₆} ul-ul hu-mu-ni-ib-dug₄
+c.1.5.1,Nanna-Suen's journey to Nibru,,230,{ŋeš}ma₂-e gu₂-bi nu-mu-na-ab-šum₂-mu nibru{ki}-še₃ ba-du-un
+c.1.5.1,Nanna-Suen's journey to Nibru,,231,nidba-a saŋ-bi šuruppag{ki}-a eŋer-bi unug{ki}-ga
+c.1.5.1,Nanna-Suen's journey to Nibru,,232,e₂-ta nu-e₃ e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,233,{d}nin-unug-ke₄ e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,234,silim-ma he₂-me-en silim-ma he₂-me-en {ŋeš}ma₂ silim-ma he₂-me-en
+c.1.5.1,Nanna-Suen's journey to Nibru,,235,{ŋeš}ma₂ {d}suen-na silim-ma he₂-me-en {ŋeš}ma₂ silim-ma he₂-me-en
+c.1.5.1,Nanna-Suen's journey to Nibru,,236,{ŋeš}ma₂-gur₈-ra zid₂ im-ma-ab-gub-be₂ duh im-ma-ab-sal-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,237,ŋiri₃-ni gakkul zabar-ra im-ma-an-šu₂-šu₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,237A,šu-si-ni bulug {ŋeš}taškarin-na mu-na-an-bur₁₂-bur₁₂-re
+c.1.5.1,Nanna-Suen's journey to Nibru,,238,aškud₂-zu i₃-he-nun-na-ka šu ga-am₃-ma-ni-ib-ur₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,239,šag₄-zu-a i₃-nun lal₃ ŋeštin niŋ₂ he₂-ni-ib-gu-ul-gu-ul-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,240,si {ŋeš}ma₂-saŋ-ŋa₂-zu suhur{ku₆} eštub{ku₆} ul-ul hu-mu-ni-ib-dug₄
+c.1.5.1,Nanna-Suen's journey to Nibru,,241,{ŋeš}ma₂-e gu₂-bi nu-mu-na-ab-šum₂-mu nibru{ki}-še₃ ba-du-un
+c.1.5.1,Nanna-Suen's journey to Nibru,,242,nidba-a saŋ-bi tum-ma-al{ki}-a eŋer-bi šuruppag{ki}-ga
+c.1.5.1,Nanna-Suen's journey to Nibru,,243,e₂-ta nu-e₃ e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,244,{d}nin-lil₂ sag₉-ga e₂-ta nu-e₃ e₂-ta nam-ta-ab-e₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,245,silim-ma he₂-me-en silim-ma he₂-me-en {ŋeš}ma₂ silim-ma he₂-me-en
+c.1.5.1,Nanna-Suen's journey to Nibru,,246,{ŋeš}ma₂ dumu nun-na silim-ma he₂-me-en {ŋeš}ma₂ silim-ma he₂-me-en
+c.1.5.1,Nanna-Suen's journey to Nibru,,247,{ŋeš}ma₂-gur₈-ra zid₂ im-ma-ab-gub-be₂ duh im-ma-ab-sal-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,248,ŋiri₃-ni gakkul zabar-ra im-ma-an-šu₂-šu₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,248A,šu-si-ni bulug {ŋeš}taškarin-na mu-na-an-bur₁₂-bur₁₂-re
+c.1.5.1,Nanna-Suen's journey to Nibru,,249,aškud₂-zu i₃-he-nun-na-ka šu ga-am₃-ma-ni-ib-ur₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,250,šag₄-zu-a i₃-nun lal₃ ŋeštin niŋ₂ he₂-ni-ib-gu-ul-gu-ul-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,251,si {ŋeš}ma₂-saŋ-ŋa₂-zu suhur{ku₆} eštub{ku₆} ul-ul hu-mu-ni-ib-dug₄
+c.1.5.1,Nanna-Suen's journey to Nibru,,252,{ŋeš}ma₂-e gu₂-bi nu-mu-na-ab-šum₂-mu nibru{ki}-še₃ ba-du-un
+c.1.5.1,Nanna-Suen's journey to Nibru,,253,nidba-a saŋ-bi nibru{ki}-a eŋer-bi tum-ma-al{ki}-a
+c.1.5.1,Nanna-Suen's journey to Nibru,,254,kar za-gin₃ kar {d}en-lil₂-la₂-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,255,{d}nanna-{d}suen-e {ŋeš}ma₂ na-ga-am₃-mi-in-us₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,256,kar babbar kar {d}en-lil₂-la₂-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,257,{d}aš-im₂-babbar₂-e {ŋeš}ma₂ na-ga-am₃-mi-in-us₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,258,kun-saŋ a-a ugu-na nam-mi-in-gub
+c.1.5.1,Nanna-Suen's journey to Nibru,,259,i₃-du₈ a-a ugu-ni-ra gu₃ mu-na-de₂-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,260,e₂ ŋal₂-lu i₃-du₈ e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,261,e₂ ŋal₂-lu {d}kal-kal e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,262,{d}kal-kal lu₂-ŋiš-e₃ e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,263,lu₂-ŋiš-ed₃ ŋiš-e₃ e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,264,i₃-du₈ e₂ ŋal₂-lu {d}kal-kal e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,265,gud-da tur₃-re gu₂ bi₂-ib-gur-gur-re
+c.1.5.1,Nanna-Suen's journey to Nibru,,266,{d}nanna-{d}suen-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,267,udu niga šag₄ mu-da-ab-la₂-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,268,{d}aš-im₂-babbar-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,269,tur₃-e ib₂-da-ab-luh-luh-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,270,{d}nanna-{d}suen-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,271,ud₅-de₃ niŋ₂-ar₃-ra bi₂-ib₂-gu₇-en
+c.1.5.1,Nanna-Suen's journey to Nibru,,272,{d}aš-im₂-babbar-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,273,ze₂-da-niŋ₂-bar-bar-sur-ra
+c.1.5.1,Nanna-Suen's journey to Nibru,,274,{d}nanna-{d}suen-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,275,peš₂-ŋiš-gi niŋ₂ kun sud kun sud-da
+c.1.5.1,Nanna-Suen's journey to Nibru,,276,{d}aš-im₂-babbar-me-en šag₄ am₃-mi-ni-ib₂-gul-gul
+c.1.5.1,Nanna-Suen's journey to Nibru,,277,{d}aš-im₂-babbar-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,278,kud-da mušen tur-re šu bi₂-ib₂-zu-zu
+c.1.5.1,Nanna-Suen's journey to Nibru,,279,{d}nanna-{d}suen-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,280,u₅-bi₂{mušen} tur tul₂-ta ba-ra-an-tum₂-mu
+c.1.5.1,Nanna-Suen's journey to Nibru,,281,{d}aš-im₂-babbar-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,282,a-zag-gun₃{mušen} tur tul₂-ta ba-ra-an-tum₂-mu
+c.1.5.1,Nanna-Suen's journey to Nibru,,283,{d}nanna-{d}suen-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,284,suhur{ku₆}-e šag₄ mu-da-ab-sur-re
+c.1.5.1,Nanna-Suen's journey to Nibru,,285,{d}aš-im₂-babbar₂-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,286,eštub{ku₆}-e zag im-la₂-la₂-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,287,{d}nanna-{d}suen-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,288,i₃ A.NUMUN₂ a mu-un-de₂-de₂-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,289,{d}aš-im₂-babbar-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,290,nunuz ŋir₃-lam-e mu-un-sig₉-sig₉-ge
+c.1.5.1,Nanna-Suen's journey to Nibru,,291,{d}nanna-{d}suen-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,292,gi sumun gi henbur-e mud ŋal₂ im-me
+c.1.5.1,Nanna-Suen's journey to Nibru,,293,{d}aš-im₂-babbar-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,294,u₈ ₆₀₀-am₃ sila₄ im-mi-in-tu-ud
+c.1.5.1,Nanna-Suen's journey to Nibru,,295,udu-utua₂-bi šag₄-ba šu ba-ni-in-ba-ba
+c.1.5.1,Nanna-Suen's journey to Nibru,,296,gu₂ {id₂}surungal im-mi-in-ba
+c.1.5.1,Nanna-Suen's journey to Nibru,,297,{d}nanna-{d}suen-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,298,ud₅ ₆₀₀-am₃ maš₂ im-mi-in-tu-ud
+c.1.5.1,Nanna-Suen's journey to Nibru,,299,maš₂-ud₅-da-bi šag₄-ba šu ba-ni-in-ba-ba
+c.1.5.1,Nanna-Suen's journey to Nibru,,300,gu₂ {id₂}surungal im-mi-in-ba
+c.1.5.1,Nanna-Suen's journey to Nibru,,301,{d}aš-im₂-babbar-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,302,ab₂ ₆₀₀-am₃ amar im-mi-in-tu-ud
+c.1.5.1,Nanna-Suen's journey to Nibru,,303,gud-ab₂-ba šag₄-ba šu ba-ni-in-ba-ba
+c.1.5.1,Nanna-Suen's journey to Nibru,,304,gu₂ {id₂}surungal im-mi-in-ba
+c.1.5.1,Nanna-Suen's journey to Nibru,,305,{d}nanna-{d}suen-me-en e₂ {d}en-lil₂-la₂-še₃ i₃-du₈ e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,306,i₃-du₈ e₂ ŋal₂-lu {d}kal-kal e₂ ŋal₂-lu
+c.1.5.1,Nanna-Suen's journey to Nibru,,307,niŋ₂ saŋ {ŋeš}ma₂ niŋ₂-saŋ ga-ra-ni-ib-šum₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,308,niŋ₂ eŋer {ŋeš}ma₂ niŋ₂ eŋer ga-ra-ni-ib-šum₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,309,hul₂-la-da i₃-du₈-e hul₂-la-da
+c.1.5.1,Nanna-Suen's journey to Nibru,,310,i₃-du₈-e hul₂-la-da e₂ taka₄ nam-mi-in-la₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,311,{d}kal-kal lu₂-ŋiš-e₃ hul₂-la-da
+c.1.5.1,Nanna-Suen's journey to Nibru,,312,i₃-du₈-e hul₂-la-da e₂ taka₄ nam-mi-in-la₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,313,{d}kal-kal lu₂-{ŋeš}mud-e hul₂-la-da
+c.1.5.1,Nanna-Suen's journey to Nibru,,314,i₃-du₈-e hul₂-la-da e₂ taka₄ nam-mi-in-la₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,315,kur-ra igi ŋal₂ e₂ {d}en-lil₂-la₂-še₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,316,{d}nanna-{d}suen-e nidba si bi₂-in-sa₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,317,{d}en-lil₂-e nidba hul₂-la-da
+c.1.5.1,Nanna-Suen's journey to Nibru,,318,dumu-ni {d}suen-ra ninda mu-na-ba-e
+c.1.5.1,Nanna-Suen's journey to Nibru,,319,{d}suen-ra {d}en-lil₂ mu-un-da-hul₂ mi₂ zid na-mu-un-ne
+c.1.5.1,Nanna-Suen's journey to Nibru,,320,lu₂-tur-ŋu₁₀ lu₂ {ninda}gug₂ gu₇-a-ra {ninda}gug₂ šum₂-mu-na-ab-ze₂-en
+c.1.5.1,Nanna-Suen's journey to Nibru,,321,{d}nanna-ŋu₁₀ {ninda}gug₂ gu₇ ki aŋ₂-ŋa₂-ra {ninda}gug₂ šum₂-mu-na-ab-ze₂-en
+c.1.5.1,Nanna-Suen's journey to Nibru,,322,ninda-ba u₃ ninda mah e₂-kur-ta e₃-mu-na-ra-ab-ze₂-en
+c.1.5.1,Nanna-Suen's journey to Nibru,,323,kaš sig₅-ga a₂ sikil-la-ŋu₁₀ de₂-mu-na-ra-ab-ze₂-en
+c.1.5.1,Nanna-Suen's journey to Nibru,,324,ti-lim-da u₁₈-ru ki us₂-sa mu-bi
+c.1.5.1,Nanna-Suen's journey to Nibru,,325,{ninda}gug₂ gi-rin-na lal₃ si-gug₂ a sikil dug₄-ga-na-ab-ze₂-en
+c.1.5.1,Nanna-Suen's journey to Nibru,,326,{d}suen-e a-a ugu-ni-ra mu-na-ni-ib-gi₄-gi₄
+c.1.5.1,Nanna-Suen's journey to Nibru,,327,a-a ugu-ŋu₁₀ gu₇-a-zu ši-im-si-in
+c.1.5.1,Nanna-Suen's journey to Nibru,,328,kur gal a-a ugu-ŋu₁₀ naŋ-a-zu ši-im-si-in
+c.1.5.1,Nanna-Suen's journey to Nibru,,329,igi il₂-la-zu nam-lugal-am₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,330,{d}en-lil₂ he₂-ŋal₂-zu gub-ba-am₃
+c.1.5.1,Nanna-Suen's journey to Nibru,,331,šum₂-ma-da-ab {d}en-lil₂ šum₂-ma-da-ab urim₂{ki}-še₃ ga-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,332,id₂-da a-eštub šum₂-ma-da-ab urim₂{ki} ga-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,333,a-šag₄-ga še gu-nu šum₂-ma-da-ab urim₂{ki} ga-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,334,ambar-ra ku₆-da suhur{ku₆} šum₂-ma-da-ab urim₂{ki} ga-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,335,ŋiš-gi-a gi sumun gi henbur šum₂-ma-da-ab urim₂{ki} ga-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,336,{ŋeš}tir-{ŋeš}tir-ra šeg₉ šeg₉-bar šum₂-ma-da-ab urim₂{ki} ga-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,337,an-edin-na {ŋeš}maš-gurum šum₂-ma-da-ab urim₂{ki} ga-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,338,pu₂-kiri₆ lal₃ ŋeštin šum₂-ma-da-ab urim₂{ki} ga-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,339,e₂-gal-la zi su₃-ud-ŋal₂ šum₂-ma-da-ab urim₂{ki} ga-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,340,mu-na-an-šum₂ {d}en-lil₂ mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,341,id₂-da a-eštub mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,342,a-šag₄-ga še gu-nu mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,343,ambar-a ku₆-da suhur{ku₆} mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,344,ŋiš-gi-a gi sumun gi henbur mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,345,tir-tir-ra šeg₉ šeg₉-bar mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,346,an-edin-na {ŋeš}maš-gurum mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,347,pu₂-kiri₆ lal₃ ŋeštin mu-na-an-šum₂ urim₂{ki}-še₃ ba-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,348,e₂-gal-la zi su₃-ud-ŋal₂ mu-na-an-šum₂ urim₂{ki}-še₃ ba-an-ŋen
+c.1.5.1,Nanna-Suen's journey to Nibru,,349,lugal-ŋu₁₀ barag-za {d}en-lil₂-la₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,350,{d}nanna-ar-{d}suen-e ud ₇ he₂-a-ši-ib-tud
+c.1.5.1,Nanna-Suen's journey to Nibru,,351,barag kug-za ama gal {d}nin-lil₂-la₂
+c.1.5.1,Nanna-Suen's journey to Nibru,,352,en {d}aš-im₂-babbar-e ud ₇ he₂-a-ši-ib-tud

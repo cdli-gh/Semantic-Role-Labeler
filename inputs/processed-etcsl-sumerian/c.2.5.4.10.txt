@@ -1,0 +1,27 @@
+id_text,text_name,version,l_no,text
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,1,ab₂ gu₃ dug₃-ga amar gu₃ su₃-ra₂
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,2,in-nin₉-e tur₃-e ŋen-na-e
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,3,{lu₂}ki-sikil ud um-du-u₃-nam
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,4,{d}inana {dug}šakir₃-e gu₃ he₂-em-me
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,5,{dug}šakir₃ nitalam₃-zu-ke₄ gu₃ he₂-em-me
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,6,{d}inana {dug}šakir₃-e gu₃ he₂-em-me
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,7,{dug}šakir₃ {d}dumu-zid-da-ke₄ gu₃ he₂-em-me
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,8,{d}inana {dug}šakir₃-e gu₃ he₂-em-me
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,9,dun₅-dun₅ {dug}šakir₃-ra ša-mu-ra-ab-KU
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,10,{d}inana ur₅-re he₂-mu-e-hul₂-e
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,11,sipad zid lu₂ i-lu dug₃-ga-ke₄
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,12,mur ša₄ i-lu ša-ra-an-ib-be₂
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,13,in-nin niŋ₂-nam-ma niŋ₂ ku₇-ku₇-da
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,14,{d}inana šag₄-zu he₂-mu-e-hul₂-le
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,15,in-nin tur₃-ra kur₉-ra-zu-ne
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,16,{d}inana tur₃ ša-mu-u₈-da-hul₂-le
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,17,nu-u₈-gig amaš-a kur₉-ra-zu-ne
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,18,{d}inana amaš ša-mu-u₈-da-hul₂-le
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,19,e₂-bu-ra-ka kur₉-ra-zu-ne
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,20,siki u₈ zid-de₃ šu-mu-ba-ra-ge-nam
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,21,amaš kug-ge i₃ ki ha-ra-ab-daŋal-e
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,22,{e₂}tur₃-e i₃ gara₂ hu-mu-ra-ab-tum₃
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,23,amaš-e giri₁₇-zal-la he₂-sud₄
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,24,{d}iš-me-{d}da-gan ud-da-ni he₂-su₁₃-ud
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,25,u₈-e sila₄-bi mi₂ zid di-de₃
+c.2.5.4.10,A love song of Išme-Dagan (Išme-Dagan J),,26,nitalam-ŋu₁₀ u₆ dug₃-ge-eš he₂-i-i

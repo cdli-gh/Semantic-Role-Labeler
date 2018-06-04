@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,1,ambar-bi
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,2,a-gar₃ gal-gal gan₂-ne₂
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,3,pu₂-{ŋeš}kiri₆ kug il₂
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,4,u₂-gu₇ a naŋ {d}a-nun-ke₄-ne
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,5,a-a {d}en-lil₂ ama gal {d}nin-lil₂-bi saŋ-e-eš mu-ni-rig₇-eš
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,6,nibru{ki} mah en nin-zu-gin₇ diŋir na-me nu-dib₂
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,7,e-ne-e-ne nun er₉-me-eš diŋir pa e₃-me-eš
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,8,{d}en-lil₂ {d}nin-lil₂-gin₇ diŋir na-me nu-dib₂
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,9,e-ne-e-ne nun er₉-me-eš en nam tar-re-me-eš
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,10,šag₄-zu-a lugal {d}en-ki-ra me mu-na-ni-šum₂-mu-uš
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,11,nibru{ki} šir₃ kug-zu niŋ₂ kal-kal a-re-eš-še₃ dib₂-am₃
+c.2.5.4.b,A hymn to Enki for Išme-Dagan,,12,{d}iš-me-{d}da-gan-me-en du-ri₂-še₃ ka-ga₁₄ mu-ni-ŋar

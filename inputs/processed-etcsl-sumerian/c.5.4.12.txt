@@ -1,0 +1,36 @@
+id_text,text_name,version,l_no,text
+c.5.4.12,He is a good seed of a dog (Diatribe C),,1,a dug₃-ga ur-ra {u₂}numun ur-bar-ra-kam
+c.5.4.12,He is a good seed of a dog (Diatribe C),,2,ir {d}nin-kilim amar kir₄ šu nu-zu ka₅-a bar kušu₂{ku₆}
+c.5.4.12,He is a good seed of a dog (Diatribe C),,3,ugu₄-bi kur-bi-še₃ nu-sag₉ ŋalga-bi suh₃-a
+c.5.4.12,He is a good seed of a dog (Diatribe C),,4,muš₃-me-ni dim₂ hul ŋalga-ni i₃-lu₃ dim₂-ma-ni
+c.5.4.12,He is a good seed of a dog (Diatribe C),,5,ur-da ga-an-tar-tar-a lu₂-saŋ-DU-a ni₂ mu-bur₂-ra
+c.5.4.12,He is a good seed of a dog (Diatribe C),,6,ni₂ šub {lu₂}eh₃ dumu ur-gir₁₅-ra-ka
+c.5.4.12,He is a good seed of a dog (Diatribe C),,7,peš ed₃-de₃ lu₂-ed₃-de₃ lu₂ nam-ta-e₃-a
+c.5.4.12,He is a good seed of a dog (Diatribe C),,8,a-RU-ub inim hul-a ka teš₂ ud šu₂-šu₂-a
+c.5.4.12,He is a good seed of a dog (Diatribe C),,9,ka hul eme dar šu du₃-du₃-a
+c.5.4.12,He is a good seed of a dog (Diatribe C),,10,gu₂ id₂-da-ka la₂-a {ŋeš}ma₂-da-la₂ su-su
+c.5.4.12,He is a good seed of a dog (Diatribe C),,11,e₂ sig₉-ga šu bad-a sud-a
+c.5.4.12,He is a good seed of a dog (Diatribe C),,12,ni₂-zuh e₂ buru₃-buru₃ {ŋeš}ig gub-bu za-ra suh-u₃
+c.5.4.12,He is a good seed of a dog (Diatribe C),,13,ud šu₂-uš ildum₂-na inim hul-ŋal₂ ki ba-e-ni-tag-ga
+c.5.4.12,He is a good seed of a dog (Diatribe C),,14,e₂ lu₂-u₃-ka nu-ku₄-ku₄-da
+c.5.4.12,He is a good seed of a dog (Diatribe C),,15,an-ti-bal mu-na-ab-ak teš₂-bi mu-na-ab-KU
+c.5.4.12,He is a good seed of a dog (Diatribe C),,16,du₁₄ mu-na-ŋal₂ e₂ mu-na-lu₃-lu₃
+c.5.4.12,He is a good seed of a dog (Diatribe C),,17,umuš-bi nu-mu-na-dug₃ nu-mu-na-sag₉
+c.5.4.12,He is a good seed of a dog (Diatribe C),,18,si mu-na-sa₂-e mu-un-DU
+c.5.4.12,He is a good seed of a dog (Diatribe C),,19,ba-ni-in-šum₂ ŋiri₃ dab₅ lu₂ mu-kaš₄
+c.5.4.12,He is a good seed of a dog (Diatribe C),,20,ki aŋ₂ du₁₄ ba-ra-an-si-ig
+c.5.4.12,He is a good seed of a dog (Diatribe C),,21,mu-un-DU im-X
+c.5.4.12,He is a good seed of a dog (Diatribe C),,22,nu-mu-na-gid₂
+c.5.4.12,He is a good seed of a dog (Diatribe C),,23,mu-na-KAL
+c.5.4.12,He is a good seed of a dog (Diatribe C),,24,
+c.5.4.12,He is a good seed of a dog (Diatribe C),,35,igi
+c.5.4.12,He is a good seed of a dog (Diatribe C),,36,lu₂ inim ŋar
+c.5.4.12,He is a good seed of a dog (Diatribe C),,37,šag₄-a bar-a i₃-me-a
+c.5.4.12,He is a good seed of a dog (Diatribe C),,38,da ŋiri₃ kur₂ he₂-eb-dab₅-be₂
+c.5.4.12,He is a good seed of a dog (Diatribe C),,39,saŋ he₂-en-da-X {ŋeš}kiši₁₆ kur-ra he₂-X-DU
+c.5.4.12,He is a good seed of a dog (Diatribe C),,40,e₂ mu-ŋal₂ la-ba-ra-e₃ nir mu-na-ŋal₂
+c.5.4.12,He is a good seed of a dog (Diatribe C),,41,i₃ gibil i₃-HAR-re šu hul mu-un-dab₅-be₂
+c.5.4.12,He is a good seed of a dog (Diatribe C),,42,ur₃-ta mu-un-gaz-e gu₂-e mu-un-ur₃-e
+c.5.4.12,He is a good seed of a dog (Diatribe C),,43,dim₂-ma-na tum₂-ma umuš-a-na sig₁₀-ga
+c.5.4.12,He is a good seed of a dog (Diatribe C),,44,mu-na-an-ŋar NUN-e ki aŋ₂ muš-lah₅-e
+c.5.4.12,He is a good seed of a dog (Diatribe C),,45,niŋ₂ šag₄ hul na-ab-dim₂-e

@@ -1,0 +1,29 @@
+id_text,text_name,version,l_no,text
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,1,kug-ga-am₃ in-tu-ud kug-ga-am₃ in-tu-ud
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,2,nin-e kug-ga-am₃ in-tu-ud
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,3,a-bi-si₂-im-ti kug-ga-am₃ in-tu-ud
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,4,nin-e kug-ga-am₃ in-tu-ud
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,5,ŋiš-gen₆-na tug₂ nam-sag₉-ga-ŋu₁₀ a-bi-si₂-im-ti-ŋu₁₀
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,6,{ŋeš}saŋ-du tug₂ dun-na ŋal₂-la-ŋu₁₀ nin-ŋu₁₀ ku-ba-tum
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,7,suhur-e du₇ u₆ di-de₃ gub-ba-ŋu₁₀ u₃-mu-un {d}šu-{d}suen-ŋu₁₀
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,8,inim-ma du₅-mu {d}šul-gi-ra-ŋu₁₀
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,9,bi₂-dug₄-ga-ke₄-eš bi₂-dug₄-ga-ke₄-eš u₃-mu-un-e aŋ₂ ma-an-ba
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,10,me-e a-al-la-ri bi₂-dug₄-ga-ke₄-eš u₃-mu-un-e aŋ₂ ma-an-ba
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,11,bulug kug-sig₁₇ {na₄}kišib₃ za-gin₃-na u₃-mu-un-e aŋ₂ ma-an-ba
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,12,har kug-sig₁₇ har kug-babbar u₃-mu-un-e aŋ₂ ma-an-ba
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,13,u₃-mu-un aŋ₂-ba-zu na-aŋ₂-X sug₄-ga-am₃ igi-zu ha-ma-ab-il₂-il₂
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,14,{d}šu-{d}suen aŋ₂-ba-zu na-aŋ₂-X sug₄-ga-am₃ igi-zu ha-ma-ab-il₂-il₂
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,15,u₃-mu-un u₃-mu-un
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,16,sag₉-gin₇
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,17,uru₂-zu kud-da-gin₇ šu he₂-eb₂-mu₂ u₃-mu-un {d}šu-{d}suen-ŋu₁₀
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,18,ur-nim-gin₇ ŋiri₃-zu-še₃ he₂-nu₂ du₅-mu {d}šul-gi-ra-ŋu₁₀
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,19,za-bi-tum-ma kaš-a-ni ze₂-ba-am₃
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,20,kaš-a-ni-gin₇ gal₄-la-ni ze₂-ba-am₃ kaš-a-ni ze₂-ba-am₃
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,21,ka-ga₁₄-a-ni-gin₇ gal₄-la-ni ze₂-ba-am₃ kaš-a-ni ze₂-ba-am₃
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,22,kašbirₓ-a-ni kaš-a-ni ze₂-ba-am₃
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,23,{d}šu-{d}suen ba-sag₉-ge-na-ŋu₁₀
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,24,ba-sag₉-ge-na-ŋu₁₀ ba-zil₂-zil₂-i-na-ŋu₁₀
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,25,{d}šu-{d}suen ba-sag₉-ge-na-ŋu₁₀
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,26,ki aŋ₂ {d}en-lil₂-la₂ {d}šu-{d}suen-ŋu₁₀
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,27,lugal-ŋu₁₀ diŋir kalam-ma-na
+c.2.4.4.1,A balbale to Bau for Šu-Suen (Šu-Suen A),,28,bal-bal-e {d}ba-u₂-kam

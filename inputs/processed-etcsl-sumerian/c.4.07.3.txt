@@ -1,0 +1,234 @@
+id_text,text_name,version,l_no,text
+c.4.07.3,A hymn to Inana (Inana C),,1,in-nin šag₄ gur₄-ra ereš u₃-na giri₁₇-zal {d}a-nun-na-ke₄-ne
+c.4.07.3,A hymn to Inana (Inana C),,2,zag dib kur-kur-ra dumu gal {d}suen-na mah-di nun-gal-e-ne
+c.4.07.3,A hymn to Inana (Inana C),,3,ereš nam-mah me an ki ur₄-ur₄ an gal-da zag ša₄
+c.4.07.3,A hymn to Inana (Inana C),,4,diŋir gal-gal-e-ne a₂-ŋal₂-bi-im e-ne gi til-le-be₂-ne
+c.4.07.3,A hymn to Inana (Inana C),,5,inim mah-a-ni-še₃ {d}a-nun-na-ke₄-ne kušum₄ ki mu-un-tag-ge-ne
+c.4.07.3,A hymn to Inana (Inana C),,6,in-di₃-bi an nu-zu-zu a₂ aŋ₂-ŋa₂-ni-še₃ nu-la₂
+c.4.07.3,A hymn to Inana (Inana C),,7,niŋ₂ ak-ak-da-ni ab-ši-kur₂-ru ŋar-bi niŋ₂ nu-zu
+c.4.07.3,A hymn to Inana (Inana C),,8,me gal-gal šu du₇ šibir ba-e-dab₅-be₂ saŋ-kal mah-be₂-ne
+c.4.07.3,A hymn to Inana (Inana C),,9,diŋir kalam-ma-ke₄ {ŋeš}rab₃ gal-bi šu im-ri-X
+c.4.07.3,A hymn to Inana (Inana C),,10,ni₂ gal-a-ni hur-saŋ gal dul-lu kaskal mu-un-sig₉-sig₉-ge
+c.4.07.3,A hymn to Inana (Inana C),,11,za-pa-aŋ₂ dugud-da-ni-še₃ diŋir kalam-ma-ke₄ ni₂ am₃-ma-ur₄-ru-ne
+c.4.07.3,A hymn to Inana (Inana C),,12,mur ša₄-a-ni {d}a-nun-na gi dili-gin₇ saŋ mu-da-ab-sag₃-sag₃-ge-ne
+c.4.07.3,A hymn to Inana (Inana C),,13,dum-dam za-ni-še₃ kilib₃-ba-bi a₂-ur₂ mu-un-dab₅-be₂-e-ne
+c.4.07.3,A hymn to Inana (Inana C),,14,{d}inana e-ne-da nu-me-a an gal ka-aš nu-um-bar {d}en-lil₂ nam nu-un-tar
+c.4.07.3,A hymn to Inana (Inana C),,15,in-nin saŋ il₂ kur-ra ab-dirig a-ba saŋ mu-un-ŋa₂-ŋa₂
+c.4.07.3,A hymn to Inana (Inana C),,16,ki iri{ki} du₆-du₆-da e₂ lil₂-la₂-še₃ uzug e₂-ri-a-še₃ i₃-ŋal₂
+c.4.07.3,A hymn to Inana (Inana C),,17,urgu₂-ni u₃-dub₂ su tab₂-e su-mu-ug-ga-ni u₁₈-lu lu₂-ra eš₂ la₂
+c.4.07.3,A hymn to Inana (Inana C),,18,suh₃ igi suh₃-suh₃-suh₃ mu-un-sar-re uŋ₃ lu₂ nu-še-ga-ni-ir
+c.4.07.3,A hymn to Inana (Inana C),,19,ŋiš-ŋiš-la₂ sul-sul mar-uru₅ hub₂ sar-sar-re su-lim huš gu₂ e₃
+c.4.07.3,A hymn to Inana (Inana C),,20,e-ne di-bi šen-šen me₃ hub₂ sar ak-de₃ nu-kuš₂-u₃ ŋiri₃-ni {kuš}e-sir₂ si-ni
+c.4.07.3,A hymn to Inana (Inana C),,21,ud huš da-da-eš {tum₉}dalhamun₅ {tug₂}pala₃ i₃-dar-dar-re
+c.4.07.3,A hymn to Inana (Inana C),,22,niŋ₂ tag-ga-ni ga-ba-ra-hum {tum₉}u₁₈-lu saŋ keše₂ sud-sud
+c.4.07.3,A hymn to Inana (Inana C),,23,{d}inana piriŋ gi-il-gi-il-la dur₂-ru ni₂ nu-zu
+c.4.07.3,A hymn to Inana (Inana C),,24,nemurₓ hur-saŋ-ŋa₂ har-ra-an ku₄-ku₄ guruš₃ bur₂
+c.4.07.3,A hymn to Inana (Inana C),,25,in-nin am gal ne₃ nir-ŋal₂-ni na-me gaba nu-X-tu-lu
+c.4.07.3,A hymn to Inana (Inana C),,26,saŋ-kal nun-gal-e-ne pu₂ niŋ₂-huš nu-še-ga
+c.4.07.3,A hymn to Inana (Inana C),,27,{ŋeš}es₂-ad lu₂ erim₂-ŋal₂ lu₂-kur₂-ra
+c.4.07.3,A hymn to Inana (Inana C),,28,ki uš₁₁ šub-ba-ni ud-da-am₃ u₃ ba-ra-ah ki-in-du bi₂-in-UD
+c.4.07.3,A hymn to Inana (Inana C),,29,lipiš bal-a-ni niŋ₂ mar-uru₅ šu nu-ru-gu₂
+c.4.07.3,A hymn to Inana (Inana C),,30,šita₃ mah niŋ₂ kur₂ lu₂ lu₂ gu₂ du₃-a gam-gam
+c.4.07.3,A hymn to Inana (Inana C),,31,in-nin hu-ri₂-in{mušen} lu₂ šu nu-bar-re kur
+c.4.07.3,A hymn to Inana (Inana C),,32,{d}inana sur₂-du₃{mušen} diŋir-re-e-ne tur₃ daŋal {d}inana
+c.4.07.3,A hymn to Inana (Inana C),,33,iri {d}inana saŋ-ki ba-gid₂-i a-šag₄-bi
+c.4.07.3,A hymn to Inana (Inana C),,34,a-šag₄ in-nin-e ab-sin₂-bi u₂
+c.4.07.3,A hymn to Inana (Inana C),,35,an e-ne-ra saŋ mu-un-ŋa₂-ŋa₂ niŋ₂-na
+c.4.07.3,A hymn to Inana (Inana C),,36,izi ra an-edin-na in-nin
+c.4.07.3,A hymn to Inana (Inana C),,37,{d}inana
+c.4.07.3,A hymn to Inana (Inana C),,38,in-nin erin₂-huš sul-sul šen-šen
+c.4.07.3,A hymn to Inana (Inana C),,39,šir₃ mu-un-ŋa₂-ŋa₂
+c.4.07.3,A hymn to Inana (Inana C),,40,šir₃-bi ŋiš-hur ŋar-bi-a er₂ u₂ ga nam-uš₂-a
+c.4.07.3,A hymn to Inana (Inana C),,41,{d}inana u₂ ga nam-uš₂-a lu₂ gu₇-bi nu-til-le
+c.4.07.3,A hymn to Inana (Inana C),,42,lu₂ niŋ₂ gu₇-gu₇-da-ni ze₂ mu-un-tab₂-tab₂-be₂ in ka-bi-a
+c.4.07.3,A hymn to Inana (Inana C),,43,šag₄ hul₂-la-ka-ni šir₃ nam-uš₂-a edin-na mu-un-ŋa₂-ŋa₂
+c.4.07.3,A hymn to Inana (Inana C),,44,šir₃ šag₄-ga-ni ŋa₂-ŋa₂-da-ni
+c.4.07.3,A hymn to Inana (Inana C),,45,{ŋeš}tukul-bi uš₂ lugud mu-un-tu₅-tu₅ šag₄
+c.4.07.3,A hymn to Inana (Inana C),,46,{urud}dur₁₀-al-lub saŋ mu-un-da-sag₃-ge-ne {ŋeš}šukur gu₇-gu₇ {ŋeš}tukul za-ha-da uš₂ im-me-re-dul₉-dul₉-lu
+c.4.07.3,A hymn to Inana (Inana C),,47,ka hul-bi ur-saŋ
+c.4.07.3,A hymn to Inana (Inana C),,48,nesaŋ-bi-a uš₂ in-ga-an-de₂-de₂ nam-uš₂-a su₃-su₃
+c.4.07.3,A hymn to Inana (Inana C),,49,edin daŋal sig-ga ud zalag ku₁₀-ku₁₀ an-bar₇ mul-sig₇-še₃ mu-un-du₃-X
+c.4.07.3,A hymn to Inana (Inana C),,50,lu₂-u₃ lu₂-ra igi mu-un-suh-re inbir igi bi₂-in-du₈-ru
+c.4.07.3,A hymn to Inana (Inana C),,51,gu₃ ri-a-ta edin-ta lu₃-lu₃ šag₄-tum₂ šag₄-sig-ga ŋa₂-ŋa₂
+c.4.07.3,A hymn to Inana (Inana C),,52,šeg₁₁ gi₄-a-ni {d}iškur-gin₇ su kur-kur dub₂-dub₂-bu
+c.4.07.3,A hymn to Inana (Inana C),,53,me₃ er₉ ra-a-ni šu nu-ru-gu₂-da a-ba-a mu-na-ab-sig₁₀-ge
+c.4.07.3,A hymn to Inana (Inana C),,54,šen-šen er₉-a-ni igi nu-bar-re ŋiš-ŋiš-la₂ sul-sul
+c.4.07.3,A hymn to Inana (Inana C),,55,a ur₄-ra sumur ki-a ur₄-ur₄ niŋ₂-nam nu-da₁₃-da₁₃
+c.4.07.3,A hymn to Inana (Inana C),,56,in-nin₉ {ŋeš}tug₂-saga₁₁ KI.KAL ŋal₂ da₁₃-da₁₃ bar-re
+c.4.07.3,A hymn to Inana (Inana C),,57,lu₂ ka tar-ra-bi gu₂-bi nu-zi-zi ŋiri₃
+c.4.07.3,A hymn to Inana (Inana C),,58,šag₄ gur₄-ra-ni dim₂-dim₂-ma-ni ab-ak in-nin ₁-a-ni dim₂
+c.4.07.3,A hymn to Inana (Inana C),,59,mah-di unken-na zag gal ba-e-dur₂-ru zid-da gab₂-bu
+c.4.07.3,A hymn to Inana (Inana C),,60,hur-saŋ gal an-ba-gin₇ pe-el-la₂ šu mu-la₂
+c.4.07.3,A hymn to Inana (Inana C),,61,bir kur-ra ud e₃-ta ud šu₂-uš tum₂-tum₂-mu
+c.4.07.3,A hymn to Inana (Inana C),,62,{d}inana bad₃ {na₄}gul-gul u₃-ma sa₂ di
+c.4.07.3,A hymn to Inana (Inana C),,63,{na₄}kalag-ga utul₂-gin₇ i₃-udu-gin₇ mu-ni-in-du₃-e
+c.4.07.3,A hymn to Inana (Inana C),,64,in-nin giri₁₇-zal ŋiri₂-ur₃-ra šu ŋal₂-le su-lim kalam-ma dul-lu
+c.4.07.3,A hymn to Inana (Inana C),,65,sa la₂-a-ni engur-ra ku₆ ab-dab₅-dab₅-be₂ a-sur-ra-kam a-ha-an nu-da₁₃-da₁₃
+c.4.07.3,A hymn to Inana (Inana C),,66,mušen-du₃ kug-zu-gin₇ igi-te-en sa la₂-a-ni mušen nu-e₃
+c.4.07.3,A hymn to Inana (Inana C),,67,ki sukud inim si nu-sa₂
+c.4.07.3,A hymn to Inana (Inana C),,68,ŋiš-hur an ki
+c.4.07.3,A hymn to Inana (Inana C),,69,sig₁₀-ge₅ ak inim-ma-ni an nu-mu-na-HAR
+c.4.07.3,A hymn to Inana (Inana C),,70,ŋalga suh₃ pu-uh₃-ru-um diŋir gal-gal-e-ne ŋar-bi niŋ₂ nu-zu
+c.4.07.3,A hymn to Inana (Inana C),,71,šu dili an-na šu ha-za
+c.4.07.3,A hymn to Inana (Inana C),,72,
+c.4.07.3,A hymn to Inana (Inana C),,73,in-nin nemurₓ {d}a-nun-na-ke₄-ne gaba til nir šum₂-ma
+c.4.07.3,A hymn to Inana (Inana C),,74,inbir nu-tuku {d}inana mu-ŋa₂-ŋa₂ lu₂
+c.4.07.3,A hymn to Inana (Inana C),,75,ki-sikil tur ama₅-na šu teŋ₃-ŋe₂₆ šag₄ la-la
+c.4.07.3,A hymn to Inana (Inana C),,76,munus zag tag-ga-ni hul-bi bi₂-in-KA
+c.4.07.3,A hymn to Inana (Inana C),,77,kalam-ma-ka gal mu-na-RU-uš
+c.4.07.3,A hymn to Inana (Inana C),,78,tilla₂-a šu al-dag-dag-ge
+c.4.07.3,A hymn to Inana (Inana C),,79,zi-in-BU e₂-a dam dumu-ni igi bi₂-in-du₈
+c.4.07.3,A hymn to Inana (Inana C),,80,šer₇-da gu-la-ni su-ni-ta u₃-mu-e-ni-in-ŋar
+c.4.07.3,A hymn to Inana (Inana C),,81,ugu-ba giri₁₇ šu ŋal₂-la mu-ni-in-ak pi-li-pi-li mu-ni-in-sa₄
+c.4.07.3,A hymn to Inana (Inana C),,82,{ŋeš}šukur i-ni-kud nitah-gin₇ šag₄-ga-ni {ŋeš}tukul an-na-ab-šum₂-mu
+c.4.07.3,A hymn to Inana (Inana C),,83,šul-a-lum u₃-mu-ni-in-ak teš₂-bi me-bi la-ba-ŋal₂-la
+c.4.07.3,A hymn to Inana (Inana C),,84,e₂ nam-kug-zu {ŋeš}ig-bi mi-ni-in-ak šag₄-bi mu-un-zu-zu
+c.4.07.3,A hymn to Inana (Inana C),,85,sa la₂-ni-ir ni₂ nu-zu-ni-ir igi-te-en sa la₂-a-ni nu-e₃
+c.4.07.3,A hymn to Inana (Inana C),,86,lu₂ mu pad₃-da-ni nu-mu-na-kal-la munus-ra u₃-mu-na-te {ŋeš}tukul i-ni-in-kud {ŋeš}šukur an-na-ab-šum₂-mu
+c.4.07.3,A hymn to Inana (Inana C),,87,lu₂-ŋiš-gi-saŋ-keše₂ ni₂-su-ub munus-ŋiš-gi šul-a-lum u₃-mu-ni-in-ak še ša₄
+c.4.07.3,A hymn to Inana (Inana C),,88,lu₂-al-ed₂-de₃ pi-li-pi-li bal kur-ŋar-ra saŋ-ur-saŋ-e-ne
+c.4.07.3,A hymn to Inana (Inana C),,89,i-lu šir₃-ra-am₃ zu bar
+c.4.07.3,A hymn to Inana (Inana C),,90,er₂ er₂-ra bi₂-ib₂-kuš₂-u₃-ne a-nir
+c.4.07.3,A hymn to Inana (Inana C),,91,er₂ ud-da šag₄-zu nu-DI
+c.4.07.3,A hymn to Inana (Inana C),,92,muš₃-am₃ e₂ šag₄ bur₂ ni₂ dub₂-bu nu-zu
+c.4.07.3,A hymn to Inana (Inana C),,93,nin ki aŋ₂ an kug-ga igi er₂-ra
+c.4.07.3,A hymn to Inana (Inana C),,94,an-na me
+c.4.07.3,A hymn to Inana (Inana C),,95,gaba-za ki nu-mu-e-da-sa₂
+c.4.07.3,A hymn to Inana (Inana C),,96,dili-zu-ne mah mu e-da-tuku an ki niŋ₂-za nu-sig₉-ge
+c.4.07.3,A hymn to Inana (Inana C),,97,an-da {d}en-lil₂-da mu-e-da-sa₂ zag gal-bi mu-e-dur₂-ru-e
+c.4.07.3,A hymn to Inana (Inana C),,98,ki-šu ki-šu-peš dirig-ga-me-en in-di-za mah-me-en
+c.4.07.3,A hymn to Inana (Inana C),,99,{d}ezina₂ barag mah il₂
+c.4.07.3,A hymn to Inana (Inana C),,100,{d}iškur-re lu₂ an-ta gu₃
+c.4.07.3,A hymn to Inana (Inana C),,101,dungu sir₂-sir₂-ra-ni
+c.4.07.3,A hymn to Inana (Inana C),,102,ud me gal-gal an ki-bi-da šu
+c.4.07.3,A hymn to Inana (Inana C),,103,{d}inana u₃-ma-zu huš-am₃ šag₄
+c.4.07.3,A hymn to Inana (Inana C),,104,{d}a-nun-na giri₁₇-bi gam-e-eš giri₁₇ ba-e-dur₂-ru-ne-eš
+c.4.07.3,A hymn to Inana (Inana C),,105,ur gal-gal ₇-bi ba-e-u₅ an-na ba-e-ed₂-de₃
+c.4.07.3,A hymn to Inana (Inana C),,106,an gal-e muš₃-za ni₂ bi₂-te ki-tuš-zu im-mi-hu-luh
+c.4.07.3,A hymn to Inana (Inana C),,107,ki-tuš an gal-la-ke₄ dur₂ ba-e-ŋar su nu-mu-e-da-zi-zi
+c.4.07.3,A hymn to Inana (Inana C),,108,ŋarza₂ mah ŋarza gal-gal šu-zu ga-mu-un-si
+c.4.07.3,A hymn to Inana (Inana C),,109,diŋir gal-e-ne giri₁₇ ki-a bi₂-in-su-ub-bu-uš šu-kin mu-un-dab₅-be₂-eš
+c.4.07.3,A hymn to Inana (Inana C),,110,kur un₃-na kur {na₄}gug {na₄}za-gin₃-na giri₁₇ ki-še₃ mu-ra-an-te
+c.4.07.3,A hymn to Inana (Inana C),,111,ebih{ki} giri₁₇ ki-še₃ nu-mu-ra-an-te šu nu-mu-ra-mu₂-mu₂
+c.4.07.3,A hymn to Inana (Inana C),,112,gu₃-an-ne₂-si-gin₇ ib₂-ba si-il-la-za ud-gin₇ ib₂-ra-ra
+c.4.07.3,A hymn to Inana (Inana C),,113,nin an {d}en-lil₂-da dirig-ga ŋiri₃ i-i
+c.4.07.3,A hymn to Inana (Inana C),,114,za-e-da nu-me-a nam-nam-ma nu-un-tar sa₂ galam nu-še
+c.4.07.3,A hymn to Inana (Inana C),,115,kaš₄ kar-re te-en-te-en ni₂ dub₂-bu-de₃ {d}inana za-a-kam
+c.4.07.3,A hymn to Inana (Inana C),,116,ul₄-ul₄ zi-zi an-ta sa₂-sa₂-de₃ {d}inana za-a-kam
+c.4.07.3,A hymn to Inana (Inana C),,117,har-ra-an he₂-en-du taka₄ ŋiri₃ dab ki silim-ma dili-us₂ dim₃-ma {d}inana za-a-kam
+c.4.07.3,A hymn to Inana (Inana C),,118,ŋiri₃-us₂ ka-ŋiri₃ si sa₂-sa₂-de₃ ki dar ge-en-ge-en {d}inana za-a-kam
+c.4.07.3,A hymn to Inana (Inana C),,119,gul-lu dim₂-me zi-zi ŋa₂-ŋa₂ {d}inana za-a-kam
+c.4.07.3,A hymn to Inana (Inana C),,120,nitah munus-ra munus nitah-ra ku₄-ku₄-de₃ {d}inana za-kam
+c.4.07.3,A hymn to Inana (Inana C),,121,la-la šag₄-zig₃-ga niŋ₂-šu ŋal₂ e₂ niŋ₂-gun₂ ŋa₂-ŋa₂ {d}inana za-a-kam
+c.4.07.3,A hymn to Inana (Inana C),,122,dun sa₅-bu₈ kug bal kug dirig {d}inana za-a-kam
+c.4.07.3,A hymn to Inana (Inana C),,123,kug-dun kug a₂-tuku i-bi₂-za kug im-ba {d}inana za-a-kam
+c.4.07.3,A hymn to Inana (Inana C),,124,igi igi igi kar₂-kar₂ igi bar zil₂-zil₂-bi {d}inana za-a-kam
+c.4.07.3,A hymn to Inana (Inana C),,125,me teš₂ {d}alad {d}lamma ki-šu-peš₁₁ zu {d}inana za-a-kam
+c.4.07.3,A hymn to Inana (Inana C),,126,šu bal ab-ak an-ta
+c.4.07.3,A hymn to Inana (Inana C),,127,ze₂-mu-ug
+c.4.07.3,A hymn to Inana (Inana C),,128,zag tag-ga
+c.4.07.3,A hymn to Inana (Inana C),,129,
+c.4.07.3,A hymn to Inana (Inana C),,130,
+c.4.07.3,A hymn to Inana (Inana C),,131,{d}inana za-a-kam
+c.4.07.3,A hymn to Inana (Inana C),,132,šag₄ gur šag₄ šu niŋin {d}inana za-a-kam
+c.4.07.3,A hymn to Inana (Inana C),,133,nam-bi {d}inana za-a-kam
+c.4.07.3,A hymn to Inana (Inana C),,134,šag₄ tuku₄-e im-ba-X im-ba-sur im-ba-X-X {d}inana za-a-kam
+c.4.07.3,A hymn to Inana (Inana C),,135,dam dam tuku niŋ₂ dug₃ ki aŋ₂-ŋa₂ dug₃ {d}inana za-a-kam
+c.4.07.3,A hymn to Inana (Inana C),,136,hi-li-hi-li-a sun₇-na {d}inana za-a-kam
+c.4.07.3,A hymn to Inana (Inana C),,137,gum₂-gum₂ ŋar-ŋar-ŋar il₂ gu₂ zig₃ gam-gam {d}inana za-a-kam
+c.4.07.3,A hymn to Inana (Inana C),,138,e₂ du₃-a ama₅ dim₂-me niŋ₂-gun₂-na tuku-tuku nundum dim₃ sag₉ {d}inana za-kam
+c.4.07.3,A hymn to Inana (Inana C),,139,dub₃ bad dub₃ kaš₄ ni₂ sig₁₀-sig₁₀-ge sa₂ did-de₃ {d}inana za-kam
+c.4.07.3,A hymn to Inana (Inana C),,140,hu-ru kalag-ga lu₂-gam-ma lu₂-sig-ga hi-hi {d}inana za-kam
+c.4.07.3,A hymn to Inana (Inana C),,141,il₂-la₂ du₅-la₂ saŋ il₂-la₂ ib₂-ba-lal hi-hi {d}inana za-kam
+c.4.07.3,A hymn to Inana (Inana C),,142,aga {ŋeš}gu-za {ŋeš}ŋidru nam-lugal šum₂-mu {d}inana za-kam
+c.4.07.3,A hymn to Inana (Inana C),,155,tur mah sig daŋal gu₂ šu daŋal tag-ga {d}inana za-a-kam
+c.4.07.3,A hymn to Inana (Inana C),,156,ŋarza ŋarza₂ šum₂-mu a₂-bi aŋ₂-ŋa₂ tum₂-tum₂-mu
+c.4.07.3,A hymn to Inana (Inana C),,157,eme sig inim a-ša-an-ga-ra KA-e₂-gal kur₂ dug₄-ga tah dug₄-dug₄ {d}inana za-a-kam
+c.4.07.3,A hymn to Inana (Inana C),,158,ba-an-gi₄ lul zid bi-ri-ig niŋ₂-a₂-zig₃ dug₄-dug₄
+c.4.07.3,A hymn to Inana (Inana C),,159,a-tar la₂-la₂ niŋ₂ kur₂ dug₄-dug₄ zu₂ li₂ pe-el dugud
+c.4.07.3,A hymn to Inana (Inana C),,160,kana₆ niŋ₂-gig-ga šag₄ hul gig hul zalag-ga ku₁₀-ku₁₀
+c.4.07.3,A hymn to Inana (Inana C),,161,ni₂-am₃ ur₄-re ni₂ ul₄ ni₂ ri til₃-la ni₂ gal me-lem₄-ma
+c.4.07.3,A hymn to Inana (Inana C),,162,u₃-ma niŋ₂ im-ba-sur igi lib u₃ nu-ku
+c.4.07.3,A hymn to Inana (Inana C),,163,gu₂ ŋar saŋ ŋar ni₂ ul₄ gu₃ til₄-a
+c.4.07.3,A hymn to Inana (Inana C),,164,du₁₄ igi suh₃-suh₃ gaba-ri erin₂-huš ŋiš-ŋiš-la₂ sul-sul
+c.4.07.3,A hymn to Inana (Inana C),,165,naŋ niŋ₂-nam-ma zu-zu
+c.4.07.3,A hymn to Inana (Inana C),,166,gud₃ us₂-sa ul-le₂-a-aš gen₆-ne₂
+c.4.07.3,A hymn to Inana (Inana C),,167,a-ri-a šag₄-tur₃-gin₇ ni₂ ri-a-X gu₂-bar gu₂ ŋa₂-ŋa₂
+c.4.07.3,A hymn to Inana (Inana C),,168,hul gig keše₂ {d}inana za-a-kam
+c.4.07.3,A hymn to Inana (Inana C),,169,ŋiš-šub
+c.4.07.3,A hymn to Inana (Inana C),,170,uŋ₃ sag₂ dug₄-ga gu₂ ŋar-ŋar ki-bi-še₃ gi₄-gi₄
+c.4.07.3,A hymn to Inana (Inana C),,171,šu tiŋ₄-ŋe₂₆
+c.4.07.3,A hymn to Inana (Inana C),,172,X-du₈-u₃ {d}inana za-a-kam
+c.4.07.3,A hymn to Inana (Inana C),,173,
+c.4.07.3,A hymn to Inana (Inana C),,174,lu₂-kaš₄-e-ne
+c.4.07.3,A hymn to Inana (Inana C),,175,ka ba-zu šu ba-an-kur₉
+c.4.07.3,A hymn to Inana (Inana C),,176,igi bar-ra-zu ŋeštug₂ la₂ ŋiš tuku-uš nu-ši-bad-ba₉-re₆
+c.4.07.3,A hymn to Inana (Inana C),,177,igi suh-a-zu dadag-ga ku₁₀-ku₁₀ an-bar₇ mul-sig₇-še₃ mu-un-ŋa₂-ŋa₂
+c.4.07.3,A hymn to Inana (Inana C),,178,ki šag₄-zu ud mi-ni-ib-dug₄-ga-aš mu-un-gul ki mu-un-dub₂-bu niŋ₂-zu niŋ₂ nu-sag₂
+c.4.07.3,A hymn to Inana (Inana C),,179,niŋ₂ gal-gal-zu a-ba saŋ mu-un-ŋa₂-ŋa₂ za-e nin an ki-me-en
+c.4.07.3,A hymn to Inana (Inana C),,180,{d}inana e₂-gal kadra nu-di-kud uŋ₃ šar₂-ra ka eš-bar
+c.4.07.3,A hymn to Inana (Inana C),,181,mu pad₃-da-zu kur-ra ab-dirig an nu-mu-un-da-sa₂
+c.4.07.3,A hymn to Inana (Inana C),,182,ŋeštug₂-ga de₅-a-zu niŋin diŋir-re-e-ne igi šub-ba dili-zu-u₃-de₃ mah-me-en
+c.4.07.3,A hymn to Inana (Inana C),,183,diŋir an ki-a a-na me-a-bi immal₂ gal-bi-me-en
+c.4.07.3,A hymn to Inana (Inana C),,184,igi il₂-la-zu lib bar mu-un-ak-e-ne inim-zu-še₃ i₃-dur₂-ru-ne-eš
+c.4.07.3,A hymn to Inana (Inana C),,185,ki za til₃-la-za {d}a-nun-na al-sug₂-ge-eš inim mu-un-da-sag₉-sag₉-ge-ne
+c.4.07.3,A hymn to Inana (Inana C),,186,ni₂ gal ka tar mu-un-til₃-le-ne
+c.4.07.3,A hymn to Inana (Inana C),,187,ka tar si-il-la-zu ba-ra-mu-un-til-le me-a mu-zu mah nu
+c.4.07.3,A hymn to Inana (Inana C),,197,en₃-du-zu zarah a-nir šag₄
+c.4.07.3,A hymn to Inana (Inana C),,198,šu bal-a nu-ub-zu ib₂-ba-zu zukum-ma
+c.4.07.3,A hymn to Inana (Inana C),,199,šu dug₄-ga-zu niŋ₂ šu a₂ aŋ₂-ŋa₂ du₃-du₃-a-zu an nu-mu-un-na-an-la₂
+c.4.07.3,A hymn to Inana (Inana C),,200,an-da {d}en-lil₂-da lu₂ zu-a unken-na gal-gal munus saŋ-e-eš mu-e-rig₇
+c.4.07.3,A hymn to Inana (Inana C),,201,ka teš₂ an {d}en-lil₂ kalam šu-zu-uš dab₅
+c.4.07.3,A hymn to Inana (Inana C),,202,inim bi₂-in-dug₄-ga-zu an nu-mu-un-na-an-gi₄
+c.4.07.3,A hymn to Inana (Inana C),,203,he₂-am₃ dug₄-ga-zu an gal nu-mu-un-na-an-bur₂
+c.4.07.3,A hymn to Inana (Inana C),,204,he₂-am₃-zu he₂-am₃ gul-lu gul-lu
+c.4.07.3,A hymn to Inana (Inana C),,205,gi₄ unken-na bi₂-in-dug₄-ga-zu an {d}en-lil₂ nu-sag₂
+c.4.07.3,A hymn to Inana (Inana C),,206,eš-bar ab-bi bi₂-in-dug₄-ga-zu an ki-ta nu-kur₂-ru
+c.4.07.3,A hymn to Inana (Inana C),,207,ki he₂-am₃ bi₂-in-dug₄ gul-lu nu-DI
+c.4.07.3,A hymn to Inana (Inana C),,208,ki gul-la bi₂-in-dug₄ he₂-am₃ nu-DI
+c.4.07.3,A hymn to Inana (Inana C),,209,nam-diŋir-zu {d}nanna {d}utu-gin₇ an kug-ge dalla e₃
+c.4.07.3,A hymn to Inana (Inana C),,210,izi-ŋar-zu ub an-na zalag-ge ku₁₀-ku₁₀ zalag-ge-eš₂ ŋar
+c.4.07.3,A hymn to Inana (Inana C),,211,nitah munus-bi gu dili-a mi-ri-ed₂-de₃ niŋ₂ ud-da-ka-ni igi-zu-še₃ bi₂-ib₂-ta-la₂
+c.4.07.3,A hymn to Inana (Inana C),,212,uŋ₃ šar₂-ra-zu kurum₇ ak-da-bi {d}utu-gin₇ igi-zu-še₃ i₃-dib-be₂
+c.4.07.3,A hymn to Inana (Inana C),,213,me kal-kal-la-za šu nu-tu-tu me kilib₃ i₃-dib-be₂
+c.4.07.3,A hymn to Inana (Inana C),,214,an ki til-bi-še₃ nam-nin-bi mu-e-ak niŋ₂-nam šu mu-e-du₈
+c.4.07.3,A hymn to Inana (Inana C),,215,in-nin za-e mah-me-en igi-zu-še₃ na-me nu-dib-be₂
+c.4.07.3,A hymn to Inana (Inana C),,216,an gal-da ki-nu₂ kug-ga mu-e-til
+c.4.07.3,A hymn to Inana (Inana C),,217,diŋir a-ba za-gin₇ ur₄ an ki ur₄-ur₄
+c.4.07.3,A hymn to Inana (Inana C),,218,za-e mah-me-en mu-zu ar₂-re-eš e dili-zu-ne mah-me-en
+c.4.07.3,A hymn to Inana (Inana C),,219,en-he₂-du₇-an-na-me-en zirru
+c.4.07.3,A hymn to Inana (Inana C),,220,{d}nanna-me-en
+c.4.07.3,A hymn to Inana (Inana C),,221,
+c.4.07.3,A hymn to Inana (Inana C),,242,
+c.4.07.3,A hymn to Inana (Inana C),,243,ŋalga
+c.4.07.3,A hymn to Inana (Inana C),,244,šag₄ hul gig niŋ₂-gig-ga muš₃-am₃
+c.4.07.3,A hymn to Inana (Inana C),,245,nin-ŋu₁₀ ud en-nam arhuš šag₄-ne-ša₄
+c.4.07.3,A hymn to Inana (Inana C),,246,ŋe₂₆-e za-kam ne-e a-na-am₃ i₃-til-le šag₄-zu ha-ma-sed-de₃
+c.4.07.3,A hymn to Inana (Inana C),,247,ŋeštug₂-ga de₅-a-zu šag₄-ne-ša₄
+c.4.07.3,A hymn to Inana (Inana C),,248,igi-zu-še₃ igi kar₂-kar₂-ŋu₁₀ he₂-ŋal₂
+c.4.07.3,A hymn to Inana (Inana C),,249,nam-diŋir-zu kalam-e pa bi₂-a-e₃
+c.4.07.3,A hymn to Inana (Inana C),,250,šer₇-da gu-la-zu su-ŋu₁₀ ba-e-zu-zu
+c.4.07.3,A hymn to Inana (Inana C),,251,a-nir niŋ₂ gig-ga igi ma-lib la-ra-ah si-il-am₃-ta
+c.4.07.3,A hymn to Inana (Inana C),,252,arhuš šag₄-ne-ša₄ igi bar-bar šag₄ gur-ru giri₁₇ šu ŋal₂ za-a-kam
+c.4.07.3,A hymn to Inana (Inana C),,253,ud a ra-ah KI.KAL ŋal₂ da₁₃-da₁₃ ku₁₀-ku₁₀ zalag-ge-eš ŋar
+c.4.07.3,A hymn to Inana (Inana C),,254,nin-ŋu₁₀ nam-mah-zu kur-kur-ra ka tar-zu ga-si-il
+c.4.07.3,A hymn to Inana (Inana C),,255,a-ra₂ nam-gur₄-ra-zu me-teš₂ hu-mu-i-i
+c.4.07.3,A hymn to Inana (Inana C),,256,za-e nam-diŋir-zu a-ba e-da-sa₂
+c.4.07.3,A hymn to Inana (Inana C),,257,ŋarza-zu-še₃ a-ba-a mu-un-na-sig₁₀-ge
+c.4.07.3,A hymn to Inana (Inana C),,258,an gal ki aŋ₂-zu muš₃-am₃-zu he₂-eb-be₂
+c.4.07.3,A hymn to Inana (Inana C),,259,diŋir gal-gal-e-ne ur₅-zu he₂-bi₂-ib₂-huŋ-ŋe₂₆-ne
+c.4.07.3,A hymn to Inana (Inana C),,260,barag za-gin₃ nam-nin-a tum₂-ma TU-TU-zu he₂-X
+c.4.07.3,A hymn to Inana (Inana C),,261,ki-tuš nam-mah-zu tuš-a hu-mu-ra-ab-be₂
+c.4.07.3,A hymn to Inana (Inana C),,262,ki-nu₂ kug-ga-zu ni₂ dub₂-bu hu-mu-ra-ab-be₂
+c.4.07.3,A hymn to Inana (Inana C),,263,nam-X-zu ki {d}utu e₃-a šag₄ si-il-i
+c.4.07.3,A hymn to Inana (Inana C),,264,nam-mah-zu ši-im-pad₃-pad₃-de₃-ne za-e nin ab-bi-me-en
+c.4.07.3,A hymn to Inana (Inana C),,265,an {d}en-lil₂ an kilib₃-ba-bi nam gal mu-ri-in-tar-re-eš
+c.4.07.3,A hymn to Inana (Inana C),,266,nam-nin gu₂-en-na ma-ra-an-šum₂-mu-uš
+c.4.07.3,A hymn to Inana (Inana C),,267,nin₉ nin-e-ne nam nam-ma-tar-re nam-nin-a tum₂-ma
+c.4.07.3,A hymn to Inana (Inana C),,268,in-nin za-e mah-me-en za-e gur₄-ra-me-en
+c.4.07.3,A hymn to Inana (Inana C),,269,{d}inana za-e mah-me-en za-e gur₄-ra-me-en
+c.4.07.3,A hymn to Inana (Inana C),,270,nin-ŋu₁₀ nam-mah-zu pa bi₂-a-e₃
+c.4.07.3,A hymn to Inana (Inana C),,271,šag₄-zu ki-bi ha-ma-gi₄-gi₄
+c.4.07.3,A hymn to Inana (Inana C),,272,niŋ₂ gal-gal-zu niŋ₂ zag nu-sa₂
+c.4.07.3,A hymn to Inana (Inana C),,273,nam-mah-zu me-teš₂ hu-mu-i-i
+c.4.07.3,A hymn to Inana (Inana C),,274,ki-sikil {d}inana za₃-mi₂-zu dug₃-ga-am₃

@@ -1,0 +1,349 @@
+id_text,text_name,version,l_no,text
+c.6.1.01,Proverbs: collection 1,,A1,niŋ₂-gen₆-na-da a-ba in-da-sa₂ nam-til₃ i₃-u₃-tud
+c.6.1.01,Proverbs: collection 1,,A2,niŋ₂-erim₂-e a₂-bi he₂-bi₂-ib₂-kuš₂-u₃ {d}utu me-da tum₃
+c.6.1.01,Proverbs: collection 1,,A3,niŋ₂ gu₂ kud-ku₅-ra₂ gu₂ nam-ba-e-ku₅-re₆
+c.6.1.01,Proverbs: collection 1,,A4,{d}nin-ŋiš-zid-da-ra ga-til₃ na-an-na-ab-be₂-en
+c.6.1.01,Proverbs: collection 1,,A5,kan₄-na nam-mu-e-ni-dib-be₂
+c.6.1.01,Proverbs: collection 1,,A6,niŋ₂ gu₂ ŋar-ra niŋ₂ gaba ŋar-ra
+c.6.1.01,Proverbs: collection 1,,A7,niŋ₂ ha-lam-ma diŋir-ra-kam šu tu-tu nu-ub-zu
+c.6.1.01,Proverbs: collection 1,,A8,ninda-ŋu₁₀ he₂-ŋal₂ ninda-zu ga-gu₇
+c.6.1.01,Proverbs: collection 1,,A9,e₂ dub₃-sa-na-ka lu₂ ba-ni-ib-kal-le
+c.6.1.01,Proverbs: collection 1,,A10,ninda he₂-ŋal₂-e {d}nin-kilim ib₂-gu₇
+c.6.1.01,Proverbs: collection 1,,A11,ninda ha-ma-ŋal₂-e lu₂-kur₂-ra ib₂-gu₇
+c.6.1.01,Proverbs: collection 1,,A12,niŋ₂-ŋu₁₀ niŋ₂ am₃-kur₂
+c.6.1.01,Proverbs: collection 1,,A13,niŋ₂ i₃-pad₃-da-zu nu-ub-be₂-en
+c.6.1.01,Proverbs: collection 1,,A14,niŋ₂ u₂-gu de₂-a-zu ab-be₂-en
+c.6.1.01,Proverbs: collection 1,,A15,niŋ₂ ud-bi-ta la-ba-ŋal₂-la
+c.6.1.01,Proverbs: collection 1,,A16,ki-sikil tur ur₂ dam-ma-na-ka še₁₀ nu-ub-dur₂-re
+c.6.1.01,Proverbs: collection 1,,A17,niŋ₂ ud tur-ra-kam
+c.6.1.01,Proverbs: collection 1,,A18,niŋ₂-hul dim₂-ma-zu a-na-am₃ na-an-na-ab-be₂-en
+c.6.1.01,Proverbs: collection 1,,A19,niŋ₂-tuku-tuku al-su₃-ud
+c.6.1.01,Proverbs: collection 1,,A20,nam-ukur₃-ra al-ku-nu
+c.6.1.01,Proverbs: collection 1,,A21,niŋ₂ am₃-da-tuku-tuku igi am₃-da-uru₃-e
+c.6.1.01,Proverbs: collection 1,,A22,niŋ₂-gur₁₁ niŋ₂-ŋiškim-til₃ ši-dugud-dugud
+c.6.1.01,Proverbs: collection 1,,A23,niŋ₂-gur₁₁ buru₅{mušen} dal-dal
+c.6.1.01,Proverbs: collection 1,,A24,ki-tuš nu-pad₃-de₃-dam
+c.6.1.01,Proverbs: collection 1,,A25,da-ga nam-kug-zu {d}lamma ib₂-da-nu₂
+c.6.1.01,Proverbs: collection 1,,A26,niŋ₂ ud-de₃ gu₇ ur-re ba-an-ŋar
+c.6.1.01,Proverbs: collection 1,,A27,niŋ₂ ur-re gu₇ ud-de₃ ba-an-ŋar
+c.6.1.01,Proverbs: collection 1,,A28,ninda hul ba-ŋal₂-la gu₂-zu la-ba-ši-šub
+c.6.1.01,Proverbs: collection 1,,A29,ninda MAŠ šag₄-da zig₃-ga-ab
+c.6.1.01,Proverbs: collection 1,,A30,niŋ₂-tuku al di keše₂-re niŋ₂-gig-ga-am₃
+c.6.1.01,Proverbs: collection 1,,A31,ŋeštug₂-zu
+c.6.1.01,Proverbs: collection 1,,A32,niŋ₂-hul kuš₂-kuš₂ nidba tag-ga
+c.6.1.01,Proverbs: collection 1,,A33,niŋ₂ ak-zu gu₇ nam he₂-eb-tar
+c.6.1.01,Proverbs: collection 1,,A34,niŋ₂ nu-dug₃ ga-dug₄-dug₄
+c.6.1.01,Proverbs: collection 1,,A35,niŋ₂-sam₂-ma sig₁₀-ga šag₄-ta ib₂-ta-e₃
+c.6.1.01,Proverbs: collection 1,,A36,niŋ₂ igi nu-du₈-a-gin₇ mu-un-ak
+c.6.1.01,Proverbs: collection 1,,A37,niŋ₂ u₂ nu-gu₇ am kur-ra-ka
+c.6.1.01,Proverbs: collection 1,,A38,niŋ₂ a nu-naŋ maš-da₃ kur-ra-ka
+c.6.1.01,Proverbs: collection 1,,A39,ninda šu-a ti-a li-bi₂-in-gur-ra
+c.6.1.01,Proverbs: collection 1,,A40,niŋ₂ e₂ zig₃-ga niŋir-e an-hul₂
+c.6.1.01,Proverbs: collection 1,,A41,niŋ₂ e₂ de₅-de₅-ga aŋrig-e an-hul₂
+c.6.1.01,Proverbs: collection 1,,A42,niŋ₂ arad ba-e-sam₂
+c.6.1.01,Proverbs: collection 1,,A43,niŋ₂ nam-til-til-de₃-en eŋer-bi ga-ra-an-da-am₃
+c.6.1.01,Proverbs: collection 1,,A44,niŋ₂ inim bal-e-en-na-zu
+c.6.1.01,Proverbs: collection 1,,A45,a-ba-am₃ ŋiš mu-ra-an-tuku-tuku
+c.6.1.01,Proverbs: collection 1,,A46,niŋ₂ ab-ak-ak-na-zu niŋ₂ ak tur lu₂ ne in-nu
+c.6.1.01,Proverbs: collection 1,,A47,ninda i₃-sig₁₀ šu nu-un-gur
+c.6.1.01,Proverbs: collection 1,,A48,a ib₂-ta-de₂ ki-in-du ba-ab-naŋ
+c.6.1.01,Proverbs: collection 1,,A49,kur-ra ki kal-la-kal-la-ba
+c.6.1.01,Proverbs: collection 1,,A50,a-am₃ u₂-am₃ a-de₂-da mu-pad₃-de₃-dam
+c.6.1.01,Proverbs: collection 1,,A51,ninda-gin₇ an-pad X-da-an-šar₂
+c.6.1.01,Proverbs: collection 1,,A52,ninda-ni niŋ₂-u₂-zug₄ he₂-a
+c.6.1.01,Proverbs: collection 1,,A53,lu₂ nam-bi₂-in-šu₂-šu₂
+c.6.1.01,Proverbs: collection 1,,A54,ninda-ni ninda nunuz dalla he₂-a zi-ni he₂-am₃-su-ub
+c.6.1.01,Proverbs: collection 1,,A55,ninda-ni ŋiri₃-paₓ-ra₂ dalla he₂-a zi-ni he₂-keše₂
+c.6.1.01,Proverbs: collection 1,,A56,ninda-ni uzu dalla he₂-a zi-ni
+c.6.1.01,Proverbs: collection 1,,A57,niŋ₂ mah gu₇-gu₇ nu-KU
+c.6.1.01,Proverbs: collection 1,,A58,niŋ₂-zu₂-gub-zu pad-ma-an-de₃-eb
+c.6.1.01,Proverbs: collection 1,,A59,ninda tun₃-pad daŋal-le i₃-ta ab-ta-šar₂
+c.6.1.01,Proverbs: collection 1,,A60,zid₂-gu ama-a-tud-Xbr-ka lal₃ i₃-nun-ta he₂-eb₂-ta-hi a-nir-bi nu-gul-e
+c.6.1.01,Proverbs: collection 1,,A61,dabin a-šag₄-ga {uzu}suš₂-am₃
+c.6.1.01,Proverbs: collection 1,,A62,a-šag₄-ga ninda ŋal₂-la dili-e-eš gu₇-u₃-da
+c.6.1.01,Proverbs: collection 1,,A63,zid₂-gu munus-munus-e e₂-gal-e ba-ab-du₇
+c.6.1.01,Proverbs: collection 1,,A64,ninda in-na-til-la-am₃
+c.6.1.01,Proverbs: collection 1,,A65,{ninda}gug₂ du₈ šag₄ niŋ₂-silaŋ-ŋa₂ in-nu-u₃
+c.6.1.01,Proverbs: collection 1,,A66,ninda ₂ MAŠ-ta-am₃ du₈-u₃-de₃ šag₄-ŋu₁₀ am₃-tum₃-de₃
+c.6.1.01,Proverbs: collection 1,,A67,šu-ŋu₁₀ {im}šu-rin-na-ta nu-ub-ta-ed₂-de₃
+c.6.1.01,Proverbs: collection 1,,A68,ninda {ŋeš}ma₂-am₃ a {ŋeš}gi-muš-am₃
+c.6.1.01,Proverbs: collection 1,,A69,{ŋeš}šu-kar₂-ŋu₁₀ šum₂-ma-ab
+c.6.1.01,Proverbs: collection 1,,A70,{ŋeš}ma₂-ŋu₁₀ zag ga-ab-tag
+c.6.1.01,Proverbs: collection 1,,A71,ukur₃ ha-ba-ug₇ nam-ba-da-til₃-i
+c.6.1.01,Proverbs: collection 1,,A72,ninda i₃-pad₃ mun nu-pad₃ mun i₃-pad₃ ninda nu-pad₃
+c.6.1.01,Proverbs: collection 1,,A73,uzu i₃-pad₃ gazi nu-pad₃ gazi i₃-pad₃ uzu nu-pad₃ i₃ i₃-pad₃ šaŋan nu-pad₃ šaŋan i₃-pad₃ i₃ nu-pad₃
+c.6.1.01,Proverbs: collection 1,,A74,e-sir₂-ra he₂-du silim-eš₂ gu₃ nu-um-de₂
+c.6.1.01,Proverbs: collection 1,,A75,e₂-a i-ni-in-kur₉ nitalam-ma-ni-še₃ mu hul mu-bi-im
+c.6.1.01,Proverbs: collection 1,,A76,ukur₃ nam-til₃-bi nam-uš₂-da nu-ub-dirig
+c.6.1.01,Proverbs: collection 1,,A77,ninda paₓ-ra₂ šum₂-sikil zil₂-la₂-še₃
+c.6.1.01,Proverbs: collection 1,,A78,ninda e₂-dub-ba-a-kam
+c.6.1.01,Proverbs: collection 1,,A79,ninda paₓ-ra₂ šum₂-sikil zil₂-la₂-še₃ u₂ ze₂
+c.6.1.01,Proverbs: collection 1,,A80,
+c.6.1.01,Proverbs: collection 1,,A81,na-ab-ŊAR
+c.6.1.01,Proverbs: collection 1,,A82,
+c.6.1.01,Proverbs: collection 1,,B1,
+c.6.1.01,Proverbs: collection 1,,B2,
+c.6.1.01,Proverbs: collection 1,,B3,tur-ra-še₃
+c.6.1.01,Proverbs: collection 1,,B4,
+c.6.1.01,Proverbs: collection 1,,B5,am₃-DI-DI
+c.6.1.01,Proverbs: collection 1,,B6,nin-diŋir
+c.6.1.01,Proverbs: collection 1,,B7,gaba
+c.6.1.01,Proverbs: collection 1,,B8,iri{ki} gen₆-na
+c.6.1.01,Proverbs: collection 1,,B9,
+c.6.1.01,Proverbs: collection 1,,B10,zig₃-ga
+c.6.1.01,Proverbs: collection 1,,B11,
+c.6.1.01,Proverbs: collection 1,,B12,iri{ki} nu ur-gir₁₅-ra ka₅-a nu-banda₃
+c.6.1.01,Proverbs: collection 1,,B13,iri{ki} ad₄-ne-ka ba-za lu₂-kaš₄-e
+c.6.1.01,Proverbs: collection 1,,B14,iri{ki} nam-bi nu-tar-re
+c.6.1.01,Proverbs: collection 1,,B15,saŋ-tun₃-bi dam-gar₃-ra
+c.6.1.01,Proverbs: collection 1,,B16,iri{ki} nam-uš₂ ŋal₂-la-še₃ anše-bal-gin₇ he₂-ni-ib-sar-re
+c.6.1.01,Proverbs: collection 1,,B17,iri{ki}-da nam-da-ŋar-re-en-na iri{ki}-bi
+c.6.1.01,Proverbs: collection 1,,B18,lugal-bi ba-ra-an-de₆-a
+c.6.1.01,Proverbs: collection 1,,B19,iri{ki} en₃-du-bi maš₂-šu-gid₂-gid₂-bi-im
+c.6.1.01,Proverbs: collection 1,,B20,iri
+c.6.1.01,Proverbs: collection 1,,B21,iri{ki} u₃ ku-a ga-am₃-kur₉ iri{ki} mud ba-e-si
+c.6.1.01,Proverbs: collection 1,,B22,{ŋeš}ma₂-su₃-a ga-ab-u₅
+c.6.1.01,Proverbs: collection 1,,B23,peš₁₀ mu-un-tag-tag-ge-de₃
+c.6.1.01,Proverbs: collection 1,,B24,dam-gara₃ iri-ta ba-ra-e₃ ganba ba-ra-an-du₈
+c.6.1.01,Proverbs: collection 1,,B25,iri-a niŋ₂ bal-bal ba-an-ŋar šu-KU₆-de₃ šukur₂ ba-an-dab₅-be₂-eš
+c.6.1.01,Proverbs: collection 1,,B26,iri i-di-bi mu-bi-im
+c.6.1.01,Proverbs: collection 1,,B27,lugal-bi di-di-bi mu-bi-im
+c.6.1.01,Proverbs: collection 1,,B28,nin-bi nu-dug₃-dug₃-ga mu-bi-im
+c.6.1.01,Proverbs: collection 1,,B29,lag a-a gurud-da-gin₇ bi-iz-za-a-na he₂-gul
+c.6.1.01,Proverbs: collection 1,,B30,kaš gud-dam ka kun₄-bi-im
+c.6.1.01,Proverbs: collection 1,,B31,in-a-ni mu-un-dub₂ aš₂-a-ni mu-un-ŋal₂
+c.6.1.01,Proverbs: collection 1,,B32,aš₂ dug₄-dug₄-ge aš₂ nu-mu-ni-in-gi₄
+c.6.1.01,Proverbs: collection 1,,B33,aš₂-e gi₄-a aš₂-a ba-ni-in-gi₄
+c.6.1.01,Proverbs: collection 1,,B34,in-na in-bi-im aš₂-e aš₂-bi-im
+c.6.1.01,Proverbs: collection 1,,B35,nam-tar-ra ki gibil-gibil-la₂-bi
+c.6.1.01,Proverbs: collection 1,,B36,di gid₂-i al-ŋal₂ aš₂ gid₂-i nu-ŋal₂
+c.6.1.01,Proverbs: collection 1,,B37,puzur₅ u₃-bi₂-dug₄ ama₅-e he₂-bur₂-re
+c.6.1.01,Proverbs: collection 1,,B38,{ŋeš}ma₂ niŋ₂-gen₆-na ni₂ ba-ra-ab-dirig
+c.6.1.01,Proverbs: collection 1,,B39,{d}utu kar gen₆-na mu-un-na-ab-ši-kiŋ₂-kiŋ₂
+c.6.1.01,Proverbs: collection 1,,B40,{ŋeš}ma₂ niŋ₂-erim₂-e ni₂ ba-ra-ab-dirig
+c.6.1.01,Proverbs: collection 1,,B41,peš₁₀-peš₁₀-e im-ta-tag-tag-e
+c.6.1.01,Proverbs: collection 1,,B42,{ŋeš}ma₂ ŋisal su-su
+c.6.1.01,Proverbs: collection 1,,B43,gi-a-dag-gin₇ lu₂ en₃-bi i₃-tar-re
+c.6.1.01,Proverbs: collection 1,,B44,{ŋeš}ma₂-addir zabalam{ki}-a ba-su
+c.6.1.01,Proverbs: collection 1,,B45,{d}utu larsam{ki}-ma a-ba-a ŋiš ba-da-an-zig₃
+c.6.1.01,Proverbs: collection 1,,B46,{ŋeš}ma₂-lah₅ niŋ₂ kur₂
+c.6.1.01,Proverbs: collection 1,,B47,{ŋeš}ma₂ ha-ba-su-su barag ha-ba-ra-ur₃
+c.6.1.01,Proverbs: collection 1,,B48,{ŋeš}ma₂-gin₇ a-a am₃-zig₃-zig₃
+c.6.1.01,Proverbs: collection 1,,B49,{ŋeš}ma₂-su da-bi
+c.6.1.01,Proverbs: collection 1,,B50,{ŋeš}ma₂ ₆₀ gur he₂-a
+c.6.1.01,Proverbs: collection 1,,B51,šag₄ ma-la-ŋa₂ šag₄ ma-dim₂-ma
+c.6.1.01,Proverbs: collection 1,,B52,šag₄ igi ma-dim₂-ma-ŋu₁₀ a-ba-am₃ hu-mu-pad₃-de₃
+c.6.1.01,Proverbs: collection 1,,B53,šag₄-ŋu₁₀ ki-bi-še₃ ba-du-de₃-en
+c.6.1.01,Proverbs: collection 1,,B54,bi₂-in-dug₄ na-ma-gig-ga-ŋu₁₀
+c.6.1.01,Proverbs: collection 1,,B55,gig
+c.6.1.01,Proverbs: collection 1,,B56,šag₄-ŋa₂ lu₂-ulu₃-me-en igi-ŋa₂ lu₂ nu-me-en
+c.6.1.01,Proverbs: collection 1,,B57,šag₄-ga ub-dirig a-nir-ra
+c.6.1.01,Proverbs: collection 1,,B58,šag₄-ga sig₁₀-ga dumu lugal-la-ka
+c.6.1.01,Proverbs: collection 1,,B59,šag₄-bi zig₃-ga ugula nam-me
+c.6.1.01,Proverbs: collection 1,,B60,sipad engar nam-me
+c.6.1.01,Proverbs: collection 1,,B61,šag₄ ŋiš-a-ta e₃-a
+c.6.1.01,Proverbs: collection 1,,B62,šag₄ ŋiš-a-ta zu-am₃
+c.6.1.01,Proverbs: collection 1,,B63,šag₄-ge ba-dug₃ bar-re ba-sag₉
+c.6.1.01,Proverbs: collection 1,,B64,gu₇-e ba-te šudu₃-e ba-gid₂-i
+c.6.1.01,Proverbs: collection 1,,B65,in-gu₇ nu-un-gu₇ numun sag₉-ga-am₃
+c.6.1.01,Proverbs: collection 1,,B66,in-pad šag₄ an-dirig šu bi₂-in-sub
+c.6.1.01,Proverbs: collection 1,,B67,bu-lu-uh₂ mu-un-si-il-si-il-e
+c.6.1.01,Proverbs: collection 1,,B68,kaš naŋ-naŋ-e a ba-naŋ-naŋ
+c.6.1.01,Proverbs: collection 1,,B69,niŋ₂ mah gu₇-gu₇-e u₃ nu-um-ši-ku-ku
+c.6.1.01,Proverbs: collection 1,,B70,šag₄ ŋidru-ka i₃ he₂-en-de₂ lu₂ na-me nu-zu
+c.6.1.01,Proverbs: collection 1,,B71,šag₄-ge šag₄ hul gig nu-ub-tu-ud
+c.6.1.01,Proverbs: collection 1,,B72,dug₄-ge šag₄ hul gig ib₂-tu-ud
+c.6.1.01,Proverbs: collection 1,,B73,a-gar₃-e a ba-had₂
+c.6.1.01,Proverbs: collection 1,,B74,šu-KU₆-da-bi ba-nu
+c.6.1.01,Proverbs: collection 1,,B75,šu-KU₆-de₃ ku₆ nu-un-de₆
+c.6.1.01,Proverbs: collection 1,,B76,dam šu-KU₆-da-ke₄ a ku₆
+c.6.1.01,Proverbs: collection 1,,B77,dag ma-la-ga-na-še₃ nu-un-ši-de₆
+c.6.1.01,Proverbs: collection 1,,B78,he₂-lu-a nam-ba-la₂
+c.6.1.01,Proverbs: collection 1,,B79,he₂-dirig na-an-su-su
+c.6.1.01,Proverbs: collection 1,,B80,he₂-eb-šeŋ₆ na-an-te-en-te-en
+c.6.1.01,Proverbs: collection 1,,B81,šag₄ u₈ bar u₈ mu-ud-na lum-ma-lum-ma
+c.6.1.01,Proverbs: collection 1,,B82,sipad he₂-en-ha-lam za-e na-an-ha-lam-e-de₃
+c.6.1.01,Proverbs: collection 1,,B83,si nu-mu-e-da-a-il₂-i
+c.6.1.01,Proverbs: collection 1,,B84,a-ba-am₃ si il₂-i-de₃-nam
+c.6.1.01,Proverbs: collection 1,,B85,ŋe₂₆-e nu-mu-e-da-gaz i-ni-du-du-de₃-en
+c.6.1.01,Proverbs: collection 1,,B86,
+c.6.1.01,Proverbs: collection 1,,B87,edin
+c.6.1.01,Proverbs: collection 1,,B88,
+c.6.1.01,Proverbs: collection 1,,B89,an bal ki bal an-ba ki an-ba
+c.6.1.01,Proverbs: collection 1,,B90,BU-UD-bar ad u₃-su₃-ud
+c.6.1.01,Proverbs: collection 1,,B91,BU-UD-bar
+c.6.1.01,Proverbs: collection 1,,B92,bid₃-da tur
+c.6.1.01,Proverbs: collection 1,,B93,{ŋeš}buniŋ niŋ₂-silaŋ-ŋa₂ nu-luh-ha
+c.6.1.01,Proverbs: collection 1,,B94,{ŋeš}buniŋ šah₂ gu₇-gu₇
+c.6.1.01,Proverbs: collection 1,,B95,šu-a ga-ra-da
+c.6.1.01,Proverbs: collection 1,,B96,šu e₃-ni-da
+c.6.1.01,Proverbs: collection 1,,B97,gu-du-ba
+c.6.1.01,Proverbs: collection 1,,B98,niŋ₂
+c.6.1.01,Proverbs: collection 1,,C1,
+c.6.1.01,Proverbs: collection 1,,C2,
+c.6.1.01,Proverbs: collection 1,,C3,dam-ŋu₁₀ ma-an-dub-be₂
+c.6.1.01,Proverbs: collection 1,,C4,dumu-ŋu₁₀ ma-an-aŋ₂-e
+c.6.1.01,Proverbs: collection 1,,C5,mu-ud-na-ŋu₁₀ ku₆-ta ŋiri₃-paₓ-ra₂ he₂-eb-de₅-de₅-ge
+c.6.1.01,Proverbs: collection 1,,C6,u₂ dam-gin₇ ze₂-ba edin-na nu-un-mu₂
+c.6.1.01,Proverbs: collection 1,,C7,mu-sag₉-sag₉-ge
+c.6.1.01,Proverbs: collection 1,,C8,dam taka₄
+c.6.1.01,Proverbs: collection 1,,C9,an uga{mušen}-am₃
+c.6.1.01,Proverbs: collection 1,,C10,ki {d}nin-kilim-e
+c.6.1.01,Proverbs: collection 1,,C11,edin-na ur-mah-am₃
+c.6.1.01,Proverbs: collection 1,,C12,
+c.6.1.01,Proverbs: collection 1,,C13,mu-ud-na-ŋu₁₀ me-še₃ ga-ŋen
+c.6.1.01,Proverbs: collection 1,,C14,
+c.6.1.01,Proverbs: collection 1,,C15,
+c.6.1.01,Proverbs: collection 1,,D1,
+c.6.1.01,Proverbs: collection 1,,D2,šeš-e lipiš-ta
+c.6.1.01,Proverbs: collection 1,,D3,e₂ ad-da-ne-ne in-gul-lu-uš
+c.6.1.01,Proverbs: collection 1,,D4,nin₉-ŋu₁₀ ub-lil₂-la₂ nam-me-a
+c.6.1.01,Proverbs: collection 1,,D5,ama-ŋu₁₀ id₂-da nam-ga-me-am₃
+c.6.1.01,Proverbs: collection 1,,D6,šaŋar-da ba-ug₇-e-de₃-en-e-še
+c.6.1.01,Proverbs: collection 1,,D7,ur₅ ama-ŋu₁₀ nin₉ ban₃-da-ŋu₁₀ ma-an-ak-e
+c.6.1.01,Proverbs: collection 1,,D8,šag₄-am₃ lu₂ dim₂-ma ŋe₂₆-e mu-da-lal-a
+c.6.1.01,Proverbs: collection 1,,D9,te-ŋu₁₀ an-na-ha-za-an
+c.6.1.01,Proverbs: collection 1,,D10,aŋ₂ ki di-ta nu-ŋen aŋ₂ ki šar₂-ra-ŋen
+c.6.1.01,Proverbs: collection 1,,D11,ŋiš-šub us₂-sa-ab ama-zu hul₂-la-ab
+c.6.1.01,Proverbs: collection 1,,D12,kaš₄ dug₄-ga-ab diŋir-zu hul₂-la-ab
+c.6.1.01,Proverbs: collection 1,,D13,igi il₂-la-zu dam tuku-ba-ni-ib
+c.6.1.01,Proverbs: collection 1,,D14,šag₄-ge guru₇-zu dumu tuku-ba-ni-ib
+c.6.1.01,Proverbs: collection 1,,D15,{d}inana-ke₄ dam ur₂ kum₂-ma ha-ra-nu₂-a
+c.6.1.01,Proverbs: collection 1,,D16,dumu a₂ tal₂-tal₂-la ha-ra-an-ba-e
+c.6.1.01,Proverbs: collection 1,,D17,ki niŋ₂ sag₉-ga ha-ra-an-kiŋ₂-kiŋ₂-e
+c.6.1.01,Proverbs: collection 1,,D18,ki-sikil šeš-zu saŋ nu-mu-re-eb-kal-le
+c.6.1.01,Proverbs: collection 1,,D19,a-ba-am₃ saŋ mu-e-kal-le-en
+c.6.1.01,Proverbs: collection 1,,D20,ki-sikil šeš-zu ŋe₂₆-e-gin₇-nam
+c.6.1.01,Proverbs: collection 1,,D21,šeš ŋe₂₆-gin₇ he₂-til₃-le
+c.6.1.01,Proverbs: collection 1,,D22,ŋa₂-a-gin₇-nam šem-bi lil₂-la₂-am₃
+c.6.1.01,Proverbs: collection 1,,D23,u₅ li₂ bar-šeŋ₃-ŋa₂ he₂-gu₇-e
+c.6.1.01,Proverbs: collection 1,,D24,dam nu-ŋar-ra tuku-a-ŋu₁₀-ne
+c.6.1.01,Proverbs: collection 1,,D25,dumu nu-ŋar-ra tud-da-ŋu₁₀-ne
+c.6.1.01,Proverbs: collection 1,,D26,šag₄ nu-dug₃-ga ma-a-še₃ ma-an-ŋar
+c.6.1.01,Proverbs: collection 1,,D27,
+c.6.1.01,Proverbs: collection 1,,D28,giri₁₇-zal-še₃ nu-il₂
+c.6.1.01,Proverbs: collection 1,,D29,dam nu-il₂ dumu nu-il₂
+c.6.1.01,Proverbs: collection 1,,D30,giri₁₇-zal-še₃ nu-il₂
+c.6.1.01,Proverbs: collection 1,,D31,dam nu-ŋar-ra e₂-a til₃-la-am₃
+c.6.1.01,Proverbs: collection 1,,D32,a₂-sag₃-a₂-sag₃-e dirig-ga-am₃
+c.6.1.01,Proverbs: collection 1,,D33,ad-da-a a hur nu-ri
+c.6.1.01,Proverbs: collection 1,,D34,ama-a a hur nu-ri
+c.6.1.01,Proverbs: collection 1,,D35,{gi}en₃-bar gaba ud-da-ka e₃-a
+c.6.1.01,Proverbs: collection 1,,D36,nitah zig₃-ga-am₃ mun al-gu₇-e
+c.6.1.01,Proverbs: collection 1,,D37,munus zig₃-ga-am₃ im-ma al-gid₂-gid₂-de₃
+c.6.1.01,Proverbs: collection 1,,D38,dumu si nu-sa₂ ama-a-ni na-an-u₃-tud
+c.6.1.01,Proverbs: collection 1,,D39,diŋir-ra-ni na-an-dim₂-dim₂-e
+c.6.1.01,Proverbs: collection 1,,D40,dam-ŋu₁₀ lu₂-lul-la ma-an-dug₄
+c.6.1.01,Proverbs: collection 1,,D41,gal₄-la-e ba-ab-us₂-e-en
+c.6.1.01,Proverbs: collection 1,,D42,ŋiš₃ lul-la gal₄-la lul-la-ke₄ ba-ni-in-sig₁₀
+c.6.1.01,Proverbs: collection 1,,D43,dam tuku-tuku lu₂-ulu₃-ka
+c.6.1.01,Proverbs: collection 1,,D44,dumu tuku-tuku diŋir-ra-ka
+c.6.1.01,Proverbs: collection 1,,D45,tud-da
+c.6.1.01,Proverbs: collection 1,,D46,an-ta
+c.6.1.01,Proverbs: collection 1,,D47,ama-ni ŋuruš lul-la
+c.6.1.01,Proverbs: collection 1,,D48,ga-ša-an-an-na
+c.6.1.01,Proverbs: collection 1,,D49,a-na-am₃ kug-e
+c.6.1.01,Proverbs: collection 1,,D50,ga-sam₂ ma-an-šum₂
+c.6.1.01,Proverbs: collection 1,,D51,dam-gar₃-re kug ta ba-an-ir
+c.6.1.01,Proverbs: collection 1,,D52,u₃ še ta ba-an-ir
+c.6.1.01,Proverbs: collection 1,,D53,an sumun₂-am₃ ki ku₆-am₃
+c.6.1.01,Proverbs: collection 1,,D54,an šika de₅ ki MAŠ kuš₃
+c.6.1.01,Proverbs: collection 1,,D55,ud i₃-di-di-in ud šu₂-uš i₃-di-di-in
+c.6.1.01,Proverbs: collection 1,,D56,balaŋ er₂-ra im-ma-gub-gub-bu-de₃-en
+c.6.1.01,Proverbs: collection 1,,D57,
+c.6.1.01,Proverbs: collection 1,,D58,
+c.6.1.01,Proverbs: collection 1,,D59,mussa-tur ta mu-un-ir-ra-bi
+c.6.1.01,Proverbs: collection 1,,D60,ušbar-e ta bi₂-in-bur₂-ra-bi
+c.6.1.01,Proverbs: collection 1,,D61,zig₃-ga-ŋu₁₀ dug₄-ga ma-la-ga-ni
+c.6.1.01,Proverbs: collection 1,,D62,ušur na de₅-ga lu₂ du₁₄-da-ka-ni
+c.6.1.01,Proverbs: collection 1,,D63,ki
+c.6.1.01,Proverbs: collection 1,,D64,
+c.6.1.01,Proverbs: collection 1,,D65,itid du₆-kug-ga-ka šah₂
+c.6.1.01,Proverbs: collection 1,,D66,itid kiŋ₂-ga-ša-an-an-na-ka aga gibil nu-um-mur₁₀
+c.6.1.01,Proverbs: collection 1,,D67,udu
+c.6.1.01,Proverbs: collection 1,,D68,ma-la-ga-ni-še₃
+c.6.1.01,Proverbs: collection 1,,D69,im-ma-da-an-RI
+c.6.1.01,Proverbs: collection 1,,D70,al-di-di-de₃-en nu-kuš₂-u₃-me-en
+c.6.1.01,Proverbs: collection 1,,D71,i₃-di-di-de₃-en u₃ nu-ku-ku-me-en
+c.6.1.01,Proverbs: collection 1,,D72,tug₂-me-ze₂-er-ra ba-da-ab-bir₇-ra
+c.6.1.01,Proverbs: collection 1,,D73,še sahar-ra ba-da-an-til₃-la
+c.6.1.01,Proverbs: collection 1,,D74,ta-a šu ba-ni-ti
+c.6.1.01,Proverbs: collection 1,,D75,ga-ša-an tug₂ gal-gal-la-ŋen
+c.6.1.01,Proverbs: collection 1,,D76,{tug₂}niŋ₂-dara₂-ŋu₁₀ da-an-kud
+c.6.1.01,Proverbs: collection 1,,D77,u₃-mu-un id₂ da-ma-al-la-ŋen
+c.6.1.01,Proverbs: collection 1,,D78,i₃-gu₇-e-en
+c.6.1.01,Proverbs: collection 1,,D79,aŋ₂ gu₇-gu₇-ŋen aŋ₂ nam-la₂-e
+c.6.1.01,Proverbs: collection 1,,D80,tur-ra-ŋen aŋ₂ nam-ba-ša-ra-ge
+c.6.1.01,Proverbs: collection 1,,D81,
+c.6.1.01,Proverbs: collection 1,,D82,naŋ-naŋ
+c.6.1.01,Proverbs: collection 1,,D83,ur₅ sag₉
+c.6.1.01,Proverbs: collection 1,,D86,e-le-lum-ŋu₁₀ kur-re
+c.6.1.01,Proverbs: collection 1,,D87,umuš-ŋu₁₀ ur₅-re nu-ub-ta-ab-kar-X
+c.6.1.01,Proverbs: collection 1,,D88,umuš-ŋu₁₀ X-la₂-e
+c.6.1.01,Proverbs: collection 1,,D89,ki-sikil gu₃ ra-ah ama-ni mu-un-sig₉
+c.6.1.01,Proverbs: collection 1,,D90,ŋuruš lu₂ gu₃ ra-ah ama-ni nu-mu-un-da-an-sig₉
+c.6.1.01,Proverbs: collection 1,,D91,u₂ il₂-la-a-ni ba-da-ab-il₂-e
+c.6.1.01,Proverbs: collection 1,,D92,bad₃-si gul-la-ni šu mu-un-ak-e
+c.6.1.01,Proverbs: collection 1,,D93,ma₂-addir lu₂ dirig
+c.6.1.01,Proverbs: collection 1,,D94,mu-lu-ŋu₁₀ ba-ra-mu-un-u₅
+c.6.1.01,Proverbs: collection 1,,D95,barag₂-barag₂-ge nu-zu suhur ta ba-e-la₂
+c.6.1.01,Proverbs: collection 1,,D96,siki-zu ₁ kuš₃-am₃
+c.6.1.01,Proverbs: collection 1,,D97,nin-ŋu₁₀ nam
+c.6.1.01,Proverbs: collection 1,,D98,u₂-um inim-ma-am₃ a inim-ma-am₃
+c.6.1.01,Proverbs: collection 1,,D99,{uzu}suš₂ al-ze₂-eb
+c.6.1.01,Proverbs: collection 1,,D100,{uzu}i₃-udu al-ze₂-eb
+c.6.1.01,Proverbs: collection 1,,D101,ta-am₃ gi₄-in-na ga-an-na-ab-ze₂-eŋ₃-ŋen
+c.6.1.01,Proverbs: collection 1,,D102,dur₂ šah₂ he₂-gu₇-e
+c.6.1.01,Proverbs: collection 1,,D103,uzu i₃ ab-ta-ab-bal-e-en
+c.6.1.01,Proverbs: collection 1,,D104,še sa-a bi₂-ib-ze₂-re-en
+c.6.1.01,Proverbs: collection 1,,D105,lu₂ utul₂ da-il₂-la me-ri-za en-nu-uŋ₃ ak-ab-e-še
+c.6.1.01,Proverbs: collection 1,,D106,tur₅-ra dug₃-ga-am₃
+c.6.1.01,Proverbs: collection 1,,D107,peš₁₃ gig-ga-am₃
+c.6.1.01,Proverbs: collection 1,,D108,peš₁₃ tur₅-ra im-ma-dirig-ga-bi
+c.6.1.01,Proverbs: collection 1,,D109,an-še₃ i₃-zig₃ nu-mu-un-da-ma-ma
+c.6.1.01,Proverbs: collection 1,,D110,ki-še₃ i₃-ma-al nu-mu-un-da-zi-zi-i
+c.6.1.01,Proverbs: collection 1,,D111,utul₂ du-bu-ul nu-zu mun-ta um-ta-sig₁₀
+c.6.1.01,Proverbs: collection 1,,D112,dug sur-ra nu-zu a-ta al-sig₁₀
+c.6.1.01,Proverbs: collection 1,,D113,mussa niŋ₂-DI nu-un-zu-a du₁₄ mu₂-mu₂ al-sig₁₀
+c.6.1.01,Proverbs: collection 1,,D114,ku₁₀-ku₁₀-ga
+c.6.1.01,Proverbs: collection 1,,D115,še-er-še-er
+c.6.1.01,Proverbs: collection 1,,D116,
+c.6.1.01,Proverbs: collection 1,,D117,lu₂
+c.6.1.01,Proverbs: collection 1,,D118,hi-li
+c.6.1.01,Proverbs: collection 1,,D119,e₂-gi₄-a
+c.6.1.01,Proverbs: collection 1,,D120,
+c.6.1.01,Proverbs: collection 1,,D121,
+c.6.1.01,Proverbs: collection 1,,D122,
+c.6.1.01,Proverbs: collection 1,,D123,dumu-munus
+c.6.1.01,Proverbs: collection 1,,D124,
+c.6.1.01,Proverbs: collection 1,,D125,
+c.6.1.01,Proverbs: collection 1,,D126,
+c.6.1.01,Proverbs: collection 1,,D127,
+c.6.1.01,Proverbs: collection 1,,D128,X-us₂-e
+c.6.1.01,Proverbs: collection 1,,D129,
+c.6.1.01,Proverbs: collection 1,,D130,
+c.6.1.01,Proverbs: collection 1,,D131,
+c.6.1.01,Proverbs: collection 1,,D132,ki aŋ₂-ŋa₂
+c.6.1.01,Proverbs: collection 1,,D133,i₃-til₃
+c.6.1.01,Proverbs: collection 1,,D134,ki aŋ₂-ŋa₂
+c.6.1.01,Proverbs: collection 1,,D135,til₃
+c.6.1.01,Proverbs: collection 1,,D136,ze₂-eŋ₃
+c.6.1.01,Proverbs: collection 1,,D137,
+c.6.1.01,Proverbs: collection 1,,D138,X-un-ze₂-eŋ₃
+c.6.1.01,Proverbs: collection 1,,D139,šu-zu
+c.6.1.01,Proverbs: collection 1,,D140,nu-ub-tag-ge-en
+c.6.1.01,Proverbs: collection 1,,E1,
+c.6.1.01,Proverbs: collection 1,,E2,
+c.6.1.01,Proverbs: collection 1,,E3,
+c.6.1.01,Proverbs: collection 1,,E4,il₂
+c.6.1.01,Proverbs: collection 1,,F1,ma₂ ganba
+c.6.1.01,Proverbs: collection 1,,F2,
+c.6.1.01,Proverbs: collection 1,,F3,
+c.6.1.01,Proverbs: collection 1,,G1,paₓ-ra₂ hul gig-e
+c.6.1.01,Proverbs: collection 1,,G2,he₂-en-RI
+c.6.1.01,Proverbs: collection 1,,G3,ra-gin₇
+c.6.1.01,Proverbs: collection 1,,G4,
+c.6.1.01,Proverbs: collection 1,,G5,
+c.6.1.01,Proverbs: collection 1,,G6,X-ta-šar₂
+c.6.1.01,Proverbs: collection 1,,G7,he₂-a
+c.6.1.01,Proverbs: collection 1,,G8,

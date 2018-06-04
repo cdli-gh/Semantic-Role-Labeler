@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+c.4.08.12,A song of Inana and Dumuzid (Dumuzid-Inana L),,1,šul {d}nanna-ŋu₁₀ lu₂
+c.4.08.12,A song of Inana and Dumuzid (Dumuzid-Inana L),,2,ze₂-ba-ŋu₁₀ ki ma-an-aŋ₂ hul₂
+c.4.08.12,A song of Inana and Dumuzid (Dumuzid-Inana L),,3,{d}ba-u₂ ki ma-ra-an-aŋ₂ lu₂
+c.4.08.12,A song of Inana and Dumuzid (Dumuzid-Inana L),,4,a ru-a-ŋa₂ za-e
+c.4.08.12,A song of Inana and Dumuzid (Dumuzid-Inana L),,5,
+c.4.08.12,A song of Inana and Dumuzid (Dumuzid-Inana L),,6,

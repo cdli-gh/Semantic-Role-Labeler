@@ -1,0 +1,43 @@
+id_text,text_name,version,l_no,text
+c.4.13.07,A hymn to Nanna (Nanna G),,A1,{d}nanna
+c.4.13.07,A hymn to Nanna (Nanna G),,A2,en dumu {d}en-lil₂-la₂
+c.4.13.07,A hymn to Nanna (Nanna G),,A3,{d}nanna en
+c.4.13.07,A hymn to Nanna (Nanna G),,A4,en dumu {d}en-lil₂-la₂
+c.4.13.07,A hymn to Nanna (Nanna G),,A5,en u₆ di dug₃-ga
+c.4.13.07,A hymn to Nanna (Nanna G),,A6,munus hi-li šu du₇
+c.4.13.07,A hymn to Nanna (Nanna G),,A7,{d}nanna en u₆ di dug₃-ga
+c.4.13.07,A hymn to Nanna (Nanna G),,A8,munus hi-li šu du₇
+c.4.13.07,A hymn to Nanna (Nanna G),,A9,{d}nin-hur-saŋ-ŋa₂
+c.4.13.07,A hymn to Nanna (Nanna G),,A10,ama gal {d}nin-hur-saŋ-ŋa₂
+c.4.13.07,A hymn to Nanna (Nanna G),,A11,{d}nanna
+c.4.13.07,A hymn to Nanna (Nanna G),,A12,ama gal {d}nin-hur-saŋ-ŋa₂
+c.4.13.07,A hymn to Nanna (Nanna G),,A13,
+c.4.13.07,A hymn to Nanna (Nanna G),,A14,za-e lu₂ nir
+c.4.13.07,A hymn to Nanna (Nanna G),,A15,{d}nanna
+c.4.13.07,A hymn to Nanna (Nanna G),,A16,za-e lu₂ nir
+c.4.13.07,A hymn to Nanna (Nanna G),,A17,
+c.4.13.07,A hymn to Nanna (Nanna G),,B1,
+c.4.13.07,A hymn to Nanna (Nanna G),,B2,la-la-zu ma-ak-ak
+c.4.13.07,A hymn to Nanna (Nanna G),,B3,hi-li-zu {tug₂}X-gin₇ bar-ŋa₂ he₂-em-mi-dul
+c.4.13.07,A hymn to Nanna (Nanna G),,B4,{d}nanna šag₄-ŋu₁₀ kug la-la ma-ak-ak
+c.4.13.07,A hymn to Nanna (Nanna G),,B5,hi-li-zu {tug₂}X-gin₇ bar-ŋa₂ he₂-em-mi-dul
+c.4.13.07,A hymn to Nanna (Nanna G),,B6,en šu sikil-e {dug}šakir₃-e he₂-du₇
+c.4.13.07,A hymn to Nanna (Nanna G),,B7,niŋ₂ šu dug₄-ga-zu an-ra {d}en-lil₂-ra ša-mu-un-ne-sag₉
+c.4.13.07,A hymn to Nanna (Nanna G),,B8,{d}nanna en šu sikil-la {dug}šakir₃-e he₂-du₇
+c.4.13.07,A hymn to Nanna (Nanna G),,B9,niŋ₂ šu dug₄-ga-zu an-ra {d}en-lil₂-ra ša-mu-un-ne-sag₉
+c.4.13.07,A hymn to Nanna (Nanna G),,B10,e₂ ud du₆-ul-la-ka su₃-ud-še₃ he₂-du₃
+c.4.13.07,A hymn to Nanna (Nanna G),,B11,e₂ {d}nanna ud du₆-ul-la a₂-mi kisal {d}nanna su₃-ud-še₃ he₂-du₃
+c.4.13.07,A hymn to Nanna (Nanna G),,B12,e₂ ŋissu-bi ab-šag₄-ga la₂-a
+c.4.13.07,A hymn to Nanna (Nanna G),,B13,e₂-kiš-nu-ŋal₂ u₆ di dug₃-ga
+c.4.13.07,A hymn to Nanna (Nanna G),,B14,e₂ {d}nanna šag₄-sig-ga du₃-a
+c.4.13.07,A hymn to Nanna (Nanna G),,B15,{d}suen diŋir-re-ne
+c.4.13.07,A hymn to Nanna (Nanna G),,B16,{d}en-lil₂
+c.4.13.07,A hymn to Nanna (Nanna G),,B17,{d}nanna en dumu gal an-na ki aŋ₂ {d}en-lil₂ {d}nin-lil₂-la₂
+c.4.13.07,A hymn to Nanna (Nanna G),,C1,
+c.4.13.07,A hymn to Nanna (Nanna G),,C2,
+c.4.13.07,A hymn to Nanna (Nanna G),,C7,
+c.4.13.07,A hymn to Nanna (Nanna G),,C8,X-in-sa₄
+c.4.13.07,A hymn to Nanna (Nanna G),,C9,
+c.4.13.07,A hymn to Nanna (Nanna G),,C10,X-ri-in-sa₄
+c.4.13.07,A hymn to Nanna (Nanna G),,C11,
+c.4.13.07,A hymn to Nanna (Nanna G),,C12,

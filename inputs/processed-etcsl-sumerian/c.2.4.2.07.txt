@@ -1,0 +1,71 @@
+id_text,text_name,version,l_no,text
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,1,{d}en-lil₂ gal-di en me-te-na niŋ₂-dug₄-ga-ni zid
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,2,{d}nu-nam-nir sipad da-ri₂ kalam-ma kur gal-ta e₃-a
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,3,sa₂ gal pad₃-de₃ gu₂-gal an ki me ša-ra u₅-a
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,4,en nam-nun-na-ni-še₃ ni₂ gal im-guru₃ mul-an šu du₇-a
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,5,me ul me saŋ₅-e gal kiŋ₂-ŋa₂ dili-ni diŋir mah
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,6,en ud til₃ kur-zag til-la-še₃ uŋ₃ dub₃-us₂ dili-a tum₂
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,7,sa-par₃ mah an ki šu₂-a eš₂ kur-kur-ra la₂-a
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,8,{d}en-lil₂-da a-ba a₂ mu-da-an-aŋ₂ a-ba-ga-an-da-sa₂
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,9,gal bi₂-dug₄ šag₄-ga-ni id₂ mah a-na-am₃ de₆-a-bi
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,10,inim kug-ga-na lal₃-ŋar-ra-bi e₂-ta nam-ta-e₃
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,11,niŋ₂-bi niŋ₂ kug-ga-am₃ niŋ₂ šen-nam me e₂-kur-ra-kam
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,12,šeg₁₂ zid nam tar-ra abzu sa-dur₂-ra niŋ₂ kal-kal-la-am₃
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,13,e₂-kur lu₂ zid-de₃ i₃-du₃-e mu da-ri₂-kam
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,14,dumu lu₂ zid-da-ke₄ ŋidru mi-ni-ib₂-su₃-ra₂ {ŋeš}gu-za-bi nu-kur₂
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,15,nam-bi-še₃ e₂-kur-ra sig₇ mi-ni-ŋar {d}aš-im₂-babbar-re
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,16,a-a-ni {d}en-lil₂ inim-ma bi₂-sig₁₀ ama di-da mi-ni-in-de₆
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,17,e₂-dug₃-ga {d}nanna dumu nun-ne₂ niŋ₂ al ba-ni-dug₄
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,18,en-ne₂ a šag₄-tur-še₃ ŋal₂-la-na lu₂ zid mi-ni-u₃-tud
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,19,{d}en-lil₂ sipad a₂ kalag-ga-ke₄ meš₃-e pa bi₂-e₃
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,20,dumu nam-lugal barag-ge₄ he₂-du₇ šul-gi lugal-am₃
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,21,a piriŋ-ŋa₂ e₂-kur šu daŋal-la dug₄-dug₄ ki aŋ₂ {d}nin-lil₂-la₂
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,22,e₂-kur-ta nam-nir-ŋal₂ šum₂-ma lugal urim₅{ki}-ma
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,23,šag₄ zalag-zalag sipad {d}lamma kalam-ma mu-ni bi₂-in-dug₃
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,24,šul-gi {d}en-lil₂-le šag₄ kug-ge bi₂-pad₃ kalam šu-ni bi₂-si
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,25,šibir ešgiri₂ a₂-na mu-ni-la₂ sipad kur-kur-ra-kam
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,26,ŋidru {d}nanna šu nu-bal-e šu-ni-še₃ mu-ŋar
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,27,dur₂ nam-lugal sag₂ nu-di-da gu₂ an-še₃ mi-ni-zig₃
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,28,ud šudu₃-dam ŋi₆ nam-šita-am₃ kalam u₂-sal-la-am₃
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,29,sipad he₂-ŋal₂-la šul-gi mu gi₁₆-sa lugal asilₓ-le₂
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,30,kalag-ga a lu₂ zid-de₃ ri-a {d}en-lil₂ mu-i-i
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,31,sa-gid₂-da-am₃
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,32,šul-gi lugal uru₁₆ ku-kur silim-e-eš₂ dug₄-ga
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,33,lugal aga₃-kar₂ {d}inana ki-bal-a bi₂-sig₁₀
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,34,ŋiš-gi₅-ŋal₂ sa-gid₂-da-kam
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,35,{d}en-lil₂ zid-da-am₃ inim-ma-ni mah-am₃
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,36,nam dug₃ tar-ra-ni saŋ-bi-še₃ e₃-a-am₃
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,37,gu niŋ₂ kalag mu₂-mu₂ še niŋ₂ kalag mu₂-mu₂
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,38,šul-gi e₂-kur-ra u₂-a-bi na-nam
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,39,gu-bi gu na-nam še-bi še na-nam
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,40,niŋ₂-u₂-rum {d}nanna ama-tud e₂-kur-ra
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,41,šag₄-ta mu pad₃-da {d}nin-lil₂-la₂ na-nam
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,42,šul-gi sipad kalam-ma saŋ {d}en-lil₂-le zu
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,43,e₂-a lu₂-bi na-nam ud he₂-em-ma-ab-su₃-re₆
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,44,urim₅{ki} iri{ki} dug₃ nun-ne₂ ki ŋar-ra
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,45,šag₄-bi dub-šen kug abzu igi nu-bar
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,46,nam-išib dug₃-ga-kam šu-luh dadag-ga-kam
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,47,nidba gal-gal-bi e₂-kur hul₂-le-de₃
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,48,{d}en-lil₂-le gu₃ ba-an-de₂ dug₄-ga zid-zid-dam
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,49,sipad nam-lugal-la barag mah-ha tum₂-ma
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,50,šul-gi nam-en-na tug₂-ba₁₃ sud-sud-am₃
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,51,bur naggaₓ he-nun-na sug₂-sug₂-ga-ni-še₃
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,52,unu₂ e₂-kur-ra-ka kiŋ₂-sig gub-ba-ni-še₃
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,53,{d}en-lil₂ nam-nun-na mu-ni-in-tar-e
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,54,an-gin₇ sig₇-ga-ni
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,55,{d}nanna lugal-am₃
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,56,ki-ur₃ ki gal-la dug₃ mu-na-šum₂
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,57,{d}en-lil₂-la₂ mu-ši-daŋal-e
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,58,kur a nun gi₄-a gu₂-un-gu₂-un mu-na-ab-za
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,59,ma-da mu-gen₆-ge-en₆ uŋ₃ ŋiri₃-ni-še₃ mu-nu₂
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,60,šul-gi sipad lu₂-lal₃ nibru{ki} ki aŋ₂-am₃
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,61,šeg₁₂ {d}en-lil₂-la₂ ŋissu-bi dug₃-ga-am₃
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,62,sipad zid šul-gi-re ni₂ he₂-em-ši-ib₂-ten-ten
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,63,sa-ŋar-ra-am₃
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,64,šul-gi bal-za {d}en-lil₂-le ud dug₃ ma-ra-ni-in-e₃
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,65,ŋiš-gi₅-ŋal₂ sa-ŋar-ra-kam
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,66,an-na lugal-be₂-e ki-a kur gal-be₂-e
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,67,a-a {d}en-lil₂ an-na lugal-be₂-e ki-a kur gal-be₂-e
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,68,gal bi₂-dug₄ šul-gi bal zid-da šag₄-ge-eš i-pad₃
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,69,u₁₈-ru₁₂-NI-bi-im
+c.2.4.2.07,An adab to Enlil for Šulgi (Šulgi G),,70,a-da-ab {d}en-lil₂-la₂-kam

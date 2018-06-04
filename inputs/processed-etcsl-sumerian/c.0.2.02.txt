@@ -1,0 +1,65 @@
+id_text,text_name,version,l_no,text
+c.0.2.02,OB catalogue in the Louvre (L),,5,{d}en-lil₂ su₃-ra₂-še₃
+c.0.2.02,OB catalogue in the Louvre (L),,6,nam₂ nun-e
+c.0.2.02,OB catalogue in the Louvre (L),,7,ud re-a
+c.0.2.02,OB catalogue in the Louvre (L),,8,in-nin me huš-a
+c.0.2.02,OB catalogue in the Louvre (L),,9,e₂ ud huš an ki
+c.0.2.02,OB catalogue in the Louvre (L),,10,en-e kur lu₂ til₃-la-še₃
+c.0.2.02,OB catalogue in the Louvre (L),,11,hur-saŋ an ki-bi-da-ke₄
+c.0.2.02,OB catalogue in the Louvre (L),,12,saŋ-ki gid₂-da
+c.0.2.02,OB catalogue in the Louvre (L),,13,edin i-lu ŋar-u₃
+c.0.2.02,OB catalogue in the Louvre (L),,14,ud re-a
+c.0.2.02,OB catalogue in the Louvre (L),,15,ud re-a ₂
+c.0.2.02,OB catalogue in the Louvre (L),,16,e {ŋeš}al-e al-e
+c.0.2.02,OB catalogue in the Louvre (L),,17,lugal-e mu-ni niŋ₂-ul-e
+c.0.2.02,OB catalogue in the Louvre (L),,18,lugal ud me-lem₄-bi nir-ŋal₂
+c.0.2.02,OB catalogue in the Louvre (L),,19,iri na-nam
+c.0.2.02,OB catalogue in the Louvre (L),,20,ud ul re-ta
+c.0.2.02,OB catalogue in the Louvre (L),,21,ki-ur₃ gal-e
+c.0.2.02,OB catalogue in the Louvre (L),,22,ud ul an ki-ta
+c.0.2.02,OB catalogue in the Louvre (L),,23,lugal-ban₃-da
+c.0.2.02,OB catalogue in the Louvre (L),,24,iri gud huš
+c.0.2.02,OB catalogue in the Louvre (L),,25,šeg₁₂ kur šuba-ta
+c.0.2.02,OB catalogue in the Louvre (L),,26,tur₃-ra-na
+c.0.2.02,OB catalogue in the Louvre (L),,27,tur₃ me nun-e
+c.0.2.02,OB catalogue in the Louvre (L),,28,iri me zid-da
+c.0.2.02,OB catalogue in the Louvre (L),,29,ud šu bal ak-de₃
+c.0.2.02,OB catalogue in the Louvre (L),,30,an-ne₂ nam-nir-ŋal₂
+c.0.2.02,OB catalogue in the Louvre (L),,31,e₂-u₆-nir
+c.0.2.02,OB catalogue in the Louvre (L),,32,en mah-di an ki
+c.0.2.02,OB catalogue in the Louvre (L),,33,an gal-ta ki gal-ta
+c.0.2.02,OB catalogue in the Louvre (L),,34,in-nin me gal-gal-la
+c.0.2.02,OB catalogue in the Louvre (L),,35,nam₂ nun-e saŋ na-an-il₂-ta
+c.0.2.02,OB catalogue in the Louvre (L),,36,nam₂ nun-e e₂-kur-ta e₃-a
+c.0.2.02,OB catalogue in the Louvre (L),,37,šul me₃-ka
+c.0.2.02,OB catalogue in the Louvre (L),,38,i₃-a lum-lum
+c.0.2.02,OB catalogue in the Louvre (L),,39,nin me zid-da
+c.0.2.02,OB catalogue in the Louvre (L),,40,in-nin₉ šag₄ gur₄-ra
+c.0.2.02,OB catalogue in the Louvre (L),,41,en gal me gur₃-ru kul-aba{ki}
+c.0.2.02,OB catalogue in the Louvre (L),,42,en-e an ki-a
+c.0.2.02,OB catalogue in the Louvre (L),,43,an-gin₇ dim₂-ma
+c.0.2.02,OB catalogue in the Louvre (L),,44,an-ta e₃-a-ra
+c.0.2.02,OB catalogue in the Louvre (L),,45,lu₂-ulu₃ nam-mah diŋir-re-e
+c.0.2.02,OB catalogue in the Louvre (L),,46,me-a diŋir-ŋa₂
+c.0.2.02,OB catalogue in the Louvre (L),,47,šul diŋir-zu-ur₂
+c.0.2.02,OB catalogue in the Louvre (L),,48,ku₆-ŋu₁₀ e₂ du₃
+c.0.2.02,OB catalogue in the Louvre (L),,49,u₅ ŋiš-gi kug-ta
+c.0.2.02,OB catalogue in the Louvre (L),,50,ud gal piriŋ an-na
+c.0.2.02,OB catalogue in the Louvre (L),,51,ud huš an-ur₂-ra
+c.0.2.02,OB catalogue in the Louvre (L),,52,ud huš ki-en-gi-ra
+c.0.2.02,OB catalogue in the Louvre (L),,53,ŋiš-gi a-na gu₃ mu-un-de₂
+c.0.2.02,OB catalogue in the Louvre (L),,54,{d}šu-{d}suen lugal en gaba-ŋal₂
+c.0.2.02,OB catalogue in the Louvre (L),,55,šul an gal
+c.0.2.02,OB catalogue in the Louvre (L),,56,ud-bi-ta
+c.0.2.02,OB catalogue in the Louvre (L),,57,ud an-ne₂
+c.0.2.02,OB catalogue in the Louvre (L),,58,{d}en-lil₂ dirig-še₃
+c.0.2.02,OB catalogue in the Louvre (L),,59,iri me-lem₄-zu
+c.0.2.02,OB catalogue in the Louvre (L),,60,{d}nin-lil₂ nin diŋir-re-e-ne-ke₄
+c.0.2.02,OB catalogue in the Louvre (L),,61,{d}en-lil₂ temen an ki-bi-da
+c.0.2.02,OB catalogue in the Louvre (L),,62,iri mu-bi-gin₇
+c.0.2.02,OB catalogue in the Louvre (L),,63,lugal-me-en₃ am a₂ pad₃-da
+c.0.2.02,OB catalogue in the Louvre (L),,64,ud he₂-ŋal₂-la mu-tum₃
+c.0.2.02,OB catalogue in the Louvre (L),,65,ki dug₃ ama he₂-ŋal₂-la tud-da
+c.0.2.02,OB catalogue in the Louvre (L),,66,lugal šag₄-tur₃-gin₇
+c.0.2.02,OB catalogue in the Louvre (L),,67,nin-ŋu₁₀ suh za-gin₃
+c.0.2.02,OB catalogue in the Louvre (L),,68,₁₄ na-du₃-a

@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+c.4.30.1,A balbale to Šara (Šara A),,30,si
+c.4.30.1,A balbale to Šara (Šara A),,31,si mah-e nun
+c.4.30.1,A balbale to Šara (Šara A),,32,{d}šara₂ šir₃-zu me-te-aš ši-im-mi-ib-ŋal₂
+c.4.30.1,A balbale to Šara (Šara A),,33,{d}šara₂ me-zu kal-kal a-a an u₃-tud-zu
+c.4.30.1,A balbale to Šara (Šara A),,34,ama ugu-zu kug {d}inana-ke₄
+c.4.30.1,A balbale to Šara (Šara A),,35,kug-ga dur₂ ša-mu-u₈-de₃-ŋar
+c.4.30.1,A balbale to Šara (Šara A),,36,nu-u₈-gig-ga-am₃
+c.4.30.1,A balbale to Šara (Šara A),,37,am₃-mi-ni-in-DU-en
+c.4.30.1,A balbale to Šara (Šara A),,38,mu dug₃-ga mi-ri-in-sa₄
+c.4.30.1,A balbale to Šara (Šara A),,39,hul₂-bi
+c.4.30.1,A balbale to Šara (Šara A),,40,ša-mu-un-til₃ en šag₄-ba dalla i₃-e₃
+c.4.30.1,A balbale to Šara (Šara A),,41,an-na-ke₄
+c.4.30.1,A balbale to Šara (Šara A),,42,{d}šara₂
+c.4.30.1,A balbale to Šara (Šara A),,43,dug₃ kug-ga u₃-gul ŋar
+c.4.30.1,A balbale to Šara (Šara A),,44,dumu-gir₁₅ gal-di kug
+c.4.30.1,A balbale to Šara (Šara A),,45,eš₃ e₂-mah-ta ud-de₃-eš i-im-e₃
+c.4.30.1,A balbale to Šara (Šara A),,46,bal-bal-e {d}šara₂-kam

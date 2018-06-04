@@ -1,0 +1,112 @@
+id_text,text_name,version,l_no,text
+c.5.6.3,The farmer's instructions,,1,ud-ul-ur₁₁-ru dumu-ni na mu-un-de₅-ga-am₃
+c.5.6.3,The farmer's instructions,,2,a-šag₄ dib-be₂-da-zu-ne
+c.5.6.3,The farmer's instructions,,3,eg₂ pa₅ du₆ du₈-u₃-de₃ igi kar₂-kar₂-ab
+c.5.6.3,The farmer's instructions,,4,a-šag₄ a de₂-a-zu-ne a-bi šag₄-ba nu-il₂
+c.5.6.3,The farmer's instructions,,5,ud a-ta im-mu-e-a-ed₃-de₃-a
+c.5.6.3,The farmer's instructions,,6,a-šag₄ ki duru₅-bi en-nu-uŋ₃ ak-ab ki-še-er a-ra-ab-tuku
+c.5.6.3,The farmer's instructions,,7,gud suhub₂ ŋiri₃ na-ra-ab-zukum-e
+c.5.6.3,The farmer's instructions,,8,u₂-saga₁₁-bi u₃-bi₂-ze₂ a-šag₄ ki-ŋar u₃-bi₂-dug₄
+c.5.6.3,The farmer's instructions,,9,₁₀-am₃ {urud}giŋ₄ sal ₂/₃ ma-na-ta sa₂-a-ab
+c.5.6.3,The farmer's instructions,,10,{ŋeš}al-šub-be₂ umbin gud ha-ra-šu₂-šu₂ sa ha-ra-ab-la₂-la₂
+c.5.6.3,The farmer's instructions,,11,ki ka sal-la-bi u₂-tag ha-ra-tag-tag
+c.5.6.3,The farmer's instructions,,12,gu₂ a-šag₄-ga ub-da ₄-ba {ŋeš}al-e ha-ra-ni₁₀-ni₁₀
+c.5.6.3,The farmer's instructions,,13,en-na a-šag₄-ga al-šeŋ₆-šeŋ₆-e-da teš₂ a-ra-ab-sig₁₀-ge₅-a
+c.5.6.3,The farmer's instructions,,14,{ŋeš}šu-kar₂-zu sa ha-ra-ab-gi₄-a
+c.5.6.3,The farmer's instructions,,15,{ŋeš}šudul-zu a₂-šita₄-a-bi ha-ra-keše₂
+c.5.6.3,The farmer's instructions,,16,{kuš}usan₃ gibil-zu {ŋeš}gag-a ha-ra-ab-la₂
+c.5.6.3,The farmer's instructions,,17,{kuš}usan₃ sumun-zu {ŋeš}mud la₂-la₂-a-bi
+c.5.6.3,The farmer's instructions,,18,dumu gašam-ta dug₃ ha-ra-ab-ak-e
+c.5.6.3,The farmer's instructions,,19,{urud}giŋ₄ {urud}bulug {urud}šum-me {ŋeš}šu-kar₂-zu a₂-zu si ha-ra-ab-sa₂-e
+c.5.6.3,The farmer's instructions,,20,{kuš}saŋ-keše₂ {kuš}bar-ed₃-de₃ {kuš}ka-du₃ {kuš}usan₃ saŋ-zu he₂-ha-za
+c.5.6.3,The farmer's instructions,,21,{gi}ba-an-du₈-zu kab₂ di hu-mu-ra-ab-ak a₂ kalag-ga hu-mu-ra-an-ak-e
+c.5.6.3,The farmer's instructions,,22,a₂-aš₂ a-šag₄-ga-zu da he₂-en-ŋal₂ kiŋ₂-zu igi kar₂-ka-ab
+c.5.6.3,The farmer's instructions,,23,gud-{ŋeš}apin gud dirig-ga a-ab-tuku-a
+c.5.6.3,The farmer's instructions,,24,gud gud-da dur bi₂-ib-tu-lu-a
+c.5.6.3,The farmer's instructions,,25,{ŋeš}apin-bi {ŋeš}apin-na a-ab-dirig
+c.5.6.3,The farmer's instructions,,26,eš₂-gar₃ {ŋeš}apin ₁-e ₁₈₀ iku-am₃
+c.5.6.3,The farmer's instructions,,27,za-e ₁₄₄ iku ŋiš du₃-ba-ab
+c.5.6.3,The farmer's instructions,,28,a₂ šag₄ hul₂-gin₇ a-ra-ab-dim₂-e
+c.5.6.3,The farmer's instructions,,29,₁₈ iku-ba ₃ še gur ba-an-ŋa₂-ŋa₂
+c.5.6.3,The farmer's instructions,,30,usu {ŋeš}apin ₁-e a-šag₄ {ŋeš}bar-dili-bi u₃-bi₂-ak
+c.5.6.3,The farmer's instructions,,31,{ŋeš}bar-dili-bi {ŋeš}apin-tug₂-saga₁₁ u₃-bi₂-ak tug₂-gur-ra-ab
+c.5.6.3,The farmer's instructions,,32,ŋiš ur₃-ra-ab ŋiš gi₄-a-ab ŋiš peš-bi₂-ib
+c.5.6.3,The farmer's instructions,,33,ki sumur-bi {ŋeš}niŋ₂-gul-ta {ŋeš}gag-dag₂-aš u₃-bi₂-ak
+c.5.6.3,The farmer's instructions,,34,{ŋeš}mud {ŋeš}niŋ₂-gul-zu saŋ-za he₂-ha-za niŋ₂ al di-še₃ na-du-un
+c.5.6.3,The farmer's instructions,,35,kiŋ₂ ak-zu-a ugu-ba u₃-bi₂-de₂
+c.5.6.3,The farmer's instructions,,36,kiŋ₂ ak-zu-še₃ ŋa₂-la nam-ba-an-dag-ge
+c.5.6.3,The farmer's instructions,,37,a-šag₄ kiŋ₂-zu ak na-an-na-ab-be₂
+c.5.6.3,The farmer's instructions,,38,ud mul-an-na šu im-ma-ab-du₇-a-ta
+c.5.6.3,The farmer's instructions,,39,₁₀-am₃ a₂ gud a-šag₄ zi-zi-i-da-še₃ igi-zu nam-ba-e-gid₂-i
+c.5.6.3,The farmer's instructions,,40,{ŋeš}al du₃-a-bi ha-ra-ab-ak-e
+c.5.6.3,The farmer's instructions,,41,a-šag₄ ur₁₁-ru-da-zu-ne
+c.5.6.3,The farmer's instructions,,42,{ŋeš}apin-zu gu ha-ra-ab-dub₂
+c.5.6.3,The farmer's instructions,,43,{ŋeš}ka-šu₂ {ŋeš}apin-na-zu {kuš}im-du₅-mu šub-i₃
+c.5.6.3,The farmer's instructions,,44,{ŋeš}dam-zu {ŋeš}gag sal-la šub-i₃
+c.5.6.3,The farmer's instructions,,45,{ŋeš}le-um-zu a₂ he₂-tal₂-tal₂ ab-sin₂-zu gub-ba-ab
+c.5.6.3,The farmer's instructions,,46,₁ nindan us₂ ab-sin₂ ₈ gub-ba-ab
+c.5.6.3,The farmer's instructions,,47,ab-sin₂ durun-dur₂-ru-na še-bi gu₂ a-ab-gid₂
+c.5.6.3,The farmer's instructions,,48,a-šag₄ ur₁₁-ru-da-zu-ne
+c.5.6.3,The farmer's instructions,,49,lu₂ še-numun ŋar-ra-zu igi-zu ŋar-i₃
+c.5.6.3,The farmer's instructions,,50,₂ šu-si-ta-am₃ {d}ezina₂ he₂-en-šub
+c.5.6.3,The farmer's instructions,,51,₁ nindan us₂-ta ₁ giŋ₄ še ha-ra-ŋar
+c.5.6.3,The farmer's instructions,,52,tukum-bi še-numun a-tur-ra nu-ub-suhur
+c.5.6.3,The farmer's instructions,,53,{ŋeš}niŋ₂-kud {ŋeš}eme-{ŋeš}apin-na-zu kur₂-ra-ab
+c.5.6.3,The farmer's instructions,,54,tukum-bi dur a-ab-tu-lu dur tur-ra-ab
+c.5.6.3,The farmer's instructions,,55,ki ab-sin₂ si sa₂ i₃-ur₁₁-ru-a ab-sin₂ {ŋeš}šibir ur₁₁-ru-ab
+c.5.6.3,The farmer's instructions,,56,ki ab-sin₂ {ŋeš}šibir i₃-ur₁₁-ru-a ab-sin₂ si sa₂ ur₁₁-ru-ab
+c.5.6.3,The farmer's instructions,,57,ab-sin₂ si sa₂ gu₂ tu-lu gu₂ mu-ra-ŋa₂-ŋa₂
+c.5.6.3,The farmer's instructions,,58,ab-sin₂ lug-gu₂-zu si ha-ra-ab-sa₂
+c.5.6.3,The farmer's instructions,,59,ab-sin₂ ab-ki-iz-bi DU-a gana₂ ku₅-ra₂-zu ur₁₁-ru-ab
+c.5.6.3,The farmer's instructions,,60,lag-bi ha-ra-ri-ri
+c.5.6.3,The farmer's instructions,,61,ki-sahar us₂-bi ab-sin₂ ha-ra-ni-ib-ra
+c.5.6.3,The farmer's instructions,,62,ki-sahar ka tab-bi ab-sin₂ ha-ra-sig-sig
+c.5.6.3,The farmer's instructions,,63,henbur₂-še₃ a-ra-sag₉
+c.5.6.3,The farmer's instructions,,64,ud henbur₂-e ki im-ma-ab-dar-ra-ta
+c.5.6.3,The farmer's instructions,,65,sizkur₂ {d}nin-kilim-ke₄ dug₄-ga-ab
+c.5.6.3,The farmer's instructions,,66,zu₂ bir₅{mušen}-ra bal-e-eb
+c.5.6.3,The farmer's instructions,,67,ud še ka sal-la ab-sin₂-na-ka a-ab-dirig
+c.5.6.3,The farmer's instructions,,68,a numun saŋ-ŋa₂-ke₄ dug₄-ga-ab
+c.5.6.3,The farmer's instructions,,69,ud še {gi}kid-ma₂-šag₄-ga-ba ab-gub-ba a dug₄-ga-ab
+c.5.6.3,The farmer's instructions,,70,še lillan-ba a dug₄-ga-ab
+c.5.6.3,The farmer's instructions,,71,ud še luh-ha an-sud-a a na-ab-be₂-en sa-ma-na₂-aš ba-gig
+c.5.6.3,The farmer's instructions,,72,ud še bir ak-de₃ a-ab-du₇-a a dug₄-ga-ab
+c.5.6.3,The farmer's instructions,,73,{ŋeš}ba-an-ba ₁ sila₃ še ku-dun ba-tuku-tuku
+c.5.6.3,The farmer's instructions,,74,še gur₁₀-gur₁₀-ru-da-zu-ne še ur₅ nam-ba-gam-e-en
+c.5.6.3,The farmer's instructions,,75,ud a₂-ba-ka gur₁₀-gur₁₀-ra-ab
+c.5.6.3,The farmer's instructions,,76,kidₓ ₁-e u₃ lu₂ zar keše₂-da ₁-am₃
+c.5.6.3,The farmer's instructions,,77,u₃ lu₂ ₁-e igi-ni-še₃ zar hu-mu-ra-ab-sa₂-e
+c.5.6.3,The farmer's instructions,,78,₃-am₃ hu-mu-ra-ab-gur₁₀-gur₁₀-re
+c.5.6.3,The farmer's instructions,,79,lu₂ še de₅-de₅-ga-zu še šu huz na-an-ak-e
+c.5.6.3,The farmer's instructions,,80,še-garadin₃-e še na-an-si-il-si-il-le-e-ne
+c.5.6.3,The farmer's instructions,,81,kiŋ₂ ud-da-zu ud tur-ra-gin₇
+c.5.6.3,The farmer's instructions,,82,usu di₄-di₄-la₂-zu-ne u₃ lu₂ še de₅-de₅-ga-zu-ne
+c.5.6.3,The farmer's instructions,,83,šid-bi du₆-ul-la-ab zar-re-eš₂ nu₂-a-ab
+c.5.6.3,The farmer's instructions,,84,kiŋ₂-zu mi₂ zid ha-ra-ab-dug₄
+c.5.6.3,The farmer's instructions,,85,dabin še sumun-e tuku-a-ta
+c.5.6.3,The farmer's instructions,,86,ka-gu₇-zu-še₃ lu₂ še ŋiš na-ab-ra-ra-an
+c.5.6.3,The farmer's instructions,,87,še-zar-ra ne-ha-ab
+c.5.6.3,The farmer's instructions,,88,sizkur₂ še-zar-ra ud šu₂-uš-e ha-ra-ab-dug₄
+c.5.6.3,The farmer's instructions,,89,ud še al-ed₃-de₃-en-na-zu-ne
+c.5.6.3,The farmer's instructions,,90,lu₂ še la₂-la₂-zu-ne ₃₀ giŋ₄ ha-ra-an-ak-ak
+c.5.6.3,The farmer's instructions,,91,kislah-zu ki-ŋar dug₄-ga-ab
+c.5.6.3,The farmer's instructions,,92,har-ra-an gur-zu si sa₂-sa₂-ab
+c.5.6.3,The farmer's instructions,,93,{ŋeš}mar-gid₂-da-zu si ha-ra-ab-sa₂
+c.5.6.3,The farmer's instructions,,94,gud {ŋeš}mar-gid₂-da-zu mur gu₇-bi₂-ib
+c.5.6.3,The farmer's instructions,,95,{ŋeš}šu-kar₂-zu
+c.5.6.3,The farmer's instructions,,96,sur₁₂ du₈-a-zu ud ₅-am₃ ha-ba-ne-ha
+c.5.6.3,The farmer's instructions,,97,sur₁₂ ba₉-ra₂-zu-ne niŋ₂-ur₅-ra du₈-i₃
+c.5.6.3,The farmer's instructions,,98,ud še ba₉-ra₂-zu-ne
+c.5.6.3,The farmer's instructions,,99,zu₂ ŋiš-ba₉-ra₂-zu kuš la₂-la₂-bi esir₂ ha-ra-ab-sub₆-sub₆
+c.5.6.3,The farmer's instructions,,100,gud dur₂-dur₂-ru-da-zu-ne
+c.5.6.3,The farmer's instructions,,101,lu₂ še ba₉-ra₂-zu usu he₂-en-de₃-gub
+c.5.6.3,The farmer's instructions,,102,ud še ki ba-e-ni-us₂-sa
+c.5.6.3,The farmer's instructions,,103,sizkur₂ še nu-nir-ra dug₄-ga-ab
+c.5.6.3,The farmer's instructions,,104,ud še al-la₂-e-na-zu
+c.5.6.3,The farmer's instructions,,105,lu₂ še ki-ta al-gub-bu-a lu₂ ŋeštug₂-ga gub-ba-ab
+c.5.6.3,The farmer's instructions,,106,lu₂ še DU-a ₂-am₃ ha-ra-gub-bu-uš
+c.5.6.3,The farmer's instructions,,107,ud še ba-e-nir-ra ŋidru-še₃ nu₂-a-ab
+c.5.6.3,The farmer's instructions,,108,sizkur₂ a₂ ud te-en ŋi₆-ba dug₄-ga-ab
+c.5.6.3,The farmer's instructions,,109,ud MAŠ-a-gin₇ še bur₂-ra-ab
+c.5.6.3,The farmer's instructions,,110,na de₅-ga {d}nin-urta dumu {d}en-lil₂-la₂-ke₄
+c.5.6.3,The farmer's instructions,,111,{d}nin-urta engar zid {d}en-lil₂-la₂ za₃-mi₂-zu dug₃-ga-am₃

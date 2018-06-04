@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,1,zi-na ni-da-ba
+c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,2,e₂-kur-še₃ nam-ku₄-u₂
+c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,3,e₂-kur-re e₂ {d}en-lil₂-ta
+c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,4,sa-am-su-i-lu-na lugal kalag-ga ni uŋ₃ ša-ra an-du-ul
+c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,5,{d}en-lil₂
+c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,6,
+c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,7,
+c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,8,
+c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,9,
+c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,10,kur₂-kur₂
+c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,11,ŋar-zu kaš ŋa₂-ŋa₂
+c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,12,sa-am-su-i-lu-na mu-u₂-a sa₃ nir-ŋal₂ kalam-an-ni
+c.2.8.3.8,A hymn to Enlil for Samsu-iluna (Samsu-iluna H),,13,sa-am-su-i-lu-na za₃-am-zu dug₃-ga

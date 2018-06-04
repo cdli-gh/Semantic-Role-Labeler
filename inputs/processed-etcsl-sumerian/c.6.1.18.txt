@@ -1,0 +1,29 @@
+id_text,text_name,version,l_no,text
+c.6.1.18,Proverbs: collection 18,,A14,X-ib-ze₂-e
+c.6.1.18,Proverbs: collection 18,,A15,lum-lum-e
+c.6.1.18,Proverbs: collection 18,,A16,lugal-zu ba-an-gu₇
+c.6.1.18,Proverbs: collection 18,,A17,a-šag₄ dur₂-ru-na še gu₇-gu₇-a
+c.6.1.18,Proverbs: collection 18,,A18,lum-lum a-na ba-e-kal
+c.6.1.18,Proverbs: collection 18,,A19,da-ra-an-šub a-hur-rum i-bi₂-za
+c.6.1.18,Proverbs: collection 18,,A20,gur-da niŋ₂ ud da-ri₂-kam
+c.6.1.18,Proverbs: collection 18,,A21,a-hur-rum keše₂-ra-ab
+c.6.1.18,Proverbs: collection 18,,A22,ud MAŠ-a du₈-du₈-a-ab
+c.6.1.18,Proverbs: collection 18,,A23,kug kalag-ga la₂ ka kalag-ga sam₂
+c.6.1.18,Proverbs: collection 18,,A24,za-e ŋiš-šub-e ni₂ bi₂-ib-kal
+c.6.1.18,Proverbs: collection 18,,A25,dub₃-tuku bar in-dab₅
+c.6.1.18,Proverbs: collection 18,,A26,usu-tuku ba-da-an-kar
+c.6.1.18,Proverbs: collection 18,,A27,ka tuku e₂-gal-la ba-ni-in-kur₉
+c.6.1.18,Proverbs: collection 18,,A28,
+c.6.1.18,Proverbs: collection 18,,A29,
+c.6.1.18,Proverbs: collection 18,,A30,igi-ni a zal-bi
+c.6.1.18,Proverbs: collection 18,,A31,he₂-em-dirig {urud}ha-zi-in al-su-su
+c.6.1.18,Proverbs: collection 18,,A32,du₆-la₂ dul₂-bi bi₂-ib-sig₉-sig₉
+c.6.1.18,Proverbs: collection 18,,A33,saŋ ki-tum₃ a₂ aŋ₂-ŋa₂ še-ba-e-da-e-še
+c.6.1.18,Proverbs: collection 18,,A34,saŋ bul-e id₂-da bal-e
+c.6.1.18,Proverbs: collection 18,,A35,si-si-ig a-ga-de₃{ki}-še₃ i₃-gi₄-in
+c.6.1.18,Proverbs: collection 18,,A36,a-ga-de₃{ki}-a a-na-am₃ mu-e-ni-ak
+c.6.1.18,Proverbs: collection 18,,A37,maš₂-ŋi₆ lul-la im-ma-an-na-ŋar
+c.6.1.18,Proverbs: collection 18,,A38,lu₂ bur₂-ru-bi bi₂-in-tuku
+c.6.1.18,Proverbs: collection 18,,A39,a-ga-de₃{ki}-a a-ga-de₃{ki}
+c.6.1.18,Proverbs: collection 18,,A40,
+c.6.1.18,Proverbs: collection 18,,B1,

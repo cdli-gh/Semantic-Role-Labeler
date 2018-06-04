@@ -1,0 +1,67 @@
+id_text,text_name,version,l_no,text
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,1,nin ni₂ guru₃ mah zu an ki nam-nir-ra šu du₇
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,2,ama {d}ba-u₂ gu₂-gal nin-e-ne ur-saŋ
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,3,diŋir er₉ me mah-a šu du₇ saŋ il₂ umuš gal
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,4,su₄-un-su₄-na munus zid nin gal-an-zu šag₄-ta umun₂ ak
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,5,dumu an-na mas-su₂ inim pad₃-de₃ niŋ₂-nam šu-ni si
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,6,nin a-zu gal saŋ gig₂-ga lu₂ til₃-le lu₂ u₃-tud
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,7,šu-hal-bi šim-mu₂ uŋ₃ lu-a
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,8,šag₄-la₂ tuku arhuš₂ sud kalam-ma nin niŋ₂-gen₆-na
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,9,{d}en-lil₂ lugal kur-kur-ra-ke₄
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,10,{d}nu-nam-nir en nam tar-re-de₃
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,11,eš₃ nibru{ki} dur-an-ki-a-ka gal-bi bi₂-in-dug₄
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,12,e₂-kur za-gin₃-na mi-ni-im-mah-en
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,13,sa-par₃ kalag-ga {d}nu-nam-nir-ra-me-en
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,14,an-gub-ba e₂-kur-ra-ka šukur₂ šum₂-mu ŋeštin za-a-kam
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,15,{d}en-lil₂-la₂ e₂-gi₄-a mah-a-ni-me-en a gub-ba-ni-me-en
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,16,su₄-na šita-ba ki la₂-a-zu-uš
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,17,{d}nu-nam-nir nun kur-kur-ra-ke₄
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,18,nam-saŋ-tun₃ mah an ki šu-zu im-mi-in-kur₉
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,19,mu-un-il₂-en nam-nin eš₃ numun i za-ra mu-ra-an-šum₂
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,20,a-a ugu-zu an diŋir mah-e tug₂ tug₂-ba₁₃ tug₂ mi-ri-in-mu
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,21,ur-saŋ {d}en-lil₂-la₂ {d}nin-ŋir₂-su nitalam-še₃ ma-ra-an-šum₂
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,22,e₂-ninnu iri-kug eš₃ numun i saŋ-e-eš mu-ri-rig₇
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,23,lagaš{ki} ŋir₂-su{ki} dim gal kalam-ma-ka
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,24,e₂-ŋalga-sud ki-tuš ki aŋ₂-za
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,25,tar-sir₂-sir₂ e₂ nam-nin-a-ka barag mah-zu mi-ni-ri
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,26,ki-tuš mah-zu-še₃ diŋir ki lagaš{ki}-a im-ši-gam-e-de₃-eš
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,27,nin zag dib me-ni šu nu-teŋ₃-ŋa₂
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,28,dumu an-na nin gal niŋ₂-nam zu
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,29,šul me-dim₂ sag₉ nun {d}iš-me-{d}da-gan dumu {d}en-lil₂-la₂-ke₄
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,30,ki-sikil ama {d}ba-u₂ igi zid mu-ši-bar nam dug₃ mu-ni-tar ud til₃-la e₃-a-še₃
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,31,sa-gid₂-da-am₃
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,32,ama {d}ba-u₂ nun {d}iš-me-{d}da-gan dumu {d}en-lil₂-la₂-ra nam-til₃ ud su₃-ra₂ šum₂-mu-dam
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,33,ŋiš-gi₄-ŋal₂ sa-gid₂-da-bi-im
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,34,e₂-nam-til₃-la e₂ {d}en-lil₂-la₂-še₃
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,35,sila₄ babbar udu inim-ŋar sag₉-ga gaba-na im-mi-tab
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,36,nun {d}iš-me-{d}da-gan za-e im-me-ni-kur₉
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,37,KI.LUGAL.GUB nam-til₃-la-da im-da-e-gub
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,38,kur gal {d}en-lil₂-ra ki mu-ne-ŋal₂
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,39,a-a {d}mu-ul-lil₂ u₃-mu-un gal kur-kur-ra
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,40,{d}iš-me-{d}da-gan-na na-aŋ₂ de₃-eb₂-tar mu-ni de₃-eb₂-pad₃ e-ne-er mu-ne-dug₄
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,41,{d}en-lil₂ lugal kur-kur-ra-ke₄ igi nam-til₃-la saŋ-ki zalag-ga-ni mu-un-ši-in-bar
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,42,{d}iš-me-{d}da-gan-na nam mu-ni-ib₂-tar-re
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,43,{ŋeš}gu-za me ur₄-ur₄ aga zid ud su₃-ra₂-a ŋidru uŋ₃ gen₆-ne₂ us₂ ₁-a lah₄-lah₄-e
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,44,nun {d}iš-me-{d}da-gan nam-e-eš he₂-tar
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,45,{id₂}idigna {id₂}buranuna-e he₂-ŋal₂ a-eštub{ku₆} hu-mu-ra-ab-tum₃ gun₂-bi ha-ra-gid₂-e
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,46,gu₂-gu₂-bi u₂-šim hu-mu-ra-an-mu₂ asila ha-ra-ab-la₂
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,47,pu₂-{ŋeš}kiri₆-ba lal₃-e ŋeštin-e ki hu-mu-ra-ni-ib₂-us₂
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,48,a-gar₃ zid-bi še gu-nu ha-ra-ab-mu₂ guru₇-bi ha-ra-dub-dub
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,49,tur₃ ha-ra-du₃-du₃ amaš ha-ra-daŋal-daŋal
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,50,nam-lugal-la mu hu-mu-ni-mah
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,51,nam-nun-na saŋ an-še₃ he₂-ni-il₂
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,52,sig igi-nim kur-zag til-la-bi gu₂-un ha-mu-ra-ab-il₂
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,53,kisal mah nun ud-gin₇ dalla he₂-ni-in-e₃
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,54,nidba-zu e₂-kur za-gin₃-na muš nam-ba-an-tum₃-mu
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,55,{d}en-lil₂-le nam-še₃ mu-ni-in-tar
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,56,lugal-la e₂-kur-ta a₂ mah mu-na-šum₂
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,57,nir mu-un-ŋal₂ inim {d}en-lil₂-la₂-ta gaba-šu-ŋar nu-mu-un-tuku
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,58,ŋiri₃ il₂-il₂-la im-gub-gub-be₂
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,59,e₂-gal mah ki-tuš nam-lugal-la-ka im-ma-da-an-ku₄-ku₄
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,60,barag kug za-gin₃-na dur₂ bi₂-in-ŋar e₂-gal
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,61,sa-ŋar-ra-am₃
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,62,munus zid dumu an-na {d}en-lil₂ gu₃ ma-ra-de₆ barag kug za-gin₃ X-ab-be₂
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,63,ki-sikil ama {d}ba-u₂ dumu an-na {d}en-lil₂ gu₃ ma-ra-de₆ barag kug za-gin₃ X-ab-be₂
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,64,{d}iš-me-{d}da-gan dumu {d}en-lil₂-la₂-ra nam-til₃ ud su₃-ra₂ saŋ-e-eš rig₇-a-ni-ib
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,65,u₁₉-ru₁₂-bi-im
+c.2.5.4.02,An adab to Bau for Išme-Dagan (Išme-Dagan B),,66,a-da-ab {d}ba-u₂-kam

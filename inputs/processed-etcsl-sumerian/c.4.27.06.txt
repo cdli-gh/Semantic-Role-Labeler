@@ -1,0 +1,33 @@
+id_text,text_name,version,l_no,text
+c.4.27.06,A balbale to Ninurta (Ninurta F),,1,a zid-da numun zid-da
+c.4.27.06,A balbale to Ninurta (Ninurta F),,2,lugal {d}en-lil₂-le mu pad₃-da
+c.4.27.06,A balbale to Ninurta (Ninurta F),,3,a zid-zid-da numun zid-zid-da
+c.4.27.06,A balbale to Ninurta (Ninurta F),,4,{d}nin-urta {d}en-lil₂-le mu pad₃-da
+c.4.27.06,A balbale to Ninurta (Ninurta F),,5,lugal-ŋu₁₀ mu-zu ga-am₃-pad₃-da-de₃
+c.4.27.06,A balbale to Ninurta (Ninurta F),,6,{d}nin-urta ŋe₂₆-e lu₂-zu lu₂-zu
+c.4.27.06,A balbale to Ninurta (Ninurta F),,7,ŋe₂₆-e mu-zu ga-am₃-pad₃-da-de₃
+c.4.27.06,A balbale to Ninurta (Ninurta F),,8,lugal-ŋu₁₀ u₈ sila₄ na-an-tu-ud
+c.4.27.06,A balbale to Ninurta (Ninurta F),,9,u₈ sila₄ na-an-tu-ud u₈ udu-utua₂ na-an-tu-ud
+c.4.27.06,A balbale to Ninurta (Ninurta F),,10,ŋe₂₆-e mu-zu ga-am₃-pad₃-da-de₃
+c.4.27.06,A balbale to Ninurta (Ninurta F),,11,lugal-ŋu₁₀ ud₅-e maš₂ na-an-tu-ud
+c.4.27.06,A balbale to Ninurta (Ninurta F),,12,ud₅-e maš₂ na-an-tu-ud maš₂-ud₅-da na-an-tu-ud
+c.4.27.06,A balbale to Ninurta (Ninurta F),,13,ŋe₂₆-e mu-zu ga-am₃-pad₃-da-de₃
+c.4.27.06,A balbale to Ninurta (Ninurta F),,14,lugal-ŋu₁₀ ab₂-e amar na-an-tu-ud
+c.4.27.06,A balbale to Ninurta (Ninurta F),,15,ab₂-e amar na-an-tu-ud ab₂ gud-ab₂-ba na-an-tu-ud
+c.4.27.06,A balbale to Ninurta (Ninurta F),,16,ŋe₂₆-e mu-zu ga-am₃-pad₃-da-de₃
+c.4.27.06,A balbale to Ninurta (Ninurta F),,17,lugal-ŋu₁₀ eme₃ amar na-an-tu-ud
+c.4.27.06,A balbale to Ninurta (Ninurta F),,18,eme₃ amar na-an-tu-ud anše X-an-tu-ud
+c.4.27.06,A balbale to Ninurta (Ninurta F),,19,ŋe₂₆-e mu-zu ga-am₃-pad₃-da-de₃
+c.4.27.06,A balbale to Ninurta (Ninurta F),,20,lugal-ŋu₁₀ lu₂-ulu₃ dumu na-an-tu-ud
+c.4.27.06,A balbale to Ninurta (Ninurta F),,21,lu₂-ulu₃ dumu na-an-tu-ud {d}nin-urta lugal-e
+c.4.27.06,A balbale to Ninurta (Ninurta F),,22,lugal-da gu na-an-tu-ud
+c.4.27.06,A balbale to Ninurta (Ninurta F),,23,lugal-da še na-an-tu-ud
+c.4.27.06,A balbale to Ninurta (Ninurta F),,24,id₂-da a-eštub mu-da-ab-si
+c.4.27.06,A balbale to Ninurta (Ninurta F),,25,a-šag₄-ga še gu-nu mu-da-ab-mu₂
+c.4.27.06,A balbale to Ninurta (Ninurta F),,26,ambar-ra HI.SUHUR{ku₆} suhur{ku₆} mu-da-ab-si
+c.4.27.06,A balbale to Ninurta (Ninurta F),,27,ŋiš-gi gi sumun gi henbur mu-da-ab-mu₂
+c.4.27.06,A balbale to Ninurta (Ninurta F),,28,tir-tir šeg₉ šeg₉-bar mu-da-ab-si
+c.4.27.06,A balbale to Ninurta (Ninurta F),,29,an-edin-na {ŋeš}maš-gurum mu-da-ab-mu₂
+c.4.27.06,A balbale to Ninurta (Ninurta F),,30,pu₂-{ŋeš}kiri₆ lal₃ ŋeštin mu-da-ab-si
+c.4.27.06,A balbale to Ninurta (Ninurta F),,31,e₂-gal-la zi su₃-ud-ŋal₂ mu-da-ab-mu₂
+c.4.27.06,A balbale to Ninurta (Ninurta F),,32,bal-bal-e {d}nin-urta-kam

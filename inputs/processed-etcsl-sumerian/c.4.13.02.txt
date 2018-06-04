@@ -1,0 +1,41 @@
+id_text,text_name,version,l_no,text
+c.4.13.02,A balbale to Nanna (Nanna B),,1,me-a-am-ra me-e
+c.4.13.02,A balbale to Nanna (Nanna B),,21,ur₂ mu-ud-na-ŋu₁₀
+c.4.13.02,A balbale to Nanna (Nanna B),,22,šul
+c.4.13.02,A balbale to Nanna (Nanna B),,23,ab₂-a-na
+c.4.13.02,A balbale to Nanna (Nanna B),,24,ki-ga aŋ₂-ŋu₁₀ LU₂
+c.4.13.02,A balbale to Nanna (Nanna B),,25,me-e da-DU
+c.4.13.02,A balbale to Nanna (Nanna B),,26,u₃-mu-un-da ki-bi-X
+c.4.13.02,A balbale to Nanna (Nanna B),,27,nitalam-ŋu₁₀
+c.4.13.02,A balbale to Nanna (Nanna B),,28,{d}nin-gal lu₂
+c.4.13.02,A balbale to Nanna (Nanna B),,29,i₃ ab₂ kug-ga
+c.4.13.02,A balbale to Nanna (Nanna B),,30,šu sikil ŋiri₃
+c.4.13.02,A balbale to Nanna (Nanna B),,31,sag₉-ga-ŋu₁₀
+c.4.13.02,A balbale to Nanna (Nanna B),,32,ŋiš-gi ki-e-ne-di
+c.4.13.02,A balbale to Nanna (Nanna B),,33,gi-du₃-e ŋiri₂ saga₁₁
+c.4.13.02,A balbale to Nanna (Nanna B),,34,{gi}en₃-bar dug₃-ga-še₃
+c.4.13.02,A balbale to Nanna (Nanna B),,35,in-nin u₅-bi₂{mušen}-ra niŋ₂-u₂-rum-bi
+c.4.13.02,A balbale to Nanna (Nanna B),,36,nunuz-bi mu-ra-ab-ri gud₃
+c.4.13.02,A balbale to Nanna (Nanna B),,37,zirruₓ u₅-bi₂{mušen}
+c.4.13.02,A balbale to Nanna (Nanna B),,38,i₃ dug-a nir
+c.4.13.02,A balbale to Nanna (Nanna B),,39,ud gug₂-še₃
+c.4.13.02,A balbale to Nanna (Nanna B),,40,ambar mah-a suhur{ku₆}-ra
+c.4.13.02,A balbale to Nanna (Nanna B),,41,{lu₂}ki-sikil kud-da tur-re šu
+c.4.13.02,A balbale to Nanna (Nanna B),,42,ama ugu-zu {d}nin-gi-kug-ga
+c.4.13.02,A balbale to Nanna (Nanna B),,43,{d}nin-gal e₂-zu-še₃ ŋe₂₆-e ga-mu-ra-da-ŋen
+c.4.13.02,A balbale to Nanna (Nanna B),,44,ab₂ tur₃-ra um-mi-ŋen-na
+c.4.13.02,A balbale to Nanna (Nanna B),,45,{dug}šakir₃ kug-ga ga kug
+c.4.13.02,A balbale to Nanna (Nanna B),,46,{d}šu-ni-du₇ kiŋ₂-ŋa₂ u₃-mu-e-ni-dun₅-a
+c.4.13.02,A balbale to Nanna (Nanna B),,47,{lu₂}ki-sikil amar tur-ra-ŋu₁₀-še₃ ga
+c.4.13.02,A balbale to Nanna (Nanna B),,48,i₃ hi-a ga luh-ha
+c.4.13.02,A balbale to Nanna (Nanna B),,49,{d}nin-gal e₂-zu-še₃ ŋe₂₆-e ga-mu-ra-da-ŋen
+c.4.13.02,A balbale to Nanna (Nanna B),,50,me-a-am e-me-da nu-me-a
+c.4.13.02,A balbale to Nanna (Nanna B),,51,ki-ga aŋ₂-ŋu₁₀ nu-uš-mu-e-ši-di-di-in
+c.4.13.02,A balbale to Nanna (Nanna B),,52,{d}nin-gi-kug-ga-da nu-me-a
+c.4.13.02,A balbale to Nanna (Nanna B),,53,nu-uš-mu-e-ši-di-di-in
+c.4.13.02,A balbale to Nanna (Nanna B),,55,u₃-mu-un {d}nanna tum₃-ma-ab
+c.4.13.02,A balbale to Nanna (Nanna B),,56,dag su₈-ba e₂ še de₅-de₅-ga
+c.4.13.02,A balbale to Nanna (Nanna B),,57,u₃-mu-un-ŋu₁₀ e₂ ŋa₂-nun-na me-e du₅-mu-ra-di-di-in
+c.4.13.02,A balbale to Nanna (Nanna B),,58,me-a-am u₆ di kalam-ma du₅-mu-ra-da-di-di-in
+c.4.13.02,A balbale to Nanna (Nanna B),,59,{d}nanna-ŋu₁₀ i-lu-zu ze₂-ba-am₃ i-lu ša₃-ab-ŋa₂-kam
+c.4.13.02,A balbale to Nanna (Nanna B),,60,bal-bal-e {d}nanna-kam

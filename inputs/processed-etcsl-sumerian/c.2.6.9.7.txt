@@ -1,0 +1,52 @@
+id_text,text_name,version,l_no,text
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,1,nidba kug-ga si sa₂-zu
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,2,šu kug-zu sizkur₂ kug sikil-e ma-ra-tag-ga-zu
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,3,ŋiš tag-ga šu tag-tag-ga-zu
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,4,šag₄-ge dug₄-ga eme ŋar-ra-zu
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,5,giri₁₇ šu ŋal₂-la-zu šu kug il₂-la-zu
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,6,{d}nanna lugal an ki en {d}lamma sag₉-ga-zu he₂-me-še-še
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,7,{d}nin-gal nin mah nin ŋiškim sag₉-ga-zu he₂-me-še-še
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,8,lugal šag₄-ŋar du₈-du₈ {d}nanna {d}nin-gal-bi diŋir gal-gal-e-ne-ke₄
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,9,{d}ri-im-{d}suen lugal e₂ diŋir-re-e-ne-ke₄
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,10,he₂-ŋal₂ ma-ra-si-si
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,11,lugal mu pad₃-da {d}en-lil₂-le nam bal-a-ni nam-he₂
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,12,ud he₂-ŋal₂-la mu giri₁₇-zal-la
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,13,nam nam-gub nam he₂-ŋal₂-la nam-zu-še₃ he₂-bi₃-ši-ŋal₂
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,14,lugal ud ŋi₆-a ŋi₆ u₃-na he₂-ŋal₂ nu-til-le-de₃
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,15,ud ma-ra-ab-za-al ma-ra-ab-dug₃-ga ma-ra-ab-gen₆-ne₂
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,16,lugal nidba-zu saŋ-bi šag₄ abzu-a du₃-du₃-ra-a ma-ra-du₃-du₃-ra
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,17,lugal nidba-zu eŋer-bi kisal mah-a du₃-du₃-ra-a ma-ra-du₃-du₃-ra
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,18,he₂-ŋal₂ nu-til-le-de₃
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,19,lugal su e₂-a ma-ra-si-sa₂
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,20,{d}ri-im-{d}suen lugal urim₅{ki}-ma me mah ki-ur₃-ra
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,21,ki-bi šu bi₂-in-gi
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,22,{d}nanna lugal an ki-ke₄ aga zid mah nam-lugal-la šu du₇
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,23,saŋ-za he₂-ni-ib-gen₆-ne₂
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,24,{d}nin-gal nin mah šag₄-ŋar du₈-du₈-zu
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,25,šag₄ še-ga-ni-ta ud-bi-še₃ nam-til₃ dug₃
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,26,zi-zu he₂-eb-dug₃
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,27,šu kug-ga-ni-ta me-lem₄ gal nam-lugal-la dab₅
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,28,{ŋeš}ŋidru mah an ki-a šu-zu-še₃ tug₂-ba₁₃-gin₇ he₂-dib
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,29,{d}ri-im-{d}suen lugal ki-ur₃-ra he₂-ŋal₂ du₈-du₈
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,30,saŋ us₂ nu-til₃-le-de₃
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,31,lugal {id₂}idigna he₂-ŋal₂-la hu-mu-ra-ab-tum₃
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,32,{id₂}nun šag₄ si-ni-ta a zal-le hu-mu-ra-si
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,33,{id₂}nun {id₂}nun zid id₂ zi-ŋal₂ kalam-ma
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,34,ku₆ mušen hu-mu-ra-ab-tum₃
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,35,a-ab-ba ab su-su-da-ta kun al-gub-ba-a-ta
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,36,u₃-tud nu-til-le-da nam-lugal-zu-še₃ hu-mu-ra-ab-tum₃
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,37,edin daŋal ki daŋal-ba niŋ₂-ur₂-₄ niŋ₂-zi-ŋal₂
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,38,eg₂ pa₅ pa₄-ugur₂-e šu hu-mu-ra-ab-il₂-la
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,39,nam-til₃ ha-ra-ŋa₂-ŋa₂
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,40,šudu₃ inim-ŋar niŋ₂ sag₉-ga ha-ra-ŋa₂-ŋa₂
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,41,šag₄ hul₂-la ha-ra-ŋa₂-ŋa₂
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,42,ŋiškim sag₉-sag₉-ga ha-ra-ŋa₂-ŋa₂
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,43,šag₄-zu ha-ra-dug₃
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,44,su-zu ha-ra-dug₃
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,45,bar-zu ŋiškim gen₆-na-a-zu ha-ra-dug₃
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,46,šag₄ {d}nanna {d}nin-gal-bi ŋiškim sag₉-sag₉-ga
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,47,nam nam-til₃-la da-ri₂-še₃ he₂-me-kar₂-kar₂
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,48,{d}ri-im-{d}suen lugal me-te-ŋal₂ he₂-ŋal₂ šu du₈-du₈ diŋir gal-gal-e-ne-ke₄
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,49,ma-da he₂-en-na-gen₆ suhuš ma-da he₂-en-na-ge-en
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,50,{d}nanna lugal an ki-ke₄ gu₃ kalam-ma teš₂ hu-mu-ra-ab-sig₁₀-ge
+c.2.6.9.7,A prayer to Nanna for Rīm-Sîn (Rīm-Sîn G),,51,{d}ri-im-{d}suen lugal-ŋu₁₀

@@ -1,0 +1,27 @@
+id_text,text_name,version,l_no,text
+c.4.12.2,A hymn to Martu (Martu B),,A1,igi kar₂ me ur₄-ur₄
+c.4.12.2,A hymn to Martu (Martu B),,A2,ušum zag dib an ki-a mu mah-a sa₄-a
+c.4.12.2,A hymn to Martu (Martu B),,A3,saŋ an gal ri-a dub₃ kug-ga peš-e
+c.4.12.2,A hymn to Martu (Martu B),,A4,sig₁₀-ga ulutim₂ si-a-ni u₃-tud-da {d}uraš-a
+c.4.12.2,A hymn to Martu (Martu B),,A5,sag₉ ul-la u₆ di-de₃ ba-ab-du₇
+c.4.12.2,A hymn to Martu (Martu B),,A6,mi₂ dug₄-ga kur gal {d}en-lil₂-le nam dug₃-ge-eš tar-ra
+c.4.12.2,A hymn to Martu (Martu B),,A7,sag₉ gurun šu tag la-la-bi nu-gid₂-da
+c.4.12.2,A hymn to Martu (Martu B),,A8,saŋ-kug-ŋal₂ diŋir gal-gal-e-ne šag₄ dab₅-dab₅-bi
+c.4.12.2,A hymn to Martu (Martu B),,A9,sikil šu-luh dadag a-ra₂-ni
+c.4.12.2,A hymn to Martu (Martu B),,A10,dug₄-ga-ni u₃-en₃ nu-ša₄ umuš ŋalga
+c.4.12.2,A hymn to Martu (Martu B),,A11,su₃-ra₂ mas-su
+c.4.12.2,A hymn to Martu (Martu B),,B1,
+c.4.12.2,A hymn to Martu (Martu B),,B2,ŋal₂-la
+c.4.12.2,A hymn to Martu (Martu B),,B3,ŋal₂-la
+c.4.12.2,A hymn to Martu (Martu B),,B4,mi₂ zid mu-na-X-dug₄
+c.4.12.2,A hymn to Martu (Martu B),,B5,še-er-kan dug₄-ga šim {ŋeš}erin-na
+c.4.12.2,A hymn to Martu (Martu B),,B6,šag₄-ke₄ im-du₈-gin₇ su-za šeŋ₃-šeŋ₃ a
+c.4.12.2,A hymn to Martu (Martu B),,B7,inim sag₉-sag₉-ge-zu-a di-de₃
+c.4.12.2,A hymn to Martu (Martu B),,B8,zid-da inim sag₉-sag₉-ge-zu-a di-de₃
+c.4.12.2,A hymn to Martu (Martu B),,B9,šudu₃ a-ra-zu-bi mu-X-ša₄
+c.4.12.2,A hymn to Martu (Martu B),,B10,niŋ₂ šu dug₄-ga-ni šim {ŋeš}erin-na-gin₇ bar zu a ha-ba-dug₃
+c.4.12.2,A hymn to Martu (Martu B),,B11,iri he₂-sud dam dumu-bi he₂-sag₉
+c.4.12.2,A hymn to Martu (Martu B),,B12,nam-til₃ ud su₃-ud-da saŋ-e-eš he₂-en-na-rig₇
+c.4.12.2,A hymn to Martu (Martu B),,B13,nam-diŋir-zu saŋ-ta dug₃-ga-am₃
+c.4.12.2,A hymn to Martu (Martu B),,B14,ud ul-le₂-a
+c.4.12.2,A hymn to Martu (Martu B),,B15,{d}mar-tu-ka-kam

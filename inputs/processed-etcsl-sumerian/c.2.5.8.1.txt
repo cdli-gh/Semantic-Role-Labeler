@@ -1,0 +1,172 @@
+id_text,text_name,version,l_no,text
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,1-3,{d}en-lil₂-ba-ni lugal u₄ di nun-e-ne
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,4,šu dug₄-ga an-na
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,5,{d}en-lil₂-le il₂-la
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,6,{d}utu-gin₇
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,7,ud kur-kur-ra-ke₄
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,8,nam-nun-še₃ tu-ud
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,9,me šar₂ gu₂ e₃
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,10,zag an ki
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,11,uŋ₃ daŋal dur₂-ru-na-bi-še₃
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,12,igi du₈ {d}en-lil₂-la₂
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,13,{d}nin-lil₂-le ŋiš tuku
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,14,sag₉
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,15,me-dim₂-ta nir-nir-ra
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,16,ešgiri₂ šibir
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,17,uŋ₃ šar₂ gal bi₂-tuš
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,18,{d}en-lil₂-ba-ni
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,19,dumu mah {d}en-ki-ke₄
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,20,sipad mas-su
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,21,niŋ₂-zi-ŋal₂ tum₂-tum₂-mu
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,22,an-dul₃ daŋal
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,23,kur-kur-re si-a
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,24,nun mah-di
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,25,an gal-e pad₃-da
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,26,ama gal {d}nin-lil₂-le
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,27,nir-ŋal₂
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,28,{d}en-lil₂-ba-ni
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,29,nir hu-mu-un-ŋal₂-e-en
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,30,ka dug₃-ga
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,31,nundum inim-ma sag₉
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,34,dam kug {d}inana-ka
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,35,{d}asar-lu₂-hi
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,36,ŋeštug₂ mu-ra-an-šum₂
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,37,{d}nisaba
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,38,nin {d}nanibgal₂-e
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,39,bur-šu-um
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,40,ušbar {d}en-lil₂-la₂
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,41,nin
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,42,zi u₃-tud-da
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,43,saŋ-tun₃
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,44,šu-gi
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,45,munus kug
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,46,ŋiškim
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,47,im nam-til₃-la-ka
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,48,mu-ni bi₂-in-gub
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,49,ad gi₄-gi₄
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,50,ba-an-gi₄ ma-ra-ni-pad₃
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,51,nam-igi-ŋal₂
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,52,saŋ-e-eš mu-ra-rig₇
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,53,e₂-za-gin₃
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,54,e₂-ŊEŠTUG₂.{d}NISABA-ka-ni
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,55,sa₂ pad₃-de₃
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,56,nam-še₃ mu-ri-in-tar
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,57,niŋ₂-si-sa₂
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,58,kalam-ma dalla ba-e-e₃
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,59,sag₉-ga-zu
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,60,kur-kur-ra im-me
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,61,{d}en-lil₂-ba-ni
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,62,ŋalga ŋeštug₂ dirig tuku
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,63,šag₄ kuš₂-u₃
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,64,di-zu ŋal₂
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,65,kug-zu niŋ₂-nam-ma
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,67,mas-su
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,68,di saŋ gig₂-ga
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,69,si sa₂-da-zu-ne
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,70,ka-aš bar-ra
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,71,bar-re-da-zu-ne
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,72,dug₄-ga-dug₄-ga
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,73,šag₄-ge inim ŋal₂-la
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,74,nu-ŋar-ra
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,75,tam-ma ba-e-zu
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,76,si sa₂ kug-sig₁₇-gin₇
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,77,mu-e-zalag-e
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,78,si nu-sa₂
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,79,ud za-hal-e ak-e
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,80,niŋ₂ kur₂ di
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,81,bi-iz-bi mu-e-gul
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,82,nam-tag-ga
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,83,du₈-u₃ tur₅-ra-bi mu-e-zu
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,84,šer₇-da-a
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,85,saŋ ŋiš nu-ub-ra-ra-an
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,86,tum₂-tum₂-mu ba-e-zu
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,87,inim mu-e-dug₃-dug₃
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,88,šag₄-la₂ sug₄
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,89,lu₂ zid ki aŋ₂-e
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,90,ne-saŋ sig₉-ga
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,91,še₂₉-eš₂ nu-di
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,92,šagina-zu
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,93,saŋ šul-a-lum la-ba-ak
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,94,erin₂-zu erin₂ kur₂-ra
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,95,a₂ bi₂-ib₂-ŋar
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,96,{ŋeš}tukul-zu
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,97,{ŋeš}tukul gaba-ri nu-tuku-am₃
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,98,tuš-a-zu-ne
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,99,kur-kur
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,100,gam-e-en
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,101-2,barag-barag-ga nam-gi₄-me-eš₃ a-ra-ak-ne
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,103-5,du₁₄ mu₂-mu₂ zi ba-ni-ib₂-gi₄-gi₄
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,106,gud šar₂-da udu šar₂-da
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,107,kug-sig₁₇ {na₄}gug za-gin₃-a-ta
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,108,e₂-gal-zu-še₃
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,109,ša-mu-ra-ab-ku₄-ku₄-ne
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,110,nundum-bi-a
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,111,ki su-ub ma-ra-ak-ne
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,112,{d}en-lil₂-ba-ni lugal
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,113,šag₄ iri-na dug₃-dug₃
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,114,nibru{ki}-še₃
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,115,nesaŋ kaš₄ kar-re-me-en
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,116,še mah tum₃
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,117,e₂-kiš-nu-ŋal₂-me-en
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,118,ud šu₂-uš-e
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,119,muš₃ nu-tum₂-mu-bi-me-en
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,120,{d}en-lil₂-e
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,121,mu sa₄-me-en
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,122,{d}nin-lil₂-le
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,123,niŋ₂-u₄-rum-ni-me-en
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,124,{d}nin-urta
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,125,ur-saŋ kalag-ga {d}en-lil₂-la₂-ke₄
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,126,u₃-na gub
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,127,kur ki-bal-zu-še₃
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,128,gu₂-erim₂-ŋal₂
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,129,za-še₃ nu-ŋal₂-la
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,130,du₆-gin₇ mu-ra-an-du₈
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,131,zar-gin₇ mu-ra-an-sal
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,132,{d}nuska
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,133,en e₂-kur-e si
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,134,a₂ aŋ₂-ŋa₂ niŋ₂ sag₉-ga
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,136-138,diŋir-mah u₃ kalam-ma
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,139,šag₄ daŋal-zu-še₃
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,140,nam i-ri-in-tar
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,141,gi-en₃-dur kud-da-zu
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,142,nam-en mu-ra-an-ak
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,143,{d}nanna en zil-le
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,144,dumu {d}en-lil₂-la₂
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,145,aga nam-til₃-la
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,146,saŋ-za ma-ra-ni-ge₄-en
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,147,{d}nu-dim₂-mud
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,148,diŋir saŋ du₃-zu
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,149,abzu-ta
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,150,he₂-ŋal₂ ma-ra-tah
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,151,{d}inana-ke₄
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,152,e₂-an-na-ka-ta
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,153,šag₄ hul₂-la
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,154,ŋiš-šub-ba-za mi-ni-in-ŋar
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,155,ki-nu₂ kug-ga-ni-še₃
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,156,gal-bi mi-ri-in-tum₂-mu
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,157,ŋi₆ u₃-na
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,158,ud mi-ni-ib₂-zal-zal-e-de₃
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,159,ama kalam-ma
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,160,{d}nin-i₃-si-in-na-ke₄
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,161,i₃-si-in{ki}-a
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,162,ki šu-za mu-e-tag
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,163,{d}utu di-kud
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,164,lugal an ki-ke₄
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,165,u₃-luh saŋ gig₂-ga
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,166,zid-de₃-eš tum₂-tum₂-mu
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,167,šu-za ma-ra-ni-ge₄-en
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,169,{d}en-lil₂-ba-ni lugal
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,171,itid sag₉ mu he₂-ŋal₂-la
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,172,ud giri₁₇-zal-la
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,173,il₂-la lugal-la
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,174,an-ta-ŋal₂-bi-me-en
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,175,ub-da ₄-ba-ke₄
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,176,sizkur nam-lugal-la
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,177,mi₂ i-ri-in-dug₄
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,178,dub-sar umun₂ ak
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,179,e₂-dub-ba-a
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,180,e₂ na de₅
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,181,kalam-ma-ka
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,182,za₃-mi₂-zu
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,183,ŋa₂-la
+c.2.5.8.1,A praise poem of Enlil-bāni (Enlil-bāni A),,184,nam-ba-an-dag-ge

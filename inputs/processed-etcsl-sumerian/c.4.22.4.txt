@@ -1,0 +1,41 @@
+id_text,text_name,version,l_no,text
+c.4.22.4,A hymn to Ninisina (Ninisina D),,A1,nin me mah dib saŋ il₂ ni₂ guru₃ dumu ki aŋ₂ an gal-la
+c.4.22.4,A hymn to Ninisina (Ninisina D),,A2,{d}nin-isin₂-na {d}uraš-e tud-da šag₄ gal nam gal
+c.4.22.4,A hymn to Ninisina (Ninisina D),,A3,ad gi₄-gi₄ gal-di a-a ugu-na aŋrig zid e₂-kur-ra
+c.4.22.4,A hymn to Ninisina (Ninisina D),,A4,eš₂ sig₇-ga barag kug-ge he₂-du₇
+c.4.22.4,A hymn to Ninisina (Ninisina D),,A5,arhuš₂ tuku saŋ gig₂-ga kug {d}nin-isin₂-na niŋ₂-nam-ma-ni pa e₃
+c.4.22.4,A hymn to Ninisina (Ninisina D),,A6,nin tug₂ babbar₂ tug₂-ba₁₃
+c.4.22.4,A hymn to Ninisina (Ninisina D),,A7,nam-gur₄ dirig dug₄-ge dib-ba-zu a-ra₂ mah-bi ša-an-i-i
+c.4.22.4,A hymn to Ninisina (Ninisina D),,A8,a-a ugu-zu an kug me-me dirig-ga za-ar ma-ra-an-ri
+c.4.22.4,A hymn to Ninisina (Ninisina D),,A9,nin šag₄ šu niŋin₂ lu₂ gi₄ lu₂ dub-ba zi-zi-i šag₄-ta mu-e-de₆
+c.4.22.4,A hymn to Ninisina (Ninisina D),,A10,nam-a-zu lu₂ til₃-le lu₂
+c.4.22.4,A hymn to Ninisina (Ninisina D),,A11,nin tu₆ dug₄-ga-ni-ta lu₂ sag₉ šum₂-mu
+c.4.22.4,A hymn to Ninisina (Ninisina D),,A12,simₓ-simₓ-ma su lu₂-ulu₃ mu₇-mu₇-ga-ni ed₃-de₃
+c.4.22.4,A hymn to Ninisina (Ninisina D),,A13,bulug niŋ₂ zi-pa-aŋ₂-ŋa₂-na su-a-na
+c.4.22.4,A hymn to Ninisina (Ninisina D),,A14,nin u₂ nam-til₃-la ab-ba
+c.4.22.4,A hymn to Ninisina (Ninisina D),,A15,lu₂ ug₅-ge lu₂
+c.4.22.4,A hymn to Ninisina (Ninisina D),,A16,{d}nin-til₃-mud lu₂ luh dadag-ga
+c.4.22.4,A hymn to Ninisina (Ninisina D),,A17,šu zid diŋir-ra-na-še₃ šu
+c.4.22.4,A hymn to Ninisina (Ninisina D),,A18,
+c.4.22.4,A hymn to Ninisina (Ninisina D),,B1,
+c.4.22.4,A hymn to Ninisina (Ninisina D),,B2,
+c.4.22.4,A hymn to Ninisina (Ninisina D),,B3,i₃-si-in{ki} iri
+c.4.22.4,A hymn to Ninisina (Ninisina D),,B4,lu₂-erim₂-ma-ke₄
+c.4.22.4,A hymn to Ninisina (Ninisina D),,B5,{d}nin-isin₂-na
+c.4.22.4,A hymn to Ninisina (Ninisina D),,B6,e₂-gal-mah barag babbar₂
+c.4.22.4,A hymn to Ninisina (Ninisina D),,B7,₂-na-ne-ne
+c.4.22.4,A hymn to Ninisina (Ninisina D),,B8,lugal mu pad₃
+c.4.22.4,A hymn to Ninisina (Ninisina D),,B9,{d}nin-isin₂-na
+c.4.22.4,A hymn to Ninisina (Ninisina D),,B10,šag₄-ge guru₇ nu-še-ga
+c.4.22.4,A hymn to Ninisina (Ninisina D),,B11,nu-ŋar za-ar hu-X-X-te-še₃
+c.4.22.4,A hymn to Ninisina (Ninisina D),,B12,i₃-si-in{ki} nidba kadra-bi gal-bi
+c.4.22.4,A hymn to Ninisina (Ninisina D),,B13,gu₂-za us₂
+c.4.22.4,A hymn to Ninisina (Ninisina D),,B14,nibru{ki}-še₃ za-e kur₉-X-X-ni-ib
+c.4.22.4,A hymn to Ninisina (Ninisina D),,B15,zid-de₃-eš
+c.4.22.4,A hymn to Ninisina (Ninisina D),,B16,diŋir-re-e-ne-ke₄
+c.4.22.4,A hymn to Ninisina (Ninisina D),,B17,ki
+c.4.22.4,A hymn to Ninisina (Ninisina D),,B18,za-a-am₃
+c.4.22.4,A hymn to Ninisina (Ninisina D),,B19,su-bi
+c.4.22.4,A hymn to Ninisina (Ninisina D),,B20,kar₂
+c.4.22.4,A hymn to Ninisina (Ninisina D),,B21,{d}nin-isin₂-na dumu mah an-na
+c.4.22.4,A hymn to Ninisina (Ninisina D),,B22,za₃-mi₂-zu dug₃-ga-am₃

@@ -1,0 +1,31 @@
+id_text,text_name,version,l_no,text
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,1,lugal-ŋu₁₀-ra u₃-na-dug₄
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,2,maš₂ hur-saŋ-ŋa₂ a₂ sag₉-sag₉-ŋu₁₀
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,3,anše-kur hur-saŋ-ŋa₂ umbin hu-ri₂-in{mušen}-na
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,4,{ŋeš}ŋišnimbar ki sikil-e mu₂-a zu₂-lum {na₄}za-gin₃ la₂-ŋu₁₀-ur₂
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,5,u₃-ne-de₃-tah
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,6,{m}a-ba-in-da-sa₂ ugula erin₂ zu₂ keše₂
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,7,šuduₓ lugal-la-na-ta šag₄ lugal-la-na dug₃-dug₃-ge-ra
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,8,arad₂-zu na-ab-be₂-a
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,9,kalag-ga-me-en lugal-ŋu₁₀ ga-ab-us₂
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,10,inim-ma-zu ra-gaba-zu he₂-me-en
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,11,{ŋeš}ma₂ gub-ba {ŋeš}ŋisal mu-un-sig₁₀-ge
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,12,a gub-ba a mu-un-da-ak-e
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,12A,dumu gub-ba še mu-un-sig₁₀-ge
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,13,tum₉ gub-ba še mu-un-da-la₂-e
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,14,dub-sar-me-en na-du₃-a ab-sar-re-en
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,14A,inim ugnim-ma
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,15,inim pu-uh₂-ru-um-ma šub-ba ed₃-de₃-bi mu-un-da-sig₁₀-ge
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,15A,inim sag₉-ge gaba-ri
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,16,ŋiš-gin₇ {ŋeš}tir-ŋa₂ mu-un-du₃-nam mu-dur₇-re im-gam-e
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,17,{ŋeš}gu-za-ŋa₂ lu₂ mu-un-da-la₂-a šu-ŋu₁₀ eš₂ im-ma-an-la₂
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,18,iri-ŋa₂ tug₂ dan₆-na-a mu-ni-mur₁₀-ra tug₂-mu-dur₇-ra ba-an-mur₁₀
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,19,lag-e a mi-ni-in-tu₅-a sahar igi-ŋa₂ ba-e-DU
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,20,ur-e ad₆ ib₂-gu₇ gaba-bi ib₂-zi-zi
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,21,ušumgal-e saŋ ŋiš ib₂-ra-ra ka-ta ab-taka₄ i₃-ib₂-taka₄
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,22,ŋiš-gi izi ib₂-gu₇ id₂ i₃-tuku-tuku
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,23,{d}utu i₃ un-gu₇ ga un-gu₇ {ŋeš}banšur ukur₃-ra-še₃ šu-ni ib₂-ši-tum₃
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,23A,zi-ŋu₁₀ ba-e-i šu-ŋu₁₀ ha-za-a-ab
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,23B,dumu nu-mu-un-su-me-en lu₂ en₃ tar-re la-ba-an-tuku
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,24,ŋa₂-a me-na-am₃ šag₄ {d}šul-gi lugal-ŋa₂ ki-bi ha-ma-gi₄-gi₄
+c.3.1.21,Letter from Aba-indasa to Šulgi about his neglect,,24A,lugal-ŋu₁₀ en₃-ŋu₁₀ he₂-tar-re ki ama-ŋu₁₀-še₃ he₂-em-mi-ib-gi₄-gi₄

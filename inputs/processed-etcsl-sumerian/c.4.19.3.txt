@@ -1,0 +1,46 @@
+id_text,text_name,version,l_no,text
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,1,
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,2,a-ŋi₆ id₂-da kuš₇ su-gin₇ su-su
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,3,lugal-ŋu₁₀ im-mi-ni-DU
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,4,lugal u₃-tud-zu-ta he₂-ŋal₂-la saŋ
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,5,{d}nin-ŋiš-zid-da za₃-mi₂-zu dug₃-ga-am₃
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,6,ki-ru-gu₂ ₁-kam-ma-am₃
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,7,en {d}nin-ŋiš-zid-da
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,8,
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,9,ur-saŋ ki aŋ₂ an kug-ga
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,10,en kur šuba₄ gal u₃-tud-da
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,11,en igi gun₃-nu hi-li nam-ŋuruš-a
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,12,ur-saŋ gal me₃ sahar-ra-ka a₂ zid-da lugal-la
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,13,en {d}nin-ŋiš-zid-da za₃-mi₂-zu dug₃-ga šir₃-re-eš am₃-mi-ni-in-ne
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,14,ki-ru-gu₂ ₂-kam-ma
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,15,ur-saŋ ki-a kul-lu-de₃
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,16,{d}nin-ŋiš-zid-da ki aŋ₂ an kug-ga
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,17,id₂-da a-eštub he₂-e-da-ŋal₂ {d}en-ki he₂-e-da-hul₂
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,18,a-šag₄-ga še gu-nu he₂-e-da-ŋal₂ he₂-e-da-hul₂
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,19,an-še₃ saŋ il₂-la en {d}nin-ŋiš-zid-da
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,20,he₂-e-da-de₂ en {d}nin-ŋiš-zid-da
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,21,he₂-e-da-su₃-ud-de₃ umbin he₂-e-da-gid₂-de₃
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,22,en {d}nin-ŋiš-zid-da za₃-mi₂-zu dug₃-ga-am₃
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,23,ki-ru-gu₂ ₃-kam-ma-am₃
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,24,a zid mu-ri-in-ri
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,25,{d}nin-ŋiš-zid-da-ra {d}en-lil₂-le silim-ma mu-na-ab-be₂
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,26,mu-un-zu-zu kalam-ma mu-e-ši-u₃-tud
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,27,u₃-tud-da
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,28,hul₂-la-zu mu-un-ši-bar-bar-re
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,29,en {d}nin-ŋiš-zid-da za₃-mi₂-zu dug₃-ga šir₃-re-eš
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,30,am₃-mi-ni-in-ne
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,31,ki-ru-gu₂ ₄-kam-ma
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,32,ur-saŋ u₃-ma sa₂-sa₂ nam-nun-na
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,33,kug
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,34,pad₃ lugal-ŋu₁₀
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,35,mu-un-ši-X
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,36,igi-nim
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,37,
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,38,en {d}nin-ŋiš-zid-da za₃-mi₂-zu dug₃-ga šir₃-re-eš
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,39,am₃-mi-ni-in-ne
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,40,ki-ru-gu₂ ₅-kam-ma
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,41,
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,42,e₂ nam-til₃
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,43,{d}nin-ŋiš-zid-da e₂
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,44,ki gal-ta
+c.4.19.3,A hymn to Ninŋišzida (Ninŋišzida C),,45,barag

@@ -1,0 +1,44 @@
+id_text,text_name,version,l_no,text
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,1,{d}šu-{d}suen lugal-ŋu₁₀-ra u₃-na-a-dug₄
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,2,šar-ru-um-ba-ni gal-zu unken-na arad-zu na-ab-be₂-a
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,3,bad₃ gal mu-ri-iq-tidnim-e dim₂-me-de₃ kiŋ₂-gi₄-a-aš bi₂-gi₄
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,4,igi-zu mu-e-ŋar-ma
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,5,mar-tu ma-da-aš mu-un-šub-šub-bu-uš
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,6,bad₃ du₃-u₃-de₃ ŋiri₃-bi ku₅-ru-de₃
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,7,{id₂}idigna {id₂}buranuna-bi-da
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,8,gu₂-ŋiri₃-bi a-šag₄-e nam-ba-e-šu₂-šu₂ a₂-še₃ mu-e-da-aŋ₂
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,9,zi-zi-da-ŋu₁₀-ne
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,10,gu₂ {id₂}ab₂-gal-ta en-na ma-da zi-mu-dar{ki}-ra-še₃
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,11,i₃-zig₃-NE
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,12,bad₃-bi ₂₆ danna-am₃ dim₂-e-da-ŋu₁₀-ne
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,13,dal-ba-na hur-saŋ ₂-a-bi-ka sa₂ di-da-ŋu₁₀-ne
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,14,dim₂-me-ŋu₁₀-še₃ mar-tu hur-saŋ-ga-ka ib₂-tuš-a ŋeštug₂ mu-ši-in-ak
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,15,si-mu-ur₄{ki} nam-tab-ba-ni-še₃ im-ma-da-ŋen
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,16,dal-ba-na hur-saŋ ebih{ki}-ke₄ {ŋeš}tukul sag₃-ge-de₃ im-ma-ši-ŋen
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,17,u₃ ŋe₂₆-e erin₂ {gi}dusu i₃-il₂-il₂-eš-am₃ igi nu-um-mi-du₈
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,18,{ŋeš}tukul sag₃-ge-de₃ ba-ŋen-na
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,19,tukum-bi lugal-ŋa₂ an-na-kam
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,20,lu₂ kiŋ₂ ak-ne ha-ma-ab-tah-e a₂ ha-ma-ŋa₂-ŋa₂
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,21,gun₃-a ma-da sa₂ nu-ub-da-dug₄-ga dug₄-en-de₃-en
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,22,ma-da MURUB₄{ki}-še₃ lu₂-kiŋ₂-gi₄-a mu-ni-gi₄
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,23,ma-da dim₂-ma-bi ba-da-kur₂
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,24,bad₃ du₃-u₃-de₃ nu-šub-be₂-en i₃-du₃-en u₃ {ŋeš}tukul i₃-sag₃-ge-en
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,25,gal-zu unken-na im-ri-a gu-la-am₃ he₂-em-ma-da-ri
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,26,dim₂-ma ma-da nu-ub-da-kur₂-ra na de₅ mu-un-e
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,27,ud lu₂-kiŋ₂-gi₄-a-ŋu₁₀ igi-zu-še₃ mu-e-ši-gi₄-a-ŋu₁₀
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,28,eŋer-ra-ni-ta {m}lu₂-{d}nanna ensi₂ ma-da zi-mu-dar-ra{ki}-še₃
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,29,lu₂-kiŋ₂-gi₄-a mu-ni-gi₄
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,30,₇₂₀₀ erin₂ mu-e-ši-in-gi₄
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,31,lu₂ {gi}dusu ib₂-si lu₂ {ŋeš}tukul sag₃-ge bi₂-ib-tur
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,32,tukum-bi lugal-ŋu₁₀ erin₂ kiŋ₂ ak-de₃ du₈-u₃-bi ab-be₂
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,33,u₃-šub {ŋeš}tukul ga-an-da-sag₃
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,34,lu₂ gal-gal ma-da-za lu₂ in-ne-ši-in-gi₄
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,35,igi-ne-ne ma-an-ŋar-re-eš-ma
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,36,me-en-de₃ iri-iri en-nu-uŋ₃ nu-mu-da-ak-en-de₃-en
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,37,a-na-gin₇-nam ugnim a-ra-ab-šum₂-mu
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,38,lu₂-kiŋ₂-gi₄-a-ŋu₁₀ mu-na-ni-in-gi₄-eš
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,39,ud lugal-ŋu₁₀ a₂ mu-e-da-aŋ₂-ta
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,40,ud ten ŋi₆-ba kiŋ₂ im-mi-ib-gi₄-gi₄-in u₃ {ŋeš}tukul i₃-sag₃-ge-en
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,41,mu inim lugal-ŋa₂-ke₄ i₃-gub-be₂-en {ŋeš}tukul ib₂-lah₄-lah₄-e
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,42,usu nu-um-ŋar {ŋeš}tukul-ta nu-um-me-ge-en ud kur-kur he₂-en-dul
+c.3.1.15,Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay,,43,lugal-ŋu₁₀ he₂-en-zu

@@ -1,0 +1,93 @@
+id_text,text_name,version,l_no,text
+c.6.1.19,Proverbs: collection 19,,A1,hur-saŋ gig₂-ŋu₁₀ im-babbar ba-an-mu₂
+c.6.1.19,Proverbs: collection 19,,A2,ama-ŋu₁₀ {ŋeš}tir-ta lu₂ mu-ši-in-gi₄-in
+c.6.1.19,Proverbs: collection 19,,A3,šu dab₅-ba-ŋu₁₀ ma-an-šum₂
+c.6.1.19,Proverbs: collection 19,,A4,{d}nin-kilim niŋ₂ hab₂-ba gu₇-gu₇-ŋu₁₀
+c.6.1.19,Proverbs: collection 19,,A5,dug i₃-nun-na-še₃ gu₂ nu-mu-da-an-la₂
+c.6.1.19,Proverbs: collection 19,,B1,šah₂ niga ab-šum-u₃-de₃ niŋ₂ i₃-gu₇-a-ŋu₁₀ ga-ab-sug₆-e-še
+c.6.1.19,Proverbs: collection 19,,B2,{šah₂}ze₂-eh tur-re šu al-gud-gu₄-ud-de₃
+c.6.1.19,Proverbs: collection 19,,B3,sag₉-ga-aš ŋe₂₆-e nu-gu₇-e-še
+c.6.1.19,Proverbs: collection 19,,B4,en-gin₇ du₃ saŋ-gin₇ til₃
+c.6.1.19,Proverbs: collection 19,,B5,saŋ-gin₇ du₃ en-gin₇ til₃
+c.6.1.19,Proverbs: collection 19,,B6,e₂ gul-gul-e kug i₃-gul-e
+c.6.1.19,Proverbs: collection 19,,B7,e₂ gul-e kug-sig₁₇ i₃-gul-e
+c.6.1.19,Proverbs: collection 19,,B8,dam u₃-mu-un-si gam-am₃ am ug₅-ga-am₃
+c.6.1.19,Proverbs: collection 19,,B9,u₃-mu-un-si gam-am₃ arad ug₅-ga-am₃
+c.6.1.19,Proverbs: collection 19,,B10,ga-gid₂ mu-ra-ab-kud
+c.6.1.19,Proverbs: collection 19,,B11,šu-bi bar edin-na mu-da-DU
+c.6.1.19,Proverbs: collection 19,,B12,a-na-ak
+c.6.1.19,Proverbs: collection 19,,B13,he₂-en-zu
+c.6.1.19,Proverbs: collection 19,,B14,
+c.6.1.19,Proverbs: collection 19,,B15,
+c.6.1.19,Proverbs: collection 19,,C1,{d}en-lil₂-le a-na-am₃ in-ak in-bul-bul
+c.6.1.19,Proverbs: collection 19,,C2,{urud}šukur in-sig₁₀ su mu-ni-ib-te-te
+c.6.1.19,Proverbs: collection 19,,C3,{d}utu bar-ra he₂-en-ni-šu₂ ni₂-zu šu nu-zu-a kur₉-ni-ib
+c.6.1.19,Proverbs: collection 19,,C4,ŋiš-šub us₂-sa ama-zu hul₂-la
+c.6.1.19,Proverbs: collection 19,,C5,kaš₄ dug₄-ga-ab diŋir-zu hul₂-la
+c.6.1.19,Proverbs: collection 19,,C6,igi il₂-la-za dam tuku-ba-ni-ib
+c.6.1.19,Proverbs: collection 19,,C7,{d}inana-ke₄ dam ur₂ kum₂-ma ha-ra-an-nu₂-e
+c.6.1.19,Proverbs: collection 19,,C8,dumu a₂ tal₂-tal₂-la ha-ra-an-ba-e
+c.6.1.19,Proverbs: collection 19,,C9,ki niŋ₂ sag₉-ga ha-ra-ab-kiŋ₂-kiŋ₂-e
+c.6.1.19,Proverbs: collection 19,,C10,u₂ dam-da ze₂-eb u₂ ama-da ze₂-eb
+c.6.1.19,Proverbs: collection 19,,C11,{d}ezina₂-{d}ku₃-su₃ e₂-a he₂-me-da-an-til₃
+c.6.1.19,Proverbs: collection 19,,C12,{kuš}ummud zi lu₂-kam {kuš}e-sir₂ igi lu₂-kam
+c.6.1.19,Proverbs: collection 19,,C13,dam dim₄-ma lu₂-kam dumu-nitah ŋissu lu₂-kam
+c.6.1.19,Proverbs: collection 19,,C14,dumu-munus saŋ šu ŋar lu₂-kam e₂-gi₄-a gal₅-la₂ lu₂-kam
+c.6.1.19,Proverbs: collection 19,,C15,mussa-tur
+c.6.1.19,Proverbs: collection 19,,C16,{uzu}suš₂ al-ze₂-eb {uzu}i₃-udu al-ze₂-eb
+c.6.1.19,Proverbs: collection 19,,D1,
+c.6.1.19,Proverbs: collection 19,,D2,kuš
+c.6.1.19,Proverbs: collection 19,,D3,u₅{mušen}
+c.6.1.19,Proverbs: collection 19,,D4,lum-lum
+c.6.1.19,Proverbs: collection 19,,D5,um{mušen} al-sah₆ gu-du-bi am₃-kar
+c.6.1.19,Proverbs: collection 19,,D6,um{mušen}-gin₇
+c.6.1.19,Proverbs: collection 19,,D7,um{mušen}
+c.6.1.19,Proverbs: collection 19,,D8,mušen
+c.6.1.19,Proverbs: collection 19,,D10,
+c.6.1.19,Proverbs: collection 19,,D11,mul-an ku₆-da engur-ra
+c.6.1.19,Proverbs: collection 19,,D12,e₂-ta e₃ sila-ta kur₉-ra geme₂ nin-a-ni ŋišbum-ma-ni bi₂-in-tuš
+c.6.1.19,Proverbs: collection 19,,D13,gi₄-in an-ba pa nu-um-e₃ ga-ša-an-a-ni mu-ni-ib-gu-ul-gu-ul
+c.6.1.19,Proverbs: collection 19,,D14,gi₄-in-ŋen ga-ša-an-ra še-er nu-mu-un-na-ma-al
+c.6.1.19,Proverbs: collection 19,,D15,mu-ud-na-ŋu₁₀ ga-an-ze₂-e-še
+c.6.1.19,Proverbs: collection 19,,E1,
+c.6.1.19,Proverbs: collection 19,,E2,kug-zu
+c.6.1.19,Proverbs: collection 19,,E3,gal-an-zu a-ra₂
+c.6.1.19,Proverbs: collection 19,,E4,is-hab₂ ki-bid₃-da šu ša-an-ša-ša-da
+c.6.1.19,Proverbs: collection 19,,E5,šu-ni bid₃-da ba-ni-in-gid₂
+c.6.1.19,Proverbs: collection 19,,E6,kug
+c.6.1.19,Proverbs: collection 19,,E7,
+c.6.1.19,Proverbs: collection 19,,F1,
+c.6.1.19,Proverbs: collection 19,,F2,id₂ mah ki-mah-Xbr
+c.6.1.19,Proverbs: collection 19,,F3,an-ur₂ an-šag₄-ga ninda šag₄-gal-la-ni-še₃ bi₂-in-tur
+c.6.1.19,Proverbs: collection 19,,F4,šu kalam-ma-ni-ta še ba-an-da-tur
+c.6.1.19,Proverbs: collection 19,,F5,dumu-munus diŋir-da he₂-e
+c.6.1.19,Proverbs: collection 19,,F6,ninda-ni niŋ₂-ussu-zug₄ he₂-a
+c.6.1.19,Proverbs: collection 19,,F7,lu₂ nu-mu-un-šu₂-šu₂
+c.6.1.19,Proverbs: collection 19,,F8,ninda pad-paₓ-ra₂ šum₂-sikil zil₂-la₂ ninda e₂-dub-ba-a
+c.6.1.19,Proverbs: collection 19,,F9,dabin a-šag₄-ga {uzu}suš₂-am₃
+c.6.1.19,Proverbs: collection 19,,F10,
+c.6.1.19,Proverbs: collection 19,,G1,teš₂-e he₂-il₂-il₂ za-e lag-ga he₂-dur₂
+c.6.1.19,Proverbs: collection 19,,G2,{ŋeš}al ed₂-de₃
+c.6.1.19,Proverbs: collection 19,,G3,{ŋeš}al ed₂-de₃
+c.6.1.19,Proverbs: collection 19,,G4,X-ni-in-sa₂
+c.6.1.19,Proverbs: collection 19,,G5,tuku-a
+c.6.1.19,Proverbs: collection 19,,G6,nu-SU-a
+c.6.1.19,Proverbs: collection 19,,G7,
+c.6.1.19,Proverbs: collection 19,,G8,ib₂-SU-SU-e
+c.6.1.19,Proverbs: collection 19,,G9,umma{ki}
+c.6.1.19,Proverbs: collection 19,,G10,
+c.6.1.19,Proverbs: collection 19,,G11,il₂ šuruppag{ki}-ka
+c.6.1.19,Proverbs: collection 19,,G12,gu₇ u₃-bi₂-ib-be₂ ba-an-dab₅-be₂-eš
+c.6.1.19,Proverbs: collection 19,,G13,ze₂-ze₂ an-ze₂
+c.6.1.19,Proverbs: collection 19,,G14,ba-ab-gu₇
+c.6.1.19,Proverbs: collection 19,,G15,sipad šu-nim-ma engar šu-nim-ma
+c.6.1.19,Proverbs: collection 19,,G16,ŋuruš-e ud tur-ra-na-ka dam ba-tuku-tuku-u₂-a
+c.6.1.19,Proverbs: collection 19,,G17,a-ba-a mu-da-ab-sa₂-e
+c.6.1.19,Proverbs: collection 19,,G18,te-a-ni
+c.6.1.19,Proverbs: collection 19,,G19,
+c.6.1.19,Proverbs: collection 19,,H1,
+c.6.1.19,Proverbs: collection 19,,H2,
+c.6.1.19,Proverbs: collection 19,,H3,
+c.6.1.19,Proverbs: collection 19,,H4,
+c.6.1.19,Proverbs: collection 19,,H5,X-gu₇-e
+c.6.1.19,Proverbs: collection 19,,H6,

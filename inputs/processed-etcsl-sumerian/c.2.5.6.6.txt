@@ -1,0 +1,27 @@
+id_text,text_name,version,l_no,text
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,A1,ur-saŋ nam-he₂-a gu₃ ru-ru-gu₂ giri₁₇-zal
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,A2,a-a {d}iškur ud gal-la-ke₄ za-e gi₄
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,A3,bar-sud-am₃
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,A4,a-ma-ru {tum₉}u₁₈-lu mah {tum₉}mir mir-ra
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,A5,za-pa-aŋ₂-ŋa₂-ni
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,A6,gi₄-ne-eš₂ an ki
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,A7,{d}iškur-ra tum₉ ki
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,A8,nim ŋir₂-ŋir₂
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,A9,
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,B1,
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,B2,₂-kam-ma-ra {tum₉}u₁₈-lu {tum₉}mir mir-ra-da mu-X
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,B3,₃-kam-ma-ra im-hul an-na-ke₄ gaba dumu lu₂-bi
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,B4,₄-kam-ma dungu sir₂ an-na-ke₄ gu₃ im-ma-an-de₂
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,B5,gana₂ zid-da še gu-nu im-gub {d}ezina₂ hul₂-la
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,B6,{d}iškur-e niŋ₂-nam mu-un-ŋar-ŋar buru₁₄ še mah
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,B7,ur-{d}nin-urta guru₇-du₆ guru₇-maš a-gar₃ mu-na-an-dub
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,B8,ud dug₃-ga numun-bi mu-ni-in-sig₁₀ gig₂-ga
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,B9,ur-{d}nin-urta dumu an-na-ra numun-bi mu-ni-in-sig₁₀
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,B10,{d}iškur {d}inana {d}X-ke₄ til₃
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,B11,sa-ŋar-ra-am₃
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,B12,ur-{d}nin-urta šag₄ {d}nin-lil₂-la₂-ke₄ {d}iškur
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,B13,ŋiš-gi-ŋal₂-bi-im
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,B14,en ku₃-ŋal₂ an ki uŋ₃ kug zi šum₂
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,B15,a-a {d}iškur en ku₃-ŋal₂ an ki uŋ₃ kug zi šum₂
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,B16,ur-{d}nin-urta he₂-ŋal₂ hu-mu-na-ŋal₂ saŋ
+c.2.5.6.6,An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F),,B17,u₁₈-ru₁₂-bi-im

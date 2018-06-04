@@ -1,0 +1,34 @@
+id_text,text_name,version,l_no,text
+c.2.1.3,The history of the Tummal,,1,en-me-barag-ge₄-e-si lugal-e
+c.2.1.3,The history of the Tummal,,2,iri-na-nam e₂ {d}en-lil₂-la₂ in-du₃
+c.2.1.3,The history of the Tummal,,3,ag-ga dumu en-me-barag-ge₄-e-si-ke₄
+c.2.1.3,The history of the Tummal,,4,tum-ma-al{ki}-e pa bi₂-i-e₃
+c.2.1.3,The history of the Tummal,,5,{d}nin-lil₂ tum-ma-al{ki}-še₃ in-tum₃
+c.2.1.3,The history of the Tummal,,6,a-ra₂ ₁-a-kam tum-ma-al{ki} ba-šub
+c.2.1.3,The history of the Tummal,,7,{m}meš₃-an-ne₂-pad₃-da bur-šu₂-šu₂-a e₂ {d}en-lil₂-la₂ in-du₃
+c.2.1.3,The history of the Tummal,,8,{m}meš₃-ki-aŋ₂-nun-na dumu meš₃-an-ne₂-pad₃-da-ke₄
+c.2.1.3,The history of the Tummal,,9,tum-ma-al{ki}-e pa bi₂-i-e₃
+c.2.1.3,The history of the Tummal,,10,{d}nin-lil₂ tum-ma-al{ki}-še₃ in-tum₃
+c.2.1.3,The history of the Tummal,,11,a-ra₂ ₂-a-kam tum-ma-al{ki} ba-šub
+c.2.1.3,The history of the Tummal,,12,{d}gilgameš₃-e numun₂-bur-ra barag {d}en-lil₂-la₂ in-du₃
+c.2.1.3,The history of the Tummal,,13,{m}ur-lugal dumu {d}gilgameš₃-ke₄
+c.2.1.3,The history of the Tummal,,14,tum-ma-al{ki}-e pa bi₂-i-e₃
+c.2.1.3,The history of the Tummal,,15,{d}nin-lil₂ tum-ma-al{ki}-še₃ in-tum₃
+c.2.1.3,The history of the Tummal,,16,a-ra₂ ₃-a-kam tum-ma-al{ki} ba-šub
+c.2.1.3,The history of the Tummal,,17,na-an-ni {ŋeš}kiri₆ mah e₂ {d}en-lil₂-la₂ in-du₃
+c.2.1.3,The history of the Tummal,,18,{m}meš₃-ki-aŋ₂-{d}nanna dumu na-an-ni-ke₄
+c.2.1.3,The history of the Tummal,,19,tum-ma-al{ki}-e pa bi₂-i-e₃
+c.2.1.3,The history of the Tummal,,20,{d}nin-lil₂ tum-ma-al{ki}-še₃ in-tum₃
+c.2.1.3,The history of the Tummal,,21,a-ra₂ ₄-a-kam tum-ma-al{ki} ba-šub
+c.2.1.3,The history of the Tummal,,22,{d}ur-{d}namma-ke₄ e₂-kur in-du₃
+c.2.1.3,The history of the Tummal,,23,šul-gi dumu {d}ur-{d}namma-ke₄
+c.2.1.3,The history of the Tummal,,24,tum-ma-al{ki}-e pa bi₂-i-e₃
+c.2.1.3,The history of the Tummal,,25,{d}nin-lil₂ tum-ma-al{ki}-še₃ in-tum₃
+c.2.1.3,The history of the Tummal,,26,a-ra₂ ₅-a-kam tum-ma-al{ki} ba-šub
+c.2.1.3,The history of the Tummal,,27,mu {d}amar-{d}suen-ka-ta
+c.2.1.3,The history of the Tummal,,28,en-na mu {d}i-bi₂-{d}suen lugal-e
+c.2.1.3,The history of the Tummal,,29,en-am-gal-an-na en {d}inana unug{ki}-ga maš₂-e in-pad₃-de₃
+c.2.1.3,The history of the Tummal,,30,{d}nin-lil₂ tum-ma-al{ki}-še₃ i-ŋen-ŋen
+c.2.1.3,The history of the Tummal,,31,inim lu₂-{d}inana ašgab gal {d}en-lil₂-la₂-še₃ sar-re
+c.2.1.3,The history of the Tummal,,32,{d}iš-bi-er₃-ra e₂-kur igi ŋal₂-la₂
+c.2.1.3,The history of the Tummal,,33,{e₂}šutum {d}en-lil₂-la₂ in-du₃

@@ -1,0 +1,29 @@
+id_text,text_name,version,l_no,text
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,1,ni₂-tuku {d}X
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,2,{d}suen-i-din-nam ma₂ da-ni kaskal saŋ
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,3,nin gal me-te zid₂-da kug-sig₁₇ še mu-na-ŋa₂-ŋa₂
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,4,še saŋ-bi gu₂ bi₂-in-la₂-la₂ e₂-kur za-gin₃
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,5,kar nam-til₃-la kar urim₅{ki}-ma-še₃ gu₂-un-bi im-mi-ni-u₅
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,6,e₂ mah-a e₂ {d}suen-na-še₃ hul₂-la ba-ni-in-kur₉
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,7,lugal-ra {d}nanna mu-da-hul₂ {d}nin-gal
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,8,{d}suen-i-din-nam {d}nanna mu-da-hul₂ {d}nin-gal
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,9,{d}a-nun-na diŋir gal-gal-e-ne šudu₃ mu-na-ša₄-aš
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,10,he₂-ŋal₂ nesaŋ₂ sikil nesaŋ₂ zag-mu-ka šu gal mu-un-du₇-du₇
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,10A,kar nam-til₃-la kar urim₅{ki}-ma-še₃ gun₂-bi im-mi-ni-u₅
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,11,{d}suen-e nidba si bi₂-in-sa₂ nibru{ki}-še₃ un-tum₃
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,11A,e₂-kur-re e₂ {d}en-lil₂-la₂-še₃ ba-X-X-ni-kur₉
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,12,{d}en-lil₂ nidba-da hul₂-la-e nam dug₃ mu-ni-tar
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,13,ama ugu-a-ni nin gal {d}nin-lil₂-la₂ mi₂ zid na-mu-un-dug₄
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,13A,{d}suen-e {d}en-lil₂ {d}nin-lil₂-ra gu₃ mu-ne-de₂-e
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,14,nam {d}suen-i-din-nam su₃-ra₂-še₃ tar-re-e-de₃ šu mu-un-ne-mu₂-mu₂
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,15,sipad sun₅-na gu₃ zid mi-ni-de₂-za-na nam-til₃
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,16,{d}suen-i-din-nam gu₃ zid mi-ni-de₂-za-na nam-til₃
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,17,zi ud su₃-ra₂ ŋal₂ nam-tar-ra zid nam-e-eš he₂-en-tar
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,18,ŋiš-šub-ba til₃-le ud da-ri₂-ka saŋ-e-eš he₂-en-ba
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,19,še saŋ-bi e₂-kur za-gin₃-še₃ ŋe₂₆-e ma-ra-e-gin₇
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,20,ninda gur₄ še hal-bi-gin₇ mu-bi he₂-eb₂-gu₅-ul
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,21,mu sag₉-sag₉ ud til₃-la itid silim-ma e-ne ga-sig₁₀-ga-de₃-en
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,22,e₂-gal-a-na ur₅ sag₉-ga šag₄ hul₂-la šu du₇ mu-ne-DU-en
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,23,{d}suen-i-din-na-am inim sag₉-sag₉-ge mu-un-ba til₃-le niŋ₂-ba-bi he₂-me-en
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,24,{ŋeš}gu-za nam-lugal-la saŋ he₂-il₂-la du-ri₂-še₃ he₂-u₃-tud
+c.2.6.6.1,A praise poem of Sîn-iddinam (Sîn-iddinam A),,25,ud ul-še₃ mu-ni-ir gal-e kur šu₄-mu-un-na-ab-ze₂-en

@@ -1,0 +1,74 @@
+id_text,text_name,version,l_no,text
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,1,gal₅-la₂ tur ka ba-a-ši-ba₉-re₆ gal₅-la₂ gu-la-ra gu₃ mu-na-de₂-e
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,2,ŋa₂-nam-ma-an-ze₂-en ur₂ kug {d}inana-ka-še₃ ga-da-re₇-en-de₃-en
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,3,gal₅-la₂ unug{ki}-še₃ ba-ni-in-kur₉-re-eš kug {d}inana-ke₄ mu-ni-in-dab₅-be₂-ne
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,4,ŋa₂-nu {d}inana kaskal-zu-še₃ ni-ba ŋen-na kur-še₃ ed₃-de₃
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,5,ki šag₄-ge de₆-a-zu-še₃ ŋen-na kur-še₃ ed₃-de₃
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,6,ki {d}ereš-ki-gal-la-še₃ ŋen-na kur-še₃ ed₃-de₃
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,7,tug₂-ba₁₃ kug {tug₂}pala₃-a tug₂ nam-nin-zu nam-ba-mu₄-mu₄-un kur-še₃ ed₃-de₃
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,8,men kug me-te ka silim-ma saŋ-zu-a um-ta-ŋa₂-ar kur-še₃ ed₃-de₃
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,9,hi-li-a igi-zu la-ba-ni-in-du₇ kur-še₃ ed₃-de₃
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,10,ŋiri₃-zu X-du₈-du₈ kur-še₃ ed₃-de₃
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,11,ud za-e ed₃-de₃-da nu-BU-BU
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,12,kug {d}inana-ke₄ mu-un-bur₂-bur₂-re-eš
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,13,{d}inana ni₂-te-na {d}dumu-zid šu-še₃ ba-an-šum₂
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,14,ŋuruš-e {ŋeš}rab₃ mah ŋiri₃-ni im-ma-an-ŋar-re-en-de₃-en
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,15,ŋuruš-e {ŋeš}es₂-ad šu-ni šub-bu-de₃-en-de₃-en ŋiš-gu₂ gu₂-ni ŋar-re-en-de₃-en
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,16,urud-henzer {urud}kibir₂ {urud}šukur mah-e igi-ni-še₃ ba-an-ši-ib₂-il₂-il₂
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,17,{urud}ha-zi-in gal-gal-la u₃-sar i₃-ak-e-ne
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,18,ŋuruš-e mu-ni-in-gub-bu-de₃-eš mu-ni-in-dur₂-de₃-eš
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,19,tug₂-gun₅-na-ni šub-bu-de₃-en-de₃-en gub-bu-de₃-en-de₃-en
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,20,ŋuruš-e a₂-na mu-un-la₂-e-de₃-eš tug₂-eš hul mu-un-ši-ak-eš
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,21,tug₂ ni₂-te-na igi-na mu-ni-in-dul-u₃-de₃-eš
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,22,ŋuruš-e {d}utu-ra an-še₃ šu-ni ba-an-ši-zig₃
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,23,{d}utu gu₅-li-zu ŋe₂₆-e-me-en šul-me-en za-e mu-zu
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,24,nin₉-zu nam-dam-še₃ ba-an-tuku-a
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,25,e-ne kur-še₃ ed₃-de₃
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,26,mu e-ne kur-še₃ ed₃-de₃
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,27,ŋe₂₆-e ki-ŋar-ra-bi-še₃ kur-še₃ ba-ab-šum₂-mu-de₃
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,28,{d}utu di-kud niŋ₂-si-sa₂ za-e-me-en nam-ba-lul-de₃
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,29,šu-ŋa₂ u₃-mu-e-kur₂ ulutim₂-ŋu₁₀ u₃-mu-e-bal
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,30,šu gal₅-la₂-ŋu₁₀-ne ga-ba-e-da-an-ze-er nam-mu-ha-a-za-aš
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,31,muš-saŋ-kal-gin₇ šag₄-tum₂ hur-saŋ-ŋa₂ mu-ni-in-bal-bal
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,32,ki nin₉ {d}ŋeštin-an-na-še₃ zi-ŋu₁₀ ga-ba-an-ši-in-de₆
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,33,{d}utu er₂-na šu ba-an-ši-in-ti
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,34,šu-ni mu-ni-in-kur₂-kur₂ ulutim₂-ma-ni mu-ni-in-bal-bal
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,35,muš-saŋ-kal-gin₇ šag₄-tum₂ hur-saŋ-ŋa₂ mu-ni-in-bal-bal
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,36,{d}dumu-zid-de₃ mušen-še₃ sur₂-du₃{mušen} dal-a-gin₇ zi-ni ur₅-da i₃-šub-ba
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,37,ki {d}ŋeštin-an-na-še₃ zi-ni ba-ši-in-de₆
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,38,{d}ŋeštin-an-na šeš-a-ni igi ba-ni-in-du₈-am₃
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,39,te-na mu-ni-in-hur-hur giri₁₇-na mu-ni-in-hur-hur
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,40,igi-ni zag-ga-na mi-ni-in-du₈ tug₂-ni mi-ni-in-da-da-ra
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,41,ŋuruš aŋ₂-gig-ra i-lu aŋ₂-gig-ga hu-mu-ni-ib₂-be₂
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,42,a šeš-ŋu₁₀ a šeš-ŋu₁₀ ŋuruš ud-bi nu-um-si
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,43,a šeš-ŋu₁₀ su₈-ba {d}ama-ušumgal-an-na ŋuruš ud-bi mu-bi nu-um-si
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,44,a šeš-ŋu₁₀ ŋuruš dam nu-tuku dumu nu-tuku
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,45,a šeš-ŋu₁₀ ŋuruš gu₅-li nu-tuku dub₃-us₂-sa nu-tuku
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,46,a šeš-ŋu₁₀ ŋuruš ama-ni sag₉-ga-ni nu-du₈
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,47,gal₅-la₂ {d}dumu-zid-de₃ mu-ni-in-kin-kin-ne mu-ni-in-niŋin₂-niŋin₂-na-eš
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,48,gal₅-la₂ tur gal₅-la₂ gu-la-ra gu₃ mu-na-de₂-e-ne
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,49,gal₅-la₂ ama nu-tuku ad-da ama nin₉ šeš dam dumu nu-tuku-me-eš
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,50,ud me-da gal uŋ₃ ŋar-ra an ki-ta ri-a-bi
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,51,za-e-ne-ne gal₅-la₂-ze₂-en lu₂ zag-ga-ni gi-šukur-gin₇
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,52,šu ŋar sag₉-ga nu-tuku-me-eš sag₉-ga hul nu-zu-me-eš
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,53,lu₂-u₃ e₂ nu ni₂-te-na zi-ni silim-ma a-ba-a igi mi-ni-in-du₈
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,54,ki gu₅-li-bi nu-um-ši-du-de₃-en ki mussa-bi nu-um-ši-du-de₃-en
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,55,su₈-ba-ra ki {d}ŋeštin-an-na-ka-še₃ ga-an-ši-re₇-en-de₃-en
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,56,gal₅-la₂-e-e-ne šu-ta ba-ab-sag₃-sag₃-ge-me-eš mu-ni-in-kin-kin-ne-eš
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,57,i-lu-bi ka-ga₁₄-na nu-mu-un-til-la-am₃
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,58,gal₅-la₂ ki {d}ŋeštin-an-na-še₃ ba-e-ši-re₇-eš
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,59,ki šeš-zu la₂-ma-ra-ab e-ne mu-ni-ib₂-be₂-e-ne inim-bi nu-mu-na-ab-be₂
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,60,hab ni₂-te ki ur₂-ra ba-ni-in-ze₂-eŋ₃ inim-bi nu-mu-na-ab-be₂
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,61,ni₂-te ki igi-na ba-ni-in-hur-hur inim-bi nu-mu-na-ab-be₂
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,62,kuš ni₂-te ki dur₂-na ba-ni-in-kar₂-kar₂ inim-bi nu-mu-na-ab-be₂
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,63,esir₂ ur₂-ra-na ba-ni-in-de₂-de₂ inim-bi nu-mu-na-ab-be₂
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,64,{d}dumu-zid-de₃ e₂ {d}ŋeštin-an-na-ke₄ nu-um-me-ni-in-pad₃-de₃
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,65,gal₅-la₂ tur gal₅-la₂ gu-la-ra gu₃ mu-na-de₂-e-ne
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,66,ŋa₂-nam-ma-an-ze₂-en amaš kug-ga-še₃ ga-an-ši-re₇-de₃-en
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,67,{d}dumu-zid-de₃ amaš kug-ga-ta mu-ni-in-dab₅-be₂-de₃-eš
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,68,mu-ni-in-niŋin₂-niŋin₂-ne-eš mu-ni-in-dab₅-be₂-de₃-eš
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,69,mu-ni-in-kin-ne-eš igi ba-ni-in-du₈-am₃
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,70,ŋuruš-ra e₂ nu-nam-ma {urud}ha-zi-in šu ŋal₂ ba-ši-in-ti
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,71,ŋiri₂-ur₃-ra mu-ni-in-sar-sar-re-eš ki-sig₉-ga mu-ni-in-dub₂-eš
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,72,nin₉-e na-aŋ₂ šeš-na-še₃ iri-a mušen-gin₇ im-ma-an-niŋin₂-niŋin₂
+c.1.4.1.1,Dumuzid and Ŋeštin-ana,,73,šeš-ŋu₁₀ aŋ₂-gig-ga gal šu ga-de₆ ŋa₂-na me ga-an-te

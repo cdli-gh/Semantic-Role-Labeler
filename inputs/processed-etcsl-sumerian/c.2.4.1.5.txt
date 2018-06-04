@@ -1,0 +1,41 @@
+id_text,text_name,version,l_no,text
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,1,abula-zu e₃-a a mah gaba-šu-ŋar nu-tuku
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,2,eš₃ urim₅{ki} šag₄-zu kur he₂-ŋal₂ bar-zu hur-saŋ he-nun-na
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,3,e₂-kiš-nu-ŋal₂ hur-saŋ galam-ma šag₄-bi lu₂ nu-zu
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,4,ki ut ti-zu {ŋeš}erin-na mu-zu-še₃ kalam hul₂-a
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,5,en-zu en sig₇-ga mu pad₃-da
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,6,dumu {d}nin-sumun₂-ka me-te kur-kur-ra
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,7,urim₅{ki} me gal-zu a-ra₂-ab diŋir-re-ne
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,8,kalam-ma ŋal₂-la teš₂ mu-zu he₂-i-i
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,9,kan₄-zu an sig₇-ga su zig₃ gur₃-ru
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,10,ŋal₂ da₁₃-da₁₃-bi {d}utu an-ur₂-ta ud mi-ne-ŋar-ra-ta
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,11,gi-ša₃-zu-ta ki nam tar-re diŋir-re-ne
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,12,di si sa₂ kud-me-en teš₂ mu-zu he₂-i-i
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,13,šag₄-ga-zu-ta ŋiš-hur zid-da hul-ŋal₂ nu-dab₅-be₂
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,14,e₂-kiš-nu-ŋal₂ šag₄-zu ušumgal hul-ŋal₂ nu-un-zu
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,15,e₂ gi-gun₄-na-zu nidba-zu {d}en-lil₂ su₃-ru
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,16,dub-la₂-mah ki nam tar-re-za diŋir gal-gal-e-ne
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,17,nam mi-ni-ib-tar-re-ne
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,18,e₂-temen-ni₂-gur₃-ru tum₂-ma
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,19,u₃-tud-da teš₂ mu-zu he₂-i-i
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,20,en sig₇-ga sipad zid ur-{d}namma
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,21,urim₅{ki}
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,22,e₂ sig₃-ga {d}utu-gin₇
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,23,teš₂ mu-zu he₂-i-i ur-{d}namma
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,24,sun₄ za-gin₃ sud-sud
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,25,lugal hi-li gur₃-ru me-lem₄ kalam-ma dul-la
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,26,ur-{d}namma {d}aš-im₂-babbar-re šag₄ kug-ge ba-ni-in-pad₃
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,27,niŋ₂-erim₂ igi-ni-še₃ nu-dib-ba niŋ₂-si-sa₂
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,28,{d}ur-{d}namma-ke₄ niŋ₂-gur₁₁ sa₂ bi₂-in-dug₄
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,29,lugal-e pa-mul-pa-mul zu
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,30,{d}ur-{d}namma-ke₄ maš-gi-i-i im-me
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,31,inim zu en-na-ke₄ pa-mul-pa-mul zu
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,32,{d}ur-{d}namma-ke₄ maš-gi-i-i im-me
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,33,lugal-e e₂ {d}suen-na-ke₄
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,34,{d}ur-{d}namma-ke₄ ni₂ he₂-eb-ši-ib₂-te-en-ten
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,35,lugal-e {id₂}idigna {id₂}buranuna-ke₄
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,36,{d}ur-{d}namma-ke₄ nam mu-ni-ib-tar-re
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,37,nin-bi nin niŋ₂-gur₁₁-ra-ke₄ nin e₂
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,38,{d}ur-{d}namma-ke₄ nam mu-ni-ib-tar-re
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,39,munus a nun-na-ke₄ mi₂ zid-de₃-eš mu-un-e
+c.2.4.1.5,A šir-namšub (?) to Nanna for Ur-Namma (Ur-Namma E),,40,{d}ur-{d}namma-ke₄

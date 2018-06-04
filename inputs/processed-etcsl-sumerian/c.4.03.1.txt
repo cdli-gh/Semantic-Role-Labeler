@@ -1,0 +1,27 @@
+id_text,text_name,version,l_no,text
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,A1,nun gal {d}en-ki an ki mi₂ mu-ri₂-in-dug₄
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,A2,e₂-gi₄-a {d}am-an-ki nam zid-de₃-eš tar-re
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,A3,sumun₂ gal ulutim₂-bi dirig-ga niŋ₂-ul-e-eš rib-ba
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,A4,nitalam-zu en gal {d}nu-dim₂-mud zag kalam-ma šu du₇
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,A5,en igi-ŋal₂-la an lugal šum₂-mu ad gi₄-gi₄ gal-zu
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,A6,en gal-an-zu dug₄-ga-ni saŋ-ba du kug-zu niŋ₂-nam-ma-kam
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,A7,mas-su mah šag₄ {d}en-lil₂-la₂-ka sig₁₀-ge₅ me-bi sag₂ nu-di
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,A8,ŋeštug₂ daŋal mu dug₃-ga sa₄-a eš-bar-e šum₂-X
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,A9,u₃-tud-da zu šag₄
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,B1,an lugal
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,B2,u₃-sumun₂ zid
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,B3,zi nam-til₃
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,B4,lu₂-ulu₃-bi
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,B5,ne-saŋ ŋar-ra
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,B6,ur₅ sag₉-ge šag₄
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,B7,nam-til₃ zi sud
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,B8,e₂ kaš de₂-a i₃ {ŋeš}erin-na
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,C1,{dug}šakir₃
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,C2,nun gal {d}en-ki
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,C3,e₂
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,D1,abzu me-bi
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,D2,sag₉-ga lu₂
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,D3,saŋ il₂ nam-nin-a za₃-mi₂-zu
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,D4,eridug{ki} kur he₂-ŋal₂-la-zu dam-bi nu-til-e
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,D5,diŋir gal-gal-e-ne u₃-tud-bi he₂-a diŋir-bi he₂-em
+c.4.03.1,A šir-šag-hula to Damgalnuna (Damgalnuna A),,D6,šir₃-šag₄-hul₂-la {d}dam-gal-nun-na-kam

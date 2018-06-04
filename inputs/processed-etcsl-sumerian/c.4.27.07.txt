@@ -1,0 +1,182 @@
+id_text,text_name,version,l_no,text
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,1,lugal gu₂-za
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,2,suh₁₀-bi ši-du₈
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,3,nam-lugal-zu
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,4,pa ši-im-me
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,5,ur-saŋ {d}nin-urta gu₂-za
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,6,suh₁₀-bi ši-du₈
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,7,ur-saŋ {d}pa-bil-saŋ
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,8,gu₂-za suh₁₀-bi ši-du₈
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,9,ur-saŋ {d}nin-ŋir₂-su
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,10,gu₂-za suh₁₀-bi ši-du₈
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,11,nam-lugal-zu pa ši-im-me
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,12,nam-lugal-zu
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,13,an-na mu-un-ŋal₂
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,14,ki-a mu-un-ŋal₂
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,15,{d}en-ki-da barag kug-ga
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,16,za-e ša-mu-un-de₃-tuš-en
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,17,ur-saŋ kur gul-gul
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,18,iri{ki} lah₄
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,19,ki-bal-še₃ bi₂-du₇-du₇
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,20,ur-saŋ {d}nin-urta
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,21,kur gul-gul iri lah₄
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,22,ur-saŋ {d}pa-bil-saŋ
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,23,kur gul-gul iri lah₄
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,24,ur-saŋ {d}nin-ŋir₂-su
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,25,kur gul-gul iri lah₄
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,26,ki-bal-še₃ bi₂-du₇-du₇
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,27,lugal ud an-ta ra-ra
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,28,en gaba-ri nu-tuku-me-en
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,29,ur-saŋ iri-za bad₃ gal-bi-me-en
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,30,mu mah-zu he₂-pad₃-de₃
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,31,ur-saŋ {d}nin-urta
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,32,iri-za bad₃ gal-bi-me-en
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,33,ur-saŋ {d}pa-bil-saŋ
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,34,iri-za bad₃ gal-bi-me-en
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,35,ur-saŋ {d}nin-ŋir₂-su
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,36,iri-za bad₃ gal-bi-me-en
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,37,mu mah-zu he₂-pad₃-de₃
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,38,dur₃-zu
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,39,ud inim dug₄-dug₄-ga
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,40,{ŋeš}kiri₆ {ŋeš}meš₃-e ba-dab₅-be₂-eš
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,41,{d}šakkan₂ lugal anše-ke₄
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,42,ŋiri₃-za im-mi-in-sig₉
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,43,ur-saŋ ni₂-zu
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,44,kur-ra ša-mu-un-ri
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,45,nam-mah-zu kur-kur-re bi₂-dul
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,46,ur-saŋ {d}nin-urta
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,47,ni₂-zu kur-ra ša-mu-ri
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,48,ur-saŋ {d}pa-bil-saŋ
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,49,ni₂-zu kur-ra ša-mu-ri
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,50,ur-saŋ {d}nin-ŋir₂-su
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,51,ni₂-zu kur-ra ša-mu-ri
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,52,nam-mah-zu kur-kur-re bi₂-dul
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,53,dur₃-zu
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,54,ud inim dug₄-dug₄-ga
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,55,{ŋeš}kiri₆ {ŋeš}meš₃-e ba-dab₅-be₂-eš
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,56,{d}šakkan₂ lugal anše-ke₄
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,57,ŋiri₃-za im-mi-in-sig₉
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,58,barag nibru{ki}-ka dur₂ bi₂-in-ŋar
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,59,a-a {d}en-lil₂-da
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,60,za-e ša-mu-un-da-tuš-en
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,61,dumu ur-saŋ
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,62,a-a {d}en-lil₂-la₂-me-en
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,63,e₂-kur-ra bi₂-in-gub-be₂-en
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,64,barag ki lagaš{ki}-ka
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,65,dur₂ bi₂-in-ŋar
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,66,kug ama {d}nanše dug₄-ga-na-ab
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,67,{d}utu-gin₇
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,68,a₂ bad hu-mu-ri-in-tum₂
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,69,ki-gub hu-mu-ra-an-pad₃-de₃
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,70,si-muš₂-zu-a ni₂ nu-un-te
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,71,a₂-ur₂-za gu₂-da he₂-em-mi-la₂
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,72,nin-ŋu₁₀ lu₂ me dug₃-dug₃-ga-ke₄
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,73,unu₂ šuba
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,74,gu₂
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,76,ur-saŋ kal-kal-a-am₃
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,77,inim-ma-ni mah-am₃
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,78,{d}utu kalam-ma-kam
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,79,sa₂ gal pad₃-da
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,80,e₂-ama-{d}lamma
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,81,{d}nin-urta
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,82,kal-kal-a-am₃
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,83,{d}pa-bil-saŋ kal-kal-a-am₃
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,84,{d}nin-ŋir₂-su kal-kal-a-am₃
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,85,inim-ma-ni mah-am₃
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,86,{d}utu kalam-ma-kam
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,87,sa₂ gal pad₃-da e₂-ama-{d}lamma
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,88,ur-saŋ e₂
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,89,kur-kur-ra iri{ki}-bi ki me₃-ka
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,90,za-ra e₂ šum₂-mu e₂-ama-{d}lamma
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,91,{d}nin-urta e₂
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,92,{d}pa-bil-saŋ e₂
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,93,{d}nin-ŋir₂-su e₂
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,94,kur-kur-ra iri-bi ki me₃-ka
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,95,za-ra e₂ šum₂-mu e₂-ama-{d}lamma
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,96,tir su₃-ra₂-su₃-ra₂
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,97,gaba-bi bur₂-bur₂-ra
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,98,lugal-da la₂-a-bi
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,99,am₃-da-ŋal₂-la na-nam e₂-ama-{d}lamma
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,100,tir ma₂-su su₃-ra₂
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,101,kur-ra kar-ra
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,102,uš mu-da-la₂-a-na
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,103,lu₂-bi e₂ a-a-na
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,104,uš-e mi-ni-in-ku₅-re
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,105,e₂-ama-{d}lamma
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,106,lu₂-kur₂-ra a-a-na
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,107,uš mu-da-an-la₂-a-na
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,108,lu₂-bi e₂ a-a-na
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,109,uš-e mi-ni-in-ku₅-re
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,110,e₂-ama-{d}lamma
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,111,ŋiš-gi₄-ŋal₂-bi-im
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,112,ur-saŋ a₂ mah šeŋ₃ ud-da-ni
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,113,nam-mu-un-ši-da₁₃-da₁₃-a-am₃
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,114,ur-saŋ {d}nin-urta a₂ mah
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,115,ur-saŋ {d}pa-bil-saŋ a₂ mah
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,116,ur-saŋ {d}nin-ŋir₂-su
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,117,a₂ mah šeŋ₃ ud-da-ni
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,118,nam-mu-un-ši-da₁₃-da₁₃-a-am₃
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,119,lugal-ŋu₁₀ iri{ki} lah₄ a-a-na
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,120,nam-ur-saŋ-ŋa₂-ni
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,121,ur-saŋ {d}nin-urta
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,122,iri{ki} lah₄ a-a-na
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,123,ur-saŋ {d}pa-bil-saŋ
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,124,iri lah₄ a-a-na
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,125,ur-saŋ {d}nin-ŋir₂-su
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,126,iri lah₄ a-a-na
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,127,nam-ur-saŋ-ŋa₂-ni
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,128,lugal-ŋu₁₀ kur-re
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,129,
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,130,inim mu-e-da-gi₄
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,131,ur-saŋ {d}nin-urta
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,132,kur sig₁₀-ge₅ ak-a-gin₇
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,133,mu-e-da-peš₁₁-peš₁₁-e
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,134,lugal-ŋu₁₀ gaba a-ab-ba
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,135,aš-me-da na-dul
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,136,ud-ba ku₆-ze-en ha-ra-li-ta
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,137,en-na-tum₃ im-me-en
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,138,{na₄}gug {na₄}za-gin₃ kur me-luh-ha{ki}-ta
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,139,en-na-tum₃ im-me-en
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,140,{na₄}du₈-ši-a kur mar-ha-ši{ki}-ta
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,141,en-na-kam im-me-en
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,142,kug-babbar iri{ki} ₁₅-ta
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,143,en-na-kam im-me-en
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,144,urud nagga ma₂-gan{ki}-na-ta
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,145,en-na-kam im-me-en
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,146,zabar
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,147,
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,148,im-me-en
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,149,kug-babbar dilmun{ki}-na-ta
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,150,en-na-tum₃ im-me-en
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,151,im-kalag-ga ka hur-saŋ-ŋa₂-ta
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,152,en-na-kam im-me-en
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,153,im-babbar-ra hur-saŋ dadag-ga-ta
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,154,en-na-kam im-me-en
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,155,
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,156,
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,157,
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,158,
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,159,
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,162,
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,165,e₂ ki-bal e za-e za-e e ŋe₂₆-e ŋe₂₆-e
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,166,e₂ ki-bal im-zu abzu-ba
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,167,me-na bi₂-ib-gi₄-gi₄
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,168,e₂ ki-bal gi-zu ŋiš-gi-ba
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,169,me-na bi₂-ib-gi₄-gi₄
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,170,e₂ ki-bal ŋiš-ur₃-zu tir-tir-ba
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,171,me-na bi₂-ib-gi₄-gi₄
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,172,lu₂-kur₂-ra bad₃-da
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,173,giri₁₇ šu am₃-mi-in-ŋal₂
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,174,lugal-ŋu₁₀ ni₂ er₉ rib-ba-za
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,175,nu-uš-in-ga-zu-am₃
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,176,ur-saŋ {d}nin-urta ni₂ mah-a-za
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,177,nu-uš-in-ga-zu-am₃
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,178,ur-gu-la-gin₇ lu₂ gu₇-za
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,179,nu-uš-in-ga-zu-am₃
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,180,ušumgal-gin₇
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,181,nu-uš-in-ga-zu-am₃
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,182,ur-mah-gin₇ maš₂ sila₄
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,183,nu-uš-in-ga-zu-am₃
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,184,ki-šu₂-bi-im
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,185,šir₃-nam-šub-ba
+c.4.27.07,A šir-namšub to Ninurta (Ninurta G),,186,{d}nin-urta-kam

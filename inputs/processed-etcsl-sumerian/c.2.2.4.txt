@@ -1,0 +1,324 @@
+id_text,text_name,version,l_no,text
+c.2.2.4,The lament for Nibru,,1,tur₃ me nun-e ba-du₃-a-bi
+c.2.2.4,The lament for Nibru,,2,lil₂-e a-gin₇ ib₂-sag₃ ki-bi me-na gi₄-gi₄
+c.2.2.4,The lament for Nibru,,3,še-eb na-aŋ₂-tar-ra ba-mar-ra re
+c.2.2.4,The lament for Nibru,,4,me-bi a-ba-a in-bir-re a-še-er ba-da-tab
+c.2.2.4,The lament for Nibru,,5,šudum nibru{ki} eš₃ dur-an-ki-a
+c.2.2.4,The lament for Nibru,,6,lil₂-e a-gin₇ ib₂-sag₃ ki-bi me-na gi₄-gi₄
+c.2.2.4,The lament for Nibru,,7,ki-ur₃ ki gal ba-du₃-a-bi
+c.2.2.4,The lament for Nibru,,8,še-eb e₂-kur-ra ba-du₃-a-bi
+c.2.2.4,The lament for Nibru,,9,ub-šu-unken-na ba-du₃-a-bi
+c.2.2.4,The lament for Nibru,,10,eš₃ e₂-gal-mah ba-du₃-a-bi
+c.2.2.4,The lament for Nibru,,11,lil₂-e a-gin₇ ib₂-sag₃ ki-bi me-na gi₄-gi₄
+c.2.2.4,The lament for Nibru,,12,uru₂ zid šag₄-sug₄-ga a-gin₇ ba-an-du₃
+c.2.2.4,The lament for Nibru,,13,ŋiš-hur kal-la-bi šu pe-el-la ba-ab-dug₄
+c.2.2.4,The lament for Nibru,,14,uru₂-a i₃-zi-iŋ₃-bi a-gin₇ ba-an-šub
+c.2.2.4,The lament for Nibru,,15,ŋarza mah-bi šu suh₃-a ba-ab-dug₄
+c.2.2.4,The lament for Nibru,,16,nibru{ki} šag₄-ba me hal-hal-a
+c.2.2.4,The lament for Nibru,,17,uŋ₃ saŋ gig₂-ga numun zid ib₂-i-i-a
+c.2.2.4,The lament for Nibru,,18,uru₂ šag₄-bi umuš ba-ra-pad₃-da
+c.2.2.4,The lament for Nibru,,19,{d}a-nun-na-ke₄-ne na ba-an-de₅-ge-eš-am₃
+c.2.2.4,The lament for Nibru,,20,ub-šu-unken-na ki di gal ku₅-ru
+c.2.2.4,The lament for Nibru,,21,eš-bar-e si sa₂ ba-ra-an-zu-uš-am₃
+c.2.2.4,The lament for Nibru,,22,diŋir-be₂-ne ki-tuš ba-ab-ŋar-ra
+c.2.2.4,The lament for Nibru,,23,šukur₂-ud-bi im-šub-ba barag-bi im-ri-a
+c.2.2.4,The lament for Nibru,,24,KI.LUGAL.GUB kug kiŋ₂-sig₇ unu₂ gal-ba
+c.2.2.4,The lament for Nibru,,25,kurun₂ lal₃ bal-bal-e nam-še₃ bi₂-ib₂-tar-ra
+c.2.2.4,The lament for Nibru,,26,nibru{ki} uru₂ ŋissu daŋal-la-bi-še₃
+c.2.2.4,The lament for Nibru,,27,uŋ₃ saŋ gig₂-ga ni₂ im-ši-ib₂-te-en-na
+c.2.2.4,The lament for Nibru,,28,ki-tuš-ba gu₂-zal-a-gin₇ ba-ra-an-šub
+c.2.2.4,The lament for Nibru,,29,ab₂ sag₂ dug₄-ga-gin₇ e-ne sag₂ ba-ra-an-dug₄
+c.2.2.4,The lament for Nibru,,30,uru₂ šag₄-bi er₂ gig dirig-ga
+c.2.2.4,The lament for Nibru,,31,en-na-me-še₃ diŋir ga-ša-an-bi en₃-bi nu-tar-re
+c.2.2.4,The lament for Nibru,,32,e₂ gu-la za-pa-aŋ₂ ib₂-zu-a-bi
+c.2.2.4,The lament for Nibru,,33,e₂-ri-a sug₄-gin₇ lu₂ nu-un-ku₄-ku₄
+c.2.2.4,The lament for Nibru,,34,nibru{ki} iri{ki} barag-barag gal-gal-e-ne šu im-ma-an-peš₁₁-eš-a-aš a-na-aš u₂-gu i₃-ni-in-de₂-eš
+c.2.2.4,The lament for Nibru,,35,uŋ₃ saŋ gig₂-ga u₂ hi-a udu-gin₇ bi₂-ib₂-gu₇-a
+c.2.2.4,The lament for Nibru,,36,ud en-še₃ i₃-šub er₂ a-nir šag₄ sag₃ ur₅ uš₂-a
+c.2.2.4,The lament for Nibru,,37,en-še₃ bar bi₂-ib-tab₂ šag₄ nu-ub-ši-huŋ-e
+c.2.2.4,The lament for Nibru,,38,{kuš}šem₅ {kuš}a₂-la₂ mu-un-du₁₂-a re
+c.2.2.4,The lament for Nibru,,39,i-lu gig-ga-a a-na-še₃ ud mi-ni-ib₂-zal
+c.2.2.4,The lament for Nibru,,40,balaŋ di šeg₁₂-ba e-ne ba-dur₂-ru-ne-eš
+c.2.2.4,The lament for Nibru,,41,kuš₂-a ŋar-ra-bi er₂-še₃ ba-ab-be₂-ne
+c.2.2.4,The lament for Nibru,,42,lu₂ dam šub-ba dumu šub-ba-ne
+c.2.2.4,The lament for Nibru,,43,a uru₂ hul-a-me šir₃-re-eš ba-ab-be₂-ne
+c.2.2.4,The lament for Nibru,,44,uru₂-bi e₃-a ki-tuš-bi kar-ra
+c.2.2.4,The lament for Nibru,,45,šeg₁₂ uru₂ ze₂-ba-še₃ im-ši-šir₃-šir₃-e-ne-eš
+c.2.2.4,The lament for Nibru,,46,er₂ dug₄-ga balaŋ di-ne-ne-eš₂
+c.2.2.4,The lament for Nibru,,47,a₂-e₃ lu₂-ed₃-da umuš-bi nu-zu-gin₇
+c.2.2.4,The lament for Nibru,,48,uŋ₃ ba-sag₃ dim₂-ma-bi ba-suh₃
+c.2.2.4,The lament for Nibru,,49,e₂ zid-de₃ er₂ gig-ga-bi im-me
+c.2.2.4,The lament for Nibru,,50,ki-ru-gu₂ ₁-a-kam
+c.2.2.4,The lament for Nibru,,51,e₂ mu-un-du₃ {d}nin-lil₂
+c.2.2.4,The lament for Nibru,,52,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.4,The lament for Nibru,,53,e₂ zid-de₃ er₂ a-še-er ma-ra-ba
+c.2.2.4,The lament for Nibru,,54,šir₃ gig-ga im-me šu-luh zid ha-lam-ma-še₃
+c.2.2.4,The lament for Nibru,,55,še-eb e₂-kur-ra-ke₄ er₂ a-še-er ma-ra-ba
+c.2.2.4,The lament for Nibru,,56,šir₃ gig-ga im-me šu-luh zid ha-lam-ma-še₃
+c.2.2.4,The lament for Nibru,,57,ŋarza mah ŋiš-hur kal-kal šu hul dug₄-ga er₂ gig i₃-še₂₂-še₂₂
+c.2.2.4,The lament for Nibru,,58,šukur₂ šub-šub-ba kug-kug-ga-bi ki-sig₁₀-ga muš₂-am₃-bi im-me
+c.2.2.4,The lament for Nibru,,59,me luh-luh-ha sikil šen-na-bi šu pel-la₂-ke₄-eš e₂-e ur₅ ib₂-uš₂
+c.2.2.4,The lament for Nibru,,60,e₂ zid-de₃ ni₂-bi sun₅-sun₅ gig-ga-a
+c.2.2.4,The lament for Nibru,,61,ud mi-ni-ib₂-zal-zal-e er₂ im-gibil-gibil
+c.2.2.4,The lament for Nibru,,62,e₂-a niŋ₂ ŋar-ra niŋ₂ dirig-bi kišib-bi ib₂-du₈-a-aš gun₂ ki mu-ni-ib₂-ŋal₂
+c.2.2.4,The lament for Nibru,,63,niŋ₂-gur₁₁ erim₃ saŋ sig₁₀-ga-ba šu gi₄ ba-ab-dug₄-a-aš a-na ma-la₂ im-me
+c.2.2.4,The lament for Nibru,,64,lu₂-kur₂-ra sag₉ hul nu-zu-ne niŋ₂ dug₃ bi₂-ib-ku₅-ru-uš-a-aš i-lu gig im-me
+c.2.2.4,The lament for Nibru,,65,nam-lu₂-ulu₃-bi maš₂-anše-gin₇ šag₄-ba mi-ni-ib-til-la-aš a ka-na-aŋ₂-ŋu₁₀ im-me
+c.2.2.4,The lament for Nibru,,66,ki-sikil ŋuruš di₄-di₄-la₂-be₂-ne zar-re-eš mi-ni-ib-sal-la-aš u₈-a-bi im-me
+c.2.2.4,The lament for Nibru,,67,urin-bi muru₉ šeŋ₃-ŋa₂-gin₇ ki-e bi₂-ib-su₃-a-aš er₂-še₃ nu-gul-e
+c.2.2.4,The lament for Nibru,,68,e₂-e ab₂ amar-bi ku₅-ra₂-gin₇ ni₂-bi-še₃ mur gig-ga im-ša₄ šeₓ-šeₓ i₃-ŋa₂-ŋa₂
+c.2.2.4,The lament for Nibru,,69,balaŋ di lu₂ ad dug₃-ga-ke₄-ne emeda u₅-a di-gin₇ mu-bi er₂-ra mi-ni-ib-bal-bal-e-ne
+c.2.2.4,The lament for Nibru,,70,uru₂ u₃-mu-un-bi saŋ ib₂-ta-an-dub₂-ba-aš
+c.2.2.4,The lament for Nibru,,71,i-bi₂-ni ki kur₂-ra ib₂-ta-an-ŋar-ra ad-e-eš ba-an-ša₄-aš
+c.2.2.4,The lament for Nibru,,72,e₂ zid kur-kur-ra i-bi₂-še₃ ba-ŋen-na
+c.2.2.4,The lament for Nibru,,73,uŋ₃ saŋ gig₂-ga us₂ zid bi₂-ib-dab₅-ba
+c.2.2.4,The lament for Nibru,,74,a-na ib₂-ak a-na im-ha-lam-ma-bi-še₃
+c.2.2.4,The lament for Nibru,,75,u₃-mu-un-bi ib₂-ta-ib₂ saŋ-ki-a mu-un-DU
+c.2.2.4,The lament for Nibru,,76,ki-ru-gu₂ ₂-kam-ma-am₃
+c.2.2.4,The lament for Nibru,,77,me gal šag₄-bi ba-ra-an-e₃-a-aš gu₃ gig-ga im-me
+c.2.2.4,The lament for Nibru,,78,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.4,The lament for Nibru,,79,uru₂ u₃-mu-un-bi šag₄ ba-da-an-dab-ba
+c.2.2.4,The lament for Nibru,,80,en-še₃ la-ba-ši-gur-ru muš₃-am₃-bi nu-um-me
+c.2.2.4,The lament for Nibru,,81,šeg₁₂-bi a-na-še₃ ŋiri₃ ib₂-ta-an-ŋar
+c.2.2.4,The lament for Nibru,,82,tum₁₂{mušen} za-pa-aŋ₂ ŋa₂-ŋa₂-bi ab-ta ib₂-ta-an-dal
+c.2.2.4,The lament for Nibru,,83,e₂ ad zu šeg₁₂ tigi aŋ₂ ze₂-ba ud mi-ni-ib-zal-zal-la ta-aš igi bi₂-in-gi₄
+c.2.2.4,The lament for Nibru,,84,e₂ sun₅-na giri₁₇ šu ŋal₂-la re
+c.2.2.4,The lament for Nibru,,85,e₂ ni₂ nu-tuku-gin₇ sig₉-ga-bi ba-du₃
+c.2.2.4,The lament for Nibru,,86,aŋ₂ išib-bi nu-kug-kug-ga-gin₇
+c.2.2.4,The lament for Nibru,,87,šu-luh-bi kur-kur-ra nu-ub-ta-sed₆-a-gin₇
+c.2.2.4,The lament for Nibru,,88,šu bi₂-in-dag gaba-ni ib₂-ta-an-zig₃
+c.2.2.4,The lament for Nibru,,89,aŋ₂-gig ur₅-ra-a a-še-er-ra mu-un-du₃
+c.2.2.4,The lament for Nibru,,90,ta-še eŋer na-aŋ₂-bi i-bi₂-ni-a la-ba-an-barag₂
+c.2.2.4,The lament for Nibru,,91,aŋ₂ sikil du₃-a-gin₇ ur₅-re zag bi₂-in-tag
+c.2.2.4,The lament for Nibru,,92,šeg₁₂-bi hul₂-e a-na-aš ib₂-ta-an-e₃
+c.2.2.4,The lament for Nibru,,93,ŋi₆ an-bar₇-ba šag₄-ba er₂ bi₂-in-si
+c.2.2.4,The lament for Nibru,,94,a₂-še kur₂ aŋ₂-gig bi₂-ib-ak-a
+c.2.2.4,The lament for Nibru,,95,u₃-mu-un-bi im-hul-am₃ šu-bi bi₂-in-gi₄-am₃
+c.2.2.4,The lament for Nibru,,96,uru₂-bi e₂-bi in-gul-gul-am₃
+c.2.2.4,The lament for Nibru,,97,ur₂-bi in-bur₁₂-ra-am₃ al-e bi₂-in-ra-am₃
+c.2.2.4,The lament for Nibru,,98,dam dumu-bi šag₄-ba mi-ni-in-ug₅-ga-am₃
+c.2.2.4,The lament for Nibru,,99,uru₂-bi uru₂ šub-ba im-ma-ni-in-kur₉-ra-am₃
+c.2.2.4,The lament for Nibru,,100,aŋ₂ ul-bi ki-bi bi₂-in-gi₄-am₃
+c.2.2.4,The lament for Nibru,,101,mu-un-gur₁₁-bi tum₉-e ba-ab-ir-ra-am₃
+c.2.2.4,The lament for Nibru,,102,uru₂ ŋal₂-la-bi nu-ŋal₂-la mi-ni-in-kur₉-ra-am₃
+c.2.2.4,The lament for Nibru,,103,dim₂-ma-bi ŋiri₃ ib₂-ta-an-kur₂-ra-am₃
+c.2.2.4,The lament for Nibru,,104,umuš-bi in-suh₃-am₃ lil₂-e bi₂-in-sag₃-ga-am₃
+c.2.2.4,The lament for Nibru,,105,u₂-bi a-bi ib₂-ta-an-kar-ra-am₃
+c.2.2.4,The lament for Nibru,,106,ga zu kaš zu-a ud-bi mi-ni-ib-til-la-am₃
+c.2.2.4,The lament for Nibru,,107,e₂-e aŋ₂-gig bi₂-ib-ak-a
+c.2.2.4,The lament for Nibru,,108,a-še-er gig im-me er₂ bi₂-ib-lu₃-lu₃
+c.2.2.4,The lament for Nibru,,109,balaŋ di lu₂ i-lu ba-ab-be₂-a
+c.2.2.4,The lament for Nibru,,110,šag₄ nu-ze₂-ba-bi mu-na-ni-ib-gi₄-gi₄
+c.2.2.4,The lament for Nibru,,111,u₃-mu-un-bi me-bi ba-ra-an-e₃-a
+c.2.2.4,The lament for Nibru,,112,a₂-bi nu-mu-un-tag-ga-am₃ en₃-bi nu-tar-ra-am₃
+c.2.2.4,The lament for Nibru,,113,ki-ru-gu₂ ₃-kam-ma-am₃
+c.2.2.4,The lament for Nibru,,114,me gal-gal-la-ni a-gin₇ ba-ra-an-dal
+c.2.2.4,The lament for Nibru,,115,a₂-bi la-ba-an-tag-ga-am₃ en₃-bi nu-tar-ra-am₃
+c.2.2.4,The lament for Nibru,,116,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.4,The lament for Nibru,,117,mu-lu šir₃-ra na-aŋ₂-tar gig-ga-ŋu₁₀-uš
+c.2.2.4,The lament for Nibru,,118,me-e ib₂-ši-ed₃-de₃-en er₂ im-ši-še₂₂-še₂₂-en
+c.2.2.4,The lament for Nibru,,119,a₂-še balaŋ di šir₃ zu-ne
+c.2.2.4,The lament for Nibru,,120,mur-ma-ra-ŋu₁₀ ma-a-ar ma-ab-be₂-ne-am₃
+c.2.2.4,The lament for Nibru,,121,i₃-ne-eš₂ kuš₂-a im-ma-dirig-ga-ŋu₁₀
+c.2.2.4,The lament for Nibru,,122,dili-dili-bi er₂-ra ma-an-ŋa₂-ŋa₂-ne-am₃
+c.2.2.4,The lament for Nibru,,123,a₂-še šag₄ su-mu-ug tab₂-tab₂-ba-ŋu₁₀
+c.2.2.4,The lament for Nibru,,124,ki kur₉-ra-bi ma-a-ar lu₂ mu-da-an-zu-am₃
+c.2.2.4,The lament for Nibru,,125,a-ra₂ gig-ga šag₄ bur₁₂-ra-ŋu₁₀
+c.2.2.4,The lament for Nibru,,126,u₅-a tur-ra-ŋu₁₀ er₂-ra ma-an-du₁₂-am₃
+c.2.2.4,The lament for Nibru,,127,nin e₂ du₃-a ki-tuš-a-ne-ne
+c.2.2.4,The lament for Nibru,,128,lul-e-eš ba-ab-ŋar-ra tum₉-e ba-ab-tur-ra-am₃
+c.2.2.4,The lament for Nibru,,129,lu₂-erim₂-e ka-na-aŋ₂-ŋu₁₀ ib₂-til-la
+c.2.2.4,The lament for Nibru,,130,er₂-ra ma-a-ar ma-an-ŋa₂-ŋa₂-ne-am₃
+c.2.2.4,The lament for Nibru,,131,šag₄ aŋ₂-gig-ga ib₂-dirig-ŋu₁₀ ad-bi-še₃ ba-ab-be₂-ne ib₂-sed₄-de₃-ne-am₃
+c.2.2.4,The lament for Nibru,,132,er₂-bi u₃-mu-un-ŋa₂ mu-un-ŋa₂-ŋa₂-dam
+c.2.2.4,The lament for Nibru,,133,arhuš šag₄-ne-ša₄ ma-ar ma-an-tuku-tuku-am₃
+c.2.2.4,The lament for Nibru,,134,{d}mu-ul-lil₂ a-a saŋ gig₂-ga-ke₄
+c.2.2.4,The lament for Nibru,,135,ki-ŋu₁₀ gi₄-gi₄-ŋu₁₀ a₂-bi i₃-aŋ₂-ŋa₂-a-ke₄
+c.2.2.4,The lament for Nibru,,136,ki-ru-gu₂ ₄-kam-ma-am₃
+c.2.2.4,The lament for Nibru,,137,šag₄-ŋu₁₀ mud-a ba-ni-gel-le-eŋ₃-ŋen ba-bir-bir-en sug-ge₄ ba-ab-gu₇
+c.2.2.4,The lament for Nibru,,138,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.4,The lament for Nibru,,139,še-eb saŋ-a na-aŋ₂-tar-zu gig-ga-am₃ ib-ši-šir₃-šir₃-am₃
+c.2.2.4,The lament for Nibru,,140,a₂-še {d}mu-ul-lil₂ a i-bi₂-za šu ba-e-ši-in-ti-a
+c.2.2.4,The lament for Nibru,,141,za-e ni₂-za er₂ gig-ga šeš₄-a ba-i-ri-ib-ak-eš
+c.2.2.4,The lament for Nibru,,142,na-aŋ₂-bi-še₃ u₃-mu-un-zu-ur₂ sizkur e-ne dug₄-mu-na-ab
+c.2.2.4,The lament for Nibru,,143,u₃-mu-un-ŋu₁₀ en₃-še₃ i-bi₂ bar-mu-ši-ib u₃-mu-un-ŋu₁₀ e-ne dug₄-mu-na-ab
+c.2.2.4,The lament for Nibru,,144,ta-aš aŋ₂ pe-el-la nu-mu-un-zi-zi-i dug₄-mu-na-ab
+c.2.2.4,The lament for Nibru,,145,šag₄-zu ha-ma-sed₄-de₃ aŋ₂-gig gi-mu-ra-ab ud dug₄-mu-na-ab
+c.2.2.4,The lament for Nibru,,146,eš₃-eš₃-a ku₁₀-ku₁₀-ga-ŋu₁₀ ki-tuš kur₉-ma-ni-ib dug₄-mu-na-ab
+c.2.2.4,The lament for Nibru,,147,ud babbar-ra su-ub-ba dadag-ga-gin₇ šum₂-mu-ra-ab dug₄-mu-na-ab
+c.2.2.4,The lament for Nibru,,148,ak-a-ŋu₁₀ dug₄-mu-na-ab
+c.2.2.4,The lament for Nibru,,149,aŋ₂ nu-sag₉-ge-zu X-zal-la bi₂-ib-du₃-e dug₄-mu-na-ab
+c.2.2.4,The lament for Nibru,,150,i-gi₄-in-zu ur₅-ra-ke₄-eš ša-ne-ša₄ arhuš ma-ra-tuku-tuku
+c.2.2.4,The lament for Nibru,,151,šag₄-zu šag₄ sag₃ ib₂-ta-be₄-e šag₄ zalag ma-ra-an-ŋar-ra-me
+c.2.2.4,The lament for Nibru,,152,saŋ-zu zi-zi-i ŋiš-šub-ba-za ul-še₃ ma-ra-an-ŋa₂-ŋa₂
+c.2.2.4,The lament for Nibru,,153,aŋ₂ kur₂-re za-a-ar i-ri-ib-ak-e šu-bi bi₂-ib-gi₄-gi₄-e
+c.2.2.4,The lament for Nibru,,154,ki-ru-gu₂ ₅-kam-ma-am₃
+c.2.2.4,The lament for Nibru,,155,iri{ki}-a šu bar-re nu-zu-a ur₅-re bi₂-ib-sig₁₀-ge
+c.2.2.4,The lament for Nibru,,156,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.4,The lament for Nibru,,157,a₂-še u₃-mu-un-zu gu₂ šub-ba kur₂ me-e-ši-in-ra-am₃
+c.2.2.4,The lament for Nibru,,158,arhuš ma-ra-an-tuku-am₃ na-aŋ₂-zu in-tar-ra-am₃
+c.2.2.4,The lament for Nibru,,159,šeg₁₂-zu a-še-er ib₂-ta-an-e₃-a ib₂-si bi₂-in-dug₄-ga-am₃
+c.2.2.4,The lament for Nibru,,160,ur₅ sag₉-ge šag₄ hul₂-la ma-ra-ni-in-kur₉-ra-am₃
+c.2.2.4,The lament for Nibru,,161,{d}nin-urta maškim kalag-ga saŋ-ba bi₂-in-tuku-am₃
+c.2.2.4,The lament for Nibru,,162,šul u₂-a-ni-še₃ ib₂-ši-in-gub-ba-am₃
+c.2.2.4,The lament for Nibru,,163,e₂-kur eš₃ kalag-kalag du₃-du₃-u₃-dam a₂ mu-un-da-aŋ₂-am₃
+c.2.2.4,The lament for Nibru,,164,aŋ₂ ul-bi ki-bi bi₂-in-gi₄-am₃
+c.2.2.4,The lament for Nibru,,165,gi-gun₄-na-bi ki-bi gi₄-gi₄-bi ud-gin₇ kar₂-kar₂-bi
+c.2.2.4,The lament for Nibru,,166,muš₃-ba barag tum₂-tum₂-mu in-na-an-dug₄-ga-am₃
+c.2.2.4,The lament for Nibru,,167,ŋarza kur₂-re ib₂-suh₃-a šu hul bi₂-ib₂-dug₄-ga-am₃
+c.2.2.4,The lament for Nibru,,168,me ib₂-bir-a-bi ki-bi-še₃ in-ŋar-ra-am₃
+c.2.2.4,The lament for Nibru,,169,šu-luh erim₂-e šu bi₂-in-la₂-a-ba
+c.2.2.4,The lament for Nibru,,170,kug-ge sikil-e-bi
+c.2.2.4,The lament for Nibru,,171,inim kug nu-kur₂-ru-da-ni in-na-an-dug₄-ga-am₃
+c.2.2.4,The lament for Nibru,,172,{d}iš-me-{d}da-gan sipad ki aŋ₂-ŋa₂-ni-ir
+c.2.2.4,The lament for Nibru,,173,gud du₇ maš₂ du₇ šar₂-šar₂-re-da in-na-an-dug₄-ga-am₃
+c.2.2.4,The lament for Nibru,,174,KI.LUGAL.GUB kug nam tar-re-da-ni giri₁₇ šu mu-ni-ŋal₂-la-am₃
+c.2.2.4,The lament for Nibru,,175,sizkur a-ra-zu-a ud bi₂-in-gub-ba-am₃
+c.2.2.4,The lament for Nibru,,176,aŋ₂ ze₂-ba šag₄-zu a-še-er bi₂-in-dug₄
+c.2.2.4,The lament for Nibru,,177,er₂ gig-zu mah
+c.2.2.4,The lament for Nibru,,178,ki-ru-gu₂ ₆-kam-ma-am₃
+c.2.2.4,The lament for Nibru,,179,ud en₃-še₃ i₃-kuš₂-u₃-de₃-en
+c.2.2.4,The lament for Nibru,,180,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.4,The lament for Nibru,,181,še-eb en₃-še₃ er₂-ra a-še-er-ra i-bi₂ mi-ni-ib-zi-zi-zi
+c.2.2.4,The lament for Nibru,,182,a₂-še u₃-mu-un-zu kur gal {d}mu-ul-lil₂-le an ki-a dirig-ga
+c.2.2.4,The lament for Nibru,,183,še-eb-zu a-še-er ib₂-ta-an-e₃ ur₅-zu in-sag₉-ga
+c.2.2.4,The lament for Nibru,,184,i₃-ne-eš₂ uru₂ u₃-mu-un-zu šag₄-ne-ša₄ arhuš ma-ra-an-tuku-a
+c.2.2.4,The lament for Nibru,,185,a-a {d}mu-ul-lil₂ u₃-mu-un kur-kur-ra-ke₄ gur-ru-za bi₂-in-dug₄-ga
+c.2.2.4,The lament for Nibru,,186,ama gal {d}nin-lil₂-le a-ra-zu-a u₃-gul mu-ni-in-ŋar-ra
+c.2.2.4,The lament for Nibru,,187,nibru{ki} saŋ sag₃-ge-bi ŋar-ra-ab še-eb in-na-an-dug₄-ga-am₃
+c.2.2.4,The lament for Nibru,,188,ama₅-ŋu₁₀ du₃-ma-ab e₂-ŋu₁₀ sig₉-ma-ab in-na-an-dug₄-ga-am₃
+c.2.2.4,The lament for Nibru,,189,ša₃-ba-ni-a ad i-ni-in-gi₄-eš-am₃ e-ne-eŋ₃-bi bi₂-in-dug₄-ga
+c.2.2.4,The lament for Nibru,,190,{d}mu-ul-lil₂ e-ne-eŋ₃ zid dug₄-ga-ni in-de₃-a-ŋen-na
+c.2.2.4,The lament for Nibru,,191,e₂ zid aŋ₂ ha-lam-ma ba-ab-ak sag₉-ga-aš i-ni-in-kur₉-ra
+c.2.2.4,The lament for Nibru,,192,aŋ₂ ur₅-ra-ra e-ra-ni-ib-gi₄-a e-ne ib₂-ta-an-ed₃-de₃
+c.2.2.4,The lament for Nibru,,193,sig₉-ga-bi mu-un-du₃-un-na-gin₇ hul₂ ud mi-ni-in-kur₉-ra
+c.2.2.4,The lament for Nibru,,194,za-pa-aŋ₂ kurun₂ lal₃ dirig-še₃ bal-bal-e na-aŋ₂-še₃ bi₂-ib-tar-re
+c.2.2.4,The lament for Nibru,,195,ib₂-si ud en₃-še₃ er₂ gul-la e-ne e-ra-an-dug₄-ga
+c.2.2.4,The lament for Nibru,,196,aŋ₂ mu nu-tuku-gin₇ ba-til₃-le-na-aš na-aŋ₂-zu in-tar-ra
+c.2.2.4,The lament for Nibru,,197,uru₂-ŋu₁₀ šag₄ kug-ŋu₁₀ mu-e-ši-huŋ za-a-ar ma-ra-an-gur-ra-am₃
+c.2.2.4,The lament for Nibru,,198,nibru{ki} šag₄ kug-ŋu₁₀ mu-e-ši-huŋ za-a-ar ma-ra-an-gur-ra-am₃
+c.2.2.4,The lament for Nibru,,199,uru₂ zid na-aŋ₂ gal-zu in-tar-ra-am₃ bal-zu in-su₃-ud-dam
+c.2.2.4,The lament for Nibru,,200,nibru{ki} na-aŋ₂ gal-zu in-tar-ra-am₃ bal-zu in-su₃-ud-dam
+c.2.2.4,The lament for Nibru,,201,e₂-kur-ra ud-gin₇ kar₂-kar₂-ka e-ne in-na-an-dug₄-ga-am₃
+c.2.2.4,The lament for Nibru,,202,ki-ur₃-ra ud zid ba-an-e₃-am₃ ud ma-ra-ni-in-kur₉-ra-am₃
+c.2.2.4,The lament for Nibru,,203,{d}nin-lil₂-le ŋa₂-ŋiš-šu₂-a-ka na-aŋ₂-zu in-tar-ra-am₃
+c.2.2.4,The lament for Nibru,,204,{d}en-lil₂ {d}nin-lil₂-bi e₂-kur-ra barag mu-ni-in-ri-eš-am₃
+c.2.2.4,The lament for Nibru,,205,šag₄-bi-a u₂ mi-ni-in-sug₄-sug₄-ge-eš-am₃ kurun₂ mi-ni-in-dug₃-ge-eš-am₃
+c.2.2.4,The lament for Nibru,,206,saŋ gig₂ ki-tuš-ba gen₆-ne₂-de₃ ad-bi mu-un-gi₄-eš-am₃
+c.2.2.4,The lament for Nibru,,207,uŋ₃ sug-zag-ge ba-ab-gu₇-a-aš za-a-ar ma-ra-an-lah₄-e-eš-am₃
+c.2.2.4,The lament for Nibru,,208,dumu ama-ni ba-da-an-gur-re-eš-am₃ gu₂ mu-un-ŋar-re-eš-am₃
+c.2.2.4,The lament for Nibru,,209,nam-lu₂-ulu₃ ki-saŋ-ŋal₂-la-ba mu-e-de₃-re₇-eš-am₃
+c.2.2.4,The lament for Nibru,,210,eš₃ nibru{ki} kur gal {d}mu-ul-lil₂-le za-a-ar ma-ra-an-gur-ra-am₃
+c.2.2.4,The lament for Nibru,,211,ki-ru-gu₂ ₇-kam-ma-am₃
+c.2.2.4,The lament for Nibru,,212,ur₅-zu a-gin₇ i₃-tab šag₄ sag₃ a-gin₇ i₃-kuš₂-u₃-de₃
+c.2.2.4,The lament for Nibru,,213,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.4,The lament for Nibru,,214,a₂-še me-ri-zu-a ki-en-gi ki-uri ki-bi gi₄-gi₄-da
+c.2.2.4,The lament for Nibru,,215,uŋ₃ bir-a-bi gud₃-bi-še₃ gur-ru-dam e-ne-eš im-mi-in-eš-am₃
+c.2.2.4,The lament for Nibru,,216,eridug{ki} šag₄-bi ŋeštug₂ i-i umuš zid hal-ha-la-da
+c.2.2.4,The lament for Nibru,,217,ŋarza mah-bi nu-ha-lam-me-da inim-bi im-de₆-am₃
+c.2.2.4,The lament for Nibru,,218,adab{ki} iri nin-bi niŋ₂-zi-ŋal₂ dim₂-e u₃-tud mu₂-mu₂-da
+c.2.2.4,The lament for Nibru,,219,{d}a-nun-na en nam tar-re-da du₃-u₃-bi bi₂-in-ne-eš-am₃
+c.2.2.4,The lament for Nibru,,220,urim₂{ki} šag₄-tum₂-ma ki ŋar-ra me-bi me-ta suh
+c.2.2.4,The lament for Nibru,,221,an-ne₂ {d}en-lil₂-le ki-bi gi₄-gi₄-da ad-bi bi₂-in-gi₄-eš-am₃
+c.2.2.4,The lament for Nibru,,222,larsam{ki} iri nun-bi niŋir an ki di-kud uŋ₃ šar₂-ra-ke₄
+c.2.2.4,The lament for Nibru,,223,suhuš-bi gen₆-ne₂-de₃ us₂ zid dab₅-be₂-da e-ne bi₂-in-eš-am₃
+c.2.2.4,The lament for Nibru,,224,unug{ki} kul-aba₄{ki} iri kug ŋiš-kiŋ₂-ti diŋir-re-e-ne-ke₄
+c.2.2.4,The lament for Nibru,,225,eš-bar kiŋ₂-bi im-mi-in-eš-am₃ ki-bi bi₂-in-gi₄-eš-am₃
+c.2.2.4,The lament for Nibru,,226,ki zabalam{ki} iri nu-gig an-na-ke₄ usu-ni mu-un-til-la
+c.2.2.4,The lament for Nibru,,227,lu₂-erim₂ lu₂-kur₂-ra-da kar-re-bi inim-bi im-de₆-a
+c.2.2.4,The lament for Nibru,,228,lagaš{ki} dim gal an-na eš₃ ŋir₂-su{ki} ul-ta ŋar-ra-ba
+c.2.2.4,The lament for Nibru,,229,an-ne₂ {d}en-lil₂-le igi sag₉-ga-ne-ne im-ši-in-bar-re-eš-am₃
+c.2.2.4,The lament for Nibru,,230,e₂-bi umma{ki}-a šeg₁₂-kur-šag₄-ga hul-bi ba-ab-ak-a
+c.2.2.4,The lament for Nibru,,231,ugu-bi-ta ti-id-nu-um nu-ŋar-ra ib₂-ta-an-zig₃-ge₄-eš-am₃
+c.2.2.4,The lament for Nibru,,232,kiš{ki} zag dab₅ ki-en-gi ki-uri nam-nun-bi dirig-ga
+c.2.2.4,The lament for Nibru,,233,suhuš-bi gen₆-ne₂-de₃ bi₂-in-eš-am₃ diŋir gal-gal-e-ne
+c.2.2.4,The lament for Nibru,,234,mar₂-da{ki} iri id₂-bi a zal-le a-šag₄-ga še gu-nu
+c.2.2.4,The lament for Nibru,,235,{d}a-nun-na-ke₄-ne ib₂-ta-an-kar-re-eš-a ib₂-ši-in-gur-re-eš-am₃
+c.2.2.4,The lament for Nibru,,236,i₃-si-in{ki} u₂-a {d}a-nun-na-ke₄-ne ul-ta ni₂ il₂-la-a
+c.2.2.4,The lament for Nibru,,237,an {d}en-lil₂ {d}en-ki {d}nin-mah-a bal-bi in-su₃-ud-da-am₃
+c.2.2.4,The lament for Nibru,,238,dug₄-ga-ba šu zid bi₂-in-ŋar-re-eš-am₃ he₂-am₃-bi bi₂-in-eš-am₃
+c.2.2.4,The lament for Nibru,,239,{d}nin-urta šul ur-saŋ kalag-ga šu-ni ba-an-šum₂-mu-uš-am₃
+c.2.2.4,The lament for Nibru,,240,{d}nin-isin₂-na dumu mah an-na šim-mu₂ kalam-ma-ka
+c.2.2.4,The lament for Nibru,,241,ki-tuš kug e₂-gal-mah-ni-a ni₂ dub₂-bu in-na-an-ne-eš-am₃
+c.2.2.4,The lament for Nibru,,242,{d}da-mu kindagal₂ {d}nu-nam-nir-ra a-zu zi-ŋal₂-la-ka
+c.2.2.4,The lament for Nibru,,243,ŋiri₃ ama-na-še₃ a-a-na-še₃ kur gam-gam-e in-na-an-ne-eš-am₃
+c.2.2.4,The lament for Nibru,,244,ki-ru-gu₂ ₈-kam-ma-am₃
+c.2.2.4,The lament for Nibru,,245,an {d}en-lil₂ {d}en-ki {d}nin-mah-bi a₂-bi ha-ba-an-aŋ₂-eš-am₃
+c.2.2.4,The lament for Nibru,,246,ŋiš-gi₄-ŋal₂-bi-im
+c.2.2.4,The lament for Nibru,,247,i₃-ne-eš₂ a₂-še {d}en-lil₂-le ud zid kalam-ma bi₂-in-gub-ba-am₃
+c.2.2.4,The lament for Nibru,,248,ud nibru{ki} gu₂ an-še₃ zi-zi i₃-ne-eš₂ im-mi-in-dug₄-ga
+c.2.2.4,The lament for Nibru,,249,ud zid e₂-kur-ra saŋ mu₂-mu₂ e-ne im-mi-in-tuku-a
+c.2.2.4,The lament for Nibru,,250,ud ki-ur₃-ra dalla mah e₃-a e-ne im-mi-in-zig₃-ga
+c.2.2.4,The lament for Nibru,,251,ud ki-en-gi ki-uri daŋal-e e-ne im-mi-in-gi₄-a
+c.2.2.4,The lament for Nibru,,252,ud e₂ du₃-du₃ ŋa₂-nun niŋin₂-e e-ne ib₂-ta-an-mar-ra
+c.2.2.4,The lament for Nibru,,253,ud numun i-i niŋ₂-zi-ŋal₂ u₃-tud e-ne ib₂-ta-an-e₃-a
+c.2.2.4,The lament for Nibru,,254,ud tur₃ du₃-du₃ amaš ki ŋa₂-ŋa₂ e-ne ib₂-ta-an-e₃-a
+c.2.2.4,The lament for Nibru,,255,u₈-e sila₄-a im-mi-ib-tu-ud-da tur₃-e bi₂-ib-si-a
+c.2.2.4,The lament for Nibru,,256,ud₅-de₃ maš₂-bi im-mi-ib-tu-ud-da amaš-a bi₂-ib-si-a
+c.2.2.4,The lament for Nibru,,257,u₈ sila₄-bi im-da-ab-lu-a {e₂}tur₃ im-peš₁₁-am₃
+c.2.2.4,The lament for Nibru,,258,ud₅-e maš₂-bi im-da-ab-lu-a amaš daŋal bi₂-ib-tag-ga
+c.2.2.4,The lament for Nibru,,259,ud niŋ₂ ha-lam-ma sag₉-ga ku₄-ku₄ e-ne ib₂-ta-an-ŋar-ra
+c.2.2.4,The lament for Nibru,,260,ud niŋ₂-erim₂
+c.2.2.4,The lament for Nibru,,261,ud niŋ₂-si-sa₂ kalam-ma ŋa₂-ŋa₂ a₂-tah-a mi-ni-in-kur₉-ra
+c.2.2.4,The lament for Nibru,,262,ki-ru-gu₂ ₉-kam-ma-am₃
+c.2.2.4,The lament for Nibru,,263,ud ki-en-gi ki-uri lu₂-erim₂-e šu hul bi₂-in-dug₄-ga
+c.2.2.4,The lament for Nibru,,264,ud-da-ta šag₄ ba-ši-huŋ-ŋa₂-am₃ bar ba-ši-im-sed₄-da-am₃
+c.2.2.4,The lament for Nibru,,265,diŋir gal-gal-e-ne šag₄-ne-ša₄ ur₅-re ba-an-tuku-uš-am₃
+c.2.2.4,The lament for Nibru,,266,a₂ kuš₂-a igi bi₂-in-du₈-uš-am₃ ib₂-ta-an-ed₃-de₃-eš-am₃
+c.2.2.4,The lament for Nibru,,267,iri du₆-du₆-da ba-ŋar-ra-za ki-bi-še₃ in-ŋar-re-eš-am₃
+c.2.2.4,The lament for Nibru,,268,niŋ₂ babbar-bi sag₂ ba-ab-dug₄-ga-ba sug-ge₄ ba-ab-gu₇-a
+c.2.2.4,The lament for Nibru,,269,{d}en-lil₂ lugal kur-kur-ra-ke₄ ki-bi-še₃ in-ŋar-ra-am₃
+c.2.2.4,The lament for Nibru,,270,nam-lu₂-ulu₃ gud₃ us₂-sa-ta ni₂ im-ši-ib-ten-na
+c.2.2.4,The lament for Nibru,,271,nibru{ki} kur me gal-gal-la-ka ŋiri₃ kur₂ ba-ra-an-dab₅-be₂-eš-a
+c.2.2.4,The lament for Nibru,,272,{d}a-nun-na inim {d}en-lil₂-la₂-ta e₂ bi₂-in-šub-bu-uš-a
+c.2.2.4,The lament for Nibru,,273,gi₁₆-sa ul-ta ŋar-ŋar-ra-ba tum₉-e ba-ab-de₆-a
+c.2.2.4,The lament for Nibru,,274,ki-bi-še₃ ku₄-ku₄-da bi₂-in-eš-am₃ en nam tar-re-ne
+c.2.2.4,The lament for Nibru,,275,šag₄-bi-a u₂ sug₄-sug₄ šag₄ hul₂-la šag₄-ba mi-ni-in-ŋar-ra-am₃
+c.2.2.4,The lament for Nibru,,276,{d}iš-me-{d}da-gan šita ud-da gub hul₂ ni₂-tuku-ni-ra
+c.2.2.4,The lament for Nibru,,277,u₂-bi kug-ge a-bi sikil-e in-na-an-dug₄-ga-am₃
+c.2.2.4,The lament for Nibru,,278,me šu pel₂-la₂-bi sikil-e in-na-an-dug₄-ga-am₃
+c.2.2.4,The lament for Nibru,,279,ŋarza suh₃-a bir-a-bi si bi₂-in-sa₂
+c.2.2.4,The lament for Nibru,,280,kug-kug-ga šub-ba šu pel₂-la₂-a-ke₄ ki-bi-še₃ in-ŋar-ra
+c.2.2.4,The lament for Nibru,,281,šukur₂-ud šub-ba eša zid₂ dub-dub-bu na-aŋ₂-še₃ bi₂-ib-tar-re
+c.2.2.4,The lament for Nibru,,282,{ŋeš}banšur ninda lu ninda šar₂-re-da šag₄-ga-ni im-de₆-a
+c.2.2.4,The lament for Nibru,,283,ki-ru-gu₂ ₁₀-kam-ma-am₃
+c.2.2.4,The lament for Nibru,,284,ud lu₂-u₃ lu₂-ra inim kur₂ nu-di dumu a-a-ni-ir ni₂ teŋ₃-ŋe₂₆-e
+c.2.2.4,The lament for Nibru,,285,ud niŋ₂-sun₅-na kalam-ma ŋa₂-ŋa₂ tur-re mah dugud-da
+c.2.2.4,The lament for Nibru,,286,ud šeš-ban₃-da šeš-gal-la-ni hu-luh-ha ni₂ sun₅-e
+c.2.2.4,The lament for Nibru,,287,ud dumu gal-la dumu ban₃-da umun₂ ak inim-ma-ni-še₃ tuš-u₃
+c.2.2.4,The lament for Nibru,,288,ud sig₉-ga kalag-ga še₂₉-eš₂ nu-di niŋ₂ sag₉-ga gal gub-bu
+c.2.2.4,The lament for Nibru,,289,ud kaskal suh₃-a ŋiri₃ ŋa₂-ŋa₂ hul mu₂-a bur₁₂-re
+c.2.2.4,The lament for Nibru,,290,ud lu₂-u₃ ki šag₄-ga-ni-še₃ du-u₃ gaba-ri-ni-še₃ in nu-dub₂
+c.2.2.4,The lament for Nibru,,291,ud lu₂-u₈ lu₂-ra inim kur₂ nu-di niŋ₂-gig-ga nu-ak
+c.2.2.4,The lament for Nibru,,292,ud kalam-ma niŋ₂-gig-ga e₃-a šag₄-ba ud ŋa₂-ŋa₂
+c.2.2.4,The lament for Nibru,,293,ud niŋ₂ ku₁₀-ku₁₀ kalam-ma zi-zi niŋ₂-zi-ŋal₂ hul₂-le
+c.2.2.4,The lament for Nibru,,294,a-a {d}en-lil₂ en dug₄-ga-ni nu-kur₂-ru nun kur-kur-ra-ke₄
+c.2.2.4,The lament for Nibru,,295,uŋ₃ saŋ gig₂-ga bi₂-in-gub-ba-am₃ sag₉-ge-ba bi₂-in-dug₄-ga
+c.2.2.4,The lament for Nibru,,296,ki-ru-gu₂ ₁₁-kam-ma-am₃
+c.2.2.4,The lament for Nibru,,297,i₃-ne-eš₂ a₂-še ud-da-ta {d}en-lil₂ nun šag₄-la₂ sug₄-ga-am₃
+c.2.2.4,The lament for Nibru,,298,šul šeg₁₂ ŋar-ra-ni-ir in-na-an-sag₉-am₃
+c.2.2.4,The lament for Nibru,,299,me erim₂-e šu hul bi₂-in-dug₄-ga si in-na-an-sa₂-am₃
+c.2.2.4,The lament for Nibru,,300,ŋarza šu pel₂-la₂ mu-un-na-an-kug-kug-ga-am₃
+c.2.2.4,The lament for Nibru,,301,gi-gun₄-bi mu-na-an-sikil-am₃ dalla mu-un-na-an-e₃-am₃
+c.2.2.4,The lament for Nibru,,302,šag₄-ba he₂-ŋal₂ mi-ni-in-šar₂-šar₂-ra-am₃ kurun lal₃ bi₂-ib-si-am₃
+c.2.2.4,The lament for Nibru,,303,ud ne šag₄ dug₃-ge bar huŋ-e ur₅ sag₉-ge mi-ni-in-ŋar-ra-am₃
+c.2.2.4,The lament for Nibru,,304,e-ne a-ra-zu-a mu-na-an-gub-ba-am₃ giri₁₇ šu mi-ni-ŋal₂-la-am₃
+c.2.2.4,The lament for Nibru,,305,er₂ ŋar-ra nam-šita dug₄-ga-ni nun kur-kur-ra-ke₄
+c.2.2.4,The lament for Nibru,,306,i₃-he-nun-na lal₃ ku₇-ku₇-da-gin₇ su-ni bi₂-ib₂-ak-am₃
+c.2.2.4,The lament for Nibru,,307,šudu₃-da-ni ŋiš ba-an-tuku-am₃ igi in-ši-in-bar-ra-am₃
+c.2.2.4,The lament for Nibru,,308,{d}iš-me-{d}da-gan-na inim-ma-ni su-a-na ba-dug₃-ga-am₃
+c.2.2.4,The lament for Nibru,,309,saŋ us₂-a-ni šag₄-ga dug₄-ga-ni in-de₃-ŋen-na-am₃
+c.2.2.4,The lament for Nibru,,310,sun₅-na šita-ba ki la₂-a-ne₂-eš₂ ŋiri₃-ba sig₁₀-ga-ne₂-eš₂
+c.2.2.4,The lament for Nibru,,311,sizkur-ra u₃-gul ŋa₂-ŋa₂-da-ne₂-eš₂ giri₁₇ ki su-bu-da-ne₂-eš₂
+c.2.2.4,The lament for Nibru,,312,KI.LUGAL.GUB til₃-le-da ni₂ teŋ₃-ŋe₂₆-da-ne₂-eš₂ gur-gur-re-da-ne₂-eš₂
+c.2.2.4,The lament for Nibru,,313,niŋ₂-nam-ma-ni en-nu-uŋ₃ ak-da-ne₂-eš₂ ŋa₂-la nu-dag-ge-da-ne₂-eš₂
+c.2.2.4,The lament for Nibru,,314,nam-nun-na mu sud-su₃-ra₂-ni e-ne-er in-na-an-dug₄-ga-am₃
+c.2.2.4,The lament for Nibru,,315,lu₂ nam-lugal-la saŋ-bi-še₃ e₃-a e-ne-er in-na-an-dug₄-ga-am₃
+c.2.2.4,The lament for Nibru,,316,lugal bal sag₉-ga-ke₄ e-ne-er in-na-an-dug₄-ga-am₃
+c.2.2.4,The lament for Nibru,,317,uŋ₃ ki-tuš ne-ha bi₂-in-dur₂-ru-na e-ne-er in-na-an-dug₄-ga-am₃
+c.2.2.4,The lament for Nibru,,318,uŋ₃ šar₂-ra niŋ₂ bi₂-in-dug₄-ga-a in-de₃-a-ŋen-na-am₃
+c.2.2.4,The lament for Nibru,,319,ki-en-gi ki-uri a-na me-a ud nam tar-ra-še₃
+c.2.2.4,The lament for Nibru,,320,uŋ₃ saŋ gig₂-ga u₈-gin₇ lu-a uŋ₃ saŋ sig₁₀-ga-ba
+c.2.2.4,The lament for Nibru,,321,nam-mah kur gal {d}nu-nam-nir-ra enkar an ki-ke₄
+c.2.2.4,The lament for Nibru,,322,du-ri₂-še₃ me-teš₂ am₃-i-i-ne a-ra₂ ni₂-ŋal₂-la-ni-im
+c.2.2.4,The lament for Nibru,,323,ki-ru-gu₂ ₁₂-kam-ma-am₃

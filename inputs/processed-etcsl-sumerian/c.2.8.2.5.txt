@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+c.2.8.2.5,A prayer for Hammu-rābi (Hammu-rābi E),,x,
+c.2.8.2.5,A prayer for Hammu-rābi (Hammu-rābi E),,38,
+c.2.8.2.5,A prayer for Hammu-rābi (Hammu-rābi E),,39,saŋ an-še₃ mi-X-il₂
+c.2.8.2.5,A prayer for Hammu-rābi (Hammu-rābi E),,40,igi-ni-še₃
+c.2.8.2.5,A prayer for Hammu-rābi (Hammu-rābi E),,41,mu-un-na-e-hul₂-hul₂
+c.2.8.2.5,A prayer for Hammu-rābi (Hammu-rābi E),,42,gu₂-da mu-ni-in-la₂
+c.2.8.2.5,A prayer for Hammu-rābi (Hammu-rābi E),,43,nam mu-ni-ib₂-tar
+c.2.8.2.5,A prayer for Hammu-rābi (Hammu-rābi E),,44,he₂-me-en nam-nun-bi ak-de₃
+c.2.8.2.5,A prayer for Hammu-rābi (Hammu-rābi E),,45,saŋ-e-eš mi-ni-in-rig₇-ga-zu muš₃ nam-ba-tum₂-mu
+c.2.8.2.5,A prayer for Hammu-rābi (Hammu-rābi E),,46,ši-bi₂-du₇ ud-bi ha-ra-su₃-ud-de₃
+c.2.8.2.5,A prayer for Hammu-rābi (Hammu-rābi E),,47,nam tar-ra mu sa₄-a-me-en gaba gi na-an-X-tuku

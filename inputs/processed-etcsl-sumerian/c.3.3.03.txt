@@ -1,0 +1,37 @@
+id_text,text_name,version,l_no,text
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,1,lugal {d}utu-gin₇ šag₄ kalam-ma mu-un-zalag-ga
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,2,u₃-na-dug₄
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,3,i-{d}utu ab-sin₂-ta ib₂-ta-an-zig₃-ga
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,4,ti-id-nu-um{ki}-e šu saŋ bi₂-in-ŋar šibir-bi mu-un-dab₅-be₂
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,5,lugal idim-bi-še₃ ab-šid-de₃-a
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,6,u₃-na-de₃-tah
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,7,{m}lugal-nesaŋ-ŋe₂₆ {m}lugal-šu₂ dumu nibru{ki} arad₂-zu na-ab-be₂-a
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,8,šul-a-lum nu-zu-ŋu₁₀ saŋ-ki ba-gid₂
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,9,til₄ ak-ŋu₁₀ mu-e-pad₃
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,10,iri kur₂-ra tum₁₂{mušen}-gin₇ še mi-in-ša₄
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,11,šag₄-ne-ša₄ la-ba-an-tuku
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,12,ur-gin₇ ki gam-ma nu-zu šu dag-dag-ge ba-si
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,13,mušen šu sur₂-du₃{mušen}-ta dal-a-gin₇ ur₅-da i₃-ak-en
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,14,{ŋeš}kiri₆ a šu-ta nu-dug₄-ga-gin₇ asil₃-la₂-ŋu₁₀ hab₂-ba ba-an-ug₅
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,15,igi la₂ e₂ lugal-ŋa₂-ke₄ ib₂-sig₉-ge inim-ŋar gig ma-la₂
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,16,zarah-e
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,17,u₃-u₈ u₈-a-e ha-mu-X
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,18,gud-gin₇ mur-ŋa₂ eme šu ša-an-ša-X
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,19,peš amar-ŋu₁₀ gud₃-bi zi ba-ni-in-gi₄ ka u₂ gu₇ ba-X
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,20,edin tum₉ dal-a-gin₇ dal-a-ta ba₉-ra₂-gin₇ e₂ ar₃-ar₃-ra ba-X
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,21,ug₅-ga ki nu-tum₂-ma-me-en še-gin₇ ar₃-ar₃
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,22,šeš-ŋu₁₀ lu₂ kur₂ nu-me-a igi tur mu-un-X
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,29,
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,30,
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,31,sag₉-ga
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,32,lugal
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,A,33,{d}utu-gin₇
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,1,mušen šu sur₂-du₃{mušen}
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,2,{ŋeš}kiri₆ a dug₄-ga-gin₇
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,3,igi la₂ e₂ lugal-ŋa₂-ke₄ ib₂-sig₉-ge
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,4,zarah-e sipad-ba šag₄ a mi-ni-X
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,5,u₈-e-a ha-X-X-X
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,6,gud-gin₇ mur-ŋu₁₀ eme-ba šid nu-tuku-gin₇ šu-ni ša-an-ša-X
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,7,peš amar-ŋu₁₀ gud₃-ba zi ir ba-ni-ib₂-X
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,8,edin tum₉ dal-a-ta ba₉-ra₂-gin₇ e₂ ar₃-ar₃-ra ba-X
+c.3.3.03,Letter from Lugal-nesaŋe to a king radiant as the sun,Kiš,9,ug₅-gin₇ ki tum₂-tum₂-mu nu-zu še-gin₇ ar₃-ar₃

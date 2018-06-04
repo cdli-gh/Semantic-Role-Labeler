@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+c.2.5.5.8,An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H),,A1,in-nin egir₃ zid dumu-gir₁₅ e₂-mah-ha nitalam lugal-la
+c.2.5.5.8,An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H),,A2,nu-nus diŋir nam-nin-na tum₂ an ki-e dirig
+c.2.5.5.8,An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H),,A3,ar₂-a-ni šir₃-ra ga-mu-ni-ib-be₂ mi₂ zid-de₃-eš ga-am₃-dug₄
+c.2.5.5.8,An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H),,A4,he₂-me-a he₂-du₇
+c.2.5.5.8,An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H),,A5,me gal-la gub-be₂
+c.2.5.5.8,An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H),,A6,{d}li-pi₂-it-eš₄-tar₂ dumu {d}en-lil₂-la₂-ra mi₂ zid na-mu-ni-dug₄
+c.2.5.5.8,An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H),,A7,ze₂-eb za-e
+c.2.5.5.8,An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H),,A8,i-ib₂-ze₂-eb
+c.2.5.5.8,An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H),,A9,ki ma-ra ma-an-pad₃-de₂
+c.2.5.5.8,An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H),,A10,hul₂-la dirig
+c.2.5.5.8,An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H),,B1,
+c.2.5.5.8,An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H),,B2,
+c.2.5.5.8,An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H),,B3,{d}inana {d}li-pi₂-it-eš₄-tar₂ ur₂ kug-za
+c.2.5.5.8,An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H),,B4,ŋiš-gi₄-ŋal₂-bi-im
+c.2.5.5.8,An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H),,B5,u₃-a-di {d}inana-kam

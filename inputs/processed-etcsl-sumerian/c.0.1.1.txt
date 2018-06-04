@@ -1,0 +1,22 @@
+id_text,text_name,version,l_no,text
+c.0.1.1,Ur III catalogue from Nibru (N1),,1,dub-saŋ-ta
+c.0.1.1,Ur III catalogue from Nibru (N1),,2,{d}en-ki unu₂ gal im-ed₃
+c.0.1.1,Ur III catalogue from Nibru (N1),,3,an-zag-še₃
+c.0.1.1,Ur III catalogue from Nibru (N1),,4,an-ŋi₆ zu ama tu₆ zu-ke₄
+c.0.1.1,Ur III catalogue from Nibru (N1),,5,ŋiš-gi tuku₄-e
+c.0.1.1,Ur III catalogue from Nibru (N1),,6,me₃-ke₄
+c.0.1.1,Ur III catalogue from Nibru (N1),,7,maš-maš erim₂ kur₂-kur₂
+c.0.1.1,Ur III catalogue from Nibru (N1),,8,ŋiri₃-ŋen-na {d}en-ki ki unu₂ gal im-ed₃-kam
+c.0.1.1,Ur III catalogue from Nibru (N1),,9,šag₄ ₁-kam
+c.0.1.1,Ur III catalogue from Nibru (N1),,10,dub-saŋ-ta
+c.0.1.1,Ur III catalogue from Nibru (N1),,11,kaskal-la ₇ me-še₃
+c.0.1.1,Ur III catalogue from Nibru (N1),,12,{d}li-li-a-ke₄
+c.0.1.1,Ur III catalogue from Nibru (N1),,13,igi ₇-na in-kur₉-re-en
+c.0.1.1,Ur III catalogue from Nibru (N1),,14,šul a₂ he₂-la₂
+c.0.1.1,Ur III catalogue from Nibru (N1),,15,gu sig₁₀-ga gal-kam
+c.0.1.1,Ur III catalogue from Nibru (N1),,16,ŋiri₃-ŋen-na {d}li-li-a-kam
+c.0.1.1,Ur III catalogue from Nibru (N1),,17,šag₄ ₁-kam
+c.0.1.1,Ur III catalogue from Nibru (N1),,18,ŋiri₃ lu₂ inim zid-da
+c.0.1.1,Ur III catalogue from Nibru (N1),,19,ŋiri₃-ŋen-na-bi lu₂ nu-da-pad₃
+c.0.1.1,Ur III catalogue from Nibru (N1),,20,ŋiri₃-ŋen-na
+c.0.1.1,Ur III catalogue from Nibru (N1),,21,iri-bal-a aš₂ di-da-kam

@@ -1,0 +1,94 @@
+id_text,text_name,version,l_no,text
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,1,ur-saŋ uru₂-bad₃-da iti₇-gin₇ e₃-a
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,2,ur-saŋ {d}šul-pa-e₃ iri-bad₃-da iti₇-gin₇ e₃-a
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,3,alim-ma mu tuku {d}šul-pa-e₃ uru₂-bad₃-da iti₇-gin₇ e₃-a
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,4,lugal me gal-gal diŋir pa e₃-a
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,5,{d}šul-pa-e₃ me gal-gal diŋir pa e₃-a
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,6,nir-ŋal₂ me₃-a u₂-šim kalam-ma sud-sud
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,7,en a₂ mah il₂-il₂-i ŋiš-gaz gu₂-erim₂ ra
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,8,mu-us₂-a gu₂-tuku a-a {d}en-lil₂-la₂
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,9,šul zid {d}en-lil₂-la₂ mu mah-zu mu-un-pad₃
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,10,nir-ŋal₂ {ŋeš}tukul-a lipiš me₃-a
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,11,lu₂ ki-bal-a-ke₄ nir-ŋal₂ ki-bal-a
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,12,lugal-ŋu₁₀ za-e dim₃-me-er mah-me-en
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,13,za-e dim₃-me-er mah-me-en dam-zu ga-ša-an mah-me-en
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,14,{d}nin-hur-saŋ-ŋa₂-ke₄ ki aŋ₂-ŋa₂-ni za-e-me-en
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,15,ur-saŋ ni₂ gal diŋir-re-e-ne-me-en
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,16,ur-saŋ {d}šul-pa-e₃-a an ki-a nir-ŋal₂
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,17,mu-zu kur-kur-ra zid-de₃-eš he₂-pad₃-de₃
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,18,lugal-ŋu₁₀ nam-mah-zu kur-kur-ra zid-de₃-eš he₂-pad₃-de₃
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,19,mah-a a-ŋi₆ zig₃-ga u₁₈-lu lu₂-ra te-a
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,20,nam-lu₂-ulu₃ mušen ni₂ te-a-gin₇ šudu₃-da mu-ši-ib-ra-an
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,21,zig₃-ga ni₂ ri-a šu nu-ra-ab-la₂-e
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,22,ni₂ gur₃-ru su zig₃ gur₃-ru ni₂ gal mu-da-ri
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,23,u₄-ta-u₁₈-lu lu₂-ra te-a-me-en
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,24,mah lu₂-še₃ ur₃-ur₃-ra-me-en
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,25,lu₂-še₃ bar-bar-ra-me-en
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,26,kur-ra gana₂ gid₂-gid₂
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,27,an-ta šu bar-ra gaba-šu-ŋar nu-tuku
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,28,ud kur-ra e₃-a
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,29,ud dug₄-ga du₇-du₇
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,30,nim ŋir₂-ŋir₂-re
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,31,MI.E₂.A{mušen}-a zi ir lu₂-ra šub-bu
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,32,nam-tar šu nu-tuku ŋiri₃ nu-tuku lu₂ ŋi₆-a tum₂-mu
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,33,nam-tar-e-gin₇ ŋi₆-a du-du dim₂-e
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,34,pu₂-kiri₆ mu₂-sar ŋiš-gi sig₇-ga
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,35,niŋ₂-ur₂-limmu₂ an-edin daŋal-la
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,36,maš₂-anše niŋ₂-zi-ŋal₂ edin-na
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,37,ur-saŋ {d}šul-pa-e₃ za-e lugal-bi-me-en
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,38,an lugal diŋir-re-e-ne-ke₄ šu-za im-ma-an-šum₂
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,39,šu-za im-ma-an-šum₂ za-e lugal-bi-me-en
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,40,ur-saŋ {d}šul-pa-e₃-a šu-zu la-ba-ra-e₃
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,41,u₂ tuku u₂-na ba-ni-in-gu₇
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,42,a tuku a-na ba-ni-in-naŋ
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,43,mu diŋir-ra-na li-bi-in-pad₃-de₃
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,44,mu diŋir-ra-ni dili-a-bi ka-ga₁₄
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,45,šu diŋir-ra-X
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,46,šu
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,47,ba-an-tum₂-mu
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,48,ma-ra-an-šum₂-mu
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,49,gu-za-la₂ an {d}en-lil₂-la₂-me-en
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,50,maškim sumur diŋir-re-e-ne-me-en
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,51,en {ŋeš}banšur-ra {d}en-lil₂-la₂-me-en
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,52,lu₂-bi niŋ₂ ŋar-ra-zu la-ba-an-gid₂-de₃-en
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,53,mu-ra-an-DU
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,54,nim-ma mu-ra-ab-si-a
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,55,an-ta u₃-mu-X-ŋal₂
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,56,dugud-da tug₂-gin₇ ši-mi-dul
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,57,mi-ni-ib-dug₄-ga-ta
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,58,saŋ ŋa₂-ŋa₂ a-ra-zu ma-ra-ab-be₂
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,59,šag₄-ne-ša₄ um-ma-ra-an-pad₃
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,60,ma₂-gin₇ a-ŋi₆-a-ta im-ma-ra-an-ad-DU
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,61,im-ma-ra-an-zi-zi
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,62,kug-sig₁₇-gin₇ ba-an-dadag-ge-en
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,63,zabar-gin₇ niŋ₂-su-ub im-ma-ak-en
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,64,šu sag₉-ga diŋir-ra-na-še₃ im-ši-in-gi₄-gi₄
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,65,mu-un-zalag gu₂ mu-un-zig₃
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,66,kalam-ma dalla mu-ni-in-e₃
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,67,mu-un-zu-a-e
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,68,mu-un-e-du₃
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,69,inim-ma-bi ma-ra-an-ŋa₂-ŋa₂
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,70,dug₄-ga ma-ra-an-de₂-e
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,71,ma-ra-an-ŋa₂-ŋa₂
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,72,ki aŋ₂-zu za-e ma-ra-an-du₈-e
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,73,di₄-di₄-la₂-zu-ne za-e ma-ra-an-ŋa₂-ŋa₂
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,74,di₄-di₄-la₂-zu-ne za-e ma-ra-an-du₈-e
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,75,za gal-gal-la-zu-ne za-e ma-ra-an-du₈-e
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,76,sur-ra-zu
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,77,za-e ma-ra-an-de₂-e
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,78,ud ₁₅-kam
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,79,saŋ im-X
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,80,šir₃-ra-a
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,81,en₃-du-a
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,82,me ze₂-eb-a-bi
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,83,lugal šag₄-la₂ sug₄ kur-kur-ra-me-en
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,84,šag₄-la₂ sug₄ igi du₈-a ŋal₂
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),A,85,tur₃-ra
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),B,1,
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),B,2,
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),B,3,šag₄-ne-za-ra
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),B,4,
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),B,5,kug-ra ma-ra-keše₂
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),B,6,u₃-sa₂ tud-da a-su-ra-ba
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),B,7,su-ul-pa₃-e-a-gin₇ SI-en-da-hu-la
+c.4.31.1,A hymn to Šul-pa-e (Šul-pa-e A),B,8,tud-de₃ lu₂-gal-ŋu₁₀ mu-zu he-pad₃-de

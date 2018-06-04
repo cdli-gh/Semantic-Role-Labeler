@@ -1,0 +1,34 @@
+id_text,text_name,version,l_no,text
+c.4.13.10,An ululumama to Nanna (Nanna J),,1,en giri₁₇-zal an-na he₂-du₇
+c.4.13.10,An ululumama to Nanna (Nanna J),,2,{d}nanna si-un₃-na muš₃ me-lem₄ sud-sud
+c.4.13.10,An ululumama to Nanna (Nanna J),,3,lugal ud še-er-zid men urim₂{ki}-ma
+c.4.13.10,An ululumama to Nanna (Nanna J),,4,{d}nanna ud še-er-zid men urim₂{ki}-ma
+c.4.13.10,An ululumama to Nanna (Nanna J),,5,piriŋ gal an kug-ga dumu-saŋ {d}en-lil₂-la₂
+c.4.13.10,An ululumama to Nanna (Nanna J),,6,a alim ki aŋ₂ diŋir-re-e-ne
+c.4.13.10,An ululumama to Nanna (Nanna J),,7,ne gal kalam-ma ni₂ ri-a
+c.4.13.10,An ululumama to Nanna (Nanna J),,8,aga zid ŋidru mul-mul kur un₃-na gun₃-a
+c.4.13.10,An ululumama to Nanna (Nanna J),,9,{d}en-lil₂-la₂ me nun-e si-a
+c.4.13.10,An ululumama to Nanna (Nanna J),,10,nibru{ki} šag₄-ga
+c.4.13.10,An ululumama to Nanna (Nanna J),,11,en₃ tar-re gal-zu
+c.4.13.10,An ululumama to Nanna (Nanna J),,12,šum₂-mu
+c.4.13.10,An ululumama to Nanna (Nanna J),,13,gal
+c.4.13.10,An ululumama to Nanna (Nanna J),,14,
+c.4.13.10,An ululumama to Nanna (Nanna J),,15,niŋ₂ ba₉-ra₂
+c.4.13.10,An ululumama to Nanna (Nanna J),,16,
+c.4.13.10,An ululumama to Nanna (Nanna J),,17,
+c.4.13.10,An ululumama to Nanna (Nanna J),,18,su₃-ra₂
+c.4.13.10,An ululumama to Nanna (Nanna J),,19,u₃-na du₇-a
+c.4.13.10,An ululumama to Nanna (Nanna J),,20,a₂ nu-kuš₂-u₃-de₃
+c.4.13.10,An ululumama to Nanna (Nanna J),,21,an-na uraš-a mu-un-TU
+c.4.13.10,An ululumama to Nanna (Nanna J),,22,niŋin₂-na-bi a₂ nun aŋ₂-e
+c.4.13.10,An ululumama to Nanna (Nanna J),,23,gud-gin₇ e₂ suhuš gub-bu-gin₇
+c.4.13.10,An ululumama to Nanna (Nanna J),,24,id₂ nun tur-ni igi kar₂-kar₂-de₃
+c.4.13.10,An ululumama to Nanna (Nanna J),,25,piriŋ lu₂-erim₂-e inim kur₂ di-de₃
+c.4.13.10,An ululumama to Nanna (Nanna J),,26,ki ku₁₀-ku₁₀ an-usanₓ sud-sud-da
+c.4.13.10,An ululumama to Nanna (Nanna J),,27,šul {d}suen iti₆ niŋ₂ giri₁₇-zal uŋ₃-e u₆ mu-e
+c.4.13.10,An ululumama to Nanna (Nanna J),,28,u₈-e sila₄-bi mi₂ dug₃ im-me
+c.4.13.10,An ululumama to Nanna (Nanna J),,29,ud₅-de₃ maš₂-bi mi₂ i-ri im-me
+c.4.13.10,An ululumama to Nanna (Nanna J),,30,šul-e nitalam-ni e-ne su₃-ud mu-un-da-e
+c.4.13.10,An ululumama to Nanna (Nanna J),,31,{d}suen-e {d}nin-gal sag₉-ga-da šag₄ mu-da-ab-kuš₂-u₃
+c.4.13.10,An ululumama to Nanna (Nanna J),,32,za₃-mi₂ dug₄-ga šul {d}suen-na a-a {d}nanna-kam
+c.4.13.10,An ululumama to Nanna (Nanna J),,33,u₂-lu-lu-ma-ma {d}nanna-kam

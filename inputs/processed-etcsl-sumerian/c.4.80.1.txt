@@ -1,0 +1,538 @@
+id_text,text_name,version,l_no,text
+c.4.80.1,The temple hymns,,1,e₂-u₆-nir an ki-da mu₂-a
+c.4.80.1,The temple hymns,,2,temen an ki unu₆ gal eridug{ki}
+c.4.80.1,The temple hymns,,3,abzu eš₃ nun-bi-ir am₃-gub
+c.4.80.1,The temple hymns,,4,e₂-du₆-kug u₂ sikil-la rig₇-ga
+c.4.80.1,The temple hymns,,5,pa₅ sikil nun-na-ka a naŋ-ŋa₂
+c.4.80.1,The temple hymns,,6,kur ki sikil-la naŋa dub₂ dug₄-ga
+c.4.80.1,The temple hymns,,7,abzu tigi-zu me-kam
+c.4.80.1,The temple hymns,,8,bad₃ gal-zu šu si sa₂-am₃
+c.4.80.1,The temple hymns,,9,kilib₃-ŋal₂ ki diŋir til₃-la-za
+c.4.80.1,The temple hymns,,10,kiŋ₂ gal kiŋ₂ ki dug₃ ud nu-dib-be₂
+c.4.80.1,The temple hymns,,11,e₂ zag keše₂-zu šita sa₂ nu-di
+c.4.80.1,The temple hymns,,12,nun-zu nun gal-e men kug
+c.4.80.1,The temple hymns,,13,muš₃-za ma-ra-ni-in-ge-en eridug{ki} saŋ-men ŋal₂
+c.4.80.1,The temple hymns,,14,kiši₁₇ mu₂ kiši₁₇ sikil ed₃-de₃ susbu₃
+c.4.80.1,The temple hymns,,15,eš₃ abzu ki-zu ki gal-zu
+c.4.80.1,The temple hymns,,16,ki {d}utu-ra gu₃ de₂-za
+c.4.80.1,The temple hymns,,17,gir₄ ninda il₂ u₂ sug₄-sug₄-za
+c.4.80.1,The temple hymns,,18,u₆-nir eš₃ mah an-ne₂ us₂-sa-X-za
+c.4.80.1,The temple hymns,,19,gir₄ gal unu₆ gal-da sa₂-a-za
+c.4.80.1,The temple hymns,,20,nun-zu nun an ki nu-kur₂-ru
+c.4.80.1,The temple hymns,,21,dug₄-ga saŋ du₃ ŋeštug₂ de₅-a
+c.4.80.1,The temple hymns,,22,en {d}nu-dim₂-mud-e
+c.4.80.1,The temple hymns,,23,e₂-engur-ra muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,24,₂₃ e₂ {d}en-ki eridug{ki}-ga
+c.4.80.1,The temple hymns,,25,eš₃ nam tar-ra
+c.4.80.1,The temple hymns,,26,temen u₆-nir-ra il₂-la
+c.4.80.1,The temple hymns,,27,a₂-dam {d}en-lil₂-la₂
+c.4.80.1,The temple hymns,,28,zid-da-zu gab₂-bu-zu ki-en-gi ki-uri
+c.4.80.1,The temple hymns,,29,e₂ {d}en-lil₂-la₂ šag₄-zu ten-te-en bar-zu nam tar-ra
+c.4.80.1,The temple hymns,,30,zag-du₈ a-sal-bar-zu kur-bad₃
+c.4.80.1,The temple hymns,,31,dub-la₂ zag e₃-zu kur me-te-ŋal₂
+c.4.80.1,The temple hymns,,32,muš₃ nun-za
+c.4.80.1,The temple hymns,,33,ur₂-zu an ki-da kuš₂-u₃-de₃
+c.4.80.1,The temple hymns,,34,nun-zu nun gal {d}en-lil₂ en dug₃
+c.4.80.1,The temple hymns,,35,en zag an-na en nam tar-re-da
+c.4.80.1,The temple hymns,,36,eš₃ nibru{ki} kur gal {d}en-lil₂-le
+c.4.80.1,The temple hymns,,37,muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,38,₁₃ e₂ {d}en-lil₂ nibru{ki}-a
+c.4.80.1,The temple hymns,,39,tum-ma-al{ki} me nun-e gal pad₃-da ni₂ su zig₃ ri-a
+c.4.80.1,The temple hymns,,40,temen šu-luh sikil-zu abzu-a la₂-a
+c.4.80.1,The temple hymns,,41,iri ul ŋiš-gi gi sumun gi henbur sig₇-ga
+c.4.80.1,The temple hymns,,42,šag₄-zu kur he₂-ŋal₂-la nam-he₂-a du₃-a
+c.4.80.1,The temple hymns,,43,itid zag-mu ezen ŋal₂-la-za u₆ di tag-ga
+c.4.80.1,The temple hymns,,44,nin gal ki-ur₃-ra {d}en-lil₂-da zag ša₄-a
+c.4.80.1,The temple hymns,,45,nun-zu ama {d}nin-lil₂ nitalam ki aŋ₂ {d}nu-nam-nir-ra-kam
+c.4.80.1,The temple hymns,,46,e₂-tum-ma-al{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,47,₈ e₂ {d}nin-lil₂ nibru{ki}-a
+c.4.80.1,The temple hymns,,48,e₂-me-lem₄-huš ni₂ gal gur₃-ru
+c.4.80.1,The temple hymns,,49,eš₃-mah me nun an-ta bar-ra
+c.4.80.1,The temple hymns,,50,{e₂}šutum {d}en-lil₂-la₂ me ul-e ŋar-ra nir-ra tum₂-ma
+c.4.80.1,The temple hymns,,51,nam-nun-na saŋ il₂ na de₅ e₂-kur-ra
+c.4.80.1,The temple hymns,,52,zag-e₃ si e₂-zu muš₃ an-da
+c.4.80.1,The temple hymns,,53,eš-bar ki di gal ku₅-ru-ba id₂-lu₂-ru-gu₂
+c.4.80.1,The temple hymns,,54,zid-du u₃-tud šag₄ erim₂-ŋal₂ mud-še₃ ni₁₀-ni₁₀
+c.4.80.1,The temple hymns,,55,ki gal šu-luh sikil nam-išib-e du₇-za
+c.4.80.1,The temple hymns,,56,en {d}nu-nam-nir-da u₂ mu-ni-sug₄-sug₄
+c.4.80.1,The temple hymns,,57,nun-zu nun šag₄ kuš₂-u₃ {d}en-lil₂-ke₄ eš₃-mah tum₂-ma
+c.4.80.1,The temple hymns,,58,{d}udug e₂-kur-ra kin-gal nuska-ke₄
+c.4.80.1,The temple hymns,,59,e₂ {d}en-lil₂-la₂ muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,60,₁₂ e₂ {d}nuska nibru{ki}-a
+c.4.80.1,The temple hymns,,61,e₂-me-ur₄-an-na ki gal-la gub-ba
+c.4.80.1,The temple hymns,,62,me zid ur-saŋ iri barag-ge ki mu₂-a
+c.4.80.1,The temple hymns,,63,a₂ me₃ {ŋeš}mitum₂ šul mar-uru₅ gur₃-ru
+c.4.80.1,The temple hymns,,64,šeg₁₂ u₁₈-ru nu-silig-ge temen ud til₃-le-zu
+c.4.80.1,The temple hymns,,65,en ul-e ŋar-ra eš-bar me nun-na-kam
+c.4.80.1,The temple hymns,,66,sahar kug kur-ra ab-si-a saŋ il₂ nun-e-ne
+c.4.80.1,The temple hymns,,67,e₂ mah u₆ e₃-zu ud-gin₇ muš₃ barag₂-ga
+c.4.80.1,The temple hymns,,68,e₂-šu-me-ša₄ mu-zu {d}en-lil₂-le ni₂ huš ma-ra-ni-in-ri
+c.4.80.1,The temple hymns,,69,nun-zu gal-la ur-saŋ-e ne-ni zag dib-ba
+c.4.80.1,The temple hymns,,70,ensi₂ gal {d}en-lil₂-la₂ nir an ki-da zag ša₄-a
+c.4.80.1,The temple hymns,,71,kišib-ŋal₂ si-si a-a {d}en-lil₂-ka me nam-gal šu du₇
+c.4.80.1,The temple hymns,,72,ŋal₂ saŋ ri palil a-a {d}en-lil₂-la₂
+c.4.80.1,The temple hymns,,73,saŋ-kal piriŋ kur gal-e tud-da
+c.4.80.1,The temple hymns,,74,kur gu₂-erim₂-ŋal₂ mu-na-gul-gul en {d}nin-urta-ke₄
+c.4.80.1,The temple hymns,,75,e₂-šu-me-ša₄ muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,76,₁₅ e₂ {d}nin-urta nibru{ki}-a
+c.4.80.1,The temple hymns,,77,e₂-ŋa₂-du₆-da saŋ-ta il₂
+c.4.80.1,The temple hymns,,78,men an-edin-na ki kug ki sikil
+c.4.80.1,The temple hymns,,79,e₂ temen-zu dim gal nun-na
+c.4.80.1,The temple hymns,,80,nin-zu munus dili-e ŋa₂ barag-ge si-a
+c.4.80.1,The temple hymns,,81,du₆-saŋ-dili muš₃-zu nun-na ul am₃-mi-ni-ib-šar₂-re
+c.4.80.1,The temple hymns,,82,nun-zu šag₄ na-dab-e dirig gal-zu
+c.4.80.1,The temple hymns,,83,dumu nun kur gal-da gu₂ me-er-me-er-re
+c.4.80.1,The temple hymns,,84,{d}šu-zi-an-na dam ban₃-da a-a {d}en-lil₂-la₂-ke₄
+c.4.80.1,The temple hymns,,85,du₆-saŋ-dili muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,86,₉ e₂ {d}šu-zi-an-na ŋa₂-gi-mah-a
+c.4.80.1,The temple hymns,,87,keš₃{ki} uru₁₆ ulutim₂ an ki
+c.4.80.1,The temple hymns,,88,muš-šag₄-tur₃ gal-gin₇ ni₂ ri-a
+c.4.80.1,The temple hymns,,89,e₂ {d}nin-hur-saŋ-ŋa₂ ki sumur-ra du₃-a
+c.4.80.1,The temple hymns,,90,keš₃{ki} aratta{ki} šag₄-zu šag₄ sig bar-zu al-il₂
+c.4.80.1,The temple hymns,,91,ug gal an-edin-na šid-da edin-na dag-ga
+c.4.80.1,The temple hymns,,92,hur-saŋ gal mu₇-mu₇-ta ri-a
+c.4.80.1,The temple hymns,,93,šag₄ u₂-sa₁₁-an šag₄ iti₆ nu-e₃ {d}nin-tur₅-ra sig₇-ga
+c.4.80.1,The temple hymns,,94,e₂ keš₃{ki} šeg₁₂-zu tud-tud-zu
+c.4.80.1,The temple hymns,,95,gi-gu₃-na-zu suh₁₀ za-gin₃ bar-zu du₃-a-zu
+c.4.80.1,The temple hymns,,96,nun-zu nun šeg₅-šeg₅-ga nin zid gal an-na
+c.4.80.1,The temple hymns,,97,dug₄-ga-ni an dub₂-bu ka ba-a-ni ud te-eš di
+c.4.80.1,The temple hymns,,98,{d}a-ru-ru nin₉ {d}en-lil₂-la₂-ke₄
+c.4.80.1,The temple hymns,,99,e₂ keš₃{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,100,₁₃ e₂ {d}nin-hur-saŋ-ŋa₂ keš₃{ki}-a
+c.4.80.1,The temple hymns,,101,urim₂{ki} ninda₂ gi duru₅ sug₂-ga
+c.4.80.1,The temple hymns,,102,e₂-kiš-nu-ŋal₂ amar ab₂ gal-la ud an kug-ga
+c.4.80.1,The temple hymns,,103,šilam-za ŋiš-bur₂ gud₃-a nu₂-a
+c.4.80.1,The temple hymns,,104,urim₂{ki} pisaŋ₃ gu₇ kur-kur-ra
+c.4.80.1,The temple hymns,,105,eš₃ ki sikil-la uraš an-na
+c.4.80.1,The temple hymns,,106,e₂ {d}suen igi-zu-še₃ nun a-ga-zu-še₃ barag
+c.4.80.1,The temple hymns,,107,ŋišbun-zu a-da-ab unu₂ gal-zu kug šem₅ {kuš}a₂-la₂
+c.4.80.1,The temple hymns,,108,ud e₃-zu nam-en zid-da-zu nam kal-kal
+c.4.80.1,The temple hymns,,109,ŋi₆-par₃ eš₃ nun me kug-ga ud zal-zal-le
+c.4.80.1,The temple hymns,,110,e₂-kiš-nu-ŋal₂ iti₆ sah₆-sah₆ kalam-ma e₃-a
+c.4.80.1,The temple hymns,,111,ud MAŠ daŋal kur-kur-re si-a
+c.4.80.1,The temple hymns,,112,e₂ muš₃-zu muš-gal sug muš-a
+c.4.80.1,The temple hymns,,113,temen-zu abzu ₅₀ engur ₇-e
+c.4.80.1,The temple hymns,,114,eš₃ šag₄ diŋir-re-e-ne-ke₄ igi i₃-ŋal₂
+c.4.80.1,The temple hymns,,115,nun-zu nun ka-aš bar men an daŋal-la
+c.4.80.1,The temple hymns,,116,lugal an-kam {d}aš-im₂-babbar-e
+c.4.80.1,The temple hymns,,117,eš₃ urim₂{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,118,₁₇ e₂ {d}nanna urim₂{ki}-ma
+c.4.80.1,The temple hymns,,119,e₂-mu-mah hur-saŋ il₂ an-na
+c.4.80.1,The temple hymns,,120,uš kug temen gal-zu nam kal-kal
+c.4.80.1,The temple hymns,,121,šag₄ me nun si ud zalag-ga e₃-a
+c.4.80.1,The temple hymns,,122,eš₃ bar-zu an sig₇-ga igi e₃-zu uŋ₃ šar₂-ra
+c.4.80.1,The temple hymns,,123,kalam-ma zu₂ keše₂ ŋal₂ dub₃-us₂ dili-am₃
+c.4.80.1,The temple hymns,,124,id₂ mah ka ŋal₂ taka₄ me ur₄-ur₄
+c.4.80.1,The temple hymns,,125,ur₂-zu ni₂ gal hur-saŋ zid ki daŋal-e mu₂-a
+c.4.80.1,The temple hymns,,126,ki-tuš mah-zu niŋ₂ mah me šar₂ nam-nun-na
+c.4.80.1,The temple hymns,,127,šeg₁₁ gi₄-gi₄
+c.4.80.1,The temple hymns,,128,e₂ giri₁₇-zal muš₃-zu a₂-dam-ma ul šar₂
+c.4.80.1,The temple hymns,,129,e₂ nun-zu šul-gi mi-ni-ib-gal nun-nun-na
+c.4.80.1,The temple hymns,,130,šu du₇ mah-di tum₉ u₁₈-ru-un gal-la
+c.4.80.1,The temple hymns,,131,me še-er-ka-an di nam tar-re-da
+c.4.80.1,The temple hymns,,132,e₂-hur-saŋ šul-gi an-na-ke₄
+c.4.80.1,The temple hymns,,133,muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,134,₁₅ tah-hu-um e₂-hur-saŋ šul-gi urim₂{ki}-ma
+c.4.80.1,The temple hymns,,135,iri abzu-ta še-gin₇ sur-ra
+c.4.80.1,The temple hymns,,136,edin muru₉ šag₄-ta me šu ti
+c.4.80.1,The temple hymns,,137,kuara{ki} temen unu₂ zid-zu
+c.4.80.1,The temple hymns,,138,en niŋ₂-šu nu-gi₄ u₆-e am₃-ma-gub
+c.4.80.1,The temple hymns,,139,abgal ₇-e sig nim-ta šu mu-ra-ni-in-mu₂-uš
+c.4.80.1,The temple hymns,,140,nun-zu nun kal-kal {d}asar-lu₂-hi lu₂ kal-kal
+c.4.80.1,The temple hymns,,141,ur-saŋ nun gir₁₅ tud-da nemurₓ kar dib-be₂
+c.4.80.1,The temple hymns,,142,ud du₇-du₇-gin₇ ki-bal-da du₇-du₇
+c.4.80.1,The temple hymns,,143,en-na nu-še-ga eme sig-ga nu₂-a
+c.4.80.1,The temple hymns,,144,{d}asar-alim-nun-na dumu abzu-ke₄
+c.4.80.1,The temple hymns,,145,e₂ kuara{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,146,₁₁ e₂ {d}asar-lu₂-hi kuara{ki}
+c.4.80.1,The temple hymns,,147,e₂-gud-du₇-šar₂ {na₄}nir₂ kug-ga lugal-bi u₅-a
+c.4.80.1,The temple hymns,,148,ŋiš-bur₂ mah il₂ dumu nun-na
+c.4.80.1,The temple hymns,,149,u₂ li dug₃-bi kug dug₃-ba ŋal₂-la
+c.4.80.1,The temple hymns,,150,ŋa₂-bur-ra tur₃ kug ab₂ {u₂}munzer niŋin₂-na
+c.4.80.1,The temple hymns,,151,nun-zu am gal am-si a₂-ni-še₃ hul₂-la
+c.4.80.1,The temple hymns,,152,sumun₂ si mu₂ si-muš₃-a-ni-še₃ hul₂-la
+c.4.80.1,The temple hymns,,153,maš-maš eme ha-mun dungu an-na bi₂-DU
+c.4.80.1,The temple hymns,,154,ud an-na gu₃ mur ak ud-de₃ ki šu ra-ra šum₂-mu
+c.4.80.1,The temple hymns,,155,{d}nin-gublagaₓ dumu {d}nanna-a-ke₄
+c.4.80.1,The temple hymns,,156,ki-abrig{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi-in-ŋar
+c.4.80.1,The temple hymns,,157,₁₀ e₂ {d}nin-gublagaₓ ki-abrig{ki}
+c.4.80.1,The temple hymns,,158,eš₃ agrun gal tur₃-e ri-a
+c.4.80.1,The temple hymns,,159,iri ban₃-da su₃-ra₂-aŋ₂ {d}suen-na
+c.4.80.1,The temple hymns,,160,kar-zid-da šag₄-zu ki u₁₈-ru-na temen-zu kug šen
+c.4.80.1,The temple hymns,,161,eš₃ ŋi₆-par₃-zu sikil-e ŋar-ra
+c.4.80.1,The temple hymns,,162,{ŋeš}ig-zu urud niŋ₂ kalag-ga ki gal-e ŋar-ra
+c.4.80.1,The temple hymns,,163,{e₂}tur₃ gu₃ nun ninda₂-gin₇ si ib₂-il₂
+c.4.80.1,The temple hymns,,164,nun-zu en an-na ul šar₂-a gub-ba
+c.4.80.1,The temple hymns,,165,an-bar sud-a gaba bur₂
+c.4.80.1,The temple hymns,,166,kar-zid-da {d}aš-im₂-babbar₂-re
+c.4.80.1,The temple hymns,,167,muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,168,₁₀ e₂ {d}nanna ga-eš₈{ki}-a
+c.4.80.1,The temple hymns,,169,e₂ an-ta e₃-a dalla e₃ kul-aba₄{ki}-a
+c.4.80.1,The temple hymns,,170,eš₃ e₂-babbar₂ ninda₂ babbar₂
+c.4.80.1,The temple hymns,,171,gu₂-zu {d}utu-ra an-na te-na-ab
+c.4.80.1,The temple hymns,,172,si-muš₃-zu ma-sila₃ tu₁₁-tu₁₁ kug za-gin₃-na
+c.4.80.1,The temple hymns,,173,sun₄ {na₄}za-gin₃ duru₅-e la₂
+c.4.80.1,The temple hymns,,174,nun-zu ud uru₁₆ en gu₃ zid
+c.4.80.1,The temple hymns,,175,an-ur₂ zalag-ge an-pa zalag-ge
+c.4.80.1,The temple hymns,,176,{d}utu lugal e₂-babbar₂-ra-ke₄
+c.4.80.1,The temple hymns,,177,e₂ larsam{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,178,₉ e₂ {d}utu larsam{ki}-ma
+c.4.80.1,The temple hymns,,179,enegir{ki} a-pap gal a-pap ki-a {d}ereš-ki-gal-la-ka
+c.4.80.1,The temple hymns,,180,gu₂-du₈-a ki-en-gi-ra gu₂ si-a nam-lu₂-ulu₃
+c.4.80.1,The temple hymns,,181,e₂-gid₂-da ŋissu-zu nun kur-ra-ke₄-ne kur-ra ša-mu-ni-in-la₂
+c.4.80.1,The temple hymns,,182,nun-zu a en gal-la šita ki gal-la {d}ereš-ki-gal-la-ke₄ tud-da
+c.4.80.1,The temple hymns,,183,gu₃ nun za-na-ru-ba šu tag-ga amar ad-ba sag₉-sag₉
+c.4.80.1,The temple hymns,,184,{d}nin-a-zu inim šudu₃-da-ke₄
+c.4.80.1,The temple hymns,,185,e₂ enegir{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,186,₇ e₂ {d}nin-a-zu enegir{ki}-ra
+c.4.80.1,The temple hymns,,187,ki ul kur sig galam-e ŋar-ra
+c.4.80.1,The temple hymns,,188,itima ki huš šag₄-tum₂-ma ri-a
+c.4.80.1,The temple hymns,,189,su zig₃ a-ra₂ mah lu₂ nu-pad₃-de₃
+c.4.80.1,The temple hymns,,190,ŋiš-ban₃-da{ki} si-ŋar igi-te-en gana₂ ki gal ŋiri₃ nu-ed₃
+c.4.80.1,The temple hymns,,191,bar gi₄-a nim-ma {ŋeš}es₂-ad-gin₇ rib-ba
+c.4.80.1,The temple hymns,,192,šag₄-zu ki ud e₃ nam-he₂ daŋal šum₂-mu
+c.4.80.1,The temple hymns,,193,nun-zu nun šu sikil gid₂ kug an-na-ke₄
+c.4.80.1,The temple hymns,,194,siki ul he-nun bar-ra ŋal₂-la en {d}nin-ŋiš-zid-da
+c.4.80.1,The temple hymns,,195,{d}nin-ŋiš-zid-da-ke₄ ŋiš-ban₃-da{ki}
+c.4.80.1,The temple hymns,,196,muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,197,₁₀ e₂ {d}nin-ŋiš-zid-da ŋiš-ban₃-da{ki}-a
+c.4.80.1,The temple hymns,,198,e₂ me gal kul-aba₄{ki}-a muš₃-e eš₃ gal mu₂-a
+c.4.80.1,The temple hymns,,199,gibil gurun-na sig₇-ga u₆ di hi-li gur₃-ru
+c.4.80.1,The temple hymns,,200,an-šag₄-ta ed₃-de₃ eš₃ gud-de₃ du₃-a
+c.4.80.1,The temple hymns,,201,e₂-an-na e₂ ub ₇ izi ₇ ŋi₆ u₃-na il₂-la
+c.4.80.1,The temple hymns,,202,kurku₂ ₇-e igi ŋal₂
+c.4.80.1,The temple hymns,,203,nun-zu an-ur₂-ra-am₃ sikil
+c.4.80.1,The temple hymns,,204,nin-zu {d}inana niŋ₂ bur-ra-am₃
+c.4.80.1,The temple hymns,,205,munus-ra še-er-ka-an di nitah-ra saŋ tug₂ dul-lu
+c.4.80.1,The temple hymns,,206,suh₁₀ kurku₂ za-gin₃-na ušumgal niŋin₃-ŋar-ra
+c.4.80.1,The temple hymns,,207,UN-gal an ki-a {d}inana-ke₄
+c.4.80.1,The temple hymns,,208,e₂-an-na muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,209,₁₁ e₂ {d}inana unug{ki}-ga
+c.4.80.1,The temple hymns,,210,e₂ u₂ za-gin₃ ŋiš-nu₂ gi-rin-na barag₂-ga
+c.4.80.1,The temple hymns,,211,a₂-nu₂-da kug {d}inana-ke₄
+c.4.80.1,The temple hymns,,212,ki šag₄ kuš₂-u₃ in-nin₉ edin-ka
+c.4.80.1,The temple hymns,,213,šeg₁₂ e₂-muš₃-a gi-rin kug im ŋar-ra
+c.4.80.1,The temple hymns,,214,an-edin-na u₈ lu-a-ra
+c.4.80.1,The temple hymns,,215,an-BAD₃-zu e₂ a-ra-li-ka sipad-ra ša-mu-ni-in-la₂
+c.4.80.1,The temple hymns,,216,nun-zu piriŋ dib edin-na šuba nu-gig-ga
+c.4.80.1,The temple hymns,,217,gaba kug-ga u₆ di en dam kug {d}inana
+c.4.80.1,The temple hymns,,218,{d}dumu-zid lugal e₂-muš₃-a-ke₄
+c.4.80.1,The temple hymns,,219,bad₃-tibira{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,220,₁₀ e₂ {d}dumu-zid bad₃-tibira{ki}-a
+c.4.80.1,The temple hymns,,221,e₂-igi-zu-u₁₈-ru šag₄-zu-ta nam-he₂
+c.4.80.1,The temple hymns,,222,e₂ niŋ₂ ŋar-ra-zu kur he₂-gal-la
+c.4.80.1,The temple hymns,,223,e₂ šim-zu kur ŋeštin-na
+c.4.80.1,The temple hymns,,224,sukkal zid-zu kin-gal an-na
+c.4.80.1,The temple hymns,,225,e₂ nun-zu palil diŋir-re-e-ne
+c.4.80.1,The temple hymns,,226,sukkal zid e₂-an-na ŋidru kug šu du₇-e
+c.4.80.1,The temple hymns,,227,{d}nin-šubur sukkal zid e₂-an-na-ke₄
+c.4.80.1,The temple hymns,,228,e₂-akkil muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,229,₈ e₂ {d}nin-šubur akkilₓ{ki}
+c.4.80.1,The temple hymns,,230,iri abzu-ta barag-ga ri-a nam-išib-e ŋar-ra
+c.4.80.1,The temple hymns,,231,e₂ mu₇-mu₇ an ki-a šid-da
+c.4.80.1,The temple hymns,,232,sud-sud
+c.4.80.1,The temple hymns,,233,gal dam-zu
+c.4.80.1,The temple hymns,,234,a₂-ŋal₂
+c.4.80.1,The temple hymns,,235,
+c.4.80.1,The temple hymns,,236,an kug ki sikil-la a gub₂-ba
+c.4.80.1,The temple hymns,,237,{d}nin-girim₃ nin a gub₂-ba dadag-ga
+c.4.80.1,The temple hymns,,238,e₂ mu-ru-um{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,239,₉ e₂ {d}nin-girim₃ mu-ru-um{ki}
+c.4.80.1,The temple hymns,,240,e₂-ninnu a₂ zid-da lagaš{ki} gu₂-gal ki-en-gi-ra
+c.4.80.1,The temple hymns,,241,anzud{mušen} kur-še₃ igi il₂-la
+c.4.80.1,The temple hymns,,242,šar₂-ur₃ {d}nin-ŋir₂-su kur-kur-ta
+c.4.80.1,The temple hymns,,243,a₂ me₃ ud huš lu₂-ra su₃-su₃
+c.4.80.1,The temple hymns,,244,{d}a-nun-na diŋir gal-gal-e-ne a₂ me₃ šum₂-mu
+c.4.80.1,The temple hymns,,245,šeg₁₂ du₆ kug-ta nam tar-re-da hur-saŋ-gin₇ sig₇-ga
+c.4.80.1,The temple hymns,,246,id₂-zu a lu mun kug ha-mun-na dal-a
+c.4.80.1,The temple hymns,,247,kan₄ iri-kug{ki}-še₃ ŋal₂-la-za
+c.4.80.1,The temple hymns,,248,bur sig₇ an kug-ga kurun₂ de₂-a an-na sug₂-ga-bi
+c.4.80.1,The temple hymns,,249,niŋ₂ ku₄-ku₄ niŋ₂ sa₂ nu-di-dam
+c.4.80.1,The temple hymns,,250,niŋ₂ e₃ niŋ₂ nu-silig-ge-dam
+c.4.80.1,The temple hymns,,251,šu-gar₃ igi huš e₂ me-lem₄-ma
+c.4.80.1,The temple hymns,,252,ki di ku₅-ru en {d}nin-ŋir₂-su-ke₄
+c.4.80.1,The temple hymns,,253,ni₂ gal-la su zig₃ du₈-du₈-am₃
+c.4.80.1,The temple hymns,,254,kurun₂ gal-zu-še₃ diŋir {d}a-nun-na ši-im-ma-sug₂-sug₂-ge-eš
+c.4.80.1,The temple hymns,,255,nun-zu u₁₈-lu sumur ki-bal uru₂ gul-lu
+c.4.80.1,The temple hymns,,256,lugal-zu am huš a₂ pad₃-da piriŋ huš saŋ dub₂-dub₂-bu
+c.4.80.1,The temple hymns,,257,ur-saŋ nam-en-na sa₂ sig₁₀-sig₁₀-ge₅
+c.4.80.1,The temple hymns,,258,nam-lugal-la u₃-ma gub-gub-bu
+c.4.80.1,The temple hymns,,259,kalag-ga ur-saŋ gal me₃-a en gaba gi₄ nu-tuku
+c.4.80.1,The temple hymns,,260,dumu {d}en-lil₂-la₂ en {d}nin-ŋir₂-su{ki}-ke₄
+c.4.80.1,The temple hymns,,261,e₂-ninnu muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,262,₂₂ e₂ {d}nin-ŋir₂-su lagaš{ki}-a
+c.4.80.1,The temple hymns,,263,iri-kug eš₃ numun i-i an kug-ga mu dug₃-ga sa₄-a
+c.4.80.1,The temple hymns,,264,šag₄-zu id₂-lu₂-ru-gu₂ lu₂ zid dadag-ge
+c.4.80.1,The temple hymns,,265,e₂-ŋalga-sud erim₃ kug {na₄}za-gin₃-na gi₁₆-sa-še₃ ak-a
+c.4.80.1,The temple hymns,,266,e₂-tar-sir₂-sir₂ eš-bar me i-i meš₃-e giri₁₇ šu ŋal₂
+c.4.80.1,The temple hymns,,267,nun-zu nun šag₄-la₂ sug₄ kalam-ma ama kur-kur-ra
+c.4.80.1,The temple hymns,,268,nin a-zu gal saŋ gig₂-ga nam iri-na tar-re
+c.4.80.1,The temple hymns,,269,dumu-saŋ an kug-ga ki-sikil ama {d}ba-u₂
+c.4.80.1,The temple hymns,,270,e₂ iri-kug muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,271,₈ e₂ {d}ba-u₂ iri-kug-ga
+c.4.80.1,The temple hymns,,272,e₂ šilam
+c.4.80.1,The temple hymns,,273,iri dalla e₃ nun-ra gun₃-a
+c.4.80.1,The temple hymns,,274,sirara₃{ki} ki gal nun-e
+c.4.80.1,The temple hymns,,275,eš₃-e šid-da-zu
+c.4.80.1,The temple hymns,,276,nin-zu {d}nanše ud gal-la a-ŋi₆ uru₁₆-na
+c.4.80.1,The temple hymns,,277,peš₁₀ a-ab-ba-ka tud-da-a
+c.4.80.1,The temple hymns,,278,uh₂-pu₂ ab-ba-ka zu₂ li-li
+c.4.80.1,The temple hymns,,279,a i-zi-ba e-ne dug₄-dug₄
+c.4.80.1,The temple hymns,,280,{d}nanše nin
+c.4.80.1,The temple hymns,,281,e₂ sirara₃{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,282,₁₀ e₂ {d}nanše sirara₃{ki}
+c.4.80.1,The temple hymns,,283,e₂-ab-šag₄-ga-la₂-a ki kug-ga du₃-a
+c.4.80.1,The temple hymns,,284,gu₂-ab-ba{ki} šag₄-zu niŋ₂ u₃-tud erim₃ ŋar-ŋar-a
+c.4.80.1,The temple hymns,,285,eš₃ kug šilam niŋ₂ nu-silig-ge
+c.4.80.1,The temple hymns,,286,nun-zu {d}nin-ŋa₂-gi₄-a aŋrig mah
+c.4.80.1,The temple hymns,,287,kalag-ga a-a {d}en-lil₂-la₂
+c.4.80.1,The temple hymns,,288,en {d}nu-nam-nir-da šag₄ kuš₂-u₃
+c.4.80.1,The temple hymns,,289,tud-da a-ŋi₆ a-ab-ba-ka
+c.4.80.1,The temple hymns,,290,a-a-ni-gin₇ enkud ab sikil-sikil-la
+c.4.80.1,The temple hymns,,291,e₂ gu₂-ab-ba{ki} kug {d}nin-mar-ki-ke₄
+c.4.80.1,The temple hymns,,292,muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,293,₁₀ e₂ {d}nin-mar-ki gu₂-ab-ba{ki}
+c.4.80.1,The temple hymns,,294,e₂ ki-nir-ša{ki} nin-bi-ra tum₂-ma
+c.4.80.1,The temple hymns,,295,hur-saŋ-gin₇ sig₇-ga u₆-nir-ra il₂-la
+c.4.80.1,The temple hymns,,296,e₂ ki šag₄ hul₂-la-da gu₃ nun-bi di-e
+c.4.80.1,The temple hymns,,297,e₂ nun-zu ud piriŋ-ŋa₂ u₅-a
+c.4.80.1,The temple hymns,,298,šir₃ kug šir₃ ha-mun-na il₂-la e-ne ad gal dug₄-dug₄
+c.4.80.1,The temple hymns,,299,dumu u₃-sumun₂ zid ama ugu-na gaba kug-ga mi₂ dug₄-ga
+c.4.80.1,The temple hymns,,300,eš₃ ki-nir-ša{ki} {d}dumu-zid-abzu-ke₄
+c.4.80.1,The temple hymns,,301,muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,302,₇ e₂ {d}dumu-zid-abzu ki-nir-ša{ki}-a
+c.4.80.1,The temple hymns,,303,e₂-bur-sig₇-sig₇ an-ne₂ sug₂-ga
+c.4.80.1,The temple hymns,,304,unu₂ uru₁₆ dug₄-ge sa₂ dug₄
+c.4.80.1,The temple hymns,,305,he-nun ab-šag₄-ga unu₂-RI-ban₃-da
+c.4.80.1,The temple hymns,,306,kug-ge u₃-gul ŋa₂-ra asila la₂-a
+c.4.80.1,The temple hymns,,307,e₂-mah e₂ {d}šara₂ lu₂ zid-de₃
+c.4.80.1,The temple hymns,,308,nam-he₂-a šu mu-ra-ni-in-mu₂
+c.4.80.1,The temple hymns,,309,e₂-zu e₂-mah nun-zu dumu nun nu-gig-ga
+c.4.80.1,The temple hymns,,310,sigₓ sal-sal muš₂ he-nun silim
+c.4.80.1,The temple hymns,,311,gu₂-tar la₂-la₂ igi bar šilam-ma
+c.4.80.1,The temple hymns,,312,{d}šara₂ niŋ₂ dug₃ dumu ama-ni-ir me ba-a
+c.4.80.1,The temple hymns,,313,e₂ umma{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,314,₁₁ e₂ {d}šara₂ umma{ki}-a
+c.4.80.1,The temple hymns,,315,e₂-še-er-zid-gur₃-ru unu₂ šuba la₂
+c.4.80.1,The temple hymns,,316,ni₂ gal niŋin₃-ŋar kug {d}inana-ke₄
+c.4.80.1,The temple hymns,,317,me zid me-a šu daŋal tag-ga
+c.4.80.1,The temple hymns,,318,zabalam{ki} eš₃ kur šuba eš₃ ud zal-le
+c.4.80.1,The temple hymns,,319,kurku₂-a ad mi-ni-in-pad₃
+c.4.80.1,The temple hymns,,320,unu₂ zid-zu nu-gig-ge kurku₂-a ma-ra-ni-in-ri
+c.4.80.1,The temple hymns,,321,nin-zu {d}inana DAG.KISIM₅×X munus dili-e
+c.4.80.1,The temple hymns,,322,ušumgal lu₂ inim kur₂ di
+c.4.80.1,The temple hymns,,323,niŋ₂ babbar₂-ra saŋ mu₂-mu₂-mu₂ ki-bal-še₃ saŋ ŋa₂-ŋa₂
+c.4.80.1,The temple hymns,,324,ŋiš-he₂ u₂-sa₁₁-an-na ni₂-te-a-ni-še₃ sig₇-ga
+c.4.80.1,The temple hymns,,325,dumu gal {d}suen-na kug {d}inana-ke₄
+c.4.80.1,The temple hymns,,326,e₂ ki zabalam{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,327,₁₂ e₂ {d}inana zabalam{ki}-a
+c.4.80.1,The temple hymns,,328,e₂ piriŋ gal-gin₇ su-lim gur₃-ru
+c.4.80.1,The temple hymns,,329,eš-bar an-edin-na ud-de₃ galam e₃
+c.4.80.1,The temple hymns,,330,e₂ {d}iškur-ra igi-zu-še₃ he₂-ŋal₂ a-ga-zu-še₃ giri₁₇-zal
+c.4.80.1,The temple hymns,,331,temen ŋal₂-zu ninda₂ si piriŋ
+c.4.80.1,The temple hymns,,332,šibir kug ubur an-na šeŋₓ še gu-nu
+c.4.80.1,The temple hymns,,333,dub-la₂-za e₂-za am si bad
+c.4.80.1,The temple hymns,,334,temen e₂-ŋar₈ ni₂ il₂-i-zu
+c.4.80.1,The temple hymns,,335,dungu sir₂-ra
+c.4.80.1,The temple hymns,,336,muš-ŋiri₂
+c.4.80.1,The temple hymns,,337,iti₆
+c.4.80.1,The temple hymns,,338,nam-gu₇ {d}iškur a-ma-ru ur₃-ra
+c.4.80.1,The temple hymns,,339,u₁₈-lu {tum₉}mir ₇
+c.4.80.1,The temple hymns,,340,{tum₉}mir dal-dal
+c.4.80.1,The temple hymns,,341,ur₂-ta im₂-ma
+c.4.80.1,The temple hymns,,342,hur-saŋ {na₄}esi na₄-a na muš₃ ba-dar-dar-e
+c.4.80.1,The temple hymns,,345,
+c.4.80.1,The temple hymns,,346,numun kalam
+c.4.80.1,The temple hymns,,347,nun ku₃-ŋal₂ an ki-a
+c.4.80.1,The temple hymns,,348,zi-ŋal₂ uŋ₃ lu-a
+c.4.80.1,The temple hymns,,349,{d}iškur-re
+c.4.80.1,The temple hymns,,350,e₂ karkara{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,351,₂₃ e₂ {d}iškur karkara{ki}-Xbr
+c.4.80.1,The temple hymns,,352,saŋ-kul an-ne₂ ki ŋar-ra
+c.4.80.1,The temple hymns,,353,
+c.4.80.1,The temple hymns,,354,an ki-da
+c.4.80.1,The temple hymns,,355,{d}en-ki-ke₄ ki
+c.4.80.1,The temple hymns,,356,
+c.4.80.1,The temple hymns,,358,
+c.4.80.1,The temple hymns,,361,muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,362,₁₀ e₂ {d}X X{ki}-a
+c.4.80.1,The temple hymns,,365,{d}en-X
+c.4.80.1,The temple hymns,,366,muš₃-zu an-ne₂ nam a
+c.4.80.1,The temple hymns,,367,e₂-mah e₂ šar₂-ra nin-bi-ra tum₂-ma
+c.4.80.1,The temple hymns,,368,igi-zu ni₂ gal gur₃-ru šag₄-zu me-lem₄ sud
+c.4.80.1,The temple hymns,,369,ama {d}nin-tur₅ {d}en-lil₂ {d}en-ki-ke₄ nam tar-ra
+c.4.80.1,The temple hymns,,370,e₂-sug₄-ga-a ŋiri₃ mu₂-mu₂ zi saŋ gig₂-ga
+c.4.80.1,The temple hymns,,371,me mah-a an-ne₂ an-šag₄-ta mu-ra-an-šum₂
+c.4.80.1,The temple hymns,,372,uz-ga kug-ga eš₃ ŋa₂-ŋa₂-zu
+c.4.80.1,The temple hymns,,373,{d}nin-hur-saŋ-ŋa₂-ke₄ keš₃{ki}-a dug₃-bi mu-un-ŋa₂-ŋa₂
+c.4.80.1,The temple hymns,,374,e₂ me gal-la du₈ sikil-la šu-luh dadag-ga
+c.4.80.1,The temple hymns,,375,{d}aš₇-gi₄ diŋir adab{ki}-a-ke₄
+c.4.80.1,The temple hymns,,376,adab{ki} e₂ id₂-de₃ la₂-a re
+c.4.80.1,The temple hymns,,377,e₂ adab{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,378,₁₅ e₂ {d}nin-hur-saŋ-ŋa₂ adab{ki}-a
+c.4.80.1,The temple hymns,,379,i₃-si-in{ki} iri an-ne₂ ki ŋar-ra šag₄-sig-ga ša-mu-un-du₃
+c.4.80.1,The temple hymns,,380,igi-bi u₁₈-ru-am₃ šag₄-bi galam kad₅-am₃
+c.4.80.1,The temple hymns,,381,me-bi me an-ne₂ nam tar-ra
+c.4.80.1,The temple hymns,,382,barag-sig₉-ga {d}en-lil₂-le ki aŋ₂
+c.4.80.1,The temple hymns,,383,ki nam tar-re an {d}en-lil₂-la₂
+c.4.80.1,The temple hymns,,384,ki ninda gu₇ diŋir gal-gal-e-ne
+c.4.80.1,The temple hymns,,385,ni₂ gal-la su zig₃ du₈-du₈-am₃
+c.4.80.1,The temple hymns,,386,kurun₂ gal-zu-še₃ diŋir {d}a-nun-na ši-im-ma-sug₂-sug₂-ge-eš
+c.4.80.1,The temple hymns,,387,nun-zu ama nu-gig unu₂ šuba-a sud-sud
+c.4.80.1,The temple hymns,,388,niŋin₃-ŋar ki kug-ga-kam-ma ŋa₂-ŋa₂
+c.4.80.1,The temple hymns,,389,nu-u₈-gig-ra suh₁₀ keše₂ di
+c.4.80.1,The temple hymns,,390,nu-bar-ra ubur ₇ si sa₂-sa₂-e
+c.4.80.1,The temple hymns,,391,kurku₂-a ₇-e ad mi-ni-in-pad₃
+c.4.80.1,The temple hymns,,392,nin-zu a-zu gal kalam-ma
+c.4.80.1,The temple hymns,,393,nin-isin₂-na dumu an-na-ke₄
+c.4.80.1,The temple hymns,,394,e₂ i₃-si-in{ki} muš₃-za e₂ bi₂-in-gub barag dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,395,₁₆ e₂ {d}nin-isin₂-na i₃-si-in{ki}-na
+c.4.80.1,The temple hymns,,396,ka-zal-lu{ki} suh₁₀-zu an-šag₄-ga
+c.4.80.1,The temple hymns,,397,su₃-ra₂-aŋ₂ u₆-e gub-ba
+c.4.80.1,The temple hymns,,398,nun-zu a ninda₂ am-e tud-da
+c.4.80.1,The temple hymns,,399,mah igi gun₃ en zu₂ piriŋ-ŋa₂
+c.4.80.1,The temple hymns,,400,umbin-še-ba amar šu ti-a
+c.4.80.1,The temple hymns,,401,šu ti-a
+c.4.80.1,The temple hymns,,402,šu ti-a
+c.4.80.1,The temple hymns,,403,gi₄-gi₄ ŋal₂-la a₂ šum₂-mu
+c.4.80.1,The temple hymns,,404,kun₄-sa-tu en gal {d}nu-muš-da-ke₄
+c.4.80.1,The temple hymns,,405,ka-zal-lu{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,406,₁₀ e₂ {d}nu-muš-da ka-zal-lu{ki}
+c.4.80.1,The temple hymns,,407,e₂-igi-kalam-ma uš ki ŋar-ra
+c.4.80.1,The temple hymns,,408,hur-saŋ mu₂-a daŋal ki us₂-sa
+c.4.80.1,The temple hymns,,409,kur gu₂-erim₂-ŋal₂-e
+c.4.80.1,The temple hymns,,410,an ki {d}nin-X
+c.4.80.1,The temple hymns,,411,
+c.4.80.1,The temple hymns,,412,
+c.4.80.1,The temple hymns,,414,muš₃-za e₂ bi₂-in-gub barag dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,415,₈ e₂ {d}lugal-mar₂-da mar₂-da{ki}
+c.4.80.1,The temple hymns,,416,BAD₃.AN{ki} eš-bar-re gal kiŋ₂-ŋa₂ šar₂ dug₄-ge gib-ba
+c.4.80.1,The temple hymns,,417,kan₄ ni₂ me-lem₄ ŋal₂-la-za
+c.4.80.1,The temple hymns,,418,ŋiš-bur₂-de₃ muš-šag₄-tur₃ muš-huš-e gu₂-da am₃-mi-ib-la₂
+c.4.80.1,The temple hymns,,419,nun-zu mas-su diŋir-re-e-ne
+c.4.80.1,The temple hymns,,420,sa₂ pad₃-de₃ mah di-de₃ he₂-du₇
+c.4.80.1,The temple hymns,,421,dumu {d}uraš-a me zid nam-nun-na gal-zu
+c.4.80.1,The temple hymns,,422,{d}ištaran lugal an-na-ke₄
+c.4.80.1,The temple hymns,,423,e₂-dim-gal-kalam-ma muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,424,₈ e₂ {d}ištaran BAD₃.AN{ki}-a
+c.4.80.1,The temple hymns,,425,e₂-sikil me sikil-bi kur-kur-ra dirig-ga
+c.4.80.1,The temple hymns,,426,mu-bi sukud u₁₈-ru ki-tuš mah ur-saŋ-ŋa₂
+c.4.80.1,The temple hymns,,427,e₂ kug {d}nin-a-zu e₂ me kug-kug-ga
+c.4.80.1,The temple hymns,,428,e₂ me-zu me sikil šu-luh-zu šu-luh dadag
+c.4.80.1,The temple hymns,,429,ki-tuš-za ur-saŋ-e ni₂ mu-ni-ib-te-en-ten
+c.4.80.1,The temple hymns,,430,du₈-za {d}nin-a-zu u₂ mu-ni-ib-sug₄-sug₄
+c.4.80.1,The temple hymns,,431,lugal-zu en gal dumu {d}en-lil₂-la₂-kam
+c.4.80.1,The temple hymns,,432,ur-mah galam e₃ kur-re uš₁₁ šum₂-mu
+c.4.80.1,The temple hymns,,433,kur gu₂-erim₂-ŋal₂-la-še₃ {tum₉}u₁₈-lu-gin₇ zi-zi
+c.4.80.1,The temple hymns,,434,bad₃ ki-bal-a-še₃ ušumgal-gin₇ guru₅-uš bur₂-ru
+c.4.80.1,The temple hymns,,435,nu-še-ga u₁₈-lu dul-u₃ erim₂-e ŋiri₃ saga₁₁ di
+c.4.80.1,The temple hymns,,436,dub₃ ba₉-ra₂-ni hul-ŋal₂ nu-e₃
+c.4.80.1,The temple hymns,,437,u₃-ma gub-ba-ni ki-bal uru₂ gul-gul-lu
+c.4.80.1,The temple hymns,,438,saŋ-ki gid₂-da-ni uŋ₃-bi sahar-e-eš de₅-ga
+c.4.80.1,The temple hymns,,439,e₂ nun-zu piriŋ gal erim₂ šu-bi-še₃ la₂-a
+c.4.80.1,The temple hymns,,440,lugal-zu ud huš u₁₈-ru lipiš me₃-a
+c.4.80.1,The temple hymns,,441,šen-šen-na a₂ mah-bi {kuš}gur₂₁-ra
+c.4.80.1,The temple hymns,,442,sa-par₃ uŋ₃ daŋal-la erim₂ šu-na nu-e₃
+c.4.80.1,The temple hymns,,443,en gal pa e₃-a mah-a-ni zag nu-sa₂
+c.4.80.1,The temple hymns,,444,a zid kur gal-e {d}nin-lil₂-le tud-da
+c.4.80.1,The temple hymns,,445,e₂-sikil lugal-zu ur-saŋ {d}nin-a-zu
+c.4.80.1,The temple hymns,,446,eš₃-nun-na{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,447,₂₂ e₂ {d}nin-a-zu eš₃-nun-na{ki}
+c.4.80.1,The temple hymns,,448,e₂ nam-he₂-a du₃-a kiš{ki} me nam-nun-na saŋ il₂
+c.4.80.1,The temple hymns,,449,a₂-dam ki ŋar-ra temen gal-zu sag₂ nu-di
+c.4.80.1,The temple hymns,,450,ki-sa₂-a-zu muru₉ daŋal tag-ga an-šag₄-ge dirig
+c.4.80.1,The temple hymns,,451,šag₄-zu {ŋeš}tukul {ŋeš}mitum₂ a₂ še-er-ka-an ba-ni-in-dug₄
+c.4.80.1,The temple hymns,,452,zid-da-zu kur dub₂-bu gab₂-bu-zu erim₂ sal-e
+c.4.80.1,The temple hymns,,453,nun-zu u₁₈-ru mah ud gal ki us₂-sa ni₂ huš gal ri-a
+c.4.80.1,The temple hymns,,454,e₂-dub lugal-zu ur-saŋ {d}za-ba₄-ba₄
+c.4.80.1,The temple hymns,,455,e₂ kiš{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,456,₈ e₂ {d}za-ba₄-ba₄ kiš{ki}-a
+c.4.80.1,The temple hymns,,457,e₂-ŋiš-keše₂-da-kalam-ma
+c.4.80.1,The temple hymns,,458,gud a₂ nun gi₄-a diŋir-re-e-ne
+c.4.80.1,The temple hymns,,459,immal₂ ni₂ te-en-te-en gud-am a-nir ŋa₂-ŋa₂
+c.4.80.1,The temple hymns,,460,gu₂-du₈-a kar-zu kar sig-ga a naŋ-ŋe₂₆
+c.4.80.1,The temple hymns,,461,šag₄-zu galam kad₅ šita₂-zu šita₂ an-ta šu bar-ra
+c.4.80.1,The temple hymns,,462,muš₃-zu muš₃ za-gin₃ meš₃-lam-ma la₂-a
+c.4.80.1,The temple hymns,,463,nun-zu diŋir er₉-ra lugal meš₃-lam-ma
+c.4.80.1,The temple hymns,,464,diŋir huš ki-a lugal ud-šu₂-uš
+c.4.80.1,The temple hymns,,465,{d}nergal {d}meš₃-lam-ta-e₃-a
+c.4.80.1,The temple hymns,,466,muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,467,₁₀ e₂ {d}nergal gu₂-du₈-a{ki}
+c.4.80.1,The temple hymns,,468,u₂-ru-um{ki} u₁₈-ru-na ki di ku₅-ru {d}suen-na
+c.4.80.1,The temple hymns,,469,e₂-ab₂-lu-a tur₃ daŋal-la
+c.4.80.1,The temple hymns,,470,{d}aš-im₂-babbar-e nam-sipad-zu ša-mu-un-ak
+c.4.80.1,The temple hymns,,471,e₂ lugal-ŋu₁₀ ŋidru-zu an-na ši-bi₂-bad-ba₉-re₆
+c.4.80.1,The temple hymns,,472,ki-še₃ iti₆ giri₁₇-zal
+c.4.80.1,The temple hymns,,473,ud
+c.4.80.1,The temple hymns,,474,nun-zu nun giri₁₇-zal kug
+c.4.80.1,The temple hymns,,475,an za-gin₃-ta e₃ giri₁₇-zal šag₄ meš₃-e giri₁₇ šu ŋal₂
+c.4.80.1,The temple hymns,,476,kalam-e dadag-ge {d}suen
+c.4.80.1,The temple hymns,,477,e₂ u₂-ru-um muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,478,₁₀ e₂ {d}suen-na u₂-ru-um{ki}
+c.4.80.1,The temple hymns,,479,zimbir{ki} barag {d}utu ud-de₃ dur₂ ŋar-ra
+c.4.80.1,The temple hymns,,480,e₂-nun-an-na mul-an men {d}nin-gal-e tud-da
+c.4.80.1,The temple hymns,,481,e₂ {d}utu nun-zu ki-šar₂-ra an ki-e am₃-si
+c.4.80.1,The temple hymns,,482,en nu₂-a-ni uŋ₃ nu₂-de₃
+c.4.80.1,The temple hymns,,483,zi-zi-da-ni uŋ₃ zi-zi-de₃
+c.4.80.1,The temple hymns,,484,gud-de₃ ur₄ uŋ₃-e giri₁₇ du₃-de₃
+c.4.80.1,The temple hymns,,485,{d}utu-ur₂ maš₂-anše u₂-a mu-ni-in-su₈-ug
+c.4.80.1,The temple hymns,,486,saŋ gig₂-ge a mu-un-ši-ib-tu₅
+c.4.80.1,The temple hymns,,487,kalam-e zag-še mu-na-ra-si-ig
+c.4.80.1,The temple hymns,,488,me he₂-aŋ₂-e eš₃-zu uru₂
+c.4.80.1,The temple hymns,,489,di ku₅-ru ki ud e₃ ud uru₁₆-na sun₄ la₂-e
+c.4.80.1,The temple hymns,,490,ŋi₆ u₃-na suh₁₀ keše₂-de₃
+c.4.80.1,The temple hymns,,491,{d}utu lugal e₂-babbar₂-ra-ke₄
+c.4.80.1,The temple hymns,,492,e₂ zimbir{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,493,₁₄ e₂ {d}utu zimbir{ki}-a
+c.4.80.1,The temple hymns,,494,e₂-hur-saŋ u₂-šim-gin₇ gurun-na sig₇-ga
+c.4.80.1,The temple hymns,,495,HI.ZA{ki} šag₄-zu nam-he₂-a
+c.4.80.1,The temple hymns,,496,ki nam tar-re-da nam ši-im-da-ab-tar-re-en
+c.4.80.1,The temple hymns,,497,muš₃-za men-e ul he₂-em-mi-ib-tum₂-mu
+c.4.80.1,The temple hymns,,498,{ŋeš}i-ri₉-na-zu muš-saŋ-kal u₃-zu-zu-gin₇
+c.4.80.1,The temple hymns,,499,temen kug-za ud he₂-ni-ib-kar₂-kar₂
+c.4.80.1,The temple hymns,,500,ama {d}nin-tur₅ nin ulutim₂-ma
+c.4.80.1,The temple hymns,,501,šag₄ ki ku₁₀-ku₁₀-ga kiŋ₂ ak-e
+c.4.80.1,The temple hymns,,502,lugal u₃-tud suh₁₀ zid keše₂ di
+c.4.80.1,The temple hymns,,503,en u₃-tud saŋ-men ŋa₂-ŋa₂ šu-na i₃-ŋal₂
+c.4.80.1,The temple hymns,,504,šag₄-zu an ki {d}nin-hur-saŋ-ŋa₂-ke₄
+c.4.80.1,The temple hymns,,505,e₂ HI.ZA{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,506,₁₂ e₂ {d}nin-hur-saŋ-ŋa₂ HI.ZA{ki}
+c.4.80.1,The temple hymns,,507,ul-maš{ki} igi-nim KAB.LAH₄ kalam-ma
+c.4.80.1,The temple hymns,,508,ug huš am-še₃ du₇-du₇
+c.4.80.1,The temple hymns,,509,gu₂-erim₂-ŋal₂-še₃ sa barag₂-ga
+c.4.80.1,The temple hymns,,510,niŋ₂-me-ŋar ki-bal-a du₇-du₇
+c.4.80.1,The temple hymns,,511,en-na nu-še-ga eme sig-ga nu₂-a
+c.4.80.1,The temple hymns,,512,e₂ {d}inana kug {na₄}za-gin₃-na {e₂}šutum kug-sig₁₇ du₃-a
+c.4.80.1,The temple hymns,,513,nun-zu a₁₂-ra₂-bu{mušen} nu-u₈-gig niŋin₃-ŋar-ra
+c.4.80.1,The temple hymns,,514,me₃ gu₂ e₃ hu-ul-hu-ul-le-eš sig₇-ga šita₂ ₇-e si sa₂-e
+c.4.80.1,The temple hymns,,515,a₂-kar₂ a me₃ tu₅-tu₅
+c.4.80.1,The temple hymns,,516,kan₄ me₃ ŋal₂ da₁₃-da₁₃
+c.4.80.1,The temple hymns,,517,gal-zu an-na {d}inana-ke₄
+c.4.80.1,The temple hymns,,518,e₂ ul-maš muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,519,₁₂ e₂ {d}inana ul-maš{ki}
+c.4.80.1,The temple hymns,,520,e₂ a₂ zid-da {urud}lub me₃ kud-kud ki-bal-še₃
+c.4.80.1,The temple hymns,,521,a-gar₃ sig₇-sig₇-ga-bi ib₂-dun-dun
+c.4.80.1,The temple hymns,,522,
+c.4.80.1,The temple hymns,,523,
+c.4.80.1,The temple hymns,,524,nun-zu ur-saŋ ra-ra
+c.4.80.1,The temple hymns,,525,me₃ šar₂-ra aga-kar₂ e-ne di
+c.4.80.1,The temple hymns,,526,{d}a-ba₄ diŋir a-ga-de₃{ki}-ke₄
+c.4.80.1,The temple hymns,,527,e₂ a-ga-de₃{ki} muš₃-za e₂ bi₂-in-gub barag-za dur₂ bi₂-in-ŋar
+c.4.80.1,The temple hymns,,528,₈ e₂ {d}a-ba₄ a-ga-de₃{ki}-a
+c.4.80.1,The temple hymns,,529,e₂ mul-mul e₂-za-gin₃ gun₃-a kur-kur-ra šu-mu-un-bad
+c.4.80.1,The temple hymns,,530,ha-mun du₆-du₆-da eš₃-a ŋa₂-ŋa₂
+c.4.80.1,The temple hymns,,531,ereš₂{ki} en ul-e-ne itid-de₃ saŋ ma-ra-ni-in-il₂-eš
+c.4.80.1,The temple hymns,,532,du₆-da naŋa-e naŋa di₄-di₄-la₂
+c.4.80.1,The temple hymns,,533,{d}nanibgal₂ gal-e {d}nisaba-ke₄
+c.4.80.1,The temple hymns,,534,me an-ta ba-an-e₃ me-zu ba-an-tah
+c.4.80.1,The temple hymns,,535,zag sal-sal-e ŋar-ra-am₃
+c.4.80.1,The temple hymns,,536,munus zid ŋeštug₂ dirig tuku-e
+c.4.80.1,The temple hymns,,537,IM.ŊAR sed₄-da ka du₈-u₃
+c.4.80.1,The temple hymns,,538,dub za-gin₃-ta ad gi₄-gi₄-gi₄
+c.4.80.1,The temple hymns,,539,kur-kur-ra ad ša₄ ŋa₂-ŋa₂-ŋa₂
+c.4.80.1,The temple hymns,,540,munus zid naŋa kug-ga gi du₃-e tud-da
+c.4.80.1,The temple hymns,,541,an-ne₂ kuš₃ ra-ra ki eš₂ ra-ra
+c.4.80.1,The temple hymns,,542,{d}nisaba za₃-mi₂
+c.4.80.1,The temple hymns,,543,lu₂ dub zu₂ keše₂-da en-he₂-du₇-an-na
+c.4.80.1,The temple hymns,,544,lugal-ŋu₁₀ niŋ₂ u₃-tud na-me lu₂ nam-mu-un-u₃-tud
+c.4.80.1,The temple hymns,,545,₁₄ e₂ {d}nisaba ereš₂{ki}-a

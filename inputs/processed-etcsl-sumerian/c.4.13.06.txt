@@ -1,0 +1,46 @@
+id_text,text_name,version,l_no,text
+c.4.13.06,The herds of Nanna (Nanna F),,1,en-e an-na mu-ni-in-su-ub
+c.4.13.06,The herds of Nanna (Nanna F),,2,ŋi₆ u₃-na šu tag mu-ni-in-dug₄
+c.4.13.06,The herds of Nanna (Nanna F),,3,{d}nanna-a an-na mu-ni-in-su-ub
+c.4.13.06,The herds of Nanna (Nanna F),,4,ŋi₆ u₃-na šu tag mu-ni-in-dug₄
+c.4.13.06,The herds of Nanna (Nanna F),,5,kur suh₃-suh₃-ha-ta e₃-a-ni
+c.4.13.06,The herds of Nanna (Nanna F),,6,an-bar₇-ra {d}utu-gin₇ bi₂-in-gub
+c.4.13.06,The herds of Nanna (Nanna F),,7,{d}aš-im₂-babbar kur suh₃-suh₃-ha-ta e₃-a-ni
+c.4.13.06,The herds of Nanna (Nanna F),,8,an-bar₇-ra {d}utu bi₂-in-gub
+c.4.13.06,The herds of Nanna (Nanna F),,9,a-a-ni inim-ma-ni zid-da
+c.4.13.06,The herds of Nanna (Nanna F),,10,ud-de₃ ŋi₆-a inim mu-un-di-ni-ib₂-be₂
+c.4.13.06,The herds of Nanna (Nanna F),,11,{d}en-lil₂-le inim-ma-ni zid-da
+c.4.13.06,The herds of Nanna (Nanna F),,12,ud-de₃ ŋi₆-a inim mu-un-di-ni-ib₂-DU
+c.4.13.06,The herds of Nanna (Nanna F),,13,eš-bar-ra nam mu-un-di-ni-ib₂-tar-re
+c.4.13.06,The herds of Nanna (Nanna F),,14,ŋi₆-par₄ mah-a-ni ₄ na-nam
+c.4.13.06,The herds of Nanna (Nanna F),,15,du₈ ₄ mu-un-na-ŋar-ra
+c.4.13.06,The herds of Nanna (Nanna F),,16,{e₂}tur₃ gal-a-ni eše₃{iku} ₄-am₃
+c.4.13.06,The herds of Nanna (Nanna F),,17,{ŋeš}al-ŋar-surₓ-ra mu-na-tag-tag-ge
+c.4.13.06,The herds of Nanna (Nanna F),,18,ab₂-e gu₂ mu-na-di-ni-ib-gur-re
+c.4.13.06,The herds of Nanna (Nanna F),,19,ab₂ hi-a-ni ₃₆₀₀₀ ₃₆₀₀-am₃
+c.4.13.06,The herds of Nanna (Nanna F),,20,ab₂ amar-a-ni ₃₆₀₀₀ ₃₆₀₀₀ ₃₆₀₀₀-am₃
+c.4.13.06,The herds of Nanna (Nanna F),,21,gud-ab₂-ka-ni ₃₆₀₀₀ ₃₆₀₀₀ ₃₆₀₀₀ ₃₆₀₀ ₅-am₃
+c.4.13.06,The herds of Nanna (Nanna F),,22,ab₂ igi gun₃-bi ₃₆₀₀₀ ₃₆₀₀ ₄-am₃
+c.4.13.06,The herds of Nanna (Nanna F),,23,ab₂ babbar₂-bi ₃₆₀₀₀ ₃₆₀₀₀ ₃₆₀₀₀ ₃₆₀₀ ₅-am₃
+c.4.13.06,The herds of Nanna (Nanna F),,24,ab₂ kiŋ₂-sig-bi ₅-ta a-ra₂ ₄-am₃
+c.4.13.06,The herds of Nanna (Nanna F),,25,ab₂ hi-a a-a {d}nanna-kam
+c.4.13.06,The herds of Nanna (Nanna F),,26,ab₂-šilam-a-ni ₃₆₀₀₀ ₅ na-nam
+c.4.13.06,The herds of Nanna (Nanna F),,27,ab₂-zag-eš-zag-eš-bi ₄-me-eš
+c.4.13.06,The herds of Nanna (Nanna F),,28,maš₂-anše-maš₂-anše-bi ₇-me-eš
+c.4.13.06,The herds of Nanna (Nanna F),,29,unud du₃-bi ₇-me-eš
+c.4.13.06,The herds of Nanna (Nanna F),,30,ab₂-ba til₃-la-ba ₄-me-eš
+c.4.13.06,The herds of Nanna (Nanna F),,31,en-ra mu-un-i-i mu-un-ar₂-e-ne
+c.4.13.06,The herds of Nanna (Nanna F),,32,ŋi₆-par₄-ra mu-ni-ib-sud-sud-u₃-ne
+c.4.13.06,The herds of Nanna (Nanna F),,33,šid gal-bi {d}nisaba-ke₄
+c.4.13.06,The herds of Nanna (Nanna F),,34,{d}nisaba-ke₄ šid-bi mu-un-dab₅
+c.4.13.06,The herds of Nanna (Nanna F),,35,im-ma bi₂-ib-gub-be₂
+c.4.13.06,The herds of Nanna (Nanna F),,36,ab₂ kug {d}nanna-ke₄ mi₂ dug₄-ga šul {d}suen za₃-mi₂
+c.4.13.06,The herds of Nanna (Nanna F),,37,i₃ nam-he₂-ŋal₂ tur₃ kug maš₂-a-ke₄
+c.4.13.06,The herds of Nanna (Nanna F),,38,šu mu-un-da-mu₂-mu₂
+c.4.13.06,The herds of Nanna (Nanna F),,39,kurun₂ gal hur-saŋ lal₃ kurun₂-bi-da
+c.4.13.06,The herds of Nanna (Nanna F),,40,lugal-ra du₈ mah sikil-la-na
+c.4.13.06,The herds of Nanna (Nanna F),,41,mu-na-da-ab-šar₂-re
+c.4.13.06,The herds of Nanna (Nanna F),,42,kalag-ga ŋiškim-til₃ {d}en-lil₂-la₂
+c.4.13.06,The herds of Nanna (Nanna F),,43,šul diŋir zi-ŋal₂-la
+c.4.13.06,The herds of Nanna (Nanna F),,44,mas-su₂ kalam-ma {d}nin-gal nin ŋi₆-par₄-ra
+c.4.13.06,The herds of Nanna (Nanna F),,45,a-a {d}nanna za₃-mi₂

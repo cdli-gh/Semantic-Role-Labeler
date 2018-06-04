@@ -1,0 +1,236 @@
+id_text,text_name,version,l_no,text
+c.6.1.05,Proverbs: collection 5,,A1,am-si ni₂-te-a-ni maš₂-anše {d}šakkan₂-ka
+c.6.1.05,Proverbs: collection 5,,A2,niŋ₂ ŋe₂₆-gin₇-nam nu-ŋal₂ na-ab-be₂-a
+c.6.1.05,Proverbs: collection 5,,A3,an-ti-ri₂-gu₇{mušen}-e mu-na-ni-ib-gi₄-gi₄
+c.6.1.05,Proverbs: collection 5,,A4,u₃ ŋe₂₆-e igi-te-en-ŋu₁₀-še₃
+c.6.1.05,Proverbs: collection 5,,A5,za-a-gin₇-nam al-dim₂-me-en-e-še
+c.6.1.05,Proverbs: collection 5,,A6,am-si-gin₇ ma₂ su-a ed₃-de₃-de₃ im-du-de₃-en
+c.6.1.05,Proverbs: collection 5,,A7,am-e niŋ₂-gig apin-na-kam
+c.6.1.05,Proverbs: collection 5,,A8,am-gin₇ nam-sag₉-ga ni₂-zu-ka al-sag₉-ge-en-e-še
+c.6.1.05,Proverbs: collection 5,,A9,am-e {u₂}numun₂ al-ni₁₀-ni₁₀-e
+c.6.1.05,Proverbs: collection 5,,A10,am-e {ŋeš}apin-na du₈-du₈-u₃
+c.6.1.05,Proverbs: collection 5,,A11,am-e gi tug₂ ab-ur₃-re-en
+c.6.1.05,Proverbs: collection 5,,A11A,am-e gu₂ e₃-a gu₂
+c.6.1.05,Proverbs: collection 5,,A11B,an-ta
+c.6.1.05,Proverbs: collection 5,,A11C,am-e a₂ kalag-ga-zu mu-e-du₇
+c.6.1.05,Proverbs: collection 5,,A11D,am-e u₃-na-gin₇
+c.6.1.05,Proverbs: collection 5,,A11E,am-e ni₂ er₉
+c.6.1.05,Proverbs: collection 5,,A12,gud-de₃ ŋiri₃-zu-a al-dab₅-be₂-en
+c.6.1.05,Proverbs: collection 5,,A13,gud-gin₇ a-ga gur-ra nu-e-zu
+c.6.1.05,Proverbs: collection 5,,A14,gud naŋa dub₂-ba-še₃ ur-gir₁₅-re ka-bi al-du₈-du₈-u₃
+c.6.1.05,Proverbs: collection 5,,A15,gud a₂ la₂-am₃ lu₂ a₂ la₂-bi an-gu-lu-uš
+c.6.1.05,Proverbs: collection 5,,A16,gud ga-an-da-il₂-e
+c.6.1.05,Proverbs: collection 5,,A17,gud sur₁₂-ra ab-sin₂-bi al-sag₉-sag₉
+c.6.1.05,Proverbs: collection 5,,A18,gud
+c.6.1.05,Proverbs: collection 5,,A19,
+c.6.1.05,Proverbs: collection 5,,B1,gud
+c.6.1.05,Proverbs: collection 5,,B2,
+c.6.1.05,Proverbs: collection 5,,B3,gud šar₂-ra šurum-bi nu-ŋal₂-la-am₃
+c.6.1.05,Proverbs: collection 5,,B4,gud al-lu-lu-un šurum-bi al-de₅-de₅-ge-en
+c.6.1.05,Proverbs: collection 5,,B5,gud šabra-gin₇ sila-a al-ni₁₀-ni₁₀-en
+c.6.1.05,Proverbs: collection 5,,B6,gud lugal-bi in-ga-hul₂ sukkal abul-la-kam
+c.6.1.05,Proverbs: collection 5,,B7,ab₂-e šag₄ gen₆-na-ni-ta mu-gud si nu-ub-tu₁₁
+c.6.1.05,Proverbs: collection 5,,B8,ab₂ su-a-gin₇ eŋer lu₂ gi-gur-da-ka al-du-un
+c.6.1.05,Proverbs: collection 5,,B9,ab₂ šag₄-sug₄-ga-bi lu₂ na-me šu nu-bar-re
+c.6.1.05,Proverbs: collection 5,,B10,
+c.6.1.05,Proverbs: collection 5,,B11,ab₂ u₃-nu-tud-da-gin₇ amar-za nu-me-a mi-ni-ib-kiŋ₂-kiŋ₂-e-en
+c.6.1.05,Proverbs: collection 5,,B12,ab₂-e ambar-ra amar-e bar-rim₄-ma in-dib
+c.6.1.05,Proverbs: collection 5,,B13,amar-e šag₄ i-ni-in-kur₉
+c.6.1.05,Proverbs: collection 5,,B14,ed₂-de₃ nu-ub-zu sipad-de₃ saŋ en₃ un-tar
+c.6.1.05,Proverbs: collection 5,,B15,{dug}šakir₃ ba-an-šub {dug}šakir₃-e ba-an-gaz
+c.6.1.05,Proverbs: collection 5,,B16,ud amar-e im-ta-e₃ amar-e ba-an-gam
+c.6.1.05,Proverbs: collection 5,,B17,u₃ {dug}šakir₃ ba-an-gaz
+c.6.1.05,Proverbs: collection 5,,B18,anše-kur-gin₇ i₃-hur-en i₃-naŋ-zu
+c.6.1.05,Proverbs: collection 5,,B19,anše-kur lu₂ u₅-a-ni u₃-mu-ni-in-šub
+c.6.1.05,Proverbs: collection 5,,B20,tukum-bi gu₂-un-ŋu₁₀ da-ri₂-še₃
+c.6.1.05,Proverbs: collection 5,,B21,ne-en-nam al-sig-en-e-še
+c.6.1.05,Proverbs: collection 5,,B22,anše barag la₂-a-ni u₃-mu-ni-in-šub
+c.6.1.05,Proverbs: collection 5,,B23,du-lum ud-bi-ta ŋeštug₂-ŋa₂ ba-an-u₁₈-lu-un-e-še
+c.6.1.05,Proverbs: collection 5,,B24,anše
+c.6.1.05,Proverbs: collection 5,,C1,anše mu-šub ur-gir₁₅-re
+c.6.1.05,Proverbs: collection 5,,C2,anše id₂-da al-dirig-dirig-ge-ma ur-gir₁₅-re šu ba-ši-ib-de₅-de₅
+c.6.1.05,Proverbs: collection 5,,C3,me-na-am₃ al-ed₃-de₃ al-gu₇-e-še
+c.6.1.05,Proverbs: collection 5,,C4,anše mu du₃-u₃-bi a₂ bal-e
+c.6.1.05,Proverbs: collection 5,,C5,iti₆-ka izi mu-ni-in-sag₃-ge
+c.6.1.05,Proverbs: collection 5,,C6,anše ne-eš₂-am₃ tuš-ma-ab ŋiš₃ pir₂-bi il₂-il₂-ni-ib
+c.6.1.05,Proverbs: collection 5,,C7,anše kug ₁ giŋ₄-e bal-še₃ i₃-ak-e
+c.6.1.05,Proverbs: collection 5,,C8,anše bar udu hi-a-ka ŋiškim nu-mu-e-da-tuku
+c.6.1.05,Proverbs: collection 5,,C9,anše kalag-ge-de₃
+c.6.1.05,Proverbs: collection 5,,C10,e₂ murum₅-za-ka na-an-tuš-e
+c.6.1.05,Proverbs: collection 5,,C11,u₃-bi₂-in-il₂-de₃-en saŋ mu-ni-in-kal-la-e-še
+c.6.1.05,Proverbs: collection 5,,C12,anše murgu₂-na mu-ni-ib-ra-ra-de₃
+c.6.1.05,Proverbs: collection 5,,C13,a-na-am₃ eme
+c.6.1.05,Proverbs: collection 5,,C14,anše edin-še₃ dib-dib-ba u₃-bi₂-in-te
+c.6.1.05,Proverbs: collection 5,,C15,dur₂-bi-ta im-ma-ra-an-zig₃
+c.6.1.05,Proverbs: collection 5,,C16,anše za-na tar lu₂ za-na tar mu-un-pad₃
+c.6.1.05,Proverbs: collection 5,,C17,ak-e-de₃ u₃ ŋen-na-e-še
+c.6.1.05,Proverbs: collection 5,,C18,anše tur₅-ra mu-ni-in-ed₃-de₃
+c.6.1.05,Proverbs: collection 5,,C19,en-na-bi-še₃-am₃ su-zu nu-ra-sag₉-ge-en-e-še
+c.6.1.05,Proverbs: collection 5,,C20,tukum-bi en-na-bi-še₃-am₃ su-zu nu-ra-sag₉-ge-en
+c.6.1.05,Proverbs: collection 5,,C21,zu ku₃-ŋal₂ i₃-ŋal₂ he₂-mu-e-DU
+c.6.1.05,Proverbs: collection 5,,C22,u₃ ŋiri₃-paₓ-ra₂-zu hu-mu-ra-sag₉-ge-e-še
+c.6.1.05,Proverbs: collection 5,,D1,anše kaš₃ lu-lu-a
+c.6.1.05,Proverbs: collection 5,,D2,anše nam
+c.6.1.05,Proverbs: collection 5,,D3,ur-mah-e ud₅ hu-nu-a u₃-mu-ni-in-dab₅
+c.6.1.05,Proverbs: collection 5,,D4,šu ba-am₃ u₈ tab-ba-ŋu₁₀ gur-ra ga-mu-ra-ab-šum₂
+c.6.1.05,Proverbs: collection 5,,D5,tukum-bi šu mu-ri-bar-re mu-zu dug₄-ma-ab
+c.6.1.05,Proverbs: collection 5,,D6,ud₅-de₃ ur-mah-e mu-na-ni-ib-gi₄-gi₄ za-e mu-ŋu₁₀ nu-e-zu
+c.6.1.05,Proverbs: collection 5,,D7,umun₂ mu-e-da-ak-e mu-ŋu₁₀-um
+c.6.1.05,Proverbs: collection 5,,D8,ud ur-mah-e {e₂}tur₃-še₃ i-ŋen-na
+c.6.1.05,Proverbs: collection 5,,D9,ur-mah-e mu-e-bur₂-e-en gu₃ al-de₂-de₂-e
+c.6.1.05,Proverbs: collection 5,,D10,e-ne gu₂-re-ta mu-un-na-ni-ib-gi₄-gi₄
+c.6.1.05,Proverbs: collection 5,,D11,mu-e-bur₂-e-en umun₂ mu-e-ak bar udu hi-a-ka nu-dur₂-ru-na-e-še
+c.6.1.05,Proverbs: collection 5,,D12,ud ur-mah-e {e₂}tur₃-še₃ ur-gir₁₅-re eš₂ siki sur-ra i₃-mur₁₀
+c.6.1.05,Proverbs: collection 5,,D13,ur-mah-e šah₂ ŋiš-gi₄ u₃-mu-ni-in-dab₅
+c.6.1.05,Proverbs: collection 5,,D14,e-ne gu₃ mu-ra-ra-ra
+c.6.1.05,Proverbs: collection 5,,D15,en-na-bi-še₃-am₃ uzu-zu ka-ŋu₁₀ nu-mu-ni-in-si
+c.6.1.05,Proverbs: collection 5,,D16,za-pa-aŋ₂-zu ŋeštug₂-ŋu₁₀ u₂ ba-ni-in-hub₂-e-še
+c.6.1.05,Proverbs: collection 5,,D17,ur-mah-e pu₂ niŋ₂ ŋiri₃-a-ka u₃-mu-ni-in-šub
+c.6.1.05,Proverbs: collection 5,,D18,ka₅-a ugu-bi-še₃ u₃-um-ŋen-ma {kuš}e-sir₂-zu
+c.6.1.05,Proverbs: collection 5,,D19,gu₂-še₃ e₂-še₃ mu-e-ši-tum₃-mu-un-e-še
+c.6.1.05,Proverbs: collection 5,,D20,ur-mah-e a₂-tah-zu ŋiš-gi-a lu-lu-am₃
+c.6.1.05,Proverbs: collection 5,,D21,ur-mah-e ŋiš-gi-a lu₂ zu-a-ni nu-ub-gu₇
+c.6.1.05,Proverbs: collection 5,,D22,ur-mah-e lu₂ kišib sag₃-ge-da in-sig₁₀-ma
+c.6.1.05,Proverbs: collection 5,,D23,e₂ {ŋeš}tukul nu-me-a in-sig₁₀-ge-en-e-še
+c.6.1.05,Proverbs: collection 5,,D24,ur-mah-e šag₄-ne-ša₄ im-til₃-la šu ba-ab-teŋ₃-ŋe₂₆
+c.6.1.05,Proverbs: collection 5,,D25,ur-mah-e gu₃ u₃-mu-un-ra-ra
+c.6.1.05,Proverbs: collection 5,,D26,niŋ₂-gu₇-zu nam-ba-šub-be₂-en
+c.6.1.05,Proverbs: collection 5,,D27,ur-mah-e niŋ₂-ar₃-ra al-gu₇-e
+c.6.1.05,Proverbs: collection 5,,D28,ur-mah-e nam-lu₂-kurun-na al-ak-e
+c.6.1.05,Proverbs: collection 5,,D29,ur-mah-e tu₇ mu-un-kum₂
+c.6.1.05,Proverbs: collection 5,,D30,a-ba nu-dug₃-ga ab-be₂-e-še
+c.6.1.05,Proverbs: collection 5,,D31,ki ur-mah-e lu₂ in-gu₇-a
+c.6.1.05,Proverbs: collection 5,,D32,₂-kam-ma-še₃ lu₂ na-me nu-dib₂-be₂
+c.6.1.05,Proverbs: collection 5,,D33,igi ur-mah-a-ka uzu al-gu₇-e
+c.6.1.05,Proverbs: collection 5,,D34,
+c.6.1.05,Proverbs: collection 5,,D35,a mu-e-naŋ mu-zig₃
+c.6.1.05,Proverbs: collection 5,,D36,ur-mah a-ne u₃-bi₂-te
+c.6.1.05,Proverbs: collection 5,,D37,ur-bar-ra mi-ni-ib₂-sar-re-en
+c.6.1.05,Proverbs: collection 5,,D38,uzu ur-bar-ra nam-mu-ni-gu₇
+c.6.1.05,Proverbs: collection 5,,D38A,mah-e ga-ba-an-gam
+c.6.1.05,Proverbs: collection 5,,D39,ku₆ ur-mah ki aŋ₂ kud-de₃ nu-ub-zu
+c.6.1.05,Proverbs: collection 5,,D40,ur-bar-ra ₉-bi ₁₀-am₃ udu hi-a u₃-mu-ni-in-dab₅
+c.6.1.05,Proverbs: collection 5,,D41,₁-am₃ ab-si-am₃ ha-la-be₂-ne nu-ha-la-a
+c.6.1.05,Proverbs: collection 5,,D42,ka₅-a ugu-bi-še₃ u₃-un-ŋen
+c.6.1.05,Proverbs: collection 5,,D43,ŋe₂₆-e ga-mu-e-ne-ha-la
+c.6.1.05,Proverbs: collection 5,,D44,₉ za-e-en-ze₂-en ₁-am₃ šu te-ba-ab-ze₂-en
+c.6.1.05,Proverbs: collection 5,,D45,ŋe₂₆-e dili-ŋu₁₀-ne ₉ šu ga-ba-ab-ti
+c.6.1.05,Proverbs: collection 5,,D46,ne-e ha-la šag₄-ŋu₁₀-e-še
+c.6.1.05,Proverbs: collection 5,,D47,ur-bar-ra he₂-gu₇-e {d}utu igi i-bi₂-in-du₈
+c.6.1.05,Proverbs: collection 5,,D48,en-na teš₂ i-i-X
+c.6.1.05,Proverbs: collection 5,,D49,i₃-buluŋ₃-e-še
+c.6.1.05,Proverbs: collection 5,,D50,ur-bar-ra alal ur₃ e₂-a-še₃
+c.6.1.05,Proverbs: collection 5,,D51,mu-im-ma ze₂-da-zu-še₃ i₃-SAR
+c.6.1.05,Proverbs: collection 5,,D52,me-en-de₃ mu-u₂-a ba-SAR
+c.6.1.05,Proverbs: collection 5,,D53,me-na ze₂-da-zu aš₂ bi₂-bal-en-de₃-en
+c.6.1.05,Proverbs: collection 5,,D54,ŋe₂₆-e šag₄-ŋar tuku-a a-na ga-gu₇-e-še
+c.6.1.05,Proverbs: collection 5,,D55,
+c.6.1.05,Proverbs: collection 5,,D56,ur-bar-ra
+c.6.1.05,Proverbs: collection 5,,D57,sila₄ am₃-ma-dur₂-ru
+c.6.1.05,Proverbs: collection 5,,D58,ur-bar-ra {ŋeš}es₂-ad u₃-mu-mi-in-tuš
+c.6.1.05,Proverbs: collection 5,,D59,{d}utu-ra an-na-ab-be₂ i-im-ta-ed₂-de₃-en
+c.6.1.05,Proverbs: collection 5,,D60,a-da-al-ta sila₄ na-an-gu₇-e-en
+c.6.1.05,Proverbs: collection 5,,D61,ud šag₄-ŋar an-tuku sila₄ šu ba-ni-in-ti-a
+c.6.1.05,Proverbs: collection 5,,D62,niŋ₂ mu-e-dug₄-ga-zu a-na ma-nam
+c.6.1.05,Proverbs: collection 5,,D63,mu zid-ŋu₁₀-a i-ni-dug₄-ga
+c.6.1.05,Proverbs: collection 5,,D64,ŋe₂₆-e a-na ga-gu₇-e-še
+c.6.1.05,Proverbs: collection 5,,D65,ur-bar-ra {d}utu-ra er₂ i₃-še₈-še₈ maš₂-anše ba-du₇-du₇
+c.6.1.05,Proverbs: collection 5,,D66,ŋe₂₆-e dili-ŋu₁₀-ne-e-še
+c.6.1.05,Proverbs: collection 5,,D67,ur-gir₁₅-gin₇ lu₂-keše₂-keše₂-da
+c.6.1.05,Proverbs: collection 5,,D68,zu₂ ab-kud-X
+c.6.1.05,Proverbs: collection 5,,D69,ki ur-bar-ra sila₄ in-kar-ra
+c.6.1.05,Proverbs: collection 5,,D70,sipad-de₃ udu nu-mu-ni-lu-lu
+c.6.1.05,Proverbs: collection 5,,D71,ur-gir₁₅-re ŋiri₃-paₓ-ra₂ nam-ba-an-sig₁₀-ge-de₃-en
+c.6.1.05,Proverbs: collection 5,,D72,ur-gir₁₅ maš₂-ŋi₆ mud₅-am₃
+c.6.1.05,Proverbs: collection 5,,D73,ur-gir₁₅-re eš₂-dam-še₃ in-kur₉-ma
+c.6.1.05,Proverbs: collection 5,,D74,niŋ₂ na-me igi nu-mu-un-du₈
+c.6.1.05,Proverbs: collection 5,,D75,ne-en ŋal₂ taka₄-en-e-še
+c.6.1.05,Proverbs: collection 5,,D76,ur-gir₁₅ lugal-a-ni-ir na-ab-be₂-a
+c.6.1.05,Proverbs: collection 5,,D77,tukum-bi nam-sag₉-ga-ŋu₁₀ ba-ra-ŋal₂
+c.6.1.05,Proverbs: collection 5,,D78,i-bi₂-za-ŋu₁₀ nu-ra-ŋal₂-e-še
+c.6.1.05,Proverbs: collection 5,,D79,ur-gir₁₅-re e₂ lugal-la-na-ka nu-dur₂-ru-un
+c.6.1.05,Proverbs: collection 5,,D80,ur mu₂-da bar hul₃-Xbr-a hul a-ab-gig
+c.6.1.05,Proverbs: collection 5,,D81,ur-gir₁₅-re šu te-ba-ab mu-un-zu
+c.6.1.05,Proverbs: collection 5,,D82,ŋa₂-ŋa₂ nu-un-zu
+c.6.1.05,Proverbs: collection 5,,D83,ur-gir₁₅-re {na₄}kinkin eme ak
+c.6.1.05,Proverbs: collection 5,,D84,tab-ba-ni-ir an-na-ab-be₂ kiŋ₂-gi₄-a an-ta tug₂ {ŋeš}ba-an ga-mu-ra-ab-mur₁₀-e-še
+c.6.1.05,Proverbs: collection 5,,D85,ur-gir₁₅-re lu₂ ki aŋ₂-bi mu-un-zu
+c.6.1.05,Proverbs: collection 5,,D86,ur di-kud-dam kun-bi maškim ak
+c.6.1.05,Proverbs: collection 5,,D87,ur ŋiri₃-paₓ-ra₂ al-tukur₂-re
+c.6.1.05,Proverbs: collection 5,,D88,gu-du-ni an-na-ab-be₂
+c.6.1.05,Proverbs: collection 5,,D89,a-ra-ab-gig-ga-Xbr-e-še
+c.6.1.05,Proverbs: collection 5,,D90,ur-gir₁₅-re {uzu}i₃-udu
+c.6.1.05,Proverbs: collection 5,,D91,ur-gir₁₅-re mu-bi-im
+c.6.1.05,Proverbs: collection 5,,D92,ur-gir₁₅ {ŋeš}ma₂-addir-ra nu-gub-bu
+c.6.1.05,Proverbs: collection 5,,D93,ur-gir₁₅-re ab-NI-en
+c.6.1.05,Proverbs: collection 5,,D94,la₂ ki u₃-bi₂-in-KU-DU
+c.6.1.05,Proverbs: collection 5,,D95,ur-gir₁₅-re nam zu₂-lum-ma-ta {ŋeš}kiri₆ u₃-ba-ni-ib₂-ed₂-de₃
+c.6.1.05,Proverbs: collection 5,,D96,lugal {ŋeš}kiri₆-ke₄ ib₂-ta-an-sar-re
+c.6.1.05,Proverbs: collection 5,,D97,lu₂-zuh ne-e ne-e
+c.6.1.05,Proverbs: collection 5,,D98,ed₂-de₃ zu₂-lum-bi Xbr-un-kal-X
+c.6.1.05,Proverbs: collection 5,,D99,en
+c.6.1.05,Proverbs: collection 5,,D100,ur-gir₁₅-re lu₂
+c.6.1.05,Proverbs: collection 5,,D101,u₃ tuku du₈ en zu
+c.6.1.05,Proverbs: collection 5,,D102,ur-gir₁₅-re
+c.6.1.05,Proverbs: collection 5,,D103,ur-gir₁₅-re saŋ-du
+c.6.1.05,Proverbs: collection 5,,D104,tuku
+c.6.1.05,Proverbs: collection 5,,D105,ur-gir₁₅-gin₇ ki za-za hul a-ab-gig
+c.6.1.05,Proverbs: collection 5,,D106,ur-gir₁₅ {ŋeš}ellag ra-gin₇ dum-dam i₃-ib₂-za
+c.6.1.05,Proverbs: collection 5,,D107,ur-gir₁₅-re gu₂ gid₂-gid₂-ab-ze₂-en ur-tur ki aŋ₂-ab-ze₂-en
+c.6.1.05,Proverbs: collection 5,,D108,ur šag₄ dab₅-ba igi nu-zalag-ge
+c.6.1.05,Proverbs: collection 5,,D109,ur sam₂-bi igi-za ŋal₂ {ŋeš}gigir sam₂-bi ba-an-hul
+c.6.1.05,Proverbs: collection 5,,D110,ur sag₉-ga ur-tur-še₃ ba-an-kur₉
+c.6.1.05,Proverbs: collection 5,,D111,ur mu₂-da-gin₇ gu₃ bi₂-in-de₂
+c.6.1.05,Proverbs: collection 5,,D112,kug kuš du₃-u₃-bi ba-ni-in-gi₄
+c.6.1.05,Proverbs: collection 5,,D113,ur mu₂-da-gin₇ iti₆-a šu-ne-ne
+c.6.1.05,Proverbs: collection 5,,D114,ur mu₂-da-gin₇ a lugal mah-ni-ir DU-da-bi
+c.6.1.05,Proverbs: collection 5,,D115,ur mu₂-da-gin₇ id₂-da gid₂ al-ak-e
+c.6.1.05,Proverbs: collection 5,,D116,ur-gir₁₅-re e₂ ganba-še₃
+c.6.1.05,Proverbs: collection 5,,D117,šaŋan-la₂ {ŋeš}suhub₄ ib₂-ba-ni ba-an-haš
+c.6.1.05,Proverbs: collection 5,,D118,e₃-ma-ni-ta kun-bi en₃ ab-tar-re
+c.6.1.05,Proverbs: collection 5,,D119,eŋer-ŋu₁₀-ta niŋ₂ na-me bi₂-in-gub
+c.6.1.05,Proverbs: collection 5,,D120,niŋ₂ sag₉-ga-zu bi₂-in-eš
+c.6.1.05,Proverbs: collection 5,,D121,ŋi₆-da ga-gur niŋ₂ na-me šu ga-an-ti
+c.6.1.05,Proverbs: collection 5,,D122,an-ga-am₃ gur-ru-da-ni-ta ib₂-ba-ni ba-an-haš
+c.6.1.05,Proverbs: collection 5,,D123,kun-a-ni ba-an-ur₃ sila ba-ni-in-tuš
+c.6.1.05,Proverbs: collection 5,,D124,gibil-be₂-eš-am₃ kun en₃ ab-tar-tar-re
+c.6.1.05,Proverbs: collection 5,,D125,niŋ₂ ud-bi-ta-gin₇ igi-zu-ta im-ma-e₃-e-še
+c.6.1.05,Proverbs: collection 5,,D126,ur-gir₁₅-re en-te-en-na-ka BU-ra
+c.6.1.05,Proverbs: collection 5,,D127,eridug{ki} eš₃-ta igi du₈
+c.6.1.05,Proverbs: collection 5,,D128,zag e₂-me-eš-ka giri₁₇-ŋa₂ a-tar i₃-ak-a-e-še
+c.6.1.05,Proverbs: collection 5,,D129,ur-gir₁₅-re šudul niŋ₂ na-me šu nu-gun₃-gun₃-gun₃
+c.6.1.05,Proverbs: collection 5,,D130,a-ga-zu-ta gud niga a-ab-šum-u₃-de₃
+c.6.1.05,Proverbs: collection 5,,D131,ur-gir₁₅-re sipad-de₃ zi-ni
+c.6.1.05,Proverbs: collection 5,,D132,ur-gir₁₅-re ŋiš-šu dab-ba ga-ba-al mu-du₃-du₃-e
+c.6.1.05,Proverbs: collection 5,,D133,ur-gir₁₅-re gu₃ nu-ub-ra-ra-an-e-še
+c.6.1.05,Proverbs: collection 5,,D134,ur-gir₁₅-re zu₂ mu-ra-ra
+c.6.1.05,Proverbs: collection 5,,D135,ninda paₓ-ra₂ ka-ga₁₄-na
+c.6.1.05,Proverbs: collection 5,,D136,ur-gir₁₅-re ŋiš tuku ba-an-zu
+c.6.1.05,Proverbs: collection 5,,D137,en-na ŋeštug za-na har-ra-ni šu bi₂-in-kar
+c.6.1.05,Proverbs: collection 5,,D138,ur-gir₁₅ ur₃-ra-še₃ mu-un-ed₃
+c.6.1.05,Proverbs: collection 5,,D139,ur-gir₁₅-re udu hi-a al-šid-en
+c.6.1.05,Proverbs: collection 5,,D140,ur-gin₇ ki-nu₂ nu-e-tuku
+c.6.1.05,Proverbs: collection 5,,D141,ur kun nu-tuku-am₃
+c.6.1.05,Proverbs: collection 5,,D142,ur-gir₁₅ gu₃ i-ni-in-ra-ra-aš
+c.6.1.05,Proverbs: collection 5,,D143,gu₃ bi₂-in-de₂
+c.6.1.05,Proverbs: collection 5,,D144,ur-gir₁₅-re ŋiri₃ al-de₅-de₅-ge
+c.6.1.05,Proverbs: collection 5,,D145,ur-gir₁₅-re kaš-de₂-a-še₃ al-ŋen
+c.6.1.05,Proverbs: collection 5,,D146,ŋiri₃-paₓ-ra₂-bi igi u₃-bi₂-in-du₈ ba-ŋen
+c.6.1.05,Proverbs: collection 5,,D147,ki al-du-un-na-a dirig ne-e al-gu₇-e-en-e-še
+c.6.1.05,Proverbs: collection 5,,D148,nig še u₂ a gu₇-a ur-tur zu₂ nu-tuku-a
+c.6.1.05,Proverbs: collection 5,,D149,nig en-na hu-hu-nu ur-tur igi nu-bad-ba₉-re₆
+c.6.1.05,Proverbs: collection 5,,D150,nig dumu-ne-ne saŋ keše₂ mu-ak-e
+c.6.1.05,Proverbs: collection 5,,D151,ninda ki-sig₁₀-ga na-an-gu₇-un-ze₂-en
+c.6.1.05,Proverbs: collection 5,,D152,e-ne u₃-um-de₆ lu₂ im-ma-gu₇-e-še
+c.6.1.05,Proverbs: collection 5,,D153,nig tud-da-gin₇ erin₂ zu₂ ab-kud-kud-de₃
+c.6.1.05,Proverbs: collection 5,,D154,nig lu₂-gin₇ eŋer saŋ sar-ra-ka al-du-un
+c.6.1.05,Proverbs: collection 5,,D155,nig dub-sar-ra-gin₇ a-šag₄-ga nam-saŋ-ŋa₂ al-ak-e
+c.6.1.05,Proverbs: collection 5,,D156,nig maš₂-še₃ na-ab-be₂-a mi-ni-ib-sig₇-sig₇-ge-en
+c.6.1.05,Proverbs: collection 5,,D157,mi-ni-ib-gun₃-gun₃-un dumu-ŋu₁₀ ki ab-aŋ₂-e-še
+c.6.1.05,Proverbs: collection 5,,D158,nig ud-da-tuš-a ninda šukur₂ ka-ga₁₄-ni-še₃
+c.6.1.05,Proverbs: collection 5,,D159,{ŋeš}kul di-kud gu-du-ni-še₃
+c.6.1.05,Proverbs: collection 5,,D160,nig al-tuku-un-de₃-en sa₂ am₃-di-di-en-de₃-en
+c.6.1.05,Proverbs: collection 5,,D161,mu bi₂-ib-sa₄-sa₄-en-de₃-en
+c.6.1.05,Proverbs: collection 5,,E1,
+c.6.1.05,Proverbs: collection 5,,E2,
+c.6.1.05,Proverbs: collection 5,,E3,

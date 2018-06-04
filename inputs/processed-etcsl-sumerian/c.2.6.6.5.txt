@@ -1,0 +1,80 @@
+id_text,text_name,version,l_no,text
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,1,{d}iškur en ud piriŋ ud gal an ki
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,2,nam-mah-a-ni-še₃ nir-ŋal₂
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,3,saŋ-kal ka-mud-ŋal₂ dumu an-na
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,4,saŋ er₉-ra gu₂ e₃-a
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,5,en saŋ huš ud gal-la gaba-šu-ŋar nu-tuku
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,6,dungu sir₂-re
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,7,mir-a kaš₄-kaš₄
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,8,ki mu-un-da-tuku₄-e
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,9,an daŋal-la tum₉ mah gu₃ ru-ru-gu₂
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,10,za-pa-aŋ₂-bi he₂-ŋal₂-am₃
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,11,šeg₁₀ gi₄-ni-še₃ kalam hur-saŋ gal-gal
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,12,ni₂-bi ba-an-da-ab-gi₄
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,13,ur-saŋ gal šibir-ta šu dab₅-e
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,14,nam-nir-ra zag keše₂
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,15,a-ab mur ša₄-ni
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,16,me-lem₄ kalam-ma dul-la-še₃
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,17,na₄ gal-gal šeŋₓ gilim
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,18,mu-un-na-gub-be₂-eš
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,21,gi-gin₇
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,22,ni₂-bi ŋal₂-la-ni-še₃
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,23,mu-un-na-il₂
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,24,uŋ₃ šar₂-ra-ba igi-bi im-ši-ŋal₂
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,25,en nam-he₂ giri₁₇-zal lu-lu-lu
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,26,zi kalam-ma šum₂-mu
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,27,nun šag₄ gur-ru šu niŋin₂-bi dug₃
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,28,an-dul₃ larsam{ki}-ma
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,29,a₂-tah {d}suen-i-din-na-am ki me₃-ka
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,30,šen-šen-na erin₂ zag-ga-na gub-bu
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,31,en gal ku₃-ŋal₂ an {d}en-lil₂-ka
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,32,nam-ma-ni zag nu-sa₂
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,33,lugal-a-ni-ir
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,34,{d}suen-i-din-na-am nitah kalag-ga
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,35,nun sun₅-na ni₂-tuku {d}en-lil₂-la₂
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,36,he₂-am₃ e₂-kur-ra-kam
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,37,šul mu dug₃ sa₄ {d}nanna-ke₄
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,38,u₂-a urim₅{ki}-ma
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,39,lugal larsam{ki}-ma
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,40,lugal ki-en-gi ki-uri-ke₄
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,41,ŋeštug₂ daŋal igi-ŋal₂ dirig šum₂-ma
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,42,{d}nu-dim₂-mud-ke₄
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,43,bal dug₃ til₃ ud su₃-ra₂ he₂-ŋal₂ niŋ₂ nu-til-e
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,44,{d}iškur diŋir-ra-ni
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,45,saŋ-e-eš-e rig₇-ga
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,46,ŋiš-hur eridug{ki}-ga si sa₂-sa₂
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,47,nidba
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,48,diŋir-re-e-ne šu du₇-du₇
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,49,gal-an-zu me libir
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,50,ki-bi bi₂-in-gi₄-a
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,51,uŋ₃ šar₂-ra-ni
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,52,zid-de₃-eš
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,53,mu-un-pad₃-da
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,54,{ŋeš}gu-za mah
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,55,me-dim₂-ta dirig
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,56,diŋir-ra-ni-ir sig₁₀-ga
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,57,kug luh-ha
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,58,gal-le-eš ak
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,59,an sig₇-ga
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,64,me-te nam-u₁₈-ru-ka-ni
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,65,dub₃ ŋal₂-le bi₂-du₇-a
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,66,šag₄ la-la-ŋal₂-la-na
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,67,kiŋ₂-bi im-mi-in-til
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,68,ud-bi-a {d}iškur diŋir-ra-ni
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,69,{ŋeš}gu-za ka silim-ma-ka-na
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,70,gal-bi dur₂ mi-ni-in-ŋar
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,71,ud-a ud ul-le₂-a-aš
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,72,me-dim₂-bi im-mi-in-dirig
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,73,ŋiš-hur me mah-bi
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,74,ki-bi mi-ni-in-kiŋ₂-kiŋ₂
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,75,₂ am gal ki aš-te
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,76,erim₂ lugal-la du₇-de₃
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,77,zid-da gab₂-bu-bi
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,78,sig-ta
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,79,ERIN₂.PIRIŊ
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,80,he₂-ŋal₂-la {d}a-nun-na
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,81,me-še₃ an-ur₂
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,82,mu-un-na-da-sug₂-sug₂-ge-eš
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,83,alan-bi
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,84,du₁₀-ub-ba im-mi-in-X
+c.2.6.6.5,Sîn-iddinam and Iškur (Sîn-iddinam E),,85,

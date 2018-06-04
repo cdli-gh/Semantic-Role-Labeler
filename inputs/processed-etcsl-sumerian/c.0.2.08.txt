@@ -1,0 +1,65 @@
+id_text,text_name,version,l_no,text
+c.0.2.08,OB catalogue from Nibru (N4),,A1,
+c.0.2.08,OB catalogue from Nibru (N4),,A2,gub-ba-bi
+c.0.2.08,OB catalogue from Nibru (N4),,A3,
+c.0.2.08,OB catalogue from Nibru (N4),,A4,a-še-er
+c.0.2.08,OB catalogue from Nibru (N4),,A5,
+c.0.2.08,OB catalogue from Nibru (N4),,A6,il₂
+c.0.2.08,OB catalogue from Nibru (N4),,A7,
+c.0.2.08,OB catalogue from Nibru (N4),,B1,
+c.0.2.08,OB catalogue from Nibru (N4),,B2,
+c.0.2.08,OB catalogue from Nibru (N4),,B3,nir a₂-tuku
+c.0.2.08,OB catalogue from Nibru (N4),,B4,gel-le-eŋ₃-ŋa₂-ŋu₁₀
+c.0.2.08,OB catalogue from Nibru (N4),,B5,
+c.0.2.08,OB catalogue from Nibru (N4),,B6,mah-me-en
+c.0.2.08,OB catalogue from Nibru (N4),,B7,u₃-ma gig-ŋu₁₀
+c.0.2.08,OB catalogue from Nibru (N4),,B8,
+c.0.2.08,OB catalogue from Nibru (N4),,B9,u₃-ma zi-zi-ŋu₁₀
+c.0.2.08,OB catalogue from Nibru (N4),,B10,ga-ša-an-ŋu₁₀ de₃-gur
+c.0.2.08,OB catalogue from Nibru (N4),,B11,{d}utu gud huš
+c.0.2.08,OB catalogue from Nibru (N4),,B12,{d}utu ur-saŋ
+c.0.2.08,OB catalogue from Nibru (N4),,B13,{d}utu e₃-ma
+c.0.2.08,OB catalogue from Nibru (N4),,B14,e₂-gi₄-a e₂-ta nam-ta-e₃
+c.0.2.08,OB catalogue from Nibru (N4),,C1,
+c.0.2.08,OB catalogue from Nibru (N4),,C2,
+c.0.2.08,OB catalogue from Nibru (N4),,C3,
+c.0.2.08,OB catalogue from Nibru (N4),,C4,
+c.0.2.08,OB catalogue from Nibru (N4),,C5,
+c.0.2.08,OB catalogue from Nibru (N4),,C6,
+c.0.2.08,OB catalogue from Nibru (N4),,C7,
+c.0.2.08,OB catalogue from Nibru (N4),,C8,
+c.0.2.08,OB catalogue from Nibru (N4),,D1,dumu lugal
+c.0.2.08,OB catalogue from Nibru (N4),,D2,an nam-nir-ra
+c.0.2.08,OB catalogue from Nibru (N4),,D3,a-ba-a mu-un-ba-al-e
+c.0.2.08,OB catalogue from Nibru (N4),,D4,me-a lu
+c.0.2.08,OB catalogue from Nibru (N4),,D5,me-am-ra
+c.0.2.08,OB catalogue from Nibru (N4),,D6,lugal he₂-ŋal₂
+c.0.2.08,OB catalogue from Nibru (N4),,D7,šembi₂-zid-da dar-ra
+c.0.2.08,OB catalogue from Nibru (N4),,D8,
+c.0.2.08,OB catalogue from Nibru (N4),,D9,pad₃-da {d}en-lil₂
+c.0.2.08,OB catalogue from Nibru (N4),,D10,{d}hendur-saŋ šul ŋi₆ du-du
+c.0.2.08,OB catalogue from Nibru (N4),,D11,gud-gin₇
+c.0.2.08,OB catalogue from Nibru (N4),,D12,bur₁₂-bur₁₂-re
+c.0.2.08,OB catalogue from Nibru (N4),,D13,lu₂
+c.0.2.08,OB catalogue from Nibru (N4),,D14,
+c.0.2.08,OB catalogue from Nibru (N4),,E1,he₂-ŋal₂
+c.0.2.08,OB catalogue from Nibru (N4),,E2,
+c.0.2.08,OB catalogue from Nibru (N4),,E3,
+c.0.2.08,OB catalogue from Nibru (N4),,E4,me-a
+c.0.2.08,OB catalogue from Nibru (N4),,E5,
+c.0.2.08,OB catalogue from Nibru (N4),,E6,{d}ba-u₂-ŋu₁₀
+c.0.2.08,OB catalogue from Nibru (N4),,E7,
+c.0.2.08,OB catalogue from Nibru (N4),,E8,
+c.0.2.08,OB catalogue from Nibru (N4),,F1,
+c.0.2.08,OB catalogue from Nibru (N4),,F2,a-še-er
+c.0.2.08,OB catalogue from Nibru (N4),,F3,dugud-ra na-nam
+c.0.2.08,OB catalogue from Nibru (N4),,F4,na-aŋ₂
+c.0.2.08,OB catalogue from Nibru (N4),,F5,ud i-ni-in-zal
+c.0.2.08,OB catalogue from Nibru (N4),,F6,zig₃-ga-na
+c.0.2.08,OB catalogue from Nibru (N4),,F7,hul-hul
+c.0.2.08,OB catalogue from Nibru (N4),,G1,
+c.0.2.08,OB catalogue from Nibru (N4),,G2,
+c.0.2.08,OB catalogue from Nibru (N4),,G3,e₂
+c.0.2.08,OB catalogue from Nibru (N4),,G4,nin
+c.0.2.08,OB catalogue from Nibru (N4),,G5,
+c.0.2.08,OB catalogue from Nibru (N4),,G6,

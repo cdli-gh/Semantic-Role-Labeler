@@ -1,0 +1,30 @@
+id_text,text_name,version,l_no,text
+c.4.13.a,A hymn to Nanna,,1,nam₂ nun-e saŋ-kal e₂-kur-ra ni₂
+c.4.13.a,A hymn to Nanna,,2,{d}suen-e zi-le {d}en-lil₂-la₂ zi-ŋal₂
+c.4.13.a,A hymn to Nanna,,3,amar gug hi-li šu tag-ga su₃-ra₂-aŋ₂
+c.4.13.a,A hymn to Nanna,,4,nun saŋ-ki-bi lum-lum muš₃-bi
+c.4.13.a,A hymn to Nanna,,5,{d}suen-e ur-saŋ ne₃ gal tuku nam-gur₄-bi
+c.4.13.a,A hymn to Nanna,,6,utah-he sikil i-lim ki daŋal-la ni₂ te
+c.4.13.a,A hymn to Nanna,,7,diŋir-re-e-ne pa e₃
+c.4.13.a,A hymn to Nanna,,8,gal-le-eš
+c.4.13.a,A hymn to Nanna,,9,te-bi an ki-a kur₂
+c.4.13.a,A hymn to Nanna,,10,til₃-la-bi saŋ
+c.4.13.a,A hymn to Nanna,,11,
+c.4.13.a,A hymn to Nanna,,12,
+c.4.13.a,A hymn to Nanna,,13,
+c.4.13.a,A hymn to Nanna,,14,nam-te
+c.4.13.a,A hymn to Nanna,,15,nam-ŋu₁₀
+c.4.13.a,A hymn to Nanna,,16,{d}en-lil₂-la₂-me-en mu mu-un-gen₆ i₃-pad₃-de₃
+c.4.13.a,A hymn to Nanna,,17,ni₂ nam-en-nam nam-gal-la-ka mu dug₃ nu-pad₃-de₃ nam-gal
+c.4.13.a,A hymn to Nanna,,18,ama-ŋu₁₀ a-a-ŋu₁₀-ur₂ dug₄-ga-na-ab nam-X
+c.4.13.a,A hymn to Nanna,,19,kur gal {d}en-lil₂-ra dug₄-ga-na-ab
+c.4.13.a,A hymn to Nanna,,20,diŋir šeš-ŋu₁₀-gin₇ nam-ŊIŠGAL nam-X
+c.4.13.a,A hymn to Nanna,,21,ama-a-ni {d}nin-lil₂-le nitalam
+c.4.13.a,A hymn to Nanna,,22,kur gal {d}en-lil₂-ra inim-ma
+c.4.13.a,A hymn to Nanna,,23,mu-ud-na-ŋu₁₀ dumu-zu {d}suen-e
+c.4.13.a,A hymn to Nanna,,24,du₅-mu zi-le i-lu ša₃-ba nam
+c.4.13.a,A hymn to Nanna,,25,u₃-tud ama ab-a za-e
+c.4.13.a,A hymn to Nanna,,26,nun ka silim e₂-kur-ra lum-lum ki-ur₃-ra
+c.4.13.a,A hymn to Nanna,,27,mu-nu₁₂ ab₂
+c.4.13.a,A hymn to Nanna,,28,{d}suen-e
+c.4.13.a,A hymn to Nanna,,29,du₅-mu nun

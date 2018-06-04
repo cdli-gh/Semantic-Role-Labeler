@@ -1,0 +1,166 @@
+id_text,text_name,version,l_no,text
+c.4.80.2,The Keš temple hymn,,1,nam₂ nun-e nam₂ nun-e e₂-ta nam-ta-ab-e₃
+c.4.80.2,The Keš temple hymn,,2,{d}en-lil₂ nam₂ nun-e e₂-ta nam-ta-ab-e₃
+c.4.80.2,The Keš temple hymn,,3,nam₂ nun-e nam-lugal-la e₂-ta nam-ta-ab-e₃
+c.4.80.2,The Keš temple hymn,,4,{d}en-lil₂ kur-kur-ra igi mi-ni-in-il₂-il₂-i
+c.4.80.2,The Keš temple hymn,,5,{d}en-lil₂-ra kur ni₂-ba mu-na-il₂-il₂-i
+c.4.80.2,The Keš temple hymn,,6,an ub-da ₄ {d}en-lil₂-ra {ŋeš}kiri₆-gin₇ mu-na-sig₇
+c.4.80.2,The Keš temple hymn,,7,keš₃{ki} saŋ il₂ mu-na-ni-in-ŋal₂
+c.4.80.2,The Keš temple hymn,,8,keš₃{ki} kur-kur-ra saŋ il₂-bi
+c.4.80.2,The Keš temple hymn,,9,{d}en-lil₂-le keš₃{ki} za₃-mi₂ am₃-ma-ab-be₂
+c.4.80.2,The Keš temple hymn,,10,{d}nisaba nu-ka-aš-bi-im
+c.4.80.2,The Keš temple hymn,,11,inim-bi-ta sa-gin₇ im-da-an-sur
+c.4.80.2,The Keš temple hymn,,12,dub-ba sar-sar šu-še₃ al-ŋa₂-ŋa₂
+c.4.80.2,The Keš temple hymn,,13,e₂ muš₃ kalam-ma gud huš aratta
+c.4.80.2,The Keš temple hymn,,14,e₂ keš₃{ki} muš₃ kalam-ma gud huš aratta
+c.4.80.2,The Keš temple hymn,,15,hur-saŋ-da mu₂-a an-da gu₂ la₂-a
+c.4.80.2,The Keš temple hymn,,16,e₂-kur-da mu₂-a kur-ra saŋ il₂-bi
+c.4.80.2,The Keš temple hymn,,17,abzu-gin₇ ri-a hur-saŋ-gin₇ sig₇-sig₇-ga
+c.4.80.2,The Keš temple hymn,,18,keš₃{ki}-gin₇ rib-ba lu₂ ši-in-ga-tum₂-mu
+c.4.80.2,The Keš temple hymn,,19,ur-saŋ-bi {d}aš₇-gi₄-gin₇ rib-ba ama ši-in-ga-u₃-tud
+c.4.80.2,The Keš temple hymn,,20,nin-bi {d}nin-tur₅-gin₇ rib-ba-ra a-ba-a igi mu-ni-in-du₈
+c.4.80.2,The Keš temple hymn,,21,e₂ ₁-kam-ma
+c.4.80.2,The Keš temple hymn,,22,e₂ dug₃ ki dug₃-ga du₃-a
+c.4.80.2,The Keš temple hymn,,23,e₂ keš₃{ki} e₂ dug₃ ki dug₃-ga du₃-a
+c.4.80.2,The Keš temple hymn,,24,ma₂-gur₈ nun-gin₇ an-na dirig-ga
+c.4.80.2,The Keš temple hymn,,25,ma₂-gur₈ kug-gin₇ kan₄ si ri-a
+c.4.80.2,The Keš temple hymn,,26,ma₂ an-na-gin₇ muš₃ kur-kur-ra
+c.4.80.2,The Keš temple hymn,,27,u₅ ma₂ ban₃-da-gin₇ peš₁₀-ta sur-sur-ra
+c.4.80.2,The Keš temple hymn,,28,e₂ gud-gin₇ mur ša₄ ninda₂-gin₇ gu₃ nun di
+c.4.80.2,The Keš temple hymn,,29,e₂ šag₄-bi-ta lipiš kalam-ma
+c.4.80.2,The Keš temple hymn,,30,a-ga-bi-ta zi ki-en-gi-ra
+c.4.80.2,The Keš temple hymn,,31,e₂ ib-gal an-ne₂ us₂-sa
+c.4.80.2,The Keš temple hymn,,32,e₂ zid-da gal an-ne₂ us₂-sa
+c.4.80.2,The Keš temple hymn,,33,e₂ men gal an-ne₂ us₂-sa
+c.4.80.2,The Keš temple hymn,,34,e₂ {d}tir-an-na an-ne₂ us₂-sa
+c.4.80.2,The Keš temple hymn,,35,e₂ suh₁₀-bi an-šag₄-ga la₂-a
+c.4.80.2,The Keš temple hymn,,36,te-me-bi abzu-a sig₉-ga
+c.4.80.2,The Keš temple hymn,,37,ŋissu-bi kur-kur-ra dul-la
+c.4.80.2,The Keš temple hymn,,38,e₂ an-ne₂ ki ŋar-ra {d}en-lil₂-le za₃-mi₂ dug₄-ga
+c.4.80.2,The Keš temple hymn,,39,ama {d}nin-tur₅-ra eš-bar kiŋ₂ dug₄-ga
+c.4.80.2,The Keš temple hymn,,40,e₂ keš₃{ki} gurun-na sig₇-ga
+c.4.80.2,The Keš temple hymn,,41,keš₃{ki}-gin₇ rib-ba lu₂ ši-in-ga-tum₂-mu
+c.4.80.2,The Keš temple hymn,,42,ur-saŋ-bi {d}aš₇-gi₄-gin₇ rib-ba ama ši-in-ga-u₃-tud
+c.4.80.2,The Keš temple hymn,,43,nin-bi {d}nin-tur₅-gin₇ rib-ba-ra a-ba-a igi mu-ni-in-du₈
+c.4.80.2,The Keš temple hymn,,44,e₂ ₂-kam-ma
+c.4.80.2,The Keš temple hymn,,45,e₂ an-še₃ ₁₀ šar₂{iku} ki-še₃ ₅ šar₂{iku}
+c.4.80.2,The Keš temple hymn,,46,e₂ an-še₃ ₁₀ bur₃{iku} ki-še₃ ₅ bur₃{iku}
+c.4.80.2,The Keš temple hymn,,47,e₂ an-še₃ alim ki-še₃ lu-lim
+c.4.80.2,The Keš temple hymn,,48,e₂ an-še₃ šeg₉-bar ki-še₃ tarah-maš
+c.4.80.2,The Keš temple hymn,,49,e₂ an-še₃ šeg₉-bar gun₃-a ki-še₃ tarah-maš sig₇-ga
+c.4.80.2,The Keš temple hymn,,50,e₂ an-še₃ muš-gu₇{mušen}-gin₇ sig₇-ga ki-še₃ u₅{mušen}-gin₇ a-e šu₂-a
+c.4.80.2,The Keš temple hymn,,51,e₂ an-še₃ ud-gin₇ e₃-a ki-še₃ iti₆-gin₇ barag₂-ga
+c.4.80.2,The Keš temple hymn,,52,e₂ an-še₃ šita₂ šul ki-še₃ {ŋeš}tun₃-am₃
+c.4.80.2,The Keš temple hymn,,53,e₂ an-še₃ kur-ra-am₃ ki-še₃ idim-ma-am₃
+c.4.80.2,The Keš temple hymn,,54,e₂ an-še₃ ₃-kam-bi na-nam
+c.4.80.2,The Keš temple hymn,,55,keš₃{ki}-gin₇ rib-ba lu₂ ši-in-ga-an-tum₂-mu
+c.4.80.2,The Keš temple hymn,,56,ur-saŋ-bi {d}aš₇-gi₄-gin₇ rib-ba ama ši-in-ga-u₃-tud
+c.4.80.2,The Keš temple hymn,,57,nin-bi {d}nin-tur₅-gin₇ rib-ba-ra a-ba-a igi mu-ni-in-du₈
+c.4.80.2,The Keš temple hymn,,58,e₂ ₃-kam-ma
+c.4.80.2,The Keš temple hymn,,58A,e₂ ni₂ gal ši-ri an-ne₂ mu mah sa₄
+c.4.80.2,The Keš temple hymn,,58B,e₂ kur gal {d}en-lil₂-le nam-ma-ni gal tar-re
+c.4.80.2,The Keš temple hymn,,58C,e₂ a₂-nun-ŋal₂ {d}a-nun-ke₄-ne uŋ₃ ŋalga šum₂-mu
+c.4.80.2,The Keš temple hymn,,58D,e₂ ki-tuš ni₂ dub₂-bu diŋir gal-e-ne
+c.4.80.2,The Keš temple hymn,,58E,e₂ an ki-bi-da ŋiš-hur-bi i₃-hur me sikil šu
+c.4.80.2,The Keš temple hymn,,58F,e₂ kalam ki ŋar-ra zag-ŋar-ra us₂-sa
+c.4.80.2,The Keš temple hymn,,58G,e₂ kur he₂-ŋal₂ giri₁₇-zal ud zal-zal-le
+c.4.80.2,The Keš temple hymn,,58H,e₂ {d}nin-hur-saŋ-ŋa₂ zi kalam-ma ki-bi-še₃ ŋar
+c.4.80.2,The Keš temple hymn,,58I,e₂ hur-saŋ gal šu-luh-ha tum₂-ma niŋ₂-nam-ma-ni i₃-kur₂
+c.4.80.2,The Keš temple hymn,,58J,e₂ e-ne-da nu ka-aš bar nu-ŋa₂-ŋa₂
+c.4.80.2,The Keš temple hymn,,58K,e₂ dug₃ kalam daŋal šu la₂-a
+c.4.80.2,The Keš temple hymn,,58L,e₂ uŋ₃ šar₂ u₃-tud numun {ŋeš}isimu₂{sar} tuku-tuku
+c.4.80.2,The Keš temple hymn,,58M,e₂ lugal u₃-tud nam kalam-ma tar-re
+c.4.80.2,The Keš temple hymn,,58N,e₂ barag-barag-bi šu-kin dab₅-be₂ ak-de₃
+c.4.80.2,The Keš temple hymn,,58O,keš₃{ki}-gin₇ rib-ba lu₂ ši-in-ga-an-tum₂-mu
+c.4.80.2,The Keš temple hymn,,58P,ur-saŋ-bi {d}aš₇-gi₄-gin₇ rib-ba ama ši-in-ga-a-an-u₃-tud
+c.4.80.2,The Keš temple hymn,,58Q,nin-bi {d}nin-tur₅-gin₇ rib-ba-ra a-ba-a igi mu-ni-in-du₈
+c.4.80.2,The Keš temple hymn,,58R,
+c.4.80.2,The Keš temple hymn,,59,iri{ki} ga-am₃ iri{ki} ga-am₃ šag₄-bi a-ba mu-zu
+c.4.80.2,The Keš temple hymn,,60,e₂ keš₃{ki} iri{ki} ga-am₃ šag₄-bi a-ba mu-zu
+c.4.80.2,The Keš temple hymn,,61,šag₄-bi ur-saŋ-ur-saŋ-e-ne si mu-un-si-sa₂-e-ne
+c.4.80.2,The Keš temple hymn,,62,eš-bar kiŋ₂ dug₄-ga šu gal mu-un-du₇-du₇
+c.4.80.2,The Keš temple hymn,,63,e₂ gud du₇-du₇-dam gu₂ am₃-ma-gur-re
+c.4.80.2,The Keš temple hymn,,64,e₂ gud šar₂-a al-gu₇-e
+c.4.80.2,The Keš temple hymn,,65,e₂ udu šar₂-a-am₃ al-gu₇-e
+c.4.80.2,The Keš temple hymn,,66,gu₂-bi luh-luh-ha
+c.4.80.2,The Keš temple hymn,,67,barag-barag-e-ne gu₂-ne am₃-ma-ŋal₂-le-ne
+c.4.80.2,The Keš temple hymn,,68,{ŋeš}taškarin-da men an-da-gur₃-ru
+c.4.80.2,The Keš temple hymn,,69,{ŋeš}asal₂-gin₇ an-da-tal₂-tal₂ sal-la
+c.4.80.2,The Keš temple hymn,,70,hur-saŋ-da mu₂-a an-da-sig₇-sig₇-ga
+c.4.80.2,The Keš temple hymn,,71,keš₃{ki}-gin₇ rib-ba lu₂ ši-in-ga-an-tum₂-mu
+c.4.80.2,The Keš temple hymn,,72,ur-saŋ-bi {d}aš₇-gi₄-gin₇ rib-ba ama ši-in-ga-u₃-tud
+c.4.80.2,The Keš temple hymn,,73,nin-bi {d}nin-tur₅-gin₇ rib-ba-ra a-ba-a igi mu-ni-in-du₈
+c.4.80.2,The Keš temple hymn,,74,e₂ ₄-kam-ma
+c.4.80.2,The Keš temple hymn,,75,e₂ piriŋ u₃-tud šag₄-bi ur-saŋ su₃-ud
+c.4.80.2,The Keš temple hymn,,76,e₂ keš₃{ki} piriŋ u₃-tud šag₄-bi ur-saŋ su₃-ud
+c.4.80.2,The Keš temple hymn,,77,šag₄-bi ur-saŋ-ur-saŋ-e-ne si mu-un-si-sa₂
+c.4.80.2,The Keš temple hymn,,78,{d}nin-hur-saŋ-ŋa₂ ušumgal-am₃ šag₄ im-mi-in-tuš
+c.4.80.2,The Keš temple hymn,,79,{d}nin-tur₅ ama gal-la tud-tud mu-un-ŋa₂-ŋa₂
+c.4.80.2,The Keš temple hymn,,80,{d}šul-pa-e₃ ensi₂-ke₄ nam-en mu-un-na-ak
+c.4.80.2,The Keš temple hymn,,81,{d}aš₇-gi₄ ur-saŋ pisaŋ₃ mu-un-gu₇-e
+c.4.80.2,The Keš temple hymn,,82,{d}uru₃-maš niŋir gal edin-na mu-un-da-an-til₃
+c.4.80.2,The Keš temple hymn,,83,e₂ lulim gu₂ am₃-ma-gur-re
+c.4.80.2,The Keš temple hymn,,84,keš₃{ki}-gin₇ rib-ba lu₂ ši-in-ga-tum₂-mu
+c.4.80.2,The Keš temple hymn,,85,ur-saŋ-bi {d}aš₇-gi₄-gin₇ rib-ba ama ši-in-ga-u₃-tud
+c.4.80.2,The Keš temple hymn,,86,nin-bi {d}nin-tur₅-gin₇ rib-ba-ra a-ba-a igi mu-ni-in-du₈
+c.4.80.2,The Keš temple hymn,,87,e₂ ₅-kam-ma
+c.4.80.2,The Keš temple hymn,,88,e₂ ud-gin₇ ki-gal-la gub-ba
+c.4.80.2,The Keš temple hymn,,89,am babbar-gin₇ edin sug₂-da
+c.4.80.2,The Keš temple hymn,,90,e₂ nun-e ki ŋar-ra tigi-da ar₂-ra
+c.4.80.2,The Keš temple hymn,,91,e₂ šag₄-bi-ta lipiš kalam-ma
+c.4.80.2,The Keš temple hymn,,92,a-ga-bi-ta zi ki-en-gi-ra
+c.4.80.2,The Keš temple hymn,,93,kan₄-bi-ta piriŋ šu-ba nu₂-a
+c.4.80.2,The Keš temple hymn,,94,kan₄-bi-ta UN-gal inim ŋar-ra
+c.4.80.2,The Keš temple hymn,,95,e₂ ig-bi-ta kur gal gaba nu-gi₄-gi₄
+c.4.80.2,The Keš temple hymn,,96,{ŋeš}saŋ-kul-ta am gal-la du₇-a
+c.4.80.2,The Keš temple hymn,,96A,{ŋeš}saŋ-kul-bi ur-ra lu₂
+c.4.80.2,The Keš temple hymn,,97,ŋa₂-nun ŋar-ra-bi an-ub ki-ub
+c.4.80.2,The Keš temple hymn,,98,gi-gun₄{ki}-na-bi la-ha-ma ki us₂-sa
+c.4.80.2,The Keš temple hymn,,99,bad₃ gal nun-na-bi eš₃ urim₂{ki} zu₂ keše₂-da
+c.4.80.2,The Keš temple hymn,,100,keš₃{ki}-gin₇ rib-ba lu₂ ši-in-ga-an-tum₂-mu
+c.4.80.2,The Keš temple hymn,,101,ur-saŋ-bi {d}aš₇-gi₄-gin₇ rib-ba ama ši-in-ga-u₃-tud
+c.4.80.2,The Keš temple hymn,,102,nin-bi {d}nin-tur₅-ra-gin₇ rib-ba-ra a-ba-a igi mu-ni-in-du₈
+c.4.80.2,The Keš temple hymn,,103,e₂ ₆-kam-ma
+c.4.80.2,The Keš temple hymn,,103A,e₂ su-lim guru₃ zag dib-ba šu
+c.4.80.2,The Keš temple hymn,,103B,e₂ igi tab an-ne₂ šag₄
+c.4.80.2,The Keš temple hymn,,103C,en {d}nu-dim₂-mud-e an ki-a
+c.4.80.2,The Keš temple hymn,,103D,an nin lu₂ šeg₁₂ kalam-ma dug₃
+c.4.80.2,The Keš temple hymn,,103E,šeg₁₂ abzu-ta kiŋ₂ gal-le-eš
+c.4.80.2,The Keš temple hymn,,103F,gi-gun₄-na ki-tuš ni₂ dub₂-bu
+c.4.80.2,The Keš temple hymn,,103G,si-muš₃ kug šag₄ uŋ₃-ŋa₂ saŋ zig₃
+c.4.80.2,The Keš temple hymn,,103H,e₂ kur-kur-ra me-te-ŋal₂-la₂
+c.4.80.2,The Keš temple hymn,,103I,keš₃{ki}-gin₇ rib-ba lu₂ ši-in-ga-an-tum₂-mu
+c.4.80.2,The Keš temple hymn,,103J,ur-saŋ-bi {d}aš₇-gi₄-gin₇ rib-ba ama ši-in-ga-u₃-tud
+c.4.80.2,The Keš temple hymn,,103K,nin-bi {d}nin-tur₅-ra-gin₇ rib-ba-ra a-ba-a igi mu-ni-in-du₈
+c.4.80.2,The Keš temple hymn,,103L,e₂ ₈-kam-ma
+c.4.80.2,The Keš temple hymn,,104,e₂ kug agrun
+c.4.80.2,The Keš temple hymn,,105,e₂ keš₃{ki} kug agrun
+c.4.80.2,The Keš temple hymn,,106,e₂ en-bi {d}a-nun-na-me-eš
+c.4.80.2,The Keš temple hymn,,107,nu-eš₃-bi ŋiri₂ la₂ e₂-an-na-me-eš
+c.4.80.2,The Keš temple hymn,,108,e₂-e lugal bur-ra am₃-mi-gub
+c.4.80.2,The Keš temple hymn,,109,en dug₃ šag₄ eš₂ la₂ am₃-mi-in-la₂
+c.4.80.2,The Keš temple hymn,,110,a-tu-e ešgiri₂ šu bi₂-in-du₈
+c.4.80.2,The Keš temple hymn,,111,TU-e a ur₄-a am₃-mu-e-de₆
+c.4.80.2,The Keš temple hymn,,112,lal₃-e ki kug-ga am₃-mi-in-tuš
+c.4.80.2,The Keš temple hymn,,113,enkum-e-ne šeg₁₁ ki am₃-ma-ŋal₂-le-eš
+c.4.80.2,The Keš temple hymn,,114,pa₄-šeš-e-ne kuš mu-un-sag₃-ge-ne
+c.4.80.2,The Keš temple hymn,,115,u₁₈-ru u₁₈-ru mu-ni-ib-be₂-e-ne
+c.4.80.2,The Keš temple hymn,,116,si am-ma-ke₄ gum₂-ga mi-ni-ib-za
+c.4.80.2,The Keš temple hymn,,117,{ŋeš}al-ŋar-sur₉-ra suh₃-sah₄ mi-ni-ib-za
+c.4.80.2,The Keš temple hymn,,118,nar {kuš}a₂-la₂-e šeg₁₁ mu-ni-ib-gi₄
+c.4.80.2,The Keš temple hymn,,119,tigi nun dug₃-ge mu-na-du₁₂-a
+c.4.80.2,The Keš temple hymn,,120,e₂ al-du₃ giri₁₇-zal-bi al-dug₃
+c.4.80.2,The Keš temple hymn,,121,e₂ keš₃{ki} al-du₃ giri₁₇-zal-bi al-dug₃
+c.4.80.2,The Keš temple hymn,,122,nin-bi mu-un-tuš
+c.4.80.2,The Keš temple hymn,,123,{d}nin-hur-saŋ-ŋa₂ nin-bi mu-un-tuš
+c.4.80.2,The Keš temple hymn,,124,keš₃{ki}-gin₇ rib-ba lu₂ ši-in-ga-an-tum₂-mu
+c.4.80.2,The Keš temple hymn,,125,ur-saŋ-bi {d}aš₇-gi₄-gin₇ rib-ba ama ši-in-ga-u₃-tud
+c.4.80.2,The Keš temple hymn,,126,nin-bi {d}nin-tur₅-ra-gin₇ rib-ba-ra a-ba-a igi mu-ni-in-du₈
+c.4.80.2,The Keš temple hymn,,127,e₂ ₇-kam-ma
+c.4.80.2,The Keš temple hymn,,128,iri-še₃ iri-še₃ lu₂ te-a na-te
+c.4.80.2,The Keš temple hymn,,129,e₂ keš₃{ki} iri-še₃ lu₂ te-a na-te
+c.4.80.2,The Keš temple hymn,,130,ur-saŋ-bi {d}aš₇-gi₄-še₃ lu₂ te-a na-te
+c.4.80.2,The Keš temple hymn,,131,nin-bi {d}nin-tur₅-še₃ lu₂ te-a na-te
+c.4.80.2,The Keš temple hymn,,132,keš₃{ki} du₃-a {d}aš₇-gi₄ za₃-mi₂
+c.4.80.2,The Keš temple hymn,,133,keš₃{ki} mi₂ dug₄-ga {d}nin-tur₅-ra za₃-mi₂
+c.4.80.2,The Keš temple hymn,,134,e₂ ₈-kam-ma

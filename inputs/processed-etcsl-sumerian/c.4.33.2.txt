@@ -1,0 +1,42 @@
+id_text,text_name,version,l_no,text
+c.4.33.2,A hymn to Kusu (Kusu A),,1,am huš gal du₇-du₇ gi-izi-la₂
+c.4.33.2,A hymn to Kusu (Kusu A),,2,am gal {d}en-ki-ke₄ u₃-na gub-bu
+c.4.33.2,A hymn to Kusu (Kusu A),,3,abzu ki sikil-ta e₃-a
+c.4.33.2,A hymn to Kusu (Kusu A),,4,{d}gibil₆ e₂-gal unu₂
+c.4.33.2,A hymn to Kusu (Kusu A),,5,ni₂ gal gur₃-ru-na muš₃
+c.4.33.2,A hymn to Kusu (Kusu A),,6,{d}nun-bar-an-na šu ŋar huš
+c.4.33.2,A hymn to Kusu (Kusu A),,7,gi-izi-la₂ gal abzu-ta e₃-a
+c.4.33.2,A hymn to Kusu (Kusu A),,8,me nun-na saŋ il₂
+c.4.33.2,A hymn to Kusu (Kusu A),,9,{ŋeš}erin {ŋeš}šu-ur₂-men₅ {ŋeš}za-ba-lum {ŋeš}taškarin
+c.4.33.2,A hymn to Kusu (Kusu A),,10,siki babbar siki gig₂ ŋiš-kin₂ babbar ŋiš-kin₂ gig₂
+c.4.33.2,A hymn to Kusu (Kusu A),,11,{ŋeš}hašhur še-er-gum {ŋeš}peš₃ še-er-gum gid₂-da la₂-a
+c.4.33.2,A hymn to Kusu (Kusu A),,12,a₂ tarah maš₂ hur-saŋ-ŋa₂
+c.4.33.2,A hymn to Kusu (Kusu A),,13,i₃ tur₃ amaš kug-ta de₂-a
+c.4.33.2,A hymn to Kusu (Kusu A),,14,{im}šu-rin-na-ta
+c.4.33.2,A hymn to Kusu (Kusu A),,15,gi-izi-la₂-ta na de₅-ga
+c.4.33.2,A hymn to Kusu (Kusu A),,16,gi im-ma-ra-keše₂
+c.4.33.2,A hymn to Kusu (Kusu A),,17,izi im-ma-ra-la₂
+c.4.33.2,A hymn to Kusu (Kusu A),,18,im-ta-DU.DU
+c.4.33.2,A hymn to Kusu (Kusu A),,19,im-ta-du₇-du₇
+c.4.33.2,A hymn to Kusu (Kusu A),,20,{d}ku₃-su₁₃
+c.4.33.2,A hymn to Kusu (Kusu A),,21,mu-un-kug gir₄ mu-un-sikil
+c.4.33.2,A hymn to Kusu (Kusu A),,22,im-mi-in-si na de₅ sig₉-ga
+c.4.33.2,A hymn to Kusu (Kusu A),,23,gud šar₂ udu šar₂-da {d}ku₃-su₁₃
+c.4.33.2,A hymn to Kusu (Kusu A),,24,gir₄ gal-e he₂-em-ma-da-an-ku₄-ku₄
+c.4.33.2,A hymn to Kusu (Kusu A),,25,gud šar₂ ninda šar₂-da {d}ku₃-su₁₃
+c.4.33.2,A hymn to Kusu (Kusu A),,26,gir₄ gal-e he₂-em-ma-da-ku₄-ku₄
+c.4.33.2,A hymn to Kusu (Kusu A),,27,nam-tar nam-he₂ ŋiš nam-tar ŋiš nam-he₂
+c.4.33.2,A hymn to Kusu (Kusu A),,28,gi nam-tar gi nam-he₂
+c.4.33.2,A hymn to Kusu (Kusu A),,29,tur₃ kug ba-ra-ab-du₇
+c.4.33.2,A hymn to Kusu (Kusu A),,30,siki sila₄ sig₇-ga-ta siki maš₂ sig₇-ga-ta
+c.4.33.2,A hymn to Kusu (Kusu A),,31,{d}gibil₆ saŋ a₂ zid-da
+c.4.33.2,A hymn to Kusu (Kusu A),,32,saŋ an-še₃ il₂-la-a-ta
+c.4.33.2,A hymn to Kusu (Kusu A),,33,ubur kug an-na-ta a šu im-ta-dab₅
+c.4.33.2,A hymn to Kusu (Kusu A),,34,a-bi an im-kug ki im-sikil
+c.4.33.2,A hymn to Kusu (Kusu A),,35,gud tur₃-bi-a mi-ni-in-sikil
+c.4.33.2,A hymn to Kusu (Kusu A),,36,udu amaš-bi-a mi-ni-in-sikil
+c.4.33.2,A hymn to Kusu (Kusu A),,37,{d}utu an-ur₂-ra mi-ni-in-sikil
+c.4.33.2,A hymn to Kusu (Kusu A),,38,{d}nanna an-pa-a mi-ni-in-sikil
+c.4.33.2,A hymn to Kusu (Kusu A),,39,sag₉-ga e₂-a he₂-em-ta-dadag he₂-em-ta-dadag
+c.4.33.2,A hymn to Kusu (Kusu A),,40,nun abzu kug-ga e₂ sila kug-ga
+c.4.33.2,A hymn to Kusu (Kusu A),,41,eridug{ki}-ta en {d}ku₃-su₁₃ za₃-mi₂

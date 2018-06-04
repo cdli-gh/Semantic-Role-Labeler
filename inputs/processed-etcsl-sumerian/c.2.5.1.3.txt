@@ -1,0 +1,44 @@
+id_text,text_name,version,l_no,text
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,1,nin me nun-na ud-gin₇ dalla e₃ hi-li zid-da ul-še₃ pad₃-da
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,2,{d}na-na-a me-te e₂-an-ka in-nin-ra tum₂-ma
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,3,gal-zu nu-u₈-gig-ge nin kur-kur-ra zid-de₃-eš-še₃ pad₃-da
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,4,{d}na-na-a kalam e₂-an-ka igi-ŋal₂ šum₂-mu ba-e-zu
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,5,bar-sud-am₃
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,6,an-gin₇ sag₉ munus saŋ maš₃ nin dal-dal-le-e du₇
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,7,{d}na-na-a kug {d}inana-ke₄ zid-de₃-eš umun₂ ak
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,8,munus mul-an he₂-me-a nin kug-zu niŋ₂-nam-še₃ ŋal₂-la
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,9,munus zid šag₄ su₃-ra₂ nin inim-še₃ ŋal₂-la-bi i₃-zal-le-eš
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,10,umuš kug {d}inana-ke₄ ak nu-u₈-gig-e ki aŋ₂
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,11,{d}na-na-a di-kud gal diŋir dur₂ mah ki unug{ki}-ga til₃-la
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,12,šag₄-ba-tuku-am₃
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,13,munus zid eš-bar dug₃ kalam-ma-kam di-di-bi gal-zu
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,14,{d}na-na-a si sa₂ iri uŋ₃ lu-a igi-ŋal₂
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,15,munus mah inim kug dug₄-ge du₇ nin hi-li-a tum₂-ma
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,16,{d}na-na-a saŋ il₂ e₂-an-ka lu₂ inim sag₉-ge kalam-ma
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,17,bar-sud ₂-kam-ma-am₃
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,18,an-e igi sag₉ kalam-ma lugal kur-kur-ra
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,19,{d}na-na-a kalam e₂-an-na hi-li
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,20,šul sipad zid dumu {d}nu-nam-nir-re
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,21,{d}iš-bi-er₃-ra me gal-di gu
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,22,{d}na-na-a su₃-ud-še₃ a-ra-zu-ni kurun-gin₇ su-ub en zid-da-na-ka e₂-an-na-kam
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,23,ša-ba-du-ga
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,24,{d}iš-bi-er₃-ra saŋ us₂ muš₃ nu-tum₂-mu e₂-an-na
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,25,sa-gid₂-da-am₃
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,26,ša-mu-da-pad₃ {d}na-na-a kalam-ma nu-u₈-gig-e ki aŋ₂-zu
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,27,{d}iš-bi-er₃-ra ul-še₃ lu₂ inim sag₉-ga-ni he₂-me-en
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,28,ŋiš-gi₄-ŋal₂-bi-im
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,29,nin gal šag₄ ki zi-šag₄-ŋal₂ tum₂-ma nu-u₈-gig-e sa₂-bi šu ŋa₂-ŋa₂
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,30,me giri₁₇-zal šu daŋal nu-u₈-gig-e ma-ra-an-šum₂
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,31,{d}na-na-a nin gal šag₄ ki zi-šag₄-ŋal₂ tum₂-ma nu-u₈-gig-e sa₂-bi šu ŋa₂-ŋa₂
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,32,uŋ₃-e {d}iš-bi-er₃-ra lugal sipad-bi-me-en
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,33,{d}na-na-a inim dug₄ an-na-ta nin kur-kur-ra za-e-me-en
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,34,eš₃-e kul-aba₄ ša-mu-na-ab-be₂
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,35,uŋ₃-e za-ra šag₄-bi im-mi-niŋin₂ ši-im-da-ab-be₂-en
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,36,{d}na-na-a munus zid mu he₂-sag₉ saŋ gig₂-ga-me-en
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,37,inim kug-zu-zu in-nin-na-ra zal-le-eš im-ma-sag₉
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,38,šul hi-li-a pad₃-da nu-u₈-gig-e dumu {d}en-lil₂-ke₄
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,39,{d}na-na-a in-nin me kug-zu ša-ra-mu₂-mu₂
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,40,ki-nu₂-še₃ igi zid nam-til₃-la za-e hu-mu-ni-in-du₈
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,41,{d}iš-bi-er₃-ra šul hi-li-a pad₃-da
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,42,sa-ŋar-ra-am₃
+c.2.5.1.3,A tigi to Nanaya for Išbi-Erra (Išbi-Erra C),,43,tigi {d}na-na-a-kam

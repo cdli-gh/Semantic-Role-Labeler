@@ -1,0 +1,32 @@
+id_text,text_name,version,l_no,text
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,1,
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,2,ba-ni-ŋar-re-eš
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,3,nam-lugal-ŋa₂ ud-bi sud-da
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,4,bal-ŋa₂ he₂-ŋal₂ pa ed₂-ed₂-dam
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,5,{d}en-ki en dug₄-ga-ni nu-kur₂-ru saŋ il₂ ba-ni-kur₉
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,6,{d}utu inim-ma-ni saŋ-ba du maškim-še₃ ma-an-šum₂
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,7,{d}nin-lil₂ kalam-ma gu₃ hul₂-la ma-ni-de₂-a-ke₄-eš₂
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,8,unken-na ŋizzal ma-ni-ak-ke₄-eš₂
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,9,šul-gi sipad zid ki-en-gi-ra-me-en
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,10,ŋa₂-ŋiš-šu₂-a e₂ di si im-sa₂-X
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,11,e₂ mah nam-nin-a tum₂-ma-na
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,12,{e₂}pa-pah ki u₆ di kur-kur-ra ni₂ huš gur₃-ru-na
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,13,e₂ šag₄-bi-a silim mu-na-Xbr-dug₄
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,14,mu-da-ab-du₃ mu-DU.DU
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,15,gu₂
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,16,urud niŋ₂ kalag-ga-a
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,17,lu₂ hul-ŋal₂ {ŋeš}tukul-la
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,18,a₂ aŋ₂-ŋa₂-ni-ta me₃-a mu-ni-gaz-a
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,19,ur-saŋ gal-gal mu-til-la-ŋu₁₀ bar-ba
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,20,gu₂-bi-a ŋiri₃-ŋu₁₀ im-mi-gub
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,21,ki-gal-ba ni₂-ŋu₁₀ saŋ im-ma-ni-il₂
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,22,alan kug-sig₁₇ alan {na₄}za-gin₃-na-ŋu₁₀
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,23,kisal mah e₂-niŋ₂-ŋa₂-ra-ka-na si ba-ni-sa₂-sa₂
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,24,aratta kug-gin₇ gi₁₆-sa mi-ni-ŋar-ŋar
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,25,e₂-muhaldim gal-la-ni gud udu ba-ni-ŋar
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,26,e₂-gir₄ mah-a-ni he₂-ŋal₂-la bi₂-de₆
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,27,e₂-lunga₃ zabar-re he₂-du₇-na
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,28,kaš-kaš-bi-ta ki ba-ni-us₂-us₂
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,29,kaš gig₂ kurun kaš su₄ e₂ a₂ sikil-ba sur-ra
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,30,kiŋ₂-sig unu₂ gal-la-ni ba-ni-ŋar
+c.2.4.2.25,A praise poem of Šulgi (Šulgi Y),,31,

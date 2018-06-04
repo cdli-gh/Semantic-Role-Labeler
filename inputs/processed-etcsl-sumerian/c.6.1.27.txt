@@ -1,0 +1,32 @@
+id_text,text_name,version,l_no,text
+c.6.1.27,Proverbs: collection 27,,A1,
+c.6.1.27,Proverbs: collection 27,,A2,
+c.6.1.27,Proverbs: collection 27,,A3,
+c.6.1.27,Proverbs: collection 27,,A4,lu₂-zuh lu₂
+c.6.1.27,Proverbs: collection 27,,A5,ŋe₂₆-e
+c.6.1.27,Proverbs: collection 27,,A6,lu₂ ka du₃-da ŋiš
+c.6.1.27,Proverbs: collection 27,,A7,{d}en-ki
+c.6.1.27,Proverbs: collection 27,,A8,lu₂ na-me
+c.6.1.27,Proverbs: collection 27,,A9,ne-e
+c.6.1.27,Proverbs: collection 27,,A10,lu₂ lu₂
+c.6.1.27,Proverbs: collection 27,,B1,šag₄ niŋ₂-tuku tur₅-ra-am₃ an-tur₅
+c.6.1.27,Proverbs: collection 27,,B2,šag₄ dirig tur₅-ra-am₃ an-tur₅
+c.6.1.27,Proverbs: collection 27,,B3,a-na-aš-am₃ ur₅-ur₅-ra di₄-di₄-la₂-X
+c.6.1.27,Proverbs: collection 27,,B4,gu₂-un sig gu₂ i₃-il₂-la i₃-gu₄-ud-gu₄-ud-dam
+c.6.1.27,Proverbs: collection 27,,B5,di-bi-ri inim mu-ni-in-ne-eš
+c.6.1.27,Proverbs: collection 27,,B6,lu₂ e₂-a-ne-ne u₂-gu de₂-a erim₃-bi an-gur-ru-uš
+c.6.1.27,Proverbs: collection 27,,B7,gu₇-u₃-de₃ al-dug₃ gur-ru-da-bi al-gig
+c.6.1.27,Proverbs: collection 27,,B8,šag₄ dirig-ga šag₄ a-ab-gig
+c.6.1.27,Proverbs: collection 27,,B9,ki-ŋiš-ŋiš-la₂-a u₂ bur₁₂-bur₁₂-re
+c.6.1.27,Proverbs: collection 27,,B10,iri{ki} iri{ki} silim nu-ub-dug₄ lu₂ lu₂-a silim ab-be₂
+c.6.1.27,Proverbs: collection 27,,B11,danna-še₃ he₂-en-šub MAŠ danna-še₃ he₂-em-gi
+c.6.1.27,Proverbs: collection 27,,B12,Xbr-mi-pad₃-da-bi lu₂ bur₂-ru-bi
+c.6.1.27,Proverbs: collection 27,,B13,Xbr-mi-ed₂-de₃ ni₂ ba-te ba-sah₆
+c.6.1.27,Proverbs: collection 27,,B14,nu-BUR₂ niŋ₂-bi
+c.6.1.27,Proverbs: collection 27,,B17,
+c.6.1.27,Proverbs: collection 27,,B18,lu₂-ra um-ur₄-ur₄
+c.6.1.27,Proverbs: collection 27,,B19,nam-tag-ŋu₁₀-e-še
+c.6.1.27,Proverbs: collection 27,,C1,X-gu₇-da-ke₄-eš
+c.6.1.27,Proverbs: collection 27,,C2,X-mi-dab₅-be₂-eš
+c.6.1.27,Proverbs: collection 27,,C3,
+c.6.1.27,Proverbs: collection 27,,C4,

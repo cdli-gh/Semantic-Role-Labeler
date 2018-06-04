@@ -1,0 +1,97 @@
+id_text,text_name,version,l_no,text
+c.1.7.3,Ninŋišzida's journey to the nether world,,1,zig₃-ga u₅-bi₂ zig₃-ga u₅-e-de₃-en zig₃-ga u₅-bi₂
+c.1.7.3,Ninŋišzida's journey to the nether world,,2,i-lu er₂-ra še-er dadag-ga ma₂-gur₈ ri-de₃
+c.1.7.3,Ninŋišzida's journey to the nether world,,3,ŋuruš-me-en {ŋeš}u₃ tug₂-gin₇ tug₂-gin₇ ni₂-ŋu₁₀ ba-ra-dul-me-en
+c.1.7.3,Ninŋišzida's journey to the nether world,,4,ma₂-gur₈-re ŋuruš ma₂-gur₈ ri-da-ni šu gid₂-da
+c.1.7.3,Ninŋišzida's journey to the nether world,,5,ŋuruš {d}da-mu-ŋu₁₀ ma₂-gur₈ ri-da-ni šu gid₂-da
+c.1.7.3,Ninŋišzida's journey to the nether world,,6,{d}ištaran igi šuba-ke₄ ma₂-gur₈ ri-da-ni šu gid₂-de₃
+c.1.7.3,Ninŋišzida's journey to the nether world,,7,{d}al-la u₃-mu-un sa-par₃-ra ma₂-gur₈ ri-da-ni šu gid₂-de₃
+c.1.7.3,Ninŋišzida's journey to the nether world,,8,{d}lugal-šudₓ-de₃ ma₂-gur₈ ri-da-ni šu gid₂-de₃
+c.1.7.3,Ninŋišzida's journey to the nether world,,9,u₃-mu-un-mu-zid-da-ke₄ ma₂-gur₈ ri-da-ni šu gid₂-de₃
+c.1.7.3,Ninŋišzida's journey to the nether world,,10,nin₉ ban₃-da-a-ni {ŋeš}u₅ ma₂-ka šir₃-re-eš mu-un-na-ab-be₂
+c.1.7.3,Ninŋišzida's journey to the nether world,,11,nin₉ gal-a-ni u₃ ma₂-ka TUN₃ mu-un-na-bad
+c.1.7.3,Ninŋišzida's journey to the nether world,,12,ga-ba-de₃-u₅ ga-ba-de₃-u₅ šeš ga-ba-de₃-u₅
+c.1.7.3,Ninŋišzida's journey to the nether world,,12A,šeš-ŋu₁₀ ma₂-gur₈-zu ga-ba-de₃-u₅ šeš-ŋu₁₀ ga-ba-de₃-u₅
+c.1.7.3,Ninŋišzida's journey to the nether world,,12B,ma₂-gur₈ giri₁₇-zal-la-zu ga-ba-de₃-u₅ šeš-ŋu₁₀ ga-ba-de₃-u₅
+c.1.7.3,Ninŋišzida's journey to the nether world,,13,ma₂-saŋ-ta i-lu gu₃ mu-un-na-be₂ šeš ga-ba-de₃-u₅
+c.1.7.3,Ninŋišzida's journey to the nether world,,14,ma₂-eŋer-za ga-mu-ra-GAZ-GAZ šeš ga-ba-de₃-u₅
+c.1.7.3,Ninŋišzida's journey to the nether world,,14A,{ŋeš}u₅ ma₂-eŋer-ra-zu gudug ba-an-tuš i-lu mu-un-dab₅-be₂
+c.1.7.3,Ninŋišzida's journey to the nether world,,14B,ga-ba-de₃-u₅ šeš-ŋu₁₀ ga-ba-de₃-u₅
+c.1.7.3,Ninŋišzida's journey to the nether world,,15,ŋuruš {d}da-mu-ŋu₁₀ ga-ba-de₃-u₅ šeš ga-ba-de₃-u₅
+c.1.7.3,Ninŋišzida's journey to the nether world,,16,{d}ištaran igi šuba-ke₄ ga-ba-de₃-u₅ šeš ga-ba-de₃-u₅
+c.1.7.3,Ninŋišzida's journey to the nether world,,17,{d}al-la u₃-mu-un sa-par₃-ra ga-ba-de₃-u₅ šeš ga-ba-de₃-u₅
+c.1.7.3,Ninŋišzida's journey to the nether world,,18,{d}lugal-šudₓ-de₃ ga-ba-de₃-u₅ šeš ga-ba-de₃-u₅
+c.1.7.3,Ninŋišzida's journey to the nether world,,18A,{d}lugal-ki-bur₂-ra ga-be₂-de₃-u₅ šeš-ŋu₁₀ da₂-de₃-u₅
+c.1.7.3,Ninŋišzida's journey to the nether world,,19,u₃-mu-un-mu-zid-da-ke₄ ga-ba-de₃-u₅ šeš ga-ba-de₃-u₅
+c.1.7.3,Ninŋišzida's journey to the nether world,,19A,šeš-ŋu₁₀ ma₂-gur₈-zu ga-ba-e-de₃-u₅ šeš-ŋu₁₀ ga-ba-e-de₃-u₅
+c.1.7.3,Ninŋišzida's journey to the nether world,,19B,ma₂-gur₈ giri₁₇-zal-la-zu ga-ba-e-de₃-u₅ šeš-ŋu₁₀ ga-ba-e-de₃-u₅
+c.1.7.3,Ninŋišzida's journey to the nether world,,20,gal₅-la₂ hul murub₄-ba til₃-la
+c.1.7.3,Ninŋišzida's journey to the nether world,,21,{d}lugal-ki-sun₅-na gu₃ mu-un-na-de₂-e
+c.1.7.3,Ninŋišzida's journey to the nether world,,22,{d}lugal-ki-sun₅-na nin₉-zu-še₃ igi bar
+c.1.7.3,Ninŋišzida's journey to the nether world,,23,{d}lugal-ki-sun₅-na nin₉-še₃ igi bar-ra gu₃ mu-un-na-de₂-e
+c.1.7.3,Ninŋišzida's journey to the nether world,,24,mu-de₃-u₅ mu-de₃-u₅ za-e ki ta u₅-de₃
+c.1.7.3,Ninŋišzida's journey to the nether world,,25,nin gal₅-la₂ mu-de₃-u₅ za-e ki ta u₅-de₃
+c.1.7.3,Ninŋišzida's journey to the nether world,,26,lu₂ niŋ₂ ra-ah-ha mu-de₃-u₅ za-e ki ta u₅-de₃
+c.1.7.3,Ninŋišzida's journey to the nether world,,27,lu₂ šu du₃-ŋu₁₀ mu-de₃-u₅ za-e ta u₅-de₃
+c.1.7.3,Ninŋišzida's journey to the nether world,,28,lu₂ a₂ la₂-ŋu₁₀ mu-de₃-u₅ za-e ta u₅-de₃
+c.1.7.3,Ninŋišzida's journey to the nether world,,29,id₂-kur-ra-ke₄ a nu-de₂ a-bi nu-mu-un-na-na₈-na₈ za-e ta u₅-de₃
+c.1.7.3,Ninŋišzida's journey to the nether world,,30,a-šag₄ kur-ra-ke₄ še nu-de₂ zid₂ nu-mu-un-na-ab-gu₇-Xbr za-e ta u₅-de₃
+c.1.7.3,Ninŋišzida's journey to the nether world,,31,udu kur-ra-ke₄ siki nu-de₂ tug₂ nu-mu-un-na-ab-TUKU₅-TUKU₅ za-e ta u₅-de₃
+c.1.7.3,Ninŋišzida's journey to the nether world,,32,ŋe₂₆-e ama-ŋu₁₀ id₂-gin₇ mu-un-ba-al-la₂-aš a-ŋu₁₀ ba-ra-mu-un-naŋ
+c.1.7.3,Ninŋišzida's journey to the nether world,,33,{ŋeš}šinig-gin₇ a šu-nim ba-ra-mu-un-de₂ ŋissu-ŋu₁₀ ba-ra-an-KU-KU
+c.1.7.3,Ninŋišzida's journey to the nether world,,34,{ŋeš}ŋišnimbar-gin₇ zu₂-lum il₂-la-ŋu₁₀ hi-li-bi nu-ma-ra-KA
+c.1.7.3,Ninŋišzida's journey to the nether world,,35,gana₂-am₃ gal₅-la₂-ŋu₁₀ mu-de₃-ra-he za-e gu₃ bi-ra-ra
+c.1.7.3,Ninŋišzida's journey to the nether world,,36,ŋiš-šu šu-ŋu₁₀ im-mi-ŋar za-e gu₃ bi-ra-ra
+c.1.7.3,Ninŋišzida's journey to the nether world,,37,ŋiš-gu₂ gu₂-ŋu₁₀ im-mi-ŋar za-e gu₃ bi-ra-ra
+c.1.7.3,Ninŋišzida's journey to the nether world,,38,{d}ama-šilam-ma {d}nin-ŋiš-zid-da-ra gu₃ mu-un-na-de₂-e
+c.1.7.3,Ninŋišzida's journey to the nether world,,39,gal₅-la₂ šag₄ gig-ga aŋ₂ he₂-gid₂-i ki-še-er-ra ab-tuku-e
+c.1.7.3,Ninŋišzida's journey to the nether world,,40,gal₅-la₂-zu aŋ₂ he₂-gid₂-i ki-še-er-ra ab-tuku-e
+c.1.7.3,Ninŋišzida's journey to the nether world,,41,šu-ŋu₁₀ ki-še-er-ra ab-tuku-e
+c.1.7.3,Ninŋišzida's journey to the nether world,,42,šu-ŋu₁₀ ki-še-er-ra ab-tuku-e
+c.1.7.3,Ninŋišzida's journey to the nether world,,43,{na₄}za-gin₃ di₄-di₄-la₂ ur₂-ŋu₁₀ ki-še-er-ra ab-tuku-e
+c.1.7.3,Ninŋišzida's journey to the nether world,,44,{na₄}za-gin₃-ŋu₁₀-gin₇ ur₂-ŋu₁₀ ki-še-er-ra ab-tuku-e
+c.1.7.3,Ninŋišzida's journey to the nether world,,45,ki aŋ₂-ŋa₂-me-en ki-še-er-ra ab-tuku-e
+c.1.7.3,Ninŋišzida's journey to the nether world,,46,i₃-ak-ke₂-eš i₃-ak-ke₂-eš ki-še-er-ra ab-tuku-e
+c.1.7.3,Ninŋišzida's journey to the nether world,,47,šeš-ŋu₁₀ i₃-ak-ke₂-eš mah-bi i₃-ak-ke₂-eš ki-še-er-ra ab-tuku-e
+c.1.7.3,Ninŋišzida's journey to the nether world,,48,šaŋar ba-an-tuku ninda ma-ra-an-ze₂-er ki-še-er-ra ab-tuku-e
+c.1.7.3,Ninŋišzida's journey to the nether world,,49,enmen₂ ba-an-tuku a ma-ra-an-ze₂-er ki-še-er-ra ab-tuku-e
+c.1.7.3,Ninŋišzida's journey to the nether world,,50,gal₅-la₂ hul murub₄-ba til₃-la
+c.1.7.3,Ninŋišzida's journey to the nether world,,51,gal₅-la₂ kug-zu gal₅-la₂ gal-bi murub₄-ba til₃-la
+c.1.7.3,Ninŋišzida's journey to the nether world,,52,lu₂ {ŋeš}ma₂-saŋ-ŋa₂-ke₄ lu₂ {ŋeš}ma₂-eŋer-ra-ke₄ gu₃ mu-un-na-de₂-e
+c.1.7.3,Ninŋišzida's journey to the nether world,,53,ŋiš na-an-zig₃ ŋiš na-an-zig₃ šeš-ra u₅-de₃
+c.1.7.3,Ninŋišzida's journey to the nether world,,54,nin-e {ŋeš}ma₂-gur₈-ra u₅-de₃
+c.1.7.3,Ninŋišzida's journey to the nether world,,55,{d}ama-šilamₓ {ŋeš}ma₂-gur₈-ra u₅-da-a-ni
+c.1.7.3,Ninŋišzida's journey to the nether world,,56,gu₃ an-na ba-te gu₃ ki-ta ba-te
+c.1.7.3,Ninŋišzida's journey to the nether world,,57,gu₃ šu niŋin₂-na gal₅-la₂ gal-bi id₂-da mu-da-ŋar
+c.1.7.3,Ninŋišzida's journey to the nether world,,58,urim₂{ki}-am₃ gu₃ de₂ an-ta-ŋu₁₀
+c.1.7.3,Ninŋišzida's journey to the nether world,,59,e₂-za gi-bi e₂-za gi-bi iri e₂-za gi-bi
+c.1.7.3,Ninŋišzida's journey to the nether world,,60,eš₃ urim₂{ki}-ma e₂-za gi-bi iri e₂-za gi-bi
+c.1.7.3,Ninŋišzida's journey to the nether world,,61,en-zu ŋi₆-par₃-ta ba-ra-e₃-a iri e₂-za gi-bi
+c.1.7.3,Ninŋišzida's journey to the nether world,,62,
+c.1.7.3,Ninŋišzida's journey to the nether world,,64,
+c.1.7.3,Ninŋišzida's journey to the nether world,,65,
+c.1.7.3,Ninŋišzida's journey to the nether world,,66,ŋidru kug
+c.1.7.3,Ninŋišzida's journey to the nether world,,67,tug₂-ba₁₃ kug
+c.1.7.3,Ninŋišzida's journey to the nether world,,68,aga kug saŋ-ŋa₂
+c.1.7.3,Ninŋišzida's journey to the nether world,,69,ŋidru za-gin₃-na
+c.1.7.3,Ninŋišzida's journey to the nether world,,70,id₂ sug₄ id₂ hul₂-la
+c.1.7.3,Ninŋišzida's journey to the nether world,,71,e₂-ba la-ba-te-te
+c.1.7.3,Ninŋišzida's journey to the nether world,,72,ki {d}ereš-ki-gal-la-ka
+c.1.7.3,Ninŋišzida's journey to the nether world,,73,ŋe₂₆-e ama-ŋu₁₀ ki aŋ₂-ŋa₂-ni-ta
+c.1.7.3,Ninŋišzida's journey to the nether world,,74,za-e gal₅-la₂ gal-bi he₂-me-en
+c.1.7.3,Ninŋišzida's journey to the nether world,,75,nam-gu-za-la₂ kur-ra-še₃ šu-zu
+c.1.7.3,Ninŋišzida's journey to the nether world,,76,lugal-ŋu₁₀ igi er₂-ra nu-še₈-še₈-X
+c.1.7.3,Ninŋišzida's journey to the nether world,,77,balaŋ šag₄ hul₂-la-ka-ni er₂
+c.1.7.3,Ninŋišzida's journey to the nether world,,78,ŋen-na mušen-du₃ e₂ niŋ₂ ŋar-ra-na i-lu-zu he-me en i-lu-zu he₂-me te ba-ab-pel-e
+c.1.7.3,Ninŋišzida's journey to the nether world,,79,šu-KU₆ tur-e e₂ niŋ₂ ŋar-ra-na i-lu-zu he₂-me en i-lu-zu he₂-me ta ba-ab-pel-e
+c.1.7.3,Ninŋišzida's journey to the nether world,,80,ama gudug ug₅-ga ŋi₆-par₃-ra sug₄-ga-na i-lu-zu he₂-me en i-lu-zu he₂-me ta ba-ab-pel-e
+c.1.7.3,Ninŋišzida's journey to the nether world,,81,ama nin-diŋir ŋi₆-par₃-ra ba-ra-e₃-X i-lu-zu he₂-me en i-lu-zu he₂-me ta ba-ab-pel-e
+c.1.7.3,Ninŋišzida's journey to the nether world,,82,lugal-ŋu₁₀ saŋ-zu sahar-ra niŋin₂-na-zu a tu₅-a
+c.1.7.3,Ninŋišzida's journey to the nether world,,83,ŋiri₃-zu ki pel-la pel-la-zu e-sir₂
+c.1.7.3,Ninŋišzida's journey to the nether world,,84,lugal-e saŋ-du sahar-ra niŋin₂-na-ni a mu-un-tu₅
+c.1.7.3,Ninŋišzida's journey to the nether world,,85,ŋiri₃-bi ki pel-la pel-la-ni e-sir₂
+c.1.7.3,Ninŋišzida's journey to the nether world,,86,e₂-bi la-ba-teŋ₃-ŋe₂₆
+c.1.7.3,Ninŋišzida's journey to the nether world,,87,{ŋeš}gu-za-zu tuš-a
+c.1.7.3,Ninŋišzida's journey to the nether world,,88,ŋiš-nu₂ nu₂-a
+c.1.7.3,Ninŋišzida's journey to the nether world,,89,niŋ₂-gu₇ ka-a mi-ni-in-gu₇ kurun₂ suh-bi i₃-naŋ
+c.1.7.3,Ninŋišzida's journey to the nether world,,90,kug gal {d}ereš-ki-gal-la za₃-mi₂-zu dug₃-ga-am₃

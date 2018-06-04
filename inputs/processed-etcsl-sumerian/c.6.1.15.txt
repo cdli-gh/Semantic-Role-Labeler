@@ -1,0 +1,96 @@
+id_text,text_name,version,l_no,text
+c.6.1.15,Proverbs: collection 15,,A1,
+c.6.1.15,Proverbs: collection 15,,A2,a-na
+c.6.1.15,Proverbs: collection 15,,A3,ud-ba na-ŋa₂-ah-gin₇ gu₃ mu-un-na-de₂-a
+c.6.1.15,Proverbs: collection 15,,A4,anše dab₅ lu₂ hu-mu-un-e-e-še
+c.6.1.15,Proverbs: collection 15,,A5,in-bi-im
+c.6.1.15,Proverbs: collection 15,,A6,e₂-gal me-te-bi-im
+c.6.1.15,Proverbs: collection 15,,A7,in-ga-hul₂-e ama lu₂-kar-ra-kam
+c.6.1.15,Proverbs: collection 15,,A8,in-ga-hul₂-zu uŋ₃-e he₂-em-me
+c.6.1.15,Proverbs: collection 15,,A9,he₂-am₃-zu diŋir-zu he₂-em-me
+c.6.1.15,Proverbs: collection 15,,A10,in-ga-hul₂-e sed-da-ka
+c.6.1.15,Proverbs: collection 15,,A11,ban₃-da
+c.6.1.15,Proverbs: collection 15,,A12,in-ga-hul₂-a-kam al-KU
+c.6.1.15,Proverbs: collection 15,,A13,ninda šag₄-gal-la-ni-še₃
+c.6.1.15,Proverbs: collection 15,,A14,in-kud-da
+c.6.1.15,Proverbs: collection 15,,A15,X-da-šu₂
+c.6.1.15,Proverbs: collection 15,,B1,igi sipad-tur-re mu-e-ši-in-il₂-e
+c.6.1.15,Proverbs: collection 15,,B2,{d}en-lil₂-le iri{ki} nam ku₅-ra₂-ni ha-ba-ši-in-il₂-e
+c.6.1.15,Proverbs: collection 15,,B3,igi bahar₂-e mu-un-ši-in-il₂-e
+c.6.1.15,Proverbs: collection 15,,B4,{d}en-lil₂ iri nam ku₅-ra₂-ni ha-ba-ši-in-il₂-e
+c.6.1.15,Proverbs: collection 15,,B5,igi nu-{ŋeš}kiri₆-e mu-un-ši-in-il₂-e
+c.6.1.15,Proverbs: collection 15,,B6,{d}en-lil₂-le iri nam ku₅-ra₂-ni ha-ba-ši-in-il₂-e
+c.6.1.15,Proverbs: collection 15,,B7,engar igi uru₃-a a-na-am₃ ak-X
+c.6.1.15,Proverbs: collection 15,,B8,peš₁₀-a im al-šeŋ₃-am₃
+c.6.1.15,Proverbs: collection 15,,B9,bar-rim₄-ma im nu-um-bi-iz
+c.6.1.15,Proverbs: collection 15,,B10,ba-za {urud}šukur na-šum₂-mu-un
+c.6.1.15,Proverbs: collection 15,,B11,{d}en-lil₂ a₂-tah-a-ni-im
+c.6.1.15,Proverbs: collection 15,,B12,en-e ku₆ an-gi₄ ga-raš{sar} an-gi₄
+c.6.1.15,Proverbs: collection 15,,B13,u₃ za₃-hi-li-a he₂-da-an-gi₄
+c.6.1.15,Proverbs: collection 15,,B14,e₂ {d}en-lil₂-la₂ i₃-du₃ nu-un-til
+c.6.1.15,Proverbs: collection 15,,B15,bad₃ nibru{ki} i₃-du₃ X-in-aŋ₂
+c.6.1.15,Proverbs: collection 15,,C1,
+c.6.1.15,Proverbs: collection 15,,C2,{kuš}a₂-si unud gud ha-ba-šum₂-X
+c.6.1.15,Proverbs: collection 15,,C3,sipad udu ha-ba-šum-X
+c.6.1.15,Proverbs: collection 15,,C4,ki saŋ-ki nu-ŋal₂-la lu₂ na-an-ni-dib₂-be₂
+c.6.1.15,Proverbs: collection 15,,C5,šag₄ ŋidru-ka i₃ he₂-en-de₂ lu₂ na-me nu-zu
+c.6.1.15,Proverbs: collection 15,,C6,gir₅ iri kur₂-ra-am₃ saŋ-ŋa₂-am₃
+c.6.1.15,Proverbs: collection 15,,C7,lu₂-ra nu-si-si-me-en
+c.6.1.15,Proverbs: collection 15,,C8,mu-da-ŋal₂
+c.6.1.15,Proverbs: collection 15,,C9,mu-da-ŋal₂
+c.6.1.15,Proverbs: collection 15,,C10,e₂ {d}en-lil₂-la₂ niŋ₂-ni ab-šid-šid-de₃
+c.6.1.15,Proverbs: collection 15,,C11,niŋ₂-ni šid-a-de₃ nam-ba-ab-tah-e
+c.6.1.15,Proverbs: collection 15,,C12,mu-ne-ne he₂-ha-lam-e
+c.6.1.15,Proverbs: collection 15,,C13,mu-un-il₂-la kaskal-la
+c.6.1.15,Proverbs: collection 15,,C14,mu-un-il₂-il₂ niŋ₂
+c.6.1.15,Proverbs: collection 15,,C15,a il₂-la
+c.6.1.15,Proverbs: collection 15,,C16,lu₂-IM lu₂
+c.6.1.15,Proverbs: collection 15,,C17,niŋ₂ al-sukuₓ-ra₂
+c.6.1.15,Proverbs: collection 15,,C18,
+c.6.1.15,Proverbs: collection 15,,C19,nu-gul
+c.6.1.15,Proverbs: collection 15,,C20,su-a su-a-bi-še₃ {d}nin-kilim niŋ₂ ak-ak-bi-še₃
+c.6.1.15,Proverbs: collection 15,,C21,a zig₃-ga ₁ ₁/₂ kuš₃ im-ma-an-zig₃
+c.6.1.15,Proverbs: collection 15,,C22,₃ kuš₃ a kar-ra ŋal₂-la ŋiri₃-na ba-ni-in-si
+c.6.1.15,Proverbs: collection 15,,C23,{id₂}idigna uz{mušen}-am₃ {id₂}buranun-na kur-gi₄{mušen}-am₃
+c.6.1.15,Proverbs: collection 15,,C24,lugal nam-ba-teŋ₃-ŋe₂₆ šu na₄ ba-an-kur₉
+c.6.1.15,Proverbs: collection 15,,C25,
+c.6.1.15,Proverbs: collection 15,,D1,
+c.6.1.15,Proverbs: collection 15,,D2,
+c.6.1.15,Proverbs: collection 15,,D3,
+c.6.1.15,Proverbs: collection 15,,D4,
+c.6.1.15,Proverbs: collection 15,,D5,
+c.6.1.15,Proverbs: collection 15,,D6,daŋal Xbr-X-an-tum₃
+c.6.1.15,Proverbs: collection 15,,D7,{u₂}X{sar} u₂ nam-tar gig-ga-kam
+c.6.1.15,Proverbs: collection 15,,D8,ta am₃-ir
+c.6.1.15,Proverbs: collection 15,,D9,
+c.6.1.15,Proverbs: collection 15,,D10,e₂
+c.6.1.15,Proverbs: collection 15,,D11,X-an-ŋa₂-ŋa₂
+c.6.1.15,Proverbs: collection 15,,D12,X-ab-DU
+c.6.1.15,Proverbs: collection 15,,D13,i₃-pad₃-de₃
+c.6.1.15,Proverbs: collection 15,,D14,i₃-pad₃-de₃
+c.6.1.15,Proverbs: collection 15,,D15,
+c.6.1.15,Proverbs: collection 15,,E1,
+c.6.1.15,Proverbs: collection 15,,E2,id₂
+c.6.1.15,Proverbs: collection 15,,E3,
+c.6.1.15,Proverbs: collection 15,,E4,mu-un-de₂
+c.6.1.15,Proverbs: collection 15,,E5,nu-un-gu₇-e
+c.6.1.15,Proverbs: collection 15,,E6,e₂ igi-nim-ma lugal-bi nu-ub-us₂
+c.6.1.15,Proverbs: collection 15,,E7,bar e₃
+c.6.1.15,Proverbs: collection 15,,E8,ur-mah
+c.6.1.15,Proverbs: collection 15,,E9,
+c.6.1.15,Proverbs: collection 15,,F1,
+c.6.1.15,Proverbs: collection 15,,F2,X-du-du-de₃-en
+c.6.1.15,Proverbs: collection 15,,F3,
+c.6.1.15,Proverbs: collection 15,,F4,
+c.6.1.15,Proverbs: collection 15,,F5,X-gi₄-gi₄-in
+c.6.1.15,Proverbs: collection 15,,F6,
+c.6.1.15,Proverbs: collection 15,,F7,
+c.6.1.15,Proverbs: collection 15,,F8,sig₉-ga
+c.6.1.15,Proverbs: collection 15,,F9,
+c.6.1.15,Proverbs: collection 15,,F10,im-dar-ra mu-e-DUB
+c.6.1.15,Proverbs: collection 15,,F11,tur-ra di-de₃ ba-da-dug₄
+c.6.1.15,Proverbs: collection 15,,F12,
+c.6.1.15,Proverbs: collection 15,,F13,
+c.6.1.15,Proverbs: collection 15,,F14,X-ab-DU-X
+c.6.1.15,Proverbs: collection 15,,F15,₁
+c.6.1.15,Proverbs: collection 15,,F16,

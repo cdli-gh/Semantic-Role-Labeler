@@ -1,0 +1,194 @@
+id_text,text_name,version,l_no,text
+c.5.3.2,The debate between Grain and Sheep,,1,hur-saŋ an ki-bi-da-ke₄
+c.5.3.2,The debate between Grain and Sheep,,2,ud an-ne₂ {d}a-nun-na im-tud-de₃-eš-a-ba
+c.5.3.2,The debate between Grain and Sheep,,3,mu {d}ezina₂ nu-ub-da-tud-da-aš nu-ub-da-an-sig₇-ga
+c.5.3.2,The debate between Grain and Sheep,,4,kalam-ma gu {d}uttu nu-ub-da-an-dim₂-ma-aš
+c.5.3.2,The debate between Grain and Sheep,,5,{d}uttu-ra temen nu-mu-un-na-sig₉-ga-aš
+c.5.3.2,The debate between Grain and Sheep,,6,u₈ nu-e₃-a sila₄ nu-šar₂-ra
+c.5.3.2,The debate between Grain and Sheep,,7,ud₅ nu-me-a maš₂ nu-šar₂-ra
+c.5.3.2,The debate between Grain and Sheep,,8,u₈-e sila₄ ₂-bi nu-ub-tu-ud
+c.5.3.2,The debate between Grain and Sheep,,9,ud₅-e maš₂ ₃-bi nu-ub-tu-ud
+c.5.3.2,The debate between Grain and Sheep,,10,mu {d}ezina₂-{d}ku₃-su₃ {d}u₈-bi-da-ke₄
+c.5.3.2,The debate between Grain and Sheep,,11,{d}a-nun-na diŋir gal-gal-e-ne nu-mu-un-zu-uš-am₃
+c.5.3.2,The debate between Grain and Sheep,,12,še muš₅ ud ₃₀-am₃ nu-ŋal₂-la-am₃
+c.5.3.2,The debate between Grain and Sheep,,13,še muš₅ ud ₄₀-am₃ nu-ŋal₂-la-am₃
+c.5.3.2,The debate between Grain and Sheep,,14,še muš₅ ud ₅₀-am₃ nu-ŋal₂-la-am₃
+c.5.3.2,The debate between Grain and Sheep,,15,še di₄-di₄ še kur-ra še a₂-dam kug-ga nu-ŋal₂-la-am₃
+c.5.3.2,The debate between Grain and Sheep,,16,tug₂ niŋ₂ mu₄-mu₄-bi nu-ŋal₂-la-am₃
+c.5.3.2,The debate between Grain and Sheep,,17,{d}uttu nu-ub-tu-ud men nu-il₂
+c.5.3.2,The debate between Grain and Sheep,,18,en {d}niŋir-si en kal-kal nu-ub-tu-ud
+c.5.3.2,The debate between Grain and Sheep,,19,{d}šakkan₂ bar-rim₄-ma la-ba-ra-e₃-a
+c.5.3.2,The debate between Grain and Sheep,,20,nam-lu₂-ulu₃ ud re-a-ke₄-ne
+c.5.3.2,The debate between Grain and Sheep,,21,ninda gu₇-u₃-bi nu-mu-un-zu-uš-am₃
+c.5.3.2,The debate between Grain and Sheep,,22,tug₂-ga mu₄-mu₄-bi nu-mu-un-zu-uš-am₃
+c.5.3.2,The debate between Grain and Sheep,,23,kalam ŋiš-gen₆-na su-bi mu-un-ŋen
+c.5.3.2,The debate between Grain and Sheep,,24,udu-gin₇ ka-ba u₂ mu-ni-ib-gu₇
+c.5.3.2,The debate between Grain and Sheep,,25,a mu₂-sar-ra-ka i-im-na₈-na₈-ne
+c.5.3.2,The debate between Grain and Sheep,,26,ud-ba ki-ulutim₂ diŋir-re-e-ne-kam
+c.5.3.2,The debate between Grain and Sheep,,27,e₂-bi du₆ kug-ga u₈ {d}ezina₂-bi mu-un-se₁₂-eš-am₃
+c.5.3.2,The debate between Grain and Sheep,,28,eš₃ ninda gu₇ diŋir-re-e-ne-ka mi-ni-ib-de₅-de₅-ge-eš-a
+c.5.3.2,The debate between Grain and Sheep,,29,he₂-ŋal₂ u₈ {d}ezina₂-bi-da-ka
+c.5.3.2,The debate between Grain and Sheep,,30,{d}a-nun-na du₆ kug-ga-ke₄-ne
+c.5.3.2,The debate between Grain and Sheep,,31,i-im-gu₇-gu₇-ne nu-mu-un-de₃-si-si-eš
+c.5.3.2,The debate between Grain and Sheep,,32,amaš kug-ga-ne-ne ga-bi niŋ₂ dug₃-ga
+c.5.3.2,The debate between Grain and Sheep,,33,{d}a-nun-na du₆ kug-ga-ke₄-ne
+c.5.3.2,The debate between Grain and Sheep,,34,i-im-na₈-na₈-ne nu-mu-un-de₃-si-si-eš
+c.5.3.2,The debate between Grain and Sheep,,35,amaš kug-ga niŋ₂ dug₃-ga-ne-ne-še₃
+c.5.3.2,The debate between Grain and Sheep,,36,nam-lu₂-ulu₃ zi šag₄ im-ši-in-ŋal₂
+c.5.3.2,The debate between Grain and Sheep,,37,ud-ba {d}en-ki-ke₄ {d}en-lil₂-ra gu₃ mu-un-na-de₂-e
+c.5.3.2,The debate between Grain and Sheep,,38,a-a {d}en-lil₂ u₈ {d}ezina₂-bi-da-ke₄
+c.5.3.2,The debate between Grain and Sheep,,39,du₆ kug-ga um-ma-da-an-se₁₂-eš-a
+c.5.3.2,The debate between Grain and Sheep,,40,du₆ kug-ta ga-am₃-ma-da-ra-ab-ed₃-de₃-en-de₃-en
+c.5.3.2,The debate between Grain and Sheep,,41,{d}en-ki {d}en-lil₂-bi inim kug-ga-ne-ne-a-am₃ dug₄-ga
+c.5.3.2,The debate between Grain and Sheep,,42,u₈ {d}ezina₂-bi du₆ kug-ta im-ma-da-ra-an-ed₃-de₃
+c.5.3.2,The debate between Grain and Sheep,,43,u₈ amaš-a-na im-ma-ab-ni₁₀-ni₁₀-e
+c.5.3.2,The debate between Grain and Sheep,,44,u₂-šim niŋ₂-daŋal-la mu-un-na-ba-e-ne
+c.5.3.2,The debate between Grain and Sheep,,45,{d}ezina₂-ra gana₂-ni mu-un-na-ŋa₂-ŋa₂-ne
+c.5.3.2,The debate between Grain and Sheep,,46,{ŋeš}apin šudul erin₂-bi mu-un-na-ba-e-ne
+c.5.3.2,The debate between Grain and Sheep,,47,u₈ amaš-a-na gub-ba-ni
+c.5.3.2,The debate between Grain and Sheep,,48,sipad amaš-a hi-li du₈-du₈-a
+c.5.3.2,The debate between Grain and Sheep,,49,{d}ezina₂ ab-sin₂-na gub-ba-ni
+c.5.3.2,The debate between Grain and Sheep,,50,ki-sikil sig₇-ga hi-li gur₃-ru-am₃
+c.5.3.2,The debate between Grain and Sheep,,51,gan₂-ne₂-ta saŋ zig₃ il₂-la-ni
+c.5.3.2,The debate between Grain and Sheep,,52,he₂-ŋal₂ an-na-ta de₆-de₆-a-ni
+c.5.3.2,The debate between Grain and Sheep,,53,u₈ {d}ezina₂-bi pa e₃ mu-un-ak-eš
+c.5.3.2,The debate between Grain and Sheep,,54,unken-na he₂-ŋal₂ mu-da-an-ŋal₂-le-eš
+c.5.3.2,The debate between Grain and Sheep,,55,kalam-ma zi-šag₄-ŋal₂ mu-da-an-ŋal₂-le-eš
+c.5.3.2,The debate between Grain and Sheep,,56,me diŋir-re-e-ne si im-sa₂-sa₂-e-ne
+c.5.3.2,The debate between Grain and Sheep,,57,erim₃ kalam-ma-ka niŋ₂ mu-ni-ib-lu-lu-un
+c.5.3.2,The debate between Grain and Sheep,,58,ama₅ kalam-ma-ka dugud mu-un-de₃-ŋal₂
+c.5.3.2,The debate between Grain and Sheep,,59,e₂ ukur₃-ra sahar ki us₂-sa-a-ba
+c.5.3.2,The debate between Grain and Sheep,,60,u₃-mu-un-sun₅-ne-eš he₂-ŋal₂ mu-da-an-ŋal₂-le-eš
+c.5.3.2,The debate between Grain and Sheep,,61,₂-na-ne-ne ki ŋiri₃-ne-ne ba-an-gub-bu-uš-a
+c.5.3.2,The debate between Grain and Sheep,,62,dugud-bi e₂-a niŋ₂ tah-e-me-eš
+c.5.3.2,The debate between Grain and Sheep,,63,ki gub niŋ₂-si-me-eš ki tuš me-te-ŋal₂-me-eš
+c.5.3.2,The debate between Grain and Sheep,,64,šag₄ an-na šag₄ {d}en-lil₂-la₂-ke₄ ba-sag₉-ge-eš
+c.5.3.2,The debate between Grain and Sheep,,65,ŋeštin niŋ₂ dug₃ i-im-na₈-na₈-e-ne
+c.5.3.2,The debate between Grain and Sheep,,66,kaš niŋ₂ dug₃ i-im-dug₃-dug₃-ge-ne
+c.5.3.2,The debate between Grain and Sheep,,67,ŋeštin niŋ₂ dug₃ u₃-mu-un-naŋ-eš-a-ta
+c.5.3.2,The debate between Grain and Sheep,,68,kaš niŋ₂ dug₃ u₃-mu-un-dug₃-ge-eš-a-ta
+c.5.3.2,The debate between Grain and Sheep,,69,a-gar₃-a-gar₃-ra du₁₄ mi-ni-ib-mu₂-mu₂-ne
+c.5.3.2,The debate between Grain and Sheep,,70,ki ŋišbun-na-ka a-da-min₃ mu-un-ak-ne
+c.5.3.2,The debate between Grain and Sheep,,71,{d}ezina₂-e u₈-ra gu₃ mu-un-na-de₂-e
+c.5.3.2,The debate between Grain and Sheep,,72,nin₉ dub-saŋ-zu-me-en igi-še₃ ma-ra-ab-gub-be₂-en
+c.5.3.2,The debate between Grain and Sheep,,73,su₃-ra₂-aŋ₂ kalam-ma-ka giri₁₇-zal-bi-me-en
+c.5.3.2,The debate between Grain and Sheep,,74,saŋ-ur-saŋ-ra usu-ŋu₁₀ ba-ab-šum₂-mu
+c.5.3.2,The debate between Grain and Sheep,,75,e₂-gal-la su zig₃ mu-un-da-an-ri
+c.5.3.2,The debate between Grain and Sheep,,76,kalam-ma mu zag-še₃ mu-da-sug₂-sug₂-ge-eš
+c.5.3.2,The debate between Grain and Sheep,,77,kadra {d}a-nun-na-ke₄-ne-me-en
+c.5.3.2,The debate between Grain and Sheep,,78,lipiš barag-barag-ge₂-ne-me-en
+c.5.3.2,The debate between Grain and Sheep,,79,usu-ŋu₁₀ ur-saŋ-ra u₃-mu-na-te
+c.5.3.2,The debate between Grain and Sheep,,80,ki me₃-ka gub-ba-ni
+c.5.3.2,The debate between Grain and Sheep,,81,su nu-mu-un-zu sa nu-mu-un-zu
+c.5.3.2,The debate between Grain and Sheep,,82,i-gi₄-in-zu ki-a-ne-di X-na-du-un
+c.5.3.2,The debate between Grain and Sheep,,83,nam-ušur nam-ma₃-la i-im-dug₃-dug₃-ge
+c.5.3.2,The debate between Grain and Sheep,,84,ušur du₁₄ mu₂-a i-im-bur₂-bur₂-re
+c.5.3.2,The debate between Grain and Sheep,,85,ŋuruš dab₅-ba-ra u₃-mu-un-na-te
+c.5.3.2,The debate between Grain and Sheep,,86,nam tar-ra-ni u₃-mu-un-na-ba-e
+c.5.3.2,The debate between Grain and Sheep,,87,šag₄ sag₃-ga-ni ŋeštug₂-ga-ni im-mi-ib-u₁₈-lu
+c.5.3.2,The debate between Grain and Sheep,,88,ŋiš-šu ŋiš-gu₂ i-im-du₈-du₈-e
+c.5.3.2,The debate between Grain and Sheep,,89,{d}ezina₂-{d}ku₃-su₃-me-en dumu {d}en-lil₂-la₂-me-en
+c.5.3.2,The debate between Grain and Sheep,,90,ŋa₂ udu e₂-ubur-ra an-edin-na la₂-a
+c.5.3.2,The debate between Grain and Sheep,,91,a-na-zu mu-da-ŋal₂ a-na ma-ab-be₂-en-na-bi gi₄-ma-ni-ib
+c.5.3.2,The debate between Grain and Sheep,,92,₂-kam-ma-še₃ u₈ {d}ezina₂-ra mu-na-ni-ib-gi₄-gi₄
+c.5.3.2,The debate between Grain and Sheep,,93,nin₉-ŋu₁₀ niŋ₂ a-na mu-e-dug₄-ga-zu
+c.5.3.2,The debate between Grain and Sheep,,94,an lugal diŋir-re-e-ne-ke₄
+c.5.3.2,The debate between Grain and Sheep,,95,ki kug ki kal-kal-ŋu₁₀ mu-un-ed₃-de₃-NE
+c.5.3.2,The debate between Grain and Sheep,,96,gu-gu {d}uttu me-lem₄ nam-lugal-la ŋa₂-a-ra mu-da-ŋal₂
+c.5.3.2,The debate between Grain and Sheep,,97,{d}šakkan₂ lugal hur-saŋ-ŋa₂-ke₄
+c.5.3.2,The debate between Grain and Sheep,,98,me-ni u-gun₃ mu-un-na-ab-ak-e
+c.5.3.2,The debate between Grain and Sheep,,99,a₂ nam-šita₄-ke₄ si mu-na-ab-sa₂-e
+c.5.3.2,The debate between Grain and Sheep,,100,zag-e₃ gal-gal ki-bal-še₃ ebih₂ ba-an-sur-re
+c.5.3.2,The debate between Grain and Sheep,,101,{kuš}da-lu-uš₂ a-ma-ru {ŋeš}pan gal-gal-e
+c.5.3.2,The debate between Grain and Sheep,,102,zu₂ keše₂ igi bar-ra en-nu-uŋ₃ ŋa₂-a-kam
+c.5.3.2,The debate between Grain and Sheep,,103,a-šag₄-ga zi nam-ŋuruš ŋa₂-a-kam
+c.5.3.2,The debate between Grain and Sheep,,104,{kuš}ummud a sed₄-da {kuš}e-sir₂ ŋa₂-a-kam
+c.5.3.2,The debate between Grain and Sheep,,105,i₃ dug₃-ga ir-sim diŋir-ra
+c.5.3.2,The debate between Grain and Sheep,,106,i₃ a-ra₂ i₃ dub₂ i₃ šim i₃ {ŋeš}erin sa₂-dug₄-ga ŋa₂-a-kam
+c.5.3.2,The debate between Grain and Sheep,,107,zulumhi tug₂ siki babbar-ra-ŋu₁₀
+c.5.3.2,The debate between Grain and Sheep,,108,lugal barag-ga-na im-mi-in-hul₂-le
+c.5.3.2,The debate between Grain and Sheep,,109,bar-ŋu₁₀ su diŋir gal-gal-e-ne-ka mul-ma-al im-mi-ib-za
+c.5.3.2,The debate between Grain and Sheep,,110,gudug pa₄-šeš lu₂ a tu₅-am₃
+c.5.3.2,The debate between Grain and Sheep,,111,šu-luh kug-ŋa₂ um-ma-da-an-mur₁₀-re
+c.5.3.2,The debate between Grain and Sheep,,112,šukur₂ kug-ŋa₂ ŋiri₃ mu-da-an-gub-be₂
+c.5.3.2,The debate between Grain and Sheep,,113,{ŋeš}gana₂-ur₃ {ŋeš}eme-apin-na dur ab₂-saŋ
+c.5.3.2,The debate between Grain and Sheep,,114,{ŋeš}šu-kar₂ sug-zag-ge₄ gu₇-a
+c.5.3.2,The debate between Grain and Sheep,,115,a-na-zu mu-da-ŋal₂ a-na ma-ab-be₂-na-bi gi₄-ma-ni-ib
+c.5.3.2,The debate between Grain and Sheep,,116,₂-kam-ma-še₃ {d}ezina₂-e u₈-ra mu-na-ni-ib-gi₄-gi₄
+c.5.3.2,The debate between Grain and Sheep,,117,bappir udun-na mi₂ u₃-ba-ni-dug₄
+c.5.3.2,The debate between Grain and Sheep,,118,titab udun-na u₃-ba-ni-du₃
+c.5.3.2,The debate between Grain and Sheep,,119,{d}nin-ka-si-ke₄ ma-ab-šar₂-šar₂-re
+c.5.3.2,The debate between Grain and Sheep,,120,maš₂ gal-gal udu-utua₂ gal-gal-zu
+c.5.3.2,The debate between Grain and Sheep,,121,ki ŋišbun-ŋa₂ mu-un-til-le-eš
+c.5.3.2,The debate between Grain and Sheep,,122,niŋ₂-ŋu₁₀-ta a₂ gur-ra im-da-sug₂-sug₂-ge-eš
+c.5.3.2,The debate between Grain and Sheep,,123,sipad-zu niŋ₂-ŋu₁₀-še₃ an-edin-na igi-bi im-ši-ŋal₂
+c.5.3.2,The debate between Grain and Sheep,,124,išin-na a-šag₄-ga ŋal₂-la-ŋu₁₀-še₃
+c.5.3.2,The debate between Grain and Sheep,,125,engar-ŋu₁₀ na-gada-zu {ŋeš}tukul-ta mu-un-sar-re
+c.5.3.2,The debate between Grain and Sheep,,126,ki-ta ki sig₉-ga-aš u₃-mu-e-re-kiŋ₂
+c.5.3.2,The debate between Grain and Sheep,,127,za-e-ra ni₂-zu nu-mu-un-ta-ed₃-de₃
+c.5.3.2,The debate between Grain and Sheep,,128,muš-ŋiri₂ lu₂ la-ga niŋ₂ edin-na-ke₄
+c.5.3.2,The debate between Grain and Sheep,,129,zi-zu an-edin-na ku-kur ba-ni-ib-be₂
+c.5.3.2,The debate between Grain and Sheep,,130,ud šu₂-uš-e niŋ₂-kas₇-zu ba-ni-ak-e
+c.5.3.2,The debate between Grain and Sheep,,131,ŋiš-šudum-ma-zu ki i₃-tag-tag-ge
+c.5.3.2,The debate between Grain and Sheep,,132,na-gada-zu u₈ me-a sila₄ tur-tur me-a
+c.5.3.2,The debate between Grain and Sheep,,133,ud₅ me-a maš₂ tur-tur me-a lu₂ mu-un-na-ab-be₂
+c.5.3.2,The debate between Grain and Sheep,,134,tum₉ tur-tur-e iri-a du-da-bi
+c.5.3.2,The debate between Grain and Sheep,,135,tum₉ gal-gal-e sag₂ di-da-bi
+c.5.3.2,The debate between Grain and Sheep,,136,za-e e₂-ubur-ra ma-ra-an-du₃-u₃-ne
+c.5.3.2,The debate between Grain and Sheep,,137,tum₉ tur-tur-e iri-a du-da-bi
+c.5.3.2,The debate between Grain and Sheep,,138,tum₉ gal-gal-e sag₂ di-da-bi
+c.5.3.2,The debate between Grain and Sheep,,139,{d}iškur-ra gaba ri-a mu-da-an-gub-be₂-en
+c.5.3.2,The debate between Grain and Sheep,,140,{d}ezina₂-me-en ur-saŋ-ra tud-da-me-en ŋa₂-la nu-mu-un-ta-dag-ge-en
+c.5.3.2,The debate between Grain and Sheep,,141,{dug}šakir₃ {dug}ŋiri₃-GA gi₁₆-sa nam-sipad-da niŋ₂-gur₁₁-ra gub-ba
+c.5.3.2,The debate between Grain and Sheep,,142,a-na-zu mu-da-ŋal₂ a-na ma-ab-be₂-na-bi gi₄-ma-ni-ib
+c.5.3.2,The debate between Grain and Sheep,,143,₂-kam-ma-še₃ u₈ {d}ezina₂-ra mu-na-ni-ib-gi₄-gi₄
+c.5.3.2,The debate between Grain and Sheep,,144,za-e kug {d}inana an-na-gin₇
+c.5.3.2,The debate between Grain and Sheep,,145,anše-kur-ra ki im-a-aŋ₂
+c.5.3.2,The debate between Grain and Sheep,,146,lu₂-erim₂ bar tab-ba saŋ kur-ra
+c.5.3.2,The debate between Grain and Sheep,,147,ŋuruš-e lu₂ dam tur-ra-ke₄ lu₂ dumu tur-tur-ra-ke₄
+c.5.3.2,The debate between Grain and Sheep,,148,eš₂-da ₁ kuš₃-na um-da-la₂
+c.5.3.2,The debate between Grain and Sheep,,149,ki-du₆-še₃ um-ma-an-ed₂-de₃
+c.5.3.2,The debate between Grain and Sheep,,150,ki-du₆-ta X-ed₃-de₃
+c.5.3.2,The debate between Grain and Sheep,,151,{ŋeš}tukul-a-ni igi-zu um-ra-ra ka-zu um-ra-ra
+c.5.3.2,The debate between Grain and Sheep,,152,gum-gum-gin₇
+c.5.3.2,The debate between Grain and Sheep,,153,{tum₉}u₁₈-lu {tum₉}mir-re bal-še₃
+c.5.3.2,The debate between Grain and Sheep,,154,{na₄}kinkin-e {na₄}X
+c.5.3.2,The debate between Grain and Sheep,,155,{na₄}šu-še₃ bar-za-a ar₃-ar₃ mi-ni-in-ak
+c.5.3.2,The debate between Grain and Sheep,,156,za-e {ŋeš}buniŋ-bi sig₉-ga-zu-ne
+c.5.3.2,The debate between Grain and Sheep,,157,lu₂-silaŋ-ŋa₂ ba-hi ki-a mi-ni-in-ŋar
+c.5.3.2,The debate between Grain and Sheep,,158,ki-sikil du₈ gu-la šu bur₂-ra-am₃
+c.5.3.2,The debate between Grain and Sheep,,159,{im}šu-rin-na mi-ni-a-ed₃-de₃
+c.5.3.2,The debate between Grain and Sheep,,160,{im}šu-rin-na-ta im-ta-a-ed₃-de₃
+c.5.3.2,The debate between Grain and Sheep,,161,za-e {ŋeš}banšur-ra ŋal₂-la-zu-ne
+c.5.3.2,The debate between Grain and Sheep,,162,an-ta ma-ra-ŋal₂-en ki-ta ma-ŋal₂-en
+c.5.3.2,The debate between Grain and Sheep,,163,{d}ezina₂ ni₂-za ŋeštug₂ ak-i₃
+c.5.3.2,The debate between Grain and Sheep,,164,u₃ za-e ŋe₂₆-e-gin₇ niŋ₂-gu₇-u₃-me-en
+c.5.3.2,The debate between Grain and Sheep,,165,me-za igi mi-ni-ib-il₂-la-ke₄-eš
+c.5.3.2,The debate between Grain and Sheep,,166,u₃ ŋe₂₆-e eŋer-bi im-us₂-en
+c.5.3.2,The debate between Grain and Sheep,,167,lu₂-{na₄}kinkin-e hul nu-ŋal₂
+c.5.3.2,The debate between Grain and Sheep,,168,a-na-zu mu-da-ŋal₂ a-na ma-ab-be₂-en-na-bi gi₄-ma-ni-ib
+c.5.3.2,The debate between Grain and Sheep,,169,ud-ba {d}ezina₂-e nam-gur₄-ra-na šag₄ im-mi-in-dab₅ di-de₃ saŋ ba-an-šum₂
+c.5.3.2,The debate between Grain and Sheep,,170,{d}ezina₂ u₈-ra mu-un-na-ni-ib-gi₄-gi₄
+c.5.3.2,The debate between Grain and Sheep,,171,za-e {d}iškur lugal-zu-um {d}šakkan₂ kuš₇-zu-um bar-rim₄ ki-nu₂-zu-um
+c.5.3.2,The debate between Grain and Sheep,,172,e₂-e gan₂-ne₂ izi in-ga-dub₂-ba-gin₇
+c.5.3.2,The debate between Grain and Sheep,,173,e₂-ba ka-ba buru₅{mušen} dal ba-ab-ra-gin₇
+c.5.3.2,The debate between Grain and Sheep,,174,eh₃ si-ig kalam-ma-še₃ ba-ni-ib-kur₉-re-en
+c.5.3.2,The debate between Grain and Sheep,,175,ŋe₂₆-e gu₂-ŋu₁₀ ki-še₃ ba-e-de₃-ŋa₂-ŋa₂-ŋa₂
+c.5.3.2,The debate between Grain and Sheep,,176,{ŋeš}ba-an-e-{ŋeš}ba-an-e ba-e-hal-ha-X
+c.5.3.2,The debate between Grain and Sheep,,177,šag₄-tur₃-zu ganba-ka lu₂ u₃-bi₂-in-de₆
+c.5.3.2,The debate between Grain and Sheep,,178,{tug₂}niŋ₂-dara₂ ni₂-za gu₂-zu u₃-bi₂-in-la₂
+c.5.3.2,The debate between Grain and Sheep,,179,u₈-ŋu₁₀-še₃ še {ŋeš}ba-an-e si-ma-ab lu₂ lu₂-u₃ in-na-ab-e
+c.5.3.2,The debate between Grain and Sheep,,180,ud-ba {d}en-ki-ke₄ {d}en-lil₂-ra gu₃ mu-na-de₂-e
+c.5.3.2,The debate between Grain and Sheep,,181,a-a {d}en-lil₂ {d}u₈ {d}ezina₂-bi nin₉ he₂-me-eš
+c.5.3.2,The debate between Grain and Sheep,,182,teš₂-bi-da he₂-en-da-sug₂-sug₂-ge-eš
+c.5.3.2,The debate between Grain and Sheep,,183,kug ₃-kam-ma-ne-ne-a ŋa₂-la nu-um-X-dag-ge
+c.5.3.2,The debate between Grain and Sheep,,184,₂-na-ne-ne {d}ezina₂ he₂-X-gu-ul
+c.5.3.2,The debate between Grain and Sheep,,185,{d}ezina₂-ra dub₃ ki-a he₂-en-de₃-za-za
+c.5.3.2,The debate between Grain and Sheep,,186,ŋiri₃-ni ne he₂-em-su-ub-bu-de₃
+c.5.3.2,The debate between Grain and Sheep,,187,{d}utu e₃-a-ra {d}utu šu₂-uš-e
+c.5.3.2,The debate between Grain and Sheep,,188,mu {d}ezina₂-kam he₂-em-pad₃-pad₃-de₃
+c.5.3.2,The debate between Grain and Sheep,,189,erin₂ {d}ezina₂-ka gu₂ he₂-em-mi-ib-ŋar
+c.5.3.2,The debate between Grain and Sheep,,190,lu₂ kug tuku lu₂ za tuku lu₂ gud tuku lu₂ udu tuku
+c.5.3.2,The debate between Grain and Sheep,,191,kan₄ lu₂ še tuku-e dur₂ he₂-ŋa₂-ŋa₂ ud he₂-ni-ib-zal-zal-e
+c.5.3.2,The debate between Grain and Sheep,,192,u₈ {d}ezina₂-bi a-da-min₃ dug₄-ga
+c.5.3.2,The debate between Grain and Sheep,,193,u₈ taka₄-a {d}ezina₂ e₃-a a-a {d}en-ki za₃-mi₂

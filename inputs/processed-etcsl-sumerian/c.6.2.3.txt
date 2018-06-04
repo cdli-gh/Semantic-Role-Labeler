@@ -1,0 +1,520 @@
+id_text,text_name,version,l_no,text
+c.6.2.3,Proverbs: from Urim,UET 6/2 291,1,niŋ₂-gen₆-na-ta a-ba in-da-sa₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 291,2,nam-til₃ ia-u₃-tud
+c.6.2.3,Proverbs: from Urim,UET 6/2 291,3,niŋ₂-erim₂-me-e a₂-bi he₂-eb-kuš₂-še {d}utu nu-še-ba
+c.6.2.3,Proverbs: from Urim,UET 6/2 291,4,urin gal ni₂ zig₃-ga he₂-en-dul an-am₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 265,1,niŋ₂ gu₂ ŋar-ra niŋ₂ gaba ŋar-ra
+c.6.2.3,Proverbs: from Urim,UET 6/2 265,2,kug tuku an-hul₂ še tuku an-sag₉
+c.6.2.3,Proverbs: from Urim,UET 6/2 265,3,niŋ₂-ur₂-limmu₂ tuku-e u₃ nu-um-ši-ku-ku
+c.6.2.3,Proverbs: from Urim,UET 6/2 265,4,u₃-la nu-mu-un-tuku-tuku
+c.6.2.3,Proverbs: from Urim,UET 6/2 265,5,u₃-la nu-mu-un-da₁₃-da₁₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 265,6,kur₉-ra nu-mu-na-ab-šum₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 239,1,ninda he₂-ŋal₂-la {d}nin-kilim i₃-ib₂-gu₇
+c.6.2.3,Proverbs: from Urim,UET 6/2 239,2,ninda ha-ma-ŋal₂-la lu₂-kur₂-ra ib₂-gu₇
+c.6.2.3,Proverbs: from Urim,UET 6/2 320,1,ninda he₂-ŋal₂ {d}nin-kilim ib₂-gu₇
+c.6.2.3,Proverbs: from Urim,UET 6/2 320,2,ninda-ŋu₁₀ he₂-ŋal₂ lu₂-kur₂ ib₂-gu₇
+c.6.2.3,Proverbs: from Urim,UET 6/2 261 and UET 6/2 262,1,niŋ₂-tuku niŋ₂ al di niŋ₂-gig diŋir-ra-kam
+c.6.2.3,Proverbs: from Urim,UET 6/2 221,1,iri{ki} ur-gir₁₅ nu-me-a ka₅-a nu-banda₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 302,1,{ŋeš}ma₂ niŋ₂-gen₆-na ni₂ ba-ab-dirig-ga
+c.6.2.3,Proverbs: from Urim,UET 6/2 302,2,{d}utu kar-ra gen₆-na mu-un-na-ši-kiŋ₂-kiŋ₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 284,1,u₂ dam-da ze₂-eb u₂ dumu-da ze₂-eb
+c.6.2.3,Proverbs: from Urim,UET 6/2 284,2,{d}ezina₂-{d}ku₃-su₃ e₂-a he₂-me-da-an-til₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 210,1,an uga{mušen}-am₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 210,2,ki {d}nin-kilim-am₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 210,3,edin-na ur-mah-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 210,4,mu-ud-na-ŋu₁₀ me-še₃ ga-ŋen
+c.6.2.3,Proverbs: from Urim,UET 6/2 306,1,nin₉-e ub-lil₂-la₂ nam-me-a ama-ŋu₁₀ id₂-da
+c.6.2.3,Proverbs: from Urim,UET 6/2 306,2,nam-me-a šaŋar ba-da-an-ug₇-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 301,1,ur₅ ama-ŋu₁₀ nin₉ ban₃-da-ŋu₁₀ ma-ak-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 301,2,ŋe₂₆-e lu₂ dim₂-ma mu-da-lal
+c.6.2.3,Proverbs: from Urim,UET 6/2 301,3,te-ŋu₁₀ mu-da-ab-ha-za-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 334,1,zig₃-ga-ŋu₁₀ dug₄-ga ma-la-ga-a-ni
+c.6.2.3,Proverbs: from Urim,UET 6/2 334,2,ušur na de₅-ga lu₂ du₁₄-da-ka-a-ni
+c.6.2.3,Proverbs: from Urim,UET 6/2 303,1,tur₅-ra dug₃-ga-am₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 303,2,peš₁₃ gig-ga-am₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 303,3,peš₁₃ tur₅-ra im-ma-dirig-ga-bi
+c.6.2.3,Proverbs: from Urim,UET 6/2 356,1,šum₂-mu-na-ab na-ta-ab-šum₂-mu
+c.6.2.3,Proverbs: from Urim,UET 6/2 356,2,šu-ni na-an-tag
+c.6.2.3,Proverbs: from Urim,UET 6/2 356,3,ŋarza-bi ŋiri₃ ba-da-kur₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 356,4,me-bi ba-da-ha-lam
+c.6.2.3,Proverbs: from Urim,UET 6/2 356,5,di-ir-ga-a ki ba-e-gul
+c.6.2.3,Proverbs: from Urim,UET 6/2 356,6,ŋarza-bi ŋiri₃ na-ab-ta-ab-kur₂-ru-de₃-en-ze₂-en
+c.6.2.3,Proverbs: from Urim,UET 6/2 356,7,me-bi na-ab-ta-ab-ha-lam-e-X
+c.6.2.3,Proverbs: from Urim,UET 6/2 356,8,di-ir-ga-a ki X-gul-lu-en-X
+c.6.2.3,Proverbs: from Urim,UET 6/2 292,1,nam-tar-ŋu₁₀ ga-am₃-dug₄ su-lum mar-am₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 292,2,a-ra₂-ŋu₁₀ ga-am₃-dug₄ ka lu₂ ba-an-sis-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 292,3,er₂-ŋu₁₀ im-da-an-sa₂-a šag₄-ŋu₁₀ im-da-an-hul
+c.6.2.3,Proverbs: from Urim,UET 6/2 292,4,{u₂}numun₂ e₂-a ba-an-dug₄
+c.6.2.3,Proverbs: from Urim,UET 6/2 260,1,du-du nam-ukur₃-ra a₂ bi₂-ib₂-ŋar
+c.6.2.3,Proverbs: from Urim,UET 6/2 260,2,lu₂-lul-la abula in-ku₄-ku₄
+c.6.2.3,Proverbs: from Urim,UET 6/2 260,3,igi-bi šu-si-am₃ eŋer-bi šu-si-am₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 267,1,dub-sar-me-en mu ni₂-za nu-zu
+c.6.2.3,Proverbs: from Urim,UET 6/2 267,2,igi ni₂-zu sag₃-ge
+c.6.2.3,Proverbs: from Urim,UET 6/2 267,3,tuku
+c.6.2.3,Proverbs: from Urim,UET 6/2 267,4,
+c.6.2.3,Proverbs: from Urim,UET 6/2 267,5,dub-sar pe-el-la₂ lu₂-mu₇-mu₇-še₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 267,6,nar pe-el-la₂ lu₂-gi-di-da-še₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 267,7,dam-gara₃ pe-el-la₂ {lu₂}da-bi-ri-ri-še₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 268,1,dub-sar-re mu ₁-am₃ he₂-en-zu
+c.6.2.3,Proverbs: from Urim,UET 6/2 268,2,šu-ni he₂-sag₉-sag₉ e-ne-am₃ dub-sar-re
+c.6.2.3,Proverbs: from Urim,UET 6/2 268,3,nar-e en₃-du ₁-am₃ he₂-en-zu
+c.6.2.3,Proverbs: from Urim,UET 6/2 268,4,ad ša₄-ni dug₃-ga-am₃ e-ne-am₃ nar-am₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 290,1,nar en₃-du dili-am₃ he₂-zu
+c.6.2.3,Proverbs: from Urim,UET 6/2 290,2,ad ša₄ he₂-sag₉ e-ne-am₃ nar-ra-am₃
+c.6.2.3,Proverbs: from Urim,UET 6/3 452,1,nar-re en₃-du dili-am₃ he₂-zu
+c.6.2.3,Proverbs: from Urim,UET 6/3 452,2,ad ša₄-am₃ he₂-sag₉
+c.6.2.3,Proverbs: from Urim,UET 6/3 452,3,dub-sar šu ka-ta sa₂-a e-ne-am₃ dub-sar-ra-am₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 269,1,dub-sar eme-gir₁₅ nu-un-zu-a
+c.6.2.3,Proverbs: from Urim,UET 6/2 269,2,inim bal-e me-da he₂-im-tum₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 216,1,ka₅-a idigna-še₃ kaš₃ i₃-sur-sur-ra
+c.6.2.3,Proverbs: from Urim,UET 6/2 216,2,a-eštub{ku₆} ba-zig₃-ge-en-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 214,1,ka₅-a nu-un-dab₅ {ŋeš}az-bal al-ak-e
+c.6.2.3,Proverbs: from Urim,UET 6/3 31,1,ama ga-an-nam ki-bal
+c.6.2.3,Proverbs: from Urim,UET 6/3 31,2,ŋeštug₂ ki-bal
+c.6.2.3,Proverbs: from Urim,UET 6/3 31,3,
+c.6.2.3,Proverbs: from Urim,UET 6/3 31,4,
+c.6.2.3,Proverbs: from Urim,UET 6/3 31,5,da-ri niŋ₂ us₂-sa
+c.6.2.3,Proverbs: from Urim,UET 6/3 31,6,gud kur₂-ra u₂ gu₇-gu₇ gud ni₂-ŋa₂ u₂-šim-e ba-nu₂
+c.6.2.3,Proverbs: from Urim,UET 6/3 31,7,sag₉-ga šu-am₃ hul šu an-ga-am₃
+c.6.2.3,Proverbs: from Urim,UET 6/3 31,8,hul e₂ niŋ₂-gur₁₁-ra ur₅-e la-ba-an-gu₇-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 293,1,saŋ sar-ra siki ba-an-tuku-tuku
+c.6.2.3,Proverbs: from Urim,UET 6/2 293,2,u₃ lu₂ še de₅-de₅-ga {d}ezina₂ ba-ab-dirig-ga
+c.6.2.3,Proverbs: from Urim,UET 6/2 209,1,e₂-gal tir-ra-am₃ lugal ur-mah-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 209,2,{d}nin-e₂-gal {sa}šu₂-uš-gal
+c.6.2.3,Proverbs: from Urim,UET 6/2 209,3,ŋuruš-e dul-dul-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 209,4,gal₄-la
+c.6.2.3,Proverbs: from Urim,UET 6/2 209,5,
+c.6.2.3,Proverbs: from Urim,UET 6/2 209,6,X-un-SAR-SAR
+c.6.2.3,Proverbs: from Urim,UET 6/2 317,1,e₂-gal a-ri-a nu-da₁₃-da₁₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 317,2,{ŋeš}ma₂-gur₈ in-nu-da nu-da₁₃-da₁₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 317,3,dumu-gir₁₅ du-lum nu-da₁₃-da₁₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 244,1,ir₇-saŋ{mušen} ugu-bi
+c.6.2.3,Proverbs: from Urim,UET 6/2 244,2,{ŋeš}kiri₆ me-te-bi
+c.6.2.3,Proverbs: from Urim,UET 6/2 244,3,dar{mušen} ugu-bi
+c.6.2.3,Proverbs: from Urim,UET 6/2 244,4,a-šag₄-ga me-te-bi
+c.6.2.3,Proverbs: from Urim,UET 6/2 244,5,bi₂-za-za ugu-bi
+c.6.2.3,Proverbs: from Urim,UET 6/2 244,6,pu₂ me-te-bi
+c.6.2.3,Proverbs: from Urim,UET 6/2 335,1,geme₂ ni₂ te-a-gin₇ naŋa₃ bi₂-ib₂-gur-gur-re
+c.6.2.3,Proverbs: from Urim,UET 6/2 335,2,ŋeštug hul₂-la diŋir hul₂-la
+c.6.2.3,Proverbs: from Urim,UET 6/2 382,1,
+c.6.2.3,Proverbs: from Urim,UET 6/2 382,2,
+c.6.2.3,Proverbs: from Urim,UET 6/2 382,3,{d}iškur an dar-dar-re {kuš}a-ŋa₂-la₂ nu-dar-re
+c.6.2.3,Proverbs: from Urim,UET 6/2 311,1,ka-ŋu₁₀ itid-dam ka ba-ra-sig₁₀-ge
+c.6.2.3,Proverbs: from Urim,UET 6/2 311,2,eme-ŋu₁₀ anše DU.DU-un
+c.6.2.3,Proverbs: from Urim,UET 6/2 311,3,eŋer-bi nu-mu-un-gi₄-gi₄
+c.6.2.3,Proverbs: from Urim,UET 6/2 311,4,ka-ŋu₁₀ tu₇ al-bil-la₂ ha-ra-ab-sig₁₀-X
+c.6.2.3,Proverbs: from Urim,UET 6/2 311,5,šag₄ ku₃ ŋiri₃-paₓ-ra₂ de₅-de₅-ga
+c.6.2.3,Proverbs: from Urim,UET 6/2 311,6,ka-ŋu₁₀ za-e teš₂-e ba-gu₇-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 255,1,diŋir lu₂-ulu₃ sipad lu₂-ulu₃-ke₄
+c.6.2.3,Proverbs: from Urim,UET 6/2 255,2,diŋir li-bi₂-ib₂-taka₄
+c.6.2.3,Proverbs: from Urim,UET 6/2 255,3,sipad nam-ba-UR-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 255,4,diŋir lu₂-u₃ lu₂-ulu₃-še₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 255,5,niŋ₂-gu₇ a naŋ mu-un-ŋar
+c.6.2.3,Proverbs: from Urim,UET 6/2 322,1,
+c.6.2.3,Proverbs: from Urim,UET 6/2 322,2,ka-ta ka-ta
+c.6.2.3,Proverbs: from Urim,UET 6/2 322,3,ka-ta he₂-ŋal₂ šu-ni-še₃ nu-un-ŋal₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 287,1,anše-kur lu₂ u₅-a-ni u₃-mu-ni-in-šub
+c.6.2.3,Proverbs: from Urim,UET 6/2 287,2,tukum-bi gu₂-un-ŋu₁₀ da-ri₂-še₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 287,3,ne-en-nam al-sig-en-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 283,1,anše bar la₂-a-ni u₃-mu-ni-in-šub
+c.6.2.3,Proverbs: from Urim,UET 6/2 283,2,du-lum ud-bi-ta-ŋu₁₀ ŋeštug₂-ŋa₂ u₁₈-lu-un-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 315,1,anše id₂-da dirig-ga
+c.6.2.3,Proverbs: from Urim,UET 6/2 315,2,ur-gir₁₅ bar-rim₄-ma igi du-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 315,3,a-a ugu-ŋu₁₀ me-še₃ al-du-un
+c.6.2.3,Proverbs: from Urim,UET 6/2 315,4,mu-te er₂-ŋu₁₀ ugu-zu
+c.6.2.3,Proverbs: from Urim,UET 6/2 315,5,e₂ ŋuruš gal-gal-e-ne-ka
+c.6.2.3,Proverbs: from Urim,UET 6/2 315,6,ŋiš X-ra-an-NE
+c.6.2.3,Proverbs: from Urim,UET 6/2 315,7,me₃ šen-šen-na tur
+c.6.2.3,Proverbs: from Urim,UET 6/2 315,8,
+c.6.2.3,Proverbs: from Urim,UET 6/2 315,9,
+c.6.2.3,Proverbs: from Urim,UET 6/2 315,10,kaš₄ dug-X lugal
+c.6.2.3,Proverbs: from Urim,UET 6/2 315,11,kug-ga-ke₄-eš kug-sig₁₇-ga-ke₄-eš
+c.6.2.3,Proverbs: from Urim,UET 6/2 315,12,dub-šen-na-ke₄-eš dub-šen-dilim₂-ma-ke₄-eš
+c.6.2.3,Proverbs: from Urim,UET 6/2 315,13,ŋe₂₆-e ba-til-de₃-en
+c.6.2.3,Proverbs: from Urim,UET 6/2 236,1,anše ne-eš₂ tuš-a ŋiš₃ pir₂-bi al-il₂-en-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 234,1,anše bar udu hi-a-ka ŋiškim nu-mu-ni-zu
+c.6.2.3,Proverbs: from Urim,UET 6/2 212,1,ur-mah-e ud₅ hu-na mu-ni-dab₅
+c.6.2.3,Proverbs: from Urim,UET 6/2 212,2,šu ba-am₃ u₈ tab-ba-ŋu₁₀ gur-ra ga-mu-ra-ab-šum₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 212,3,tukum-bi šu mu-un-ši-bar-re-en mu-zu dug₄-ga-ab
+c.6.2.3,Proverbs: from Urim,UET 6/2 212,4,ud₅-e ur-mah-e mu-ni-ib-gi₄-gi₄ za-e mu-ŋu₁₀ nu-zu
+c.6.2.3,Proverbs: from Urim,UET 6/2 212,5,mu-ŋu₁₀ ud {e₂}tur₃-ra-še₃ i₃-ŋen
+c.6.2.3,Proverbs: from Urim,UET 6/2 212,6,gu₃ mu-na-de₂-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 212,7,e-ne gu₃ re-a mu-un-na-ni-ib₂-gi₄-gi₄
+c.6.2.3,Proverbs: from Urim,UET 6/2 212,8,bar udu hi-a nu-dur₂-ru-na-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 211,1,ur-mah-e šah₂ ŋiš-gi₄ in-dab₅
+c.6.2.3,Proverbs: from Urim,UET 6/2 211,2,gu₃ mu-ra-ra-ra en-na-bi-še₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 211,3,uzu-zu ka-ŋu₁₀ nu-ub-si
+c.6.2.3,Proverbs: from Urim,UET 6/2 211,4,za-pa-aŋ₂-zu ŋeštug₂-ŋu₁₀ u₂ ba-ni-in-hub₂-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 208,1,ur-mah-e a₂-tah-zu ŋiš-gi lu-lu-am₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 208,2,ur-mah-e ŋiš-gi-a lu₂ zu-a-ni nu-ub-gu₇
+c.6.2.3,Proverbs: from Urim,UET 6/2 264,1,ur-gir₁₅ lugal-a-ni-ir an-na-ab-be₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 264,2,tukum-bi nam-sag₉-ga-ŋu₁₀ ba-ra-ra-ŋal₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 264,3,i-bi₂-za-ŋu₁₀ nu-ra-ŋal₂-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 231,1,ur-gir₁₅-re e₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 231,2,nu-ub-dur₂-X
+c.6.2.3,Proverbs: from Urim,UET 6/2 231,3,ur
+c.6.2.3,Proverbs: from Urim,UET 6/2 225,1,ur-gir₁₅-re šu te-ba-ab mu-un-zu
+c.6.2.3,Proverbs: from Urim,UET 6/2 225,2,ŋa₂-ŋa₂ nu-ub-zu-am₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 228,1,ur-gir₁₅-re i₃-udu-am₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 228,2,ur-gir₁₅-re mu-bi-im
+c.6.2.3,Proverbs: from Urim,UET 6/2 223,1,ur sag₉-ga ur-tur-še₃ in-kur₉
+c.6.2.3,Proverbs: from Urim,UET 6/2 324,1,ur mu₂-da gu₃ ba-an-de₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 324,2,kug kuš du₃-bi ba-ni-ib-gi₄-gi₄
+c.6.2.3,Proverbs: from Urim,UET 6/2 309,1,ur mu₂-da-gin₇ id₂-da gid₂-da-bi a šu al-ak-en-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 224,1,ur-gir₁₅-re ga-ba-al nam-mu-du₃-en
+c.6.2.3,Proverbs: from Urim,UET 6/2 224,2,zu₂ nu-mu-ra-ab-kud-de₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 222,1,ur-gir₁₅ zu₂ ub-ra-ra
+c.6.2.3,Proverbs: from Urim,UET 6/2 222,2,ninda paₓ-ra₂ ka-ga₁₄-ni-še₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 230,1,hal-la ur-gir₁₅-ra-ka
+c.6.2.3,Proverbs: from Urim,UET 6/2 230,2,ŋiri₃-paₓ-ra₂ al-de₅-de₅-ga
+c.6.2.3,Proverbs: from Urim,UET 6/2 230,3,ur-gir₁₅-re kaš-de₂-a-še₃ al-du
+c.6.2.3,Proverbs: from Urim,UET 6/2 230,4,ŋiri₃-paₓ-ra₂ igi mu-ni-in-du₈ ba-ŋen
+c.6.2.3,Proverbs: from Urim,UET 6/2 230,5,ki al-du-na-am₃ dirig ne-en-na-am₃ al-gu₇-e-en-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 232,1,nig tu-ud-da-gin₇ erin₂ zu₂ kud-kud-de₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 313,1,ur maš₂-še₃ na-ab-be₂-a
+c.6.2.3,Proverbs: from Urim,UET 6/2 313,2,al-gun₃-gun₃-nu al-gud-gu₄-ud
+c.6.2.3,Proverbs: from Urim,UET 6/2 313,3,dumu-ŋu₁₀ ki aŋ₂-X-X-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 275,1,šah₂ šu ab-kar-kar-re i-gi₄-in-zu
+c.6.2.3,Proverbs: from Urim,UET 6/2 275,2,ni₂-te-ni-še₃ lugal-a-ni-še₃-am₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 300,1,šah₂ lu-hu-um-ma su₃-a
+c.6.2.3,Proverbs: from Urim,UET 6/2 300,2,šah₂ ninda paₓ-ra₂ i-ib₂-il₂-i
+c.6.2.3,Proverbs: from Urim,UET 6/2 240,1,ud₅-de₃ saŋ rig₇ maš₂ gal-la-kam
+c.6.2.3,Proverbs: from Urim,UET 6/2 240,2,maš₂ gal sun₄ la₂-a
+c.6.2.3,Proverbs: from Urim,UET 6/2 241,1,az-e itid ₆-kam ti-na nu-bal-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 241,2,an u₃-sa₂ nu-mu-un-šum₂-ma
+c.6.2.3,Proverbs: from Urim,UET 6/2 241,3,ŋe₂₆-gin₇-nam he₂-si-ig
+c.6.2.3,Proverbs: from Urim,UET 6/2 294,1,kir₄-gin₇ en-na nu i₃-hab₂-ba nu-gu₇-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 215,1,ka₅-a sur₁₂-re al-us₂-sa
+c.6.2.3,Proverbs: from Urim,UET 6/2 215,2,sur₁₂-re nu-tur-tur
+c.6.2.3,Proverbs: from Urim,UET 6/2 215,3,u₃ e-ne nu-kuš₂-u₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 218,1,ka₅-a gu₂ gid₂ ama-a-ni-še₃ ŋeštug₂-ga-ni in-ak-ma
+c.6.2.3,Proverbs: from Urim,UET 6/2 218,2,al-ug₅-ge-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 213,1,ka₅-a maš₂-bi mu-un-šub
+c.6.2.3,Proverbs: from Urim,UET 6/2 213,2,maš₂-tab-ba-ni am₃-i-i
+c.6.2.3,Proverbs: from Urim,UET 6/2 219,1,ka₅-a ud₅-še₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 219,2,du-um-du
+c.6.2.3,Proverbs: from Urim,UET 6/2 219,3,tukum-bi ur-gir₁₅-re
+c.6.2.3,Proverbs: from Urim,UET 6/2 219,4,e₂-za nam ur₅ X-til₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 219,5,{kuš}e-sir₂-ŋu₁₀
+c.6.2.3,Proverbs: from Urim,UET 6/2 220,1,ka₅-a ur₂ {ŋeš}kiši₁₇-še₃ in-kur₉-ma
+c.6.2.3,Proverbs: from Urim,UET 6/2 220,2,ur-gir₁₅-re kan₄-na ba-an-tuš
+c.6.2.3,Proverbs: from Urim,UET 6/2 220,3,e₃-ma-ab ed₂-de₃ nu-ub-zu-am₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 220,4,gu₂-e-ta a-na-gin₇-nam in-kur₉
+c.6.2.3,Proverbs: from Urim,UET 6/2 220,5,en-na nu al-sar-sar al-tuš-en-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 217,1,ka₅-a nam-lul-la-še₃ ŋeštug₂-ga₁₄-ni al-gub
+c.6.2.3,Proverbs: from Urim,UET 6/2 217,2,ba-šub-bu-de₃-en id₂-da iri-ŋu₁₀ al-tum₂-mu-un-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/3 462,1,usu igi-ŋal₂-tuku nu-ub-da-sa₂
+c.6.2.3,Proverbs: from Urim,UET 6/3 464,1,kug-zu ₂
+c.6.2.3,Proverbs: from Urim,UET 6/3 464,2,gal-an-zu a-ra₂
+c.6.2.3,Proverbs: from Urim,UET 6/3 464,3,is-hab₂ ki-bid₃-da šu ša-an-ša-ša-da
+c.6.2.3,Proverbs: from Urim,UET 6/2 282 and UET 6/2 332,1,šeg₉-bar {ŋeš}asal₂-gin₇
+c.6.2.3,Proverbs: from Urim,UET 6/2 282 and UET 6/2 332,2,al-ed₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 282 and UET 6/2 332,3,al-ed₃-de₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 305,1,a₂ ba-za {ŋeš}mitum na-an-šum₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 305,2,{d}en-lil₂ a₂-tah-ni-im
+c.6.2.3,Proverbs: from Urim,UET 6/2 330,1,a₂ ba-za {ŋeš}tukul na-šum₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 330,2,{d}en-lil₂-la₂ a₂-tah-ni
+c.6.2.3,Proverbs: from Urim,UET 6/2 281,1,dub₃-tuku bar in-dab₅ usu-tuku ba-da-an-kar
+c.6.2.3,Proverbs: from Urim,UET 6/2 281,2,ka tuku e₂-gal-la-še₃ ba-ni-in-kur₉
+c.6.2.3,Proverbs: from Urim,UET 6/2 386,1,gi₄-in-ŋen ga-ša-an-ŋen še-er nu-u₃-mu-un-na-ma-al
+c.6.2.3,Proverbs: from Urim,UET 6/2 386,2,mu-ud-na-ŋu₁₀ ga-an-ze₂-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 387,1,gi₄-in ga-ša-an
+c.6.2.3,Proverbs: from Urim,UET 6/2 387,2,še-er nu-un-ŋal₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 387,3,mu-ud-na-ni ga-an-ze₂-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 325,1,gi₄-in-gi₄-in balaŋ ba-ra-e₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 325,2,ga-ša-an-an-na e-dur₂-ra ba-tuš-tuš
+c.6.2.3,Proverbs: from Urim,UET 6/2 325,3,geme₂ niŋ₂ hi-li-a-ke₄
+c.6.2.3,Proverbs: from Urim,UET 6/2 325,4,{d}iškur diŋir lugal gal
+c.6.2.3,Proverbs: from Urim,UET 6/2 325,5,ukuš₂-gin₇ ki dug₃ hu-mu-dar-dar-re
+c.6.2.3,Proverbs: from Urim,UET 6/2 259,1,di-kud niŋ₂-gen₆-na hul-a aš₂ a₂ zid-da bal-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 259,2,dumu-nitah tur-ra e₂ ad-da-na-ta sar-ra
+c.6.2.3,Proverbs: from Urim,UET 6/2 259,3,niŋ₂-gig {d}utu-kam
+c.6.2.3,Proverbs: from Urim,UET 6/2 250,1,iri{ki} iri{ki} silim nu-tag-ga
+c.6.2.3,Proverbs: from Urim,UET 6/2 250,2,lu₂-ulu₃ lu₂-ulu₃ silim bi₂-tag-ga
+c.6.2.3,Proverbs: from Urim,UET 6/3 80,1,
+c.6.2.3,Proverbs: from Urim,UET 6/3 80,2,al-mur₁₀-ra al-sag₉-ga
+c.6.2.3,Proverbs: from Urim,UET 6/3 80,3,e₂-gi₄-a nam-ušbar-ra-ŋa₂-ke₄ zu lu₂ niŋ₂-tuku sam₂
+c.6.2.3,Proverbs: from Urim,UET 6/3 80,4,ir₇-saŋ{mušen} gu₃ de₂ {ŋeš}kiri₆ me-te-bi
+c.6.2.3,Proverbs: from Urim,UET 6/3 80,5,bi₂-za-za gu₃ de₂ a-ambar-ra me-te-bi
+c.6.2.3,Proverbs: from Urim,UET 6/3 80,6,dar{mušen} gu₃ de₂-a-bi a-šag₄-ga
+c.6.2.3,Proverbs: from Urim,UET 6/3 80,7,su-lum mar-re-da-kam su-lum mar-re keše₂-da
+c.6.2.3,Proverbs: from Urim,UET 6/3 80,8,diŋir-re-e-ne ₃-am₃ dug₄-ga-am₃ he₂-me-en
+c.6.2.3,Proverbs: from Urim,UET 6/3 80,9,lu₂-ulu₃-am₃ nam-za ga-ra-an nu-me-a
+c.6.2.3,Proverbs: from Urim,UET 6/3 80,10,
+c.6.2.3,Proverbs: from Urim,UET 6/3 80,11,dul-dul
+c.6.2.3,Proverbs: from Urim,UET 6/3 80,12,šag₄ dirig mu-un-HUB₂-HUB₂
+c.6.2.3,Proverbs: from Urim,UET 6/3 80,13,saŋ šag₄ lugal-a-ni-ir i₃-sag₃-ge
+c.6.2.3,Proverbs: from Urim,UET 6/3 80,14,šu gi₄
+c.6.2.3,Proverbs: from Urim,UET 6/3 80,15,{f}uš-bar-e
+c.6.2.3,Proverbs: from Urim,UET 6/3 80,16,nu-ak-de₃ {ŋeš}šu-kar₂ lugal-a gu₂-ni im-ŋa₂-ŋa₂
+c.6.2.3,Proverbs: from Urim,UET 6/3 80,17,he₂-til₃ igi-bi arhuš tuku
+c.6.2.3,Proverbs: from Urim,UET 6/3 80,18,a₂-tuku lugal ki-in-da-a-kam
+c.6.2.3,Proverbs: from Urim,UET 6/3 80,19,ga-ze₂ sa₂ nu-ub-dug₄
+c.6.2.3,Proverbs: from Urim,UET 6/3 80,20,a-ba al-kiŋ₂-kiŋ₂-e
+c.6.2.3,Proverbs: from Urim,UET 6/3 80,21,
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A1,bi₂-gi₄
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A2,
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A3,
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A4,sag₉-ga-bi
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A5,bi₂-ib-šub
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A6,
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A7,ŋal₂ nu-tuku
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A8,im-ma-an-zu X-ib-us₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A9,bi₂-in-sag₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A10,diŋir-ŋu₁₀ me-am₃-še₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,A11,
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B1,du₃ munus
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B2,ninda {d}nin-kilim gu₇ ninda kur₂ gu₇-gu₇
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B3,niŋ₂-tuku niŋ₂ al di niŋ₂-gig diŋir-ra-kam
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B4,u₂ hub₂ til₃-la-še₃ ugu-zu-še₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B5,dumu-ŋu₁₀ dub-sar-ra nu-ŋar-ra
+c.6.2.3,Proverbs: from Urim,UET 6/2 339 +,B6,
+c.6.2.3,Proverbs: from Urim,UET 6/2 289,1,eme sig₉ dug₄-dug₄ lu₂-lul-la-ra
+c.6.2.3,Proverbs: from Urim,UET 6/2 289,2,{d}nin-e₂-gal-la saŋ-a-ni bi₂-in-gul
+c.6.2.3,Proverbs: from Urim,UET 6/2 289,3,sag₉-ga-ni hul-še₃ ba-da-ŋal₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 289,4,igi-ni teš₂ la-ba-an-tuku
+c.6.2.3,Proverbs: from Urim,UET 6/2 289,5,šu-si eŋer-a-ni mu-un-da-ŋal₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 289,6,{d}utu en niŋ₂-gen₆-na ki aŋ₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 289,7,niŋ₂-erim₂ ba-an-da-bur₁₂ niŋ₂-gen₆-na gid₂-da
+c.6.2.3,Proverbs: from Urim,UET 6/2 289,8,nam-tag dugud
+c.6.2.3,Proverbs: from Urim,UET 6/2 289,9,eme sig₉
+c.6.2.3,Proverbs: from Urim,UET 6/2 289,10,im-da-šub-bu-de₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 350,1,
+c.6.2.3,Proverbs: from Urim,UET 6/2 350,2,an-na bi₂-ed₂-de₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 350,3,bur₂ kurum₇-bi kur-ra il₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 350,4,me₃ šen im-ma-te
+c.6.2.3,Proverbs: from Urim,UET 6/2 350,5,me₃ šen-šen im-ma-zig₃-ga
+c.6.2.3,Proverbs: from Urim,UET 6/2 350,6,ŋiš-hur diŋir-re-e-ne-ke₄
+c.6.2.3,Proverbs: from Urim,UET 6/2 350,7,diŋir ki aŋ₂ ba-an-hul
+c.6.2.3,Proverbs: from Urim,UET 6/2 350,8,{d}gibil kalam-ma ba-gu₇-e-en
+c.6.2.3,Proverbs: from Urim,UET 6/2 350,9,diŋir-ŋu₁₀ he₂-en-zu šu-ŋu₁₀ gi-dub-ba-kam
+c.6.2.3,Proverbs: from Urim,UET 6/2 365,1,ŋe₂₆-e diŋir-ŋu₁₀ a-na-am₃ in-ak
+c.6.2.3,Proverbs: from Urim,UET 6/2 365,2,sag₉-ga-še₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 365,3,gi-gur ur₅-ra-ŋu₁₀
+c.6.2.3,Proverbs: from Urim,UET 6/2 365,4,nu-mu-na-ab-zig₃-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 365,5,lu₂ niŋ₂-tuku-e mu-un-da-ak-ak
+c.6.2.3,Proverbs: from Urim,UET 6/2 365,6,ŋe₂₆-e mu-na-ab-til-en
+c.6.2.3,Proverbs: from Urim,UET 6/2 365,7,dug₄-ga niŋ₂ bur₂-ra mu-un-na-ab-DU
+c.6.2.3,Proverbs: from Urim,UET 6/2 365,8,a-ga-bi-še₃ ŋeštug₂-ga nu-ub-de₅
+c.6.2.3,Proverbs: from Urim,UET 6/2 365,9,am₃-kur₂-ra a-ra₂-bi nu-zu
+c.6.2.3,Proverbs: from Urim,UET 6/2 368,1,
+c.6.2.3,Proverbs: from Urim,UET 6/2 368,2,ud na-me dumu nam-tag-ga nu-tuku
+c.6.2.3,Proverbs: from Urim,UET 6/2 368,3,ama-ni nu-um-tu-ud
+c.6.2.3,Proverbs: from Urim,UET 6/2 368,4,inim la-ba-sig₁₀ erin₂ nam-tag-ga nu-tuku
+c.6.2.3,Proverbs: from Urim,UET 6/2 368,5,ul-ta nu-ŋal₂-la-am₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 368,6,dib-dib-ba-da ud ba-da-zal
+c.6.2.3,Proverbs: from Urim,UET 6/2 368,7,gud-gu₄-ud-da {d}utu ba-an-da-šer₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 368,8,šul-e gaba dirig-ga
+c.6.2.3,Proverbs: from Urim,UET 6/2 368,9,iti₆ ba-an-da-an-šum₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 251,1,lu₂-ulu₃ diŋir-da nu-me-a
+c.6.2.3,Proverbs: from Urim,UET 6/2 251,2,nu la-ba-gu-le-en nu la-ba-tur-re-en
+c.6.2.3,Proverbs: from Urim,UET 6/2 251,3,id₂-da ed₃-de₃-bi ku₆ nu-dab₅-be₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 251,4,a-šag₄-ga ed₃-de₃-bi maš-da₃ nu-dab₅-be₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 251,5,di gal-gal-e sa₂ nu-ub-be₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 251,6,kaš₄ i₃-ib₂-e sa₂ nu-ub-be₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 251,7,tukum-bi diŋir-ra-a-ni an-na-dug₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 251,8,niŋ₂ mu sa₄-a an-na-ŋar-ŋar
+c.6.2.3,Proverbs: from Urim,UET 6/2 252,1,lu₂-ulu₃ diŋir-da nu-me-a
+c.6.2.3,Proverbs: from Urim,UET 6/2 252,2,u₂ la-ba-gu-le-en u₂ la-ba-tur-en
+c.6.2.3,Proverbs: from Urim,UET 6/2 252,3,id₂-da a-dib₂-be₂ ku₆ nu-um-dab₅
+c.6.2.3,Proverbs: from Urim,UET 6/2 252,4,a-šag₄-ga i₃-dib₂-be₂ maš-da₃ nu-um-dab₅
+c.6.2.3,Proverbs: from Urim,UET 6/2 252,5,di-ir-ga sa₂ nu-ub-du
+c.6.2.3,Proverbs: from Urim,UET 6/2 252,6,di gal-gal-la sa₂ nu-ub-du
+c.6.2.3,Proverbs: from Urim,UET 6/2 252,7,tukum-bi niŋ₂ diŋir-ra-ni a-na-dug₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 252,8,niŋ₂ mu sa₄-a an-na-ŋar-ra-X
+c.6.2.3,Proverbs: from Urim,UET 6/2 371,1,inim ab-ba-še₃ ŋizzal ak-de₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 371,2,ni₂ šu-a gi₄-gi₄-de₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 371,3,dumu ama-ni-ir sun₅-na teŋ₃-ŋe₂₆-dam
+c.6.2.3,Proverbs: from Urim,UET 6/2 371,4,nam-ab-ba šid-de₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 371,5,en-na kug-zu kug ban₃-da-na
+c.6.2.3,Proverbs: from Urim,UET 6/2 371,6,na-ŋa₂-ah a₂-aš₂ sa₂ e₃-de₃-en
+c.6.2.3,Proverbs: from Urim,UET 6/2 371,7,šeš-gal šeš-ban₃-da dugud-de-dam
+c.6.2.3,Proverbs: from Urim,UET 6/2 371,8,nam-lu₂-ulu₃ ak-dam
+c.6.2.3,Proverbs: from Urim,UET 6/2 310,1,ŋeštug₂ kug-zu ŋizzal ka-še₃ nam-lu₂-ulu₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 310,2,šu na-ba-an-du₇-du₇
+c.6.2.3,Proverbs: from Urim,UET 6/2 310,3,ki inim-ma-ke₄ nam-gu₅-li
+c.6.2.3,Proverbs: from Urim,UET 6/2 310,4,nu-erim₂-gin₇ ŋiš
+c.6.2.3,Proverbs: from Urim,UET 6/2 310,5,ki-ma-an-ze-er
+c.6.2.3,Proverbs: from Urim,UET 6/2 310,6,ki diŋir-ra-ke₄
+c.6.2.3,Proverbs: from Urim,UET 6/2 310,7,inim-zu ka-še₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 271,1,
+c.6.2.3,Proverbs: from Urim,UET 6/2 271,2,ni₂-ta-a-ni
+c.6.2.3,Proverbs: from Urim,UET 6/2 271,3,id₂-da nu-mu-un-da-ab-bal-de₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 271,4,lu₂ ma₂-addir
+c.6.2.3,Proverbs: from Urim,UET 6/2 271,5,lu₂ ma₂-addir
+c.6.2.3,Proverbs: from Urim,UET 6/2 271,6,gu₃ im-ma-de₂-de₂-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 328,1,dumu-munus ŋir₂-su{ki}
+c.6.2.3,Proverbs: from Urim,UET 6/2 328,2,ur₂-ra-ni lu₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 328,3,gu-du-ni
+c.6.2.3,Proverbs: from Urim,UET 6/2 328,4,{d}ba-u₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 328,5,kan₄
+c.6.2.3,Proverbs: from Urim,UET 6/2 328,6,saŋ
+c.6.2.3,Proverbs: from Urim,UET 6/3 302,1,
+c.6.2.3,Proverbs: from Urim,UET 6/3 302,2,
+c.6.2.3,Proverbs: from Urim,UET 6/3 302,3,
+c.6.2.3,Proverbs: from Urim,UET 6/3 302,4,
+c.6.2.3,Proverbs: from Urim,UET 6/3 302,5,{lu₂}an-ta
+c.6.2.3,Proverbs: from Urim,UET 6/3 302,6,ki-nu₂-a
+c.6.2.3,Proverbs: from Urim,UET 6/2 238,1,peš₂ ŋiš-ur₃-ra-ŋiš-ur₃-ra mu-šub
+c.6.2.3,Proverbs: from Urim,UET 6/2 238,2,{d}nin-kilim mu-un-na-te
+c.6.2.3,Proverbs: from Urim,UET 6/2 238,3,niŋ₂ na-me-zu ab-hul
+c.6.2.3,Proverbs: from Urim,UET 6/2 238,4,za-e la-ba-an-e-te
+c.6.2.3,Proverbs: from Urim,UET 6/2 238,5,niŋ₂ na-me-zu al-sa₂-en-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 272,1,
+c.6.2.3,Proverbs: from Urim,UET 6/2 272,2,
+c.6.2.3,Proverbs: from Urim,UET 6/2 272,3,ma₂ nu-gid₂-X
+c.6.2.3,Proverbs: from Urim,UET 6/2 272,4,{gi}buniŋ-a-ni
+c.6.2.3,Proverbs: from Urim,UET 6/2 272,5,dug₃-ga-am₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 331,1,zu mu-da-kur₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 331,2,ŋiš-hur-bi ba-da-bal
+c.6.2.3,Proverbs: from Urim,UET 6/2 331,3,me-bi mu-un-la₂-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 331,4,šeš-a šeš-bi igi nu-bar-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 331,5,šul-e a-ra₂-zu šag₄-zu a-na-aš hul ba-dim₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 349,1,kur-gi₄{mušen} na-ab-be₂-a
+c.6.2.3,Proverbs: from Urim,UET 6/2 349,2,nam ₇-e bal-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 349,3,gal-bi tuš-a
+c.6.2.3,Proverbs: from Urim,UET 6/2 349,4,ŋiri₃ dili-ŋu₁₀ ŋi₆ u₃-na-ka
+c.6.2.3,Proverbs: from Urim,UET 6/2 349,5,al-sa₂-en-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 367,1,lu₂ niŋ₂-tuku lu₂ niŋ₂ nu-tuku gig-še₃ im-ŋar
+c.6.2.3,Proverbs: from Urim,UET 6/2 367,2,da-e-ru-a
+c.6.2.3,Proverbs: from Urim,UET 6/2 367,3,su-gu₇ niŋ₂ ud da-ri₂-ka
+c.6.2.3,Proverbs: from Urim,UET 6/2 367,4,da-ri-a
+c.6.2.3,Proverbs: from Urim,UET 6/2 367,5,su-gu₇ niŋ₂ ud da-ri₂-ka
+c.6.2.3,Proverbs: from Urim,UET 6/2 263,1,kug in-tuku {na₄}za-gin₃ in-tuku
+c.6.2.3,Proverbs: from Urim,UET 6/2 263,2,gud in-tuku udu in-tuku
+c.6.2.3,Proverbs: from Urim,UET 6/2 263,3,kan₄ lu₂ še in-tuku
+c.6.2.3,Proverbs: from Urim,UET 6/2 263,4,ud mi-ni-ib-zal-zal-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 296,1,ka nam-lu₂-ulu₃-ka iz-zi-gin₇ dul-bi gig-ga
+c.6.2.3,Proverbs: from Urim,UET 6/2 296,2,lu₂-tur šag₄ iri-za-ke₄ ugu-zu buluŋ₃-ŋa₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 296,3,ka-zu na-ba-an-du₃-du₃-e eme sig nam-ba-an-gu₇-gu₇-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 296,4,šu hul ugu-zu na-ba-an-du₃-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 308,1,peš₂ tur-re ama-ni-ir na-ab-be₂-a
+c.6.2.3,Proverbs: from Urim,UET 6/2 308,2,im-ta-e₃ lu₂ na-me igi nu-mu-du₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 308,3,ama-ni mu-un-na-ni-ib₂-gi₄-gi₄
+c.6.2.3,Proverbs: from Urim,UET 6/2 308,4,igi du₈-zu tum₃-tum₃-mu-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 380,1,ga-am₃-dug₄ a-na-am₃ šu ba-ni-in-ti
+c.6.2.3,Proverbs: from Urim,UET 6/2 380,2,nam-ba-an-dug₄-ga-aš a-na-am₃ ba-ab-dirig
+c.6.2.3,Proverbs: from Urim,UET 6/2 380,3,niŋ₂ ni₂-ŋu₁₀ ba-an-dul-dul
+c.6.2.3,Proverbs: from Urim,UET 6/2 380,4,a-na-am₃ ki-še-er ba-ab-ŋar
+c.6.2.3,Proverbs: from Urim,UET 6/3 378,1,šag₄-zig₃-ga
+c.6.2.3,Proverbs: from Urim,UET 6/3 378,2,eme-gir₁₅-e
+c.6.2.3,Proverbs: from Urim,UET 6/3 378,3,saŋ-ki silaŋ-ŋe₂₆
+c.6.2.3,Proverbs: from Urim,UET 6/3 378,4,igi ba-e-da-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/3 455,1,ud šu₂-am₃
+c.6.2.3,Proverbs: from Urim,UET 6/3 455,2,lu₂ gi-gur-da
+c.6.2.3,Proverbs: from Urim,UET 6/3 455,3,šag₄ gen₆-na
+c.6.2.3,Proverbs: from Urim,UET 6/3 455,4,dili
+c.6.2.3,Proverbs: from Urim,UET 6/2 227,1,ur {ŋeš}kiri₆ dur₂-ra
+c.6.2.3,Proverbs: from Urim,UET 6/2 227,2,ur mu₂-a
+c.6.2.3,Proverbs: from Urim,UET 6/2 227,3,ur gal₅-la₂ an ki
+c.6.2.3,Proverbs: from Urim,UET 6/2 229,1,ur-gir₁₅
+c.6.2.3,Proverbs: from Urim,UET 6/2 229,2,amaš saŋ
+c.6.2.3,Proverbs: from Urim,UET 6/2 229,3,
+c.6.2.3,Proverbs: from Urim,UET 6/2 242,1,ur-bar-ra he₂-gu₇-X
+c.6.2.3,Proverbs: from Urim,UET 6/2 242,2,igi he₂-bi₂-ze₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 242,3,en-na ur tur-re i₃-buluŋ₃-en-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 247,1,u₅-munu₄{mušen}
+c.6.2.3,Proverbs: from Urim,UET 6/2 247,2,munu₄ tilla₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 247,3,i₃-ib₂-buluŋ₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 254,1,kug-zu nam-kug-zu na-an-ak-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 254,2,u₃ ŋe₂₆-e am₃-ma ni₂-bi
+c.6.2.3,Proverbs: from Urim,UET 6/2 254,3,umuš lu₂-ulu₃ ki diŋir-ra-kam
+c.6.2.3,Proverbs: from Urim,UET 6/2 277,1,ga-kiŋ₂-zu-še₃ mu-nu₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 277,2,ga-du₈ ga-du₈-a
+c.6.2.3,Proverbs: from Urim,UET 6/2 277,3,u₃-mu-un {im}šu-rin-na-Xbr ba-an-kur₉
+c.6.2.3,Proverbs: from Urim,UET 6/2 295,1,hu-mu-un-kaš₄-e hu-mu-un-sar-re
+c.6.2.3,Proverbs: from Urim,UET 6/2 295,2,hu-mu-un-er₉ ib₂-il₂-il₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 295,3,bi₂-in-dug₄-ga lu₂ diŋir in-tuku-am₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 299,1,lu₂ diŋir-ra-a-ni nu-mu-un-kal-la
+c.6.2.3,Proverbs: from Urim,UET 6/2 299,2,edin-na mu-un-šub ad₃-bi nu-ŋa₂-ŋa₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 299,3,ibila-a-ni alal-am₃ gidim-ma-a-ni a nu-naŋ
+c.6.2.3,Proverbs: from Urim,UET 6/2 307,1,{urud}tun₃ nagar-ka
+c.6.2.3,Proverbs: from Urim,UET 6/2 307,2,na₄ simug-ka
+c.6.2.3,Proverbs: from Urim,UET 6/2 307,3,šim dug₃-ga lu₂-kurun-na-ka
+c.6.2.3,Proverbs: from Urim,UET 6/2 318,1,i₃-ŋen-ŋen-na-ke₄-eš i₃-kaš₄-kaš₄-na-ke₄-eš
+c.6.2.3,Proverbs: from Urim,UET 6/2 318,2,ba-an-tum₃ ba-an-tum₃ mu-še₃ i-ib₂-la₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 318,3,{lu₂}lil₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 321,1,gi₄-in gi₄-ne
+c.6.2.3,Proverbs: from Urim,UET 6/2 321,2,gi₄ niŋ₂-nam-ma
+c.6.2.3,Proverbs: from Urim,UET 6/2 321,3,e-ne-ne zu
+c.6.2.3,Proverbs: from Urim,UET 6/2 326,1,nam-sag₉-ga in-tu-ud
+c.6.2.3,Proverbs: from Urim,UET 6/2 326,2,nam-tag al-du₈-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 326,3,nam-til₃-la in-tu-ud
+c.6.2.3,Proverbs: from Urim,UET 6/2 338,1,u₃-tud-da
+c.6.2.3,Proverbs: from Urim,UET 6/2 338,2,diŋir-re-e-ne
+c.6.2.3,Proverbs: from Urim,UET 6/2 338,3,gi-izi-la₂ al-tum₂-tum₂-me-eš
+c.6.2.3,Proverbs: from Urim,UET 6/2 381,1,ga-am₃-dug₄ a-na-am₃ šu ba-ni-in-ti
+c.6.2.3,Proverbs: from Urim,UET 6/2 381,2,nam-ba-an-dug₄-ga-aš a-na-am₃ ba-ab-dirig lu
+c.6.2.3,Proverbs: from Urim,UET 6/2 381,3,niŋ₂ ni₂-ŋu₁₀ ba-ab-dul-dul a-na-am₃ ki-še-er ba-ab-ŋar
+c.6.2.3,Proverbs: from Urim,UET 6/3 458,1,mušen hi-li sud-sud
+c.6.2.3,Proverbs: from Urim,UET 6/3 458,2,mušen
+c.6.2.3,Proverbs: from Urim,UET 6/3 458,3,gu₃ de₂-a-bi mušen
+c.6.2.3,Proverbs: from Urim,UET 6/3 463,1,
+c.6.2.3,Proverbs: from Urim,UET 6/3 463,2,
+c.6.2.3,Proverbs: from Urim,UET 6/3 463,3,
+c.6.2.3,Proverbs: from Urim,UET 6/3 p. 84,1,
+c.6.2.3,Proverbs: from Urim,UET 6/3 p. 84,2,us₂-sa-a-bi
+c.6.2.3,Proverbs: from Urim,UET 6/3 p. 84,3,e₂-gal-la-kam
+c.6.2.3,Proverbs: from Urim,UET 6/2 233,1,{anše}kunga₂ ninda₂-zu i₃-zu-de₃-en
+c.6.2.3,Proverbs: from Urim,UET 6/2 233,2,u₃ ama-zu i₃-zu-de₃-en
+c.6.2.3,Proverbs: from Urim,UET 6/2 237,1,muš-e ki-ur₃-bi ŋiri₂ ki-in-dar-bi
+c.6.2.3,Proverbs: from Urim,UET 6/2 237,2,kir₄-e ki-e₃-bi he₂-ni-in-kiŋ₂-kiŋ₂-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 243,1,ur-bar-ra gu₂ a-ba-da-ak-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 243,2,ur-mah-e mi-ni-ib₂-il₂-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 245,1,dar{mušen}-e ba-kur₂-kur₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 245,2,{u₂}numun₂-ta {u₂}numun₂-še₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 246,1,dar{mušen}-e ₅₀-am₃ ib₂-tu-ud
+c.6.2.3,Proverbs: from Urim,UET 6/2 246,2,buru₄{mušen}-e i₃-il₂-il₂ a₂-bi nu-sud-sud-dam
+c.6.2.3,Proverbs: from Urim,UET 6/2 248,1,uga{mušen}-gin₇ niŋ₂ ka-zu-še₃ i₃-šub-ma
+c.6.2.3,Proverbs: from Urim,UET 6/2 248,2,ŋissu-zu-uš igi am₃-bar-bar-re
+c.6.2.3,Proverbs: from Urim,UET 6/2 257,1,lu₂ niŋ₂-gen₆-na zi-bi he₂-u₃-tud
+c.6.2.3,Proverbs: from Urim,UET 6/2 257,2,nam-til₃ he₂-su₃-ud-de₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 258,1,lu₂ niŋ₂-gen₆-na zi-ni al-su₃-ud
+c.6.2.3,Proverbs: from Urim,UET 6/2 258,2,nam-til₃ saŋ rig₇-bi
+c.6.2.3,Proverbs: from Urim,UET 6/2 266,1,kug tuku-e za-gin₃ tuku-e gud tuku-e udu tuku-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 266,2,kan₄ lu₂ še tuku-ka ud mi-ni-ib-zal-zal-e
+c.6.2.3,Proverbs: from Urim,UET 6/2 270,1,ur-gir₁₅ ma₂-addir-še₃ niŋ₂ na-me nu-mu-un-šum₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 270,2,u₃ {ŋeš}ma₂-addir-ra šu am₃-sag₃-sag₃-ge
+c.6.2.3,Proverbs: from Urim,UET 6/2 274,1,dub-sar-tur bar niŋ₂-gig-ga
+c.6.2.3,Proverbs: from Urim,UET 6/2 274,2,{u₂}numun₂ ki-nu₂-ni nu-um-zig₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 276,1,inim du₁₄-da-ka nam-šeš-e mu-un-dim₂-dim₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 276,2,ki inim-ma-ka nam-gu₅-li ba-an-zu-zu
+c.6.2.3,Proverbs: from Urim,UET 6/2 278,1,i₃-ŋen-ŋen-na-ke₄-eš i₃-kaš₄-kaš₄-na-ke₄-eš
+c.6.2.3,Proverbs: from Urim,UET 6/2 278,2,ba-an-tum₂ ba-an-tum₂ mu-ŋu₁₀-še₃ ba-an-dug₄
+c.6.2.3,Proverbs: from Urim,UET 6/2 279,1,ama-a-tud-še₃ su₁₁-lum in-na-mar er₂ ba-an-pad₃
+c.6.2.3,Proverbs: from Urim,UET 6/2 279,2,in-bul-bul šu-na mu-un-ŋal₂ zu₂ ba-an-zalag
+c.6.2.3,Proverbs: from Urim,UET 6/2 280,1,lu₂ {d}inana
+c.6.2.3,Proverbs: from Urim,UET 6/2 280,2,e₂ in-na-du₃-e saŋ saŋ
+c.6.2.3,Proverbs: from Urim,UET 6/2 285,1,peš₂ tur-re lu₂ šu dab₅-ba
+c.6.2.3,Proverbs: from Urim,UET 6/2 285,2,erim₂ al-kar-re-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 286,1,in-nu in-dub₂-ba in ma-an-dug₄
+c.6.2.3,Proverbs: from Urim,UET 6/2 286,2,su-lum nu-mu-un-mar su-lum mar
+c.6.2.3,Proverbs: from Urim,UET 6/2 288,1,en-na kug-zu kug ba-da-an-na-ak
+c.6.2.3,Proverbs: from Urim,UET 6/2 288,2,na-ŋa₂-ah-e a₂-aš₂-bi sa₂ bi₂-in-dug₄-ga
+c.6.2.3,Proverbs: from Urim,UET 6/2 297,1,galam-da us₂-a galam-a mu-ni-in-zu
+c.6.2.3,Proverbs: from Urim,UET 6/2 297,2,kug-zu-ta us₂-a kug-zu mu-ni-in-zu
+c.6.2.3,Proverbs: from Urim,UET 6/2 304,1,ki an ab-dirig a-ba-a šu gul-la
+c.6.2.3,Proverbs: from Urim,UET 6/2 304,2,diŋir-ra na₄-a ŋar-ra
+c.6.2.3,Proverbs: from Urim,UET 6/2 314,1,nir-ŋal₂-e ka diŋir-ra-kam
+c.6.2.3,Proverbs: from Urim,UET 6/2 314,2,ma₂-gur₈ id₂-da {ŋeš}gigir har-ra-an-na mu-na-da-ŋen
+c.6.2.3,Proverbs: from Urim,UET 6/2 316,1,munus-e šag₄ mu-un-na-te
+c.6.2.3,Proverbs: from Urim,UET 6/2 316,2,alan sukud-da u₂-gin₇ bi₂-in-mu₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 319,1,gidim mu-na-an-ug₅-ga
+c.6.2.3,Proverbs: from Urim,UET 6/2 319,2,u₂ li na-ab-tum₃-mu-e-še
+c.6.2.3,Proverbs: from Urim,UET 6/2 323,1,gu₃ lal₃-gin₇
+c.6.2.3,Proverbs: from Urim,UET 6/2 323,2,
+c.6.2.3,Proverbs: from Urim,UET 6/2 327,1,
+c.6.2.3,Proverbs: from Urim,UET 6/2 327,2,niŋ₂ bi₂-in-dug₄-ga silim mu-na-ab-dug₄
+c.6.2.3,Proverbs: from Urim,UET 6/2 385,1,e₂-bar-ra eš-kiŋ₂-zu-gin₇ eg₂-zu-gin₇ pa₅-zu-gin₇
+c.6.2.3,Proverbs: from Urim,UET 6/2 385,2,dub-sar-e a-na-bi-me-en
+c.6.2.3,Proverbs: from Urim,UET 6/3 588,1,
+c.6.2.3,Proverbs: from Urim,UET 6/3 588,2,
+c.6.2.3,Proverbs: from Urim,UET 6/3 p. 84,1,nam-kal-la
+c.6.2.3,Proverbs: from Urim,UET 6/3 p. 84,2,niŋ₂-nam-ŋu₁₀ ba-a-huŋ
+c.6.2.3,Proverbs: from Urim,UET 6/2 226,1,lu₂ teš₂ nu-tuku-tuku hu-ru-um-bi
+c.6.2.3,Proverbs: from Urim,UET 6/2 235,1,anše šag₄ dirig-ke₄ in-nu-da gu₂-ni am₃-ši-la₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 249,1,uga{mušen}-gin₇ munu₄ gu-la-še₃ igi-zu am₃-da-ŋal₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 253,1,lu₂-ulu₃ diŋir-da nu-me-a a₂-tuku i-bi₂-za la-ba-ši-ŋal₂
+c.6.2.3,Proverbs: from Urim,UET 6/2 256,1,lu₂ niŋ₂-gen₆-na he₂-šub-ba zig₃-ga-bi a-ab-gu-ul
+c.6.2.3,Proverbs: from Urim,UET 6/2 298,1,ha-la ha-la-še₃ ŋa₂-ŋa₂ niŋ₂-gig {d}utu-kam
+c.6.2.3,Proverbs: from Urim,UET 6/2 312,1,hul-ba gi₄-gi₄ ŋiškim zid an-na

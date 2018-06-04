@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+c.3.1.13.1,Letter from Šulgi (?) to Aradŋu about troops,,1,{m}arad-ŋu₁₀-X
+c.3.1.13.1,Letter from Šulgi (?) to Aradŋu about troops,,2,{d}šul-gi
+c.3.1.13.1,Letter from Šulgi (?) to Aradŋu about troops,,3,
+c.3.1.13.1,Letter from Šulgi (?) to Aradŋu about troops,,4,lu₂
+c.3.1.13.1,Letter from Šulgi (?) to Aradŋu about troops,,5,inim-zu-še₃
+c.3.1.13.1,Letter from Šulgi (?) to Aradŋu about troops,,6,erin₂-bi-še₃
+c.3.1.13.1,Letter from Šulgi (?) to Aradŋu about troops,,7,
+c.3.1.13.1,Letter from Šulgi (?) to Aradŋu about troops,,8,erin₂-bi

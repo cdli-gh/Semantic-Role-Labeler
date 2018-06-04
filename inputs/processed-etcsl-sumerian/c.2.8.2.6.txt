@@ -1,0 +1,21 @@
+id_text,text_name,version,l_no,text
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,1,nin me mah šu du₇-a nam-a-ni gal-bi saŋ
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,2,{d}inana nam-ŋuruš an ki-a an-ne₂
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,3,saŋ-kal diŋir-re-e-ne pa e₃ nam-a-ni
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,4,{d}inana an {d}en-lil₂ e-ne-da nu ka-aš kalam-ma nu-bar
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,5,saŋ-kug-ŋal₂ {d}a-nun-na-ke₄-ne nam-gur₄
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,6,{d}inana u₃-sumun₂ zid nun-gal-e-ne nir-ŋal₂ nin-e-ne
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,7,nam-mah-zu an ki-še₃ dalla e₃-a me-zu me
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,8,ka ba-zu dug₄ an-na an mu-sa₄
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,9,nam-diŋir-zu gu₂-en-na zag dib-ba a-ra₂ gal-gal
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,10,an-da uraš-a gi ba-an-šum₂-mu-un {d}en-lil₂
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,11,zi-ŋal₂-ba nam-nin-bi mu-un-ak barag
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,12,ŋarza₂ mah a₂ aŋ₂-ŋa₂ eš₃ abzu-a
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,13,lugal za-da nu nam-sipad kalam-ma-še₃
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,14,an {d}en-lil₂ dug₄-ga-zu-ta lugal-ra igi
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,15,dug₄-ga-za an ki nin
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,16,nam mi-ni-ib₂-tar-ra-zu an {d}en-lil₂
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,17,ha-am-mu-ra-bi lugal
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,18,ub-ta ₄-ba a₂ aŋ₂-ŋa₂-e
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,19,ud ma-dam mu he₂-ŋal₂-la til₃
+c.2.8.2.6,A prayer to Inana for Hammu-rābi (Hammu-rābi F),,20,ha-am-mu-ra-bi

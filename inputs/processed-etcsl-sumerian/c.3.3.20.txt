@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+c.3.3.20,Letter from Gudea to his personal deity,,1,diŋir-ŋa₂ u₃-na-dug₄
+c.3.3.20,Letter from Gudea to his personal deity,,2,{m}gu₃-de₂-a arad-zu na-ab-be₂-a
+c.3.3.20,Letter from Gudea to his personal deity,,3,udu-gin₇ sipad gen₆-na nu-tuku
+c.3.3.20,Letter from Gudea to his personal deity,,4,na-gada gen₆-na nu-mu-un-tum₂-tum₂-mu
+c.3.3.20,Letter from Gudea to his personal deity,,5,dam-gara₃ saŋ du₃-du₃ nu-zu bal-še₃ mu-X-ak
+c.3.3.20,Letter from Gudea to his personal deity,,6,anše-gin₇ {kuš}usan₃ hul-ŋal₂-la hul-ŋal₂-la
+c.3.3.20,Letter from Gudea to his personal deity,,7,saŋ i₃-tuku inim nu-um-me igi tuku igi
+c.3.3.20,Letter from Gudea to his personal deity,,8,niŋ₂ ak-a-ŋu₁₀ igi a-ra₂ ₇-e nu-un-DU
+c.3.3.20,Letter from Gudea to his personal deity,,9,zag-ba a-ra₂ ₇-e nu-mu-un-da-pad₃-X-X
+c.3.3.20,Letter from Gudea to his personal deity,,10,diŋir-ŋu₁₀ lu₂ kur₂ di nu-me-en šag₄-zu ki-bi ha-ma-ab-gi₄-gi₄

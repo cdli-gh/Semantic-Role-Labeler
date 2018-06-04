@@ -1,0 +1,29 @@
+id_text,text_name,version,l_no,text
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,A1,
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,A2,he₂-a
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,A3,gub-ba
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,A4,X-in-e₃
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,A5,X-ra-sub₂-be₂-eš
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,B1,
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,B2,an-šar₂-ra ki-šar₂-ra
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,B3,{d}aš-im₂-babbar mi-ni-ib-gal
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,B4,nir-ŋal₂ ušum dili diŋir pa e₃
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,B5,gu₂ me-er-me-re en iti₆
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,B6,{d}gu-un-gu-nu-um šul za-še₃ ŋal₂
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,B7,en u₃-sumun₂ zid dumu-saŋ {d}en-lil₂-la₂
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,B8,šul {d}suen šudu₃-de₃ ŋiš tuku
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,B9,nun gu-un-gu-nu-um bal ba-sud
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,B10,lugal-ŋu₁₀ an-na gub-ba-ni hi-li
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,B11,šul {d}suen an-na gub-ba-ni hi-li
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,B12,dumu ka silim-ma {d}nu-nam-nir-ra
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,C1,šu-luh kug-zu ŋarza
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,C2,ud-sakar itid gen₆-ne₂
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,C3,{d}suen su₃-ra₂-aŋ₂
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,C4,an sikil-la hi-li
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,C5,kalam-ma
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,C6,
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,D1,
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,D2,
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,D3,
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,D6,
+c.2.6.2.a,A hymn to Nanna for Gungunum (Gungunum B),,D7,

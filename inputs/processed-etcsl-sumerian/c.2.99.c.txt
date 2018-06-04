@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+c.2.99.c,A fragment of a royal praise poem,,1,
+c.2.99.c,A fragment of a royal praise poem,,2,hur-saŋ gal-gin₇
+c.2.99.c,A fragment of a royal praise poem,,3,{d}gilgameš₂ ŋissu-ba ni₂ X-te-en
+c.2.99.c,A fragment of a royal praise poem,,4,kur šuba₂ amaš giri₁₇-zal
+c.2.99.c,A fragment of a royal praise poem,,5,ki-tuš nu-gig
+c.2.99.c,A fragment of a royal praise poem,,6,kisal ba-ra-ra
+c.2.99.c,A fragment of a royal praise poem,,7,keše₂ he₂-ŋal₂ ki šu
+c.2.99.c,A fragment of a royal praise poem,,8,kur

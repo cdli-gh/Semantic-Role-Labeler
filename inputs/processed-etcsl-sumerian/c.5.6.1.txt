@@ -1,0 +1,287 @@
+id_text,text_name,version,l_no,text
+c.5.6.1,The instructions of Šuruppag,,1,ud re-a ud su₃-ra₂ re-a
+c.5.6.1,The instructions of Šuruppag,,2,ŋi₆ re-a ŋi₆ ba₉-ra₂ re-a
+c.5.6.1,The instructions of Šuruppag,,3,mu re-a mu su₃-ra₂ re-a
+c.5.6.1,The instructions of Šuruppag,,4,ud-ba ŋeštug₂ tuku inim galam inim zu-a kalam-ma til₃-la-a
+c.5.6.1,The instructions of Šuruppag,,5,šuruppag{ki} ŋeštug₂ tuku inim galam inim zu-a kalam-ma til₃-la-a
+c.5.6.1,The instructions of Šuruppag,,6,šuruppag{ki}-e dumu-ni-ra na na-mu-un-de₅-de₅
+c.5.6.1,The instructions of Šuruppag,,7,šuruppag{ki} dumu ubara-tu-tu-ke₄
+c.5.6.1,The instructions of Šuruppag,,8,zi-ud-su₃-ra₂ dumu-ni-ra na na-mu-un-de₅-de₅
+c.5.6.1,The instructions of Šuruppag,,9,dumu-ŋu₁₀ na ga-de₅ na de₅-ŋu₁₀ he₂-dab₅
+c.5.6.1,The instructions of Šuruppag,,10,zi-ud-su₃-ra₂ inim ga-ra-ab-dug₄ ŋizzal he₂-em-ši-ak
+c.5.6.1,The instructions of Šuruppag,,11,na de₅-ga-ŋu₁₀ šu nam-bi₂-bar-re
+c.5.6.1,The instructions of Šuruppag,,12,inim dug₄-ga-ŋu₁₀ na-ab-ta-bal-e-de₃
+c.5.6.1,The instructions of Šuruppag,,13,na de₅ ab-ba niŋ₂ kal-la-am₃ gu₂-zu he₂-em-ši-ŋal₂
+c.5.6.1,The instructions of Šuruppag,,14,dur₃ gu₃ di na-ab-sa₁₀-sa₁₀ murub₄-zu ša-ra-ab-si-il
+c.5.6.1,The instructions of Šuruppag,,15,gana₂ kaskal-la nam-bi₂-ib₂-ŋa₂-ŋa₂ nam-silig gu₂-ŋa₂-am₃
+c.5.6.1,The instructions of Šuruppag,,16,a-šag₄ kaskal ka-ŋiri₃-ka nam-ba-e-ur₁₁-ru zi bulug-ga-am₃
+c.5.6.1,The instructions of Šuruppag,,17,gana₂-zu-am₃ pu₂ na-an-ni-du₃-e-en uŋ₃-e ša-ri-ib-hul-hul
+c.5.6.1,The instructions of Šuruppag,,18,e₂ sila daŋal nam-bi₂-ib-la₂-e keše₂-da ŋal₂-la-am₃
+c.5.6.1,The instructions of Šuruppag,,19,šu du₈-a nu-e-tum₃ lu₂-bi ša-ba-e-dab₅-be₂
+c.5.6.1,The instructions of Šuruppag,,20,za-e šu du₈-a nam-mu-e-ak-e lu₂ saŋ bi₂-ib₂-sal-la-e-a
+c.5.6.1,The instructions of Šuruppag,,21,lu₂-ra igi du₈ na-an-ak-e uru₂-bi ša-ri-ib-su-su
+c.5.6.1,The instructions of Šuruppag,,22,ki du₁₄-da-ka nam-bi₂-du-X-de₃
+c.5.6.1,The instructions of Šuruppag,,23,du₁₄-de₃ lu₂-ki-inim-ma nam-ba-e-ku₄-ku₄
+c.5.6.1,The instructions of Šuruppag,,24,du₁₄-de₃ ni₂-zu
+c.5.6.1,The instructions of Šuruppag,,25,du₁₄ nam-ak-de₃-en
+c.5.6.1,The instructions of Šuruppag,,26,kan₄ e₂-gal-la ba-ra-sig₉-ga
+c.5.6.1,The instructions of Šuruppag,,27,du₁₄-de₃ bar-bar-ta gub-gub-ba in-nu-uš sila kur₂-ra nam-ma-ni-ib-du
+c.5.6.1,The instructions of Šuruppag,,28,niŋ₂ nam-mu-zuh-zuh ni₂-zu nam-mu-BAD-e
+c.5.6.1,The instructions of Šuruppag,,29,e₂ na-a-an-ni-buru₃-e-en mi-si-IŠ-ra al nam-me
+c.5.6.1,The instructions of Šuruppag,,30,ni₂-zu piriŋ na-nam ul-dab₅ saŋ na-nam
+c.5.6.1,The instructions of Šuruppag,,31,dumu-ŋu₁₀ sa gaz nam-mu-u₃-ak-e ni₂-zu tun₃-am₃ nam-bi₂-ib-bar-re-e
+c.5.6.1,The instructions of Šuruppag,,32,nitah niŋir-si na-an-ak ni₂-zu
+c.5.6.1,The instructions of Šuruppag,,33,ki-sikil dam tuku-da e-ne nam-mu-un-ne-e inim sig-ga mah-am₃
+c.5.6.1,The instructions of Šuruppag,,34,dumu-ŋu₁₀ dagan-na lu₂ dam tuku-da dur₂ nam-bi₂-e-ŋa₂-ŋa₂
+c.5.6.1,The instructions of Šuruppag,,35,du₁₄ nam-mu₂-mu₂-de₃ ni₂-zu na-an-pe-el-la₂
+c.5.6.1,The instructions of Šuruppag,,36,lul nam-guru₅-guru₅ saŋ gu₂ sal-sal-la
+c.5.6.1,The instructions of Šuruppag,,37,ka nam-tar-tar-re-e-en inim-zu ŋar-ra-am₃
+c.5.6.1,The instructions of Šuruppag,,38,ad nam-gi₄-gi₄ igi dugud nu-mu-un-da-il₂
+c.5.6.1,The instructions of Šuruppag,,39,lu₂-da ninda zuh-a nam-mu-da-gu₇-e
+c.5.6.1,The instructions of Šuruppag,,40,šu-zu uš₂-am₃ na-di-ni-ib-su-su
+c.5.6.1,The instructions of Šuruppag,,41,ŋiri₃ hur-re gud ša-ba-ri-ib-su-su udu ša-ba-ri-ib-su-su
+c.5.6.1,The instructions of Šuruppag,,42,u₃-nu-ŋar-ra na-ab-be₂-e
+c.5.6.1,The instructions of Šuruppag,,43,eŋer-bi-še₃ ŋiš-par₃-gin₇ ši-me-ši-ib₂-la₂-e
+c.5.6.1,The instructions of Šuruppag,,44,u₂ nu-kiŋ₂-ŋa₂-še₃ udu-zu sag₂ nam-me
+c.5.6.1,The instructions of Šuruppag,,45,uš nu-sig₁₀-ga-še₃ gud lu₂ na-huŋ-e
+c.5.6.1,The instructions of Šuruppag,,46,uš sig₁₀-ga kaskal sig₁₀-ga-am₃
+c.5.6.1,The instructions of Šuruppag,,47,kaskal ŋi₆ na-an-du šag₄-bi sag₉ hul-a
+c.5.6.1,The instructions of Šuruppag,,48,anše edin-na na-ab-sa₁₀-sa₁₀ ud-da-be₂-eš X-e-zal
+c.5.6.1,The instructions of Šuruppag,,49,geme₂-zu-ur₂ ŋiš₃ na-an-du₃ zu ur₂ šu-mu-ri-in-sa₄
+c.5.6.1,The instructions of Šuruppag,,50,aš₂ a₂ zig₃ na-ab-bal-e šu-uš im-ši-ni₁₀-ni₁₀
+c.5.6.1,The instructions of Šuruppag,,51,a šu nu-gid₂-i na-an-ed₃-de₃ a₂ sig šu-mu-e-ra-ŋal₂
+c.5.6.1,The instructions of Šuruppag,,52,mah-bi niŋ₂ gid₂-i ba-an-šub-be₂ niŋ₂-e ba-an-šub-be₂
+c.5.6.1,The instructions of Šuruppag,,53,ur₅ tuku na-an-bad-e lu₂-bi ša-ba-e-X-X-kur₂
+c.5.6.1,The instructions of Šuruppag,,54,sun₇-na-da e₂ na-an-da-ŋa₂-ŋa₂-an
+c.5.6.1,The instructions of Šuruppag,,55,gi₄-in-še₃ du-de₃ ši-me-ši-ib-šub-šub
+c.5.6.1,The instructions of Šuruppag,,56,ki-tuš lu₂-ka na-ab-ta-bal-e-de₃
+c.5.6.1,The instructions of Šuruppag,,57,ši-du-un ši-du-un ši-me-ši-ib₂-be₂-e-ne
+c.5.6.1,The instructions of Šuruppag,,58,gi-sig-ga {ŋeš}kiri₆-ka da-ga nam-bi₂-du₈-e-en
+c.5.6.1,The instructions of Šuruppag,,59,sug₆-ga-ab sug₆-ga-ab ši-me-ši-ib₂-be₂-ne
+c.5.6.1,The instructions of Šuruppag,,60,ur nam-mu-un-gu₇-en du₁₄ nam-ur₃-ur₃-re-en
+c.5.6.1,The instructions of Šuruppag,,61,dumu-ŋu₁₀ nam-silig nam-mu-ak-en lu₂ ki nam-us₂-e-en
+c.5.6.1,The instructions of Šuruppag,,62,dumu lu₂-ra ŋiš₃ a₂ zig₃ na-an-ne-en kisal-e bi₂-zu-zu
+c.5.6.1,The instructions of Šuruppag,,63,a₂-tuku na-an-bad-e-en bad₃-šul-hi na-an-gul-e-en
+c.5.6.1,The instructions of Šuruppag,,64,ŋuruš na-an-bad-e-en iri-še₃ na-an-gur-re-en
+c.5.6.1,The instructions of Šuruppag,,65,lu₂ inim sig-ga-ke₄ igi {ŋeš}bal-gin₇ ši-NU-NU
+c.5.6.1,The instructions of Šuruppag,,66,igi-a nam-ba-e-gub-gub-bu-de₃-en šag₄-ge na-mu-un-kur₂-kur₂
+c.5.6.1,The instructions of Šuruppag,,67,lu₂-lul-la-gin₇ e₂ kaš-ka ka nam-tar-tar-re inim-zu ŋar-ra-am₃
+c.5.6.1,The instructions of Šuruppag,,68,ki nam-nitah-ka um-me-te šu na-an-gud-gud-de₃
+c.5.6.1,The instructions of Šuruppag,,69,ur-saŋ dili na-nam dili-ni lu₂ šar₂-ra-am₃
+c.5.6.1,The instructions of Šuruppag,,70,{d}utu dili na-nam dili-ni lu₂ šar₂-ra-am₃
+c.5.6.1,The instructions of Šuruppag,,71,ur-saŋ-da gub-bu-de₃ zi-zu he₂-en-da-ŋal₂
+c.5.6.1,The instructions of Šuruppag,,72,{d}utu-da gub-bu-de₃ zi-zu he₂-en-da-ŋal₂
+c.5.6.1,The instructions of Šuruppag,,73,šuruppag{ki}-e dumu-ni-ra na še₃-mu-un-ni-in-de₅
+c.5.6.1,The instructions of Šuruppag,,74,šuruppag{ki} dumu ubara-tu-tu-ke₄
+c.5.6.1,The instructions of Šuruppag,,75,zi-ud-su₃-ra₂ dumu-ni-ra na še₃-mu-un-ni-in-de₅
+c.5.6.1,The instructions of Šuruppag,,76,₂-kam-ma-še₃ šuruppag{ki}-e dumu-ni-ra na na-mu-un-de₅-de₅
+c.5.6.1,The instructions of Šuruppag,,77,šuruppag{ki} dumu ubara-tu-tu-ke₄
+c.5.6.1,The instructions of Šuruppag,,78,zi-ud-su₃-ra₂ dumu-ni-ra na na-mu-un-de₅-de₅
+c.5.6.1,The instructions of Šuruppag,,79,dumu-ŋu₁₀ na ga-de₅ na de₅-ŋu₁₀ he₂-dab₅
+c.5.6.1,The instructions of Šuruppag,,80,zi-ud-su₃-ra₂ inim ga-ra-ab-dug₄ ŋizzal he₂-em-ši-ak
+c.5.6.1,The instructions of Šuruppag,,81,na de₅-ga-ŋu₁₀ šu nam-bi₂-bar-re-en
+c.5.6.1,The instructions of Šuruppag,,82,inim dug₄-ga-ŋa₂ na-ab-ta-bal-e-de₃-en
+c.5.6.1,The instructions of Šuruppag,,82A,na de₅ ab-ba niŋ₂ kal-la-am₃ gu₂-zu he₂-em-ši-ŋal₂
+c.5.6.1,The instructions of Šuruppag,,83,ka kaš naŋ-a
+c.5.6.1,The instructions of Šuruppag,,84,lu₂-tur-ŋu₁₀ lu₂
+c.5.6.1,The instructions of Šuruppag,,85,ka kaš naŋ-a
+c.5.6.1,The instructions of Šuruppag,,86,{d}nin-ka-si
+c.5.6.1,The instructions of Šuruppag,,87,
+c.5.6.1,The instructions of Šuruppag,,88,X-ur₃-ur₃-re
+c.5.6.1,The instructions of Šuruppag,,89,a mu-un-ni-ib₂-il₂-il₂
+c.5.6.1,The instructions of Šuruppag,,90,im-sar-re
+c.5.6.1,The instructions of Šuruppag,,91,saŋ im-ta-ab-gur₄-gur₄-re
+c.5.6.1,The instructions of Šuruppag,,92,lu₂ ni₂-za-ke₄ nu-e-ši-su-su
+c.5.6.1,The instructions of Šuruppag,,93,ŋiš-gi maš₂ u₂ na-nam šag₄-bi inim sig-ga-am₃
+c.5.6.1,The instructions of Šuruppag,,94,e₂-gal id₂ mah-am₃ šag₄-bi gud du₇-du₇-dam
+c.5.6.1,The instructions of Šuruppag,,95,niŋ₂ ku₄-ku₄ niŋ₂ sa₂ nu-di-dam
+c.5.6.1,The instructions of Šuruppag,,96,niŋ₂ e₃ niŋ₂ nu-silig-ge-dam
+c.5.6.1,The instructions of Šuruppag,,97,ninda lu₂-ka ga-ra-ab-šum₂-bi ku-nu-a
+c.5.6.1,The instructions of Šuruppag,,98,šum₂-mu-da-bi an ba₉-ra₂-am₃
+c.5.6.1,The instructions of Šuruppag,,99,ga-ra-ab-šum₂-bi lu₂-ra ga-ni-in-us₂
+c.5.6.1,The instructions of Šuruppag,,100,nu-ra-ab-šum₂-mu ninda igi-bi-še₃ til-la-am₃
+c.5.6.1,The instructions of Šuruppag,,101,niŋ₂-u₂-rum niŋ₂ a₂ sig₁₀-ga-a-da
+c.5.6.1,The instructions of Šuruppag,,102,lu₂-tur-ŋu₁₀ niŋ₂ nu-mu-un-da-sa₂
+c.5.6.1,The instructions of Šuruppag,,103,ka sag₉-sag₉-ge inim i₃-šid-e
+c.5.6.1,The instructions of Šuruppag,,104,ka du₃-du₃-e kišib i₃-il₂-il₂
+c.5.6.1,The instructions of Šuruppag,,105,ka lal₃-e u₂-lal₃ e-bur₁₂-re
+c.5.6.1,The instructions of Šuruppag,,106,ka tuku {kuš}lu-ub₂-a-ni sa₂ im-dug₄
+c.5.6.1,The instructions of Šuruppag,,107,gal-gal di {kuš}lu-ub₂ sug₄-ga ša-mu-un-de₆
+c.5.6.1,The instructions of Šuruppag,,108,silim dug₄ ka sug₄-ga ša-ba-ni-ib-ŋar
+c.5.6.1,The instructions of Šuruppag,,109,kuš du₃-du₃-e kuš-ni še₃-ba-e-du₃-e
+c.5.6.1,The instructions of Šuruppag,,110,usu-tuku šu lu₂-ta ša-ba-ra-an-tum₃
+c.5.6.1,The instructions of Šuruppag,,111,{lu₂}lil-e niŋ₂ u₂-gu i₃-ib-de₂-e
+c.5.6.1,The instructions of Šuruppag,,112,u₃-sa₂ {lu₂}lil-e niŋ₂ u₂-gu i₃-de₂-e
+c.5.6.1,The instructions of Šuruppag,,113,na-an-keše₂-keše₂-re-de₃ giri₁₇ šu am₃-mi-in-ŋal₂
+c.5.6.1,The instructions of Šuruppag,,114,ga-til₃-la giri₁₇ šu am₃-mi-in-ŋal₂
+c.5.6.1,The instructions of Šuruppag,,115,saŋ-du nu-tuku nam ši-ib-tar-re
+c.5.6.1,The instructions of Šuruppag,,116,teš₂ nu-tuku lu₂ ur₂-še₃ mu-un-de₂-e
+c.5.6.1,The instructions of Šuruppag,,117,ŋe₂₆-e na-nam u₆-e ba-gub
+c.5.6.1,The instructions of Šuruppag,,118,dam dim₃-e nam tar-re ba-dab₅-dab₅
+c.5.6.1,The instructions of Šuruppag,,119,lu₂ huŋ-ŋa₂-zu {kuš}lu-ub₂ ši-me-da-ba-e
+c.5.6.1,The instructions of Šuruppag,,120,{kuš}lu-ub₂ ši-ma-da-gu₇-e
+c.5.6.1,The instructions of Šuruppag,,121,{kuš}lu-ub₂ ši-me-da-til-e
+c.5.6.1,The instructions of Šuruppag,,122,ŋa₂-la ši-me-da-dag-ge
+c.5.6.1,The instructions of Šuruppag,,123,ga-ba-ra-gu₇ e₂-gal-la ba-gub
+c.5.6.1,The instructions of Šuruppag,,124,dumu-nitah-zu e₂-zu-še₃ im-me
+c.5.6.1,The instructions of Šuruppag,,125,dumu-munus-zu ama₅-ni-še₃ im-me
+c.5.6.1,The instructions of Šuruppag,,126,kaš naŋ-a-zu-ne di na-an-ne-e
+c.5.6.1,The instructions of Šuruppag,,127,e₂-ta e₃ šag₄-zu na-an-gu₇-e
+c.5.6.1,The instructions of Šuruppag,,128,an su₃-ud-dam ki kal-kal-la-am₃
+c.5.6.1,The instructions of Šuruppag,,129,an-da niŋ₂ im-da-lu-lu-un
+c.5.6.1,The instructions of Šuruppag,,130,kur-kur-re zi ši-im-da-pa-an-pa
+c.5.6.1,The instructions of Šuruppag,,131,ud buru₁₄-še₃ ud kal-kal-la-še₃
+c.5.6.1,The instructions of Šuruppag,,132,geme₂-gin₇ de₅-ga-ab egir₂-gin₇ gu₇-a
+c.5.6.1,The instructions of Šuruppag,,133,dumu-ŋu₁₀ geme₂-gin₇ ri egir₂-gin₇ gu₇-a ur₅ he₂-en-na-nam-ma-am₃
+c.5.6.1,The instructions of Šuruppag,,134,aš₂ dug₄-dug₄-ge bar ši-in-dar
+c.5.6.1,The instructions of Šuruppag,,135,igi-tum₃ la₂ saŋ ŋiš im-ra-ra
+c.5.6.1,The instructions of Šuruppag,,136,gu₃ mur-re lu₂-lul-e tug₂ ši-bir₇-bir₇-e
+c.5.6.1,The instructions of Šuruppag,,137,aš₂ di niŋ₂-erim₂-e na de₅ še₃-il₂-il₂
+c.5.6.1,The instructions of Šuruppag,,138,inim dirig u₃-bu-bu-ul-la-am₃ u₂ lipiš gig-ga-am₃
+c.5.6.1,The instructions of Šuruppag,,139,dar-dar-da ga-mu-e-da-zalag-ge
+c.5.6.1,The instructions of Šuruppag,,140,inim šudu₃-de₃-ŋu₁₀ he₂-ŋal₂-la-am₃
+c.5.6.1,The instructions of Šuruppag,,141,a-ra-zu a sedₓ-da šag₄-ge im-sedₓ-e
+c.5.6.1,The instructions of Šuruppag,,142,aš₂ di na-ŋa₂-ah di-da ŋizzal kalam-ma-ke₄
+c.5.6.1,The instructions of Šuruppag,,143,šuruppag{ki}-e dumu-ni-ra na še₃-mu-ni-in-de₅
+c.5.6.1,The instructions of Šuruppag,,144,šuruppag{ki} dumu ubara-tu-tu-ke₄
+c.5.6.1,The instructions of Šuruppag,,145,zi-ud-su₃-ra₂ dumu-ni-ra na še-mu-ni-in-de₅
+c.5.6.1,The instructions of Šuruppag,,146,₃-kam-ma-še₃ šuruppag{ki} dumu-ni-ra na na-mu-un-de₅-de₅
+c.5.6.1,The instructions of Šuruppag,,147,šuruppag{ki} dumu ubara-tu-tu-ke₄
+c.5.6.1,The instructions of Šuruppag,,148,zi-ud-su₃-ra na še₃-mu-ni-in-de₅
+c.5.6.1,The instructions of Šuruppag,,149,dumu-ŋu₁₀ na ga-de₅ na de₅-ŋu₁₀ he₂-dab₅
+c.5.6.1,The instructions of Šuruppag,,150,zi-ud-su₃-ra₂ inim ga-ra-ab-dug₄ ŋizzal he₂-em-ši-ak
+c.5.6.1,The instructions of Šuruppag,,151,na de₅-ga-ŋu₁₀ nam-bi₂-bar-re
+c.5.6.1,The instructions of Šuruppag,,152,inim dug₄-ga-ŋu₁₀ na-ab-ta-bal-e-de₃
+c.5.6.1,The instructions of Šuruppag,,152A,na de₅ ab-ba niŋ₂ kal-la-am₃ gu₂-zu he₂-em-ši-ak
+c.5.6.1,The instructions of Šuruppag,,153,dumu engar-ra-ra niŋ₂ nam-mu-ra-ra-an eg₂ pa₅-zu še₃-em-ra
+c.5.6.1,The instructions of Šuruppag,,154,kar-ke₄ na-an-sa₁₀-sa₁₀-an ka u₄-sar-ra-kam
+c.5.6.1,The instructions of Šuruppag,,155,ama-a-tud na-an-sa₁₀-sa₁₀-an u₂ lipiš gig-ga-am₃
+c.5.6.1,The instructions of Šuruppag,,156,dumu-gir₁₅ na-an-sa₁₀-sa₁₀-an zag e₂-ŋar₈-e us₂-sa-am₃
+c.5.6.1,The instructions of Šuruppag,,157,geme₂ e₂-gal-la na-an-sa₁₀-sa₁₀-an ŋiri₃ dur₂-bi-še₃ e₂ ŋal₂-ŋal₂-la-am₃
+c.5.6.1,The instructions of Šuruppag,,158,saŋ kur-ra kur-bi-ta um-ta-a-ed₃
+c.5.6.1,The instructions of Šuruppag,,159,lu₂ ki nu-zu-a-ni-ta u₃-mu-e-de₆
+c.5.6.1,The instructions of Šuruppag,,160,dumu-ŋu₁₀ ki {d}utu e₃-a-aš
+c.5.6.1,The instructions of Šuruppag,,161,a hu-mu-ra-an-de₂-e igi-zu-še₃ he₂-du
+c.5.6.1,The instructions of Šuruppag,,162,e₂ nu-tuku e₂-a-ni-še₃ la-ba-du
+c.5.6.1,The instructions of Šuruppag,,163,iri nu-tuku iri-ni-še₃ la-ba-du
+c.5.6.1,The instructions of Šuruppag,,163A,{ŋeš}ig šu la-ba-an-da-us₂-sa
+c.5.6.1,The instructions of Šuruppag,,163B,la-ba-an-da-ku₄-ku₄
+c.5.6.1,The instructions of Šuruppag,,164,la-ba-e-da-hi-li-e la-ba-e-da-sun₇-e
+c.5.6.1,The instructions of Šuruppag,,165,dumu-ŋu₁₀ ki {d}utu e₃-a-aš
+c.5.6.1,The instructions of Šuruppag,,166,dili-zu-ne kaskal na-an-ni-du-un
+c.5.6.1,The instructions of Šuruppag,,167,lu₂ zu-a-zu saŋ šu ba-ra-ak-ke₄
+c.5.6.1,The instructions of Šuruppag,,168,mu mu-a sig₁₀-ga saŋ-du lu₂-u₃-ra
+c.5.6.1,The instructions of Šuruppag,,169,kur-ra kur na-an-na-dub-be₂
+c.5.6.1,The instructions of Šuruppag,,170,nam-tar peš₁₀ dur₅-ra-am₃
+c.5.6.1,The instructions of Šuruppag,,171,lu₂-da ŋiri₃-ni im-ma-da-an-ze₂-er
+c.5.6.1,The instructions of Šuruppag,,172,šeš-gal a-a na-nam nin₉ gal ama na-nam
+c.5.6.1,The instructions of Šuruppag,,173,šeš-gal-zu-ur₂ ŋizzal he₂-em-ši-ak
+c.5.6.1,The instructions of Šuruppag,,174,nin₉ gal ama-zu-gin₇ gu₂ he₂-em-ši-ŋal₂
+c.5.6.1,The instructions of Šuruppag,,175,za-e igi-zu-ta kiŋ₂ na-an-ak-e
+c.5.6.1,The instructions of Šuruppag,,176,ka-zu-ta niŋ₂-nam nu-lu-lu-un
+c.5.6.1,The instructions of Šuruppag,,177,ŋa₂-la dag-ge e₂ dur₂-bi-še₃ mu-un-ŋen
+c.5.6.1,The instructions of Šuruppag,,178,ninda-e lu₂ kur-ra bi₂-in-ed₃-de₃
+c.5.6.1,The instructions of Šuruppag,,179,lu₂-lul lu₂ bar-ra bi₂-in-tum₂-mu
+c.5.6.1,The instructions of Šuruppag,,180,ninda-e lu₂ kur-ta im-ma-da-ra-an-ed₃-de₃
+c.5.6.1,The instructions of Šuruppag,,181,uru₂ tur-re lugal-bi-ir amar ši-in-ga-an-u₃-tud
+c.5.6.1,The instructions of Šuruppag,,182,uru₂ mah-e e₂ du₃-a ši-hur-re
+c.5.6.1,The instructions of Šuruppag,,183,a₂ šu im-du₇-du₇
+c.5.6.1,The instructions of Šuruppag,,184,lu₂ niŋ₂-tuku lu₂ niŋ₂ nu-tuku gig še₃-em-ŋar
+c.5.6.1,The instructions of Šuruppag,,185,lu₂ dam tuku a₂ šu im-du₇-du₇
+c.5.6.1,The instructions of Šuruppag,,186,dam nu-un-tuku še-er-tab-ba mu-un-nu₂
+c.5.6.1,The instructions of Šuruppag,,187,e₂ gul-gul-lu-de₃ e₂ ša-ba-da-an-gul-e
+c.5.6.1,The instructions of Šuruppag,,188,lu₂ zi-zi-i-de₃ lu₂ ša-ba-da-an-zi-zi-i
+c.5.6.1,The instructions of Šuruppag,,189,gud mah-a gu₂-bi lu₂ a-ba-an-dab₅
+c.5.6.1,The instructions of Šuruppag,,190,lu₂ id₂-da ba-ra-an-bal-e
+c.5.6.1,The instructions of Šuruppag,,191,lu₂ gu-la iri-za-ka zag-ba u₃-ba-e-zal-ta
+c.5.6.1,The instructions of Šuruppag,,192,dumu-ŋu₁₀ za-a ur₅-re he₂-em-me-re-a-ed₃-de₃
+c.5.6.1,The instructions of Šuruppag,,193,geme₂-zu hur-saŋ-ta ši-im-ta-an-tum₃ sag₉ ši-im-ta-an-de₆
+c.5.6.1,The instructions of Šuruppag,,194,hul ši-in-ga-am₃-ta-an-tum₃
+c.5.6.1,The instructions of Šuruppag,,195,sag₉-ga šu-am₃ hul šag₄ an-ga-am₃
+c.5.6.1,The instructions of Šuruppag,,196,sag₉-ga šag₄-ge šu nu-bar-re
+c.5.6.1,The instructions of Šuruppag,,197,hul šag₄-ge šu nu-di-ni-bar-re
+c.5.6.1,The instructions of Šuruppag,,198,sag₉-ga ki dur₅-ru-am₃ šag₄-ge nu-da₁₃-da₁₃
+c.5.6.1,The instructions of Šuruppag,,199,hul e₂ niŋ₂-gur₁₁-ra ur₅-e la-ba-an-gu₇-e
+c.5.6.1,The instructions of Šuruppag,,199A,mu-un-sag₉ mu-un-sag₉
+c.5.6.1,The instructions of Šuruppag,,199B,ka-ni mu-un-tag-tag
+c.5.6.1,The instructions of Šuruppag,,200,hul-da id₂-da ma₂ he₂-en-da-su
+c.5.6.1,The instructions of Šuruppag,,201,an-edin-na {kuš}ummud he₂-en-da-dar
+c.5.6.1,The instructions of Šuruppag,,202,šag₄ ki aŋ₂ niŋ₂ e₂ du₃-du₃-u₃-dam
+c.5.6.1,The instructions of Šuruppag,,203,šag₄ hul gig niŋ₂ e₂ gul-gul-lu-dam
+c.5.6.1,The instructions of Šuruppag,,204,nir-ŋal₂-e niŋ₂-tuku gaba-ŋal₂ me nam-nun-na
+c.5.6.1,The instructions of Šuruppag,,205,nir-ŋal₂-ra gu₂ he₂-en-ne-ni-ŋal₂
+c.5.6.1,The instructions of Šuruppag,,206,a₂-tuku ni₂-zu he₂-en-ne-ši-la₂
+c.5.6.1,The instructions of Šuruppag,,207,dumu-ŋu₁₀ lu₂ hul-ŋal₂-ra he₂-en-ne-ši-ŋal₂-le
+c.5.6.1,The instructions of Šuruppag,,208,ezem-ma-ka dam na-an-tuku-tuku-e
+c.5.6.1,The instructions of Šuruppag,,209,šag₄-ga huŋ-ŋa₂-am₃ bar-ra huŋ-ŋa₂-am₃
+c.5.6.1,The instructions of Šuruppag,,210,kug huŋ-ŋa₂-am₃ za-gin₃ huŋ-ŋa₂-am₃
+c.5.6.1,The instructions of Šuruppag,,211,tug₂ huŋ-ŋa₂-am₃ gada huŋ-ŋa₂-am₃
+c.5.6.1,The instructions of Šuruppag,,212,nu-mu-un-da-sa₂
+c.5.6.1,The instructions of Šuruppag,,213,gud na-an-ni-sa₁₀-sa₁₀
+c.5.6.1,The instructions of Šuruppag,,214,gud lul-la na-sa₁₀-sa₁₀ {e₂}tur₃ buru₃
+c.5.6.1,The instructions of Šuruppag,,215,munus zid e₂ zid-še₃ lu₂ ši-in-ŋar
+c.5.6.1,The instructions of Šuruppag,,216,ud buru₁₄-ka anše na-an-sa₁₀-sa₁₀
+c.5.6.1,The instructions of Šuruppag,,217,anše gu₇ anše-da
+c.5.6.1,The instructions of Šuruppag,,218,anše lul-la gu₂-tar im-la₂
+c.5.6.1,The instructions of Šuruppag,,219,dumu-ŋu₁₀ lu₂-lul-e zag-si mu-un-sag₉-sag₉
+c.5.6.1,The instructions of Šuruppag,,220,munus bar-šu-ŋal₂-e e₂ dur₂-bi-še₃ mu-un-ŋen
+c.5.6.1,The instructions of Šuruppag,,221,kurun naŋ-naŋ-e buru₁₄ im-su-su-su
+c.5.6.1,The instructions of Šuruppag,,222,{f}šu-KU₆ {ŋeš}kun₅ lu₂ ₂-e da nu-DI
+c.5.6.1,The instructions of Šuruppag,,223,e₂-a nim-gin₇ mi-ni-ib-dal-dal-en
+c.5.6.1,The instructions of Šuruppag,,224,eme₃ sila-a inim i₃-šid-e
+c.5.6.1,The instructions of Šuruppag,,225,MUNUS.ŠAH sila-a dumu-ni-ra ga mu-ni-ib-gu₇-e
+c.5.6.1,The instructions of Šuruppag,,226,munus giri₁₇ hur ak šeg₁₁ gi₄-gi₄-dam
+c.5.6.1,The instructions of Šuruppag,,227,{ŋeš}bal hur-ra šu-na na-mu-un-ŋal₂
+c.5.6.1,The instructions of Šuruppag,,228,e₂-e₂-a i-in-ku₄-ku₄-ku₄
+c.5.6.1,The instructions of Šuruppag,,229,e-sir₂-e-sir₂-ra gu₂ mu-un-gi-gi-de₃
+c.5.6.1,The instructions of Šuruppag,,230,da ur₃-ra im-me im-me e₃-ab
+c.5.6.1,The instructions of Šuruppag,,231,bad₃-si-bad₃-si-a igi mu-ši-X-il₂-il₂-e
+c.5.6.1,The instructions of Šuruppag,,232,ki du₁₄-de₃ ŋal₂-la-še₃ zi im-X-pa-pa-an-e
+c.5.6.1,The instructions of Šuruppag,,233,ki šub-ba a₂-za
+c.5.6.1,The instructions of Šuruppag,,234,gi₄ mu-un-ne-pad₃ im-mi-ni-dug₄
+c.5.6.1,The instructions of Šuruppag,,235,šag₄ hul gig tuku-tuku
+c.5.6.1,The instructions of Šuruppag,,236,dumu-ŋu₁₀ gum₂-gamₓ mi-ni-ib-za
+c.5.6.1,The instructions of Šuruppag,,237,
+c.5.6.1,The instructions of Šuruppag,,238,tum₃
+c.5.6.1,The instructions of Šuruppag,,239,nu₂
+c.5.6.1,The instructions of Šuruppag,,240,
+c.5.6.1,The instructions of Šuruppag,,241,šag₄ hul₂-la i-im-dirig-ge
+c.5.6.1,The instructions of Šuruppag,,242,niŋ₂-nam nu-kal zi ku₇-ku₇-da
+c.5.6.1,The instructions of Šuruppag,,243,niŋ₂ nam-kal-kal-en niŋ₂-e me-kal-kal
+c.5.6.1,The instructions of Šuruppag,,244,dumu-ŋu₁₀ gun₃-gun₃-gin₇ igi gun₃-gun₃
+c.5.6.1,The instructions of Šuruppag,,245,{d}ezina₂-ra na-an-keše₂-keše₂-re-de₃-en {ŋeš}a₂-bi i₃-šar₂
+c.5.6.1,The instructions of Šuruppag,,246,kir₁₁-e aš₂ nam-en dumu-munus in-u₃-tud-un
+c.5.6.1,The instructions of Šuruppag,,247,{ŋeš}mi-si-IŠ-a lag nam-bi₂-šub-be₂-en dumu-nitah in-u₃-tud-un
+c.5.6.1,The instructions of Šuruppag,,248,dam nam-mu-un-kar-re-en gu₃ na-an-ŋa₂-ŋa₂
+c.5.6.1,The instructions of Šuruppag,,249,ki dam kar-re nam-silig gum-ŋa₂-am₃
+c.5.6.1,The instructions of Šuruppag,,250,a ŋiri₃ a gu₂ niŋin₂-na ga-am₃-me-re₇-de₃-en
+c.5.6.1,The instructions of Šuruppag,,251,lu₂ gu-la a₂ ₁-e ga-na-gam-me-en-de₃
+c.5.6.1,The instructions of Šuruppag,,252,galam-ma na-an-ug₅-ge-en dumu in-sug₄-ge tud-da
+c.5.6.1,The instructions of Šuruppag,,253,en-ra {d}nanna-ug₅-ge-en šu na-an-du₃-du₃-en
+c.5.6.1,The instructions of Šuruppag,,254,emeda-ga-la₂ ama₅-a-ke₄ lugal-bi-ir nam ši-im-mi-ib-tar-re
+c.5.6.1,The instructions of Šuruppag,,255,ama-zu-ur₂ inim dirig nam-ba-na-ab-be₂-en hul ša-ba-ra-gig-ga-am₃
+c.5.6.1,The instructions of Šuruppag,,256,inim ama-za inim diŋir-za ka-še₃ nam-bi₂-ib-dib₂-be₂-en
+c.5.6.1,The instructions of Šuruppag,,257,ama {d}utu-am₃ lu₂ mu-un-u₃-tud
+c.5.6.1,The instructions of Šuruppag,,258,ab-ba diŋir-ra-am₃ mu-un-dadag-ge
+c.5.6.1,The instructions of Šuruppag,,259,ab-ba diŋir-am₃ inim-ma-ni zid-da
+c.5.6.1,The instructions of Šuruppag,,260,na de₅ ab-ba-še₃ ŋizzal he₂-em-ši-ia-ak
+c.5.6.1,The instructions of Šuruppag,,261,e₂ iri bar-ra-ke₄ iri šag₄-ga ši-du₃-du₃-e
+c.5.6.1,The instructions of Šuruppag,,262,dumu-ŋu₁₀ gana₂ eg₂ dur₂-bi-še₃ ŋal₂-la
+c.5.6.1,The instructions of Šuruppag,,263,al-duru₅ šukur₂-ra-am₃ al-had₂ šukur₂-ra-am₃
+c.5.6.1,The instructions of Šuruppag,,264,niŋ₂ u₂-gu de₂-a niŋ₂-me-ŋar-ra
+c.5.6.1,The instructions of Šuruppag,,265,{urud}giŋ₄ dilmun{ki}-na sam₂-še₃
+c.5.6.1,The instructions of Šuruppag,,266,ur nu-zu hul-am₃ lu₂ nu-zu huš-am₃
+c.5.6.1,The instructions of Šuruppag,,267,kaskal nu-zu gaba kur-ra-ka
+c.5.6.1,The instructions of Šuruppag,,268,diŋir kur-ra lu₂ gu₇-gu₇-u₃-me-eš
+c.5.6.1,The instructions of Šuruppag,,269,e₂ lu₂-gin₇ nu-du₃ iri lu₂-gin₇ nu-du₃
+c.5.6.1,The instructions of Šuruppag,,270,ki-zu-a lu₂-ka lu₂ ša-ba-ra-an-ed₂-de₃
+c.5.6.1,The instructions of Šuruppag,,271,sipad-ra kiŋ₂-kiŋ₂ mu-na-til udu gi₄-gi₄ mu-na-til
+c.5.6.1,The instructions of Šuruppag,,272,engar-ra a-šag₄ ur₁₁-ru mu-na-til
+c.5.6.1,The instructions of Šuruppag,,273,gi₄ mu-na-KU-en
+c.5.6.1,The instructions of Šuruppag,,274,kadra inim-ma-bi niŋ₂ šag₄ ten-na
+c.5.6.1,The instructions of Šuruppag,,275,e₂-gal-la kur₉-ra-bi niŋ₂ šag₄ ten-na
+c.5.6.1,The instructions of Šuruppag,,276,kadra inim-inim-ma mul
+c.5.6.1,The instructions of Šuruppag,,277,na de₅ šuruppag{ki} dumu ubara-tu-tu-ke₄ na de₅-ga
+c.5.6.1,The instructions of Šuruppag,,278,šuruppag{ki} dumu ubara-tu-tu-ke₄ na de₅-ga
+c.5.6.1,The instructions of Šuruppag,,279,nin dub gal-gal-la šu du₇-a
+c.5.6.1,The instructions of Šuruppag,,280,ki-sikil {d}nisaba za₃-mi₂

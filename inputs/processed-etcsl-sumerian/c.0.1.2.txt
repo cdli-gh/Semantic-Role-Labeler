@@ -1,0 +1,46 @@
+id_text,text_name,version,l_no,text
+c.0.1.2,Ur III catalogue at Yale (Y1),,1,diŋir šembi₂-zid-da dar-a
+c.0.1.2,Ur III catalogue at Yale (Y1),,2,{d}en-lil₂-la₂ dug₄-ga-ni nu-kur₂
+c.0.1.2,Ur III catalogue at Yale (Y1),,3,lugal an kug-ga me-te-bi
+c.0.1.2,Ur III catalogue at Yale (Y1),,4,lugal {d}en-lil₂-ra gub-ba
+c.0.1.2,Ur III catalogue at Yale (Y1),,5,en gud ban₃-da
+c.0.1.2,Ur III catalogue at Yale (Y1),,6,še-er-zid en-da gal
+c.0.1.2,Ur III catalogue at Yale (Y1),,7,munus zid mi₂ dug₄-ga
+c.0.1.2,Ur III catalogue at Yale (Y1),,8,en su-li₂-im
+c.0.1.2,Ur III catalogue at Yale (Y1),,9,ur-saŋ en huš gal
+c.0.1.2,Ur III catalogue at Yale (Y1),,10,ur-saŋ en me ša-ra tum₂-ma
+c.0.1.2,Ur III catalogue at Yale (Y1),,11,lugal an-šag₄-ta hi-li guru₃
+c.0.1.2,Ur III catalogue at Yale (Y1),,12,nin me-e he₂-du₇
+c.0.1.2,Ur III catalogue at Yale (Y1),,13,en inim nun zu
+c.0.1.2,Ur III catalogue at Yale (Y1),,14,{d}šul-gi hi-li sud
+c.0.1.2,Ur III catalogue at Yale (Y1),,15,{d}šul-gi diŋir zid
+c.0.1.2,Ur III catalogue at Yale (Y1),,16,en gal-zu an-na
+c.0.1.2,Ur III catalogue at Yale (Y1),,17,lugal-ŋu₁₀ hi-li guru₃
+c.0.1.2,Ur III catalogue at Yale (Y1),,18,lugal inim sag₉
+c.0.1.2,Ur III catalogue at Yale (Y1),,19,ur-saŋ šag₄ kug-ta
+c.0.1.2,Ur III catalogue at Yale (Y1),,20,lugal a-ma-ru
+c.0.1.2,Ur III catalogue at Yale (Y1),,21,lugal me-lem₄ huš
+c.0.1.2,Ur III catalogue at Yale (Y1),,22,ur-saŋ ni₂ gal guru₃
+c.0.1.2,Ur III catalogue at Yale (Y1),,23,en an ki-a
+c.0.1.2,Ur III catalogue at Yale (Y1),,24,lugal ud gu₃ di
+c.0.1.2,Ur III catalogue at Yale (Y1),,25,lugal ŋiš-tug₂ daŋal
+c.0.1.2,Ur III catalogue at Yale (Y1),,26,ur-saŋ šul zid tud-da
+c.0.1.2,Ur III catalogue at Yale (Y1),,27,nin hi-li sud
+c.0.1.2,Ur III catalogue at Yale (Y1),,28,aŋrig zid unken-na
+c.0.1.2,Ur III catalogue at Yale (Y1),,29,ušum huš an-na
+c.0.1.2,Ur III catalogue at Yale (Y1),,30,lugal-me šag₄-ta ur-saŋ-me-en
+c.0.1.2,Ur III catalogue at Yale (Y1),,31,nin-ŋu₁₀ suh za-gin₃ za-na gun₃-a
+c.0.1.2,Ur III catalogue at Yale (Y1),,32,en me-lem₄ sud-sud
+c.0.1.2,Ur III catalogue at Yale (Y1),,33,šu-niŋin₂ ₃₂ en₈-du lugal
+c.0.1.2,Ur III catalogue at Yale (Y1),,34,lugal en gal-di an-na
+c.0.1.2,Ur III catalogue at Yale (Y1),,35,saŋ-me-en kug
+c.0.1.2,Ur III catalogue at Yale (Y1),,36,ama he₂-ŋal₂-la du₃-a
+c.0.1.2,Ur III catalogue at Yale (Y1),,37,gud-e si ŋar-re
+c.0.1.2,Ur III catalogue at Yale (Y1),,38,nun-ne₂ e₂ en kur₉-ra-ta
+c.0.1.2,Ur III catalogue at Yale (Y1),,39,ud za-la-ra
+c.0.1.2,Ur III catalogue at Yale (Y1),,40,ur-saŋ piriŋ huš uru₂ me gal-gal
+c.0.1.2,Ur III catalogue at Yale (Y1),,41,ur-saŋ šag₄-tur₃
+c.0.1.2,Ur III catalogue at Yale (Y1),,42,dumu an-na
+c.0.1.2,Ur III catalogue at Yale (Y1),,43,sahar ka-a du₃-a
+c.0.1.2,Ur III catalogue at Yale (Y1),,44,šu-niŋin₂ ₁₀ en₈-du igi-še₃-am₃
+c.0.1.2,Ur III catalogue at Yale (Y1),,45,pad₃-da niŋ₂-u₂-rum

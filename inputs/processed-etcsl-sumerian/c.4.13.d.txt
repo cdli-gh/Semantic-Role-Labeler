@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+c.4.13.d,A fragment of a hymn to Nanna,,1,
+c.4.13.d,A fragment of a hymn to Nanna,,2,su-na a-ia
+c.4.13.d,A fragment of a hymn to Nanna,,3,ma in-di-ri ma in-di-ri
+c.4.13.d,A fragment of a hymn to Nanna,,4,u₃-mu-ra e-su-la-ši mu-uš ŋa₂-ar
+c.4.13.d,A fragment of a hymn to Nanna,,5,u₃-ri-ma e-mu-ud-ku-ra
+c.4.13.d,A fragment of a hymn to Nanna,,6,e-ki-iš-nu-ŋal₂
+c.4.13.d,A fragment of a hymn to Nanna,,7,ka-ar-zi-da
+c.4.13.d,A fragment of a hymn to Nanna,,8,ka-ar-za-gi-na ki e-na
+c.4.13.d,A fragment of a hymn to Nanna,,9,i-bi ne-pa-ar-ši ma-la
+c.4.13.d,A fragment of a hymn to Nanna,,10,
+c.4.13.d,A fragment of a hymn to Nanna,,11,ka-ar-za-gi-na ki e-na
+c.4.13.d,A fragment of a hymn to Nanna,,12,di-li du-a
+c.4.13.d,A fragment of a hymn to Nanna,,13,ma im-di-ri ma im-di-ri u₃-mu-un

@@ -1,0 +1,35 @@
+id_text,text_name,version,l_no,text
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,A1,en gal mah diŋir-re-e-ne di-zu galam u₁₈-ru
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,A2,a-a {d}en-ki nir-ŋal₂ ušum zag dib nam ki-bi-še₃ tar-re
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,A3,me lu-lu-a-ba dur₂ ŋar-ra še-er-zid-de₃-eš gun₃-a
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,A4,nun gal saŋ keše₂ diŋir-re-e-ne an kug-ga
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B1,
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B2,ki-zu
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B3,nam tar-ra-zu ki-bi-še₃ ši-ŋar {d}en-lil₂ ban₃-da-me-en
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B4,{d}a-nun-na diŋir gal-gal-e-ne me šu mu-ni-ib₂-hal-ha-X
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B5,ki-ur₃ ki-tuš kug mu-ne-ŋa₂-ŋa₂ nir saŋ il₂-bi-me-en
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B6,nam-mah-zu niŋ₂ šu nu-teŋ₃-ŋe₂₆-dam
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B7,abzu kur me nun-na du₃-a ki sikil-la
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B8,sug gal sug muš-a la₂-a eridug{ki} eš₃
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B9,sa-gid₂-da-am₃
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B10,a-a {d}en-ki {d}iš-me-{d}da-gan ki tur gal
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B11,ŋiš-gi₄-ŋal₂ sa-gid₂-da-bi-im
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B12,{d}en-ki en dumu-saŋ an-na
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B13,{d}nu-dim₂-mud gud gal abzu-a
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B14,nitalam-zu kug {d}dam-gal-nun-na
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B15,a-a {d}en-ki gu₂-da hu-mu-e-X-la₂ šag₄ hu-mu-da-ab-kuš₂-u₃
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B16,inim sag₉-ga {d}iš-me-{d}da-gan-na
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B17,nam-šita₂ lugal-la₂ su₃-ra₂
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B18,gu₃ zid de₂-a {d}en-lil₂-la₂
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B19,{d}iš-me-{d}da-gan sipad inim-ma dumu {d}en-lil₂-la₂
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B20,me-lem₄-a-ni kalam-ma šu an ki zag
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B21,nir he₂-ŋal₂ kur-kur lu-a-ba gaba gi₄ na-X-tuku
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B22,{d}iš-me-{d}da-gan sig-da igi-nim-še₃
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B23,mu-na-ab-du₇ diŋir kalam-ma-ke₄ šir₃-re
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B24,{id₂}idigna {id₂}buranuna-e si X-sa₂ he₂-ŋal₂ hu-mu-na-ab-tum₂-mu
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B25,ubur an-na-ke₄ ŋal₂ hu-mu-na-ab-da₁₃-da₁₃ buru₁₄-bi
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B26,gana₂ gal-gal-la še ziz₂ gig gu₂-nida
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B27,guru₇ gu₂ ha-mu-na-ab-gur {d}ezina₂
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B28,sa-ŋar-ra-am₃
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B29,a-a {d}en-ki {d}iš-me-{d}da-gan nam-lugal bal he₂-ŋal₂-la saŋ-eš₂ X-rig₇
+c.2.5.4.04,An adab (?) to Enki for Išme-Dagan (Išme-Dagan D),,B30,ŋiš-gi₄-ŋal₂ sa-ŋar-ra-bi-im

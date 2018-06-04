@@ -1,0 +1,42 @@
+id_text,text_name,version,l_no,text
+c.2.7.1.1,A praise poem of Anam (Anam A),,1,an-am₃ en
+c.2.7.1.1,A praise poem of Anam (Anam A),,2,ŋeštug₂ daŋal šu du₇
+c.2.7.1.1,A praise poem of Anam (Anam A),,3,nibru{ki} til₃ iri nu-tuku
+c.2.7.1.1,A praise poem of Anam (Anam A),,4,tum₉ dug₃-ga iri{ki}-na ad-da ma-da unug{ki}-ga
+c.2.7.1.1,A praise poem of Anam (Anam A),,5,di-kud šag₄ di-da-ka
+c.2.7.1.1,A praise poem of Anam (Anam A),,6,ni₂-tuku ni₂ te an {d}inana-ke₄
+c.2.7.1.1,A praise poem of Anam (Anam A),,7,u₂-a e₂-an-na inim sag₉-ga-bi ul ti
+c.2.7.1.1,A praise poem of Anam (Anam A),,8,kalag-ga šag₄-ge de₆-a {d}inana-ke₄
+c.2.7.1.1,A praise poem of Anam (Anam A),,9,kalam-ma šu-kin dab₅-be₂
+c.2.7.1.1,A praise poem of Anam (Anam A),,10,saŋ zig₃ en {d}inana-ke₄
+c.2.7.1.1,A praise poem of Anam (Anam A),,11,gal-zu niŋ₂-nam-ma-kam
+c.2.7.1.1,A praise poem of Anam (Anam A),,12,ŋal₂ šag₄ dab₅-ba du₇-a
+c.2.7.1.1,A praise poem of Anam (Anam A),,13,ki DU-a si-si
+c.2.7.1.1,A praise poem of Anam (Anam A),,14,bal-bal-e huš-a
+c.2.7.1.1,A praise poem of Anam (Anam A),,15,igi il₂ hi-li du₈-du₈
+c.2.7.1.1,A praise poem of Anam (Anam A),,16,saŋ-kal erin₂-na-me-en
+c.2.7.1.1,A praise poem of Anam (Anam A),,17,{d}na-na-a šag₄ ama niŋ₂-nam-ma
+c.2.7.1.1,A praise poem of Anam (Anam A),,18,ŋal₂-la ul-še₃ ŋal₂
+c.2.7.1.1,A praise poem of Anam (Anam A),,19,nam gal
+c.2.7.1.1,A praise poem of Anam (Anam A),,20,UN-gal-e
+c.2.7.1.1,A praise poem of Anam (Anam A),,21,
+c.2.7.1.1,A praise poem of Anam (Anam A),,22,e₂-me-ur₄-ur₄ ha-lam-ma ki-be₂-eš gi₄-a
+c.2.7.1.1,A praise poem of Anam (Anam A),,23,X-an-šub-ba du₃-du₃
+c.2.7.1.1,A praise poem of Anam (Anam A),,24,ud ul-ta nu-du₃-a mu-un-dim₂-ma
+c.2.7.1.1,A praise poem of Anam (Anam A),,25,ŋiš-hur-ru gen₆-me-en
+c.2.7.1.1,A praise poem of Anam (Anam A),,26,kalam-ma mah dib₂-ba
+c.2.7.1.1,A praise poem of Anam (Anam A),,27,sag₉-ge-ba u₃-gul zid ŋa₂-ŋa₂-me-en
+c.2.7.1.1,A praise poem of Anam (Anam A),,28,šita saŋ us₂-a nidba ku₅-ru-me-en
+c.2.7.1.1,A praise poem of Anam (Anam A),,29,e₂-an-na e₂-me-ur₄-ur₄ alan gi₁₆ sug₂-ga
+c.2.7.1.1,A praise poem of Anam (Anam A),,30,lu₂ nam-ma-ni sag₂ nu-di
+c.2.7.1.1,A praise poem of Anam (Anam A),,31,nam gal su₁₃-ra₂-še₃ mu-e-tar
+c.2.7.1.1,A praise poem of Anam (Anam A),,32,nin diŋir gal zag gub
+c.2.7.1.1,A praise poem of Anam (Anam A),,33,ŋar-ra-na nam-til₃ niŋin-a
+c.2.7.1.1,A praise poem of Anam (Anam A),,34,šag₄ hul₂ ud sud₄-sud₄
+c.2.7.1.1,A praise poem of Anam (Anam A),,35,bi₂-in-dug₄ an ki-a ig e₂-an-na-ka
+c.2.7.1.1,A praise poem of Anam (Anam A),,36,nin emeda-a {d}na-na-a bad₃ gal ba-gub-bu
+c.2.7.1.1,A praise poem of Anam (Anam A),,37,zi numun hi-li ŋiš-šub-zu-še₃ mu-e-ŋar
+c.2.7.1.1,A praise poem of Anam (Anam A),,38,{d}en-lil₂-še₃ mah-bi-še₃ ŋal₂-me-en
+c.2.7.1.1,A praise poem of Anam (Anam A),,39,dumu nibru{ki} saŋ geme₂ arad niŋ₂ gu-ul-la-am₃
+c.2.7.1.1,A praise poem of Anam (Anam A),,40,šag₄ unug{ki}-ga a₂-dam-bi mu nam-en tum₂-u₃-ne
+c.2.7.1.1,A praise poem of Anam (Anam A),,41,mu-e-du₈-du₈ nibru{ki}-še₃ šu bar

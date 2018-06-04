@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,1,ba-lam ba-lam-lam hi-iz{sar}-am₃ a ba-an-dug₄
+c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,2,{ŋeš}kiri₆ ŋi₆-edin-na gu₂ ŋar-ŋar-ra-na sag₉-ga ama-na-ŋu₁₀
+c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,3,še ab-sin₂-ba hi-li-a sag₉-ŋu₁₀ hi-iz{sar}-am₃ a ba-an-dug₄
+c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,4,{ŋeš}hašhur aŋ₂ saŋ-ŋa₂ gurun il₂-la-ŋu₁₀ hi-iz{sar}-am₃ a ba-an-dug₄
+c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,5,lu₂-lal₃-e lu₂-lal₃-e me-e mu-ku₇-ku₇-de₃-en
+c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,6,en-ŋu₁₀ lu₂-lal₃-e dim₃-me-er-ra sag₉-ga ama-na-ŋu₁₀
+c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,7,šu-ni lal₃-e me-ri-ni lal₃-e ŋe₂₆-e mu-un-ku₇-ku₇-de₃-en
+c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,8,a₂-šu-ŋiri₃-ni lal₃ ku₇-ku₇-dam ŋe₂₆-e mu-un-ku₇-ku₇-de₃-en
+c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,9,en₃-dur šu-niŋin₂ tukum ku₇-ku₇-ŋu₁₀ sag₉-ga ama-na-ŋu₁₀
+c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,10,haš₄ sag₉-sag₉ a₂ buluŋ₅ e-ru-ŋu₁₀ hi-iz{sar}-am₃ a ba-an-dug₄
+c.4.08.05,The song of the lettuce: a balbale to Inana (Dumuzid-Inana E),,11,bal-bal-e {d}inana-kam

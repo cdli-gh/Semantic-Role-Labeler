@@ -1,0 +1,28 @@
+id_text,text_name,version,l_no,text
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,1,{m}puzur₄-{d}šul-gi šagina bad₃ igi-hur-saŋ-ŋa₂ u₃-na-a-dug₄
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,2,{d}šul-gi lugal-zu na-ab-be₂-a
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,3,ki bad₃ gal igi-hur-saŋ-ŋa₂ mu-du₃-a
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,4,nu-ed₂-de₃-ne
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,5,gu₂-ŋiri₃-ta {id₂}idigna {id₂}buranun-na a nu-na₈-na₈-ne
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,6,nu₂-de₃
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,7,luh-luh-e-de₃
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,8,sig₁₀-ge₅-de₃
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,10,X{ki}-ke₄ bi₂-in-kur₂-en
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,11,mu-e-gi₄-a
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,12,a mu-da-an-aŋ₂
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,13,bi₂-e-du₃
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,14,X-gi₄-eš
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,15,he₂-eb₂-dab₅
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,16,he₂-en-du₃
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,17,ma-gi₄-gi₄
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,18,en₃ X-ra-ab-tar-re-en
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,19,zi-mu-dar-ra-ke₄
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,20,he₂-mu-e-ši-ŋen
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,21,
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,22,X-ra-ab-dab₅
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,23,X-ra-ab-gi₄-gi₄
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,24,i₃-zu-zu
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,25,X-e-šub-be₂-en
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,26,u₃-bi₂-dab₅
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,27,
+c.3.1.10,Letter from Šulgi to Puzur-Šulgi about waterways,,28,a-ma-ru-kam

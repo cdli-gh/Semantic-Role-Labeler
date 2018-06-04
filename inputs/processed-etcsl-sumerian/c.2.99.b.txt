@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+c.2.99.b,A fragment of a royal praise poem,,A1,
+c.2.99.b,A fragment of a royal praise poem,,A2,
+c.2.99.b,A fragment of a royal praise poem,,A3,
+c.2.99.b,A fragment of a royal praise poem,,A6,lu₂
+c.2.99.b,A fragment of a royal praise poem,,A7,
+c.2.99.b,A fragment of a royal praise poem,,B1,
+c.2.99.b,A fragment of a royal praise poem,,B2,ur₂-ra
+c.2.99.b,A fragment of a royal praise poem,,B3,{d}en-lil₂ nam-lugal sud-da mu-na-an-šum₂-ma
+c.2.99.b,A fragment of a royal praise poem,,B4,šag₄ kuš₂-u₃-a
+c.2.99.b,A fragment of a royal praise poem,,B5,šul {d}suen-na-ra
+c.2.99.b,A fragment of a royal praise poem,,B6,šag₄ mu-na-an-huŋ-ŋe₂₆-e
+c.2.99.b,A fragment of a royal praise poem,,B7,mu-na-ni-in-šum₂
+c.2.99.b,A fragment of a royal praise poem,,B8,ba-gub-be₂-en
+c.2.99.b,A fragment of a royal praise poem,,B9,ib₂-ŋal₂

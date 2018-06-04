@@ -1,0 +1,63 @@
+id_text,text_name,version,l_no,text
+c.4.27.03,A hymn to Ninurta (Ninurta C),,1,
+c.4.27.03,A hymn to Ninurta (Ninurta C),,2,dumu nir-ŋal₂ {d}en-lil₂-la₂
+c.4.27.03,A hymn to Ninurta (Ninurta C),,3,ur-saŋ pa e₃-a lu₂
+c.4.27.03,A hymn to Ninurta (Ninurta C),,4,e₂ {d}en-lil₂-la₂-ka
+c.4.27.03,A hymn to Ninurta (Ninurta C),,5,na-me ma-X
+c.4.27.03,A hymn to Ninurta (Ninurta C),,6,e₂-kur-ra ki-bal
+c.4.27.03,A hymn to Ninurta (Ninurta C),,7,en
+c.4.27.03,A hymn to Ninurta (Ninurta C),,8,nu-banda₃
+c.4.27.03,A hymn to Ninurta (Ninurta C),,9,lugal urim₂{ki}-ma
+c.4.27.03,A hymn to Ninurta (Ninurta C),,10,lugal adab{ki}
+c.4.27.03,A hymn to Ninurta (Ninurta C),,11,lugal
+c.4.27.03,A hymn to Ninurta (Ninurta C),,12,e₂-kur
+c.4.27.03,A hymn to Ninurta (Ninurta C),,13,
+c.4.27.03,A hymn to Ninurta (Ninurta C),,14,{d}nin-lil₂-la₂
+c.4.27.03,A hymn to Ninurta (Ninurta C),,15,{d}en-lil₂-la₂-ra
+c.4.27.03,A hymn to Ninurta (Ninurta C),,16,an ki ama tud
+c.4.27.03,A hymn to Ninurta (Ninurta C),,17,{d}en-lil₂-le
+c.4.27.03,A hymn to Ninurta (Ninurta C),,18,ur-saŋ-ŋa₂ e₃
+c.4.27.03,A hymn to Ninurta (Ninurta C),,19,šag₄
+c.4.27.03,A hymn to Ninurta (Ninurta C),,20,{d}za-ba₄-ba₄
+c.4.27.03,A hymn to Ninurta (Ninurta C),,21,ur-saŋ
+c.4.27.03,A hymn to Ninurta (Ninurta C),,42,{d}nin-urta ensi₂ gal {d}en-lil₂-la₂
+c.4.27.03,A hymn to Ninurta (Ninurta C),,43,{d}nin-nibru{ki} dumu ki aŋ₂ an-na-ka igi-bi-a sag₉
+c.4.27.03,A hymn to Ninurta (Ninurta C),,48,nitalam ki aŋ₂ {d}nin-nibru{ki}-ke₄ egir₂ mah he₂-da-sag₉
+c.4.27.03,A hymn to Ninurta (Ninurta C),,49,{d}nin-urta en diŋir-re-e-ne e₂-šu-me-ša₄-e he₂-du₇
+c.4.27.03,A hymn to Ninurta (Ninurta C),,50,a-a-ŋu₁₀ {d}en-lil₂-le mi₂ zid iri in-ga-am₃-me
+c.4.27.03,A hymn to Ninurta (Ninurta C),,51,{d}nin-urta-ke₄ ni₂-te-a-ni piriŋ-gin₇ piriŋ na-TE
+c.4.27.03,A hymn to Ninurta (Ninurta C),,52,ŋe₂₆-e ur-saŋ-me-en {d}en-lil₂-la₂-me-en
+c.4.27.03,A hymn to Ninurta (Ninurta C),,53,inim zu₂ keše₂-da nibru{ki}-me-en
+c.4.27.03,A hymn to Ninurta (Ninurta C),,54,mušen nu-šub-bu-me-en
+c.4.27.03,A hymn to Ninurta (Ninurta C),,55,a-a-ŋu₁₀ {d}en-lil₂-le lu₂ šag₄-ga-na-me-en
+c.4.27.03,A hymn to Ninurta (Ninurta C),,56,ur-saŋ-me-en ama-ŋu₁₀ {d}nin-lil₂-la₂ ki aŋ₂-ni ŋe₂₆-e-me-en
+c.4.27.03,A hymn to Ninurta (Ninurta C),,57,kur-ra u₃-tud-da-me-en kur-ra a₂-ŋal₂-me-en
+c.4.27.03,A hymn to Ninurta (Ninurta C),,58,{d}nin-urta-ke₄ šeg₁₁ gi₄-a-zu-še₃ kur i₃-tuku₄-tuku₄-e
+c.4.27.03,A hymn to Ninurta (Ninurta C),,59,a-ma-ru {tum₉}u₁₈-lu nim-gin₇ ŋir₂-ŋir₂-e
+c.4.27.03,A hymn to Ninurta (Ninurta C),,60,{d}en-lil₂-le-me-en {d}nin-urta-ra he₂-em-ma-ši-bar-re
+c.4.27.03,A hymn to Ninurta (Ninurta C),,61,{d}nin-urta-ke₄ iri-ni eš₃ nibru{ki} he₂-em-ma-ši-bar-re
+c.4.27.03,A hymn to Ninurta (Ninurta C),,62,ki aŋ₂-bi na-nam ki aŋ₂-bi na-nam
+c.4.27.03,A hymn to Ninurta (Ninurta C),,63,en e₂-kur-ra ki aŋ₂-bi na-nam
+c.4.27.03,A hymn to Ninurta (Ninurta C),,64,niŋ₂-nam šag₄-ge al dug₄-ga-zu
+c.4.27.03,A hymn to Ninurta (Ninurta C),,65,niŋ₂ kal-kal-la šag₄-ge guru₇-zu
+c.4.27.03,A hymn to Ninurta (Ninurta C),,66,ur-saŋ a₂ zid-da {d}en-lil₂-la₂ šul gaba-ri nu-tuku
+c.4.27.03,A hymn to Ninurta (Ninurta C),,67,{d}nin-urta a₂ zid-da {d}en-lil₂-la₂ šul gaba-ri nu-tuku
+c.4.27.03,A hymn to Ninurta (Ninurta C),,68,saŋ ₅₀ nir-ŋal₂ tu₁₁-tu₁₁ kur gu₂-erim₂ nu-šub-bu
+c.4.27.03,A hymn to Ninurta (Ninurta C),,69,piriŋ sumur huš erim₂-ma ka an-ša-ša
+c.4.27.03,A hymn to Ninurta (Ninurta C),,70,{d}nin-urta piriŋ sumur huš erim₂-ma ka an-ša-ša
+c.4.27.03,A hymn to Ninurta (Ninurta C),,71,ud hul-ŋal₂ du-a-gin₇ ki-bal-a ma-da
+c.4.27.03,A hymn to Ninurta (Ninurta C),,72,ur-saŋ-e pap-šeš a-a-na
+c.4.27.03,A hymn to Ninurta (Ninurta C),,73,en {d}nin-urta-ke₄ pap-šeš a-a-na
+c.4.27.03,A hymn to Ninurta (Ninurta C),,74,ur-saŋ na-nam ur-saŋ na-nam ur-saŋ kur nu-e₃
+c.4.27.03,A hymn to Ninurta (Ninurta C),,75,ur-saŋ-me-en {d}nin-urta na-nam ur-saŋ kur nu-e₃
+c.4.27.03,A hymn to Ninurta (Ninurta C),,76,ze₂-na mah dili-ni ur-saŋ-me-en
+c.4.27.03,A hymn to Ninurta (Ninurta C),,77,e-ne-ra diŋir dirig-ga nu-il₂
+c.4.27.03,A hymn to Ninurta (Ninurta C),,78,lugal an-še₃ mah ki-še₃ mah nir-ŋal₂ ki ud e₃
+c.4.27.03,A hymn to Ninurta (Ninurta C),,79,{d}nin-urta an-še₃ mah ki-še₃ mah nir-ŋal₂ ki ud e₃
+c.4.27.03,A hymn to Ninurta (Ninurta C),,80,ur-saŋ kalag-ga {d}nin-urta a-a {d}en-lil₂ za₃-mi₂
+c.4.27.03,A hymn to Ninurta (Ninurta C),,81,ŋeštug₂-ga en nam tar-tar-re
+c.4.27.03,A hymn to Ninurta (Ninurta C),,82,a-a {d}en-ki za₃-mi₂
+c.4.27.03,A hymn to Ninurta (Ninurta C),,83,ki {d}a-nun-na-ke₄-ne
+c.4.27.03,A hymn to Ninurta (Ninurta C),,84,{d}nin-urta ensi₂ gal {d}en-lil₂-la₂
+c.4.27.03,A hymn to Ninurta (Ninurta C),,85,{d}nin-nibru{ki} dumu ki aŋ₂ an-na-ka
+c.4.27.03,A hymn to Ninurta (Ninurta C),,86,igi-bi-a sag₉
