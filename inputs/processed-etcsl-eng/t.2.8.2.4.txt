@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+t.2.8.2.4	A prayer to Asarluhi for Hammu-rābi (Hammu-rābi D)		1-6	
+XX the reverent one, who takes care XX,
+
+(The gods are addressed:) Give him the sceptre XX! XX the name of Babylon, the city of lordship! Make the king pre-eminent in the world XX!
+t.2.8.2.4	A prayer to Asarluhi for Hammu-rābi (Hammu-rābi D)		7	O Asarluhi, XX destiny for my Hammu-rābi!
+t.2.8.2.4	A prayer to Asarluhi for Hammu-rābi (Hammu-rābi D)		8-13	An, Enlil and Enki XX with him. When they had decided XX, all the great gods together XX joyfully to Marduk. (Marduk speaks to the great gods:) You have XX the shepherd of your hearts to exercise the lordship in the Land. Determine his destiny grandly, XX with your holy mouths. Appoint XX your word XX for him, the indefatigable shepherd.
+t.2.8.2.4	A prayer to Asarluhi for Hammu-rābi (Hammu-rābi D)		14-25	(The great gods speak:) We name him king in the four quarters of the world XX. Hammu-rābi, humble prince acceptable to the gods, XX our word, we grant you authority over the black-headed; may your name XX the limits of heaven XX! XX the inhabitants of the Land, keeping in order XX! May your reign endure XX, may it XX a shining barge! May your shepherding XX be firm, and may the people XX in the pastures! Peerless king, your roar of triumph is like Iškur, covering XX! Your mouth is the fiery god of fire, XX below and in the uplands XX. May youthful Utu be your helper, XX. May he always go at your right side and favour you. XX in your XX, Erra XX. Hammu-rābi, you should put your trust in our august commands, XX.
+t.2.8.2.4	A prayer to Asarluhi for Hammu-rābi (Hammu-rābi D)		26-37	Hammu-rābi XX the command of An and Enlil, XX of heaven and earth, XX throughout the world XX. An and Enlil XX to the king. Among the great gods, Asarluhi XX. In Babylon, the city, the precinct, the pure dwelling XX. XX foundation, the great dais, the beloved and august dwelling, in joy XX. XX the noble son of the gods, XX royal name, XX they firmly spoke their consent to him. When they XX, they XX the power of Enlil over the numerous people. XX they manifested his destiny, XX the life of the Land. They magnified Hammu-rābi, their benign shepherd, and XX over all the black-headed. XX him whom Enki has XX his favour in the Land,
+
+

@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+t.4.07.6	A balbale (?) to  Inana (Inana F)		1-3	My father gave me the heavens and he gave me the earth. I am Inana! Which god compares with me?
+t.4.07.6	A balbale (?) to  Inana (Inana F)		4-13	Enlil gave me the heavens and he gave me the earth. I am Inana! He gave me lordship, and he gave me queenship. He gave me battles and he gave me fighting. He gave me the stormwind and he gave me the dust cloud. He placed the heavens on my head as a crown. He put the earth at my feet as sandals. He wrapped the holy ba garment around my body. He put the holy sceptre in my hand.
+t.4.07.6	A balbale (?) to  Inana (Inana F)		14-17	The gods are small birds, but I am the falcon. The Anuna mill about, but I am the good wild cow, I am the good wild cow of Father Enlil, his good wild cow which walks in front.
+t.4.07.6	A balbale (?) to  Inana (Inana F)		18-20	When I enter the E-kur, the house of Enlil, the gate-keeper does not lift his hand against my breast; the minister does not tell me, Rise!.
+t.4.07.6	A balbale (?) to  Inana (Inana F)		21-33	The heavens are mine and the earth is mine: I am heroic! In Unug the E-ana is mine, in Zabalam the Giguna is mine, in Nibru the Dur-an-ki is mine, in Urim the E-Dilmuna is mine, in Ŋirsu the Ešdam-kug is mine, in Adab the E-šara is mine, in Kiš the Hursaŋ-kalama is mine, in Kisiga the Amaš-kuga is mine, in Akšak the Anzagar is mine, in Umma the Ibgal is mine, in Agade the Ulmaš is mine. Which god compares with me?
+t.4.07.6	A balbale (?) to  Inana (Inana F)		34	A XX of Inana.

@@ -1,0 +1,26 @@
+id_text,text_name,version,l_no,text
+t.3.3.03	Letter from Lugal-nesaŋe to a king radiant as the sun	A	1-7	Say this to the king who like the sun has made the heart of the Land radiant. Repeat it to the one who removed oppressive toil from the furrow, who
+defeated
+
+1 ms. has instead: confronted
+
+ Tidnum and holds its sceptre, who is counted as its honoured king. This is what
+Lugal-nesaŋe
+
+2 mss. have instead: Lugal-šu
+
+, a citizen of Nibru and your servant, says:
+t.3.3.03	Letter from Lugal-nesaŋe to a king radiant as the sun	A	8-15	A punishment which I do not understand has ravaged me and I have wailed my lamenting. In a strange city I moan like a dove and receive no mercy. I am constantly restless like a dog which does not know where to settle down. I am watchful like a bird which has flown from the claws of a falcon. My exuberance has perished in blight like a garden that has not been
+watered
+
+1 ms. has instead: tended
+
+. Envy within my king's palace overwhelms me and a bad reputation besets me.
+t.3.3.03	Letter from Lugal-nesaŋe to a king radiant as the sun	A	16-31	Grief XX. Woe XX. Like an ox I am overwhelmed, XX my fodder. My descendants and offspring are on good terms XX their nest, XX the mouth for eating food.
+As happens on
+
+1 ms. has instead: Like a distant XX from
+
+ the XX high plains where the winds blow, XX the mill. I will not be buried on dying but XX ground like grain. My brother, although not an enemy, XX contemptuously.
+t.3.3.03	Letter from Lugal-nesaŋe to a king radiant as the sun	A	32-33	The king XX, XX like Utu.
+t.3.3.03	Letter from Lugal-nesaŋe to a king radiant as the sun	Kiš	1-9	XX a bird XX the claws of a falcon. XX like a garden which has been watered. Envy within my king's palace overwhelms me and XX. Grief XX. Woe XX. Like an ox I am overwhelmed, like XX my fodder. My descendants and offspring are worried in their nests. Like a distant XX from the XX high plains where the winds blow, XX the mill. I will not experience being buried as befits the dead but XX ground like grain.

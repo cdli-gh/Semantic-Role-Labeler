@@ -1,0 +1,3 @@
+id_text,text_name,version,l_no,text
+t.4.19.4	A balbale (?) to Ninŋišzida (Ninŋišzida D)		1-7	Holding XX high, lordly one of holy An, holding XX high on the lofty throne-dais, XX, Lord Ninŋišzida, lord XX! XX the Anuna gods, gods of the earth XX. Ninŋišzida, the Anuna gods, gods of the earth XX. An has given power to you, princely son, XX. An has given power to you, Ninŋišzida, XX. XX the Anuna gods XX
+

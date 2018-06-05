@@ -1,0 +1,3 @@
+id_text,text_name,version,l_no,text
+t.4.27.a	A hymn to Ninurta		1-2	Ninurta, son of Nunamnir, XX, lord, XX youthfulness.
+

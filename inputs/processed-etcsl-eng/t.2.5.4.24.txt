@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+t.2.5.4.24	A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X)		1-6	Lord who among the gods makes the clever decisions, most prominent among them from the south to the uplands; who holding a staff in his hand determines their destinies as the Anuna gods come to him; who possessing all the divine powers is alone surpassing; a great lord who XX the living things; who alone is proclaimed as their god -- you are their XX. You, whose utterances make justice flourish, strengthen the divine powers of heaven and earth. You, who examine the ordinances and carry them out correctly, are proclaimed as their great prince.
+t.2.5.4.24	A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X)		7-16	Lord who has made the seed of mankind come forth, who creates good destiny for them, who teaches them the proper practices! He makes august and dignified rites proliferate truly like grass. He assigns the sceptres, he distributes the loyal crowns, and announces their exalted names. He XX their divinity until far and distant times in (?) heaven and earth. Everlasting prince XX. Lord who gives clever counsel, and who is endowed with prudence, outstanding intelligence and profound understanding! Trustworthy god, whose XX wholly surpasses description. Adviser, lord who deliberates only with himself, XX. Deep-hearted prince, whose words are unalterable (?), who disseminates his wisdom widely. Clever and competent, wise lord, XX, who knows everything.
+t.2.5.4.24	A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X)		17-23	You are the most supreme among the gods! You are the highest ranking among the Anuna gods! Your divine powers XX surpassing theirs, are specially favoured. With your precious and ingenious divine powers, you (?) are the guardian of their true divine powers. Your prominence imposes itself on them like awesome stillness, covers them like a storm, takes their breath away, wraps them like XX. The description (?) of your loftiness XX like a remote and far-away mountain.
+t.2.5.4.24	A hymn to Enki (?) for Išme-Dagan (Išme-Dagan X)		24-41	For the settled people, you are their lord and father. For the XX, you are their shepherd who seeks out food for them. You speak to them as if you were their father and mother; you satiate the people with food and drink. You give advice, you set your mind to work, XX skilful labour. You have opened up your house of instructions and surpassing wisdom. Everything you have created XX. XX full of great awesomeness, a place clad in fearsome radiance. XX mound XX, where the primeval lords dwell.
+
+XX Father Enlil XX. XX wisdom XX.
+
+XX your most precious divine plans XX.
+
+XX ingenuity XX. XX destiny XX.
+
+

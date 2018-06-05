@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+t.4.19.3	A hymn to Ninŋišzida (Ninŋišzida C)		1-5	XX to you. XX a flood-wave in the river, sweeping over everything like a destructive flood. My king, from your XX. King, from your birth you have XX in abundance. Ninŋišzida, your praise is sweet XX.
+t.4.19.3	A hymn to Ninŋišzida (Ninŋišzida C)		6	1st kirugu.
+t.4.19.3	A hymn to Ninŋišzida (Ninŋišzida C)		7-13	Lord Ninŋišzida, XX
+
+Hero, XX beloved of holy An, XX born in the shining great mountains, lord XX with sparkling eyes, with the attractiveness of a young man, great hero, the king's right arm on the battlefield, Lord Ninŋišzida, your praise is sweet. They praise you in song.
+t.4.19.3	A hymn to Ninŋišzida (Ninŋišzida C)		14	2nd kirugu.
+t.4.19.3	A hymn to Ninŋišzida (Ninŋišzida C)		15-22	Hero, as you wander on the earth, Ninŋišzida, beloved of An, through you the early flood occurs, and Enki rejoices at you. Through you fine grains are in the fields, and XX rejoices at you. XX head held high, Lord Ninŋišzida. You XX, Lord Ninŋišzida. You extend XX, and you stretch out your claws. Lord Ninŋišzida, your praise is sweet, XX.
+t.4.19.3	A hymn to Ninŋišzida (Ninŋišzida C)		23	3rd kirugu.
+t.4.19.3	A hymn to Ninŋišzida (Ninŋišzida C)		24-30	XX he has poured his good seed. Enlil says Hail! to Ninŋišzida. He makes known XX, and creates it for you in the Land. XX, born like XX. He looks at your joyful XX Lord Ninŋišzida, your praise is sweet. They praise you in song.
+t.4.19.3	A hymn to Ninŋišzida (Ninŋišzida C)		31	4th kirugu.
+t.4.19.3	A hymn to Ninŋišzida (Ninŋišzida C)		32-39	Hero who gains (?) victories XX in greatness.
+
+XX my king XX.
+
+Lord Ninŋišzida, your praise is sweet. They praise you in song.
+t.4.19.3	A hymn to Ninŋišzida (Ninŋišzida C)		40	5th kirugu.
+t.4.19.3	A hymn to Ninŋišzida (Ninŋišzida C)		41-45	
+XX in your elevated (?) house, XX life. Ninŋišzida, in your elevated (?) house, XX life. XX from the great place XX. XX throne-dais XX
+

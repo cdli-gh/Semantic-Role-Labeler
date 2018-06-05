@@ -1,0 +1,24 @@
+id_text,text_name,version,l_no,text
+t.3.1.15	Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay		1-2	Say to Šu-Suen, my lord: this is what Šarrum-bāni, the 'Sage of the Assembly', your servant, says:
+t.3.1.15	Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay		3-8	You sent me a message ordering me to work on the construction of the great fortification Murīq-Tidnim. 
+You presented yourself before me
+
+1 ms. has instead: A messenger presented himself before me
+, announcing: The Martu have invaded the land. 
+You instructed me
+
+1 ms. has instead: You have imposed on me as a task (?)
+ to build the fortification, so as to cut off their route; also, that no breaches of the Tigris or the Euphrates should cover the fields with water.
+t.3.1.15	Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay		9-11	When I was setting out, their XX from the bank of the Ab-gal watercourse to the province of Zimudar.
+t.3.1.15	Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay		12-16	When I was constructing this fortification to the length of 26 danna, and had reached the area between the two mountain ranges, I was informed of the Martu camping within the mountain ranges because (?) of my building work. Simurrum had come to their assistance. So I set off to the area between the mountain ranges of Ebih in order to engage in military action.
+t.3.1.15	Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay		17-18	But as far as I can say, I have not seen (?) troops carrying baskets. In order to engage in military action, I went (?) to their XX.
+t.3.1.15	Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay		19-21	If my lord agrees, may he provide me with additional workmen and set the wages (?) for me. XX did not succeed XX tribute of the provinces (?).
+t.3.1.15	Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay		22-26	I sent a messenger to the province of Murub: the attitude (?) of the province has altered. I will not neglect to build the fortification -- in fact I am building and engaging in military action at the same time. After all, as 'Sage of the Assembly' I descend (?) from a great lineage! I have been advised that the attitude (?) of the province has not altered.
+t.3.1.15	Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay		27-30	At the time I sent my messenger to you, I sent another messenger, after him, to 
+Lu-Nanna
+
+1 ms. has instead: Lu-Enki
+, the ruler of the province of Zimudar. He has sent you 7200 workers.
+t.3.1.15	Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay		31-33	Basket men are available; however, men fit to engage in military action are limited. If my lord should arrange the dismissal of the workers ready to work, let me pursue military action together with them, when I have removed (?) them.
+t.3.1.15	Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay		34-38	The dignitaries of your provinces are sending a man to them. They have presented themselves before me, announcing: As far as we are concerned, we are unable to guard all the cities. But how exactly will any troops be given to you? My messenger has been sent to them (?).
+t.3.1.15	Letter from Šarrum-bāni to Šu-Suen about keeping the Martu at bay		39-43	Once my lord has given me instructions, I will repeatedly return to (?) work at nightfall and at midnight, as well as engaging in military action. I stand at the disposal of the fame and word of my lord, and so I (?) will bring weapons to bear. No strength has yet been displayed (?), nor any firmness shown (?) by means of weapons. Let the storm cover (?) all the lands! May my lord know!

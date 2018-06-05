@@ -1,0 +1,42 @@
+id_text,text_name,version,l_no,text
+t.4.08.01	A balbale to Inana (Dumuzid-Inana A)		1-11	The brother speaks gently to his sister, Utu speaks gently to his sister, he speaks tenderly to holy Inana: Young lady, the flax in the garden beds is full of loveliness, Inana, the flax in the garden beds is full of loveliness, like the barley in the furrows, overflowing with loveliness and delight. 
+Sister
+
+1 ms. has instead: Young lady
+, you took a fancy to a grand length of linen; Inana, you took a fancy to a grand length of linen. I will dig up the plants for you and give them to you. 
+Young lady
+
+1 ms. has instead: My sister
+, I will bring you flax from the garden beds. Inana, I will bring you flax from the garden beds.
+t.4.08.01	A balbale to Inana (Dumuzid-Inana A)		12-14	
+Brother
+
+1 ms. has instead: My brother
+, when you have brought me flax from the garden beds, who will ret it for me? Who will ret it for me? Who will ret that flax for me?
+t.4.08.01	A balbale to Inana (Dumuzid-Inana A)		15-16	My sister, I will bring it to you already retted! Inana, I will bring it to you already retted!
+t.4.08.01	A balbale to Inana (Dumuzid-Inana A)		17-19	
+Brother
+
+1 ms. has instead: My brother
+, when you have brought it to me already retted, who will spin it for me? Who will spin it for me? Who will spin that flax for me?
+t.4.08.01	A balbale to Inana (Dumuzid-Inana A)		20-21	My sister, I will bring it to you already spun! Inana, I will bring it to you already spun!
+t.4.08.01	A balbale to Inana (Dumuzid-Inana A)		22-24	
+Brother
+
+1 ms. has instead: My brother
+, when you have brought it to me already spun, who will twine it for me? Who will twine it for me? Who will twine that flax for me?
+t.4.08.01	A balbale to Inana (Dumuzid-Inana A)		25-26	My sister, I will bring it to you already twined! Inana, I will bring it to you already twined!
+t.4.08.01	A balbale to Inana (Dumuzid-Inana A)		27-29	Brother, when you have brought it to me already twined, who will warp it for me? Who will warp it for me? Who will warp that flax for me?
+t.4.08.01	A balbale to Inana (Dumuzid-Inana A)		30-31	My sister, I will bring it to you already warped! Inana, I will bring it to you already warped!
+t.4.08.01	A balbale to Inana (Dumuzid-Inana A)		32-34	Brother, when you have brought it to me already warped, who will weave for me? Who will weave for me? Who will weave that flax for me?
+t.4.08.01	A balbale to Inana (Dumuzid-Inana A)		35-36	My sister, I will bring it to you already woven! Inana, I will bring it to you already woven!
+t.4.08.01	A balbale to Inana (Dumuzid-Inana A)		37-39	Brother, when you have brought it to me already woven, who will bleach it for me? Who will bleach it for me? Who will bleach that linen for me?
+t.4.08.01	A balbale to Inana (Dumuzid-Inana A)		40-41	My sister, I will bring it to you already bleached! Inana, I will bring it to you already bleached!
+t.4.08.01	A balbale to Inana (Dumuzid-Inana A)		42-44	Brother, when you have brought it to me already bleached, who will lie down on it with me? Who will lie down on it with me? Who will lie down on that linen with me?
+t.4.08.01	A balbale to Inana (Dumuzid-Inana A)		45-50	There shall lie down with you, there shall lie down with you, there shall lie down with you your bridegroom! Ama-ušumgal-ana shall lie down with you, the companion of Enlil shall lie down with you, the issue of a noble womb shall lie down with you, the offspring of a ruler shall lie down with you.
+t.4.08.01	A balbale to Inana (Dumuzid-Inana A)		51-56	Is it true?-- He is the man of my heart! He is the man of my heart! Brother, he is the man who has spoken to my heart! He does no hoeing, yet heaps up piles of grain; he delivers grain regularly to the storehouse, a farmer who has numerous piles of 
+grain
+
+1 ms. has instead: plentiful grain
+; a shepherd whose sheep are heavy (?) with wool.
+t.4.08.01	A balbale to Inana (Dumuzid-Inana A)		57	A balbale of Inana.

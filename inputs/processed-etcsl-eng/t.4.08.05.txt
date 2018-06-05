@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+t.4.08.05	The song of the lettuce: a balbale to Inana (Dumuzid-Inana E)		1-4	He has sprouted, he has burgeoned, he is well-watered lettuce, my shaded garden of the desert, richly flourishing, 
+his mother's favourite
+
+1 ms. has instead: he is well-watered lettuce
+; my grain lovely in beauty in its furrows, he is well-watered lettuce; my first-class fruitful apple tree, he is well-watered lettuce.
+t.4.08.05	The song of the lettuce: a balbale to Inana (Dumuzid-Inana E)		5-8	The honey man, the honey man will make me sweet; my lord, the honey man of a goddess, his mother's favourite, whose hands are honey, whose feet are honey, will make me sweet, whose limbs are honey-sweet, will make me sweet.
+t.4.08.05	The song of the lettuce: a balbale to Inana (Dumuzid-Inana E)		9-10	Navel! My altogether immediately sweet, my favourite of his mother! Beautiful thighs, raised arms! My XX, he is well-watered lettuce.
+t.4.08.05	The song of the lettuce: a balbale to Inana (Dumuzid-Inana E)		11	A balbale of Inana.

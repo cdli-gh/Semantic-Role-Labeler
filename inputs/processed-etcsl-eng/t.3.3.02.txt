@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+t.3.3.02	Letter from Lugal-nesaŋe to a king radiant as the moon	Nibru	1-5	Say this to the king who has made his radiance resplendent over all the lands like the moonlight. Repeat it to the king who renders just verdicts like Utu and regulates decisions like Ištaran, to my king who heeds prayers. This is what
+Lugal-nesaŋe
+
+3 mss. have instead: Lugal-šu
+
+, a citizen of Nibru and your servant, says:
+t.3.3.02	Letter from Lugal-nesaŋe to a king radiant as the moon	Nibru	6-11	Like a sheep I use my mouth for eating grass and I am unfamiliar with washing with soap. Like an ox bearing a yoke which it cannot support, I have been driven out into the high plains. Like a cow whose calf is not close by, I utter pitiful cries. As happens to a ewe whose lamb is restrained in the milking pen, hands seize me. As happens to a bird, men take my nest away. As happens to a boat which is not anchored to a firm quay, I drift in the wind. 1 ms. omits lines 10-12
+t.3.3.02	Letter from Lugal-nesaŋe to a king radiant as the moon	Nibru	12-15	In the streets of Nibru grief consumes me. A hostile city has taken over my city and I have no protector. A hostile house has taken over my house and XX against me. In my city, like a slave, no XX and I wear a filthy XX fleece.
+t.3.3.02	Letter from Lugal-nesaŋe to a king radiant as the moon	Nibru	16-21	My friends, companions, acquaintances and esteemed colleagues look on with scorn as at a man who eats alone. My mother who begot me and whose breasts are crescent-shaped (?) has snatched from my mouth my contented consumption of milk. My father who raised me in his lap has cast me aside. My merciful lady whose house is treasured no longer notices me.
+t.3.3.02	Letter from Lugal-nesaŋe to a king radiant as the moon	Nibru	22-23	As happens to a sickly tree that has borne no fruit, no one rejoices over me. I am fresh fruit but I have no buds and I do not XX.
+t.3.3.02	Letter from Lugal-nesaŋe to a king radiant as the moon	Nibru	24	May my king care for me and may I return to my former status.
+t.3.3.02	Letter from Lugal-nesaŋe to a king radiant as the moon	Urim	5-7	XX to my king who heeds prayers.
+
+XX Nibru XX.
+t.3.3.02	Letter from Lugal-nesaŋe to a king radiant as the moon	Urim	8-18	Like a sheep I set my mouth to eating grass and I am unfamiliar with washing with soap. Like an ox under a yoke which it cannot support, I have been driven out into the high plains. Like a cow whose calf is not close by, I utter pitiful cries. As happens to a XX, hands seize me. As happens to a boat which is not anchored to a firm quay, I drift in the wind.

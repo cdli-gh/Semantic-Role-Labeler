@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+t.3.3.20	Letter from Gudea to his personal deity		1-2	Speak to my god: this is what Gudea, your servant, says:
+t.3.3.20	Letter from Gudea to his personal deity		3-4	I am like a sheep who has no reliable shepherd; there is no reliable herdsman to lead me on.
+t.3.3.20	Letter from Gudea to his personal deity		5-6	An unintelligent merchant transported me (?) for trading purposes. With a vicious whip he XX me cruelly like a donkey.
+t.3.3.20	Letter from Gudea to his personal deity		7-9	I am noble (?) but do not utter a word, being vigilantly (?) XX. Seven times XX has not XX my accomplishments. Seven times my god (?) has not been able to find out about their extent.
+t.3.3.20	Letter from Gudea to his personal deity		10	My god, I am not one to be hostile. May you show sympathy towards me once again.

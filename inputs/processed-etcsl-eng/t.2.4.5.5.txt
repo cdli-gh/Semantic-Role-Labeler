@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+t.2.4.5.5	A hymn to Suen for Ibbi-Suen (Ibbi-Suen E)		1-9	Your divine powers XX, Father Nanna, XX, XX chose from the people XX. Youthful Suen, your holy shrine XX. An, you XX your good crown and headdress on your head. When you take your seat on the great august dais XX. When you open your holy mouth, XX the great XX and the divine powers. XX the royal crown, the holy headdress and the diadem, gathering together the throne and the divine powers, on the dais with head high XX.
+t.2.4.5.5	A hymn to Suen for Ibbi-Suen (Ibbi-Suen E)		10-19	Mighty (?) one of the dais, XX good seed XX, my Ibbi-Suen, XX from holy An, lord who sanctifies the divine powers, who purifies the divine powers, who makes brilliant the purification rites, XX, with shining horns, the light of heaven, youthful Suen XX, great XX, XX. Wide-armed Nibru, XX in his holy heart by Nanna, beneficent prince over the full extent of heaven and earth, XX moonlight XX, manifest bull, as august as Enlil, XX
+
+

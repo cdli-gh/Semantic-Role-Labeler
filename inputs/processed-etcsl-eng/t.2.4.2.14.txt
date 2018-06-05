@@ -1,0 +1,27 @@
+id_text,text_name,version,l_no,text
+t.2.4.2.14	A lullaby for a son of Šulgi (Šulgi N)		1-5	Ah, ah, may he grow sturdy through my crooning, may he flourish through my crooning! May he put down strong foundations as roots, may he spread branches wide like a šakir plant!
+t.2.4.2.14	A lullaby for a son of Šulgi (Šulgi N)		6-11	Lord, from this you know our whereabouts; among those resplendent apple trees overhanging the river, may someone who passes by (?) reach out his hand, may someone lying there raise his hand. My son, sleep will overtake you, sleep will settle on you.
+t.2.4.2.14	A lullaby for a son of Šulgi (Šulgi N)		12-18	Sleep come, sleep come, sleep come to my son, sleep hasten (?) to my son! Put to sleep his open eyes, settle your hand upon his sparkling eyes -- as for his murmuring tongue, let the murmuring not spoil his sleep.
+t.2.4.2.14	A lullaby for a son of Šulgi (Šulgi N)		19-23	May he fill your lap with emmer while I sweeten miniature cheeses for you, those cheeses that are the healer of mankind, that are the healer of mankind, and of the lord's son, the son of Lord Šulgi.
+t.2.4.2.14	A lullaby for a son of Šulgi (Šulgi N)		24-30	In my garden, it is the lettuces that I have watered, and among the lettuces it is the gakkul lettuce that I have chopped. Let the lord eat this lettuce! Through my crooning let me give him a wife, let me give him a wife, let me give him a son! May a happy nursemaid chatter with him, may a happy nursemaid suckle him!
+t.2.4.2.14	A lullaby for a son of Šulgi (Šulgi N)		31-38	Let me XX a wife for my son, and may she bear him a son so sweet. May his wife lie in his warm embrace, and may his son lie in his outstretched arms. May his wife be happy with him, and may his son be happy with him. May his young wife be happy in his embrace, and may his son grow vigorously on his gentle knees.
+t.2.4.2.14	A lullaby for a son of Šulgi (Šulgi N)		39-48	You are restless -- I am troubled, I am quite silent (?), gazing at the stars, as the crescent moon shines on my face. Your bones might be arrayed on the wall! The man of the wall might shed tears for you! The mongoose might beat the balaŋ drums for you! The gecko might gouge its cheeks for you! The fly might gash its lips for you! The lizard might tear out (?) its tongue for you!
+t.2.4.2.14	A lullaby for a son of Šulgi (Šulgi N)		49-56	May the lullaby (?) make us flourish! May the lullaby (?) make us thrive! When you flourish, when you thrive, when you XX the shaking of churns, sweet sleep XX, the sweet bed XX.
+
+t.2.4.2.14	A lullaby for a son of Šulgi (Šulgi N)		57-63	May a wife be your support, and may a son XX. May a son be your fortune. May winnowed grain be your lover, and may Ezina-Kusu the goddess of grain be your aid. May you have an eloquent protective goddess. May you be brought up to a reign of favourable days. May you smile upon festivals.
+t.2.4.2.14	A lullaby for a son of Šulgi (Šulgi N)		64-66	My son is XX; he knows nothing. He does not know the length of his old age (?). He does not know the dwelling of the XX.
+t.2.4.2.14	A lullaby for a son of Šulgi (Šulgi N)		67-73	May you discover XX. May you eat XX.
+
+May you be XX. May you be XX.
+t.2.4.2.14	A lullaby for a son of Šulgi (Šulgi N)		74-91	
+XX goats, sheep and donkeys XX
+
+Ninkasi the goddess of beer XX in her vat XX
+
+The shepherd's wife XX
+He XX the XX of the date palm. He brings date shoots among the offerings.
+t.2.4.2.14	A lullaby for a son of Šulgi (Šulgi N)		92-114	As for you, lie in sleep! May your palm tree, extending its fronds, spread joy like a fig tree (?). Place coals (?) beside Urim! Place charcoal beside Unug! Seize the enemy's mouth like XX! Bind his arms like reed bundles! Make the enemy cower before you, lest he rip open your back like a sack,
+
+
+
+

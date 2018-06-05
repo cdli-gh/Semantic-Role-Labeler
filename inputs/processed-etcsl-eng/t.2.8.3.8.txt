@@ -1,0 +1,25 @@
+id_text,text_name,version,l_no,text
+t.2.8.3.8	A hymn to Enlil for Samsu-iluna (Samsu-iluna H)		1-2	XX offerings XX, he brought (?) them into E-kur.
+t.2.8.3.8	A hymn to Enlil for Samsu-iluna (Samsu-iluna H)		3-8	In the E-kur, the house of Enlil, Samsu-ilūna, the mighty king 
+whose XX awesomeness covers all people
+
+an Akkadian gloss has: whose splendour covers all people
+
+
+
+an Akkadian gloss has: reach XX
+
+
+t.2.8.3.8	A hymn to Enlil for Samsu-iluna (Samsu-iluna H)		9-13	
+
+
+an Akkadian gloss has: by saving XX.
+ The foreign lands XX 
+has wisely (?) made decisions (?)
+
+an Akkadian gloss has: XX; who has inflicted defeat XX on all hostile lands
+. 
+Samsu-ilūna, the good hero, lordly one of his Land
+
+an Akkadian gloss has: Samsu-ilūna, the good hero, lordly one of his land
+! O Samsu-ilūna, it is sweet to praise you!

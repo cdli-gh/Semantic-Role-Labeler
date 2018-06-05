@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+t.2.4.1.7	A balbale to Enlil for Ur-Namma (Ur-Namma G)		1-8	
+Enlil XX to Ur-Namma. He bestowed on him (?) early floods, grain and speckled barley.
+t.2.4.1.7	A balbale to Enlil for Ur-Namma (Ur-Namma G)		9-15	Ur-Namma, may the people flourish in prosperity under your rule. You (?) XX the plough and good barley, and your cultivated fields will be rich. You (?) XX trees, seeds, good barley, the plough, and the fields. You (?) XX the plough and good barley XX. King, cultivate the fields with oxen, and your cultivated fields will be rich; Ur-Namma, cultivate the fields with them, and your cultivated fields will be rich. The oxen will make (?) your cultivated fields fertile; your cultivated fields will be rich.
+t.2.4.1.7	A balbale to Enlil for Ur-Namma (Ur-Namma G)		16-27	My king, when you have finished with all the work on the fields of Enlil; Ur-Namma, when you have finished with all the work on the fields of Enlil, may the rains of heaven make the furrows that you laid out sprout abundantly. King, faithful farmer, you have XX the levees and ditches in the wide fields; Ur-Namma, faithful farmer, you have XX the levees and ditches on the wide fields. Like the rising Utu, the levees and ditches XX. My king, XX; Ur-Namma, XX.
+
+
+t.2.4.1.7	A balbale to Enlil for Ur-Namma (Ur-Namma G)		28	A balbale of Enlil.

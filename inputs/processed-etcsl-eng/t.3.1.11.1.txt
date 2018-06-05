@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+t.3.1.11.1	Letter from Ur-DUN to Šulgi about Apillaša		1-2	Say to my lord: this is what the merchant Ur-DUN, your servant, says:
+t.3.1.11.1	Letter from Ur-DUN to Šulgi about Apillaša		3-9	My lord gave me silver and sent me to a distant land in order to purchase cedar resin. After I had entered the land and had purchased cedar resin, Apillaša, the 'Sage of the Assembly', sent men to me and they took away my goods.
+t.3.1.11.1	Letter from Ur-DUN to Šulgi about Apillaša		10-16	When I arrived at his palace gate, no one enquired about my business. Aradŋu, your servant, and Babati, the archivist, had gone from Zimudar to Simurrum and had learnt XX and their messengers XX.
+t.3.1.11.1	Letter from Ur-DUN to Šulgi about Apillaša		17-18	XX of my lord XX. Being in a weak (?) position, I was not able to XX their illegal seizure.
+t.3.1.11.1	Letter from Ur-DUN to Šulgi about Apillaša		19-20	He has given you a report, lord. Whatever you say, my lord!

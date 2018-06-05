@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+t.5.2.5	The poem of early rulers		1-16	
+XX is not made XX. XX those men were overthrown. XX the king? He reigned 36,000 years! XX the king, the one who ascended to heaven? XX he who, like Zi-ud-sura, tried to find life? XX he who was honoured and then seized? XX was not rivalled in the Land? XX the kings, the leaders of former days? XX, have they not been born? XX can my hand reach them? XX no one knows it.
+t.5.2.5	The poem of early rulers		17-21	XX is like the twinkling of an eye. Who would consider XX without cheerfulness to be superior to death? 36,000 years of silence XX just one day of happiness. Having been given XX the gods, life was sought for XX. XX the share of mankind, XX live in the house of the young men.

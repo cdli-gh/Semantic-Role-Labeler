@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+t.4.13.d	A fragment of a hymn to Nanna		1-2	
+XX the XX of Suen (?), father (?) XX.
+t.4.13.d	A fragment of a hymn to Nanna		3-13	The boat sailed, the boat sailed, XX. XX to the lord (?), to the E-sila (?). XX the E-mud-kura in Urim. XX the E-kiš-nu-ŋal. XX the Kar-zida, XX the Kar-zagina, the place of XX. XX gazing at the ŋipar,
+
+XX the Kar-zagina, the place of XX. XX, going alone, XX the boat sailed, the boat sailed, the lord XX.

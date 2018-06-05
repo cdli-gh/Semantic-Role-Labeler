@@ -1,0 +1,27 @@
+id_text,text_name,version,l_no,text
+t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		1-6	XX from the distant radiance, XX in heaven,
+
+Suen, XX, XX Šu-Suen. Nanna has elevated XX.
+t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		7	Barsud.
+t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		8-12	The beauty of heaven, the prince of earth, youthful Suen, the immense, the light of heaven and earth, who makes years of prosperity and good XX last permanently, Nanna, the lord who is born each month, sired my Šu-Suen.
+t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		13	Šagbatuku.
+t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		14-18	Mighty one, great power among the great gods, Father Nanna, your judgments are ingenious decisions -- deciding great destinies with Nunamnir, his beloved youth Ašimbabbar decides destiny for my Šu-Suen.
+t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		19	2nd barsud.
+t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		20-24	The light which sweetens the night and structures the year, Nanna, the crown of the holy heavens, XX my Šu-Suen,
+
+t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		25	2nd šagbatuku.
+t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		26-36	XX Nanna is the great lord of heaven and earth. XX has made manifest XX. XX is spreading XX.
+
+
+
+XX, the just crown XX in heaven, XX on his head, he has given guidance. My Šu-Suen is the prince of the Land.
+t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		37	Sa-barsuda.
+t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		38-39	XX, lengthen the days (?) for my Šu-Suen, my Šu-Suen who has grown as high as the heavens.
+t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		40	Its ŋišgiŋal.
+t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		41-50	The lord, the son of An, XX, XX with shining horns, renowned Nanna, XX, whose commands XX, the light of the firmament, the light of the earth, whose luminosity speeds to the people, Lord Ašimbabbar, a viper made visible, the youth Suen whose holy countenance approaches the earth, Nanna -- just as he appears elevated (?) in heaven and above earth, so he has elevated Šu-Suen over the Land.
+t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		51-62	XX imbued with awesomeness, a dragon for the heavens, XX imbued with awesomeness, XX in the heavens, XX, the prince who trusts in you, my Šu-Suen, XX has embraced XX. XX all the lands in their vastness, XX the sceptre of distant days. The people of the rebel lands, XX all of them XX, have entrusted XX to Šu-Suen for the beneficent princely son of Enlil. My king XX, Šu-Suen XX in celebration!
+t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		63	Sa-ŋara.
+t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		64	XX my Šu-Suen days of life.
+t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		65	Its ŋišgiŋal.
+t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		66-68	May (?) the lord of heaven, the well-disposed one, XX the earth, youthful Suen, the lord of heaven, XX, XX Šu-Suen.
+t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		69	Its uru.

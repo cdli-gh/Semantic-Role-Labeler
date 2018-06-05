@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+t.5.7.a	Public announcement of the loss of a seal		1-4	A seal inscribed with the name of Ur-DUN, the merchant, was lost. In accordance with the word of the assembly, the herald has sounded the horn throughout all the streets: no one now has any claim against him.
+t.5.7.a	Public announcement of the loss of a seal		5-12	
+Lu-Suena
+
+1 ms. has instead: Lu-gena
+
+, the governor-general; Lugal-melem, the governor and temple administrator
+1 ms. adds: were their XX and XX their seals
+
+; Zuzu, the scholar; Si-du, the scribe; Allub, the steward; Bansagen, the lament singer; Ullia, the mayor; and the herald are the witnesses.

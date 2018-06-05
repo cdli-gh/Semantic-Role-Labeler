@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+t.4.08.07	A balbale to Inana (Dumuzid-Inana G)		1-2	The burgeoning one, he XX with his own mother; the one with kindly eyes takes counsel with his father.
+t.4.08.07	A balbale to Inana (Dumuzid-Inana G)		3-12	You are our brother, you are our brother. You are our brother in charge of the palace gate, you are our captain of the barge, you are our commander of the chariot, you are our servant of the hunting chariot; you are our city father and judge, you are the son-in-law of five things, the son-in-law of 10 things. Brother, you are the son-in-law of our father, you are our son-in-law supreme; our mother speaks favourably with you.
+t.4.08.07	A balbale to Inana (Dumuzid-Inana G)		13-16	Your coming here is life indeed, your entering the house is abundance; lying at your side is my utmost joy. My sweet, let us delight ourselves on the bed.
+t.4.08.07	A balbale to Inana (Dumuzid-Inana G)		17	A balbale of Inana.

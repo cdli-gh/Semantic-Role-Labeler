@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+t.3.1.13.1	Letter from Šulgi (?) to Aradŋu about troops		1-2	To Aradŋu XX: XX Šulgi (?) XX:
+t.3.1.13.1	Letter from Šulgi (?) to Aradŋu about troops		3-8	
+As regards your concern XX. May XX. For their troops XX not XX.
+
+Their troops XX.

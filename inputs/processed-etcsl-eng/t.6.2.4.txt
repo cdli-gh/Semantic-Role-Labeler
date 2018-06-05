@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+t.6.2.4	Proverbs: from Unug	AUWE 23 117	1	
+t.6.2.4	Proverbs: from Unug	AUWE 23 117	2	
+t.6.2.4	Proverbs: from Unug	AUWE 23 117	3	XX poured it out for him XX.
+t.6.2.4	Proverbs: from Unug	AUWE 23 117	4	
+t.6.2.4	Proverbs: from Unug	AUWE 23 117	5-8	XX gave birth XX like a nindiŋir priestess, the young girl XX coming out, the young girl XX returned it XX.
+t.6.2.4	Proverbs: from Unug	AUWE 23 117	9	
+t.6.2.4	Proverbs: from Unug	AUWE 23 119	1	
+t.6.2.4	Proverbs: from Unug	AUWE 23 119	2	
+t.6.2.4	Proverbs: from Unug	AUWE 23 119	3	
+t.6.2.4	Proverbs: from Unug	AUWE 23 119	4	
+t.6.2.4	Proverbs: from Unug	AUWE 23 119	5	
+t.6.2.4	Proverbs: from Unug	AUWE 23 118	1	
+t.6.2.4	Proverbs: from Unug	AUWE 23 118	2	
+t.6.2.4	Proverbs: from Unug	AUWE 23 118	3	
+t.6.2.4	Proverbs: from Unug	AUWE 23 118	4	

@@ -1,0 +1,3 @@
+id_text,text_name,version,l_no,text
+t.2.8.3.4	A prayer for Samsu-iluna (Samsu-iluna D)		1	He causes brilliance, he XX from his holy heart.
+

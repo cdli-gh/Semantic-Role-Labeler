@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+t.2.4.2.20	A tigi to Ninurta for Šulgi (Šulgi T)		1-16	Lord, perfect warrior, beloved by XX. Ninurta, meš tree with a broad shining canopy, XX. Weapon striding into battle, XX foreign countries. A dragon with a terrifying face, venomous snake who XX its venom against the rebel lands. XX overpowering XX, foremost lion XX. Ninurta, who XX with the great prince Enki. My king, in your city, shrine Nibru, XX. E-šu-me-ša, where XX for you. Lord, the kingship is perfect with you XX. Adviser, the dragon of the Land, XX. Ninurta, the great wall of Nibru, XX. My king, whose divine powers cannot be scattered, warrior XX. Forceful lion, XX. King with the broad wisdom of heaven and earth, XX. Exalted sceptre rising above the Land, XX. Ninurta, who XX the enemy, XX.
+t.2.4.2.20	A tigi to Ninurta for Šulgi (Šulgi T)		17	Sa-gida.
+t.2.4.2.20	A tigi to Ninurta for Šulgi (Šulgi T)		18-27	Warrior, powerful lord, overpowering XX. Ninurta, terrible storm, powerful fire, XX. Frightening storm, raging against the rebellious lands, XX lion. Dragon spreading terror, lord without rival XX. King with broad wisdom, neck-stock of gods. XX given strength XX. XX trustworthy XX, Šulgi XX
+
+You have chosen XX among your own XX in your heart. XX, Ninurta, be praised.
+t.2.4.2.20	A tigi to Ninurta for Šulgi (Šulgi T)		28	Sa-ŋara.
+t.2.4.2.20	A tigi to Ninurta for Šulgi (Šulgi T)		29	XX, bestow a long life and prosperous years on Šulgi!
+t.2.4.2.20	A tigi to Ninurta for Šulgi (Šulgi T)		30	Its ŋišgiŋal.
+t.2.4.2.20	A tigi to Ninurta for Šulgi (Šulgi T)		31	A tigi (?) of Ninurta.

@@ -1,0 +1,32 @@
+id_text,text_name,version,l_no,text
+t.3.1.03	Letter from Aradŋu to Šulgi about irrigation work		1-2	Say to my lord: thus says Aradŋu, your servant:
+t.3.1.03	Letter from Aradŋu to Šulgi about irrigation work		3-6	My lord, you have given me instructions about every matter, from the sea and the land of Dilmun, 
+from the salt waters and the borders of the land of the Martu
+
+some mss. have instead: to the salt waters and the borders of the land of the Martu
+, 
+to
+
+1 ms. has instead: from
+ the 
+side (?)
+
+1 ms. has instead: borders (?)
+ of Simurrum and 
+the territory of XX
+
+1 ms. has instead: the territory of Subir
+:
+t.3.1.03	Letter from Aradŋu to Šulgi about irrigation work		7-11	Their various cities and 
+all their environs
+
+1 ms. has instead: their troops
+, their canals, fields, arable tracts and their embankments and ditches,
+
+All the cities are listening to my lord.
+
+t.3.1.03	Letter from Aradŋu to Šulgi about irrigation work		12-14	I have established strong guards for their fortresses, and I have made all their troops submit.
+
+t.3.1.03	Letter from Aradŋu to Šulgi about irrigation work		15-22	I have drained the arable tracts when they were flooded. I have XX when their embankments were leaky (?). I have XX their fields and reedbeds. XX bowing their heads XX.
+
+

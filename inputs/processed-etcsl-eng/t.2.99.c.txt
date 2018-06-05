@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+t.2.99.c	A fragment of a royal praise poem		1-8	
+XX like a great mountain. XX Gilgameš cools off (?) in its shade. XX bright mountain, the joyous sheepfold XX. XX residence of (?) the mistress XX. XX in its courtyard. XX abundance XX.
+
+

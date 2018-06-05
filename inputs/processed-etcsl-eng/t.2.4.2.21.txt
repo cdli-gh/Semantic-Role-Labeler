@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+t.2.4.2.21	An adab (?) to Nergal for Šulgi (?) (Šulgi U)		1-4	Nergal who XX, XX great awe, who XX the underworld -- its awesome radiance XX the battle-net, its awesomeness has filled heaven and earth.
+t.2.4.2.21	An adab (?) to Nergal for Šulgi (?) (Šulgi U)		5	2nd šagbatuku.
+t.2.4.2.21	An adab (?) to Nergal for Šulgi (?) (Šulgi U)		6-12	Hero, wild bull with thick horns, XX like a cow, your terrifying name lets loose awe and fear. You fall on the rebel lands like the south wind. You are a bolt on the broad extent of the mountains. When you sit in E-mešlam, your desires are joyously fulfilled (?). The people assemble at your feet.
+t.2.4.2.21	An adab (?) to Nergal for Šulgi (?) (Šulgi U)		13	2nd barsud.
+t.2.4.2.21	An adab (?) to Nergal for Šulgi (?) (Šulgi U)		14-16	Mešlamta-ea, your supremacy in the rebel lands! You have encircled the rebel lands, O youth. Nergal, your supremacy in the rebel lands!
+t.2.4.2.21	An adab (?) to Nergal for Šulgi (?) (Šulgi U)		17-20	Your father loves you greatly. He has made your heroism known among the people. Your father Enlil loves you greatly. He has made your heroism known among the people.
+t.2.4.2.21	An adab (?) to Nergal for Šulgi (?) (Šulgi U)		21-23	Hero XX for the people, god roaming the mountains! You have XX the rebel lands. Nergal XX for the people, god roaming the mountains!
+t.2.4.2.21	An adab (?) to Nergal for Šulgi (?) (Šulgi U)		24-26	Wherever you stride, all their troops suffer. XX Anšan and Tidnum, Nergal, wherever you stride, all their troops suffer.
+t.2.4.2.21	An adab (?) to Nergal for Šulgi (?) (Šulgi U)		27	Sa-gida.
+t.2.4.2.21	An adab (?) to Nergal for Šulgi (?) (Šulgi U)		28-29	May you prolong the life of the hero Šulgi. XX to his strength, XX.
+t.2.4.2.21	An adab (?) to Nergal for Šulgi (?) (Šulgi U)		30	Its ŋišgiŋal.
+t.2.4.2.21	An adab (?) to Nergal for Šulgi (?) (Šulgi U)		x	

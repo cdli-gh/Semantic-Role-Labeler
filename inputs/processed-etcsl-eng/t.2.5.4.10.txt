@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+t.2.5.4.10	A love song of Išme-Dagan (Išme-Dagan J)		1-8	Lady, going to the sweet-voiced cows and gentle-voiced calves in the cattle-pen, young woman, when you arrive there, Inana, may the churn sound! May the churn of your spouse sound, Inana, may the churn sound! May the churn of Dumuzid sound, Inana, may the churn sound!
+t.2.5.4.10	A love song of Išme-Dagan (Išme-Dagan J)		9-14	The rocking of the churn will sing (?) for you, Inana, may it thus make you joyous! The good shepherd, the man of sweet songs, will loudly (?) sing songs for you; lady, with all the sweetest things, Inana, may he make your heart joyous!
+t.2.5.4.10	A love song of Išme-Dagan (Išme-Dagan J)		15-20	Lady, when you enter the cattle-pen, Inana, the cattle-pen will indeed rejoice over you. Mistress, when you enter the sheepfold, Inana, the sheepfold will indeed rejoice over you. When you enter the feeding-pen, healthy ewes will spread out their wool for you.
+t.2.5.4.10	A love song of Išme-Dagan (Išme-Dagan J)		21-24	May the holy sheepfold abundantly provide (?) you with butter, may the cattle-pen produce butter and cream for you! May abundance endure in the sheepfold, may the days of Išme-Dagan be numerous!
+t.2.5.4.10	A love song of Išme-Dagan (Išme-Dagan J)		25-26	May my spouse, a ewe cherishing its lamb, be praised with sweet admiration!

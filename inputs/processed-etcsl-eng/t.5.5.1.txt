@@ -1,0 +1,137 @@
+id_text,text_name,version,l_no,text
+t.5.5.1	The message of Lu-diŋira to his mother		1-8	Royal courier, start the journey! I want to send you to Nibru -- deliver this message! You are going on a long journey. My mother 
+is worried, she cannot sleep
+
+1 ms. has instead: is too (?) XX to sleep
+. Although the way to 
+her
+
+1 ms. has instead: the closed
+ woman's domain is blocked, deliver my letter of greeting into her hands, 
+as she keeps asking
+
+1 ms. has instead: and then she will not keep asking
+ the 
+travellers
+
+1 ms. has instead: wayfarers
+ about my well-being. Then my mother will be delighted, and will treat you most kindly (?) for it.
+t.5.5.1	The message of Lu-diŋira to his mother		9-20	In case you should not recognise my mother, let me describe her to you. Her name is 
+Šat-Eštar
+
+1 ms. has instead: Šimat-Eštar
+, 
+XX by her words
+
+some mss. have instead: XX
+ XX. Her body, face and limbs, and outer appearance are XX. She is the fair goddess of her city-quarter. Her fate has been decided since the days of her youth. Single-handed she keeps in order the house of her father-in-law. She serves humbly before her divine mistress. She knows how to look after Inana's place. She never disobeys the 
+orders
+
+1 ms. has instead: wishes
+ of the king. She is energetic and causes possessions to multiply. She is loving, gentle, and lively. By nature she is a lamb, sweet butter, honey, flowing ghee.
+t.5.5.1	The message of Lu-diŋira to his mother		21-31	Let me give you another description of my mother: My mother is like the bright light 
+in the sky
+
+1 ms. has instead: on the horizon
+, a doe on the hillsides. She is the morning star, 
+shining even at noon-time
+
+1 ms. has instead: providing plenty of light
+. She is precious cornelian, a topaz from Marhaši. She is the jewellery of a king's brother, full of beauty. She is 
+a cylinder seal of nir stone, an ornament like the sun
+
+1 ms. has instead: a cornelian jewel, an ornamental drinking cup
+
+1 ms. has instead: a cornelian XX, an ornament of nir stone
+
+1 ms. has instead: a XX jewel, a beautiful drinking cup
+. She is a bracelet of tin, a ring of antasura metal. She is a nugget of shining gold and silver, 
+but which is living and draws breath XX
+
+1 ms. has instead: XX and breathing
+
+1 ms. has instead: XX place XX
+. She is an alabaster statuette of a protective goddess standing on a pedestal of lapis lazuli. She is 
+a polished rod of ivory
+
+2 mss. have instead: a living figurine (?)
+, 
+with limbs full of beauty
+
+1 ms. has instead: XX
+
+1 ms. has instead: full of pleasure
+.
+t.5.5.1	The message of Lu-diŋira to his mother		32-39	Let me give you a third description of my mother: My mother is 
+rain from heaven
+
+1 ms. has instead: timely rain
+, water for the finest seeds. She is a bountiful harvest of 
+fully-grown fine barley
+
+1 ms. has instead: ripe, exceedingly fine barley
+
+1 ms. has instead: heavenly XX
+
+1 ms. has instead: ripe maturity (?) XX
+. She is a garden of 
+XX
+
+1 ms. has instead: delights
+, 
+full of laughter
+
+1 ms. has instead: filled with rejoicing
+. She is a well-irrigated pine tree, 
+an adorned juniper
+
+1 ms. has instead: adorned with pine-cones
+. She is early fruit, the 
+products
+
+1 ms. has instead: garden's yield
+ of the first month. She is an irrigation ditch bringing fertilising water to the garden plots. She is a sweet Dilmun date, a prime date much sought after.
+t.5.5.1	The message of Lu-diŋira to his mother		40-46	Let me give you a fourth description of my mother: My mother fills the festivals and offerings with joy. She is 
+an akitum offering
+
+1 ms. has instead: the akitum festival
+, awesome (?) to look upon. She is the offspring, 
+the child
+
+1 ms. has instead: the daughter
+ of the king, a song of abundance. She is a place of entertainment set up for delights. 
+1 ms. adds: XX fruit XX abundance.
+ She is a lover, a loving heart who never becomes sated with pleasure. She is the good news that the captive will return 
+to his mother
+
+1 ms. has instead: to celebrate
+.
+t.5.5.1	The message of Lu-diŋira to his mother		47-52	Let me give you a fifth description of my mother: My mother is a palm-tree, with the sweetest fragrance. She is a chariot of juniper wood, a sedan chair of boxwood. She is 
+a fine cloth
+
+1 ms. has instead: a good XX
+ perfumed with refined oil. She is a bunch of grapes, a garland (?) 
+growing luxuriantly
+
+1 ms. has instead: perfect in luxuriant growth
+. 
+She
+
+1 ms. has instead: My mother
+ is a phial made from an ostrich egg, 
+overflowing
+
+1 ms. has instead: full
+ with 
+finest
+
+1 ms. has instead: perfumed
+ oil. 
+1 ms. adds: She is a fair woman, accompanied by a protective goddess XX. She is a woman who will show you compassion like (?) Aruru, XX born XX.
+
+t.5.5.1	The message of Lu-diŋira to his mother		53-54	
+When, thanks to the descriptions I have given you, you stand in her (?) radiant presence, tell her: Your beloved son Lu-diŋira is in good health.
+
+1 ms. has instead: The descriptions I have given you describe (?) her (?) appearance. A most fair woman accompanied by many protective goddesses, she is my mother. Pay attention, XX joyfully XX: Your beloved son Lu-diŋira is in good health XX, tell her XX.
+
+

@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+t.2.4.4.a	A hymn for Šu-Suen		1-10	God of prosperity born to An and gazed upon by Uraš -- Šu-Suen, like Nanna expert in judgment, XX before Enlil, from your birth you were a man of might whose name was proclaimed by Nanna! Šu-Suen, heroic son of An, beloved of Enlil, head held high in the lapis-lazuli E-kur, given birth by Uraš, chosen by the heart of Uraš, you have been elevated over all the lands. Ornament and august servant of Enlil -- whose sceptre has reached far, who alone has Enlil's ear! Endowed with majestic strength, creation of lustrous An, favourite of Ninlil -- Šu-Suen, provider who radiates beauty, XX!
+t.2.4.4.a	A hymn for Šu-Suen		11	1st kirugu.
+t.2.4.4.a	A hymn for Šu-Suen		12	Šu-Suen XX a life of distant days.
+t.2.4.4.a	A hymn for Šu-Suen		13	Its ŋišgiŋal.
+t.2.4.4.a	A hymn for Šu-Suen		14-21	XX of Enlil XX, XX Šu-Suen XX, head held high XX, wearing a long lustrous beard, XX like Utu over all the lands, authoritative Šu-Suen, XX the shrine that brings forth the divine powers, fearsome storm, XX radiance of the Land XX for greatness; who bears light, XX rays of heaven; majestic strength of Enlil, who alone is the lord of abundance -- Šu-Suen, great lion among sovereigns!
+t.2.4.4.a	A hymn for Šu-Suen		22	2nd kirugu.
+t.2.4.4.a	A hymn for Šu-Suen		23-29	You are the mighty one of Father Enlil, the lord who determines destinies! Like Utu, you are an ornament to Ninlil of the majestic shrine, and to fair Lord Enki who determines destinies, the father of broad understanding! Wise Enlil has justly XX to the one he has scrutinised. My king, the gods who determine destinies XX in the place that soothes the spirit. Šu-Suen, XX to pronounce judgments and render verdicts. My king, XX outstretched arms.
+t.2.4.4.a	A hymn for Šu-Suen		30	3rd kirugu.
+t.2.4.4.a	A hymn for Šu-Suen		31	The great lord Šu-Suen XX years of abundance.
+t.2.4.4.a	A hymn for Šu-Suen		32	Its ŋišgiŋal.
+t.2.4.4.a	A hymn for Šu-Suen		33-42	Head held high, fit for the royal crown, son of Ninsumun, mighty and forceful among the Anuna gods XX. Šu-Suen! Holy Inana made manifest XX. Enlil has given to you as your helper the beloved heart whose beauty is unending, the good woman XX -- you have embraced her. Strong one given majestic strength by the Great Mountain, XX from his power; hero excelling all lords and sovereigns, who is their great lion -- Šu-Suen, gracious figure, shining crown, holy breast wondrous to behold, hero born for godhood, ornament of kingship, XX in heaven and on earth, strong as far as the borders of the Land!
+t.2.4.4.a	A hymn for Šu-Suen		43	4th kirugu.
+t.2.4.4.a	A hymn for Šu-Suen		44-48	I shall praise XX. XX of Ninlil is indeed the XX mistress! Like Utu, XX has filled the broad Land XX. XX, Šu-Suen, your provider (?) is distant.
+

@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+t.4.24.1	An adab to Ninlil (Ninlil A)		1-10	Ninlil, comprehensively replete with numerous divine powers! Equal to the Great Mountain; deciding destinies with Lord Nunamnir; suited to the Great Lion; pre-eminent over heaven and earth! Joyous princess (?), lady with the princely divine powers; conveying terror; wise with advice! Mother Ninlil, whose speech is a storm (?), you are a pleasure to Enlil's heart -- he has embraced you! Overseeing everything, Lord Nunamnir loves (?) you. You occupy a holy dais, Mother Ninlil; you provide the XX of prosperity. All the great lords and sovereigns have paid homage to you. Riding in princely style under a broad shelter in coolness, Mother Ninlil, you are the goddess who provides the divine powers of joy and prosperity.
+t.4.24.1	An adab to Ninlil (Ninlil A)		11	Sa-gida.
+t.4.24.1	An adab to Ninlil (Ninlil A)		12	Ninlil, you are more majestic than the other great gods, you are elevated with great and terrifying divine powers.
+t.4.24.1	An adab to Ninlil (Ninlil A)		13	Its ŋišgiŋal.
+t.4.24.1	An adab to Ninlil (Ninlil A)		14-26	XX equal to the great gods,
+
+
+
+Mother Ninlil, righteous woman of Enlil, you dwell in the Ki-ur. In his heart filled with pleasure at your joyous divine powers, he has embraced you. The Enki and Ninki deities have perfected their divine powers throughout all countries for you. My lady, your speech is majestic -- take pleasure in your E-kur!
+t.4.24.1	An adab to Ninlil (Ninlil A)		27	Sa-ŋara.
+t.4.24.1	An adab to Ninlil (Ninlil A)		28	Good woman, Mother Ninlil, you ride across heaven and earth.
+t.4.24.1	An adab to Ninlil (Ninlil A)		29	Its ŋišgiŋal.
+t.4.24.1	An adab to Ninlil (Ninlil A)		30-32	My lady, unique and outstanding goddess throughout heaven and earth! Mother Ninlil, majestic lady, unique and outstanding goddess throughout heaven and earth! In his heart filled with pleasure at your joyous divine powers you are his beloved, XX into the future.
+t.4.24.1	An adab to Ninlil (Ninlil A)		33	Its uru.
+t.4.24.1	An adab to Ninlil (Ninlil A)		34	An adab of Ninlil. lines 33 and 34 are written as one line in source

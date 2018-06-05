@@ -1,0 +1,71 @@
+id_text,text_name,version,l_no,text
+t.3.1.19	Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin		1-3	Say to Ibbi-Suen, my lord: this is what Puzur-Šulgi, the governor of Kazallu, your servant, says:
+t.3.1.19	Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin		4-6	A messenger of Išbi-Erra came to me. He presented himself before me announcing: Išbi-Erra, my lord, sends you a message:
+t.3.1.19	Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin		7-14	Enlil, my lord, has XX the shepherdship of the land. Enlil has told me to bring before Ninisina the cities, deities and troops of the region of the Tigris, Euphrates, Ab-gal and Me-Enlila watercourses, from the province of Hamazi 
+to the sea of Magan
+
+1 ms. has instead: and from the XX of Magan
+, so as to make Isin the storehouse of Enlil, to make it famous, and 
+to make those regions its spoils of war and to make Isin's citizens occupy their cities
+
+1 ms. has instead: to make Isin's citizens occupy the cities as spoils of war.
+
+t.3.1.19	Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin		15-17	Why do you oppose (?) me? 
+I swear by the name of my lord Enlil and by Dagan, my personal god
+
+2 mss. have instead: I swear by the name of Dagan, my personal god
+, that I will indeed get hold of Kazallu!
+t.3.1.19	Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin		18-25	The cities and the province which Enlil has promised me 
+I want to build up
+
+1 ms. has instead: I want to place
+ within Isin in their XX. I want to perform at their ešeš festivals. I want to install my statues, my emblems, my en priests 
+2 mss. add: and lumah priests
+ and nindiŋir priestesses in their ŋipar shrines. Before Enlil, within the E-kur, before Nanna, within the E-kiš-nu-ŋal, the XX shall speak their prayers.
+t.3.1.19	Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin		26-29	And as for you, 
+I want to remove
+
+2 mss. have instead: XX eradicate
+ from within his country the man in whom you placed your trust! I want to rebuild the fortification of Isin and name it Îdil-pāšunu!
+t.3.1.19	Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin		30-32	Just as he said he would, he has rebuilt the fortification of Isin and named it Îdil-pāšunu.
+t.3.1.19	Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin		33-34	He has captured Nibru and installed 
+his garrison
+
+1 ms. has instead: set guards
+ there. Also he has captured Niŋdugani, the chief administrator 
+of Nibru
+
+1 ms. has instead: at Nibru
+.
+t.3.1.19	Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin		35-36	He 
+has imprisoned
+
+1 ms. has instead: made a prisoner of
+ Zinnum, the governor 
+of Subir
+
+1 ms. has instead: of Kiš
+. He has plundered Hamazi.
+t.3.1.19	Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin		37-42	He has made 
+Nūr-ahī
+
+2 mss. have instead: Nūr-Ea
+, the governor of Ešnunna, Šu-Enlil, the governor of Kiš, and 
+Puzur-Tutu
+
+1 ms. has instead: Puzur-Marduk
+, the governor of Bad-ziaba, return to their posts. At his cry of victory the land XX is covered (?) like a XX. Išbi-Erra is constantly at the head of (?) his soldiers!
+t.3.1.19	Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin		43-48	Just as he said he would, he has captured the regions of the Tigris, Euphrates, Ab-gal and Me-Enlila watercourses. He has made Iddin enter Malgium (?). 
+Opposing
+
+1 ms. has instead: hating
+ Girbubu, the governor of Ŋirikal, he 
+cut off his strap
+
+2 mss. have instead: he removed his barley stores (?)
+ and captured him. 
+His cry of victory lies heavily upon us (?)
+
+1 ms. has instead: XX he named XX
+.
+t.3.1.19	Letter from Puzur-Šulgi to Ibbi-Suen about Išbi-Erra's claim on Isin		49-53	Now Išbi-Erra is looking in my direction. I have no ally, nobody with whom I can align myself. Since he has not yet been able to get me in his grasp, let me come to you when he falls upon me. My lord should know this!

@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+t.3.1.05	Letter from Aradŋu to Šulgi about Aba-indasa's missing troops		1-2	Say to my lord: this is what Aradŋu, your servant, says:
+t.3.1.05	Letter from Aradŋu to Šulgi about Aba-indasa's missing troops		3-4	Aba-indasa, the captain of the royal pledged troops, has sent you XX. May my lord take note most carefully concerning this matter.
+t.3.1.05	Letter from Aradŋu to Šulgi about Aba-indasa's missing troops		5-10	When I had set my sights towards Zimudar, I was levying troops for the expedition, my lord; but when Aba-indasa had inspected the troops, 2000 men of those troops were missing. They were not XX, nor XX. They have XX the fortress, my lord, they have taken XX.
+t.3.1.05	Letter from Aradŋu to Šulgi about Aba-indasa's missing troops		11-15	XX offence XX.
+
+Whatever you say, my lord! May my lord know!

@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+t.2.5.5.5	A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E)		1-2	He probably Enlil told her, Ninisina, the great daughter of An, the great daughter-in-law, XX: That Lipit-Eštar should be your provider -- so let it be!
+t.2.5.5.5	A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E)		3	Šagbatuku.
+t.2.5.5.5	A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E)		4-13	Ninisina (?) paid attention to Enlil's utterance. She answered with humility: Father Enlil, god whose name is manifest, XX, Enlil; lord XX, your divine powers are the most XX, your instructions are the most precious (?). For the trustworthy shepherd XX, XX Lord Lipit-Eštar
+
+He has settled the people XX, he (?) has made the Land feel content. You looked upon him with your life-giving gaze: now decree him a true fate!
+t.2.5.5.5	A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E)		14	3rd kirugu.
+t.2.5.5.5	A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E)		15	Nunamnir, bestow upon prince Lipit-Eštar a long life of many days!
+t.2.5.5.5	A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E)		16	Its ŋišgiŋal.
+t.2.5.5.5	A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E)		17-24	The Great Mountain Enlil paid attention to the words spoken by Ninisina. He blessed the king and decreed his fate: Lipit-Eštar, you whom I have called by name, shall be elevated among the people. May the living look to you as to their own fathers and mothers! May the strong one who cares for E-kur, the ensi of the august shrine, Uta-ulu, be your help on the battlefield! May he collect your enemies like swallows for you; may he spread them out like sheaves for you!
+t.2.5.5.5	A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E)		25	4th kirugu.
+t.2.5.5.5	A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E)		26-27	Nunamnir, the lord whose order cannot be altered, has made the name of prince Lipit-Eštar exalted among the numerous people.
+t.2.5.5.5	A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E)		28	Its ŋišgiŋal.
+t.2.5.5.5	A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E)		29-30	I, Enlil, am elevated in heaven, and am the lord of all the divine powers on earth. The good fate I have decreed to Lipit-Eštar is something which can never be changed!
+t.2.5.5.5	A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E)		31	A šir-namgala of Ninisina.

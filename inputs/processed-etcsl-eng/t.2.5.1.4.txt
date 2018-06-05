@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+t.2.5.1.4	A hymn to Ninisina for Išbi-Erra (Išbi-Erra D)		1-9	The great gods elevated XX, and made XX perfect.
+
+Your garment is an exalted garment; Enlil has XX. You were brought up sitting on the knees of An the king, and the great gods elevated XX. Woman whose name is exalted, Gula, XX. You go against all the foreign lands, lady who, for all her pleasantness, fearsomely and mightily XX, who lifts her head in great and elevated divinity.
+t.2.5.1.4	A hymn to Ninisina for Išbi-Erra (Išbi-Erra D)		10-14	Ninisina, your father established you in ladyship over the Land. In awe at you, never altering the fearsomeness XX, holy Ninisina, Lady Gula, Ninisina, in the Egal-mah, founded by An -- bring joy to Išbi-Erra, the beloved of your heart.

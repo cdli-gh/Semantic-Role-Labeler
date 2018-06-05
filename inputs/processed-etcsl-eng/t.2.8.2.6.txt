@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+t.2.8.2.6	A prayer to Inana for Hammu-rābi (Hammu-rābi F)		1-2	Lady who perfects the august divine powers, XX his destiny grandly! O Inana, to whom An has XX manliness in heaven and earth!
+t.2.8.2.6	A prayer to Inana for Hammu-rābi (Hammu-rābi F)		3-10	Foremost among the gods, manifest, XX his destiny! Inana, without whom An and Enlil cannot make a decision in the Land, proud one among the Anuna gods, XX self-esteem and XX! Inana, good wild cow of the great princes, respected among ladies XX, your greatness shines forth to heaven and earth, your divine powers are XX powers. When you speak it is the command of An, XX named by An XX. Your divinity is pre-eminent in the throne-hall (?), your great ways are XX. With An, you give judgment on earth; with Enlil XX.
+t.2.8.2.6	A prayer to Inana for Hammu-rābi (Hammu-rābi F)		11-12	You behave as a lady among living creatures, you XX the dais; you XX great ritual ordinances and commands in the abzu shrine.
+t.2.8.2.6	A prayer to Inana for Hammu-rābi (Hammu-rābi F)		13-19	Without you, no king is XX as shepherd over the Land. An and Enlil XX at your command for the king. By your command, heaven and earth XX. An and Enlil XX the destiny which has been determined for you, Hammu-rābi, king XX. In the four quarters of the world XX the ordinances; XX a time of abundance, a year of plenty, XX life.
+t.2.8.2.6	A prayer to Inana for Hammu-rābi (Hammu-rābi F)		20	Hammu-rābi XX.
+

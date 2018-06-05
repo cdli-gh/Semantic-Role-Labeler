@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+t.5.3.7	The debate between Date Palm and Tamarisk		1-10	The Tamarisk opened his mouth and spoke. He addressed the Date Palm: My body XX the bodies of the gods. The reference is to statues of tamarisk wood. You grow your fruits but someone places them before me like a maid approaching her mistress. You do not provide the measuring vessels. You are XX minor crops, but I XX. Your attendants XX before me for you.
+t.5.3.7	The debate between Date Palm and Tamarisk		11-19	In his anger the Date Palm answered him. He addressed his brother the Tamarisk: You say: If people build daises for me and beautify them too, they certainly do not swear by the gods before clay (?). -- You may be the body of the gods in their shrines and people may name with a good name the daises of the gods, but it is silver that can pride itself as the overlay of the gods. XX, describe your beauty!
+
