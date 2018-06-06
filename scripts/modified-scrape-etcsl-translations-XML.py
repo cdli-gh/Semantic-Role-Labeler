@@ -251,29 +251,35 @@ def getline(lnode, line):
 
 
 def getsection(tree,line_prefix, csvformat):
+    
     sections = tree.find('.//div1')
     if sections != None: # if the text is not divided into sections - skip to else:
         for snode in tree.iter('div1'):
             section = snode.get('n')
-            for lnode in snode.iter('body/p'):
-                line = line_prefix + ',' + section + lnode.get('n') + ','
+            for lnode in snode.iter('p'):
                 #line = getline(lnode, line)
-                line = lnode.text
+                text = (''.join(lnode.itertext()))
+                text= text.strip()
+                text = text.replace('\n', ' ')
+                line = line_prefix + '\t' + section + lnode.get('n') + '\t'
+                line = line + text + '\n'
                 csvformat = csvformat + line
     else:
+    
         for lnode in tree.iter('p'):
             if (lnode.get('n')==None):
                 continue
             text = (''.join(lnode.itertext()))
-            
-            print (lnode.get('n'))
-            
-            line = line_prefix + ',' + lnode.get('n') + ','
+            text= text.strip()
+            text = text.replace('\n', ' ')
+            #print (lnode.get('n'))
+
+            line = line_prefix + '\t' + lnode.get('n') + '\t'
             #line = getline(lnode, line)
             #print (line)
             #print (lnode.text)
-            line = line + text
-            print (line)
+            line = line + text + '\n'
+            #print (line)
             csvformat = csvformat + line
     return csvformat
 
@@ -293,11 +299,11 @@ def getversion(tree, line_prefix, csvformat):
         for vnode in tree.iter('body'):
             version = vnode.find('head').text
             version = equiv_dic[version]
-            line_pr = line_prefix + ',' + version
+            line_pr = line_prefix + '\t' + version
             csvformat = getsection(vnode, line_pr, csvformat)
     else:
         version = ''
-        line_pr = line_prefix + ',' + version
+        line_pr = line_prefix + '\t' + version
         #print (line_pr)
         csvformat = getsection(tree, line_pr, csvformat)
     return csvformat
@@ -313,7 +319,7 @@ def getversion(tree, line_prefix, csvformat):
 
 
 def parsetext(textid):
-    csvformat ='id_text,text_name,version,l_no,text\n' #initialize output variable
+    csvformat ='id_text\ttext_name\tversion\tl_no\ttext\n' #initialize output variable
     with open('translations/' + textid + '.xml') as f:
         xmltext = f.read()
     xmltext = ampersands(xmltext)
@@ -325,9 +331,9 @@ def parsetext(textid):
     foreign = tree.find('.//title/foreign') #some titles have children with <foreign> tag for Sumerian words
     if foreign != None:
         name = name + foreign.text + foreign.tail
-    name = name.replace(' -- a composite transliteration', '')
+    name = name.replace(' -- an English prose translation', '')
     name = name.replace(',', '')
-    line_prefix = textid + ',' + name
+    line_prefix = textid + '\t' + name
     #print (line_prefix)
     
     csvformat = getversion(tree, line_prefix, csvformat)
@@ -368,7 +374,7 @@ with open('Equivalencies/version_equivalencies.txt', 'r', encoding='utf8', error
 
 for eachtextid in tqdm(textlist):
     csvformat = parsetext(eachtextid)
-    outputfile = 'Output-translated/' + eachtextid + '.txt'
+    outputfile = '../../Semantic-Role-Labeler/inputs/processed-etcsl-eng/' + eachtextid + '.txt'
     with open(outputfile, mode = 'w', encoding='utf8', errors='replace') as writeFile:
         writeFile.write(csvformat)  
 
