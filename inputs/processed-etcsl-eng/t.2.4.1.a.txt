@@ -1,1 +1,6 @@
 id_text	text_name	version	l_no	text
+t.2.4.1.a	A praise poem of Ur-Namma (Ur-Namma I)		A1-6	He is the XX of his god; all the foreign countries are full (?) of his fame. He carries out his plans, and Sumer is XX by his greatness. Utu marches before the king.
+t.2.4.1.a	A praise poem of Ur-Namma (Ur-Namma I)		B1-2	XX gate XX spectacle.
+t.2.4.1.a	A praise poem of Ur-Namma (Ur-Namma I)		B3-6	King, white meš tree growing in a pleasant spot in Urim, a shady canopy of numerous large branches facing the sky, years of abundance extending over all foreign countries for those who keep close (?) to your shade. An looks with favour at XX, XX with joy XX.
+t.2.4.1.a	A praise poem of Ur-Namma (Ur-Namma I)		B7-12	Ur-Namma, son of Ninsumun, king given strength by Enlil, tenderly cared for by Ninlil, enthroned by the will of Ninhursaŋa, provided with superior intelligence by Enki,
+t.2.4.1.a	A praise poem of Ur-Namma (Ur-Namma I)		C1	May Ninsumun, the mother who gave you birth, hold you against her chest in the E-kiš-nu-ŋal.

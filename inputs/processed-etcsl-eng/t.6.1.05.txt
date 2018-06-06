@@ -1,1 +1,127 @@
 id_text	text_name	version	l_no	text
+t.6.1.05	Proverbs: collection 5		A1-5	The elephant spoke to himself: There is nothing like me among all the creatures of Šakkan! The wren (?) answered him: But I, in my own small way, was created just as you were!  1 ms. has instead: The elephant spoke to himself: Among all the creatures of Šakkan, the one that can defecate like me has yet to be created! The wren (?) answered him: But I, in my own small way, can defecate just as much as you!
+t.6.1.05	Proverbs: collection 5		A6	You go like an elephant to raise a sunken boat.  1 ms. has instead: An elephant is led to a sunken boat to raise it.
+t.6.1.05	Proverbs: collection 5		A7	cf. 6.1.03.14 The wild bull is taboo for the plough.
+t.6.1.05	Proverbs: collection 5		A8	Like the wild bull, you only do what pleases you.
+t.6.1.05	Proverbs: collection 5		A9	The wild bull wanders about amid the rushes.
+t.6.1.05	Proverbs: collection 5		A10	The wild bull is free from the plough (?).
+t.6.1.05	Proverbs: collection 5		A11	The wild bull XX I abandon the claim.
+t.6.1.05	Proverbs: collection 5		A11A-11B	The wild bull XX enveloped XX above XX.
+t.6.1.05	Proverbs: collection 5		A11C	Wild bull, you XX your strong limbs.
+t.6.1.05	Proverbs: collection 5		A11D	The wild bull XX aggressively.
+t.6.1.05	Proverbs: collection 5		A11E	The wild bull XX.
+t.6.1.05	Proverbs: collection 5		A12	An ox will catch you in your path.
+t.6.1.05	Proverbs: collection 5		A13	Like an ox, you do not know how to turn back.
+t.6.1.05	Proverbs: collection 5		A14	The dog snarls at an ox scrubbed with soap.
+t.6.1.05	Proverbs: collection 5		A15	The ox has been tamed; its tamers are great.
+t.6.1.05	Proverbs: collection 5		A16	The ox XX.
+t.6.1.05	Proverbs: collection 5		A17	cf. 6.1.02.86, 6.1.26.d6 The furrows seem pleasant to an ox on the threshing floor.
+t.6.1.05	Proverbs: collection 5		A18-19	The ox XX.
+t.6.1.05	Proverbs: collection 5		B1-2	The ox XX
+t.6.1.05	Proverbs: collection 5		B3	From so many oxen, is there no dung?
+t.6.1.05	Proverbs: collection 5		B4	If you make the oxen multiply, you may collect their dung.
+t.6.1.05	Proverbs: collection 5		B5	O ox, you wander about in the street like a commissioner.
+t.6.1.05	Proverbs: collection 5		B6	The owner of an ox is also happy at being the emissary at the city gate.
+t.6.1.05	Proverbs: collection 5		B7	The cow jumps to her heart's content, but she does not gore.
+t.6.1.05	Proverbs: collection 5		B8	O cow, like a cat you walk behind the man carrying the food basket.
+t.6.1.05	Proverbs: collection 5		B9	No one will give away even a barren cow for nothing.
+t.6.1.05	Proverbs: collection 5		B10	
+t.6.1.05	Proverbs: collection 5		B11	Like a cow that has not given birth, you are looking for a calf of yours that does not exist!
+t.6.1.05	Proverbs: collection 5		B12	The cow walks in the marsh, the calf on the dry ground.
+t.6.1.05	Proverbs: collection 5		B13-17	A calf entered XX. It did not know how to get out. When the herdsman came to inspect, he hurled the churn towards it, smashing the churn. When the calf came out, it cowered -- but the churn was still smashed.
+t.6.1.05	Proverbs: collection 5		B18	Like a horse you paw the ground where you drink.
+t.6.1.05	Proverbs: collection 5		B19-21	cf. 6.2.3: UET 6/2 287 The horse, after throwing off his rider, said: Were my load to be like this forever, how weak I would become!
+t.6.1.05	Proverbs: collection 5		B22-23	cf. 6.2.3: UET 6/2 283 The donkey, after he had thrown off his packs, said: Now I can forget the burdens of former days!
+t.6.1.05	Proverbs: collection 5		B24	The donkey XX.
+t.6.1.05	Proverbs: collection 5		C1	The donkey stumbled, and the dog XX.
+t.6.1.05	Proverbs: collection 5		C2-3	cf. 6.2.3: UET 6/2 315 While the donkey was swimming in the river, the dog was busy gathering food: When will he climb out and eat?
+t.6.1.05	Proverbs: collection 5		C4-5	He who rents a donkey for a whole year kindles a fire in the moonlight.
+t.6.1.05	Proverbs: collection 5		C6	cf. 6.2.3: UET 6/2 236 Make the donkey sit like this! Make it lift its shrivelled penis!
+t.6.1.05	Proverbs: collection 5		C7	A donkey is being used to transport one shekel of silver.
+t.6.1.05	Proverbs: collection 5		C8	cf. 6.2.3: UET 6/2 234 Using a donkey in place of sheep will not provide you with an omen.
+t.6.1.05	Proverbs: collection 5		C9-11	A donkey XX: In order to grow powerful, don't let your XX dwell in the house of your brother-in-law! When you are able to support a XX, then you may choose a wife.
+t.6.1.05	Proverbs: collection 5		C12-13	If you keep beating a donkey on its back, what XX?
+t.6.1.05	Proverbs: collection 5		C14-15	When the donkey, walking in the desert, met XX, it roused it from where it sat.
+t.6.1.05	Proverbs: collection 5		C16-17	A XX donkey came across a XX man: Do it and then go!
+t.6.1.05	Proverbs: collection 5		C18-22	A sick donkey went up XX: How long have you not felt well? If until now you have not felt well, XX there is a canal inspector XX. Let him come to you, and your bones will feel well again.
+t.6.1.05	Proverbs: collection 5		D1	The donkey XX plenty of urine XX.
+t.6.1.05	Proverbs: collection 5		D2	A donkey XX.
+t.6.1.05	Proverbs: collection 5		D3-11	cf. 6.2.3: UET 6/2 212 The lion had caught a helpless she-goat: Let me go! I will give you my fellow ewe in return! If I am to let you go, tell me your name! The she-goat answered the lion: You do not know my name? 'I-am-cleverer-than-you' is my name! When the lion came to the fold,  he  1 ms. has instead: the lion  cried: I release you! She answered him from the other side: You released me, but were you clever? As for the sheep, none live here!
+t.6.1.05	Proverbs: collection 5		D12	When the lion came to the sheepfold, there was a dog wearing a leash of spun wool.
+t.6.1.05	Proverbs: collection 5		D13-16	cf. 6.2.3: UET 6/2 211 When the lion caught a wild boar, he roared: Your flesh has not yet filled my mouth, but your squeals have deafened my ears!
+t.6.1.05	Proverbs: collection 5		D17-19	A lion having fallen into a trap, a fox came up to him and said: I'll take your sandals home to the other side for you!
+t.6.1.05	Proverbs: collection 5		D20	cf. 6.2.3: UET 6/2 208 l. 1 O lion, your allies in the reedbeds are numerous.
+t.6.1.05	Proverbs: collection 5		D21	cf. 6.2.3: UET 6/2 208 l. 2 In the reedbeds the lion does not eat his acquaintance.
+t.6.1.05	Proverbs: collection 5		D22-23	The lion XX the man who XX said: I shall put in place a house without weapons.
+t.6.1.05	Proverbs: collection 5		D24	The lion who lives a life of compassion will receive it.
+t.6.1.05	Proverbs: collection 5		D25-26	When a lion roars, one says: Don't drop your food!
+t.6.1.05	Proverbs: collection 5		D27	Is the lion accustomed to eating that which is milled?
+t.6.1.05	Proverbs: collection 5		D28	Is the lion accustomed to performing the brewers' craft?
+t.6.1.05	Proverbs: collection 5		D29-30	If the lion heats the soup, who would say It is no good?
+t.6.1.05	Proverbs: collection 5		D31-32	No-one walks for a second time at the place where a lion has eaten a man.
+t.6.1.05	Proverbs: collection 5		D33	He eats meat in the presence of a lion.
+t.6.1.05	Proverbs: collection 5		D34-35	= Alster 1997 5 Vers. A 69  you drink water XX.
+t.6.1.05	Proverbs: collection 5		D36-37	= Alster 1997 5 Vers. B 69 Were a lion to approach him, you would chase only the wolf away!
+t.6.1.05	Proverbs: collection 5		D38	= Alster 1997 5 Vers. A 70 = 5 Vers. B 76 You should not eat the flesh of a wolf.  Vers. B adds: Let me subdue it with all my might.
+t.6.1.05	Proverbs: collection 5		D39	= Alster 1997 5 Vers. B 70 Loving the lion's fish (?), he did not know how to cut it (?).
+t.6.1.05	Proverbs: collection 5		D40-46	= Alster 1997 5 Vers. A 71 = 5 Vers. B 74 Nine wolves having caught 10 sheep, there was one too many and they did not know how to share out the portions. A fox came along and said: Let me allocate the portions for you! The nine of you take one sheep. I by myself shall take nine -- this shall be my share!
+t.6.1.05	Proverbs: collection 5		D47-49	= Alster 1997 5 Vers. B 71 Imagine a wolf is eating. Utu looks down on it and says: Provided you praise me you will grow fat would be the reply.
+t.6.1.05	Proverbs: collection 5		D50-54	= Alster 1997 5 Vers. A 72 The wolf XX the drain-pipe of a house's roof: Last year we were nauseated (?) by your stench. Now this year we are still nauseated (?)! How much longer will we be cursed with your stench? -- Now, as for me, I am hungry! What can I eat?
+t.6.1.05	Proverbs: collection 5		D55	= Alster 1997 p. 133 P i 10'
+t.6.1.05	Proverbs: collection 5		D56-57	= Alster 1997 p. 133 P i 11' A wolf XX sat XX a lamb.
+t.6.1.05	Proverbs: collection 5		D58-64	= Alster 1997 5 Vers. B 72 While the wolf sat stuck in a trap, he said to Utu: When I come out, let me henceforth eat no more sheep. When I am hungry, the sheep I've taken, whatever you mention -- what will they mean to me? I shall be bound by a righteous oath. -- Now, what can I eat?
+t.6.1.05	Proverbs: collection 5		D65-66	= Alster 1997 5 Vers. A 73 = 5 Vers. B 73 The wolf wept before Utu: The animals frisk around together, but I am all alone.
+t.6.1.05	Proverbs: collection 5		D67-68	= Alster 1997 5 Vers. A 74 He bites like a dog does when its tetherer XX.
+t.6.1.05	Proverbs: collection 5		D69-70	= Alster 1997 5 Vers. B 75 The shepherd cannot increase his flock where the wolf takes sheep.
+t.6.1.05	Proverbs: collection 5		D71	Dog, you shouldn't XX bones.
+t.6.1.05	Proverbs: collection 5		D72	To a dog a dream is a joy.
+t.6.1.05	Proverbs: collection 5		D73-75	A dog entered a tavern and said: I can't see a thing. I'll open this one!
+t.6.1.05	Proverbs: collection 5		D76-78	cf. 6.2.3: UET 6/2 264 A dog said to his master: If my pleasure is of no importance to you, then my loss should not be either!
+t.6.1.05	Proverbs: collection 5		D79	cf. 6.2.3: UET 6/2 231 ll. 1-2 The dog does not let me sit down in his master's house.
+t.6.1.05	Proverbs: collection 5		D80	cf. 6.2.3: UET 6/2 231 ll. 3 A rabid dog hates XX the chain (?) XX.
+t.6.1.05	Proverbs: collection 5		D81-82	cf. 6.2.3: UET 6/2 225 The dog understands Take it!, but it does not understand Put it down!
+t.6.1.05	Proverbs: collection 5		D83-84	The dog  wags his tongue (?) at a millstone  1 ms. has instead: XX licks his tongue , and says to his companion:  1 ms. adds: It is an omen from heaven!  Let me clothe you in the lid of a measuring bowl!
+t.6.1.05	Proverbs: collection 5		D85-86	The dog recognises a man who loves him; as the dog is judge, so its tail acts (?) as commissioner!
+t.6.1.05	Proverbs: collection 5		D87-89	The dog gnawing on a bone says to his anus: This is going to hurt you!
+t.6.1.05	Proverbs: collection 5		D90-91	cf. 6.2.3: UET 6/2 228 A dog which XX sheep-fat -- dog is indeed its name.
+t.6.1.05	Proverbs: collection 5		D92	A dog does not stand still on the ferry-boat!
+t.6.1.05	Proverbs: collection 5		D93-94	A dog XX
+t.6.1.05	Proverbs: collection 5		D95-99	When the dog goes out into an orchard to get dates, the owner of the orchard chases him away. The thief XX goes out XX dates.
+t.6.1.05	Proverbs: collection 5		D100-101	A dog XX
+t.6.1.05	Proverbs: collection 5		D102	A dog XX.
+t.6.1.05	Proverbs: collection 5		D103-104	A dog XX
+t.6.1.05	Proverbs: collection 5		D105	Like a dog, he hates to grovel.
+t.6.1.05	Proverbs: collection 5		D106	cf. 6.1.03.95 He growls like a dog struck by a ball (?).
+t.6.1.05	Proverbs: collection 5		D107	Control the dog, but love the puppy!
+t.6.1.05	Proverbs: collection 5		D108	cf. 6.2.2: MDP 27 102 An angry dog XX.
+t.6.1.05	Proverbs: collection 5		D109	To purchase a dog is within your sights; to purchase a waggon is to be destroyed.
+t.6.1.05	Proverbs: collection 5		D110	cf. 6.2.3: UET 6/2 223 A dog which is played with turns into a puppy.
+t.6.1.05	Proverbs: collection 5		D111-112	cf. 6.2.3: UET 6/2 324 He cried out like a dog in a frenzy; its reward was having its skin flayed.
+t.6.1.05	Proverbs: collection 5		D113	Like rabid dogs, XX their paws in the moonlight.
+t.6.1.05	Proverbs: collection 5		D114	Like a rabid dog XX.
+t.6.1.05	Proverbs: collection 5		D115	cf. 6.2.3: UET 6/2 309 You behave like a rabid dog stretching his neck into the river (?) XX.
+t.6.1.05	Proverbs: collection 5		D116-125	A dog entered a warehouse. The merchant broke his leg with a wooden door-bolt: Get out of here! The dog questioned his tail: Is there something behind me? Those things which make you happy! it was told. Well then, let me go back again tonight and receive something! And so, upon his return, his leg was again broken. He dragged his tail and sat in the street. A second time he questioned his tail: Did the bolt just come out from in front of you, like before?
+t.6.1.05	Proverbs: collection 5		D126-128	The dog XX winter XX:  The start of summer will tease my nose!
+t.6.1.05	Proverbs: collection 5		D129-130	The dog XX a yoke does not adorn (?) anything: XX behind you a fattened ox is being slaughtered.
+t.6.1.05	Proverbs: collection 5		D131	The dog XX the shepherd XX his throat XX.
+t.6.1.05	Proverbs: collection 5		D132-133	cf. 6.2.2: MDP 27 82, 6.2.3: UET 6/2 224 A chained dog starts a fight. Would you not roar at that dog XX?
+t.6.1.05	Proverbs: collection 5		D134-135	cf. 6.2.3: UET 6/2 222 If a dog snarls, throw a morsel into his mouth.
+t.6.1.05	Proverbs: collection 5		D136-137	The dog has been taught to pay attention; as long as he pays attention, he may escape his chain.
+t.6.1.05	Proverbs: collection 5		D138	A dog climbed up onto the roof.
+t.6.1.05	Proverbs: collection 5		D139	Dog, you are counting sheep.
+t.6.1.05	Proverbs: collection 5		D140	Like a dog you have nowhere to sleep.
+t.6.1.05	Proverbs: collection 5		D141	He is a dog without a tail.
+t.6.1.05	Proverbs: collection 5		D142-143	XX they roared at the dog XX cried out XX.
+t.6.1.05	Proverbs: collection 5		D144	cf. 6.2.3: UET 6/2 230 ll. 1-2 The dog collects bones.
+t.6.1.05	Proverbs: collection 5		D145-147	cf. 6.2.3: UET 6/2 230 ll. 3-5 A dog went to a party. When he saw the bones there, he left, saying: Where I am going, I shall get more to eat than this!
+t.6.1.05	Proverbs: collection 5		D148	When a bitch eats XX food and drink, the puppies will have no teeth.
+t.6.1.05	Proverbs: collection 5		D149	When the bitch is weakened from XX, the puppies will not be able to open their eyes.
+t.6.1.05	Proverbs: collection 5		D150-152	Bitches advise their young: You should not eat the food from a funeral offering. When the person has brought it here, they will eat it.
+t.6.1.05	Proverbs: collection 5		D153	cf. 6.2.3: UET 6/2 232 Like a whelping bitch he bites the workmen.
+t.6.1.05	Proverbs: collection 5		D154	Like a man's bitch you are walking behind a shaven-headed man.
+t.6.1.05	Proverbs: collection 5		D155	Like the bitch of a scribe, he struts through the fields as though he were in charge (?).
+t.6.1.05	Proverbs: collection 5		D156-157	cf. 6.2.3: UET 6/2 313 Thus says the bitch to the kid goat: Whether you are yellow or mottled, I still love my little ones.
+t.6.1.05	Proverbs: collection 5		D158-159	The bitch is a fool: bread is the food ration for her mouth, and a XX is the judge for her anus!
+t.6.1.05	Proverbs: collection 5		D160-161	When we have a bitch and have caught hold of her, only then will we give her a name.
+t.6.1.05	Proverbs: collection 5		E1	= Alster 1997 p. 121 D i 1 = Gordon 1958 5.19
+t.6.1.05	Proverbs: collection 5		E2-3	= Alster 1997 p. 121 D i 2 = Gordon 1958 5.20

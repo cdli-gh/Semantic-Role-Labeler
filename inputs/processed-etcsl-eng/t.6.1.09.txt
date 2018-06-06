@@ -1,1 +1,65 @@
 id_text	text_name	version	l_no	text
+t.6.1.09	Proverbs: collection 9		A1	cf. 6.1.10.1, 6.2.5: IM 43438 Seg. A l. 1 Whatever the man in authority said, it was not pleasant.
+t.6.1.09	Proverbs: collection 9		A2	cf. 6.1.10.2 Whatever the man in authority said, it was not right.
+t.6.1.09	Proverbs: collection 9		A3-4	cf. 6.1.10.3-4, 6.2.2: MDP 27 216, 6.2.5: IM 43438 Seg. A l. 2 When the authorities are wise, and the poor are loyal, it is the effect of the blessing of Aratta.
+t.6.1.09	Proverbs: collection 9		A5	cf. 6.1.10.5, 6.1.22: l. 190, 6.2.3: UET 6/3 80 l. 18 The mighty man is master of the earth.
+t.6.1.09	Proverbs: collection 9		A6	cf. 6.1.10.6 It is from a man's mouth that strength comes.
+t.6.1.09	Proverbs: collection 9		A7	cf. 6.1.10.7, 6.2.3: UET 6/3 462 Strength cannot keep pace with intelligence.
+t.6.1.09	Proverbs: collection 9		A8	cf. 6.1.10.8 The strength of my god completes my own.
+t.6.1.09	Proverbs: collection 9		A9	cf. 6.1.10.9, 6.1.17.b3, ll. 12-13, 5.6.7: l. 28 Youthful vigour has left my loins, like a runaway donkey.
+t.6.1.09	Proverbs: collection 9		A10	Ignoramuses are numerous in the palace.
+t.6.1.09	Proverbs: collection 9		A11	He who knows but does not speak is a fool.
+t.6.1.09	Proverbs: collection 9		A12-14	No one can rival the wise man.     1 ms. has instead: XX, let him be cut down.
+t.6.1.09	Proverbs: collection 9		A15	cf. 6.1.19.b1, 6.1.21.b4, 6.1.24.2, 6.2.5: YBC 4677 ll. 1-2 When a fattened pig is about to be slaughtered, one says: Let me replace what I eat.
+t.6.1.09	Proverbs: collection 9		A16-17	cf. 6.1.19.b2, 6.1.21.b5, 6.1.24.2, 6.2.5: YBC 4677 ll. 3-4 As the piglet roots around (?), it says: I do not eat for pleasure.
+t.6.1.09	Proverbs: collection 9		A18-19	cf. 6.1.19.b5, 6.1.24.4 The ruler's wife kneels, the slave girl dies. The ruler kneels, the slave dies.
+t.6.1.09	Proverbs: collection 9		A20	
+t.6.1.09	Proverbs: collection 9		A21	
+t.6.1.09	Proverbs: collection 9		A22	
+t.6.1.09	Proverbs: collection 9		A23	
+t.6.1.09	Proverbs: collection 9		B1-2	= Alster 1997 9 Sec. B 1 Version A; cf. 6.1.03.31, 6.1.11.18, 6.1.15.b8, 6.1.25.4, 6.2.1: Ni 4469 Seg. A ll. 9-12 Nanni held his old age in high esteem XX king XX palace XX.
+t.6.1.09	Proverbs: collection 9		B3-4	= Alster 1997 9 Sec. B 1 Version B; cf. 6.1.21.c15 XX of the slave girl XX the slave girl's mistress XX.
+t.6.1.09	Proverbs: collection 9		B5	= Alster 1997 9 Sec. B 2 Version A XX thing XX if XX.
+t.6.1.09	Proverbs: collection 9		B6-11	= Alster 1997 9 Sec. B 2 Version B; cf. 6.1.21.c16, ll. 1-6; edited separately as 5.6.8 The lazy slave girl
+t.6.1.09	Proverbs: collection 9		B12	= Alster 1997 9 Sec. B 3 Version A; cf. 6.1.21.c16, l. 9 The man whose feet are deformed accepts shoes.
+t.6.1.09	Proverbs: collection 9		B13	= Alster 1997 9 Sec. B 4 Version A; cf. 6.1.21.c16, l. 10 It is the one who wears a loincloth who will accept the ceremonial garment.
+t.6.1.09	Proverbs: collection 9		B14	= Alster 1997 9 Sec. B 5 Version A; cf. 6.1.21.c16, l. 11 The lord XX.
+t.6.1.09	Proverbs: collection 9		B15	= Alster 1997 9 Sec. B 6 Version A; cf. 6.1.21.c16, l. 12 Slave who has appropriated the role of lord, slave girl who has appropriated the role of lady XX.
+t.6.1.09	Proverbs: collection 9		B16-17	= Alster 1997 9 Sec. B 7 XX thing XX woman XX.
+t.6.1.09	Proverbs: collection 9		B18	= Alster 1997 9 Sec. B 8
+t.6.1.09	Proverbs: collection 9		C1	
+t.6.1.09	Proverbs: collection 9		C2-3	
+t.6.1.09	Proverbs: collection 9		C4-5	
+t.6.1.09	Proverbs: collection 9		C6	
+t.6.1.09	Proverbs: collection 9		D1	
+t.6.1.09	Proverbs: collection 9		D2-3	cf. 6.1.19.e2, 6.2.3: UET 6/3 464 ll. 1-2 The wise XX the knowledgeable XX.
+t.6.1.09	Proverbs: collection 9		D4-5	cf. 6.1.13.29, 6.1.19.e3, 6.2.3: UET 6/3 464 l. 3 A fool who was overwhelmed XX by his backside stuck his hand up his backside.
+t.6.1.09	Proverbs: collection 9		D6-9	cf. 6.2.1: N 4248 Seg. A ll. 8-13, 6.2.1: Ni 9824 Seg. B ll. 3-5, 6.2.3: UET 6/2 315 ll. 10-13 Run! is the king's command. Because of my silver, because of my gold, because of my money chest XX, I am finished!
+t.6.1.09	Proverbs: collection 9		D10	
+t.6.1.09	Proverbs: collection 9		E1-2	XX his child XX.
+t.6.1.09	Proverbs: collection 9		E3-5	XX spouse XX intelligence XX.
+t.6.1.09	Proverbs: collection 9		E6-7	XX saw XX. Let me go! says the treacherous man.
+t.6.1.09	Proverbs: collection 9		E8-10	Oh Utu, you are my judge: pronounce my judgment! You are my decision-maker, decide my case! The dream that I have seen -- turn it into a favourable one!
+t.6.1.09	Proverbs: collection 9		E11	Let me walk straight, so that I can catch up with my companion!
+t.6.1.09	Proverbs: collection 9		E12-13	Supposing sleep overtakes those who drag the boat, supposing sleep overtakes them -- the only possibility is to walk along the road.
+t.6.1.09	Proverbs: collection 9		E14	Who can compare with humility? -- It is set in goodness.
+t.6.1.09	Proverbs: collection 9		F1	
+t.6.1.09	Proverbs: collection 9		F2	XX scribe (?) XX.
+t.6.1.09	Proverbs: collection 9		F3	XX scribe (?) XX.
+t.6.1.09	Proverbs: collection 9		F4	
+t.6.1.09	Proverbs: collection 9		F5	
+t.6.1.09	Proverbs: collection 9		F6	
+t.6.1.09	Proverbs: collection 9		F7	
+t.6.1.09	Proverbs: collection 9		F8	
+t.6.1.09	Proverbs: collection 9		F9	
+t.6.1.09	Proverbs: collection 9		G1-2	= Alster 1997 p. 187 N 4304 1'
+t.6.1.09	Proverbs: collection 9		G3-4	= Alster 1997 p. 187 N 4304 2'
+t.6.1.09	Proverbs: collection 9		G5-6	= Alster 1997 9 Sec. G 1
+t.6.1.09	Proverbs: collection 9		G7-9	= Alster 1997 9 Sec. G 2 XX him XX deliveries XX makes numerous for him the deliveries XX Lu-Suena's second-in-command.
+t.6.1.09	Proverbs: collection 9		G10	= Alster 1997 9 Sec. G 3; cf. 6.1.16.e7 Like a mountain mined for metal ore, this man is not in a right state of mind.
+t.6.1.09	Proverbs: collection 9		H1	
+t.6.1.09	Proverbs: collection 9		H2-5	XX puts the standard (?) in his hands; XX do not fill my hands with dust!
+t.6.1.09	Proverbs: collection 9		H6-8	XX that man like an ignoramus  XX reaches the little (?) XX.
+t.6.1.09	Proverbs: collection 9		H9-10	XX rain from the heavens; XX what is its support beam?
+t.6.1.09	Proverbs: collection 9		H11-12	XX like XX; XX I am standing XX.
+t.6.1.09	Proverbs: collection 9		H13-15	XX you spy on (?); XX just like a judge, XX lie down for you there XX.

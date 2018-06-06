@@ -1,1 +1,7 @@
 id_text	text_name	version	l_no	text
+t.4.08.31	A balbale to Inana (Dumuzid-Inana E1)		A1-16	
+t.4.08.31	A balbale to Inana (Dumuzid-Inana E1)		A17-22	The young maiden XX a tiara. The young man XX sword belt. Let my girlfriend XX to the place of the festival. She rides on a beast, XX on a beast. XX on a lion XX. XX on a great beast XX.
+t.4.08.31	A balbale to Inana (Dumuzid-Inana E1)		B1-16	XX gathers XX, XX on her ears. She blends (?), she blends (?) XX. She blends (?) kohl. She lets down her hair which was combed up. She bathes and rubs herself with soap. She rubs herself with soap from the white bowl, she bathes with water from the holy ewer. She anoints herself with sweet oil from the stone bowl. She dresses in her laundered clothes. She combs up her hair which was let down. She paints her eyes with kohl. She puts the lapis lazuli beads on her neck, arranging their button on her neck sinews. She XX a cylinder seal on the nape of her neck. She covers her body with a queenly robe.
+t.4.08.31	A balbale to Inana (Dumuzid-Inana E1)		B17-21	Durtur XX the house of her girlfriend. Durtur, walking on the hills, XX. Durtur, circling (?) around in the valleys, XX. Durtur XX her girlfriend. Durtur XX.
+t.4.08.31	A balbale to Inana (Dumuzid-Inana E1)		C1-7	XX Lugalbanda. XX Ninsumun. Durtur XX kohl on her eyes.
+t.4.08.31	A balbale to Inana (Dumuzid-Inana E1)		C8	A balbale of Inana.

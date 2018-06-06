@@ -121,6 +121,11 @@ t.6.2.3	Proverbs: from Urim	UET 6/3 80	18	cf. 6.1.09.a4, 6.1.10.5, 6.1.22: l. 19
 t.6.2.3	Proverbs: from Urim	UET 6/3 80	19	Let me tear out XX, it will not be achieved.
 t.6.2.3	Proverbs: from Urim	UET 6/3 80	20	XX who will do it?
 t.6.2.3	Proverbs: from Urim	UET 6/3 80	21	
+t.6.2.3	Proverbs: from Urim	UET 6/2 339 +	A1-11	
+t.6.2.3	Proverbs: from Urim	UET 6/2 339 +	B1	
+t.6.2.3	Proverbs: from Urim	UET 6/2 339 +	B2	cf. UET 6/2 239, UET 6/2 320, 6.1.01.09, 6.1.22: ll. 140-145 If bread is left over, the mongoose eats it. If I have bread left over, a stranger consumes it.
+t.6.2.3	Proverbs: from Urim	UET 6/2 339 +	B3	cf. UET 6/2 261 and UET 6/2 262, 6.1.01.23, 4.14.1: l. 144 To be wealthy and demand more is an abomination to one's god.
+t.6.2.3	Proverbs: from Urim	UET 6/2 339 +	B4-6	Because he lives as though deaf, because of you, my son is not fit to be a scribe.
 t.6.2.3	Proverbs: from Urim	UET 6/2 289	1-10	He who slanders XX for the liar -- Ninegala will crush his head XX. His good deeds aim at evil. His looks are shameless. There are fingers pointing at him from behind. Utu, the lord who loves justice, extirpates wickedness and prolongs righteousness. A heavy punishment XX slander (?) befalls him.
 t.6.2.3	Proverbs: from Urim	UET 6/2 350	1-9	XX ascends to heaven.  When battle approaches, when war arises, the plans of the gods, beloved by the gods, are destroyed. You cause fire to devour the Land. May my god know that my hand is suited to the stylus.
 t.6.2.3	Proverbs: from Urim	UET 6/2 365	1-4	As for me, what did my god do?  the basket and my debt, no expenditures were made for him!

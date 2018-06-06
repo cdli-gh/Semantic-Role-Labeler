@@ -1,1 +1,11 @@
 id_text	text_name	version	l_no	text
+t.4.13.07	A hymn to Nanna (Nanna G)		A1-4	Nanna, XX, lord, son of Enlil, XX, Nanna, lord, XX, lord, son of Enlil, XX!
+t.4.13.07	A hymn to Nanna (Nanna G)		A5-8	Lord, sweet wonder XX! The woman perfect in beauty XX. Nanna, lord, sweet wonder XX! The woman perfect in beauty XX.
+t.4.13.07	A hymn to Nanna (Nanna G)		A9-12	Ninhursaŋa XX, the great mother Ninhursaŋa XX. Nanna, XX, the great mother Ninhursaŋa XX.
+t.4.13.07	A hymn to Nanna (Nanna G)		A13-16	you XX. Nanna, XX, you XX.
+t.4.13.07	A hymn to Nanna (Nanna G)		A17	
+t.4.13.07	A hymn to Nanna (Nanna G)		B1	
+t.4.13.07	A hymn to Nanna (Nanna G)		B2-5	XX you have shown your attractiveness to me. May your beauty cover my body like a XX garment. Nanna, XX you have shown your attractiveness to me. May your beauty cover my body like a XX garment.
+t.4.13.07	A hymn to Nanna (Nanna G)		B6-9	Lord whose pure hands befit the milk churn, what you accomplish is pleasing to An and Enlil. Nanna, lord whose pure hands befit the milk churn, what you accomplish is pleasing to An and Enlil.
+t.4.13.07	A hymn to Nanna (Nanna G)		B10-17	May you build enduringly the eternal (?) house. May you build enduringly Nanna's eternal (?) house, the XX quarters (?) and the courtyard of Nanna -- the temple whose shadow extends out into the midst of the sea, the E-kiš-nu-ŋal, the sweet wonder, the temple of Nanna built on empty land! XX, Suen XX among the gods. XX Enlil (?). XX, Nanna, lord, great son of An, beloved XX of Enlil and Ninlil,
+t.4.13.07	A hymn to Nanna (Nanna G)		C1-12	

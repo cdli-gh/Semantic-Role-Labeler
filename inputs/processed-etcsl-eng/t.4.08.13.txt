@@ -1,1 +1,4 @@
 id_text	text_name	version	l_no	text
+t.4.08.13	A šir-namšub to Inana (Dumuzid-Inana M)		A1-10	Belonging to Inana XX. Belonging to the gatherer (?) of divine powers XX. Belonging to my good woman XX. My good young woman XX. Plenty XX Dumuzid XX. Ušumgal-ana XX. Belonging to the lady XX. Ninegala XX.
+t.4.08.13	A šir-namšub to Inana (Dumuzid-Inana M)		B1-4	
+t.4.08.13	A šir-namšub to Inana (Dumuzid-Inana M)		B5-6	A šir-namšub. A širnamšub of (?) XX.

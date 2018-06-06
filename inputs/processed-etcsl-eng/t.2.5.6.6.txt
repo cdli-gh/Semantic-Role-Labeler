@@ -1,1 +1,10 @@
 id_text	text_name	version	l_no	text
+t.2.5.6.6	An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F)		A1-2	Hero of abundance, joyously (?) rumbling, Father Iškur, great storm, you XX.
+t.2.5.6.6	An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F)		A3	barsud
+t.2.5.6.6	An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F)		A4-9	Inundation, mighty tempest, raging wind, whose noise XX, XX in heaven and earth XX, Iškur XX wind XX, flashing lightning, XX
+t.2.5.6.6	An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F)		B1-10	A second time he XX a mighty tempest and a raging wind. A third time XX a destructive wind of heaven. A fourth time he addressed (?) the dense clouds in the heavens. Fine barley stood in the fertile fields, and the corn joyously XX. Iškur organised everything; he XX the harvest and the superior barley. He heaped up grain piles and grain stores in the fields for Ur-Ninurta. On a favourable day he sowed the seeds, he XX the wheat. For Ur-Ninurta the son of An he sowed the seeds, XX. Iškur, Inana and XX life for him.
+t.2.5.6.6	An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F)		B11	sa-ŋara
+t.2.5.6.6	An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F)		B12	Iškur XX Ur-Ninurta, the favourite (?) of Ninlil.
+t.2.5.6.6	An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F)		B12	Its ŋišgiŋal.
+t.2.5.6.6	An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F)		B14-16	Holy lord of heaven and earth, who gives life to the holy people (?), Father Iškur, holy lord of heaven and earth, who gives life to the holy people (?)! May plenty be provided for Ur-Ninurta, XX.
+t.2.5.6.6	An adab (?) to Iškur for Ur-Ninurta (Ur-Ninurta F)		B17	Its uru.

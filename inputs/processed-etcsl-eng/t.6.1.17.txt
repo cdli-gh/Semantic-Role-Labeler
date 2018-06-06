@@ -1,1 +1,15 @@
 id_text	text_name	version	l_no	text
+t.6.1.17	Proverbs: collection 17		A1-3	
+t.6.1.17	Proverbs: collection 17		A4-5	
+t.6.1.17	Proverbs: collection 17		B1-3	
+t.6.1.17	Proverbs: collection 17		B4-10	cf. 6.1.22: ll. 203-206, 1.8.1.5: ll. 28-29, 1.8.1.5.1: ll. 12-13, 6.3.a: ll. 17-18 No one is tall enough to reach up and touch the heavens. No one is broad enough to lift his gaze over the whole earth. No one is strong enough even to stretch himself fully in his bed. But you (?), who roar like a storm -- may you establish yourself like a lion.  No man can bring about your demise.
+t.6.1.17	Proverbs: collection 17		B11-17	cf. 6.1.09.a8, 6.1.10.9-12, 6.1.19.a1, 5.6.7: ll. 28-31 I was a youth -- now my personal god, and access to my protective deity, and my youthful vigour have all left my loins, like a run-away donkey. My black mountain has sprouted white gypsum. My mother XX from the forest XX has given me paralysed hands. My mongoose, which used to eat strong-smelling butter, can no longer stretch its neck even towards a jar of ghee.
+t.6.1.17	Proverbs: collection 17		B18-19	cf. 6.1.02.23 The poor man does not strike his son a single blow; he treasures him highly forever.
+t.6.1.17	Proverbs: collection 17		B20	cf. 6.1.02.22 When someone is poor XX, they dine on the broth of the human breast.
+t.6.1.17	Proverbs: collection 17		B21	A poor man staring into the soup.
+t.6.1.17	Proverbs: collection 17		B22-23	cf. 6.1.03.64 Scales made with a net are a pit contrived of dishonesty; should a man then take a merchant for his friend?
+t.6.1.17	Proverbs: collection 17		B24-25	cf. 6.1.01.165, 6.1.03.65, 6.1.22: ll. 194-196 You, merchant, how small you made the amount of silver! And how small you made the amount of barley!
+t.6.1.17	Proverbs: collection 17		B26-28	cf. 6.1.02.158, 6.1.14.22, 6.1.25.10 The palace: one day a mother giving birth, the next day a mother in mourning.
+t.6.1.17	Proverbs: collection 17		B29	
+t.6.1.17	Proverbs: collection 17		C1-3	
+t.6.1.17	Proverbs: collection 17		C4	XX slave girl XX.

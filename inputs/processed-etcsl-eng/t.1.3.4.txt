@@ -1,1 +1,11 @@
 id_text	text_name	version	l_no	text
+t.1.3.4	Inana and Gudam		A1	Gudam XX the city.
+t.1.3.4	Inana and Gudam		B1-7	Gudam XX. Gudam XX. Inana XX. Gudam XX within Unug XX. He XX the storehouse XX. Gudam XX the beer, XX the wine, XX the bronze vessels, XX the bronze vessels XX.
+t.1.3.4	Inana and Gudam		C1-9	They filled the bronze vessels to the brim. He made the tilimda vessels shine like the holy barge, XX fine chickpea flour, bearded carp XX. XX, he XX fish like dates. Many followed Gudam on the streets of Unug. They sat armed before him. Her = Inana's (?) singer Lugal-gabaŋal came out to XX, and looked at the troops. The singer met him with a song, XX string with his hand:
+t.1.3.4	Inana and Gudam		C10-15	What you have eaten, what you have eaten -- it was not bread that you have eaten, it was your flesh that you have eaten! What you have drunk, what you have drunk -- it was not beer that you drank, it was your blood that you drank! Gudam, many followed you on the streets of Unug; they sat armed before you.
+t.1.3.4	Inana and Gudam		C16-19	XX what the woman ordered me, when I have XX. Gudam slapped his thigh with his fist in annoyance; fear overcame him: He did not grasp the Šar-ur, my heroic weapon. For me the temple of Zabalam XX.
+t.1.3.4	Inana and Gudam		C20-25	He lopped off the crossbeams of E-ana as if (?) they were branches. Gudam went out into the street. Gudam crushed many on the streets of Unug, and killed many with his mace.  He hacked down the door of the city gate  the other ms. has instead: XX the gate, the gate of Iškur . He went out from XX.
+t.1.3.4	Inana and Gudam		C26-29	A junior fisherman, a fisherman of Inana,  turned  the other ms. has instead: XX  the double-axe against him and struck Gudam down. Gudam began to grieve, and was tear-stricken:
+t.1.3.4	Inana and Gudam		C30-32	Inana, spare my life! I will give you bulls of the mountains, I will make your cow-pen full! I will give (?) you sheep of the mountains, I will make your sheepfold full!
+t.1.3.4	Inana and Gudam		C33-35	Holy Inana replied to him:  the other ms. adds: XX bulls of the mountains for me. XX sheep of the mountains for me. XX weapon XX.  The fields of Zabalam, where you dwelt: its villages XX. Over a wide area, may XX calm for you, may XX desire (?).
+t.1.3.4	Inana and Gudam		C36-37	Inana, I will speak of your heroism. It is pleasant to praise you!

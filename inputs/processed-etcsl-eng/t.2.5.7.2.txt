@@ -1,1 +1,9 @@
 id_text	text_name	version	l_no	text
+t.2.5.7.2	An adab to Enlil for Būr-Suen (Būr-Suen B)		A1-13	XX who alone surpasses heaven and earth, the exalted one, prominent among the Anuna gods, whose utterances cannot be overturned! Nunamnir, whose decisions cannot be altered, proud one imbued with terrifying awesomeness,  who alone is exalted  1 ms. has instead: who alone is eminent, the foremost one  among the Great Princes, has taken his seat in the shrine of Nibru, in Dur-an-ki, in E-kur, the temple where the fates are determined, in the holy shining temple. When Mother Ninlil, who is equal in rank with the Great Mountain, embraces him XX, XX says to XX: XX chosen in the heart by XX.
+t.2.5.7.2	An adab to Enlil for Būr-Suen (Būr-Suen B)		B1-8	The city, where XX orders XX.  Enlil, what you say is exalted, and there is no god who can interpret it. I will make the fate I have determined for you even more glorious. I will make your life long-lasting. I will make your days as numerous as those of Utu. You are the god of all the foreign lands!
+t.2.5.7.2	An adab to Enlil for Būr-Suen (Būr-Suen B)		B9	Sa-ŋara.
+t.2.5.7.2	An adab to Enlil for Būr-Suen (Būr-Suen B)		B10	You are the lord who determines the fates! Būr-Suen's royal trust is in you!
+t.2.5.7.2	An adab to Enlil for Būr-Suen (Būr-Suen B)		B11	Its ŋišgiŋal.
+t.2.5.7.2	An adab to Enlil for Būr-Suen (Būr-Suen B)		B12-14	You have made justice and righteousness conspicuous, and you have made the Land feel content. Būr-Suen, may your name be a cause for rejoicing XX daily. May you be exalted among XX; let them call you the pre-eminent lord!
+t.2.5.7.2	An adab to Enlil for Būr-Suen (Būr-Suen B)		B15	Its uru.
+t.2.5.7.2	An adab to Enlil for Būr-Suen (Būr-Suen B)		B16	An adab of Enlil. lines 15 and 16 are written as one line in source

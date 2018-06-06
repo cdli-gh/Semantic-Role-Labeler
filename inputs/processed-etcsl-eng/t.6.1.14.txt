@@ -1,1 +1,40 @@
 id_text	text_name	version	l_no	text
+t.6.1.14	Proverbs: collection 14		A1	cf. 6.2.5: UM 29-16-519 Seg. B l. 1 Let the favour be repaid to him who repays a favour.
+t.6.1.14	Proverbs: collection 14		A2	cf. 6.2.5: NBC 8072 May Luma grant prosperity to him  who speaks well of others  1 ms. has instead: who has good things .
+t.6.1.14	Proverbs: collection 14		A3-4	cf. 6.1.16.c1, 6.2.5: UM 29-16-519 Seg. A ll. 7-8 The farmer lifts his gaze to you i.e. Enlil: May Enlil look upon the city that he cursed.
+t.6.1.14	Proverbs: collection 14		A5-6	cf. 6.1.15.b1, 6.1.16.c2, 6.2.5: UM 29-16-519 Seg. A ll. 9-10 The herdsman lifts his gaze to you: May Enlil look upon the city that he cursed.
+t.6.1.14	Proverbs: collection 14		A7-8	cf. 6.1.15.b2, 6.1.16.c3, 6.2.5: UM 29-16-519 Seg. A ll. 11-12 The potter lifts his gaze to you: May Enlil look upon the city that he cursed.
+t.6.1.14	Proverbs: collection 14		A9-11	cf. 6.1.03.149, 6.1.16.c5, 6.1.22: ll. 172-175, 6.1.25.1 The day became cloudy but it did not rain. It rained, but not enough for people to undo their sandals. The Tigris was not surging at its inlet, so water did not fill the arable lands.
+t.6.1.14	Proverbs: collection 14		A12-14	
+t.6.1.14	Proverbs: collection 14		B1	cf. 6.1.01.68, 6.1.25.6 You should drive them like pack-asses into a death-stricken city.
+t.6.1.14	Proverbs: collection 14		B2-3	The temple E-babbar, which Me-silim had built, was destroyed by Nanni, whose posterity had been cut off.
+t.6.1.14	Proverbs: collection 14		B4	cf. 6.1.02.143 If a household has harmed an acquaintance, the matter should be investigated.
+t.6.1.14	Proverbs: collection 14		B5-6	cf. 6.1.03.92, 4.05.1: ll. 54-55 Enlil's temple is a collecting (?) of wages (?); yet to reach out, to look with greedy eyes and to seize should be abominations there.
+t.6.1.14	Proverbs: collection 14		B7	Both the palace and the nether world require obedience from their inhabitants.
+t.6.1.14	Proverbs: collection 14		B8-10	cf. 6.1.02.157, 6.1.25.11, 6.2.3: UET 6/2 317 A palace cannot ignore waste land. A barge cannot ignore straw. A freeborn man cannot ignore toil.
+t.6.1.14	Proverbs: collection 14		B11-12	cf. 6.1.02.153 The palace is an ox; you should catch it by the tail. Utu is lord; you should fix your gaze on him.
+t.6.1.14	Proverbs: collection 14		B13-14	cf. 6.1.02.158, 6.1.17.b9, 6.1.25.10 The palace: one day a mother giving birth, the next day a mother in mourning.
+t.6.1.14	Proverbs: collection 14		B15	cf. 6.1.02.156, 6.1.25.8 The palace is a slippery place XX.
+t.6.1.14	Proverbs: collection 14		B16	
+t.6.1.14	Proverbs: collection 14		B17	
+t.6.1.14	Proverbs: collection 14		B18	XX a river XX.
+t.6.1.14	Proverbs: collection 14		B19-20	cf. 6.1.01.160 Having wives is human. Having children is from the gods.
+t.6.1.14	Proverbs: collection 14		B21-22	cf. 6.1.01.151, 6.1.28.17 When I married a malicious husband -- when I bore a malicious son.
+t.6.1.14	Proverbs: collection 14		B23-25	cf. 6.1.01.125, 6.1.22: l. 33, 6.1.23.2 My husband heaps up for me, my child measures out for me; my lover picks the bones from the fish for me.
+t.6.1.14	Proverbs: collection 14		B26	cf. 6.1.01.126, 6.1.19.c6, 6.1.22: l. 34, 6.2.3: UET 6/2 284 A plant as sweet as a husband does not grow in the desert.
+t.6.1.14	Proverbs: collection 14		B27	My husband needn't bring me grass; it will not make a decoration for my genitals idiom: sense unclear.
+t.6.1.14	Proverbs: collection 14		B28	cf. 6.1.01.154 A malicious wife living in a house is the worst of all afflictions.
+t.6.1.14	Proverbs: collection 14		B29-30	cf. 6.1.22: ll. 35-37, 6.2.5: UM 29-15-748 ll. 6-7 A pig was carrying something (?): Where is my sow? it said. As it neared its fate, it said: It is my dung-spattered (?) food!
+t.6.1.14	Proverbs: collection 14		B31	As for a daughter-in-law -- what about making a reed mat?
+t.6.1.14	Proverbs: collection 14		B32-33	cf. 6.1.01.169 As for the fiancé, what has he brought? And as for the father-in-law, what has he sorted out?
+t.6.1.14	Proverbs: collection 14		B34-35	The fiancé brought XX did not come out.
+t.6.1.14	Proverbs: collection 14		C1	cf. 6.1.15.c4 A stranger is leader in a foreign city.
+t.6.1.14	Proverbs: collection 14		C2-4	cf. 6.1.15.c5 I am one who does not XX. I can XX. I can XX.
+t.6.1.14	Proverbs: collection 14		C5-6	
+t.6.1.14	Proverbs: collection 14		C7	
+t.6.1.14	Proverbs: collection 14		C8-11	
+t.6.1.14	Proverbs: collection 14		C12	XX barley (?) XX.
+t.6.1.14	Proverbs: collection 14		C13	
+t.6.1.14	Proverbs: collection 14		C14-17	cf. 6.1.26.d14 The nights are fifty, the days are fifty; at its XX, XX greatly.
+t.6.1.14	Proverbs: collection 14		C18-19	
+t.6.1.14	Proverbs: collection 14		C20-21	

@@ -1,1 +1,6 @@
 id_text	text_name	version	l_no	text
+t.3.1.06	Letter from Aradŋu to Šulgi about the fortress Igi-hursaŋa		A1-2	Say to my lord: This is what Aradŋu, your servant, says:
+t.3.1.06	Letter from Aradŋu to Šulgi about the fortress Igi-hursaŋa		A3-4	My lord, your word is the word of An, it XX. Your decreed destiny has been bestowed on you as on a god.
+t.3.1.06	Letter from Aradŋu to Šulgi about the fortress Igi-hursaŋa		A5-9	As to the fortification which my lord sent me back to, the work on it has been put into effect. The approach of the enemy is kept at a distance from the Land. My lord continues to maintain his sublime reputation in the south and the uplands, from the rising to the setting sun, as far as the borders of the entire Land.  The rebellious (?) Martu have turned back XX  an Akkadian gloss has instead: The totality XX .
+t.3.1.06	Letter from Aradŋu to Šulgi about the fortress Igi-hursaŋa		A10-12	Kurgamabi  an Akkadian gloss has instead: Kunšī-mātum  XX to Šulgi. The fortress Igi-hursaŋa XX. And who will rival him XX?
+t.3.1.06	Letter from Aradŋu to Šulgi about the fortress Igi-hursaŋa		B1-3	XX  an Akkadian gloss has instead: The letter of  my lord XX. Whatever XX, my lord, XX. My lord should XX!

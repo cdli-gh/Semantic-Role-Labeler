@@ -1,1 +1,24 @@
 id_text	text_name	version	l_no	text
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		A1-4	The lord, a furious angry storm against the enemy, XX, strong XX, my lord who brings life to the people, whose own father XX, a great storm, a mighty raring XX, has XX -- the lord whose manliness is impressively strong, XX!
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		A5	Barsud.
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		A6-9	Hero, roaring in the rebel-lands, you have angrily piled up skulls. You have terrified their brick buildings and scattered their chaff heavenward. Vigorous wild bull, roaring in the rebel-lands you have angrily piled up skulls. You have terrified their brick buildings and scattered their chaff heavenward.
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		A10-13	Divine offspring of a prince, by your casting down their city dwellings, their protective gods have been alienated because of you. You have made them abandon their beautiful shrines (?) and follow another path. Vigorous wild bull, by your casting down their city dwellings, their protective gods have been alienated because of you. You have made them abandon their beautiful shrines (?) and follow another path.
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		A14-17	You flatten those mountains and turn them over to ghostly winds. You make their young warriors submit, no longer able to enter into battle. Vigorous wild bull, you flatten those mountains and turn them over to ghostly winds. You make their young warriors submit, no longer able to enter into battle.
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		A18	Šagbatuku.
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		A19-22	
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		A23	2nd barsud.
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		A24-27	XX, a furious angry XX against the enemy, XX evil men. The XX arranges the cattle for Suen's house. XX, a furious angry XX against the enemy, XX evil men. The XX arranges the cattle for Suen's house.
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		A28-31	He has spoken to Nanna on behalf of XX whose ways are beloved of Ašimbabbar, on behalf of the just XX Iddin-Dagan. He has spoken to Nanna on behalf of XX whose ways are beloved of Ašimbabbar, on behalf of the just XX Iddin-Dagan.
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		A32	
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		B1-4	
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		B5-8	XX given over to kingship by the word of Suen, XX whom Ašimbabbar has clothed in the royal robe of office! Vigorous wild bull given over to kingship by the word of the hero Suen, XX whom Ašimbabbar has clothed in the royal robe of office!
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		B9-12	XX, a lion, his father's respectful son, XX who XX for Iddin-Dagan! Vigorous wild bull, a lion, his father's respectful son, XX who XX for Iddin-Dagan!
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		B13-16	XX justly like sunlight, XX who like Ašimbabbar gives correct verdicts! Vigorous wild bull XX justly like sunlight, XX who like Ašimbabbar gives correct verdicts!
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		B17-20	Vigorous wild bull soothing Nanna's heart for Iddin-Dagan each day, whose just word is pleasing to Suen, who XX! Vigorous wild bull soothing Nanna's heart for Iddin-Dagan each day, whose just word is pleasing to Suen, who XX!
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		B21-24	XX hero given great and majestic strength by Ašimbabbar, supporter of Iddin-Dagan, may you destroy the insubordinate lands! Vigorous wild bull given great and majestic strength by Ašimbabbar, supporter of Iddin-Dagan, may you destroy the insubordinate land!
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		B25	Sa-ŋara.
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		B26	Vigorous wild bull, may you respond to Iddin-Dagan for XX days.
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		B27	Ŋišgiŋal of the sa-ŋara.
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		B28-30	Hero, formidable flood that no man comes forward to oppose! Lord Ningublaga, formidable flood that no man comes forward to oppose! Sumun-zid Vigorous wild bull, may you be the crusher of Iddin-Dagan's enemies!
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		B31	Its uru.
+t.2.5.3.3	An adab to Ningublaga for Iddin-Dagan (Iddin-Dagan C)		B32	An adab of Ningublaga.

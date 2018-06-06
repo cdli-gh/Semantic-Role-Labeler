@@ -1,1 +1,34 @@
 id_text	text_name	version	l_no	text
+t.6.1.21	Proverbs: collection 21		A1	
+t.6.1.21	Proverbs: collection 21		A6-7	
+t.6.1.21	Proverbs: collection 21		A8	
+t.6.1.21	Proverbs: collection 21		A9-10	
+t.6.1.21	Proverbs: collection 21		B1	= Alster 1997 21 Sec. B 1
+t.6.1.21	Proverbs: collection 21		B2-4	= Alster 1997 21 Sec. B 2
+t.6.1.21	Proverbs: collection 21		B5	= Alster 1997 21 Sec. B 3 The king XX not having questioned XX.
+t.6.1.21	Proverbs: collection 21		B6-7	= Alster 1997 21 Sec. B 4; cf. 6.1.09.a12, 6.1.19.b1, 6.1.24.2, 6.2.5: YBC 4677 ll. 1-2 When a fattened pig is about to be slaughtered XX, one says Let me replace what I am about to eat.
+t.6.1.21	Proverbs: collection 21		B8	= Alster 1997 21 Sec. B 5; cf. 6.1.09.a13, 6.1.19.b2, 6.1.24.2, 6.2.5: YBC 4677 ll. 3-4 As the piglet snuffles around, it says XX.
+t.6.1.21	Proverbs: collection 21		C1	= Alster 1997 21 Sec. A 1; cf. 6.1.19.c7, 6.1.23.18, 6.1.24.8 A man's daughter-in-law is his policeman.
+t.6.1.21	Proverbs: collection 21		C2-4	= Alster 1997 21 Sec. A 2; cf. 6.1.19.c8 A fiancée XX I XX to the house. May I XX.
+t.6.1.21	Proverbs: collection 21		C5-6	= Alster 1997 Sec. A 3; cf. 6.1.01.191 May XX eat the ham of a pig! XX pig XX.
+t.6.1.21	Proverbs: collection 21		C7	= Alster 1997 21 Sec. A 4; cf. 6.1.24.10 I would make the beer sweet but my neighbour would not appreciate it.
+t.6.1.21	Proverbs: collection 21		C8-20	= Alster 1997 21 Sec. A 5; cf. 6.1.24.11; edited separately as 5.6.9 The fowler and his wife
+t.6.1.21	Proverbs: collection 21		C21	= Alster 1997 21 Sec. A 6 The slave girl roams around when it grows dark as if it were midnight.
+t.6.1.21	Proverbs: collection 21		C22	= Alster 1997 21 Sec. A 7; cf. 6.1.19.d10 The litter was not apparent to the slave girl. To her mistress XX.
+t.6.1.21	Proverbs: collection 21		C23	= Alster 1997 21 Sec. A 8; cf. 6.2.5: IM 62823 Seg. B l. 5 Dusk means joy for a daughter-in-law.
+t.6.1.21	Proverbs: collection 21		C24	= Alster 1997 21 Sec. A 9; cf. 6.2.5: IM 62823 Seg. B l. 7 It was of value to her. She is the slave girl of a XX.
+t.6.1.21	Proverbs: collection 21		C25-26	= Alster 1997 21 Sec. A 10; cf. 6.2.3: UET 6/2 325 ll. 1-2, 6.2.5: IM 62823 Seg. B ll. 8-9 The slave girls did not take out the balaŋ drum. Inana XX in the village (?).
+t.6.1.21	Proverbs: collection 21		C27	= Alster 1997 21 Sec. A 11; cf. 6.1.03.37 The slave girl from the palace offers advice (?) continually.
+t.6.1.21	Proverbs: collection 21		C28	= Alster 1997 21 Sec. A 12; cf. 6.1.03.37 The slave from the palace eats the ex-voto offering perhaps an idiom.
+t.6.1.21	Proverbs: collection 21		C29-30	= Alster 1997 21 Sec. A 13 If I XX, my vagina brings me slavery. Will anyone take my vagina then?
+t.6.1.21	Proverbs: collection 21		C31	= Alster 1997 21 Sec. A 14; cf. 6.1.19.d3 The XX bird flees, running away from its own behind.
+t.6.1.21	Proverbs: collection 21		C32-33	= Alster 1997 21 Sec. A 15; cf. 6.1.09.b2 You should cut it, she said XX to me. It is a slave girl's princess!
+t.6.1.21	Proverbs: collection 21		C34-48	= Alster 1997 21 Sec. A 16; cf. 6.1.09.b4, 6.1.09.b5-8; edited separately as 5.6.8 The lazy slave girl
+t.6.1.21	Proverbs: collection 21		D1	= Alster 1997 21 Sec. D 1
+t.6.1.21	Proverbs: collection 21		D2	= Alster 1997 21 Sec. D 2 A lamentation singer XX not XX a gur weight of barley XX barge XX.
+t.6.1.21	Proverbs: collection 21		D3-7	= Alster 1997 21 Sec. D 3 A lamentation priest went into a man's field to steal the barley. The owner of the field caught him. My beautiful head got confused! It is totally bewildered. Just let me straighten it out, let me XX my senses! Let me go free!
+t.6.1.21	Proverbs: collection 21		D8-9	= Alster 1997 21 Sec. D 4 A field, whose owner, a friend of a lamentation priest, XX
+t.6.1.21	Proverbs: collection 21		E1-3	
+t.6.1.21	Proverbs: collection 21		E4-8	
+t.6.1.21	Proverbs: collection 21		E9-11	
+t.6.1.21	Proverbs: collection 21		F1-4	

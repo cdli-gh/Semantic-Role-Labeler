@@ -1,1 +1,8 @@
 id_text	text_name	version	l_no	text
+t.2.4.2.b	A praise poem of Šulgi		A1-4	Let praise be sung for me that XX. Through weapons an enduring XX has been established for me like a tower, as I XX, as I rise in opposition XX.
+t.2.4.2.b	A praise poem of Šulgi		A5-8	When I am radiant in the holy crown like a brilliance that is renewed daily (?), and the majestic sceptre that amasses abundance has been entrusted into my hands, on my firmly founded throne XX granted as a gift XX I lift my head high.
+t.2.4.2.b	A praise poem of Šulgi		A9-12	I am Šulgi, the good shepherd of Sumer, and I have always established justice. Like a flood, like onrushing water, I have torn out wickedness as being unclean (?). As much great praise as I have had sung about me -- by the name of Enlil, none is false, and all is true.
+t.2.4.2.b	A praise poem of Šulgi		A13-14	Like a white wild bull XX.
+t.2.4.2.b	A praise poem of Šulgi		B1-5	Let praise be sung that I have XX the assembly (?).
+t.2.4.2.b	A praise poem of Šulgi		B6-7	Let praise be sung, that I have gone across the XX of the Land. Let deserved praise be sung for me, that in every mouth I have put prudence (?), an attractive quality like XX.
+t.2.4.2.b	A praise poem of Šulgi		B8-11	Let praise be sung, that I have shown strength in grappling and wrestling. Let deserved praise be sung for me, that I have XX in the Land, that I have made a return visit to the shrine Nibru and back along the road to Urim, and have marched a distance of 30 dana.

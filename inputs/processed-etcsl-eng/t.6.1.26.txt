@@ -1,1 +1,48 @@
 id_text	text_name	version	l_no	text
+t.6.1.26	Proverbs: collection 26		A26	
+t.6.1.26	Proverbs: collection 26		A27	cf. 6.1.11.56, 6.1.25.9, 6.2.5: UM 29-16-519 Seg. B l. 2 The palace bows down, but only of its own accord.
+t.6.1.26	Proverbs: collection 26		A28-29	cf. 6.1.25.12, 6.2.5: YBC 9908, 5.6.1: ll. 95-96 Income XX. Expenditures never cease.
+t.6.1.26	Proverbs: collection 26		A30	cf. 6.1.22: ll. 49-50, 6.2.3: UET 6/2 259, 6.2.5: UM 29-16-519 Seg. B ll. 4-5, 6.2.5: YBC 7351, 5.6.1: l. 50 Violent cursing and chasing away a son from his father's house are abominations to Ninurta.
+t.6.1.26	Proverbs: collection 26		A31	cf. 6.1.03.8, 6.2.1: Ni 4122 ll. 2-5 To spit without covering it up with dust and to use the tongue at midday without protection are abominations to Utu.
+t.6.1.26	Proverbs: collection 26		A32	cf. 6.1.11.66, 6.2.5: UM 29-16-519 Seg. B l. 6 To take revenge is an abomination to Ninurta.
+t.6.1.26	Proverbs: collection 26		A33	Refusing to talk is an abomination to Ninurta.
+t.6.1.26	Proverbs: collection 26		A34	cf. 6.1.03.118 When a man comes forward as a witness, saying: Let me tell you what I know, but does not know the relevant information, it is an abomination to Utu.
+t.6.1.26	Proverbs: collection 26		A35	To remove something from its proper place is an abomination to Ninurta.
+t.6.1.26	Proverbs: collection 26		A36	cf. 6.1.03.170, 6.1.25.13, 6.2.5: BM 57994 Seg. A ll. 1-3 When a man sailing downstream encounters a man whose boat is travelling upstream, to demand an inspection is an abomination to Suen.
+t.6.1.26	Proverbs: collection 26		A37	cf. 6.1.01.83, 6.2.3: UET 6/2 302, 6.2.5: YBC 8713 ll. 4-5 When a trustworthy boat sets sail, Utu seeks out a trustworthy harbour for it.
+t.6.1.26	Proverbs: collection 26		A38-40	Fear of god creates good fortune. Lamentation absolves sin. Offerings extend life.
+t.6.1.26	Proverbs: collection 26		A41-42	cf. 6.1.01.79 I did not answer the curse uttered against me with a curse of my own. My answering a curse would be answered with another curse.
+t.6.1.26	Proverbs: collection 26		B1	
+t.6.1.26	Proverbs: collection 26		B2	
+t.6.1.26	Proverbs: collection 26		B3-5	cf. 6.1.15.c2, 6.1.28.7 Let the sheep be given the whip and let the shepherd XX. Where there is no toughness, no man can go about his business.
+t.6.1.26	Proverbs: collection 26		B6	cf. 6.1.01.104, 6.1.11.54, 6.1.15.c3, 6.1.28.8 If oil is poured inside the shaft of a sceptre, no one would know.
+t.6.1.26	Proverbs: collection 26		B7	cf. 6.1.03.86 Give me! is what the king says. XX.
+t.6.1.26	Proverbs: collection 26		B8	cf. 6.1.03.86 Give me! is what the king says. XX.
+t.6.1.26	Proverbs: collection 26		B9	XX friend XX.
+t.6.1.26	Proverbs: collection 26		B10-11	
+t.6.1.26	Proverbs: collection 26		C1	
+t.6.1.26	Proverbs: collection 26		C2	cf. 6.1.18.6 He who pays with high-valued silver negotiates a favourable position.
+t.6.1.26	Proverbs: collection 26		C3	Something bought XX something good XX.
+t.6.1.26	Proverbs: collection 26		C4	cf. 6.1.01.52 There is no baked cake in the middle of the dough.
+t.6.1.26	Proverbs: collection 26		C5-6	cf. 6.1.01.53 My heart urged me to bake two loaves out of a half. My hands were unable to take them out of the oven.
+t.6.1.26	Proverbs: collection 26		C7-8	I am not dear to the man I hold dear. He has profited at my expense while I was flapping my arms like a bird.
+t.6.1.26	Proverbs: collection 26		C9-11	I am not dear to the man I hold dear. He took XX into his own hands. Because of him, my hands were filled with dust.
+t.6.1.26	Proverbs: collection 26		C12	He is fearful, like a man unacquainted with beer.
+t.6.1.26	Proverbs: collection 26		C13-14	cf. 6.1.03.142 The south wind has filled my eyes with dust; why (?) does it kiss me backwards (?)?
+t.6.1.26	Proverbs: collection 26		C15-16	cf. 6.1.02.2, 6.2.3: UET 6/2 292 ll. 1-2 Let me tell you about my fate: it will be abuse. Let me reveal it to you: it will be an insult.
+t.6.1.26	Proverbs: collection 26		C17	cf. 6.1.01.80 It is an insult resulting from an insult.
+t.6.1.26	Proverbs: collection 26		D1-2	do not let a garment dry out.
+t.6.1.26	Proverbs: collection 26		D3	cf. 6.1.02.132
+t.6.1.26	Proverbs: collection 26		D4-5	cf. 6.1.02.133, 6.1.11.6, 6.1.22: l. 80 To collect firewood is a job for the strong man. The weak man sits waiting for him on dry land.
+t.6.1.26	Proverbs: collection 26		D6-7	cf. 6.1.02.20 He didn't plough the field in the cool season, and at harvest time he turned his attention to carding wool.
+t.6.1.26	Proverbs: collection 26		D8-9	cf. 6.1.02.87-88 Low-quality oxen do not plant seed. He who eats during the harvest is not removing clods.
+t.6.1.26	Proverbs: collection 26		D10	cf. 6.1.02.86, 6.1.05.17 Furrows are pleasant to a threshing ox.
+t.6.1.26	Proverbs: collection 26		D11	A stake, my lord; hero is its name.
+t.6.1.26	Proverbs: collection 26		D12	cf. 6.1.02.84 Salted meat lying on a stake.
+t.6.1.26	Proverbs: collection 26		D13	The bellowing ox does not remove the clods.
+t.6.1.26	Proverbs: collection 26		D14	cf. 6.1.02.90 The ox which has sunk into the ground -- in its own eyes it was still making flour.
+t.6.1.26	Proverbs: collection 26		D15	These rushes, these old reeds -- when set on fire, they come down from the sky.
+t.6.1.26	Proverbs: collection 26		D16	Let the river expand when there is something in it.
+t.6.1.26	Proverbs: collection 26		D17-18	cf. 6.1.02.131 A farmer should not widen the field. A god (?) should not increase for mankind his food demands.
+t.6.1.26	Proverbs: collection 26		D19	cf. 6.1.14.62 The nights are fifty, the days are fifty; but the days (?) of lies (?) are fifty-five.
+t.6.1.26	Proverbs: collection 26		D20-22	cf. 6.1.02.149, 6.1.11.69 Those who live near the water look into the mountains. They don't look in their own direction.

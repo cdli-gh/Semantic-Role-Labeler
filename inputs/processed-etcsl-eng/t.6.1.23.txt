@@ -1,1 +1,15 @@
 id_text	text_name	version	l_no	text
+t.6.1.23	Proverbs: collection 23		A1-4	
+t.6.1.23	Proverbs: collection 23		A5-9	cf. 6.1.01.125, 6.1.14.41, 6.1.22: l. 33  My husband picks the bones from the fish for me. XX is not in the desert.
+t.6.1.23	Proverbs: collection 23		A10-13	
+t.6.1.23	Proverbs: collection 23		A14-15	
+t.6.1.23	Proverbs: collection 23		B1-2	
+t.6.1.23	Proverbs: collection 23		B3-12	cf. 6.1.01.153, 6.1.01.159, 6.1.02.62, 6.1.02.142, 6.1.03.9, 6.1.16.b4-5, 6.1.22: ll. 26-27, 6.1.25.7 A XX shepherd's sex appeal is his testicles (?); a gardener's is his hair. XX a waterskin. He who does not support a wife, and who does not support a son. Although the dishonest man was unable to build his own house, he came to serve as a construction worker at my friend's house. A dishonest man chases after women's genitals; an unreliable man has two sickles. A house built by a righteous man is destroyed by a treacherous man.
+t.6.1.23	Proverbs: collection 23		B13-19	No one walks together with him or directs their steps towards him. Life  passes him by like water  1 ms. has instead: eludes him just as he avoids others . He is dear to no just man,  plague prevails over him  1 ms. has instead: life is not given to him . Like a worthless penny,  XX; no one XX  1 ms. has instead: he is thrown away; no one cares about him . He is clothed with a garment as if a heavy punishment were assigned to him.  Who is he? His name? A man sleeping with someone's wife.  1 ms. has instead: Who is he? He is a man who slept with someone's wife.
+t.6.1.23	Proverbs: collection 23		B20-21	cf. 6.1.01.128, 6.1.22: ll. 146-147, 6.2.3: UET 6/2 210 In the sky there is the raven, on the earth there is the mongoose; and in the desert a lion in its den; my husband (?), where shall I go?
+t.6.1.23	Proverbs: collection 23		C1-4	
+t.6.1.23	Proverbs: collection 23		C5-6	
+t.6.1.23	Proverbs: collection 23		C7-10	
+t.6.1.23	Proverbs: collection 23		C11-12	
+t.6.1.23	Proverbs: collection 23		C13-18	cf. 6.1.19.c7, 6.1.21.c1, 6.1.24.8 A man's waterskin is his life. A man's sandals are his eyes. A man's wife is his XX. A man's son is his protective shade. A man's daughter is his eager servant (?). A man's daughter-in-law is his policeman.
+t.6.1.23	Proverbs: collection 23		C19-20	

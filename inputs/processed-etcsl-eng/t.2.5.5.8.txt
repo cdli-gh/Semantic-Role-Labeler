@@ -1,1 +1,7 @@
 id_text	text_name	version	l_no	text
+t.2.5.5.8	An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H)		A1-3	I will perform in song the praise of the mistress, the trustworthy lady, the noble child of the E-mah, the spouse of the king, the woman, the goddess who is worth of the ladyship, surpassing heaven and earth. I will pay her due homage.
+t.2.5.5.8	An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H)		A4-10	XX great divine powers XX. She cherished Lipit-Eštar, the son of Enlil. XX pleasant XX. XX pleasant XX. XX searched XX for me. XX surpassing in joy XX.
+t.2.5.5.8	An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H)		B1-2	
+t.2.5.5.8	An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H)		B4	Inana, XX prince Lipit-Eštar on your holy lap.
+t.2.5.5.8	An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H)		B4	Its ŋišgiŋal.
+t.2.5.5.8	An ua-di to Inana for Lipit-Eštar (Lipit-Eštar H)		B5	An ua-di of Inana.

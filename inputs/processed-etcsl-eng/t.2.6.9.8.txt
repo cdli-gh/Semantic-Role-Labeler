@@ -1,1 +1,9 @@
 id_text	text_name	version	l_no	text
+t.2.6.9.8	An adab to Inana for Rīm-Sîn (Rīm-Sîn H)		A1-5	XX beloved of An XX  Nintur is delighted at your creation, and has determined a great destiny for you. She has made your brow attractive, XX. Your limbs XX, your form spectacular.
+t.2.6.9.8	An adab to Inana for Rīm-Sîn (Rīm-Sîn H)		A6	barsud.
+t.2.6.9.8	An adab to Inana for Rīm-Sîn (Rīm-Sîn H)		A7-12	You have been decreed femininity, you are full of charm, Inana, glory of the pure heavens, fitted to be a queen,
+t.2.6.9.8	An adab to Inana for Rīm-Sîn (Rīm-Sîn H)		B1-6	You have perfected the just, and made them speak with one voice; may you exercise your role as shepherd for years of abundance and sweet days of rejoicing. Rīm-Sîn, you have perfected the just, and made them speak with one voice; may you exercise your role as shepherd for years of abundance and sweet days of rejoicing.
+t.2.6.9.8	An adab to Inana for Rīm-Sîn (Rīm-Sîn H)		B7	sa-ŋara.
+t.2.6.9.8	An adab to Inana for Rīm-Sîn (Rīm-Sîn H)		B8-12	Inana, out of the goodness of your heart make Rīm-Sîn's good (?) renown a long-lasting renown. Mistress, supremely august, sparkling (?) in the heavens! Inana, Mistress, supremely august, sparkling (?) in the heavens! Speaking kindly, extending your charms, XX great mother goddesses, grant life to Rīm-Sîn.
+t.2.6.9.8	An adab to Inana for Rīm-Sîn (Rīm-Sîn H)		B13	Its ŋiš-gi-ŋal.
+t.2.6.9.8	An adab to Inana for Rīm-Sîn (Rīm-Sîn H)		B14	An adab of Inana.

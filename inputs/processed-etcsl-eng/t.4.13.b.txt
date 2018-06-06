@@ -1,1 +1,3 @@
 id_text	text_name	version	l_no	text
+t.4.13.b	A fragment of a hymn to Nanna		A1-13	XX puts in order the great cattle pens XX for him. XX the breeding bulls of the teeming cows XX bellow loudly. XX prepares butter, milk and eggs. The XX of his celebration which has been multiplied for you, XX their prince, XX put in order the XX for Suen, the abundance of heaven and earth. XX, the king befitting the holy heavens, XX in the interior of heaven,
+t.4.13.b	A fragment of a hymn to Nanna		B1-11	The foremost XX, XX in heaven and on earth, XX moonlight. XX radiance. The lord XX dignity XX. Ningal XX. The lord XX splendour.

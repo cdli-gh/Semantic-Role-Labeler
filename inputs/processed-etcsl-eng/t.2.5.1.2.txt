@@ -1,1 +1,17 @@
 id_text	text_name	version	l_no	text
+t.2.5.1.2	Išbi-Erra and Kindattu (Išbi-Erra B)		A1-7	XX to introduce XX. At left and right was a crouching lion, XX. XX at the command of Enlil. XX to reduce the city to ruin-mounds. He determined XX; XX Enlil is its ally!
+t.2.5.1.2	Išbi-Erra and Kindattu (Išbi-Erra B)		A8	1st kirugu.
+t.2.5.1.2	Išbi-Erra and Kindattu (Išbi-Erra B)		A9-10	Enlil XX went forth XX.
+t.2.5.1.2	Išbi-Erra and Kindattu (Išbi-Erra B)		B1-10	He gave him XX, not implementing his strength. XX in princely style XX. He approached the enemy like a snake spitting venom and gall. He wiped XX in the XX of Sumer. XX Larsam, XX in the plain of Urim. XX great XX did not escape his power. The great mass of the enemy XX. Išbi-Erra XX.
+t.2.5.1.2	Išbi-Erra and Kindattu (Išbi-Erra B)		B11-15	He fell XX
+t.2.5.1.2	Išbi-Erra and Kindattu (Išbi-Erra B)		C1-13	With the city XX. XX Marhaši XX. XX the foreign lands XX. From Bašimi by the edge of the sea XX to the edge of Zabšali XX, and from Arawa, the bolt of Elam XX to the edge of Marhaši XX. Kindattu, the man of Elam, XX. XX Isin, the great spindle of heaven and earth. The king's battle did not XX. The battle of Elam XX Sumer. XX by the edge of the sea. XX the land of Huhnuri. XX the wild animals and four-footed XX. The king XX in the battle.
+t.2.5.1.2	Išbi-Erra and Kindattu (Išbi-Erra B)		C14	2nd kirugu.
+t.2.5.1.2	Išbi-Erra and Kindattu (Išbi-Erra B)		Cx	
+t.2.5.1.2	Išbi-Erra and Kindattu (Išbi-Erra B)		D1-5	XX a great chariot. The king XX Isin. XX a just verdict. Išbi-Erra XX.
+t.2.5.1.2	Išbi-Erra and Kindattu (Išbi-Erra B)		D10-14	Enlil XX. The people XX. Like small birds, XX the barley. XX the orchards.
+t.2.5.1.2	Išbi-Erra and Kindattu (Išbi-Erra B)		E1-9	XX to return XX. He put its gold and precious belongings into sacks. As for Zinnum, who escaped from them, Enki is their maškim. He was fed at the banks of the Euphrates and Tigris and the Kir-sig and Kiš watercourses. He died of thirst, persecuted by ghosts in the dry desert. The news was brought to Kindattu, the man of Elam. Anšan cried out to Šimaški, and he approached the mountains. He addressed the assembly of his army.
+t.2.5.1.2	Išbi-Erra and Kindattu (Išbi-Erra B)		E10	3rd kirugu.
+t.2.5.1.2	Išbi-Erra and Kindattu (Išbi-Erra B)		E11-12	Enlil has endowed my Išbi-Erra, the cultivator, with great strength XX.
+t.2.5.1.2	Išbi-Erra and Kindattu (Išbi-Erra B)		E13	Its ŋišgiŋal.
+t.2.5.1.2	Išbi-Erra and Kindattu (Išbi-Erra B)		E14-15	XX Enlil XX Ninlil XX.
+t.2.5.1.2	Išbi-Erra and Kindattu (Išbi-Erra B)		F1-10	

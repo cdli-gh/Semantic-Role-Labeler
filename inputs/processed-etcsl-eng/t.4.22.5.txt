@@ -1,1 +1,12 @@
 id_text	text_name	version	l_no	text
+t.4.22.5	An adab to Ninisina (Ninisina E)		A1-6	I will praise the greatness of the XX who was engendered vigorous by great An -- holy Ninisina, who brought youthful power from the womb, who was brought up sitting on the holy knees of Uraš; who was copiously given divine powers of ladyship, and who is girded with fearsomeness and awesome radiance: Ninisina.
+t.4.22.5	An adab to Ninisina (Ninisina E)		A7-12	I will praise the greatness of XX my Ninisina, who was engendered vigorous -- holy Ninisina, who brought ladyship from the womb, who was brought up sitting on the holy knees of Uraš; who was copiously given divine powers of ladyship, and who is girded with fearsomeness and awesome radiance: Ninisina.
+t.4.22.5	An adab to Ninisina (Ninisina E)		A13-20	The lord wise in all matters, the Great Mountain, Father Enlil, the foremost among the Anuna gods, looked favourably on her who offered him salutations in all humility. The respected god XX the office of accountant XX lapis lazuli XX who provides the great gods with food, XX Ninisina, XX the rank of lady XX her greatness.
+t.4.22.5	An adab to Ninisina (Ninisina E)		A21-28	The lord wise in all matters, the Great Mountain, Father Enlil, the foremost among the Anuna gods, looked favourably on Ninisina offering him salutations in humility. The respected god XX the office of accountant XX lapis lazuli XX who provides the great gods with food, XX Ninisina, XX the office of ladyship XX her greatness.
+t.4.22.5	An adab to Ninisina (Ninisina E)		B1-6	
+t.4.22.5	An adab to Ninisina (Ninisina E)		B7	Saŋara.
+t.4.22.5	An adab to Ninisina (Ninisina E)		B8	Lady XX!
+t.4.22.5	An adab to Ninisina (Ninisina E)		B9	Its ŋišgiŋal of the sa-ŋara.
+t.4.22.5	An adab to Ninisina (Ninisina E)		B10-12	Good woman XX, Ninisina XX of Enlil XX made XX august.
+t.4.22.5	An adab to Ninisina (Ninisina E)		B13	Its uru.
+t.4.22.5	An adab to Ninisina (Ninisina E)		B14	An adab of Ninisina. lines 13 and 14 are written as one line in source

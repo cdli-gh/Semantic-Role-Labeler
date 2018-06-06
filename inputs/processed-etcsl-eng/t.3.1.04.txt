@@ -1,1 +1,5 @@
 id_text	text_name	version	l_no	text
+t.3.1.04	Letter from Aradŋu to Šulgi about the country		A1-2	Say to my lord: This is what Aradŋu, your servant, says:
+t.3.1.04	Letter from Aradŋu to Šulgi about the country		A3-7	My lord, the vast territory which has been given to you as booty has been made obedient: it is of one mind. The people, abundant as vegetation, belong to Šulgi, shepherd of the reliable word. You are the god of mankind, in the south and the highlands. They keep their gaze fixed on you.
+t.3.1.04	Letter from Aradŋu to Šulgi about the country		A8-15	The widespread people, abundant as vegetation, say: Hail, my lord!, from the flooding Tigris and Euphrates to the Tigris XX. XX will rise. XX put aside. XX I (?) will make. XX which is esteemed (?). When I have filled (?) XX,
+t.3.1.04	Letter from Aradŋu to Šulgi about the country		B1-8	XX which he obtained (?), I am XX.  XX the citizens of the territory of Gutium, XX, Mari and Rāpiqum, who will listen at all times, are before me. Whatever you say, my lord, I will do.

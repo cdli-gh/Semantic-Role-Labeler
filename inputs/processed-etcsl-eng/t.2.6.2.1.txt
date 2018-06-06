@@ -1,1 +1,11 @@
 id_text	text_name	version	l_no	text
+t.2.6.2.1	An adab to Nanna for Gungunum (Gungunum A)		A1-3	XX of the gods, XX light! Attractive great XX, XX radiance!
+t.2.6.2.1	An adab to Nanna for Gungunum (Gungunum A)		A4	Barsud.
+t.2.6.2.1	An adab to Nanna for Gungunum (Gungunum A)		A5-12	XX in princeship. Ruler, leader of the Anuna deities, prince of the just decision, Lord Ašimbabbar, An and Enlil have made you perfect for the sky. Beloved of the king, making the good crown sparkle, coming forth on high, you come forth like bright sunlight, whether at noon or in the night. Youthful Suen, lord, XX son of the Great Mountain and born of Ninlil, given a good destiny by his grandparents Enki and Ninki -- they have given XX to him, the just lord of the sky.
+t.2.6.2.1	An adab to Nanna for Gungunum (Gungunum A)		A13	Šagbatuku.
+t.2.6.2.1	An adab to Nanna for Gungunum (Gungunum A)		A14-18	XX, you care for them! XX, beloved XX, on the great dais XX.
+t.2.6.2.1	An adab to Nanna for Gungunum (Gungunum A)		B1-9	Gungunum XX share. May XX restore your city for you. The XX, the prince (?), the king XX has no rival. May he bring back for you the scattered people of Sumer and Akkad. Making manifest XX and perfection, may he lift his head high. May he prolong life and bounty for him i.e. for the king, may he create life for him. His golden emblem is truly outstanding and its form is praiseworthy. He has XX you to continue the offerings to Father Enlil -- may his days be prolonged for you.
+t.2.6.2.1	An adab to Nanna for Gungunum (Gungunum A)		B10	Sa-ŋara.
+t.2.6.2.1	An adab to Nanna for Gungunum (Gungunum A)		B11-13	In your Urim, the ancient city, the princely land, the city of the great divine powers, in your E-kiš-nu-ŋal which light does not enter, the house which never diminishes, may Gungunum whom you have chosen attain a life of many days.
+t.2.6.2.1	An adab to Nanna for Gungunum (Gungunum A)		B14	Its uru.
+t.2.6.2.1	An adab to Nanna for Gungunum (Gungunum A)		B15	An adab of Nanna. lines 14 and 15 are written as one line in source

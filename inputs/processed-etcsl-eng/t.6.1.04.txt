@@ -1,1 +1,44 @@
 id_text	text_name	version	l_no	text
+t.6.1.04	Proverbs: collection 4		A1	Unique: a tall pot and a shouting statue.
+t.6.1.04	Proverbs: collection 4		A2	What is placed in the fire has a valuable role to play but leaves nothing behind when it's gone.
+t.6.1.04	Proverbs: collection 4		A3-4	Half a shekel is half a shekel wherever you go (?); discarded, it is a shekel belonging to the place of wild cattle and serpents.
+t.6.1.04	Proverbs: collection 4		A5	cf. 6.1.03.167, 6.1.22: l. 189, 6.2.4: VAT 21604 (+) 21605 Seg. B l. 2 He holds up the sky, letting the earth dangle from his hands.
+t.6.1.04	Proverbs: collection 4		A6	cf. 6.2.4: VAT 21604 (+) 21605 Seg. B l. 4 He bears the responsibility for it.
+t.6.1.04	Proverbs: collection 4		A7	cf. 6.2.4: VAT 21604 (+) 21605 Seg. B l. 7 As a provisioner, I will come down upon those who speak proudly (?).
+t.6.1.04	Proverbs: collection 4		A8-9	All day long, oh penis, you ejaculate as if you have blood inside you, and then you hang like a damp reed.
+t.6.1.04	Proverbs: collection 4		A10	cf. 6.2.4: VAT 21604 (+) 21605 Seg. B ll. 5-6 He who was the capturer of someone's assassin became his opponent.
+t.6.1.04	Proverbs: collection 4		A11-13	cf. 6.2.4: VAT 21604 (+) 21605 Seg. B ll 8-13 The north wind is a satisfying wind; the south wind is harmful (?) to man. The east wind is a rain-bearing wind; the west wind is greater than those who live there. The east wind is a wind of prosperity, the friend of Naram-Suen.
+t.6.1.04	Proverbs: collection 4		A14	Why should someone who knows something conceal it?
+t.6.1.04	Proverbs: collection 4		A15-16	My intelligence (?) has dug the ground; you will not find what I have lost!
+t.6.1.04	Proverbs: collection 4		A17	A goat can be made to go down into water; in beer it becomes stuck.
+t.6.1.04	Proverbs: collection 4		A18	He will XX which I have eaten (?).
+t.6.1.04	Proverbs: collection 4		A19	Oh little one who is no longer consuming milk, your mother is a wild cow yielding beer.
+t.6.1.04	Proverbs: collection 4		A20	He could not overcome his fears, so he cut off what was fuelling them.
+t.6.1.04	Proverbs: collection 4		A21-22	The riverbank should rejoice as though there were a flood. Enlil should rejoice as though the Tigris were at high water.
+t.6.1.04	Proverbs: collection 4		A23	May your favourite XX bite you.
+t.6.1.04	Proverbs: collection 4		A24-25	cf. 5.6.1: ll. 209-211 I want to get hold of borrowed clothes, borrowed linen and borrowed lapis lazuli.
+t.6.1.04	Proverbs: collection 4		A26-27	XX anoints his body XX adds water to the subterranean waters.
+t.6.1.04	Proverbs: collection 4		A28	
+t.6.1.04	Proverbs: collection 4		B1-4	in order to cross XX when he lifts it up XX: The weapon will take care of the oxen rent for me!
+t.6.1.04	Proverbs: collection 4		B5-8	Beat the XX behind him they squeezed XX: The water is too hot for me! Then they brought up XX and entrusted XX.
+t.6.1.04	Proverbs: collection 4		B9-10	Left-over clothes are the share of the slave-girl's child; they will fall off her and became nothing but chaff.
+t.6.1.04	Proverbs: collection 4		B11-12	A XX is his clasped hands; pressed oil, oil for his anointing; a likeness, reeds for his bed.
+t.6.1.04	Proverbs: collection 4		B13-14	The prosopis plant is how a witness should be: fruit pods come forth from it.
+t.6.1.04	Proverbs: collection 4		B15	A heart which does not know accounting -- is that a wise heart?
+t.6.1.04	Proverbs: collection 4		B16-17	He who ploughs the fields should plough the fields; he who harvests grain should harvest grain.
+t.6.1.04	Proverbs: collection 4		B18	Its mouth, like a seal (?), is half; its anus is the place amongst the grass where boats are pulled from the water.
+t.6.1.04	Proverbs: collection 4		B19	After the serpent has been caught for him, he himself casts the incantation.
+t.6.1.04	Proverbs: collection 4		B20	What is it, a sheep? What is it, a stag?
+t.6.1.04	Proverbs: collection 4		B21-22	What are the dreams of a slave girl? What are the prayers of a striving (?) slave?
+t.6.1.04	Proverbs: collection 4		B23-24	Let my gifts never cease (?) in the presence of his god.
+t.6.1.04	Proverbs: collection 4		B25	XX a weeping mother XX you enjoy the use of XX.
+t.6.1.04	Proverbs: collection 4		B26-27	My mother XX offering; she is behaving as though she were my slave-girl.
+t.6.1.04	Proverbs: collection 4		B28-29	XX a libation (?). XX gave it.
+t.6.1.04	Proverbs: collection 4		B30-31	cf. 6.1.02.126, 6.1.11.131 Says the man lying on the roof to the man living in the house: It is too bright up here!
+t.6.1.04	Proverbs: collection 4		B32	The lion is tied up with (?) that of which his own house is made.
+t.6.1.04	Proverbs: collection 4		B33	That which the thief has taken was made by an honest man.
+t.6.1.04	Proverbs: collection 4		B34	To appreciate the earth is for the gods; I am merely covered in dust.
+t.6.1.04	Proverbs: collection 4		B35	In respect of both expenditures and capital goods, the anus is well supplied.
+t.6.1.04	Proverbs: collection 4		B36	Bitterness afflicted the anus; but it entered by way of the mouth.
+t.6.1.04	Proverbs: collection 4		B37	The anus breaks wind; talking produces excessive words.
+t.6.1.04	Proverbs: collection 4		B38	O XX mother, I have no water in the ferry-boat.

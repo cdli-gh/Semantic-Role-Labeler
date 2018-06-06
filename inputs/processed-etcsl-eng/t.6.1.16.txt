@@ -1,1 +1,38 @@
 id_text	text_name	version	l_no	text
+t.6.1.16	Proverbs: collection 16		A1-6	
+t.6.1.16	Proverbs: collection 16		A7-9	
+t.6.1.16	Proverbs: collection 16		A10-16	
+t.6.1.16	Proverbs: collection 16		B1-3	
+t.6.1.16	Proverbs: collection 16		B4-5	cf. 6.1.03.10 You should get rid of the shepherd, so his sheep will not come back into his charge.
+t.6.1.16	Proverbs: collection 16		B6-7	cf. 6.1.03.11 The wise shepherd has become confused, and his sheep will not come back into his charge.
+t.6.1.16	Proverbs: collection 16		B8-9	cf. 6.1.03.9, 6.1.23.7 A shepherd's sex appeal is his penis; a gardener's sex appeal is his hair.
+t.6.1.16	Proverbs: collection 16		B10	cf. 6.1.01.153, 6.1.03.9, 6.1.22: ll. 26-27, 6.1.23.7 An unjust heir who does not support a wife, who does not support a child, has no cause for celebration.
+t.6.1.16	Proverbs: collection 16		B11-12	
+t.6.1.16	Proverbs: collection 16		B13-16	cf. 6.1.03.6 Let me go today is what a herdsman says. Let me go tomorrow is what a shepherd boy says. XX. His property XX. Let me go!'XX.
+t.6.1.16	Proverbs: collection 16		B17-18	
+t.6.1.16	Proverbs: collection 16		C1-2	cf. 6.1.14.3, 6.2.5: UM 29-16-519 Seg. A ll. 7-8 The farmer lifts his gaze to you i.e. Enlil: May Enlil look upon the city that he cursed.
+t.6.1.16	Proverbs: collection 16		C3-4	cf. 6.1.14.4, 6.1.15.b1, 6.2.5: UM 29-16-519 Seg. A ll. 9-10 The shepherd boy lifts his gaze to you: May Enlil look upon the city that he cursed.
+t.6.1.16	Proverbs: collection 16		C5-6	cf. 6.1.14.5, 6.1.15.b2, 6.2.5: UM 29-16-519 Seg. A ll. 11-12 The potter lifts his gaze to you: May Enlil look upon the city that he cursed.
+t.6.1.16	Proverbs: collection 16		C7	cf. 6.1.15.b4 What will the farmer with his vigilant eye do?
+t.6.1.16	Proverbs: collection 16		C8-10	cf. 6.1.03.149, 6.1.14.6, 6.1.22: ll. 172-175, 6.1.25.1 It became cloudy, but it did not rain. It rained, but not enough for people to undo their sandals. The Tigris was not surging at its inlet, so water did not fill the arable lands.
+t.6.1.16	Proverbs: collection 16		D1-2	
+t.6.1.16	Proverbs: collection 16		D3-4	cf. 6.1.03.17 My friend might last just one day. My colleague lasts forever.
+t.6.1.16	Proverbs: collection 16		D5-6	
+t.6.1.16	Proverbs: collection 16		E1-3	= Alster 1997 16 Sec. E 1
+t.6.1.16	Proverbs: collection 16		E4	= Alster 1997 16 Sec. E 2
+t.6.1.16	Proverbs: collection 16		E5-6	= Alster 1997 16 Sec. E 3 He enters (?) through the slavegirl's window; he is indeed a merchant!
+t.6.1.16	Proverbs: collection 16		E7-9	= Alster 1997 16 Sec. E 4 = 21 Sec. C 1 A donkey can carry fifty things. Those who carry the baskets XX. Entering one at a time, they ask: What did he carry?
+t.6.1.16	Proverbs: collection 16		E10	= Alster 1997 16 Sec. E 5 = 21 Sec. C 2 They tore out weeds with long roots XX.
+t.6.1.16	Proverbs: collection 16		E11-15	= Alster 1997 21 Sec. C 3  It is an abomination (?) to Suen.
+t.6.1.16	Proverbs: collection 16		E16-17	= Alster 1997 16 Sec. F 1 = 21 Sec. C 4; cf. 6.1.09.g5 Like a mountain mined for precious metals, he is a man whose judgment is unsound i.e. full of holes.
+t.6.1.16	Proverbs: collection 16		E18-19	= Alster 1997 16 Sec. F 2 Don't XX like a barber. He coiffures (?) hair.
+t.6.1.16	Proverbs: collection 16		E20-21	= Alster 1997 16 Sec. F 3
+t.6.1.16	Proverbs: collection 16		E22	= Veldhuis 2000 p. 393 N 1009 (+) N 5187 obv. 3 XX I part the waters (?) like Nirah.
+t.6.1.16	Proverbs: collection 16		E23	= Alster 1997 16 Sec. F 4 XX collecting rushes XX.
+t.6.1.16	Proverbs: collection 16		E24	= Veldhuis 2000 p. 393 N 1009 (+) N 5187 obv. 4 XX opens XX the mouth.
+t.6.1.16	Proverbs: collection 16		E25	= Alster 1997 l6 Sec. F 5 XX you make the boat sail.  XX you will carry yourself away with it  1 ms. has instead: XX carry XX .
+t.6.1.16	Proverbs: collection 16		E26	= Alster 1997 16 Sec. F 6 After becoming a thief, one becomes an outcast.
+t.6.1.16	Proverbs: collection 16		E27-29	= Alster 1997 16 Sec. F 7
+t.6.1.16	Proverbs: collection 16		E30	= Alster 1997 16 Sec. F 8
+t.6.1.16	Proverbs: collection 16		F1	= Veldhuis 2000 p. 393 N 1009 (+) N 5187 rev. 1'
+t.6.1.16	Proverbs: collection 16		F2	= Veldhuis 2000 p. 393 N 1009 (+) N 5187 rev. 2'-3'

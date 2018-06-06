@@ -1,1 +1,49 @@
 id_text	text_name	version	l_no	text
+t.6.1.19	Proverbs: collection 19		A1-5	cf. 6.1.10.10-12, 6.1.17.b3, ll. 14-17, 5.6.7: ll. 29-31 My black mountain has sprouted white gypsum. My mother sent to me a man from the forest, who has given me paralysed hands. My mongoose, which used to eat strong-smelling food, can no longer stretch its neck even towards a jar of ghee.
+t.6.1.19	Proverbs: collection 19		B1	cf. 6.1.09.a12, 6.1.21.b4, 6.1.24.2, 6.2.5: YBC 4677 ll. 1-2 When a fattened pig is about to be slaughtered, one says: Let me replace what I eat.
+t.6.1.19	Proverbs: collection 19		B2-3	cf. 6.1.09.a13, 6.1.21.b5, 6.1.24.2, 6.2.5: YBC 4677 ll. 3-4 As the piglet snuffles around, it says: I can no longer take pleasure in eating.
+t.6.1.19	Proverbs: collection 19		B4-5	cf. 6.1.02.137 Build like a lord -- live like a slave! Build like a slave -- live like a lord!
+t.6.1.19	Proverbs: collection 19		B6-7	cf. 6.1.02.135, 6.1.24.3 He who destroys houses destroys silver. He who destroys a house destroys gold.
+t.6.1.19	Proverbs: collection 19		B8-9	cf. 6.1.09.a14, 6.1.24.4 The lord's wife kneels, the slave girl dies. The lord kneels, the slave dies.
+t.6.1.19	Proverbs: collection 19		B10-12	cf. 6.1.03.71, 6.1.11.19, 6.1.24.5  XX its hands at the edge of the desert XX
+t.6.1.19	Proverbs: collection 19		B13-15	XX you should know XX
+t.6.1.19	Proverbs: collection 19		C1-2	cf. 6.1.03.25, 6.2.5: YBC 4677 ll. 8-10 What did Enlil make? Chaff! The lance struck. It went into the flesh.
+t.6.1.19	Proverbs: collection 19		C3	cf. 6.1.03.26, 6.1.24.9 When the sun is setting outside so that you cannot even recognise the hand in front of you, go inside!
+t.6.1.19	Proverbs: collection 19		C4-5	cf. 6.1.01.145, 6.1.22: ll. 87-88, 6.1.28.4 Accept your lot and make your mother happy! Run fast and make your god happy!
+t.6.1.19	Proverbs: collection 19		C6	cf. 6.1.01.146 Marry the wife of your choice.
+t.6.1.19	Proverbs: collection 19		C7-9	cf. 6.1.01.147 May Inana make a hot-limbed wife lie with you! May she bestow upon you broad-shouldered sons! May she find for you a place of happiness!
+t.6.1.19	Proverbs: collection 19		C10-11	cf. 6.1.01.126, 6.1.14.42, 6.1.22: l. 34, 6.2.3: UET 6/2 284 A plant as sweet as a husband, a plant as sweet as a mother: may Ezina-Kusu the grain goddess dwell in your home.
+t.6.1.19	Proverbs: collection 19		C12-14	cf. 6.1.21.c1, 6.1.23.18, 6.1.24.8 A man's waterskin is his life. A man's sandals are his eyes. A man's wife is his supervisor (?). A man's son is his protective shade. A man's daughter is his eager servant (?). A man's daughter-in-law is his policeman.
+t.6.1.19	Proverbs: collection 19		C15	cf. 6.1.21.c2 A daughter's fiancé XX.
+t.6.1.19	Proverbs: collection 19		C16	cf. 6.1.01.190 Fatty meat is good and so is fatty mutton.
+t.6.1.19	Proverbs: collection 19		D1-2	
+t.6.1.19	Proverbs: collection 19		D3-4	
+t.6.1.19	Proverbs: collection 19		D5	cf. 6.1.21.c14 The um bird flees, running away from its own behind.
+t.6.1.19	Proverbs: collection 19		D6	cf. 6.1.02.c12 Like an um bird XX.
+t.6.1.19	Proverbs: collection 19		D7	cf. 6.2.5: IM 62823 Seg. B l. 3 The um bird XX.
+t.6.1.19	Proverbs: collection 19		D8-9	
+t.6.1.19	Proverbs: collection 19		D10	
+t.6.1.19	Proverbs: collection 19		D11	cf. 6.2.5: IM 62823 Seg. B l. 4
+t.6.1.19	Proverbs: collection 19		D12	cf. 6.1.03.41, 6.1.28.25 When the mistress left the house and the slave girl entered from the street, away from her mistress the slave girl set up her own banquet.
+t.6.1.19	Proverbs: collection 19		D13	cf. 6.1.21.c7 The litter was not apparent to the slave girl. To her mistress it just kept increasing.
+t.6.1.19	Proverbs: collection 19		D14-15	cf. 6.2.3: UET 6/2 386, 6.2.3: UET 6/2 387 As a slave girl, I have no authority over my mistress. So let me pull at my husband's hair.
+t.6.1.19	Proverbs: collection 19		E1	
+t.6.1.19	Proverbs: collection 19		E2-3	cf. 6.1.09.d2, 6.2.3: UET 6/3 464 ll. 1-2 The clever one XX. The wise one XX.
+t.6.1.19	Proverbs: collection 19		E4-5	cf. 6.1.09.d3, 6.1.13.29, 6.2.3: UET 6/3 464 l. 3 A fool who was overwhelmed by his backside stuck his hand up his backside.
+t.6.1.19	Proverbs: collection 19		E6-7	
+t.6.1.19	Proverbs: collection 19		F1	
+t.6.1.19	Proverbs: collection 19		F2	A great river is a grave.
+t.6.1.19	Proverbs: collection 19		F3-4	cf. 6.1.15.a9 From the horizon to the very heart of the heavens, the bread is too little for his great stomach! The grain from every hand in his Land is too little for him!
+t.6.1.19	Proverbs: collection 19		F5-7	cf. 6.1.01.40, 6.2.1: Ni 4469 Seg. A ll. 1-4 Let XX be XX. Let his bread be XX foul food; no man should eat it.
+t.6.1.19	Proverbs: collection 19		F8	cf. 6.1.01.58 Morsels of bread and tasty onions are the food of the school (?).
+t.6.1.19	Proverbs: collection 19		F9	cf. 6.1.01.48 In the fields, coarse flour is meat fat.
+t.6.1.19	Proverbs: collection 19		F10	
+t.6.1.19	Proverbs: collection 19		G1	cf. 6.1.03.117 You should lift it all together, but put it down in pieces.
+t.6.1.19	Proverbs: collection 19		G2-4	XX hoe XX going out XX. XX hoe XX going out XX straight XX.
+t.6.1.19	Proverbs: collection 19		G5	
+t.6.1.19	Proverbs: collection 19		G6-8	
+t.6.1.19	Proverbs: collection 19		G9-11	XX Umma  XX Šuruppag XX.
+t.6.1.19	Proverbs: collection 19		G12-14	XX they seized him XX.
+t.6.1.19	Proverbs: collection 19		G15-17	cf. 5.5.5: ll. 63-65 The early working shepherd, the early working farmer, the young man who got married while he was young: who compares to them?
+t.6.1.19	Proverbs: collection 19		G18-19	
+t.6.1.19	Proverbs: collection 19		H1-6	

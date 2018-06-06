@@ -1,1 +1,23 @@
 id_text	text_name	version	l_no	text
+t.6.1.27	Proverbs: collection 27		A1-3	= Alster 1997 p. 284 C ii' 1'
+t.6.1.27	Proverbs: collection 27		A4-5	= Alster 1997 p. 284 C ii' 2'
+t.6.1.27	Proverbs: collection 27		A5-9	= Alster 1997 p. 284 C ii' 3'
+t.6.1.27	Proverbs: collection 27		A10	= Alster 1997 p. 284 C ii' 4'
+t.6.1.27	Proverbs: collection 27		B1-2	= Alster 1997 27.1 The rich man's heart is sick, it is very sick indeed (?) -- the man with a troubled heart is sick, he is very sick indeed (?).
+t.6.1.27	Proverbs: collection 27		B3	= Alster 1997 27.2 Why are the interest payments so small?
+t.6.1.27	Proverbs: collection 27		B4	= Alster 1997 27.3 He who carries a light burden can dance.
+t.6.1.27	Proverbs: collection 27		B5	= Alster 1997 27.4 The conmen (?) are having their say.
+t.6.1.27	Proverbs: collection 27		B6	= Alster 1997 27.5 People whose houses have been lost turn to their storehouses.
+t.6.1.27	Proverbs: collection 27		B7	= Alster 1997 27.6 To eat is good. When it comes up again, it is bad.
+t.6.1.27	Proverbs: collection 27		B8	= Alster 1997 27.7 A troubled (?) mind makes you sick.
+t.6.1.27	Proverbs: collection 27		B9	= Alster 1997 27.8 On the battlefield plants are torn out.
+t.6.1.27	Proverbs: collection 27		B10	= Alster 1997 27.9; cf. 6.2.3: UET 6/2 250 One city does not greet another, but one man greets another.  1 ms. has instead: One city does not salute another, but one person salutes another.
+t.6.1.27	Proverbs: collection 27		B11	= Alster 1997 27.10 Although he  XX  1 ms. has instead: fled  for XX miles, he returned after half a mile.
+t.6.1.27	Proverbs: collection 27		B12	= Alster 1997 27.11 He who found XX was the one who revealed it.
+t.6.1.27	Proverbs: collection 27		B13	= Alster 1997 27.12 XX coming out XX afraid and fled.  1 ms. has instead: XX and fled.
+t.6.1.27	Proverbs: collection 27		B14	= Alster 1997 27.13
+t.6.1.27	Proverbs: collection 27		B17	= Alster 1997 p. 284 A rev. 1
+t.6.1.27	Proverbs: collection 27		B18	= Alster 1997 p. 284 A rev. 2 XX reap XX for the man.
+t.6.1.27	Proverbs: collection 27		B19	= Alster 1997 p. 284 A rev. 3 XX my sin XX.
+t.6.1.27	Proverbs: collection 27		C1-2	= Alster 1997 p. 284 C i' 6' Because they will eat XX, they seized XX.
+t.6.1.27	Proverbs: collection 27		C3-4	= Alster 1997 p. 284 C i' 7'

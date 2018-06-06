@@ -1,1 +1,13 @@
 id_text	text_name	version	l_no	text
+t.2.4.4.5	An adab to An for Šu-Suen (Šu-Suen E)		A1	Warrior from birth XX.
+t.2.4.4.5	An adab to An for Šu-Suen (Šu-Suen E)		A2	Šagbatuku.
+t.2.4.4.5	An adab to An for Šu-Suen (Šu-Suen E)		A3-6	Wise Šu-Suen XX.  XX dais XX. XX the beauty and ornament XX.
+t.2.4.4.5	An adab to An for Šu-Suen (Šu-Suen E)		A7	2nd (?) barsud.
+t.2.4.4.5	An adab to An for Šu-Suen (Šu-Suen E)		A8-11	An XX. Šu-Suen XX.
+t.2.4.4.5	An adab to An for Šu-Suen (Šu-Suen E)		B1-2	Šu-Suen XX rising XX.
+t.2.4.4.5	An adab to An for Šu-Suen (Šu-Suen E)		B3	Sa-gida.
+t.2.4.4.5	An adab to An for Šu-Suen (Šu-Suen E)		B4	
+t.2.4.4.5	An adab to An for Šu-Suen (Šu-Suen E)		B5	Ŋišgiŋal of the sa-gida.
+t.2.4.4.5	An adab to An for Šu-Suen (Šu-Suen E)		B6-8	As An determined the fates XX. Holy An determined the fates, XX the shrine Urim XX. Like the sunlight An XX for Šu-Suen.
+t.2.4.4.5	An adab to An for Šu-Suen (Šu-Suen E)		B9	Its uru.
+t.2.4.4.5	An adab to An for Šu-Suen (Šu-Suen E)		B10	An adab of An. lines 9 and 10 are written as one line in source

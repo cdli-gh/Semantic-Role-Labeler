@@ -1,4 +1,12 @@
 id_text	text_name	version	l_no	text
+t.6.2.4	Proverbs: from Unug	AUWE 23 120-121	A1-4	
+t.6.2.4	Proverbs: from Unug	AUWE 23 120-121	B1	
+t.6.2.4	Proverbs: from Unug	AUWE 23 120-121	B2	cf. 6.1.03.167, 6.1.04.4, 6.1.22: l. 189 He holds up the sky, letting the earth dangle from his hands.
+t.6.2.4	Proverbs: from Unug	AUWE 23 120-121	B3	cf. 6.1.03.93 Enlil's greatest punishment is hunger.
+t.6.2.4	Proverbs: from Unug	AUWE 23 120-121	B4	cf. 6.1.04.5 He bears the responsibility for it.
+t.6.2.4	Proverbs: from Unug	AUWE 23 120-121	B5-6	cf. 6.1.04.8 When he XX the man's assassin, he became his opponent.
+t.6.2.4	Proverbs: from Unug	AUWE 23 120-121	B7	cf. 6.1.04.6 As a provisioner, XX upon those who speak proudly (?).
+t.6.2.4	Proverbs: from Unug	AUWE 23 120-121	B8-13	cf. 6.1.04.9 The XX wind XX harmful (?). The east wind is a rain-bearing wind; the west wind is greater than those who live there. The east wind is a wind of prosperity, the friend of Naram-Suen.
 t.6.2.4	Proverbs: from Unug	AUWE 23 117	1	
 t.6.2.4	Proverbs: from Unug	AUWE 23 117	2	
 t.6.2.4	Proverbs: from Unug	AUWE 23 117	3	XX poured it out for him XX.

@@ -1,1 +1,80 @@
 id_text	text_name	version	l_no	text
+t.6.1.07	Proverbs: collection 7		A1-6	cf. 6.1.02.1, 6.2.1: Ni 9824 Seg. A ll. 1-2, 6.2.3: UET 6/2 356 ll. 3-8 In those places which have been destroyed, let more places be destroyed. In those places which have not been destroyed, let a breach be made there. Let his place become like chopped-up turnips. Their place in the universe was destroyed. -- Where there are bonds, you should not destroy the place! You should not destroy their place in the universe.
+t.6.1.07	Proverbs: collection 7		B1	
+t.6.1.07	Proverbs: collection 7		B2	XX their father does not return.
+t.6.1.07	Proverbs: collection 7		B3-4	cf. 6.1.03.154, 1.8.2.1: l. 246 The clod on the one hand, the furrow on the other hand -- and as for me, I am the third one there.
+t.6.1.07	Proverbs: collection 7		B5	cf. 6.1.01.76 A clod thrown into the water is destroyed as it disintegrates.
+t.6.1.07	Proverbs: collection 7		B6-7	cf. 6.1.03.82 He moves like a lion against a louse, but when there is a job is to be done, he moves like a rat.
+t.6.1.07	Proverbs: collection 7		B8	cf. 6.1.03.124 The manicurist is himself dressed in dirty rags.
+t.6.1.07	Proverbs: collection 7		B9-10	cf. 6.1.03.155 Let me drink beer shandy and sit in the seat of honour!
+t.6.1.07	Proverbs: collection 7		B11	cf. 6.1.03.156 Although it was not important to him, he attended the festival.
+t.6.1.07	Proverbs: collection 7		B12	cf. 6.1.03.75, 6.2.5: YBC 9912 I am stretching my legs on your behalf, says the man who delivers sesame seeds.
+t.6.1.07	Proverbs: collection 7		B13	
+t.6.1.07	Proverbs: collection 7		B15-17	cf. 6.1.01.88, 6.1.03.157 If the boat sinks, I will pull out the cargo. When it was all over, what had you gained? It is still floating: it did not sink.
+t.6.1.07	Proverbs: collection 7		B18-19	cf. 6.1.01.167 I visit it by day, I visit it at nightfall. I always stand by the lamentation drum!
+t.6.1.07	Proverbs: collection 7		B20-23	XX soldier (?) silences the argument.
+t.6.1.07	Proverbs: collection 7		B24	
+t.6.1.07	Proverbs: collection 7		B25	
+t.6.1.07	Proverbs: collection 7		B26	XX that huckster XX.
+t.6.1.07	Proverbs: collection 7		B27	cf. 6.1.02.d6 Let XX the head of a suhur fish be eaten XX with the head of a mašgurašeš fish.
+t.6.1.07	Proverbs: collection 7		B28-29	cf. 6.1.01.81 To accept a verdict is possible. To accept a curse is impossible.
+t.6.1.07	Proverbs: collection 7		B30-32	cf. 5.4.01: ll. 14-15 Linen is stretched out for the flea. The XX reed mat is woven for the fly. The storehouse is built for the gecko.
+t.6.1.07	Proverbs: collection 7		B33	cf. 6.1.02.d3 The duck was not eaten in time.
+t.6.1.07	Proverbs: collection 7		B34	He gathered everything for himself, but had to slaughter his pig.
+t.6.1.07	Proverbs: collection 7		B35	He gathered everything for himself, but used up his wood.
+t.6.1.07	Proverbs: collection 7		B36	
+t.6.1.07	Proverbs: collection 7		B37-39	XX my burden XX the basket.
+t.6.1.07	Proverbs: collection 7		B40	
+t.6.1.07	Proverbs: collection 7		B41	XX boat XX quay XX.
+t.6.1.07	Proverbs: collection 7		B42	cf. 6.1.01.31 You don't return borrowed bread.
+t.6.1.07	Proverbs: collection 7		B43-44	XX prostitute XX statue XX.
+t.6.1.07	Proverbs: collection 7		B45	
+t.6.1.07	Proverbs: collection 7		B46	This line may belong to the preceding proverb
+t.6.1.07	Proverbs: collection 7		B47	cf. 6.1.11.21 He spoke, but went back on what he said.
+t.6.1.07	Proverbs: collection 7		B48	cf. 6.1.01.89 Like a boat, he always floats up in the water.
+t.6.1.07	Proverbs: collection 7		B49	cf. 6.1.03.45, 6.2.1: Ni 9832 Seg. B ll. 6-7 You are forever pushing, like a millstone torn out of its joint.
+t.6.1.07	Proverbs: collection 7		B50	He whose speech is humble -- his wife is a slave girl.
+t.6.1.07	Proverbs: collection 7		B51	cf. 6.1.03.185 My mouth makes me comparable with other men.
+t.6.1.07	Proverbs: collection 7		B52	In order to survey (?) the Land, he left his city.
+t.6.1.07	Proverbs: collection 7		B53-54	cf. 6.1.01.174 I walk about, I don't get tired. I keep moving, I don't sleep.
+t.6.1.07	Proverbs: collection 7		B55-56	cf. 6.1.03.55, 6.1.11.5 As long as you live, you should not increase evil by lying; for if you do, to succumb will be your lot.
+t.6.1.07	Proverbs: collection 7		B57-59	cf. 6.1.01.175 When clothes have been cut up into rags, when the barley has been lying in the dust, what more is there to be got?
+t.6.1.07	Proverbs: collection 7		B60	Pouring water XX, placing barley XX.
+t.6.1.07	Proverbs: collection 7		B61	cf. 6.1.01.100 Whether he ate or not, the seed was good.
+t.6.1.07	Proverbs: collection 7		B62-63	cf. 6.1.01.176 I am a lady who wears large garments. Let me cut my loincloth!
+t.6.1.07	Proverbs: collection 7		B64-65	cf. 6.1.01.177 You are the master of a broad river. You are eating XX.
+t.6.1.07	Proverbs: collection 7		C1-2	cf. 6.1.02.11 Fate is a dog, well able to bite. It clings like dirty rags.
+t.6.1.07	Proverbs: collection 7		C3-4	Inana XX
+t.6.1.07	Proverbs: collection 7		C5-7	XX something belonging to Inana XX
+t.6.1.07	Proverbs: collection 7		C8-10	cf. 6.1.03.104 The dog moves, the knife moves, but still my man does not move.
+t.6.1.07	Proverbs: collection 7		C11-12	cf. 6.1.01.187 The ferryboat XX too many men: My man shall not board it!
+t.6.1.07	Proverbs: collection 7		C13-14	This oil XX mourning rags XX. This barley XX in dust.
+t.6.1.07	Proverbs: collection 7		C15-16	cf. 6.1.01.183 My cry of joy XX by the nether world, but my mental faculties are not thereby taken away.
+t.6.1.07	Proverbs: collection 7		C17-19	cf. 6.1.03.179 He said: Woe! and the boat sank with him. He said: Alas! and the rudder broke. The young man said: Ah god! and the boat reached its destination.
+t.6.1.07	Proverbs: collection 7		C20-21	cf. 6.1.02.d15 Who removed the dust? Who XX the boat?
+t.6.1.07	Proverbs: collection 7		C22-23	cf. 6.1.03.166 The sun never leaves my heart, which surpasses a garden.
+t.6.1.07	Proverbs: collection 7		C24	cf. 6.1.03.60 I am a loyal steward, I am a strong pair of hands.
+t.6.1.07	Proverbs: collection 7		C25-26	cf. 6.1.02.93, 6.2.3: UET 6/3 31 ll. 5-6 A stranger's ox eats grass while one's own ox lies hungry.
+t.6.1.07	Proverbs: collection 7		C27	cf. 6.1.01.30 That which does not eat food is a wild bull of the mountains.
+t.6.1.07	Proverbs: collection 7		C35	
+t.6.1.07	Proverbs: collection 7		C36-39	Let me XX, let me XX; let me destroy it is characteristic of the slave girl of a lukur priestess.
+t.6.1.07	Proverbs: collection 7		C40-41	cf. 6.1.02.71 Tell a lie, tell the truth.
+t.6.1.07	Proverbs: collection 7		C42	cf. 6.1.03.180 He is working despite his pierced neck.
+t.6.1.07	Proverbs: collection 7		C43	cf. 6.1.03.181 He turns things upside down.
+t.6.1.07	Proverbs: collection 7		C44	cf. 6.1.03.182 He devours things as crows do a field.
+t.6.1.07	Proverbs: collection 7		C45-47	cf. 6.1.01.155 Conceived by no father, conceived by no mother, the reed came out of the breast of the storm.
+t.6.1.07	Proverbs: collection 7		C48-50	
+t.6.1.07	Proverbs: collection 7		C51-52	cf. 6.1.03.140 Wheat and hulled barley was made to taste like honey. The nomad ate it and didn't recognise what was in it.
+t.6.1.07	Proverbs: collection 7		C53-54	Don't pile up the poured (?) barley. When it has been carried to your barley and piled up, it will be eaten by your lord.
+t.6.1.07	Proverbs: collection 7		C55-56	cf. 6.1.02.121 The good thing is to find it. The bad thing is to have lost it.
+t.6.1.07	Proverbs: collection 7		C57-58	cf. 6.1.02.123 The pleasure -- it is the beer! The discomfort -- it is the journey!
+t.6.1.07	Proverbs: collection 7		C59-60	cf. 6.1.03.187 When present, it is considered a loincloth; when lost, it is considered fine clothing.
+t.6.1.07	Proverbs: collection 7		C61	cf. 6.1.03.33 He who says Let me live today is bound like a bull on a leash.
+t.6.1.07	Proverbs: collection 7		C65-66	cf. 6.1.01.97, 6.1.11.53 Those who get excited should not become foremen. A shepherd should not become a farmer.
+t.6.1.07	Proverbs: collection 7		C67-68	cf. 6.1.03.183 A free weaver equals two slave girls. A free worker equals three slaves.
+t.6.1.07	Proverbs: collection 7		C69	Crushed by a stone belonging to my lady.
+t.6.1.07	Proverbs: collection 7		C70-71	
+t.6.1.07	Proverbs: collection 7		C72-73	XX is mine; XX raised the XX.
+t.6.1.07	Proverbs: collection 7		C89	
+t.6.1.07	Proverbs: collection 7		C90	cf. 6.1.01.70 The songs of a city are its omen diviners.
+t.6.1.07	Proverbs: collection 7		C91-96	We XX; we XX; we ate XX; we drank XX; XX cover XX; XX cover XX.

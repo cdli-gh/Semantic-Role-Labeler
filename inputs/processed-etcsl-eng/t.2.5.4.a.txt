@@ -1,1 +1,10 @@
 id_text	text_name	version	l_no	text
+t.2.5.4.a	A hymn to Inana for Išme-Dagan		A1-15	XX squatting in the dust XX. XX of Inana XX.  XX of her garment of ladyship. XX with blood (?). XX her submission XX.  XX insulted XX, cursed my temple. XX I despised him. XX cursed my city. XX devastated my XX. XX sullied my garments.
+t.2.5.4.a	A hymn to Inana for Išme-Dagan		B1-6	XX rites XX. Thus XX my mood and heart. As if during the night watch XX like excrement. XX my countenance like smoke. XX my body like blazing straw.
+t.2.5.4.a	A hymn to Inana for Išme-Dagan		B7	XX kirugu.
+t.2.5.4.a	A hymn to Inana for Išme-Dagan		B8	XX lady XX.
+t.2.5.4.a	A hymn to Inana for Išme-Dagan		B9	Its ŋišgiŋal.
+t.2.5.4.a	A hymn to Inana for Išme-Dagan		B10-18	XX whose hands were fettered, XX who had been treated unjustly. The son of Enlil, the son of XX. XX Sumer XX. I, Enlil, XX. From now on XX.
+t.2.5.4.a	A hymn to Inana for Išme-Dagan		C1-13	He made the people follow the proper path, and ousted (?) the enemy from Sumer. He removed the wicked tongues, and made justice shine forth like copper. That fathers should be feared and mothers respected, that sons should pay heed to the words of their fathers, and that mercy, compassion and pity should be shown, that one should provide even one's paternal grandparents with food and drink -- all this he established in Sumer and Akkad. Then she made Išme-Dagan, the son of Enlil, the en priest of Unug, into their guardian -- this is what Inana, the lady of heaven and earth, did; and the great An declared his consent. Enlil XX.
+t.2.5.4.a	A hymn to Inana for Išme-Dagan		C14	XX kirugu.
+t.2.5.4.a	A hymn to Inana for Išme-Dagan		D1-9	

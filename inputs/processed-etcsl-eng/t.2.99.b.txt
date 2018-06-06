@@ -1,1 +1,3 @@
 id_text	text_name	version	l_no	text
+t.2.99.b	A fragment of a royal praise poem		A1-7	
+t.2.99.b	A fragment of a royal praise poem		B1-9	XX who was given a long-lasting kingship by (?) Enlil. XX who takes counsel XX. For the XX of the youth Suen XX soothes the heart. He gave XX to him.

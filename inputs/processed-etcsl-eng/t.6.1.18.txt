@@ -1,1 +1,17 @@
 id_text	text_name	version	l_no	text
+t.6.1.18	Proverbs: collection 18		A14	
+t.6.1.18	Proverbs: collection 18		A15-16	XX flourish XX your lord ate.
+t.6.1.18	Proverbs: collection 18		A17-18	XX grain all been eaten in the XX field XX. How did you value the flourishing?
+t.6.1.18	Proverbs: collection 18		A19-20	The idleness of a low-life causes losses; his shying away (?) from work is perpetual.
+t.6.1.18	Proverbs: collection 18		A21-22	Employ a low-life -- fire him after half a day!
+t.6.1.18	Proverbs: collection 18		A23	cf. 6.1.26.c2 He who pays with high-valued silver negotiates a favourable position.
+t.6.1.18	Proverbs: collection 18		A24	Your worthiness is the result of chance.
+t.6.1.18	Proverbs: collection 18		A25-27	cf. 6.2.3: UET 6/2 281 The quick one hid, the strong one fled; the talker got into the palace.
+t.6.1.18	Proverbs: collection 18		A28-29	
+t.6.1.18	Proverbs: collection 18		A30	
+t.6.1.18	Proverbs: collection 18		A31	Whenever there is excess, an axe remedies it!
+t.6.1.18	Proverbs: collection 18		A32	The hills and the depths will be levelled.
+t.6.1.18	Proverbs: collection 18		A33	A slave entrusted with a burial will be negligent.
+t.6.1.18	Proverbs: collection 18		A34	cf. 6.1.03.88, 6.1.24.7 He who tosses his head will cross the river.
+t.6.1.18	Proverbs: collection 18		A35-40	cf. 6.1.11.57 Oh whirlwind (?), I despatched you toward Agade. What did you accomplish in Agade? -- A misleading omen was given to him i.e. Narām-Suen. He was provided with an interpreter. Agade XX like XX Agade XX
+t.6.1.18	Proverbs: collection 18		B1	= Alster 1997 p. 242 B rev. 1

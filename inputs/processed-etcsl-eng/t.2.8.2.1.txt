@@ -1,1 +1,8 @@
 id_text	text_name	version	l_no	text
+t.2.8.2.1	A praise poem of Hammu-rābi (Hammu-rābi A)		A1-17	XX acting as its lord XX  XX the black-headed XX. XX the Euphrates XX. XX the Tigris XX. XX on the banks of the Irnina watercourse XX. King Hammu-rābi XX Gibil the god of fire. Enlil XX. Enki XX heroism. Suen XX.
+t.2.8.2.1	A praise poem of Hammu-rābi (Hammu-rābi A)		A18-24	Utu the sorcerer XX  XX his favourite XX. Iškur XX heroism. Marduk XX strength (?). Inana XX divine powers. XX reverent XX
+t.2.8.2.1	A praise poem of Hammu-rābi (Hammu-rābi A)		B1-5	
+t.2.8.2.1	A praise poem of Hammu-rābi (Hammu-rābi A)		C1-17	XX humanity XX.  XX the Great Mountain XX.  XX the divine powers of kingship XX.  XX Enlil XX.  XX acting as its lord (?).
+t.2.8.2.1	A praise poem of Hammu-rābi (Hammu-rābi A)		D1-17	XX Enki XX. XX emerging from the Land. XX befitting divinity XX.  XX joyous XX. XX praising with their songs XX. XX your statue shall not be brought in XX  XX formed your heart for Enlil (?). XX enter XX. XX precious destinies XX.
+t.2.8.2.1	A praise poem of Hammu-rābi (Hammu-rābi A)		E1-4	
+t.2.8.2.1	A praise poem of Hammu-rābi (Hammu-rābi A)		F1-22	XX its prince (?) Marduk who XX. XX curse XX. XX great wrath XX Marduk XX. XX midst of the great gods XX  XX weapon XX.  XX brickwork (?) XX.  XX portion XX.  XX the black-headed XX.

@@ -1,1 +1,6 @@
 id_text	text_name	version	l_no	text
+t.4.33.1	A hymn to Sadarnuna (Sadarnuna A)		A1-3	The just woman dwelling among the great divine powers is the lady unsurpassed in ladyship! Sadarnuna, the just woman of far-reaching and just counsel, is the beloved of An!
+t.4.33.1	A hymn to Sadarnuna (Sadarnuna A)		A4-8	The great authority (?), the majestic quay, made fitting for the Eš-mah by Enul and Ninul, the just woman has erected her majestic dais in the courtyard of Enlil. As she stands in the holy storehouse Eš-mah, the XX place, she conveys terrifying awesomeness. The beloved offspring of An the king, as she is worthy of the Pada-nunus (?), XX the Eš-mah (?).
+t.4.33.1	A hymn to Sadarnuna (Sadarnuna A)		A9-15	In his E-melem-huš conveying great awesomeness, XX fear, serving the great gods of heaven and earth, her spouse, the assembly leader Nuska, XX.
+t.4.33.1	A hymn to Sadarnuna (Sadarnuna A)		B1-4	Enlil (?) XX.  The heart of Ninlil XX.
+t.4.33.1	A hymn to Sadarnuna (Sadarnuna A)		B5	Sadarnuna, XX praising you is sweet.

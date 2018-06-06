@@ -1,1 +1,195 @@
 id_text	text_name	version	l_no	text
+t.6.1.01	Proverbs: collection 1		A1	cf. 6.2.3: UET 6/2 291 ll. 1-2, 6.2.5: YBC 8713 ll. 1-2 Who can compete with righteousness? It creates life.
+t.6.1.01	Proverbs: collection 1		A2	cf. 6.2.3: UET 6/2 291 l. 3, 6.2.5: YBC 8713 l. 3 If wickedness exerts itself, how will Utu succeed?
+t.6.1.01	Proverbs: collection 1		A3	You should not cut the throat of that which has already had its throat cut.
+t.6.1.01	Proverbs: collection 1		A4	You should not say to Ninŋišzida: Let me live!
+t.6.1.01	Proverbs: collection 1		A5	Do not make me pass through the gate!
+t.6.1.01	Proverbs: collection 1		A6	cf. 6.2.3: UET 6/2 265 l. 1 What has submitted will exhibit resistance.
+t.6.1.01	Proverbs: collection 1		A7	cf. 6.2.5: YBC 4677 ll. 6-7 What has been destroyed belongs to a god. No one is able to take it away.
+t.6.1.01	Proverbs: collection 1		A8-9	Though I still have bread left over, I will eat your bread! Will this endear a man to the household of his friend?
+t.6.1.01	Proverbs: collection 1		A10-11	cf. 6.1.22: ll. 140-145, 6.2.3: UET 6/2 239, 6.2.3: UET 6/2 320, 6.2.3: UET 6/2 339 + UET 6/3 235 Seg. B l. 2 If bread is left over, the mongoose eats it. If I have any bread left over, then a stranger will eat it.
+t.6.1.01	Proverbs: collection 1		A12	My things changed things.
+t.6.1.01	Proverbs: collection 1		A13-14	You don't speak of that which you have found. You talk only about what you have lost.
+t.6.1.01	Proverbs: collection 1		A15-16	Something which has never occurred since time immemorial: a young woman did not fart in her husband's embrace.
+t.6.1.01	Proverbs: collection 1		A17	It is a thing of short duration.
+t.6.1.01	Proverbs: collection 1		A18	Whatever it is that hurts you, don't talk to anyone about it.
+t.6.1.01	Proverbs: collection 1		A19-20	Wealth is far away, poverty is close at hand.
+t.6.1.01	Proverbs: collection 1		A21	cf. 6.2.5: YBC 4677 l. 5 He who possesses many things is constantly on guard.
+t.6.1.01	Proverbs: collection 1		A22	Possessions make trust of crucial importance.
+t.6.1.01	Proverbs: collection 1		A23-24	Possessions are flying birds -- they never find a place to settle.
+t.6.1.01	Proverbs: collection 1		A25	Good fortune  is embedded in  3 mss. have instead: reinforces  organisation and wisdom.
+t.6.1.01	Proverbs: collection 1		A26-27	What is eaten for today (?) was put there by the dog. What is eaten by the dog was put there for today (?).
+t.6.1.01	Proverbs: collection 1		A28	One shouldn't  1 ms. has instead: I will not  scorn bread which has turned bad.
+t.6.1.01	Proverbs: collection 1		A29	Give out only half a loaf voluntarily!
+t.6.1.01	Proverbs: collection 1		A30	cf. 6.2.3: UET 6/2 261 and UET 6/2 262, 6.2.3: UET 6/2 339 + UET 6/3 235 Seg. B l. 3, 4.14.1: l. 144 To be wealthy and insist (?) on demanding more is abominable.
+t.6.1.01	Proverbs: collection 1		A31	
+t.6.1.01	Proverbs: collection 1		A32	
+t.6.1.01	Proverbs: collection 1		A33	Let him decree the fates while consuming what you have made.
+t.6.1.01	Proverbs: collection 1		A34	I always seem to be speaking about unpleasant things.
+t.6.1.01	Proverbs: collection 1		A35	When a purchase is settled it is soon out of mind.
+t.6.1.01	Proverbs: collection 1		A36	He did something never seen before.
+t.6.1.01	Proverbs: collection 1		A37-38	cf. 6.1.07.82 That which does not eat grass is a wild bull of the mountains. That which does not drink water is a gazelle of the mountains.
+t.6.1.01	Proverbs: collection 1		A39	cf. 6.1.07.37 One does not return borrowed bread.
+t.6.1.01	Proverbs: collection 1		A40	The herald rejoices when the estate makes expenditures.
+t.6.1.01	Proverbs: collection 1		A41	The steward rejoices when the estate increases its income.
+t.6.1.01	Proverbs: collection 1		A42	XX slave XX bought XX.
+t.6.1.01	Proverbs: collection 1		A43	Don't pick things now; they will bear fruit later.
+t.6.1.01	Proverbs: collection 1		A44-45	Who will listen to your translations?
+t.6.1.01	Proverbs: collection 1		A46	What you are doing is a small accomplishment. That man is not doing a man's work.
+t.6.1.01	Proverbs: collection 1		A47-50	Bread is served but it is not used for wiping. Water is poured out, and then drunk by the ground. In the nether world, the most honoured place, since it is water and food, it is called a water libation.
+t.6.1.01	Proverbs: collection 1		A51	He broke it like bread and mixed it with XX.
+t.6.1.01	Proverbs: collection 1		A52-53	cf. 6.1.19.f4, 6.2.1: Ni 4469 Seg. A ll. 1-4 Let his bread be foul food; no man should eat it.
+t.6.1.01	Proverbs: collection 1		A54	Let his food be bread and XX eggs, so that it clogs his throat.
+t.6.1.01	Proverbs: collection 1		A55	Let his food be XX bones, so that it sticks in his throat.
+t.6.1.01	Proverbs: collection 1		A56	Let his food be XX meat, so that it XX his throat.
+t.6.1.01	Proverbs: collection 1		A57	cf. 1.103 He who eats too much XX cannot XX.
+t.6.1.01	Proverbs: collection 1		A58	Break a bit of your lunch off for me like a XX.
+t.6.1.01	Proverbs: collection 1		A59	XX a thick piece of bread XX mixed it with fat.
+t.6.1.01	Proverbs: collection 1		A60	Although the chickpea-flour of the home-born slaves XX is mixed with honey and ghee, there is no end to their lamentations.
+t.6.1.01	Proverbs: collection 1		A61	cf. 6.1.19.f6 Barley flour, in the fields, is meat fat.
+t.6.1.01	Proverbs: collection 1		A62	Whatever food is available in the fields is to be eaten alone.
+t.6.1.01	Proverbs: collection 1		A63	Chickpea-flour is appropriate for every woman in the palace.
+t.6.1.01	Proverbs: collection 1		A64	His bread is finished.
+t.6.1.01	Proverbs: collection 1		A65	cf. 6.1.26.c4 There is no baked cake in the middle of the dough.
+t.6.1.01	Proverbs: collection 1		A66-67	cf. 6.1.26.c5 My heart urged me to bake two loaves out of a half. My hands were unable to take them out of the oven.
+t.6.1.01	Proverbs: collection 1		A68	Bread is the boat, water is the punt-pole.
+t.6.1.01	Proverbs: collection 1		A69-70	Give me my tools and I will launch my boat.
+t.6.1.01	Proverbs: collection 1		A71-73	Let the poor man die, let him not live. When he finds bread, he finds no salt. When he finds salt, he finds no bread. When he finds meat, he finds no condiments. When he finds condiments, he finds no meat.  2 mss. add: When he finds oil, he finds no jar. When he finds a jar, he finds no oil.
+t.6.1.01	Proverbs: collection 1		A74-75	When he walks on the streets no one greets him. And when he comes home to his wife, Bad Name is what he is called.
+t.6.1.01	Proverbs: collection 1		A76	cf. 6.1.25.5 The lives of the poor do not survive their deaths.
+t.6.1.01	Proverbs: collection 1		A77-78	cf. 6.1.19.f5 For morsels of bread and fine onions, the food of the school (?).
+t.6.1.01	Proverbs: collection 1		A79-80	For morsels of bread and fine onions, XX
+t.6.1.01	Proverbs: collection 1		A81	
+t.6.1.01	Proverbs: collection 1		A82	
+t.6.1.01	Proverbs: collection 1		B1-5	
+t.6.1.01	Proverbs: collection 1		B6-7	
+t.6.1.01	Proverbs: collection 1		B8-9	
+t.6.1.01	Proverbs: collection 1		B10-11	
+t.6.1.01	Proverbs: collection 1		B12	cf. 6.1.02.118, 6.2.3: UET 6/2 221 In the city where there are no dogs, the fox is boss.
+t.6.1.01	Proverbs: collection 1		B13	cf. 6.1.02.119, 6.2.5: UIOM 1999 In the city of the lame, a cripple is the courier.
+t.6.1.01	Proverbs: collection 1		B14-15	The city's fate cannot be determined; its book-keeper is a merchant.
+t.6.1.01	Proverbs: collection 1		B16	cf. 6.1.14.15, 6.1.25.6 You should drive them like pack-asses into a death-stricken city.
+t.6.1.01	Proverbs: collection 1		B17-18	When you are expelled from a city, that city and its king are carried off.
+t.6.1.01	Proverbs: collection 1		B19	cf. 6.1.07.121 The songs of a city are its diviners.
+t.6.1.01	Proverbs: collection 1		B20	
+t.6.1.01	Proverbs: collection 1		B21-23	When I enter a sleeping city, the city will be filled with blood. When I board a deep-draught boat, it will go aground.
+t.6.1.01	Proverbs: collection 1		B24	The merchant left the city and the market broke up.
+t.6.1.01	Proverbs: collection 1		B25	Things may be traded in the city but it is the fisherman who brings in the food supply.
+t.6.1.01	Proverbs: collection 1		B26-28	The name of the city is Idibi. Its king's name is Didibi. Its queen's name is No-good-at-all.
+t.6.1.01	Proverbs: collection 1		B29	cf. 6.1.07.12 Like a clod thrown into the water, may it be destroyed as it disintegrates.
+t.6.1.01	Proverbs: collection 1		B30	Beer is a bull. The mouth is its stairway.
+t.6.1.01	Proverbs: collection 1		B31	He hurled his insult. He laid his curse.
+t.6.1.01	Proverbs: collection 1		B32-33	cf. 6.1.26.a13 To a curse that is uttered, a curse is not reciprocated.  A curse which is reciprocated will be retaliated against with yet another curse.  1 ms. has instead: The curse with which I would respond would cause another curse to be uttered.
+t.6.1.01	Proverbs: collection 1		B34-35	cf. 6.1.26.c11 It is an insult resulting from an insult. It is a curse resulting from a curse. It is the constant renewal of destiny.
+t.6.1.01	Proverbs: collection 1		B36	cf. 6.1.07.28 To accept a verdict is possible. To accept a curse is impossible.
+t.6.1.01	Proverbs: collection 1		B37	What has been spoken in secret will be revealed in the women's quarters.
+t.6.1.01	Proverbs: collection 1		B38-39	cf. 6.1.26.a11, 6.2.3: UET 6/2 302, 6.2.5: YBC 8713 ll. 4-5 When a trustworthy boat is sailing, Utu seeks out a trustworthy harbour for it.
+t.6.1.01	Proverbs: collection 1		B40-41	When a dishonest boat is sailing, it runs aground.
+t.6.1.01	Proverbs: collection 1		B42-43	The oars of a boat XX sink XX someone will ask XX like a raft.
+t.6.1.01	Proverbs: collection 1		B44-45	A ferryboat sank at Zabalam. Oh Utu of Larsam, who pulled out the mooring stake?
+t.6.1.01	Proverbs: collection 1		B46	A boatman -- belligerence.
+t.6.1.01	Proverbs: collection 1		B47	cf. 6.1.07.21 If the boat sinks, I will pull out the cargo.
+t.6.1.01	Proverbs: collection 1		B48	cf. 6.1.07.42 Like a boat, he always floats up in the water.
+t.6.1.01	Proverbs: collection 1		B49-50	XX a deep-draught (?) boat XX it should be a boat of sixty gur capacity XX.
+t.6.1.01	Proverbs: collection 1		B51	My girlfriend's heart is a heart made for me.
+t.6.1.01	Proverbs: collection 1		B52	Who can reveal the heart that is XX made for me?
+t.6.1.01	Proverbs: collection 1		B53	XX my heart XX let me go to that place.
+t.6.1.01	Proverbs: collection 1		B54-55	
+t.6.1.01	Proverbs: collection 1		B56	cf. 6.2.1: Ni 13186 Seg. B l. 2 In my heart you are a human being, but in my eyes you are not a man.
+t.6.1.01	Proverbs: collection 1		B57-58	cf. 6.1.22: ll. 201-202 When the heart overflows, it is lamentable.  He who can keep it in his heart is a prince.  1 ms. has instead: I am a prince who can keep it in the heart.
+t.6.1.01	Proverbs: collection 1		B59-60	cf. 6.1.07.104, 6.1.11.53 Those who get excited should not become foremen. A shepherd should not become a farmer.
+t.6.1.01	Proverbs: collection 1		B61-62	What comes out from the heart of the tree is known by the heart of the tree.
+t.6.1.01	Proverbs: collection 1		B63-64	He is at ease, he is pleased, he makes a living, he offers a prayer.
+t.6.1.01	Proverbs: collection 1		B65	cf. 6.1.07.51 Whether he ate it or not, the seed was good.
+t.6.1.01	Proverbs: collection 1		B66-67	He broke it into pieces and sated his hunger. He licked his hands and belched.
+t.6.1.01	Proverbs: collection 1		B68	He who drinks beer drinks water.
+t.6.1.01	Proverbs: collection 1		B69	cf. 1.44 He who eats too much cannot sleep.
+t.6.1.01	Proverbs: collection 1		B70	cf. 6.1.11.54, 6.1.15.c3, 6.1.26.b4, 6.1.28.8 If one pours oil into the inside of a sceptre  2 mss. add: nobody will know.
+t.6.1.01	Proverbs: collection 1		B71-72	A heart never created hatred; speech created hatred.
+t.6.1.01	Proverbs: collection 1		B73-77	The water dried up from the water meadows; there were no fishermen there. The fisherman caught no fish. The fisherman's wife XX could not bring it to her female friend's chamber.
+t.6.1.01	Proverbs: collection 1		B78-80	Let it be plentiful, so that it is not deficient. Let it be excessive, so that it does not have to be supplemented. Let it be piping hot, so that it does not become cold.
+t.6.1.01	Proverbs: collection 1		B81-82	Inwardly a ewe, outwardly a ewe, a most fecund spouse: Let the shepherd perish, but may you not perish.
+t.6.1.01	Proverbs: collection 1		B83-85	cf. 6.1.11.39 You cannot butt me with your horns! Who is it that you are butting? You cannot kill me -- I am running away!
+t.6.1.01	Proverbs: collection 1		B86	
+t.6.1.01	Proverbs: collection 1		B87-88	
+t.6.1.01	Proverbs: collection 1		B89	Across the heavens (an bal), across the earth, litter (anba) is distributed (anba) over the earth.based on puns
+t.6.1.01	Proverbs: collection 1		B90	
+t.6.1.01	Proverbs: collection 1		B91	
+t.6.1.01	Proverbs: collection 1		B92	
+t.6.1.01	Proverbs: collection 1		B93	A trough for kneading dough, not kept clean.
+t.6.1.01	Proverbs: collection 1		B94	A trough from which the pigs eat.
+t.6.1.01	Proverbs: collection 1		B95	
+t.6.1.01	Proverbs: collection 1		B96	
+t.6.1.01	Proverbs: collection 1		B97-98	XX in their backside XX something XX.
+t.6.1.01	Proverbs: collection 1		C1-2	
+t.6.1.01	Proverbs: collection 1		C3-5	cf. 6.1.14.41, 6.1.22: l. 33, 6.1.23.2 My husband heaps up for me, my child measures out for me; let my lover pick the bones from the fish for me.
+t.6.1.01	Proverbs: collection 1		C6	cf. 6.1.14.42, 6.1.19.c6, 6.1.22: l. 34, 6.2.3: UET 6/2 284 A plant as sweet as a husband does not grow in the steppe.
+t.6.1.01	Proverbs: collection 1		C7-8	XX pleasing XX divorce XX.  1 ms. has instead:
+t.6.1.01	Proverbs: collection 1		C9-13	cf. 6.1.22: ll. 146-147, 6.1.23.9, 6.2.3: UET 6/2 210 In the sky there is the raven; on the earth there is the mongoose; in the desert there is the lion XX; my husband! Where shall I go?
+t.6.1.01	Proverbs: collection 1		C14-15	
+t.6.1.01	Proverbs: collection 1		D1	
+t.6.1.01	Proverbs: collection 1		D2-3	XX the brothers in anger destroyed their father's estate.
+t.6.1.01	Proverbs: collection 1		D4-6	cf. 6.2.3: UET 6/2 306 Oh my sister, if there were no outdoor shrines, and, oh my mother, if there were no river as well, I would be dying of hunger.
+t.6.1.01	Proverbs: collection 1		D7-9	cf. 6.2.3: UET 6/2 301 Thus my mother and my younger sister act toward me; XX am I so deficient in judgment that I should offer my cheek to her?
+t.6.1.01	Proverbs: collection 1		D10	You are not one who stays in one place, you are one who is everywhere.
+t.6.1.01	Proverbs: collection 1		D11-12	cf. 6.1.19.c3, 6.1.22: ll. 87-88, 6.1.28.4 Accept your lot and make your mother happy. Run fast and make your god happy.
+t.6.1.01	Proverbs: collection 1		D13-14	cf. 6.1.19.c4 Marry a wife according to your choice. Have children to your heart's content.
+t.6.1.01	Proverbs: collection 1		D15-17	cf. 6.1.19.c5 May Inana make a hot-limbed wife lie with you! May she bestow upon you broad-shouldered sons! May she seek out for you a happy place!
+t.6.1.01	Proverbs: collection 1		D18-19	Girl, your brother cannot choose for you; whom do you choose?
+t.6.1.01	Proverbs: collection 1		D20-21	Girl, your brother is like me. A brother should let you live as would I.
+t.6.1.01	Proverbs: collection 1		D22-23	cf. 6.1.11.7 Like my own affairs, antimony paste (?) is air: let XX fat be eaten in the mist.
+t.6.1.01	Proverbs: collection 1		D24-26	cf. 6.1.14.40, 6.1.28.17 When I married a malicious husband, when I bore a malicious son, an unhappy heart was assigned to me.
+t.6.1.01	Proverbs: collection 1		D27-28	XX who does not XX has no cause for celebration.
+t.6.1.01	Proverbs: collection 1		D29-30	cf. 6.1.03.9, 6.1.16.b5, 6.1.22: ll. 26-27, 6.1.23.7 He who does not support a wife, he who does not support a child, has no cause for celebration.
+t.6.1.01	Proverbs: collection 1		D31-32	cf. 6.1.14.44 A malicious wife living in the house is worse than all diseases.
+t.6.1.01	Proverbs: collection 1		D33-35	cf. 6.1.07.93 Conceived by no father, conceived by no mother, the enbar reed came out of the eye of the storm.
+t.6.1.01	Proverbs: collection 1		D36-37	A male aroused eats salt. A female aroused is dragged in the mud (?).
+t.6.1.01	Proverbs: collection 1		D38-39	A disorderly son -- his mother should not have given birth to him. His god should not have created him.
+t.6.1.01	Proverbs: collection 1		D40-41	My wife said Unfaithful! to me -- shall I go chasing after women's genitals?
+t.6.1.01	Proverbs: collection 1		D42	cf. 6.1.23.7 An unfaithful penis matches (?) an unfaithful vagina.
+t.6.1.01	Proverbs: collection 1		D43-44	cf. 6.1.14.39 Marrying is human. Having children is divine.
+t.6.1.01	Proverbs: collection 1		D45-46	XX born XX superior XX.
+t.6.1.01	Proverbs: collection 1		D47	XX his mother XX dishonest young man XX.
+t.6.1.01	Proverbs: collection 1		D48	Inana XX.
+t.6.1.01	Proverbs: collection 1		D49-50	What XX? A tradesman gave it to me XX.
+t.6.1.01	Proverbs: collection 1		D51-52	cf. 6.1.03.65, 6.1.17.b8, 6.1.22: ll. 194-196 Oh merchant, how you use up silver! And how you use up barley!
+t.6.1.01	Proverbs: collection 1		D53-54	At the top it is a wild cow, at the bottom it is a fish. At the top it is shattered potsherds, at the bottom it is half a cubit.
+t.6.1.01	Proverbs: collection 1		D55-56	cf. 6.1.07.22 I visit it by day, I visit it at nightfall. I always stand by the lamentation drum!
+t.6.1.01	Proverbs: collection 1		D57-58	
+t.6.1.01	Proverbs: collection 1		D59-60	cf. 6.1.14.46a Sons-in-law -- what have they brought? Fathers-in-law -- what have they disposed of?
+t.6.1.01	Proverbs: collection 1		D61-62	cf. 6.2.3: UET 6/2 334 She who says My expense is her girl friend. An interfering neighbour is the one with whom she quarrels.
+t.6.1.01	Proverbs: collection 1		D63-64	
+t.6.1.01	Proverbs: collection 1		D65-66	In the seventh month he did not slaughter (?) a pig. In the sixth month he did not put on a new turban.
+t.6.1.01	Proverbs: collection 1		D67-69	A sheep XX to her girl friend XX
+t.6.1.01	Proverbs: collection 1		D70-71	cf. 6.1.07.47 I walk about, I don't get tired. I keep moving, I don't sleep.
+t.6.1.01	Proverbs: collection 1		D72-74	cf. 6.1.07.49 When the rags have been cut up, when the barley is lying in the dust, what is there left to get?
+t.6.1.01	Proverbs: collection 1		D75-76	cf. 6.1.07.52 I am a lady who wears large garments. Let me cut my loincloth!
+t.6.1.01	Proverbs: collection 1		D77-78	cf. 6.1.07.53 You are the master of a broad river. You are eating XX.
+t.6.1.01	Proverbs: collection 1		D79-80	When you are eating, may nothing lack. When you are in need of water, may things not dry up.
+t.6.1.01	Proverbs: collection 1		D81-82	XX drinking XX.
+t.6.1.01	Proverbs: collection 1		D83	XX pleasant thing XX.
+t.6.1.01	Proverbs: collection 1		D86-87	cf. 6.1.07.76 My cry of joy XX by the nether world, but my mental powers are not thereby taken away.
+t.6.1.01	Proverbs: collection 1		D88	Let not my mental powers XX be diminished.  1 ms. has instead: XX far off XX deficient XX.
+t.6.1.01	Proverbs: collection 1		D89-90	A chattering girl is silenced by her mother. A chattering boy is not silenced by his mother.
+t.6.1.01	Proverbs: collection 1		D91-92	His gathered brushwood will be carried off. His destroyed parapet  will  1 ms. has instead: will not  be plundered.
+t.6.1.01	Proverbs: collection 1		D93-94	cf. 6.1.07.74 The ferryboat is XX too many men. My man shall not board it!
+t.6.1.01	Proverbs: collection 1		D95-97	You don't know how to spread it out. How your tresses hang down! Your hair XX one cubit XX. My lady, you XX not XX.
+t.6.1.01	Proverbs: collection 1		D98	Food is the matter, water is the matter.
+t.6.1.01	Proverbs: collection 1		D99-100	cf. 6.1.19.c9 Fatty meat is good. Fatty mutton is good. -- What shall  I  1 ms. has instead: we  give the slave girl?
+t.6.1.01	Proverbs: collection 1		D102	cf. 6.1.21.c3 Let her eat the ham of a pig!
+t.6.1.01	Proverbs: collection 1		D103-105	You are pouring the fat from the meat, you are pulling out the roasted barley -- when you carry the cooking pot, watch out for your feet!
+t.6.1.01	Proverbs: collection 1		D106-108	cf. 6.2.3: UET 6/2 303 To be sick is acceptable; to be pregnant is painful; but to be pregnant and sick is just too much.
+t.6.1.01	Proverbs: collection 1		D109-110	She has risen high, but cannot go on. She is low, but cannot rise.
+t.6.1.01	Proverbs: collection 1		D111-113	A brewing (?) trough not previously tried is put to the test by means of salt. A mixing jar (?) not previously tried is put to the test by means of water. A son-in-law whose behaviour (?) is unknown is put to the test by means of quarrels.
+t.6.1.01	Proverbs: collection 1		D114-118	In the darkness XX painted (?)  someone XX attractiveness XX.
+t.6.1.01	Proverbs: collection 1		D119-123	A daughter-in-law XX  girl XX.
+t.6.1.01	Proverbs: collection 1		D124-128	
+t.6.1.01	Proverbs: collection 1		D129-131	
+t.6.1.01	Proverbs: collection 1		D132-135	XX beloved XX lives XX beloved XX lives XX.
+t.6.1.01	Proverbs: collection 1		D136-140	XX don't cover the XX with your hand.
+t.6.1.01	Proverbs: collection 1		E1-4	= Alster 1997 p. 26 YY
+t.6.1.01	Proverbs: collection 1		F1-3	= Alster 1997 p. 16 Y
+t.6.1.01	Proverbs: collection 1		G1-2	= Alster 1997 p. 6 AA 1-2 XX hate XX may he XX.
+t.6.1.01	Proverbs: collection 1		G3-4	= Alster 1997 p. 6 AA 3-4 XX like XX it is yours.
+t.6.1.01	Proverbs: collection 1		G5-6	= Alster 1997 p. 6 AA 5-6, N 5138 1-2  mix XX.
+t.6.1.01	Proverbs: collection 1		G7-8	= Alster 1997 p. 6 N 5138 3-4 Let there be XX

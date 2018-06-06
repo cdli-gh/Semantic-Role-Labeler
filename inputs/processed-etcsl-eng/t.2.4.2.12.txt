@@ -1,1 +1,6 @@
 id_text	text_name	version	l_no	text
+t.2.4.2.12	A tigi (?) for Šulgi (Šulgi L)		A1-5	XX in battle and fight XX. You gave XX to your offspring (?) XX. XX shepherd Šulgi, you spread fearsomeness over the foreign countries. XX shepherd, your offspring (?) will praise you duly.
+t.2.4.2.12	A tigi (?) for Šulgi (Šulgi L)		A6	sa-gida.
+t.2.4.2.12	A tigi (?) for Šulgi (Šulgi L)		A7-12	You defeat XX. You impose silence on XX. You roar a war-cry at the rebel lands XX. Your clamour XX even the distant mountains and hills. XX at your roaring devastate (?) XX completely.
+t.2.4.2.12	A tigi (?) for Šulgi (Šulgi L)		B1-6	XX like a forest set on fire, XX covers all the XX. XX your fearsomeness makes XX and the enemies tremble.
+t.2.4.2.12	A tigi (?) for Šulgi (Šulgi L)		B7	sa-ŋara.

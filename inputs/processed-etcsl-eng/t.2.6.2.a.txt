@@ -1,1 +1,5 @@
 id_text	text_name	version	l_no	text
+t.2.6.2.a	A hymn to Nanna for Gungunum (Gungunum B)		A1-5	
+t.2.6.2.a	A hymn to Nanna for Gungunum (Gungunum B)		B1-12	In the whole heaven and on the whole earth Ašimbabbar has made XX great (?). The respected one, the singular dragon, the god made manifest, XX, the flourishing one, the lord who XX the moonlight -- supporting you, youthful Gungunum XX. The lord, the good wild bull, the first-born son of Enlil XX, the youthful Suen who listens to prayers XX, has made prince Gungunum's reign long XX. When my king stands in the sky XX beauty. When youthful Suen stands in the sky XX beauty. The splendid son of Nunamnir XX.
+t.2.6.2.a	A hymn to Nanna for Gungunum (Gungunum B)		C1-6	Your holy purification rites XX, the rituals (?) XX. The crescent moon fixing the months XX. Suen, radiance XX. XX in the pure sky, beauty XX. In the Land XX for you.
+t.2.6.2.a	A hymn to Nanna for Gungunum (Gungunum B)		D1-7	

@@ -1,1 +1,3 @@
 id_text	text_name	version	l_no	text
+t.2.4.1.8	A praise poem of Ur-Namma (Ur-Namma H)		A1-4	Ur-Namma, king of the Land XX. XX far and distant (?) XX. XX ebony XX.
+t.2.4.1.8	A praise poem of Ur-Namma (Ur-Namma H)		B1-6	XX with silver and lapis lazuli XX. XX like silver XX in the Land. XX in (?) the desert. Lion (?) and dragon XX. Ur-Namma, king of the Land, far and distant (?)

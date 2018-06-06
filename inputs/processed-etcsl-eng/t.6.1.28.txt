@@ -1,1 +1,24 @@
 id_text	text_name	version	l_no	text
+t.6.1.28	Proverbs: collection 28		A1	cf. 6.1.03.84 The battle-club does not find out his name, it just finds his flesh.
+t.6.1.28	Proverbs: collection 28		A2	The city may change its name, but let my name stand!
+t.6.1.28	Proverbs: collection 28		A3	The mongoose does not know fear of god.
+t.6.1.28	Proverbs: collection 28		A4-5	cf. 6.1.01.145, 6.1.19.c3, 6.1.22: ll. 87-88 Accept your lot and make your mother happy! Run fast and make your god happy!
+t.6.1.28	Proverbs: collection 28		A6	An eagle (?) enters a man's mouth.
+t.6.1.28	Proverbs: collection 28		A7	When a fly enters, your mouth will buzz lit. fly.
+t.6.1.28	Proverbs: collection 28		A8-9	cf. 6.1.15.c2, 6.1.26.b3 Let the ox be struck with a stick and let the sheep be given the whip. Where there is no toughness, no one can go about their business, not even a plenipotentiary.
+t.6.1.28	Proverbs: collection 28		A10	cf. 6.1.01.104, 6.1.11.54, 6.1.15.c3, 6.1.26.b4 If oil is poured into the inside of a sceptre -- nobody will know.
+t.6.1.28	Proverbs: collection 28		A11-13	If a man does not treasure his god, that man will not be buried. His heir will not provide him with water libations XX.
+t.6.1.28	Proverbs: collection 28		A14-19	XX a slave girl's tears XX spouse XX is a slave girl's child. XX boat XX his marsh XX his marsh XX
+t.6.1.28	Proverbs: collection 28		B20	
+t.6.1.28	Proverbs: collection 28		B21	cf. 6.1.01.151, 6.1.14.40 In marrying (?) a malicious husband -- in bearing a malicious son, an unhappy heart was assigned to me.
+t.6.1.28	Proverbs: collection 28		B22	Disease that afflicts the heart XX a man.
+t.6.1.28	Proverbs: collection 28		B23	The wild beasts (?) have no houses; XX.
+t.6.1.28	Proverbs: collection 28		B24	A tureen XX released (?) XX not XX dust XX: it is an abomination to Utu.
+t.6.1.28	Proverbs: collection 28		B25-26	When a man walks about, he finds something. When a woman walks about, she loses something.
+t.6.1.28	Proverbs: collection 28		B27	You really XX to the hireling selling roasted grain.
+t.6.1.28	Proverbs: collection 28		B28	A slave wafting smoke.
+t.6.1.28	Proverbs: collection 28		B29-30	cf. 6.1.02.155, 6.2.3: UET 6/2 209 ll. 1-3, 1.8.1.5: ll. 193-199 The palace is a forest. The king, the lion, subdues men with a huge net like Nungal.
+t.6.1.28	Proverbs: collection 28		B31	cf. 6.1.03.41, 6.1.19.d9 When the mistress left the house and the slave girl came in from the street, away from her mistress the slave girl set up her own banquet.
+t.6.1.28	Proverbs: collection 28		B32-33	cf. 6.1.03.106 Where there is no grain, this is a sign of vengeance turned toward a city. Where there are no reeds, it is the worst of all poverty.
+t.6.1.28	Proverbs: collection 28		B34-35	cf. 6.1.03.148, 6.1.22: ll. 191-193 I bow over your thighs is what the leather-workers say. I swear by Enki that it will take no time at all is what the fullers say.
+t.6.1.28	Proverbs: collection 28		B36-38	cf. 6.1.03.112, 6.1.22: ll. 19-20, 6.2.3: UET 6/2 311 ll. 4-5 When the fish is too hot, let him cool it down for you and pick out the bones for you. XX go XX, I XX happy XX.

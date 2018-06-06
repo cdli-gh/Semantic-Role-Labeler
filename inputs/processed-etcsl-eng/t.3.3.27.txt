@@ -1,1 +1,4 @@
 id_text	text_name	version	l_no	text
+t.3.3.27	Letter from Inim-Enlila to a king		A1-7	Say to the king who entreats the gods fervently and, serving the gods, prepares the food offerings; repeat to the one elevated in stature who has the ability to give advice and counsel, the merciful one who makes the Land feel content -- this is what Inim-Enlila the scribe, son of Suen-palil, your servant, says:
+t.3.3.27	Letter from Inim-Enlila to a king		A8-10	I do not know my punishment: my punishment has not been considered yet. I am devoured by sorrow at the fate of the captive (?) families. Let my bones not be carried off by water to a foreign city.
+t.3.3.27	Letter from Inim-Enlila to a king		B1	may not be part of this composition

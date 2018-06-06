@@ -1,1 +1,200 @@
 id_text	text_name	version	l_no	text
+t.6.1.03	Proverbs: collection 3		A1-3	cf. 6.2.5: TIM 10/1 2, 1.8.1.1: ll. 25-28 To stand and to sit, to spur on the donkeys, to support (?) the prince: who has the breath for that?
+t.6.1.03	Proverbs: collection 3		A4	You are peering out from the parapet like the prince's nurse.
+t.6.1.03	Proverbs: collection 3		A5	Because you draw water, the swamp may drink.  1 ms. has instead: You draw water for pouring out, so that the swamp may drink water.
+t.6.1.03	Proverbs: collection 3		A6	Unpleasant XX plants  grow towards  1 ms. has instead: rise up to  a good field.
+t.6.1.03	Proverbs: collection 3		A7-9	I will feed you even though you are an outcast (?). I will give you drink even though you are an outcast (?). You are still my son, even if your god has turned against you.
+t.6.1.03	Proverbs: collection 3		A10-12	cf. 6.1.16.b7 I will go today is what a herdsman says; I will go tomorrow is what a shepherd-boy says. I will go is I will go, and the time passes.
+t.6.1.03	Proverbs: collection 3		A13-14	1 ms. adds: Wealth is exposed to the winds.  The churned milk, although it isn't river mud, is diverted into cracks in the ground.
+t.6.1.03	Proverbs: collection 3		A15-16	
+t.6.1.03	Proverbs: collection 3		A17-20	cf. 6.1.26.a5, 6.2.1: Ni 4122 ll. 2-5 1 ms. adds: To serve beer with unwashed hands,  To spit without trampling upon it, to sneeze without covering it with dust, to kiss with the tongue at midday without providing shade, are abominations to Utu.
+t.6.1.03	Proverbs: collection 3		A21-22	cf. 6.1.01.153, 6.1.16.b4-5, 6.1.22: ll. 26-27, 6.1.23.7 A shepherd his penis, a gardener his hair. An unjust heir who does not support a wife, or who does not support a child, has no cause for celebration.
+t.6.1.03	Proverbs: collection 3		A23-24	cf. 6.1.16.b2 If you get rid of the shepherd, then his sheep will not return.
+t.6.1.03	Proverbs: collection 3		A25-26	cf. 6.1.16.b3 Because the clever shepherd became confused, his sheep did not return.
+t.6.1.03	Proverbs: collection 3		A27	A shepherd-boy when weary cannot recognise his own mother.
+t.6.1.03	Proverbs: collection 3		A28	While you still have light, grind the flour.
+t.6.1.03	Proverbs: collection 3		A29	cf. 6.1.05.3 The wild bull is taboo for the plough.
+t.6.1.03	Proverbs: collection 3		A30-33	cf. 6.1.22: ll. 216-217 To eat modestly doesn't kill a man, but to covet will murder you. To eat a little is to live splendidly. When you walk about, keep your feet on the ground!
+t.6.1.03	Proverbs: collection 3		A34-35	As long as he is alive, he is his friend. When he is dead, he is his worst demon.
+t.6.1.03	Proverbs: collection 3		A36-37	cf. 6.1.16.d2 Friendship lasts for just  one day  1 ms. has instead: three days  but collegiality lasts forever.
+t.6.1.03	Proverbs: collection 3		A38-39	Quarrelling occurs wherever  there are colleagues  1 ms. has instead: one of the group is senior to the rest . Slander occurs even where there has been purification.
+t.6.1.03	Proverbs: collection 3		A40-41	When travelling, a man does not tire of eating. He gathers in food all day long.
+t.6.1.03	Proverbs: collection 3		A42	There are bitter tears in human flesh.
+t.6.1.03	Proverbs: collection 3		A43-44	Not buying vegetables (?)  1 ms. has instead: Buying XX , a promise (?) not fulfilled (?), handing over worthless money, not removing a mote from the eye.
+t.6.1.03	Proverbs: collection 3		A45-46	A hand will stretch out towards an outstretched hand. A hand will open for an opened hand.
+t.6.1.03	Proverbs: collection 3		A47-48	cf. 6.1.22: ll. 284-286, 6.2.3: UET 6/2 265 ll. 2-3, 6.2.5: IM 62823 Seg. A ll. 7-8 He who has silver is happy; he who has grain feels comfortable; he who has livestock can sleep.
+t.6.1.03	Proverbs: collection 3		A49-50	cf. 6.2.5: YBC 4677 l. 11 Enlil, XX, my loincloth  is  1 ms. has instead: is not  gone (?).
+t.6.1.03	Proverbs: collection 3		A51-52	cf. 6.1.19.c1, 6.2.5: YBC 4677 ll. 8-10 What did Enlil make? Chaff! The lance struck. It went into the flesh.
+t.6.1.03	Proverbs: collection 3		A53-54	cf. 6.1.19.c2, 6.1.24.9 When the sun is setting outside so that you cannot even recognise the hand in front of you, go indoors!
+t.6.1.03	Proverbs: collection 3		A55-56	King Išbi-Erra XX with his hand XX
+t.6.1.03	Proverbs: collection 3		A57-58	1 ms. has instead:
+t.6.1.03	Proverbs: collection 3		A59-62	
+t.6.1.03	Proverbs: collection 3		A63-65	Enlil XX
+t.6.1.03	Proverbs: collection 3		A66-72	cf. 3.35, 6.1.09.b1, 6.1.11.18, 6.1.15.b8, 6.1.25.4, 6.2.1: Ni 4469 Seg. A ll. 9-12 Nanni cherished his old age. He built the temple XX. He built a wall around Nibru, but XX. He built E-ana, but after abandoning it, XX. He captured Simurrum, but did not XX its wall. He never saw mighty kingship. Thus Nanni was carried off to the nether world.
+t.6.1.03	Proverbs: collection 3		A73-75	like beer XX in front of him XX.
+t.6.1.03	Proverbs: collection 3		A76	cf. 6.1.07.100 He who says I will live for today is bound like a bull on a nose-rope.
+t.6.1.03	Proverbs: collection 3		A77	Ur-Namma XX large mirrors in Enlil's temple.
+t.6.1.03	Proverbs: collection 3		A78-79	cf. 3.31 Nanni cherished his old age: I am what an old man should be.
+t.6.1.03	Proverbs: collection 3		A80-81	cf. 6.2.3: UET 6/2 325 ll. 3-5, 6.2.5: IM 62823 Seg. B ll. 11-12 The voluptuous slave girl says: Let Iškur, XX god XX king XX split the fertile ground like a cucumber.
+t.6.1.03	Proverbs: collection 3		A82-84	cf. 6.1.21.c11-12 A slave girl is one who XX the door. The slave girl from the palace offers advice (?) continually. The slave from the palace eats the ex-voto offering perhaps an idiom.
+t.6.1.03	Proverbs: collection 3		A85-86	A slave girl carried her release money with her. XX 30 minas.
+t.6.1.03	Proverbs: collection 3		A87	cf. 6.2.3: UET 6/2 335 l. 1 You grind with the pestle like a fearful slave girl.
+t.6.1.03	Proverbs: collection 3		A88-91	The slave girl who neglected to fill the containers grumbled: It does not fill (?) to the top; it does not fill (?) the middle.
+t.6.1.03	Proverbs: collection 3		A92-93	cf. 6.1.19.d9, 6.1.28.25 When the lady left the house and the slave girl entered from the street, away from her lady the slave girl sat at her own banquet.
+t.6.1.03	Proverbs: collection 3		A94-95	cf. 6.1.22: ll. 278-279, 6.2.1: Ni 9824 Seg. C ll. 1-2, 6.2.5: YBC 8713 l. 7 When there is a dispute at the mill, a slave girl reveals (?) what she has stolen.
+t.6.1.03	Proverbs: collection 3		A96-98	He who sleeps with a slave girl XX with a strong male XX what the slave girl has stolen, what the lady XX with a man -- one person does not reveal to another.
+t.6.1.03	Proverbs: collection 3		A99	The joy of a daughter-in-law is anger.
+t.6.1.03	Proverbs: collection 3		A100-101	cf. 6.1.07.43, 6.2.1: Ni 9832 Seg. B ll. 6-7 To a slave girl who has not been purchased, the upper millstone XX. You are forever pushing like a millstone torn out of its joint.
+t.6.1.03	Proverbs: collection 3		A102-103	Let me come in! Let me XX it! Let me destroy it! XX.
+t.6.1.03	Proverbs: collection 3		A104	The just god XX cut reeds (?) XX.
+t.6.1.03	Proverbs: collection 3		A105	Let me buy it! Let me XX !
+t.6.1.03	Proverbs: collection 3		A106	
+t.6.1.03	Proverbs: collection 3		A107-108	
+t.6.1.03	Proverbs: collection 3		A109-110	
+t.6.1.03	Proverbs: collection 3		A111	
+t.6.1.03	Proverbs: collection 3		A112	Like a XX on a socle.
+t.6.1.03	Proverbs: collection 3		A113	Like a suckling bull XX.
+t.6.1.03	Proverbs: collection 3		A114-115	cf. 6.1.07.48, 6.1.11.5 As long as you live you should not increase evil by telling lies; for if you do, to succumb will be your lot.
+t.6.1.03	Proverbs: collection 3		A116	The righteous XX the wicked XX.
+t.6.1.03	Proverbs: collection 3		A117	XX and I'm not a treasure chest or a XX.
+t.6.1.03	Proverbs: collection 3		A118	
+t.6.1.03	Proverbs: collection 3		A119-120	cf. 6.1.25.3 The lord i.e. An (?) cursed Unug, but so was he cursed by the lady of E-ana i.e. Inana.
+t.6.1.03	Proverbs: collection 3		A121	cf. 6.1.07.80 I am a loyal steward with strong arms.
+t.6.1.03	Proverbs: collection 3		A122	Let the sides be separated; let me be the one who XX the sides.
+t.6.1.03	Proverbs: collection 3		A123	It is on account of being the boss that you bully me.
+t.6.1.03	Proverbs: collection 3		A124-125	Because of his arrogance, may his head be bowed to his neck like a damp reed.
+t.6.1.03	Proverbs: collection 3		A126-127	cf. 6.1.17.b7 Weighing scales made with a net are a trap made for the feet; a man should not take a merchant for his friend.
+t.6.1.03	Proverbs: collection 3		A128	cf. 6.1.01.165, 6.1.17.b8, 6.1.22: ll. 194-196 You, merchant, how small you made the amount of silver! And how small you made the amount of oil and barley!
+t.6.1.03	Proverbs: collection 3		A129-130	cf. 6.1.22: l. 197 That which in the trade is considered a lump of lapis lazuli is for its owner a stone that XX.
+t.6.1.03	Proverbs: collection 3		A131	One cannot drag out the weak, one cannot hold back the strong.
+t.6.1.03	Proverbs: collection 3		A132-133	cf. 3.85 Let our odour be the smell of leeks -- let it not be the smell of turnips!
+t.6.1.03	Proverbs: collection 3		A134-135	cf. 6.1.11.22 He who insults is insulted. He who sneers is sneered at.
+t.6.1.03	Proverbs: collection 3		A136-137	A lion caught in the trap in the storehouse becomes mine in this way: the owner simply removes the wood.
+t.6.1.03	Proverbs: collection 3		A138-139	cf. 6.1.11.19, 6.1.19.b6, 6.1.24.5  XX its hands to the edge of the desert.
+t.6.1.03	Proverbs: collection 3		A140	A lizard follows like a snake, like a XX.
+t.6.1.03	Proverbs: collection 3		A141	Like a XX worker, keeping watch is not what is on his mind.
+t.6.1.03	Proverbs: collection 3		A142-143	A tenant established the house, and ploughing established the field.
+t.6.1.03	Proverbs: collection 3		A144	cf. 6.1.07.17, 6.2.5: YBC 9912 I am stretching my legs on your behalf, says a man delivering sesame.
+t.6.1.03	Proverbs: collection 3		A145-146	You invoke the oath of Iškur, who destroys the mountains, but XX you cannot cross the river with a boat.
+t.6.1.03	Proverbs: collection 3		A147-148	cf. 6.2.3: UET 6/2 382 l. 3 Iškur splits the mountains, yet he does not split the waterskin.
+t.6.1.03	Proverbs: collection 3		A149	XX which I have found, its dates are from Dilmun.
+t.6.1.03	Proverbs: collection 3		A150	A runaway slave girl only pretends to sleep.
+t.6.1.03	Proverbs: collection 3		A151-152	The gazelle in the XX desert feeds its young with milk.
+t.6.1.03	Proverbs: collection 3		A153	Eyes of XX are characteristic of the Akkadians (?).
+t.6.1.03	Proverbs: collection 3		A154-155	cf. 6.1.07.13 He moves like a lion against a louse, but when there is a job is to be done, he moves like a rat.
+t.6.1.03	Proverbs: collection 3		A156-157	cf. 6.1.22: l. 85 As the sun rises, decisions are made. By the time the sun is up, kingship is conferred.
+t.6.1.03	Proverbs: collection 3		A158-159	cf. 6.1.28.1 The battle-club would not find out your name -- it would just find your flesh.
+t.6.1.03	Proverbs: collection 3		A160-161	cf. 3.68 Our own odour is of pulled-up turnips -- sweet things are brought by strangers.
+t.6.1.03	Proverbs: collection 3		A162-163	cf. 6.1.26.b5-6 Give me! is what the king says. Do well! is what the cupbearer's son says.
+t.6.1.03	Proverbs: collection 3		A164-167	What characterises the carpenter is the chisel. What characterises the reed weaver is the basket. What characterises the smith is the making of little XX. What characterises the singer are the sounds ua and alala.
+t.6.1.03	Proverbs: collection 3		A168-169	cf. 6.1.18.14, 6.1.24.7 He who tosses his head succeeds in crossing the river.  XX the Tigris XX  1 ms. has instead: XX negligent XX possibly belongs to a different proverb .
+t.6.1.03	Proverbs: collection 3		A170-171	cf. 6.1.11.25 If the foreman does not know how to assign the work, his workers will not stop shaking their heads.
+t.6.1.03	Proverbs: collection 3		A172	
+t.6.1.03	Proverbs: collection 3		A173	Enlil's temple is a summation of accounts. The temple manager is its overseer.
+t.6.1.03	Proverbs: collection 3		A174	cf. 6.1.14.18 Enlil's temple is a gathering (?) of wages.
+t.6.1.03	Proverbs: collection 3		A175	cf. 6.2.4: VAT 21604 (+) 21605 Seg. B l. 3 Enlil's greatest punishment is hunger.
+t.6.1.03	Proverbs: collection 3		A176-177	If one does not give the dog something, it will bark at every woman.
+t.6.1.03	Proverbs: collection 3		A178-179	cf. 6.1.05.93 She growls like a dog struck by a  throw-stick  1 ms. has instead: ball (?) .
+t.6.1.03	Proverbs: collection 3		A180	That which is made of evil threads grumbles.
+t.6.1.03	Proverbs: collection 3		A181-182	Just-let-me-say-a-word walks like feet. Who can rival a garrulous man?
+t.6.1.03	Proverbs: collection 3		A183-184	XX floating on the river and XX diminishes.
+t.6.1.03	Proverbs: collection 3		A185	cf. 3.101 You speak to me -- and I will speak to you!
+t.6.1.03	Proverbs: collection 3		A186	He who XX is the one who eats something.
+t.6.1.03	Proverbs: collection 3		A187-188	cf. 3.99 You speak with me and I speak with you.
+t.6.1.03	Proverbs: collection 3		A189	Fools are the ribcages of heroes.
+t.6.1.03	Proverbs: collection 3		A190	The fool is garrulous.
+t.6.1.03	Proverbs: collection 3		A191-192	cf. 6.1.07.73 The dog moves, the knife moves, but still my man does not move.
+t.6.1.03	Proverbs: collection 3		A193-194	Where someone is lame, XX the emissary of Bau comes to their aid.
+t.6.1.03	Proverbs: collection 3		A195-196	cf. 6.1.28.26 Where there is no grain, this is a sign of vengeance turned towards a city. Where there are no reeds, it is the worst of all poverty.
+t.6.1.03	Proverbs: collection 3		A197-199	Something offered is not offered. Something finished is not finished. Nothing changes.
+t.6.1.03	Proverbs: collection 3		A199	A vagrant flays the skin of an opened hand.
+t.6.1.03	Proverbs: collection 3		A200	The two of them are like one man.
+t.6.1.03	Proverbs: collection 3		A201-202	Were he to find where I put my rubbish heap, he would say: You shouldn't go there!
+t.6.1.03	Proverbs: collection 3		A203	cf. 6.1.08.b7 Although it has never been there, the goat knows the wasteland.
+t.6.1.03	Proverbs: collection 3		A204-205	cf. 6.1.22: ll. 19-20, 6.1.28.28, 6.2.3: UET 6/2 311 ll. 4-5 With my mouth I cool the hot soup for you. I pick the bones from the fish for you.
+t.6.1.03	Proverbs: collection 3		A206	cf. 6.2.3: UET 6/2 311 l. 1 My mouth, every month I fill you, my mouth.
+t.6.1.03	Proverbs: collection 3		A207	cf. 6.2.3: UET 6/2 311 ll. 2-3 My tongue, like a runaway donkey, will not turn back.
+t.6.1.03	Proverbs: collection 3		A208-211	All day long my food ration is kept away from me, my heart XX, but even a dog can satisfy its hunger. It's over for me, but should I be happy? My mother would not give me second helpings.
+t.6.1.03	Proverbs: collection 3		A212-213	The ox standing in the fodder abandoned the calf to enter the pen.
+t.6.1.03	Proverbs: collection 3		A214	cf. 6.1.19.g1 You may lift it all together but you will put it down in pieces.
+t.6.1.03	Proverbs: collection 3		A215-217	cf. 6.1.26.a8 When a man comes forward as a witness, saying: Let me tell you what I know about him, but does not know the relevant information, it is an abomination to Suen.
+t.6.1.03	Proverbs: collection 3		A218	Flies enter an open mouth.
+t.6.1.03	Proverbs: collection 3		A219	Offerings create life.
+t.6.1.03	Proverbs: collection 3		A220	Punishment is assigned for the swaggerer; he is afflicted with diseases.
+t.6.1.03	Proverbs: collection 3		A221	Let him go down.
+t.6.1.03	Proverbs: collection 3		A222-223	You should hold a kid in your right arm, and a bribe in your left arm.
+t.6.1.03	Proverbs: collection 3		A224	cf. 6.1.07.14 The manicurist is himself dressed in dirty rags.
+t.6.1.03	Proverbs: collection 3		A225	cf. 5.4.01: l. 98 He came, he stayed a while; he finished, he did not stay put.
+t.6.1.03	Proverbs: collection 3		A226-227	He spoke XX not XX his mouth is full of lies.  1 ms. has instead:
+t.6.1.03	Proverbs: collection 3		A228-230	My fingernail that hurts is clutched in my embrace. My foot that hurts is in my sandal. But who will find my aching heart?
+t.6.1.03	Proverbs: collection 3		A231	May Inana pour oil on my heart that aches.
+t.6.1.03	Proverbs: collection 3		A232	The sail on the mast blocks the river.
+t.6.1.03	Proverbs: collection 3		A233	May you find the response to an insult hurled at you in a dispute.
+t.6.1.03	Proverbs: collection 3		A234-235	If it is too sweet for him, let him eat salt. If it is not too sweet for him, let him eat licorice.
+t.6.1.03	Proverbs: collection 3		A236	Before the fire has gone out, write your exercise tablet!
+t.6.1.03	Proverbs: collection 3		A237-238	Where XX? Solve XX!
+t.6.1.03	Proverbs: collection 3		A239-241	XX slave girl XX ill XX basket XX myself XX you sprinkle the dirt on the XX.
+t.6.1.03	Proverbs: collection 3		A242-243	cf. 6.2.3: UET 6/2 255 A man's personal god is a shepherd who finds pasturage for the man. Let him lead him like sheep to the food they can eat.
+t.6.1.03	Proverbs: collection 3		A244-246	As long as the boasters haven't departed, their mouths make me uneasy.
+t.6.1.03	Proverbs: collection 3		A247-249	The heavens were destroyed, the earth was shaken. After the heavens were destroyed and the earth was shaken, the people were still standing there on their own.
+t.6.1.03	Proverbs: collection 3		A250	The rigging is not ship-shape, and the stern is not seaworthy.
+t.6.1.03	Proverbs: collection 3		A251	He who entered Elam -- his lips are sealed.
+t.6.1.03	Proverbs: collection 3		A252	He who has to live in Elam -- his life is not good.
+t.6.1.03	Proverbs: collection 3		A253-254	cf. 6.1.07.95 Wheat and hulled barley was made to taste like honey. The nomad ate it and didn't recognise what was in it.
+t.6.1.03	Proverbs: collection 3		A255	He who keeps fleeing, flees from his own past.
+t.6.1.03	Proverbs: collection 3		A256-257	cf. 6.1.26.c9 The south wind got its sand into my eyes: Why do you strike me in the back?
+t.6.1.03	Proverbs: collection 3		A258-259	Between the basket and the boat are the fields of Simurrum.
+t.6.1.03	Proverbs: collection 3		A260-261	You keep walking around the storehouse like a pig with a morsel in its mouth.
+t.6.1.03	Proverbs: collection 3		A262	For him who is rejected by Inana, his dream is to forget.
+t.6.1.03	Proverbs: collection 3		A263	Whether it is roasted or not, you should sprinkle the grain.
+t.6.1.03	Proverbs: collection 3		A264-266	It is characteristic of your harvesting, it is characteristic of your gleaning, that they say: He is gone, he is gone.
+t.6.1.03	Proverbs: collection 3		A267-271	cf. 6.1.22: ll. 191-193, 6.1.28.27 You should serve me is typical of purification priests. Bowing over your hips is typical of leather-workers. To be stationed in all corners is typical of lukur women. I will be there with you is typical of gardeners. I swear by Enki that your garments will take no time in this establishment is typical of fullers.
+t.6.1.03	Proverbs: collection 3		A272-275	cf. 6.1.14.6, 6.1.16.c5, 6.1.22: ll. 172-175, 6.1.25.1 The day became cloudy but it did not rain. It rained, but not enough for people to undo their sandals. The Tigris was not surging at its inlet, so water did not fill the arable lands.
+t.6.1.03	Proverbs: collection 3		A276-277	cf. 3.3.07: ll. 5-7 In Eridug, built in abundance, the monkey sits with longing eyes in the singer's house.
+t.6.1.03	Proverbs: collection 3		A278	Cream and milk are multiplied by an axe.
+t.6.1.03	Proverbs: collection 3		A279	cf. 6.1.15.f7 Let the solitary one remain alone; he is forever treacherous.
+t.6.1.03	Proverbs: collection 3		A280	The goat spoke in the manner of a wise old woman but acted in the manner of an unclean woman.
+t.6.1.03	Proverbs: collection 3		A281	cf. 6.1.07.11, 1.8.2.1: l. 246 The clod on the one hand, the furrow on the other hand. And I am the third one there.
+t.6.1.03	Proverbs: collection 3		A282	cf. 6.1.07.15 Let me drink beer shandy and sit in the seat of honour!
+t.6.1.03	Proverbs: collection 3		A283	cf. 6.1.07.16 Although it was not important to him, he attended the festival.
+t.6.1.03	Proverbs: collection 3		A284	cf. 6.1.07.21 The time passed, and what did you gain?
+t.6.1.03	Proverbs: collection 3		A285-286	cf. 6.1.22: ll. 148-150 The figure is good. The father-in-law rejoices over it: It is just like a real person!
+t.6.1.03	Proverbs: collection 3		A287	A good word is a friend to numerous men.
+t.6.1.03	Proverbs: collection 3		A288	A destructive (?) word is four oxen yoked together.
+t.6.1.03	Proverbs: collection 3		A289	Putting unwashed hands to one's mouth is disgusting.
+t.6.1.03	Proverbs: collection 3		A290	May a clever farmer live at home with you.
+t.6.1.03	Proverbs: collection 3		A291	My drink is a river. The place where I sleep is a place of reed mats.
+t.6.1.03	Proverbs: collection 3		A292	The gecko wears a tiara.
+t.6.1.03	Proverbs: collection 3		A293	cf. 6.1.02.161, 6.1.25.8 I'm going home is what he prefers.
+t.6.1.03	Proverbs: collection 3		A294-295	cf. 6.1.07.79 The sun never leaves my heart, which surpasses a garden.
+t.6.1.03	Proverbs: collection 3		A296	cf. 6.1.04.4, 6.1.22: l. 189, 6.2.4: VAT 21604 (+) 21605 Seg. B l. 2 He holds up the sky, letting the earth dangle from his hands.
+t.6.1.03	Proverbs: collection 3		A297	The muš barley is reserved for the necromancer.
+t.6.1.03	Proverbs: collection 3		A298	Wheat flour is sacred to his god.
+t.6.1.03	Proverbs: collection 3		A299-301	cf. 6.1.25.13, 6.1.26.a10, 6.2.5: BM 57994 Seg. A ll. 1-3 If a man sailing downstream says Give way! (?) -- if the hand touches a woman's genitals over her clothes -- it is an abomination to Suen.
+t.6.1.03	Proverbs: collection 3		A302-303	Carrying bread to the oven whilst singing is an abomination to Inana.
+t.6.1.03	Proverbs: collection 3		A304	My XX speaks deceitfully with my man.
+t.6.1.03	Proverbs: collection 3		A305	The sheep (?) is shrouded in wickedness for him.
+t.6.1.03	Proverbs: collection 3		A306	If the sieve is not shaken, his flour will not drop from it.
+t.6.1.03	Proverbs: collection 3		A307	Coveting and  reaching out for things  1 ms. has instead: spying  are abominations to Ninurta.
+t.6.1.03	Proverbs: collection 3		A308-309	I am confronting Fate: Speak in the way of a just man, or speak in the way of a wicked man, it makes no difference.
+t.6.1.03	Proverbs: collection 3		A310	cf. 6.2.2: MDP 27 89, 6.2.3: UET 6/2 322 l. 3 What comes out of one's mouth is not in one's hand.
+t.6.1.03	Proverbs: collection 3		A311-312	1 ms. has instead:
+t.6.1.03	Proverbs: collection 3		A313-314	cf. 6.1.07.77 He said: Woe! and the boat sank with him. He said: Alas! and the rudder broke.
+t.6.1.03	Proverbs: collection 3		A315	cf. 6.1.07.90 He is walking around despite his wounded neck.
+t.6.1.03	Proverbs: collection 3		A316	cf. 6.1.07.91 He turns things upside down.
+t.6.1.03	Proverbs: collection 3		A317	cf. 6.1.07.92 He devours things as crows do a field.
+t.6.1.03	Proverbs: collection 3		A318	cf. 6.1.07.105 A free weaver equals  two slave girls  1 ms. has instead: one slave girl . A free worker equals  three  1 ms. has instead: two  slaves.
+t.6.1.03	Proverbs: collection 3		A319	A spade is like a fisherman who does not make XX fly (?).
+t.6.1.03	Proverbs: collection 3		A320	cf. 6.1.07.45 My mouth enables me to rival other men.
+t.6.1.03	Proverbs: collection 3		A321-322	What is this after you split it? And this after you split it?
+t.6.1.03	Proverbs: collection 3		A323-324	cf. 6.1.07.99 When present, it was considered a loincloth; when lost, it is considered fine clothing.
+t.6.1.03	Proverbs: collection 3		A325-326	cf. 6.2.5: YBC 7347 If the leader is being devoured by a fire, those behind him don't say: Where is the leader?
+t.6.1.03	Proverbs: collection 3		A327	To call out from among (?) the people.
+t.6.1.03	Proverbs: collection 3		A328	When righteousness is cut off, injustice is increased.
+t.6.1.03	Proverbs: collection 3		B1-2	
+t.6.1.03	Proverbs: collection 3		B3-7	
+t.6.1.03	Proverbs: collection 3		B8	
+t.6.1.03	Proverbs: collection 3		C1-2	XX not good XX strong XX.
+t.6.1.03	Proverbs: collection 3		C3-4	XX drinking water XX
+t.6.1.03	Proverbs: collection 3		C5	
+t.6.1.03	Proverbs: collection 3		D1-4	

@@ -1,1 +1,199 @@
 id_text	text_name	version	l_no	text
+t.6.1.02	Proverbs: collection 2 + 6		A1-10	cf. 6.1.07.1, 6.2.1: Ni 9824 Seg. A ll. 1-2, 6.2.3: UET 6/2 356 ll. 3-8 In those places which have been destroyed, let more places be destroyed. And in those places which have not been destroyed, let a breach be made there. Let his place become like chopped-up turnips! -- Their rituals were alienated. Where there were bonds, that place was destroyed. Their place in the universe was eradicated. -- You should not alienate their rituals! Where there are bonds, you should not destroy the place! You should not eradicate their place in the universe. You should not move the oxen from their places!
+t.6.1.02	Proverbs: collection 2 + 6		A11-12	cf. 6.1.26.c10, 6.2.3: UET 6/2 292 ll. 1-2 Let me tell you about my fate: it is an insult. Let me explain it to you: it is a disgrace.
+t.6.1.02	Proverbs: collection 2 + 6		A13-14	Were I to tell my neighbour about my fate, he would heap insults upon me.
+t.6.1.02	Proverbs: collection 2 + 6		A15	cf. 6.2.1: Ni 9824 Seg. A l. 4 I looked into the water. My destiny was drifting past.
+t.6.1.02	Proverbs: collection 2 + 6		A16	I was born on an ill-fated day.
+t.6.1.02	Proverbs: collection 2 + 6		A17	cf. 6.2.1: Ni 4300 Seg. A l. 4 My fate is her voice: my mother can change it.
+t.6.1.02	Proverbs: collection 2 + 6		A18	An acquaintance has gone up onto the roof to them.
+t.6.1.02	Proverbs: collection 2 + 6		A19	The neighbour is on friendly terms with my mother in her house.
+t.6.1.02	Proverbs: collection 2 + 6		A20-21	I am one whose fate has not been determined, confronted by a waif. I will be the one who knows how to settle the account; let me take my position in front of you, she said to me.
+t.6.1.02	Proverbs: collection 2 + 6		A22-23	I am one whose fate has not been determined, confronted by a sickness demon. I am one who knows wealth and possessions; let me take my position in front of you, he said to me.
+t.6.1.02	Proverbs: collection 2 + 6		A24-26	cf. 6.1.07.70 Fate is a dog -- well able to bite. Like dirty rags, it clings, saying: Who is my man? Let him know it.
+t.6.1.02	Proverbs: collection 2 + 6		A27	Fate is a cloth stretched out in the desert for a man.
+t.6.1.02	Proverbs: collection 2 + 6		A28	Fate is a raging storm blowing over the Land.
+t.6.1.02	Proverbs: collection 2 + 6		A29	Hard work  1 ms. has instead: Fate  is a dog walking always behind a man.
+t.6.1.02	Proverbs: collection 2 + 6		A30	The poor man must always look to his next meal.
+t.6.1.02	Proverbs: collection 2 + 6		A31	The belching poor man should not look scornfully at the rich man.
+t.6.1.02	Proverbs: collection 2 + 6		A32	How can a poor man who doesn't know how to cultivate barley manage to cultivate wheat?
+t.6.1.02	Proverbs: collection 2 + 6		A33	The poor man is not appreciated.
+t.6.1.02	Proverbs: collection 2 + 6		A34	The poor man chews whatever he is given.
+t.6.1.02	Proverbs: collection 2 + 6		A35-36	cf. 6.1.26.d4 He didn't plough the field during winter. And at harvest time he turned his hand to carding.
+t.6.1.02	Proverbs: collection 2 + 6		A37	XX incense burners XX a multitude of houses XX.
+t.6.1.02	Proverbs: collection 2 + 6		A38-39	cf. 6.1.17.b5 When someone is poor XX, they dine on the broth of the human breast.
+t.6.1.02	Proverbs: collection 2 + 6		A40-41	cf. 6.1.17.b4 The poor man does not strike his son a single blow; he does not XX highly forever.
+t.6.1.02	Proverbs: collection 2 + 6		A42-43	The poor man XX arrogance toward his patron.
+t.6.1.02	Proverbs: collection 2 + 6		A44	Not all the households of the poor will bow down together.
+t.6.1.02	Proverbs: collection 2 + 6		A45	The word of a poor man is not accepted.
+t.6.1.02	Proverbs: collection 2 + 6		A46-47	cf. 2.34A, 6.1.22: l. 236, 6.2.3: UET 6/2 260 l. 1 Moving about defeats poverty. He who knows how to move around becomes strong. He will live longer than the sedentary man.
+t.6.1.02	Proverbs: collection 2 + 6		A48-51	How lowly is the poor man! The area around the oven is a mill-house to him. His torn clothes will not be repaired. That which he has lost will not be searched for.
+t.6.1.02	Proverbs: collection 2 + 6		A52-53	The poor man is this lowly: his debts are paid off with what is taken from his mouth.
+t.6.1.02	Proverbs: collection 2 + 6		A54	A poor man chewing at silver.
+t.6.1.02	Proverbs: collection 2 + 6		A55	The poor are the weak in the Land.
+t.6.1.02	Proverbs: collection 2 + 6		A56-57	It is the companion of the poor. It is the weakness of the widows.
+t.6.1.02	Proverbs: collection 2 + 6		A58-59	The face of the poor man is set as though he were having to sit in the face of the storm.
+t.6.1.02	Proverbs: collection 2 + 6		A60	cf. 2.28, 6.1.22: l. 236, 6.2.3: UET 6/2 260 l. 1 Moving about defeats poverty.
+t.6.1.02	Proverbs: collection 2 + 6		A61-64	(A man speaks:) Were I to give food to the man who roves about, how could I bring it to him who does not rove about? (A woman speaks:) Were I to give food to the man who roves about, how could I bring it to him who does not rove about?
+t.6.1.02	Proverbs: collection 2 + 6		A65-66	XX a tablet XX a scribe himself XX.
+t.6.1.02	Proverbs: collection 2 + 6		A67	cf. 6.1.11.146, 6.2.3: UET 6/2 267 ll. 1-2 You are a scribe and you do not know your own name? Shame (?) on you!
+t.6.1.02	Proverbs: collection 2 + 6		A68-69	cf. 6.2.3: UET 6/2 268 ll. 1-2 If a scribe knows only a single line but his handwriting is good, he is indeed a scribe!
+t.6.1.02	Proverbs: collection 2 + 6		A70-71	cf. 6.2.3: UET 6/2 268 ll. 3-4, 6.2.3: UET 6/2 290, 6.2.3: UET 6/3 452 ll. 1-2 If a singer knows only one song but makes the sound pleasant, he is indeed a singer!
+t.6.1.02	Proverbs: collection 2 + 6		A72	cf. 6.2.3: UET 6/3 452 l. 3 A scribe whose hand can follow dictation is indeed a scribe!
+t.6.1.02	Proverbs: collection 2 + 6		A73	A singer whose voice is not sweet is a wretch among singers!
+t.6.1.02	Proverbs: collection 2 + 6		A74	cf. 5.4.02: l. 95, 5.4.03: l. 9 A wretched scribe, the most backward in the school!
+t.6.1.02	Proverbs: collection 2 + 6		A75	A scribe without a hand. A singer without a throat.
+t.6.1.02	Proverbs: collection 2 + 6		A76	You are an outstanding scribe; you are no lowly man.
+t.6.1.02	Proverbs: collection 2 + 6		A77-78	The pupil of a master, like cornelian pierced through its side. He is indeed a scribe!
+t.6.1.02	Proverbs: collection 2 + 6		A79	That which is pierced through its side is indeed lapis lazuli!
+t.6.1.02	Proverbs: collection 2 + 6		A80	What kind of a scribe is a scribe who does not know Sumerian?
+t.6.1.02	Proverbs: collection 2 + 6		A81	Someone who cannot produce a-a -- from where will he achieve fluent speech?
+t.6.1.02	Proverbs: collection 2 + 6		A82	cf. 6.2.3: UET 6/2 269 A scribe who does not know Sumerian -- from where will he produce a translation?
+t.6.1.02	Proverbs: collection 2 + 6		A83-84	The scribe trained in counting is deficient on clay. The scribe skilled with clay is deficient in counting.
+t.6.1.02	Proverbs: collection 2 + 6		A85	You are a XX scribe XX.
+t.6.1.02	Proverbs: collection 2 + 6		A86	A chattering scribe's guilt is great.
+t.6.1.02	Proverbs: collection 2 + 6		A87-88	A junior scribe is too concerned with feeding his hunger; he does not pay attention to the scribal art.
+t.6.1.02	Proverbs: collection 2 + 6		A89-95	cf. 6.2.3: UET 6/2 267 ll. 5-7 A disgraced scribe becomes an incantation priest. A disgraced singer becomes a flute-player. A disgraced lamentation priest becomes a piper. A disgraced merchant becomes a con-man. A disgraced carpenter becomes a man of the spindle. A disgraced smith becomes a man of the sickle. A disgraced mason becomes a hod-carrier.
+t.6.1.02	Proverbs: collection 2 + 6		A96	A barber who knows Sumerian.
+t.6.1.02	Proverbs: collection 2 + 6		A97	XX Sumerian XX.
+t.6.1.02	Proverbs: collection 2 + 6		A98	A scribe who does not know how to grasp the meaning -- from where will he produce a translation?
+t.6.1.02	Proverbs: collection 2 + 6		A99	When a singer's voice is sweet, he is indeed a singer.
+t.6.1.02	Proverbs: collection 2 + 6		A100	The fox lies (?) even to Enlil.
+t.6.1.02	Proverbs: collection 2 + 6		A101	
+t.6.1.02	Proverbs: collection 2 + 6		A102	cf. 6.2.1: Ni 3318 ll. 2-3 The vixen quenched her thirst but still her  teats  1 ms. has instead: motherly teats  were dry of milk.
+t.6.1.02	Proverbs: collection 2 + 6		A103	cf. 6.2.1: Ni 3318 ll. 4-5 Each fox is even more of a fox than its mother.
+t.6.1.02	Proverbs: collection 2 + 6		A104	cf. 6.2.1: Ni 3318 l. 6, 6.2.5: P 374 If the hearing of the fox is bad, its foot will be crippled.
+t.6.1.02	Proverbs: collection 2 + 6		A105-106	cf. 6.1.08.b26 The fox's tail is heavy: it carries a harrow.
+t.6.1.02	Proverbs: collection 2 + 6		A107	cf. 6.1.08.b27 The fox's door-bolt is a wooden beam.
+t.6.1.02	Proverbs: collection 2 + 6		A108-109	cf. 6.1.23.7 The fox could not build his own house, so he got a job at his friend's house as a construction worker.
+t.6.1.02	Proverbs: collection 2 + 6		A110	The crab's house became filled with water, so she went to her girlfriend's house to XX.
+t.6.1.02	Proverbs: collection 2 + 6		A111-112	The fox watered (?) the barley with rush (?) water: Nature has changed its mind.
+t.6.1.02	Proverbs: collection 2 + 6		A113	A fox trod on the hoof of a wild bull: It didn't hurt (?)!
+t.6.1.02	Proverbs: collection 2 + 6		A114-115	The fox had a stick: Whom shall I hit? He carried a seal: What can I challenge?
+t.6.1.02	Proverbs: collection 2 + 6		A116-117	cf. 6.2.3: UET 6/2 216 The fox, having urinated into the sea, said: The depths of the sea are my urine!
+t.6.1.02	Proverbs: collection 2 + 6		A118	cf. 6.2.3: UET 6/2 214 He has not yet caught the fox but he is already making a neck-stock for it.
+t.6.1.02	Proverbs: collection 2 + 6		A119-126	The fox said to his wife: Come! Let us crush Unug between our teeth like a leek; let us strap Kulaba on our feet like sandals! Before they had yet come within a distance of 600 uš from the city, the dogs began to howl from the city. -- Geme-Tummal! Geme-Tummal! Come with me to your place! Wicked things are howling at us from the city!
+t.6.1.02	Proverbs: collection 2 + 6		A127	How clever the fox is! He hoots (?) like the šulu bird.
+t.6.1.02	Proverbs: collection 2 + 6		A128	cf. 6.1.07.89 Tell a lie and then tell the truth: it will be considered a lie.
+t.6.1.02	Proverbs: collection 2 + 6		A129	cf. 5.4.01: l. 66, 5.4.02: l. 69 He who always lies is a messenger from distant places.
+t.6.1.02	Proverbs: collection 2 + 6		A130	Donkeys are being ordered; sacks are being hired.
+t.6.1.02	Proverbs: collection 2 + 6		A131-132	Your helpless donkey's speed has left him. O Enlil, your helpless man's strength has left him.
+t.6.1.02	Proverbs: collection 2 + 6		A133-134	My donkey was not destined to run quickly; he was destined to bray!
+t.6.1.02	Proverbs: collection 2 + 6		A135-136	The donkey roared (?); its owner pierced its nostrils (?): We must get up and away from here! Quickly! Come!
+t.6.1.02	Proverbs: collection 2 + 6		A137	cf. 5.1.2: l. 162, 5.4.02: l. 127 A donkey eating its own bedding.
+t.6.1.02	Proverbs: collection 2 + 6		A138	A donkey beating its penis against its belly.
+t.6.1.02	Proverbs: collection 2 + 6		A139	For a donkey there is no stench. For a donkey there is no washing with soap.
+t.6.1.02	Proverbs: collection 2 + 6		A140	A widow donkey distinguishes itself by breaking wind.
+t.6.1.02	Proverbs: collection 2 + 6		A141	One does not marry a three-year-old wife, as a donkey does.
+t.6.1.02	Proverbs: collection 2 + 6		A142-143	Two Akkadians lost a donkey. One went after it while the other wasted the day. The one who just sat around -- the fault was his.
+t.6.1.02	Proverbs: collection 2 + 6		A144	cf. 6.2.1: Ni 9824 Seg. A l. 3 An ox is walking around (?); a mace is XX.
+t.6.1.02	Proverbs: collection 2 + 6		A145	cf. 6.1.26.d8 Lying next to each other on a stake.
+t.6.1.02	Proverbs: collection 2 + 6		A146	He is deceitful, like an ox fleeing the threshing-floor.
+t.6.1.02	Proverbs: collection 2 + 6		A147	cf. 6.1.05.17, 6.1.26.d6 Furrows are pleasant to a threshing ox.
+t.6.1.02	Proverbs: collection 2 + 6		A148	cf. 6.1.26.d5 An ox following round the threshing-floor is not planting seed.
+t.6.1.02	Proverbs: collection 2 + 6		A149-150	cf. 6.1.26.d5 He who eats during the harvest is not removing clods. He who tears out weeds (?) is not sowing seed.
+t.6.1.02	Proverbs: collection 2 + 6		A151	Your dancing (?) XX is like wild cattle grazing.
+t.6.1.02	Proverbs: collection 2 + 6		A152	cf. 6.1.26.d10 If the ox kicks up dust, it gets flour in its own eyes.
+t.6.1.02	Proverbs: collection 2 + 6		A153	While the ox is ploughing, the dog is spoiling the deep furrows.
+t.6.1.02	Proverbs: collection 2 + 6		A154	An ox with diarrhoea -- its dung is a long trail!
+t.6.1.02	Proverbs: collection 2 + 6		A155-156	cf. 6.1.07.81, 6.2.3: UET 6/3 31 ll. 5-6 A stranger's ox eats grass, while my ox lies hungry.
+t.6.1.02	Proverbs: collection 2 + 6		A157	Once I had escaped the wild bull, the wild cow confronted me.
+t.6.1.02	Proverbs: collection 2 + 6		A158-159	XX is an ox-driver; the stranger's ox is our ox-driver.
+t.6.1.02	Proverbs: collection 2 + 6		A160	The milk will be carried away; that milk is near XX!
+t.6.1.02	Proverbs: collection 2 + 6		A161	To the lamentation priest the field lies adjacent to the house.
+t.6.1.02	Proverbs: collection 2 + 6		A162	The lamentation priest is the depths of the boat.
+t.6.1.02	Proverbs: collection 2 + 6		A163-164	The lamentation priest  hurled his son into the water  1 ms. has instead: gave his son to the water : May the city build like me! May the Land live like me!
+t.6.1.02	Proverbs: collection 2 + 6		A165-166	The lamentation priest wipes his bottom: One should not remove what belongs to my mistress Inana.
+t.6.1.02	Proverbs: collection 2 + 6		A167-170	cf. 6.1.22: ll. 280-283 When the lamentation priest met a lion in the desert: Let him come to the town XX, to the gate of Inana, where the XX dog is beaten with a stick. What is your brother doing in the desert?
+t.6.1.02	Proverbs: collection 2 + 6		A171-173	The lamentation priest XX to his house XX let me XX  XX for someone.
+t.6.1.02	Proverbs: collection 2 + 6		A174-176	cf. 6.1.11.8-9 Although the lamentation priest's grain boat was sinking, he was walking on dry land.   1 ms. has instead: When the lamentation priest's boat XX Enki XX.
+t.6.1.02	Proverbs: collection 2 + 6		A177	It is the food of a lamentation priest: the pieces are big but the weight is small.
+t.6.1.02	Proverbs: collection 2 + 6		A178-181	The slave of the lamentation priest wails constantly in the town square: My food ration is big in size but small in weight. Let me tell you about the size of my food ration -- a lance strikes it constantly throughout the city quarter.
+t.6.1.02	Proverbs: collection 2 + 6		A182	A lamentation priest whose incantations do not sound sweet is highly regarded among lamentation priests!
+t.6.1.02	Proverbs: collection 2 + 6		A183-184	Slavering dogs waiting for instructions (?) XX: Where are you going? Come back! Stay!
+t.6.1.02	Proverbs: collection 2 + 6		A185	Unruly (?), scowling dogs belong to the shameless man.
+t.6.1.02	Proverbs: collection 2 + 6		A186	A sniffing dog entering all the houses.
+t.6.1.02	Proverbs: collection 2 + 6		A187-188	A dog eating unclean food is a dog which leaves nothing for the next (?) day.
+t.6.1.02	Proverbs: collection 2 + 6		A189	A dog eating XX ate a pig in the town square; XX jar XX.
+t.6.1.02	Proverbs: collection 2 + 6		A190	The smith's dog could not overturn the anvil, so it overturned the basket and pot.
+t.6.1.02	Proverbs: collection 2 + 6		A191	Patting the neck of a treacherous dog -- patting from the back of the neck.
+t.6.1.02	Proverbs: collection 2 + 6		A192	A dog which knows no home.
+t.6.1.02	Proverbs: collection 2 + 6		A193	The dog thinks it is clever, but to its master XX.
+t.6.1.02	Proverbs: collection 2 + 6		A194	A dog descends, a lance descends -- each does damage (?).
+t.6.1.02	Proverbs: collection 2 + 6		A195	cf. 5.1.2: l. 161 The dog licks its shrivelled penis with its tongue.
+t.6.1.02	Proverbs: collection 2 + 6		A196	cf. 6.1.01.65, 6.2.3: UET 6/2 221 In the city with no dogs, the fox is boss.
+t.6.1.02	Proverbs: collection 2 + 6		A197	cf. 6.1.01.66, 6.2.5: UIOM 1999 In the city of the lame, the cripple is a courier.
+t.6.1.02	Proverbs: collection 2 + 6		A198	cf. 6.1.22: ll. 233-235 How does a cripple stand up?
+t.6.1.02	Proverbs: collection 2 + 6		A199	The good thing is to find it; the bad thing is to lose it.
+t.6.1.02	Proverbs: collection 2 + 6		A200-201	I have found it -- a cause for celebration! I have lost it -- my heart does not ache!
+t.6.1.02	Proverbs: collection 2 + 6		A202	cf. 6.1.07.98 The good thing is the beer. The bad thing is the journey.
+t.6.1.02	Proverbs: collection 2 + 6		A203	For his pleasure he got married. On his thinking it over he got divorced.
+t.6.1.02	Proverbs: collection 2 + 6		A204-205	Their pleasure -- their discomfort. Their discomfort -- their pleasure.
+t.6.1.02	Proverbs: collection 2 + 6		A206-207	cf. 6.1.04.56, 6.1.11.131 Says the man lying on the roof to the man living in the house: It is too bright up here!
+t.6.1.02	Proverbs: collection 2 + 6		B1-2	cf. 6.1.26.d13 A field should not be expanded. Barley XX for him.
+t.6.1.02	Proverbs: collection 2 + 6		B3	cf. 6.1.26.d2 XX collected firewood XX.
+t.6.1.02	Proverbs: collection 2 + 6		B4-5	cf. 6.1.11.6, 6.1.22: l. 80, 6.1.26.d3 Collecting firewood is for the strong man; the weak man waits for him on dry land.
+t.6.1.02	Proverbs: collection 2 + 6		B6-7	cf. 6.2.3: UET 6/2 293 He who shaves his head acquires ever more hair. And he who gathers firewood acquires ever more grain.
+t.6.1.02	Proverbs: collection 2 + 6		B8-9	cf. 6.1.19.b4, 6.1.24.3 He who destroys houses destroys reeds. He who destroys a house destroys gold.
+t.6.1.02	Proverbs: collection 2 + 6		B10-11	A XX not returned and not placed in water -- its XX cannot be eaten.
+t.6.1.02	Proverbs: collection 2 + 6		B12-13	cf. 6.1.19.b3 Walk like a lord, walk at the front. Walk like a slave, walk like a lord.  1 ms. has instead: Build like a lord, build like a slave. Build like a slave, build like a lord.  another ms. has instead: Walk like a lord, walk like a slave. Walk like a slave, walk like a lord.
+t.6.1.02	Proverbs: collection 2 + 6		B14-15	Hand added to hand, and a man's house is built up. Stomach (?) added to stomach (?), and a man's house is destroyed.
+t.6.1.02	Proverbs: collection 2 + 6		B16	The hoe cannot cut firewood. The pitchfork cannot cut firewood.
+t.6.1.02	Proverbs: collection 2 + 6		B17	cf. 6.2.3: UET 6/2 315 ll. 5-6 In a household of several grown-up young men, the hoe and the work basket must cultivate the fields.
+t.6.1.02	Proverbs: collection 2 + 6		B18	The mother who has given birth to eight young men lies down exhausted.
+t.6.1.02	Proverbs: collection 2 + 6		B19	= Alster 1997 2.142 = 6 Sec. A 1; cf. 6.1.23.7, 6.1.25.7 The house built by the upright man is destroyed by the treacherous man.
+t.6.1.02	Proverbs: collection 2 + 6		B20-21	= Alster 1997 2.143 = 6 Sec. A 2; cf. 6.1.14.17 If a household acquaintance has been exposed to harm, the matter is investigated.
+t.6.1.02	Proverbs: collection 2 + 6		B22-23	= Alster 1997 2.144 = 6 Sec. A 3 Let there be unused land adjacent to a house; let there be a threshing-floor adjacent to a field.
+t.6.1.02	Proverbs: collection 2 + 6		B24	= Alster 1997 2.145 = 6 Sec. A 4 Let the elders XX his house, like a house on the outskirts of the city.
+t.6.1.02	Proverbs: collection 2 + 6		B25-27	= Alster 1997 2.146 = 6 Sec. A 5 One finds no rest (?) in a house in which a wife does not speak, in which the head of the household (?) does not utter joyous words.
+t.6.1.02	Proverbs: collection 2 + 6		B28-29	= Alster 1997 2.147 = 6 Sec. A 6
+t.6.1.02	Proverbs: collection 2 + 6		B30	= Alster 1997 2.148 = 6 Sec. A 7
+t.6.1.02	Proverbs: collection 2 + 6		B31-32	= Alster 1997 2.149 = 6 Sec. A 8; cf. 6.1.11.69, 6.1.26.d15 Those who live near the water look into the heart of the mountains. They don't look in their own direction.
+t.6.1.02	Proverbs: collection 2 + 6		B33-34	= Alster 1997 2.150 = 6 Sec. A 9 = Veldhuis 2000 2.150; cf. 6.1.11.70 Adapa knows no loss. XX in the heart of the mountains.
+t.6.1.02	Proverbs: collection 2 + 6		B35	= Veldhuis 2000 2.151
+t.6.1.02	Proverbs: collection 2 + 6		B36-37	= Veldhuis 2000 2.152  XX someone in the river XX.
+t.6.1.02	Proverbs: collection 2 + 6		B38	= Alster 1997 2.153 = 6.1; cf. 6.1.14.21 The palace is an ox; catch it by the tail!
+t.6.1.02	Proverbs: collection 2 + 6		B39	= Alster 1997 2.154 = 6.2; cf. 5.6.1: l. 94 The palace is a huge river; its interior is a goring bull.
+t.6.1.02	Proverbs: collection 2 + 6		B40-42	= Alster 1997 2.155 = 6.3; cf. 6.1.28.24, 6.2.3: UET 6/2 209 ll. 1-3, 1.8.1.5: ll. 193-199 The palace is a forest. The king is a lion. Nungal overwhelms men with a huge battle-net. Oh Utu, accept my prayer.
+t.6.1.02	Proverbs: collection 2 + 6		B43	= Alster 1997 2.156 = 6.4; cf. 6.1.14.23, 6.1.25.8 The palace is a slippery place which catches those who do not know it.
+t.6.1.02	Proverbs: collection 2 + 6		B44-47	= Alster 1997 2.157 = 6.5; cf. 6.1.14.20, 6.1.25.11, 6.2.3: UET 6/2 317 The palace cannot avoid the waste land. A barge cannot avoid straw. A freeborn man cannot avoid corvée work. A king's daughter cannot avoid the tavern.
+t.6.1.02	Proverbs: collection 2 + 6		B48-49	= Alster 1997 2.158 = 6.6; cf. 6.1.14.22, 6.1.17.b9, 6.1.25.10 The palace -- one day a mother giving birth, the next day a lamenting mother.
+t.6.1.02	Proverbs: collection 2 + 6		B50-51	= Alster 1997 2.159 = 6.7 Through building my house I incurred debt, so I could not afford to cultivate the field I had sowed with seed.
+t.6.1.02	Proverbs: collection 2 + 6		B52	= Alster 1997 2.160 = 6.8 May you be a household built up by twin sons.
+t.6.1.02	Proverbs: collection 2 + 6		B53	= Alster 1997 2.161; cf. 6.1.03.165, 6.1.25.8 I would rather go home.
+t.6.1.02	Proverbs: collection 2 + 6		B54	= Alster 1997 2.162 = 6.8 Those who enter his house are fifty.
+t.6.1.02	Proverbs: collection 2 + 6		B55	= Alster 1997 2.163 = 6.9 Whom can I bring to a house whose offspring have been annihilated?
+t.6.1.02	Proverbs: collection 2 + 6		B56	= Alster 1997 2.164 = 6.10 I don't return to a house whose master is not at home.
+t.6.1.02	Proverbs: collection 2 + 6		B57	= Alster 1997 6.11
+t.6.1.02	Proverbs: collection 2 + 6		C1	= Veldhuis 2000 6.20 When the land is given (?), XX is its dry land.
+t.6.1.02	Proverbs: collection 2 + 6		C2	= Veldhuis 2000 6.21 A bird in the sky is as good as an um bird.
+t.6.1.02	Proverbs: collection 2 + 6		C3	= Veldhuis 2000 6.22 A fish in the deep is as good as a carp in the reeds.
+t.6.1.02	Proverbs: collection 2 + 6		C4	= Veldhuis 2000 6.23 Four-legged creatures are as good as marsh rats.
+t.6.1.02	Proverbs: collection 2 + 6		C5	= Veldhuis 2000 6.24 All the birds flew away, and their mother alone stayed.
+t.6.1.02	Proverbs: collection 2 + 6		C6	= Alster 1997 6.25 Ninazu, a bird flying around is your share.
+t.6.1.02	Proverbs: collection 2 + 6		C7	= Alster 1997 6.26 In the fowler's trap (?) is what he eats.
+t.6.1.02	Proverbs: collection 2 + 6		C8	= Alster 1997 6.27 He who lives from birds and fish cannot sleep.
+t.6.1.02	Proverbs: collection 2 + 6		C9	= Alster 1997 6.28 What did the XX bird do?
+t.6.1.02	Proverbs: collection 2 + 6		C10	= Alster 1997 6.29 The um bird's voice is unpleasant.  1 ms. has instead: XX sticking out its backside XX.
+t.6.1.02	Proverbs: collection 2 + 6		C11	= Alster 1997 6.30 The um bird's forehead is not XX.
+t.6.1.02	Proverbs: collection 2 + 6		C12	= Alster 1997 6.31; cf. 6.1.19.d4 He sneaks into the water like an um bird.
+t.6.1.02	Proverbs: collection 2 + 6		C13	= Alster 1997 6.32; cf. 6.2.2: MDP 27 206 l. 1, 6.2.3: UET 6/2 244 ll. 1-2, 6.2.3: UET 6/3 80 l. 4 The wood pigeon's (?) voice is the glory of the garden.
+t.6.1.02	Proverbs: collection 2 + 6		C14	= Alster 1997 6.33; cf. 6.2.2: MDP 27 206 l. 3, 6.2.3: UET 6/2 244 ll. 3-4, 6.2.3: UET 6/3 80 l. 6 The francolin's voice is the glory of the fields.
+t.6.1.02	Proverbs: collection 2 + 6		C15	= Alster 1997 6.34 The voice of the XX is the glory of the palace.
+t.6.1.02	Proverbs: collection 2 + 6		D1	= Alster 1997 6.37 Offerings are the glory of the gods.
+t.6.1.02	Proverbs: collection 2 + 6		D2	= Alster 1997 6.38 The fish of the marshes added (?) XX to the XX bird.
+t.6.1.02	Proverbs: collection 2 + 6		D3	= Alster 1997 6.39; cf. 6.1.07.30 The arabu fowl was not eaten in time.
+t.6.1.02	Proverbs: collection 2 + 6		D4	= Alster 1997 6.40   1 ms. has instead:
+t.6.1.02	Proverbs: collection 2 + 6		D5	= Alster 1997 6.41 XX does not come back, it comes back from the oven.  1 ms. has instead:
+t.6.1.02	Proverbs: collection 2 + 6		D6	= Alster 1997 6.42; cf. 6.1.07.27 Let the head of a suhur carp be eaten with the head of a  mašgurašeš fish  1 ms. has instead: XX bird .
+t.6.1.02	Proverbs: collection 2 + 6		D7	= Alster 1997 6.43; cf. 6.1.11.26 Now, you should not sleep in the reedbeds: the marsh rats will eat you.
+t.6.1.02	Proverbs: collection 2 + 6		D8	= Alster 1997 6.44
+t.6.1.02	Proverbs: collection 2 + 6		D9	= Alster 1997 6.45 Don't pour water into a river. The rats will come up.
+t.6.1.02	Proverbs: collection 2 + 6		D10-13	= Alster 1997 6.46 XX an u bird, XX cut and carried a single swallow away. XX its food.
+t.6.1.02	Proverbs: collection 2 + 6		D14	= Alster 1997 6.47 Like a XX bird, I will strike your beard in anger.
+t.6.1.02	Proverbs: collection 2 + 6		D15-16	= Alster 1997 p. 153 CBS 11335 5
+t.6.1.02	Proverbs: collection 2 + 6		D17-19	= Alster 1997 6.48; cf. 6.2.5: P 376 Two esig birds, two  gusura fish  1 ms. has instead: gusura birds , three suhur carp, two eštub carp, and two suhur carp,  1 ms. adds: two  sea fish, are present on Enlil's offering table.
+t.6.1.02	Proverbs: collection 2 + 6		D20-21	= Alster 1997 6.49 May XX fish oil and bird oil on your shoulders for the offering basket of Enlil.
+t.6.1.02	Proverbs: collection 2 + 6		D22-24	= Alster 1997 6.50; cf. 6.1.07.78 Who  moved  1 ms. has instead: removed  the dust? Who caulked the boat? Who XX while they sat singing?
+t.6.1.02	Proverbs: collection 2 + 6		D25	= Alster 1997 6.51
+t.6.1.02	Proverbs: collection 2 + 6		D26	= Alster 1997 6.52
+t.6.1.02	Proverbs: collection 2 + 6		D27	= Alster 1997 6.53

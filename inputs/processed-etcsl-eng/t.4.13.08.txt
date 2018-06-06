@@ -1,1 +1,10 @@
 id_text	text_name	version	l_no	text
+t.4.13.08	An adab to Nanna (Nanna H)		A1-5	Righteous lord who determines destiny! Born to Ninlil, Suen, beloved son of Ninlil, Suen, having no rival in the E-kur, the house of Enlil: your divine powers are majestic divine powers granted by An!
+t.4.13.08	An adab to Nanna (Nanna H)		A6-12	Your father, holy An, has bestowed upon you divine powers to which other gods cannot aspire. Enlil has decreed them to you in destiny. The lord of the holy lustration rites, An, has established them. XX, sacred lion of the gods, justly honoured, you are the light of heaven.
+t.4.13.08	An adab to Nanna (Nanna H)		B1-5	O house of XX in XX, city founded by An! O house of XX in XX, city founded by An! O house of Lugalbanda in XX, city founded by An! O house of XX in XX, city founded by An! O house of Inana in Zabalam, city founded by An!
+t.4.13.08	An adab to Nanna (Nanna H)		B6	Sa-ŋara.
+t.4.13.08	An adab to Nanna (Nanna H)		B7-9	O shrine Urim! Within, through their intricate craftsmanship, the Enki and Ninki deities have perfected the divine powers with their righteousness, and the Anuna gods stand there in service.
+t.4.13.08	An adab to Nanna (Nanna H)		B10	Its ŋišgiŋal to the sa-ŋara.
+t.4.13.08	An adab to Nanna (Nanna H)		B11-13	O Urim, shrine of the mountains! O shrine Urim, shrine of the mountains! O Urim, city founded by An!
+t.4.13.08	An adab to Nanna (Nanna H)		B14	Its uru.
+t.4.13.08	An adab to Nanna (Nanna H)		B15	An adab of Nanna. lines 14 and 15 are written as one line in source

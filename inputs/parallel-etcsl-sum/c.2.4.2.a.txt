@@ -1,55 +1,9 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{d}nin-sumun₂-zid-gal-an-na hul₂-la-a
-
-{d}šul-gi-re keš₃{ki}-še₃ na-ŋen
-
-{d}nin-sumun₂-zid-gal-an-na hul₂-la-a
-
-lugal-ŋu₁₀ urim₂-še₃ na-ŋen
-
-en {d}aš-im₄-babbar hul₂-la-a
-
-{d}šul-gi-re urim₂{ki}-še₃ na-ŋen
-
-en {d}aš-im₄-babbar hul₂-la-a
-
-lugal-ŋu₁₀ e₂-babbar₂-še₃ na-ŋen
-
-sun₄ za-gin₃ hul₂-la-a
-
-{d}šul-gi-re e₂-babbar₂-še₃ na-ŋen
-
-sun₄ za-gin₃ hul₂-la-a
-
-lugal-ŋu₁₀ kul-aba₄{ki}-še₃ na-ŋen
-
-{d}nin-iri₁₂-gal-ke₄ hul₂-la-a
-
-{d}šul-gi-re kul-aba₄{ki}-še₃ na-ŋen
-
-{d}nin-iri₁₂-gal-ke₄ hul₂-la-a
-
-lugal-ŋu₁₀ ki zabalam₂{ki}-še₃ na-ŋen
-
-{d}inana-ke₄ hul₂-la-a
-
-{d}šul-gi-re ki zabalam₂{ki}-še₃ na-ŋen
-
-{d}inana-ke₄ hul₂-la-a
-
+šag₄-ta kug-ga e₃ kalam-ma ki hul₂  dug₄-ga 
+lugal-ŋu₁₀ eridug{ki}-še₃ na-ŋen nun gal a-a {d}en-ki hul₂-la-a {d}šul-gi-re eridug{ki}-še₃ na-ŋen nun gal a-a {d}en-ki hul₂-la-a 
+lugal-ŋu₁₀ nibru{ki}-še₃ na-ŋen kur gal a-a {d}en-lil₂ hul₂-la-a {d}šul-gi-re nibru{ki}-še₃ na-ŋen kur gal a-a {d}en-lil₂ hul₂-la-a 
+lugal-ŋu₁₀ e₂-šu-me-ša₄-še₃ na-ŋen en {d}nin-urta-ke₄ hul₂-la-a {d}šul-gi-re e₂-šu-me-ša₄-še₃ na-ŋen en {d}nin-urta-ke₄ hul₂-la-NI 
+lugal-ŋu₁₀ keš₃{ki}-še₃ na-ŋen {d}nin-sumun₂-zid-gal-an-na hul₂-la-a {d}šul-gi-re keš₃{ki}-še₃ na-ŋen {d}nin-sumun₂-zid-gal-an-na hul₂-la-a 
+lugal-ŋu₁₀ urim₂-še₃ na-ŋen en {d}aš-im₄-babbar hul₂-la-a {d}šul-gi-re urim₂{ki}-še₃ na-ŋen en {d}aš-im₄-babbar hul₂-la-a 
+lugal-ŋu₁₀ e₂-babbar₂-še₃ na-ŋen sun₄ za-gin₃ hul₂-la-a {d}šul-gi-re e₂-babbar₂-še₃ na-ŋen sun₄ za-gin₃ hul₂-la-a 
+lugal-ŋu₁₀ kul-aba₄{ki}-še₃ na-ŋen {d}nin-iri₁₂-gal-ke₄ hul₂-la-a {d}šul-gi-re kul-aba₄{ki}-še₃ na-ŋen {d}nin-iri₁₂-gal-ke₄ hul₂-la-a 
+lugal-ŋu₁₀ ki zabalam₂{ki}-še₃ na-ŋen {d}inana-ke₄ hul₂-la-a {d}šul-gi-re ki zabalam₂{ki}-še₃ na-ŋen {d}inana-ke₄ hul₂-la-a 

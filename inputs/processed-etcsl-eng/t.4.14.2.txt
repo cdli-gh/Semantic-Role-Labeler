@@ -1,1 +1,5 @@
 id_text	text_name	version	l_no	text
+t.4.14.2	A balbale to Nanše (Nanše B)		A1-2	
+t.4.14.2	A balbale to Nanše (Nanše B)		B1-12	A fish is held in her hand as a staff XX. Fishes are put on her feet as sandals XX. Fishes light up the interior of the sea like fires XX. Fishes play on instruments for her like (?) sur priests. Fishes call out loudly for her like (?) oxen. She has fish wrapped around her body as a regal garment. The runner-fish (kaškaš) hastens (kaš) to her. The gurgur fish makes the sea surge up (gurgur) for her. The flash-fish (ŋir) makes the sea sparkle (ŋir) for her. She heaps up fish spawn so that XX fish will grow for her in the sea. Fishes fly around for her like swallows.
+t.4.14.2	A balbale to Nanše (Nanše B)		B13-22	I, the lady, will ride on my boat, I will ride home. I will ride on the prow of the boat, I will ride home. Its canopy of gold and fragrant cedarwood sparkles for her on the sea. Its cabin shines for her like rejoicing moonlight on the sea. My husband is the tax collector of the sea, Nindara is the tax collector of the sea.
+t.4.14.2	A balbale to Nanše (Nanše B)		B23	A balbale of Nanše.

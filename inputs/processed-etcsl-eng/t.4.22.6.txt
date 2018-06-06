@@ -1,1 +1,11 @@
 id_text	text_name	version	l_no	text
+t.4.22.6	Ninisina and the gods (Ninisina F)		A1-5	They XX stood around her. The holy and pure divine powers befit Ninisina, lady of the great divine powers. Her divine powers are divine powers bestowed on her by An. The Great Mountain Enlil determined a fate for her.
+t.4.22.6	Ninisina and the gods (Ninisina F)		A6-15	Having left the temple of Enlil, she entered Eridug, the pleasant place, and took her seat in the abzu shrine. Her father, Enki, seated her upon his knees. He truly cherished Ninisina -- as soon as XX took a fancy to jewels of šuba stone, they were hung around the neck of Ninisina; as soon as she took a fancy to a white linen garment, he dressed the daughter of holy An in it. Lord Nudimmud determined a fate for her.
+t.4.22.6	Ninisina and the gods (Ninisina F)		B1-2	She lay down with him on XX and spent time joyously with him.
+t.4.22.6	Ninisina and the gods (Ninisina F)		B3-9	XX with your beloved spouse, Lord Pabilsaŋ, XX your chosen XX! This is what the Great Mountain Enlil determined as her fate for XX perfect with the great divine powers, the fifty divine powers, XX perfect XX adorned with jewels of šuba stone, the lady whose great name XX.
+t.4.22.6	Ninisina and the gods (Ninisina F)		B10-12	In the shrine of Nibru, Dur-an-ki, the place of Enlil, she is XX indeed.
+t.4.22.6	Ninisina and the gods (Ninisina F)		C1-10	XX she is indeed XX. In XX, the XX of An, XX she is indeed Ŋatumdug. In XX, her XX that reaches the heavens, she is indeed XX, the firstborn child. In XX Ŋirsu, the shrine which first brought forth the seed of mankind, my lady is indeed Mother Bau. In XX Umma, in the Šeg-kuršaga, XX she is indeed XX. In XX
+t.4.22.6	Ninisina and the gods (Ninisina F)		D1-2	In XX, a dragon lying in wait for men, a XX sticking out its tongue at everybody, my lady is indeed Nungal.
+t.4.22.6	Ninisina and the gods (Ninisina F)		D3-11	My lady entered Lagaš. With her beloved spouse, Lord Pabilsaŋ, she XX the holy city, her chosen place. All the XX were drinking and enjoying XX. She gave them XX. She lay down with him on XX and spent time joyously with him.
+t.4.22.6	Ninisina and the gods (Ninisina F)		D12	XX Ninisina, it is sweet to praise you.
+t.4.22.6	Ninisina and the gods (Ninisina F)		D13	XX of Ninisina.

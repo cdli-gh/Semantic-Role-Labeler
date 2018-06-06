@@ -1,1 +1,63 @@
 id_text	text_name	version	l_no	text
+t.6.1.08	Proverbs: collection 8		A1	A pig digging in the house.
+t.6.1.08	Proverbs: collection 8		A2-5	A pig which was about to be slaughtered by the pig-butcher squealed. (The butcher said:) Your ancestors and forebears walked this road, and now you too are walking it, so why (?) are you squealing?
+t.6.1.08	Proverbs: collection 8		A6	Like a pig XX your dagger XX.
+t.6.1.08	Proverbs: collection 8		A7-8	cf. 6.2.3: UET 6/2 275 He snatches things like a pig, as if for himself, but also for his owner.
+t.6.1.08	Proverbs: collection 8		A9	cf. 6.2.3: UET 6/2 300 l. 1 Like a pig spattered with mud.
+t.6.1.08	Proverbs: collection 8		A10	cf. 6.2.3: UET 6/2 300 l. 2 The pig picks up morsels of bread.
+t.6.1.08	Proverbs: collection 8		A11	
+t.6.1.08	Proverbs: collection 8		B1-2	XX his burden XX it has not depressed you, it will cheer you up!
+t.6.1.08	Proverbs: collection 8		B3-4	Having lost the sow, they sit around and strengthen the pigsty.
+t.6.1.08	Proverbs: collection 8		B5-6	Like a sow was she not treated to luxury? Was she not accustomed to demanding barley in the middle of the night?
+t.6.1.08	Proverbs: collection 8		B7	cf. 6.2.3: UET 6/2 240 l. 2 Wearing a long beard like a goat.
+t.6.1.08	Proverbs: collection 8		B8	cf. 6.2.3: UET 6/2 240 l. 1 A goat is the gift of a large kid.
+t.6.1.08	Proverbs: collection 8		B9-10	A goat says to another goat: I too butt my head.
+t.6.1.08	Proverbs: collection 8		B11	cf. 6.1.03.111 Although it has never been there, the goat knows the waste land.
+t.6.1.08	Proverbs: collection 8		B12-13	Some wolves were chasing a goat. It turned around and its feet clattered into each other.
+t.6.1.08	Proverbs: collection 8		B14	He gets his behind in his mouth, like a hippopotamus (?).
+t.6.1.08	Proverbs: collection 8		B15	A stag wandering in the outlying areas.
+t.6.1.08	Proverbs: collection 8		B16	A gazelle not alert, a dog not on the watch.  1 ms. adds: A man raising his hand in anger does not see clearly.
+t.6.1.08	Proverbs: collection 8		B17	Like a gazelle he is drinking 15 days' worth of water.
+t.6.1.08	Proverbs: collection 8		B18	Get that bear away from us! -- so he has gone to the mountains.
+t.6.1.08	Proverbs: collection 8		B19-21	cf. 6.2.3: UET 6/2 241 A bear in the sixth month turned onto its side and said: Were An not to give you, oh sleep, to a person, as he does to me -- they would die.
+t.6.1.08	Proverbs: collection 8		B22	cf. 6.2.3: UET 6/2 294 Like a hyena, you will not eat it unless it stinks.
+t.6.1.08	Proverbs: collection 8		B23	The claws of a cat can walk even in sheep fat.
+t.6.1.08	Proverbs: collection 8		B24	As with a cat, it is its tongue that treats its skin.
+t.6.1.08	Proverbs: collection 8		B25	A cat can find a hole in the ground.
+t.6.1.08	Proverbs: collection 8		B26-27	A fox stamped on the crotch of an elephant: It's enough, it's too much!
+t.6.1.08	Proverbs: collection 8		B28-34	A fox demanded of Enlil the horns of a wild bull. While it was wearing the wild bull's horns, it started to rain. But the horns rose high above him, so he could not enter his burrow. Until midnight the wind kept blowing, and the clouds brought rain. Afterwards, when it had stopped raining on him, and he had dried off, he said: I shall return this feature to its rightful owner!
+t.6.1.08	Proverbs: collection 8		B35-36	A fox was pursuing the testicles of a wild bull, as though about to die of hunger.
+t.6.1.08	Proverbs: collection 8		B37-38	A fox was scrabbling in a dyke: Nobody has ever seen my bent-over behind.
+t.6.1.08	Proverbs: collection 8		B39-40	cf. 6.2.3: UET 6/2 215 A fox was preparing a threshing floor. It did not XX on the threshing floor, but he did not become exhausted.
+t.6.1.08	Proverbs: collection 8		B41-42	cf. 6.2.3: UET 6/2 218 The fox thought about his mother's interference and said: My XX is collapsing.
+t.6.1.08	Proverbs: collection 8		B43-44	cf. 6.2.3: UET 6/2 213 The fox dropped her young. They came out as twins.
+t.6.1.08	Proverbs: collection 8		B45	cf. 6.1.02.61A The fox's tail is heavy: it carries a XX.
+t.6.1.08	Proverbs: collection 8		B46	cf. 6.1.02.61B The fox's door-bolt is a XX.
+t.6.1.08	Proverbs: collection 8		B47-52	cf. 6.2.3: UET 6/2 219 A fox spoke to a goat: Let me put my shoes in your house! It replied: When the dog arrives, I will hang them up on a peg! The fox: If there's a dog staying like that in your house, bring me my shoes. Don't expect me to stay the night!
+t.6.1.08	Proverbs: collection 8		B53-57	cf. 6.2.3: UET 6/2 220 A fox went into a den in a thorny bush, and (the dog said:) Hey, come out! But it would not come out. How am I supposed to get in from out here? (exclaimed the dog). So long as you don't chase me away, I will stay sitting here! said the fox.
+t.6.1.08	Proverbs: collection 8		B58-59	The fox XX. He is more full of lies than anyone.
+t.6.1.08	Proverbs: collection 8		B60	Like an aroused (?) fox, your cry echoes (?) over the fields.
+t.6.1.08	Proverbs: collection 8		B61-62	What will the dog do about what the fox is doing?
+t.6.1.08	Proverbs: collection 8		B63-64	cf. 6.2.3: UET 6/2 217 The fox set his mind on some treachery: I am throwing it out. I am carrying it to the river.
+t.6.1.08	Proverbs: collection 8		B65-66	A fox walked around a throw-stick: Who is going to give a party as good as that?
+t.6.1.08	Proverbs: collection 8		B67-68	A fox had been caught by a partially-sighted (?) man: Is this why you are crying? The fox replied: Set me free!
+t.6.1.08	Proverbs: collection 8		B69-70	Someone cooking (?) meat at the den (?) of a fox said: One doesn't mention this in front of the mongoose.
+t.6.1.08	Proverbs: collection 8		C1-2	= Veldhuis 2000 p. 392 The man who owns much barley may sleep (?).
+t.6.1.08	Proverbs: collection 8		C3-4	= Veldhuis 2000 p. 392 While the francolin calls out on the wall, the XX bird, not measuring two fingers, XX.
+t.6.1.08	Proverbs: collection 8		C5-7	= Veldhuis 2000 p. 392 When the bizaza-gu-balaŋa-kar-girzana bird a nickname for the sparrow twitters (?), XX tongue XX.
+t.6.1.08	Proverbs: collection 8		C8	= Veldhuis 2000 p. 392
+t.6.1.08	Proverbs: collection 8		D1-3	= Alster 1997 8 Sec. C 1  XX speaking XX; XX said XX.
+t.6.1.08	Proverbs: collection 8		D4-8	= Alster 1997 8 Sec. C 2 A raven had (?) a porous jar. A fox asked: Where do you sprinkle the water? I sprinkle in the Tigris and the Euphrates, it replied, Why do you ask?
+t.6.1.08	Proverbs: collection 8		D9-10	= Alster 1997 8 Sec. C 3 Like an azag-gun bird you wear a tiara over your eyes.
+t.6.1.08	Proverbs: collection 8		D11-12	= Alster 1997 8 Sec. C 4
+t.6.1.08	Proverbs: collection 8		D13	= Alster 1997 8 Sec. C 5
+t.6.1.08	Proverbs: collection 8		E1-3	= Alster 1997 8 Sec. D 1 A date-palm XX to its owner: Our XX are old (?) XX. Like a tree, they are XX to your relatives.
+t.6.1.08	Proverbs: collection 8		E4-8	= Alster 1997 8 Sec. D 2 A tree XX to its relative: You and I are brothers. Why are you afraid? Look, what am I to do? A stone stronger than me is being hurled at me, it said.
+t.6.1.08	Proverbs: collection 8		E9	= Alster 1997 8 Sec. D 3 Let the tree split its relative.
+t.6.1.08	Proverbs: collection 8		E10	= Alster 1997 8 Sec. D 4 A chair always stands at the doorway as an audience gift.
+t.6.1.08	Proverbs: collection 8		E11-13	= Alster 1997 8 Sec. D 5 The table rejoiced. It pressed oil into the river: The table is set before you! Whether it ate it or not, XX.
+t.6.1.08	Proverbs: collection 8		E14	= Alster 1997 8 Sec. D 6 The cedar door XX the garment XX.
+t.6.1.08	Proverbs: collection 8		E15	= Alster 1997 8 Sec. D 7 On our trough full of grapes the ears are hanging outside.
+t.6.1.08	Proverbs: collection 8		E16	= Alster 1997 8 Sec. D 8 The thief hurls a throw-stick toward a bound sheep.
+t.6.1.08	Proverbs: collection 8		E17	= Alster 1997 8 Sec. D 9 A throw-stick XX.
+t.6.1.08	Proverbs: collection 8		E18	= Alster 1997 8 Sec. D 10 A ladder XX.
