@@ -1,4 +1,5 @@
-
+# Modified for English translations : June 2018, Bakhtiyar Syed 
+# Rest of the header is for original attribution
 # coding: utf-8
 
 # # Formatting ETCSL TEI XML files
