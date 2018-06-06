@@ -1,62 +1,16 @@
-id_text,text_name,version,l_no,text
-t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	A	1-3	Say to 
-Puzur-Šulgi
-
-2 mss. have instead: Puzur-Numušda
-, the governor of Kazallu: this is what Ibbi-Suen, your lord, says:
-t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	A	4-5	When I had chosen for you XX from among the troops, they were at your disposal, as governor of Kazallu. But as in my own case, are not 
-your troops
-
-1 ms. has instead: your people
- proof (?) of your importance?
+id_text	text_name	version	l_no	text
+t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	A	1-3	Say to  Puzur-Šulgi  2 mss. have instead: Puzur-Numušda , the governor of Kazallu: this is what Ibbi-Suen, your lord, says:
+t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	A	4-5	When I had chosen for you XX from among the troops, they were at your disposal, as governor of Kazallu. But as in my own case, are not  your troops  1 ms. has instead: your people  proof (?) of your importance?
 t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	A	6-9	Why have you sent me somebody saying: Išbi-Erra has got his eyes upon me -- so let me come to you when he falls upon me?
 t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	A	10-14	How come you did not know how long it would take to make Išbi-Erra return to the mountain lands? Why have you and Girbubu, the governor of Ŋirikal, not confronted him with the troops which you had at hand? How could you allow (?) him to restore (?) XX?
-t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	A	15-19	Today (?) Enlil loathes Sumer and has elevated to the shepherdship of the Land an ape which has 
-descended
-
-2 mss. have instead: come forth
- from those mountain lands. 
-Now Enlil has given kingship to a dishonest man, 
-
-a seller of
-
-1 ms. has instead: who values
- asafoetida
-
-1 ms. has instead: At this moment Enlil XX to somebody who sells asafoetida, a peripatetic criminal
- -- to Išbi-Erra, who is not of Sumerian origin.
+t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	A	15-19	Today (?) Enlil loathes Sumer and has elevated to the shepherdship of the Land an ape which has  descended  2 mss. have instead: come forth  from those mountain lands.  Now Enlil has given kingship to a dishonest man,   a seller of  1 ms. has instead: who values  asafoetida  1 ms. has instead: At this moment Enlil XX to somebody who sells asafoetida, a peripatetic criminal  -- to Išbi-Erra, who is not of Sumerian origin.
 t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	A	20-24	See, the assembly where the gods are and Sumer itself have been dispersed! Father Enlil, whose words prevail (?), said: Until the enemy has been expelled (?) from Urim, Išbi-Erra, the man from Mari, will tear out Urim's foundations. He will indeed measure out Sumer like grain. He has spoken just so.
-t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	A	25-28	Even though you were installed as governors of the various XX the others will defect to Išbi-Erra, in accordance with Enlil's word. Should you hand over your city to the enemy like your companions, 
-Išbi-Erra will not recognise you as his faithful and agreeable servant.
-
-1 ms. has instead: will Išbi-Erra recognise you as his faithful and agreeable servant?
-
-t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	A	29-34	May it now be brought about (?) that good words should be restored and treason extinguished. Let Išbi-Erra (?) participate in the harvest among the people there; but you yourself, 
-do not turn back
-
-1 ms. has instead: do not harvest
-, and do not come to me! His grasp should not get hold of the city! This man from Mari, with the understanding of a dog, should not exercise lordship!
-t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	A	35-38	
-Now Enlil, my helper, has made the Martu rise from their mountain lands
-
-1 ms. has instead: Now Enlil has XX the Tidnum as XX from their mountain lands
-. They will repel Elam and seize Išbi-Erra. To regain the Land will indeed make our might known in all the foreign lands. It is urgent! 
-Do not be neglectful
-
-1 ms. has instead: Do not all give up
-!
-t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	B	1-4	XX sent XX:
-
-XX come (?). XX they stood XX.
+t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	A	25-28	Even though you were installed as governors of the various XX the others will defect to Išbi-Erra, in accordance with Enlil's word. Should you hand over your city to the enemy like your companions,  Išbi-Erra will not recognise you as his faithful and agreeable servant.  1 ms. has instead: will Išbi-Erra recognise you as his faithful and agreeable servant?
+t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	A	29-34	May it now be brought about (?) that good words should be restored and treason extinguished. Let Išbi-Erra (?) participate in the harvest among the people there; but you yourself,  do not turn back  1 ms. has instead: do not harvest , and do not come to me! His grasp should not get hold of the city! This man from Mari, with the understanding of a dog, should not exercise lordship!
+t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	A	35-38	Now Enlil, my helper, has made the Martu rise from their mountain lands  1 ms. has instead: Now Enlil has XX the Tidnum as XX from their mountain lands . They will repel Elam and seize Išbi-Erra. To regain the Land will indeed make our might known in all the foreign lands. It is urgent!  Do not be neglectful  1 ms. has instead: Do not all give up !
+t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	B	1-4	XX sent XX:  XX come (?). XX they stood XX.
 t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	B	5-8	How come you did not know XX to make XX return to the mountain lands? XX of Ŋirikal, they had XX, they have not confronted him. How could you allow him (?) to XX?
 t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	B	9-13	XX detests XX. After (?) he has elevated XX to the shepherdship of the Land. XX has given kingship to XX asafoetida XX, who is XX.
-t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	B	14-19	After XX has been dispersed,
-
-Enlil spoke thus: XX will XX.
-t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	B	20-23	
-He (?) will defect to Išbi-Erra XX. So long as XX has indeed not been handed over to (?) the enemy, will Išbi-Erra himself (?) recognise XX?
-t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	B	24-35	You XX. XX he (?) destroyed (?) for you.
-
-XX he (?) overturns (?) there. XX returning (?) XX. XX in my having XX. I (?) had in mind XX. XX was set there in prosperity. XX is supreme over XX, after I (?) have made XX there. I will seize him with my own hands XX.
-
-
+t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	B	14-19	After XX has been dispersed,  Enlil spoke thus: XX will XX.
+t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	B	20-23	He (?) will defect to Išbi-Erra XX. So long as XX has indeed not been handed over to (?) the enemy, will Išbi-Erra himself (?) recognise XX?
+t.3.1.20	Letter from Ibbi-Suen to Puzur-Šulgi hoping for Išbi-Erra's downfall	B	24-35	You XX. XX he (?) destroyed (?) for you.  XX he (?) overturns (?) there. XX returning (?) XX. XX in my having XX. I (?) had in mind XX. XX was set there in prosperity. XX is supreme over XX, after I (?) have made XX there. I will seize him with my own hands XX.

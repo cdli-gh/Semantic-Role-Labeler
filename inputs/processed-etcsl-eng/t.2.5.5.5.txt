@@ -1,9 +1,7 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.2.5.5.5	A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E)		1-2	He probably Enlil told her, Ninisina, the great daughter of An, the great daughter-in-law, XX: That Lipit-Eštar should be your provider -- so let it be!
 t.2.5.5.5	A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E)		3	Šagbatuku.
-t.2.5.5.5	A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E)		4-13	Ninisina (?) paid attention to Enlil's utterance. She answered with humility: Father Enlil, god whose name is manifest, XX, Enlil; lord XX, your divine powers are the most XX, your instructions are the most precious (?). For the trustworthy shepherd XX, XX Lord Lipit-Eštar
-
-He has settled the people XX, he (?) has made the Land feel content. You looked upon him with your life-giving gaze: now decree him a true fate!
+t.2.5.5.5	A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E)		4-13	Ninisina (?) paid attention to Enlil's utterance. She answered with humility: Father Enlil, god whose name is manifest, XX, Enlil; lord XX, your divine powers are the most XX, your instructions are the most precious (?). For the trustworthy shepherd XX, XX Lord Lipit-Eštar  He has settled the people XX, he (?) has made the Land feel content. You looked upon him with your life-giving gaze: now decree him a true fate!
 t.2.5.5.5	A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E)		14	3rd kirugu.
 t.2.5.5.5	A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E)		15	Nunamnir, bestow upon prince Lipit-Eštar a long life of many days!
 t.2.5.5.5	A šir-namgala to Ninisina for Lipit-Eštar (Lipit-Eštar E)		16	Its ŋišgiŋal.

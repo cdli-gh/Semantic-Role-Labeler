@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.5.6.3	The farmer's instructions		1	Ud-ul-uru (Old man cultivator) gave advice to his son:
 t.5.6.3	The farmer's instructions		2-7	When you have to prepare a field, inspect the levees, canals and mounds that have to be opened. When you let the flood water into the field, this water should not rise too high in it. At the time that the field emerges from the water, watch its area with standing water; it should be fenced. Do not let cattle herds trample there.
 t.5.6.3	The farmer's instructions		8-13	After you cut back the plant bundles and establish the limits of the field, level it repeatedly with a thin hoe weighing two-thirds of a mina approx. 650 g. Let a flat hoe erase the oxen tracks, let the field be swept clean. A maul should flatten the furrow bottoms of the area. A hoe should go round the four edges of the field. Until the field is dry it should be smoothed out.

@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.2.4.4.a	A hymn for Šu-Suen		1-10	God of prosperity born to An and gazed upon by Uraš -- Šu-Suen, like Nanna expert in judgment, XX before Enlil, from your birth you were a man of might whose name was proclaimed by Nanna! Šu-Suen, heroic son of An, beloved of Enlil, head held high in the lapis-lazuli E-kur, given birth by Uraš, chosen by the heart of Uraš, you have been elevated over all the lands. Ornament and august servant of Enlil -- whose sceptre has reached far, who alone has Enlil's ear! Endowed with majestic strength, creation of lustrous An, favourite of Ninlil -- Šu-Suen, provider who radiates beauty, XX!
 t.2.4.4.a	A hymn for Šu-Suen		11	1st kirugu.
 t.2.4.4.a	A hymn for Šu-Suen		12	Šu-Suen XX a life of distant days.
@@ -12,4 +12,3 @@ t.2.4.4.a	A hymn for Šu-Suen		32	Its ŋišgiŋal.
 t.2.4.4.a	A hymn for Šu-Suen		33-42	Head held high, fit for the royal crown, son of Ninsumun, mighty and forceful among the Anuna gods XX. Šu-Suen! Holy Inana made manifest XX. Enlil has given to you as your helper the beloved heart whose beauty is unending, the good woman XX -- you have embraced her. Strong one given majestic strength by the Great Mountain, XX from his power; hero excelling all lords and sovereigns, who is their great lion -- Šu-Suen, gracious figure, shining crown, holy breast wondrous to behold, hero born for godhood, ornament of kingship, XX in heaven and on earth, strong as far as the borders of the Land!
 t.2.4.4.a	A hymn for Šu-Suen		43	4th kirugu.
 t.2.4.4.a	A hymn for Šu-Suen		44-48	I shall praise XX. XX of Ninlil is indeed the XX mistress! Like Utu, XX has filled the broad Land XX. XX, Šu-Suen, your provider (?) is distant.
-

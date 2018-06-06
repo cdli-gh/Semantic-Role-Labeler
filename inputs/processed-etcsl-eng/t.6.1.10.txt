@@ -1,46 +1,16 @@
-id_text,text_name,version,l_no,text
-t.6.1.10	Proverbs: collection 10		1	
-cf. 6.1.09.a1, 6.2.5: IM43438 Seg. A l. 1
-Whatever the man in authority said, it was not pleasant.
-t.6.1.10	Proverbs: collection 10		2	
-cf. 6.1.09.a2
-Whatever the man in authority said, it was not right.
-t.6.1.10	Proverbs: collection 10		3-4	
-cf. 6.1.09.a3, 6.2.2: MDP 27 216, 6.2.5: IM 43438 Seg. A l. 2
-When the authorities are wise, and the poor are loyal, it is the effect of the blessing of Aratta.
-t.6.1.10	Proverbs: collection 10		5	
-cf. 6.1.09.a4, 6.1.22: l. 190, 6.2.3: UET 6/3 80 l. 18
-The mighty man is master of the earth.
-t.6.1.10	Proverbs: collection 10		6	
-cf. 6.1.09.a5
-It is from a man's mouth that strength comes.
-t.6.1.10	Proverbs: collection 10		7	
-cf. 6.1.09.a6, 6.2.3: UET 6/3 462
-Strength cannot keep pace with intelligence.
-t.6.1.10	Proverbs: collection 10		8	
-cf. 6.1.09.a7
-The strength of my god completes my own.
-t.6.1.10	Proverbs: collection 10		9	
-cf. 6.1.09.a8, 6.1.17.b3, ll. 12-13, 5.6.7: l. 28
-Youthful vigour has left my loins, like a runaway donkey.
-t.6.1.10	Proverbs: collection 10		10	
-cf. 6.1.17.b3, l. 14, 6.1.19.a1, l. 1, 5.6.7: l. 29
-My black mountain has sprouted white gypsum.
-t.6.1.10	Proverbs: collection 10		11-12	
-cf. 6.1.17.b3, l. 15, 6.1.19.a1, ll. 2-3, 5.6.7: l. 30
-My mother sent to me a man from the forest, who has given me paralysed hands.
-t.6.1.10	Proverbs: collection 10		13-14	
-cf. 6.1.17.b3, ll. 16-17, 6.1.19.a1, ll. 4-5, 5.6.7: l. 31
-My mongoose, which used to eat strong-smelling 
-food
-
-1 ms. has instead: meat
-, can no longer stretch its neck toward a jar of ghee.
-t.6.1.10	Proverbs: collection 10		15-16	
-The lap three (?) times, the eye (?) seven times is what she says to the one about to breach her defences.
-t.6.1.10	Proverbs: collection 10		17	
-Let me fill your new storehouse with my old hay.
-t.6.1.10	Proverbs: collection 10		18	
-A man turned toward you. What did he seize?
-t.6.1.10	Proverbs: collection 10		19	
-Her girl friend answered her as follows.
+id_text	text_name	version	l_no	text
+t.6.1.10	Proverbs: collection 10		1	cf. 6.1.09.a1, 6.2.5: IM43438 Seg. A l. 1 Whatever the man in authority said, it was not pleasant.
+t.6.1.10	Proverbs: collection 10		2	cf. 6.1.09.a2 Whatever the man in authority said, it was not right.
+t.6.1.10	Proverbs: collection 10		3-4	cf. 6.1.09.a3, 6.2.2: MDP 27 216, 6.2.5: IM 43438 Seg. A l. 2 When the authorities are wise, and the poor are loyal, it is the effect of the blessing of Aratta.
+t.6.1.10	Proverbs: collection 10		5	cf. 6.1.09.a4, 6.1.22: l. 190, 6.2.3: UET 6/3 80 l. 18 The mighty man is master of the earth.
+t.6.1.10	Proverbs: collection 10		6	cf. 6.1.09.a5 It is from a man's mouth that strength comes.
+t.6.1.10	Proverbs: collection 10		7	cf. 6.1.09.a6, 6.2.3: UET 6/3 462 Strength cannot keep pace with intelligence.
+t.6.1.10	Proverbs: collection 10		8	cf. 6.1.09.a7 The strength of my god completes my own.
+t.6.1.10	Proverbs: collection 10		9	cf. 6.1.09.a8, 6.1.17.b3, ll. 12-13, 5.6.7: l. 28 Youthful vigour has left my loins, like a runaway donkey.
+t.6.1.10	Proverbs: collection 10		10	cf. 6.1.17.b3, l. 14, 6.1.19.a1, l. 1, 5.6.7: l. 29 My black mountain has sprouted white gypsum.
+t.6.1.10	Proverbs: collection 10		11-12	cf. 6.1.17.b3, l. 15, 6.1.19.a1, ll. 2-3, 5.6.7: l. 30 My mother sent to me a man from the forest, who has given me paralysed hands.
+t.6.1.10	Proverbs: collection 10		13-14	cf. 6.1.17.b3, ll. 16-17, 6.1.19.a1, ll. 4-5, 5.6.7: l. 31 My mongoose, which used to eat strong-smelling  food  1 ms. has instead: meat , can no longer stretch its neck toward a jar of ghee.
+t.6.1.10	Proverbs: collection 10		15-16	The lap three (?) times, the eye (?) seven times is what she says to the one about to breach her defences.
+t.6.1.10	Proverbs: collection 10		17	Let me fill your new storehouse with my old hay.
+t.6.1.10	Proverbs: collection 10		18	A man turned toward you. What did he seize?
+t.6.1.10	Proverbs: collection 10		19	Her girl friend answered her as follows.

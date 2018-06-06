@@ -1,29 +1,5 @@
-id_text,text_name,version,l_no,text
-t.4.19.2	A balbale to Ninŋišzida (Ninŋišzida B)		1-7	Lord with holy dignity, imbued with great savage awesomeness! My king, Lord Ninŋišzida, imbued with great savage awesomeness! Hero, falcon preying on the gods, my king -- dignified, with sparkling eyes, fully equipped with arrows and quiver, impetuous leopard, murderous, howling mušhuš, 
-XX
-
-1 ms. has instead: XX
-, dragon snarling (?) in the lagoon, raging storm 
-reaching
-
-1 ms. has instead: covering
- all people! Lofty-headed prince, resting in the midst of the mountains, XX smashing heads!
-t.4.19.2	A balbale to Ninŋišzida (Ninŋišzida B)		8-15	Lord, your mouth is that of 
-a pure magician
-
-1 ms. has instead: a snake with a great tongue, a magician
-
-1 ms. has instead: a poisonous snake
-, Lord Ninŋišzida, XX! Ninŋišzida, your mouth is that of a pure magician, Lord Ninŋišzida, XX! My linen-clad one, when you XX, who can find out your intentions? Ninŋišzida, when you XX, who can find out your intentions? Your holy word is known to them that know it, but is unknown to them that do not know it. To them that do not know it, to them that do not know it, XX. Ninŋišzida, to them that do not know it, XX When your great word comes to the earth, you are indeed a 
-1 ms. adds: great
- mušhuš XX.
-t.4.19.2	A balbale to Ninŋišzida (Ninŋišzida B)		16-24	You fall upon the river as a flood-wave, you rise in the fields as a devastating flood. Magilum boat, high flood of battle 
-which cuts down
-
-1 ms. has instead: which chops down
-. XX in his own heart XX,
-
-XX as a dead man XX
-
-Lord Ninŋišzida, your praise is sweet.
+id_text	text_name	version	l_no	text
+t.4.19.2	A balbale to Ninŋišzida (Ninŋišzida B)		1-7	Lord with holy dignity, imbued with great savage awesomeness! My king, Lord Ninŋišzida, imbued with great savage awesomeness! Hero, falcon preying on the gods, my king -- dignified, with sparkling eyes, fully equipped with arrows and quiver, impetuous leopard, murderous, howling mušhuš,  XX  1 ms. has instead: XX , dragon snarling (?) in the lagoon, raging storm  reaching  1 ms. has instead: covering  all people! Lofty-headed prince, resting in the midst of the mountains, XX smashing heads!
+t.4.19.2	A balbale to Ninŋišzida (Ninŋišzida B)		8-15	Lord, your mouth is that of  a pure magician  1 ms. has instead: a snake with a great tongue, a magician  1 ms. has instead: a poisonous snake , Lord Ninŋišzida, XX! Ninŋišzida, your mouth is that of a pure magician, Lord Ninŋišzida, XX! My linen-clad one, when you XX, who can find out your intentions? Ninŋišzida, when you XX, who can find out your intentions? Your holy word is known to them that know it, but is unknown to them that do not know it. To them that do not know it, to them that do not know it, XX. Ninŋišzida, to them that do not know it, XX When your great word comes to the earth, you are indeed a  1 ms. adds: great  mušhuš XX.
+t.4.19.2	A balbale to Ninŋišzida (Ninŋišzida B)		16-24	You fall upon the river as a flood-wave, you rise in the fields as a devastating flood. Magilum boat, high flood of battle  which cuts down  1 ms. has instead: which chops down . XX in his own heart XX,  XX as a dead man XX  Lord Ninŋišzida, your praise is sweet.
 t.4.19.2	A balbale to Ninŋišzida (Ninŋišzida B)		25	A balbale of Ninŋišzida.

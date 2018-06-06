@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.2.5.3.2	A praise poem of Iddin-Dagan (Iddin-Dagan B)		1-4	Iddin-Dagan, in his majestic location An has decided a great fate for you, has made the just crown shine for you, has raised you to shepherdship over the Land, has placed the foreign lands at your feet.
 t.2.5.3.2	A praise poem of Iddin-Dagan (Iddin-Dagan B)		5-13	Enlil has looked at you truly, Iddin-Dagan, he has spoken truly to you. Enlil has commanded you to keep firm the cosmic bond in Sumer, to keep the people on the track, to let Sumer and Akkad relax under your broad protection, to let the people eat noble food and drink fresh water. Iddin-Dagan, you are the shepherd in his heart, the one whom Enlil has spoken to truly.
 t.2.5.3.2	A praise poem of Iddin-Dagan (Iddin-Dagan B)		14-17	Enki has brought to you, Iddin-Dagan, broad understanding, knowledge of everything, wise command, a life (?) that comes from the mouth of a lion. May all the foreign lands praise you.

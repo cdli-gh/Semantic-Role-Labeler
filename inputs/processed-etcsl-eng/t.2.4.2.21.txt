@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.2.4.2.21	An adab (?) to Nergal for Šulgi (?) (Šulgi U)		1-4	Nergal who XX, XX great awe, who XX the underworld -- its awesome radiance XX the battle-net, its awesomeness has filled heaven and earth.
 t.2.4.2.21	An adab (?) to Nergal for Šulgi (?) (Šulgi U)		5	2nd šagbatuku.
 t.2.4.2.21	An adab (?) to Nergal for Šulgi (?) (Šulgi U)		6-12	Hero, wild bull with thick horns, XX like a cow, your terrifying name lets loose awe and fear. You fall on the rebel lands like the south wind. You are a bolt on the broad extent of the mountains. When you sit in E-mešlam, your desires are joyously fulfilled (?). The people assemble at your feet.

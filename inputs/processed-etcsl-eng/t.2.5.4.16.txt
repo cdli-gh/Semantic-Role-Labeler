@@ -1,14 +1,6 @@
-id_text,text_name,version,l_no,text
-t.2.5.4.16	An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P)		1-11	
-Great warrior, XX. Brave XX. His radiance XX.
-
-XX the cities and settlements. Roaring lion XX to XX. Ninurta. Uta-ulu XX.
+id_text	text_name	version	l_no	text
+t.2.5.4.16	An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P)		1-11	Great warrior, XX. Brave XX. His radiance XX.  XX the cities and settlements. Roaring lion XX to XX. Ninurta. Uta-ulu XX.
 t.2.5.4.16	An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P)		12	Sa-gida.
 t.2.5.4.16	An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P)		13	Lord XX.
 t.2.5.4.16	An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P)		14	Ŋišgiŋal of the sa-gida.
-t.2.5.4.16	An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P)		15-27	
-XX in the Ubšu-unkena. XX the status of Enlil XX. XX the power of the Great Mountain Enlil XX. XX my man XX. Prince Išme-Dagan XX. XX Ninurta XX. XX fifty-headed battle-mace XX. XX Išme-Dagan XX.
-
-XX great copper throne XX.
-
-
+t.2.5.4.16	An adab (?) to Ninurta for Išme-Dagan (Išme-Dagan P)		15-27	XX in the Ubšu-unkena. XX the status of Enlil XX. XX the power of the Great Mountain Enlil XX. XX my man XX. Prince Išme-Dagan XX. XX Ninurta XX. XX fifty-headed battle-mace XX. XX Išme-Dagan XX.  XX great copper throne XX.

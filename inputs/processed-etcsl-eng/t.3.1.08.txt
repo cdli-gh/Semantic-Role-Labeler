@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.3.1.08	Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa	Susa	1-2	Say to Puzur-Numušda: this is what Šulgi, your lord, says:
 t.3.1.08	Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa	Susa	3-7	When I had built the great fortress Igi-hursaŋa and An and Enlil had given to me the XX over all the foreign lands and the widespread people, each of their towns and all their provinces, and the people of the widespread Land lay in green meadows. I made them rest (?) in spacious habitations, in peaceful dwelling places.
 t.3.1.08	Letter from Šulgi to Puzur-Šulgi about the fortress Igi-hursaŋa	Susa	8-13	As for their men and women: the man among them goes wherever he pleases, and the woman with (?) spindle and hair clasp goes wherever she pleases. After they had set up stock-pens in the vastness of the desert, and established their tents and camps, the workmen and the labourers spend the days in the fields.

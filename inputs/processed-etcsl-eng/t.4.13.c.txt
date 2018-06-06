@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.4.13.c	An excerpt from a hymn to Nanna		1-5	God who XX among the gods, coming forth on high, perfecting the divine powers of heaven! Outstanding crown, radiance, XX, prince, XX of heaven, justly cherished by An and Uraš! Born in Dur-an-ki! Light, radiance and crown of Urim!
 t.4.13.c	An excerpt from a hymn to Nanna		6-8	Now in addition he desired something good, something good. The lord wearied Enlil to determine the fate of his city: My father, may you restore my city for me!
 t.4.13.c	An excerpt from a hymn to Nanna		9-11	No one should escape the grasp of Father Nanna, him of most just words! Princely lord, princely lord, great princeliness among the gods! In the temple that, like the heavens, inspires terror and fear, you are awesome.

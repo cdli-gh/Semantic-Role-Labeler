@@ -1,6 +1,5 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.4.13.14	A hymn to Nanna (Nanna N)		1-9	XX that fills the holy heavens, an adept (?) exuding radiance (?), Nanna, your crown is holy! Unique lord, XX lord who XX the heavens, shining in the high heavens, XX, spreading advice throughout heaven and earth, XX, you are the god who XX, XX the place of creation.
-
 t.4.13.14	A hymn to Nanna (Nanna N)		10-17	XX as you come forth, XX you rise in radiance. Your XX is holy and bright. O, it has come forth for my king like the good sunlight! Nanna, XX as you come forth, XX you rise in radiance. Your XX is holy and bright. O, it has come forth for my king like the good sunlight!
 t.4.13.14	A hymn to Nanna (Nanna N)		18-21	XX for (?) the ruler whom you (?) have chosen, you have made your holy XX manifest. XX without ceasing, he has attained XX.
 t.4.13.14	A hymn to Nanna (Nanna N)		22-27	The sweet-sounding tigi instruments are arranged in the majestic forecourt where your food-offerings are presented. In the heavenly assembly (?), the tigi instruments resound for you. Nanna, the sweet-sounding tigi instruments are arranged in the majestic forecourt where your food-offerings are presented. In the heavenly assembly (?), the tigi instruments resound for you.

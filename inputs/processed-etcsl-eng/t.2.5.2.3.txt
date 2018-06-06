@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.2.5.2.3	An adab for Šu-ilīšu (Šu-ilīšu C)		1-2	XX august divine powers XX. May XX prolong XX for Šu-ilīšu.
 t.2.5.2.3	An adab for Šu-ilīšu (Šu-ilīšu C)		3	Its uru.
 t.2.5.2.3	An adab for Šu-ilīšu (Šu-ilīšu C)		4	An adab of XX. lines 3 and 4 are written as one line in source

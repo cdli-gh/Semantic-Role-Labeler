@@ -1,4 +1,2 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.4.08.12	A song of Inana and Dumuzid (Dumuzid-Inana L)		1-6	My valiant Nanna, who XX, my dear one, you love me; joy XX. XX Bau loves you.
-
-

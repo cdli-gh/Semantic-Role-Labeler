@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.4.23.1	A hymn to Ninkasi (Ninkasi A)		1-4	Given birth by the flowing water XX, tenderly cared for by Ninhursaŋa! Ninkasi, given birth by the flowing water XX, tenderly cared for by Ninhursaŋa!
 t.4.23.1	A hymn to Ninkasi (Ninkasi A)		5-8	Having founded your town upon wax, she completed its great walls for you. Ninkasi, having founded your town upon wax, she completed its great walls for you.
 t.4.23.1	A hymn to Ninkasi (Ninkasi A)		9-12	Your father is Enki, Lord Nudimmud, and your mother is Ninti, the queen of the abzu. Ninkasi, your father is Enki, Lord Nudimmud, and your mother is Ninti, the queen of the abzu.
@@ -8,7 +8,6 @@ t.4.23.1	A hymn to Ninkasi (Ninkasi A)		21-24	It is you who water the earth-cove
 t.4.23.1	A hymn to Ninkasi (Ninkasi A)		25-28	It is you who soak the malt in a jar; the waves rise, the waves fall. Ninkasi, it is you who soak the malt in a jar; the waves rise, the waves fall.
 t.4.23.1	A hymn to Ninkasi (Ninkasi A)		29-32	It is you who spread the cooked mash on large reed mats; coolness overcomes XX. Ninkasi, it is you who spread the cooked mash on large reed mats; coolness overcomes XX.
 t.4.23.1	A hymn to Ninkasi (Ninkasi A)		33-36	It is you who hold with both hands the great sweetwort, brewing it with honey and wine. Ninkasi, it is you who hold with both hands the great sweetwort, brewing it with honey and wine.
-t.4.23.1	A hymn to Ninkasi (Ninkasi A)		37-40	
-You XX the sweetwort to the vessel. Ninkasi, XX. You XX the sweetwort to the vessel.
+t.4.23.1	A hymn to Ninkasi (Ninkasi A)		37-40	You XX the sweetwort to the vessel. Ninkasi, XX. You XX the sweetwort to the vessel.
 t.4.23.1	A hymn to Ninkasi (Ninkasi A)		41-44	You place the fermenting vat, which makes a pleasant sound, appropriately on top of a large collector vat. Ninkasi, you place the fermenting vat, which makes a pleasant sound, appropriately on top of a large collector vat.
 t.4.23.1	A hymn to Ninkasi (Ninkasi A)		45-48	It is you who pour out the filtered beer of the collector vat; it is like the onrush of the Tigris and the Euphrates. Ninkasi, it is you who pour out the filtered beer of the collector vat; it is like the onrush of the Tigris and the Euphrates.

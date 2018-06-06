@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.4.80.1	The temple hymns		1-7	O E-unir (House which is a ziqqurat), grown together with heaven and earth, foundation of heaven and earth, great banqueting hall of Eridug! Abzu, shrine erected for its prince, E-du-kug (House which is the holy mound) where pure food is eaten, watered by the prince's pure canal, mountain, pure place cleansed with the potash plant, Abzu, your tigi drums belong to the divine powers.
 t.4.80.1	The temple hymns		8-15	Your great XX wall is in good repair. Light does not enter your meeting-place where the god dwells, the great XX, the beautiful place. Your tightly constructed house is sacred and has no equal. Your prince, the great prince, has fixed firmly a holy crown for you in your precinct -- O Eridug with a crown placed on your head, bringing forth thriving thornbushes, pure thornbushes for the susbu priests (?), O shrine Abzu, your place, your great place!
 t.4.80.1	The temple hymns		16-23	At your place of calling upon Utu, at your oven bringing bread to eat, on your ziqqurat, a magnificent shrine stretching toward heaven, at your great oven rivalling the great banqueting hall, your prince, the prince of heaven and earth XX can never be changed, the XX, the creator, the XX, the wise one, the XX, Lord Nudimmud, has erected a house in your precinct, O E-engura (House of the subterranean waters), and taken his seat upon your dais.
@@ -46,7 +46,6 @@ t.4.80.1	The temple hymns		220	10 lines: the house of Dumuzid in Bad-tibira.
 t.4.80.1	The temple hymns		221-228	O E-igizu-uru (House, your face is mighty), with plenty coming from within, your well-stocked chamber is a mountain of abundance. House, your fragrance is a mound of vines. Your true minister is a leader in heaven. House, your princess is prominent among the gods, the true minister of E-ana who holds a holy sceptre in her hand. Ninšubur, the true minister of E-ana, has erected a house in your precinct, O E-akkil (House of lamentation), and taken her seat upon your dais.
 t.4.80.1	The temple hymns		229	8 lines: the house of Ninšubur in Akkil.
 t.4.80.1	The temple hymns		230-235	O city, founded upon a dais in the abzu, established for the rites of išib priests, house where incantations of heaven and earth are recited,
-
 t.4.80.1	The temple hymns		236-238	XX lustration water in the holy heaven and on the pure earth. Ningirim, the lady of the shining lustration water, has erected a house in your precinct, O house Murum, and taken her seat upon your dais.
 t.4.80.1	The temple hymns		239	9 lines: the house of Ningirim in Murum.
 t.4.80.1	The temple hymns		240-248	O E-ninnu (House of 50), right hand of Lagaš, foremost in Sumer, the Anzud bird which gazes upon the mountain, the šar-ur weapon of XX Ninŋirsu, XX in all lands, the strength of battle, a terrifying storm which envelops men, giving the strength of battle to the Anuna, the great gods, brick building on whose holy mound destiny is determined, beautiful as the hills, your canal XX, your XX blowing in opposition (?) at your gate facing towards Iri-kug, wine is poured into holy An's beautiful bowls set out in the open air.
@@ -68,30 +67,18 @@ t.4.80.1	The temple hymns		315-320	O E-šerzi-guru (House clad in splendour) dre
 t.4.80.1	The temple hymns		321-326	Your lady Inana, the XX, the singular woman, the dragon who speaks hostile words to XX, who shines in brightness, who goes against the rebel land, through whom the firmament is made beautiful in the evening, the great daughter of Suen, holy Inana, has erected a house in your precinct, O house Zabalam, and taken her seat upon your dais.
 t.4.80.1	The temple hymns		327	12 lines: the house of Inana in Zabalam.
 t.4.80.1	The temple hymns		328-345	O house inspiring terror like a great lion, making as clear as day the decisions for those on the high plain, house of Iškur, at your front is abundance, at your rear is celebration. Your foundation is a horned bull, a lion. Holy staff, teat of heaven with rain for fine barley, the pilasters of your house are a wild bull with outspread horns, your XX, foundation and wall rising high, XX, thick cloud, XX snake, XX moonlight, XX Iškur, a sweeping flood, XX a storm and seven raging winds, XX, blowing raging winds, XX running from the XX, splits the XX hillside, diorite, stones and XX.
-
-
 t.4.80.1	The temple hymns		346-350	The XX, the seed of the Land, the XX, the XX prince, the canal inspector of heaven and earth, the XX living, the numerous people, the XX, Iškur, has erected a house in your precinct, O house Karkara, and taken his seat upon your dais.
 t.4.80.1	The temple hymns		351	23 lines: the house of Iškur in Karkara.
-t.4.80.1	The temple hymns		352-361	O XX, bolt founded by An,
-
-
-
-
-XX has erected a house in your precinct, O XX, and taken a seat upon your dais.
+t.4.80.1	The temple hymns		352-361	O XX, bolt founded by An,     XX has erected a house in your precinct, O XX, and taken a seat upon your dais.
 t.4.80.1	The temple hymns		362	10 (?) lines: the house of XX in XX.
-t.4.80.1	The temple hymns		363-377	
-
-An has XX your platform. E-mah (Exalted house), house of the universe, suited for its lady, your front inspires great awesomeness, your interior is filled with radiance. Mother Nintur, Enlil and Enki have determined your destiny. E-suga (Joyous (?) house) which XX, life of the black-headed, An has given you the magnificent divine powers from the interior of heaven. As in Keš, Ninhursaŋa has blessed your priests maintaining the shrine in the holy uzga precinct. House with great divine powers, a pure platform and cleansing lustration, Ašgi, the god of Adab, has erected a house in your precinct, O Adab, O house situated at a canal, O house Adab, and taken his seat upon your dais.
+t.4.80.1	The temple hymns		363-377	An has XX your platform. E-mah (Exalted house), house of the universe, suited for its lady, your front inspires great awesomeness, your interior is filled with radiance. Mother Nintur, Enlil and Enki have determined your destiny. E-suga (Joyous (?) house) which XX, life of the black-headed, An has given you the magnificent divine powers from the interior of heaven. As in Keš, Ninhursaŋa has blessed your priests maintaining the shrine in the holy uzga precinct. House with great divine powers, a pure platform and cleansing lustration, Ašgi, the god of Adab, has erected a house in your precinct, O Adab, O house situated at a canal, O house Adab, and taken his seat upon your dais.
 t.4.80.1	The temple hymns		378	15 lines: the house of Ninhursaŋa in Adab.
 t.4.80.1	The temple hymns		379-391	O Isin, city founded by An which he has built on an empty plain! Its front is mighty, its interior is artfully built, its divine powers are divine powers which An has determined. Shrine which Enlil loves, place where An and Enlil determine destinies, place where the great gods dine, filled with great awesomeness and terror: all the Anuna gods attend your great drinking-bouts. Your princess, the mother, the Mistress adorned with jewels of šuba stone, who maintains the holy place's Niŋin-ŋar, who binds the suh crown on the nugig priestess, who causes the seven teats to flow for the nubar priestess, has resounded with seven pleasures (?).
 t.4.80.1	The temple hymns		392-394	Your lady, the great healer of the Land, Ninisina, the daughter of An, has erected a house in your precinct, O house Isin, and taken her seat upon your dais.
 t.4.80.1	The temple hymns		395	16 lines: the house of Ninisina in Isin.
 t.4.80.1	The temple hymns		396-405	O Kazallu, your crown reaches to the centre of heaven, shining, XX an object of admiration. Your prince is the seed of a bull, engendered by a wild bull in XX, a magnificent XX with sparkling eyes, a lord with the teeth of a lion, who snatches the calf with his claws, who snatches XX. XX who snatches XX, the XX who gives strength to the XX, the great lord Numušda, has erected a house in your precinct, O Kun-satu (Threshold of the mountain), O Kazallu, and taken his seat upon your dais.
 t.4.80.1	The temple hymns		406	10 lines: the house of Numušda in Kazallu.
-t.4.80.1	The temple hymns		407-414	O E-igi-kalama (House which is the eye of the Land), your foundation is firmly laid, growing hill which stands broadly on the earth, XX the enemies' land,
-
-
-XX has erected a house in your precinct, O XX, and taken a seat upon your dais.
+t.4.80.1	The temple hymns		407-414	O E-igi-kalama (House which is the eye of the Land), your foundation is firmly laid, growing hill which stands broadly on the earth, XX the enemies' land,   XX has erected a house in your precinct, O XX, and taken a seat upon your dais.
 t.4.80.1	The temple hymns		415	8 (?) lines: the house of Lugal-Marda in Marda.
 t.4.80.1	The temple hymns		416-423	O Dēr Akkadian name; a Sumerian name is unknown, taking extreme care of decisions, XX, on your awesome and radiant gate a decoration displays a horned viper and a mušhuš embracing. Your prince, a leader of the gods, fit for giving counsel and grand speech, the son of Uraš who knows thoroughly the true divine powers of princeship, Ištaran, the XX sovereign of heaven, has erected a house in your precinct, O E-dim-gal-kalama (House which is the great pole of the Land), and taken his seat upon your dais.
 t.4.80.1	The temple hymns		424	8 lines: the house of Ištaran in Dēr.
@@ -114,7 +101,6 @@ t.4.80.1	The temple hymns		507-513	O Ulmaš, upper land, XX of the Land, terrify
 t.4.80.1	The temple hymns		514-518	Arrayed in battle, jubilantly (?) beautiful, ready with the seven maces, washing her tools for battle, opening the door of battle and XX, the extremely wise one of heaven, Inana, has erected a house in your precinct, O house Ulmaš, and taken her seat upon your dais.
 t.4.80.1	The temple hymns		519	12 lines: the house of Inana in Ulmaš.
 t.4.80.1	The temple hymns		520-523	O house, right arm, battle-axe cutting down the rebel lands, digging up their green fields,
-
 t.4.80.1	The temple hymns		524-527	Your prince, the warrior who XX, who defeats (?) all in battle, exulting XX, Aba, the god of Agade, has erected a house in your precinct, O house Agade, and taken his seat upon your dais.
 t.4.80.1	The temple hymns		528	8 lines: the house of Aba in Agade.
 t.4.80.1	The temple hymns		529-534	O house of stars, bright E-zagin (Lapis lazuli house), reaching into all lands, establishing XX in the shrine, Ereš! The primeval lords raise their heads to you every month. XX the potash plant, great Nanibgal, Nisaba, has brought divine powers from heaven and added to your divine powers.

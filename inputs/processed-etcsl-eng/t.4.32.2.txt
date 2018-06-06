@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.4.32.2	A hymn to Utu (Utu B)		1-6	Emerging XX below and gazing upwards, Utu, great physician, father of the black-headed, wearing a lapis-lazuli beard in the E-babbar! Utu, great hero, focus of the assembly, king, bison running over the mountains! Utu, bison running over the mountains!
 t.4.32.2	A hymn to Utu (Utu B)		7-12	A young wild cow XX, a young gazelle (?) caught in a trap, Utu, the son born with the city to Ningal in the E-nun-ana, a bull, a cedar fed with water thriving among cypresses, holy (?), patient-hearted, playful, radiating light, he is iridescent radiance!
 t.4.32.2	A hymn to Utu (Utu B)		13-21	Then, as my king comes forth, the heavens tremble before him and the earth shakes before him. After he has left the palace he XX. The heavens XX. May the bolt of heaven XX. The stars XX are awe-struck. His mother XX in the streets. She spreads her protection towards Utu. He has raised his head over the mountains; he is indeed their king!

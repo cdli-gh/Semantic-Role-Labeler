@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.4.08.28	A song of Inana and Dumuzid (Dumuzid-Inana B1)		1-9	It was in the days of abundance, it was in the nights of plenty; it was in the months of luxuriance, it was in the years of rejoicing. In those days the shepherd, the shepherd Dumuzid decided in his holy heart to make his heart joyful, to go to the cattle-pen, to brighten its mood, to make the holy sheepfold shine like the day. He of decision and resolve spoke to the queen of heaven, the queen of earth. Ama-ušumgal-ana addressed words to her:
 t.4.08.28	A song of Inana and Dumuzid (Dumuzid-Inana B1)		10-14	Wife, I am going to bring flowing water to the arid (?) place. I am going to look after my spacious cattle-pen. I am going to find out the condition of the holy sheepfold. I am going to feed my sheep. I am going to seek out the XX of fresh water for drinking.
 t.4.08.28	A song of Inana and Dumuzid (Dumuzid-Inana B1)		15-20	He told his wife of this resolve; he presented his decision to her. His wife returned to their dwelling; holy Inana brought XX into E-tur-kalama. She was dumbfounded; the mistress Inana was thrown into confusion as if by a flood wave.
@@ -9,4 +9,3 @@ t.4.08.28	A song of Inana and Dumuzid (Dumuzid-Inana B1)		42-46	Look, my sister!
 t.4.08.28	A song of Inana and Dumuzid (Dumuzid-Inana B1)		47-56	The kid jumped up on his sister and then mounted her and copulated with her. The shepherd said to his sister: Look, my sister! What is the kid seeking from his sister? His sister, not grasping the meaning, replied to him: He is mounting on the back of his sister, and making her sing out. (Dumuzid speaks:) If he is mounting on her back, and making her sing out, what it really is: he is filling her genitals with his ejaculated semen. My brother, XX to me derisively XX mount! Who will cause XX to have XX in the future?
 t.4.08.28	A song of Inana and Dumuzid (Dumuzid-Inana B1)		57	2nd kirugu.
 t.4.08.28	A song of Inana and Dumuzid (Dumuzid-Inana B1)		58-59	The shepherd was not frightened (?), and did not XX. He said to his sister:
-

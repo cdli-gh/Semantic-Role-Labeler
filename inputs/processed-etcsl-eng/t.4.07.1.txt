@@ -1,22 +1,4 @@
-id_text,text_name,version,l_no,text
-t.4.07.1	A balbale to Inana (Inana A)		1-11	Great fierce storm, XX radiance! Inana, emitting fearsomeness and radiance in battle! 
-1 ms. adds: Inana, playing (?) in battle! Inana, emitting fearsomeness and radiance in battle!
- Where Enlil has commanded it, you make a lion's body and lion's muscles rise up. XX in the south and in the uplands XX like grass. Like Iškur XX. Like their proud mighty heroes, 
-you XX
-
-1 ms. has instead: may they XX for you
- their noses (?) to the ground. May the 
-great
-
-1 ms. has instead: proud
- warrior of kings and queens restore for you the shrine Keš. May he make them XX their noses (?) to the ground for you.
-t.4.07.1	A balbale to Inana (Inana A)		12-23	My lady, you turn your gaze from the abzu (?). An has commanded you XX. You are gifted with divine powers like An the king, and like Enlil you are established in a place of honour. You determine majestic verdicts in the assembly; like a light from heaven within the assembly, you lead (?) the righteous and 
-seize the wicked
-
-1 ms. has instead: XX the evil
-. You 
-lead (?)
-
-1 ms. has instead: lead forth
- the righteous in the palace for Utu. You restore the XX. You XX the people for the king, and XX. Enlil gave you your fierce face and your serious brow.
+id_text	text_name	version	l_no	text
+t.4.07.1	A balbale to Inana (Inana A)		1-11	Great fierce storm, XX radiance! Inana, emitting fearsomeness and radiance in battle!  1 ms. adds: Inana, playing (?) in battle! Inana, emitting fearsomeness and radiance in battle!  Where Enlil has commanded it, you make a lion's body and lion's muscles rise up. XX in the south and in the uplands XX like grass. Like Iškur XX. Like their proud mighty heroes,  you XX  1 ms. has instead: may they XX for you  their noses (?) to the ground. May the  great  1 ms. has instead: proud  warrior of kings and queens restore for you the shrine Keš. May he make them XX their noses (?) to the ground for you.
+t.4.07.1	A balbale to Inana (Inana A)		12-23	My lady, you turn your gaze from the abzu (?). An has commanded you XX. You are gifted with divine powers like An the king, and like Enlil you are established in a place of honour. You determine majestic verdicts in the assembly; like a light from heaven within the assembly, you lead (?) the righteous and  seize the wicked  1 ms. has instead: XX the evil . You  lead (?)  1 ms. has instead: lead forth  the righteous in the palace for Utu. You restore the XX. You XX the people for the king, and XX. Enlil gave you your fierce face and your serious brow.
 t.4.07.1	A balbale to Inana (Inana A)		24	A balbale of Inana.

@@ -1,13 +1,5 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.3.3.05	Letter from a governor and temple administrator to a king	Nibru	1-2	Say to our king what the governor and temple administrator say:
-t.3.3.05	Letter from a governor and temple administrator to a king	Nibru	3-10	The three šar (i.e. 3,240 iku) of the field Dabta are assigned for the benefit of Enlil
-2 mss. add: , Ninlil
-
- and Ninurta. Of this,
-three bur (i.e. 54 iku)
-
-1 ms. has instead: three BURgunû (i.e. 540 iku)
-
- are the portion of the men in charge of the requisitions. Iqbisum and Abī-qātī have made a claim over one bur (i.e. 18 iku) at the bottom of the field. If our king consents, he should send a courier and should XX the instructions for doing the work and for the boundary stakes of the field.
+t.3.3.05	Letter from a governor and temple administrator to a king	Nibru	3-10	The three šar (i.e. 3,240 iku) of the field Dabta are assigned for the benefit of Enlil 2 mss. add: , Ninlil   and Ninurta. Of this, three bur (i.e. 54 iku)  1 ms. has instead: three BURgunû (i.e. 540 iku)   are the portion of the men in charge of the requisitions. Iqbisum and Abī-qātī have made a claim over one bur (i.e. 18 iku) at the bottom of the field. If our king consents, he should send a courier and should XX the instructions for doing the work and for the boundary stakes of the field.
 t.3.3.05	Letter from a governor and temple administrator to a king	Nibru	11-15	Two iku at its XX and the XX area facing the field have been hoed and worked upon. Workers, extra labourers, farmers, ox-drivers and ploughmen being unavailable, the field has been harrowed with single oxen and we do the work with hoes. Our king should know this.
 t.3.3.05	Letter from a governor and temple administrator to a king	Urim	1-14	The three šar (i.e. 3,240 iku) of the field Meam (Where-is-it?) are assigned for the benefit of Enlil and Ninurta. Of this, three BURgunû (i.e. 540 iku) are the portion of the men in charge of the requisitions. Two iku which are at its XX have been hoed and XX. Ploughmen are not available for work on a plot in the field. Iqbisum and Abī-qātī have made a claim against you. If my king consents, he should send a courier. They XX the instructions for doing the work and for the boundary stakes of the field.

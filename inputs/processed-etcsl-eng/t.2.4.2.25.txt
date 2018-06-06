@@ -1,9 +1,5 @@
-id_text,text_name,version,l_no,text
-t.2.4.2.25	A praise poem of Šulgi (Šulgi Y)		1-6	
-To make my kingship longlasting, to make abundance conspicuous in my reign, Enki, the lord whose utterances cannot be altered, entered it proudly. He assigned Utu, whose words are pre-eminent, as a constable to me.
+id_text	text_name	version	l_no	text
+t.2.4.2.25	A praise poem of Šulgi (Šulgi Y)		1-6	To make my kingship longlasting, to make abundance conspicuous in my reign, Enki, the lord whose utterances cannot be altered, entered it proudly. He assigned Utu, whose words are pre-eminent, as a constable to me.
 t.2.4.2.25	A praise poem of Šulgi (Šulgi Y)		7-13	Since Ninlil had given me her joyful blessing in the Land, and had caused me to be heard in the assembly, I, Šulgi, the faithful shepherd of Sumer, praised her in the Ŋa-ŋiš-šua, in her temple where lawsuits are decided justly, in her august temple befitting her ladyship, in her shrine imbued with terrible awesomeness, a place admired by all the foreign countries, within XX.
-t.2.4.2.25	A praise poem of Šulgi (Šulgi Y)		14-21	
-XX the Strong Copper the name of a minor deity XX. When at her command I killed in battle the evil people who XX against me with weapons, I XX all the great warriors slain by me. I placed my foot on their necks, and exalted my own person on their pedestals.
+t.2.4.2.25	A praise poem of Šulgi (Šulgi Y)		14-21	XX the Strong Copper the name of a minor deity XX. When at her command I killed in battle the evil people who XX against me with weapons, I XX all the great warriors slain by me. I placed my foot on their necks, and exalted my own person on their pedestals.
 t.2.4.2.25	A praise poem of Šulgi (Šulgi Y)		22-31	I lined up my gold statues and lapis-lazuli statues in the main courtyard of her E-niŋara. I filled it with treasures like those of holy Aratta. I despatched oxen and sheep to her great kitchens. I brought the abundant harvest into her imposing bakery. I XX beer in her brewery, most suited to the bronze vessels. I despatched dark beer, kurun beer, and brown beer, all brewed in its house of the pure strength a description referring to the brewery, to her great dining hall for the evening meals.
-
-

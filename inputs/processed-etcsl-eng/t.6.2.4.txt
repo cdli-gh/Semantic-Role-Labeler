@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.6.2.4	Proverbs: from Unug	AUWE 23 117	1	
 t.6.2.4	Proverbs: from Unug	AUWE 23 117	2	
 t.6.2.4	Proverbs: from Unug	AUWE 23 117	3	XX poured it out for him XX.

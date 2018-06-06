@@ -1,20 +1,13 @@
-id_text,text_name,version,l_no,text
-t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		1-6	XX from the distant radiance, XX in heaven,
-
-Suen, XX, XX Šu-Suen. Nanna has elevated XX.
+id_text	text_name	version	l_no	text
+t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		1-6	XX from the distant radiance, XX in heaven,  Suen, XX, XX Šu-Suen. Nanna has elevated XX.
 t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		7	Barsud.
 t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		8-12	The beauty of heaven, the prince of earth, youthful Suen, the immense, the light of heaven and earth, who makes years of prosperity and good XX last permanently, Nanna, the lord who is born each month, sired my Šu-Suen.
 t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		13	Šagbatuku.
 t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		14-18	Mighty one, great power among the great gods, Father Nanna, your judgments are ingenious decisions -- deciding great destinies with Nunamnir, his beloved youth Ašimbabbar decides destiny for my Šu-Suen.
 t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		19	2nd barsud.
 t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		20-24	The light which sweetens the night and structures the year, Nanna, the crown of the holy heavens, XX my Šu-Suen,
-
 t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		25	2nd šagbatuku.
-t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		26-36	XX Nanna is the great lord of heaven and earth. XX has made manifest XX. XX is spreading XX.
-
-
-
-XX, the just crown XX in heaven, XX on his head, he has given guidance. My Šu-Suen is the prince of the Land.
+t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		26-36	XX Nanna is the great lord of heaven and earth. XX has made manifest XX. XX is spreading XX.    XX, the just crown XX in heaven, XX on his head, he has given guidance. My Šu-Suen is the prince of the Land.
 t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		37	Sa-barsuda.
 t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		38-39	XX, lengthen the days (?) for my Šu-Suen, my Šu-Suen who has grown as high as the heavens.
 t.2.4.4.6	An adab (?) to Suen for Šu-Suen (Šu-Suen F)		40	Its ŋišgiŋal.

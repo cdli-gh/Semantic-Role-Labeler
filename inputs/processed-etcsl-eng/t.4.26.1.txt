@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.4.26.1	A tigi to Nintur (Nintur A)		1-12	Lady Aruru of the house Keš, born in the mountains, the pure place! Nintur, supreme mother of all lands, Mother Nintur, Lady Aruru of the house Keš, born in the mountains, the pure place! Nintur, supreme mother of all lands, has appeared with the hair-raising fearsomeness of a lion. She has given birth to the en priest, has given birth to the lagar priest. On the holy throne-dais, Nintur has given birth to the king. Nintur has appeared with the hair-raising fearsomeness of a lion. She has given birth to the en priest, has given birth to the lagar priest. On the holy throne-dais, Nintur has given birth to the king.
 t.4.26.1	A tigi to Nintur (Nintur A)		13-18	Nintur has placed upon his head the XX that excels all; XX, who has established giving birth in joy. Mother Nintur, Nintur, has placed upon his head the XX that excels all; Nintur, who has established giving birth in joy.
 t.4.26.1	A tigi to Nintur (Nintur A)		19	Sa-gida.

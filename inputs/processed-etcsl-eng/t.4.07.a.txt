@@ -1,15 +1,9 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.4.07.a	A hymn to Inana		1-9	Lady XX! Returning heroic youth, Inana XX. At the shrine, in Nibru, in the E-du-kug XX by An, with the holy crown of An placed on her head, the most holy ba garment of An draped around her torso, and the holy sceptre of An placed in her hand -- seated on a seat in the assembly, rendering great judgments in the mountains, and reaching majestic decisions in all the lands!
 t.4.07.a	A hymn to Inana		10-16	Holy Inana gazes as she shines (?) down from heaven like a light. Together with her father Suen, the mistress issues commands to the E-kiš-nu-ŋal of Urim. In her hands she holds prosperity for all the lands. The lady XX. Holy Inana XX.
 t.4.07.a	A hymn to Inana		17-22	XX, you are endowed with beauty,
-
 t.4.07.a	A hymn to Inana		23-29	You are she who raises XX in their prayers. You are she who displays shining cornelian from the mountains to be admired. Bringing shining lapis lazuli from the bright mountain on special rafts, you are she who, like fire, melts (?) gold from Harali. You are she who creates apples in their clusters (?). You are she who demands XX. You are she who creates the date spadices in their beauty.
-t.4.07.a	A hymn to Inana		30-44	(Inana speaks:) When I was living in my dwelling place, when I was living in An's dwelling, my lover Ušumgal-ana called upon me to be his wife. In Bad-tibira, from the E-muš-kalama, XX for his crown.
-
-XX his assembly, and brought XX into her holy shrine for her brother Ušumgal-ana.
-t.4.07.a	A hymn to Inana		45-54	(Inana speaks:) XX stands XX. Dumuzid stands in beauty like an ildag tree. I will fill my heart with joy. The one who makes food plentiful XX in Du-šuba (?). My heart is filled with joy, XX in heaven and earth. The house of Arali XX.
-
-XX the houses in the broad streets.
-
+t.4.07.a	A hymn to Inana		30-44	(Inana speaks:) When I was living in my dwelling place, when I was living in An's dwelling, my lover Ušumgal-ana called upon me to be his wife. In Bad-tibira, from the E-muš-kalama, XX for his crown.  XX his assembly, and brought XX into her holy shrine for her brother Ušumgal-ana.
+t.4.07.a	A hymn to Inana		45-54	(Inana speaks:) XX stands XX. Dumuzid stands in beauty like an ildag tree. I will fill my heart with joy. The one who makes food plentiful XX in Du-šuba (?). My heart is filled with joy, XX in heaven and earth. The house of Arali XX.  XX the houses in the broad streets.
 t.4.07.a	A hymn to Inana		55-121	
 t.4.07.a	A hymn to Inana		122-123	Holy Inana, your august XX! XX Inana be praised!

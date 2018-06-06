@@ -1,1 +1,1 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text

@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.2.4.4.2	A balbale to Inana for Šu-Suen (Šu-Suen B)		1-4	Man of my heart, my beloved man, your allure is a sweet thing, as sweet as honey. Lad of my heart, my beloved man, your allure is a sweet thing, as sweet as honey.
 t.2.4.4.2	A balbale to Inana for Šu-Suen (Šu-Suen B)		5-8	You have captivated me (?), of my own free will I shall come to you. Man, let me flee with you -- into the bedroom. You have captivated me (?); of my own free will I shall come to you. Lad, let me flee with you -- into the bedroom.
 t.2.4.4.2	A balbale to Inana for Šu-Suen (Šu-Suen B)		9-14	Man, let me do the sweetest things to you. My precious sweet, let me bring you honey. In the bedchamber dripping with honey let us enjoy over and over your allure, the sweet thing. Lad, let me do the sweetest things to you. My precious sweet, let me bring you honey.

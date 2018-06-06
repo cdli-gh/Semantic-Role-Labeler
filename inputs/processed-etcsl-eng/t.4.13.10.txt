@@ -1,7 +1,6 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.4.13.10	An ululumama to Nanna (Nanna J)		1-4	Lord, glory of heaven, suited to XX, Nanna, whose appearance in the high heavens is adorned with radiance! King, glittering light, crown of Urim, Nanna, glittering light, crown of Urim!
 t.4.13.10	An ululumama to Nanna (Nanna J)		5-18	Great lion of holy An, first-born of Enlil, seed of a bison, beloved of the gods, great strength inspiring awe in the Land, with the just crown and the shining sceptre, sparkling over the high mountains, XX of Enlil filled with princely divine powers, XX in the centre of Nibru, highly skilled at examining XX,
-
 t.4.13.10	An ululumama to Nanna (Nanna J)		19-27	Butting XX aggressively, XX, never tiring, XX in heaven and on earth; giving princely commands to XX, XX like a bull, XX, looking down upon his rivers grand and small! Lion uttering hostile words to the enemy, supplying evening light to dark places! Youthful Suen, glorious moonlight, the people gaze at you in wonder.
 t.4.13.10	An ululumama to Nanna (Nanna J)		28-32	The ewe with its lambs expresses deep affection. The goat with its kids honours you. The young man is able to make love with his wife. Suen relaxes with beautiful Ningal. Praise be to youthful Suen, to Father Nanna!
 t.4.13.10	An ululumama to Nanna (Nanna J)		33	An ululumama of Nanna.

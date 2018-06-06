@@ -1,54 +1,5 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.3.2.04	Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy		1-3	Say to Nanna-ki-aŋ, the general: this is what Lipit-Eštar, your lord, says:
-t.3.2.04	Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy		4-7	Because of 
-enemy troops
-
-1 ms. has instead: the enemy
-, 
-I, the king, have sent you a letter
-
-1 ms. has instead: I have sent a letter
-. Atta-mannum, who pleases his lord, is (?) a better 
-servant to his lord
-
-1 ms. has instead: man
- than you! Why is it that 
-you have not been avenging your lord, and not keeping me informed
-
-1 ms. has instead: while I (?) have kept the soldiers loyal (?), you have not stationed them among those people
-? 
-1 ms. adds: So now you are to station the troops there.
-
-t.3.2.04	Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy		8-10	Now, 
-I have sent to you in haste
-
-1 ms. has instead: they have pursued (?)
- 
-2000
-
-1 ms. has instead: 4000
-
-1 other ms. has instead: 3000
- soldiers 
-who are spear-throwers
-
-
-1 ms. has instead: who are XX spear-throwers
-, 
-2000
-
-1 ms. has instead: 4000
- soldiers 
-who are archers
-
-1 ms. has instead: who are XX archers
-, and 
-2000
-
-1 ms. has instead: 1000
- soldiers 
-who are double-axe wielders
-
-1 ms. has instead: who are XX double-axe wielders
-.
+t.3.2.04	Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy		4-7	Because of  enemy troops  1 ms. has instead: the enemy ,  I, the king, have sent you a letter  1 ms. has instead: I have sent a letter . Atta-mannum, who pleases his lord, is (?) a better  servant to his lord  1 ms. has instead: man  than you! Why is it that  you have not been avenging your lord, and not keeping me informed  1 ms. has instead: while I (?) have kept the soldiers loyal (?), you have not stationed them among those people ?  1 ms. adds: So now you are to station the troops there.
+t.3.2.04	Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy		8-10	Now,  I have sent to you in haste  1 ms. has instead: they have pursued (?)   2000  1 ms. has instead: 4000  1 other ms. has instead: 3000  soldiers  who are spear-throwers   1 ms. has instead: who are XX spear-throwers ,  2000  1 ms. has instead: 4000  soldiers  who are archers  1 ms. has instead: who are XX archers , and  2000  1 ms. has instead: 1000  soldiers  who are double-axe wielders  1 ms. has instead: who are XX double-axe wielders .
 t.3.2.04	Letter from Lipit-Eštar to Nanna-ki-aŋ about driving away the enemy		11-17	The enemy has camped down in Iri-gibil. Chase them away from those settlements; do not XX. Guard (?) each city XX. Do not let these cities out of your grasp. Station your people -- it is urgent!

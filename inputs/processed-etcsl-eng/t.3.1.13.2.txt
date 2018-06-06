@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.3.1.13.2	Letter from Šulgi to Išbi-Erra about the purchase of grain		1-2	Say to Išbi-Erra: this is what Šulgi, your lord, says:
 t.3.1.13.2	Letter from Šulgi to Išbi-Erra about the purchase of grain		3-5	You have made me so happy with the news and everything. Who could give me a house-born slave such as you are? Who has such a capable man, so beneficial to his lord?
 t.3.1.13.2	Letter from Šulgi to Išbi-Erra about the purchase of grain		6-7	Now, no sign can confirm (?) anything of what I have been sending to you, but I have sent it to you anyway (?).

@@ -1,41 +1,14 @@
-id_text,text_name,version,l_no,text
-t.6.1.25	Proverbs: collection 25		1-4	
-cf. 6.1.03.149, 6.1.14.6, 6.1.15.b5, 6.1.16.c5, 6.1.22: ll. 172-175
-It became cloudy, but it did not rain. It rained, but no one undid their belt. Although the Tigris was on its high tide, no water reached the arable lands. It rained on the riverbank, but the dry land did not get any of it.
-t.6.1.25	Proverbs: collection 25		5-6	
-cf. 6.1.15.b7
-The en priest eats fish and eats leeks; but cress makes him ill.
-t.6.1.25	Proverbs: collection 25		7-8	
-cf. 6.1.03.59
-The lord i.e. An (?) cursed Unug, but he himself was cursed by the lady of E-ana i.e. Inana.
-t.6.1.25	Proverbs: collection 25		9-15	
-cf. 6.1.03.31, 6.1.09.b1, 6.1.11.18, 6.1.15.b8, 6.2.1: Ni 4469 Seg. A ll. 9-12
-Nanni cherished his old age. He had not finished the building of Enlil's temple. He XX the building of the wall of Nibru. He had abandoned the building of the E-ana, XX. He had captured Simurrum, but had not managed to carry off (?) its tribute. Mighty kingship was not bestowed upon him. Was not Nanni thus brought to the nether world with a depressed heart?
-t.6.1.25	Proverbs: collection 25		16-20	
-cf. 6.1.01.57
-Although the number of unhappy days is endless (?), yet life is better than death XX. When I XX
-
-t.6.1.25	Proverbs: collection 25		21-22	
-cf. 6.1.01.68, 6.1.14.15
-Into a plague-stricken city one has to be driven like a pack-ass.
-t.6.1.25	Proverbs: collection 25		23-24	
-= Alster 1997 25.8; cf. 6.1.02.142, 6.1.23.7
-A house built by a righteous man is destroyed by a treacherous man.
-t.6.1.25	Proverbs: collection 25		25-26	
-= Alster 1997 25.7; cf. 6.1.02.156, 6.1.02.161, 6.1.03.165, 6.1.14.23
-The palace is a slippery place, where one slips. Watch your step when you decide to go home!
-t.6.1.25	Proverbs: collection 25		27	
-cf. 6.1.11.56, 6.1.26.a2, 6.2.5: UM 29-16-519 Seg. B l. 2
-The palace bows down, but only of its own accord.
-t.6.1.25	Proverbs: collection 25		28	
-cf. 6.1.02.158, 6.1.14.22, 6.1.17.b9
-The palace -- one day a lamenting mother, the next day a mother giving birth.
-t.6.1.25	Proverbs: collection 25		29-30	
-cf. 6.1.02.157, 6.1.14.20, 6.2.3: UET 6/2 317
-Even the palace cannot avoid the wasteland. Even a barge cannot avoid straw. Even a nobleman cannot avoid corvée work.
-t.6.1.25	Proverbs: collection 25		31-34	
-cf. 6.1.26.a3, 6.2.5: YBC 9908, 5.6.1: ll. 95-96
-What flows in is never enough to fill it, and what flows out can never be stopped -- don't envy the king's property!
-t.6.1.25	Proverbs: collection 25		35-36	
-cf. 6.1.03.170, 6.1.26.a10, 6.2.5: BM 57994 Seg. A ll. 1-3
-When a man sailing downstream encounters a man whose boat is travelling upstream, an inspection is an abomination to Suen.
+id_text	text_name	version	l_no	text
+t.6.1.25	Proverbs: collection 25		1-4	cf. 6.1.03.149, 6.1.14.6, 6.1.15.b5, 6.1.16.c5, 6.1.22: ll. 172-175 It became cloudy, but it did not rain. It rained, but no one undid their belt. Although the Tigris was on its high tide, no water reached the arable lands. It rained on the riverbank, but the dry land did not get any of it.
+t.6.1.25	Proverbs: collection 25		5-6	cf. 6.1.15.b7 The en priest eats fish and eats leeks; but cress makes him ill.
+t.6.1.25	Proverbs: collection 25		7-8	cf. 6.1.03.59 The lord i.e. An (?) cursed Unug, but he himself was cursed by the lady of E-ana i.e. Inana.
+t.6.1.25	Proverbs: collection 25		9-15	cf. 6.1.03.31, 6.1.09.b1, 6.1.11.18, 6.1.15.b8, 6.2.1: Ni 4469 Seg. A ll. 9-12 Nanni cherished his old age. He had not finished the building of Enlil's temple. He XX the building of the wall of Nibru. He had abandoned the building of the E-ana, XX. He had captured Simurrum, but had not managed to carry off (?) its tribute. Mighty kingship was not bestowed upon him. Was not Nanni thus brought to the nether world with a depressed heart?
+t.6.1.25	Proverbs: collection 25		16-20	cf. 6.1.01.57 Although the number of unhappy days is endless (?), yet life is better than death XX. When I XX
+t.6.1.25	Proverbs: collection 25		21-22	cf. 6.1.01.68, 6.1.14.15 Into a plague-stricken city one has to be driven like a pack-ass.
+t.6.1.25	Proverbs: collection 25		23-24	= Alster 1997 25.8; cf. 6.1.02.142, 6.1.23.7 A house built by a righteous man is destroyed by a treacherous man.
+t.6.1.25	Proverbs: collection 25		25-26	= Alster 1997 25.7; cf. 6.1.02.156, 6.1.02.161, 6.1.03.165, 6.1.14.23 The palace is a slippery place, where one slips. Watch your step when you decide to go home!
+t.6.1.25	Proverbs: collection 25		27	cf. 6.1.11.56, 6.1.26.a2, 6.2.5: UM 29-16-519 Seg. B l. 2 The palace bows down, but only of its own accord.
+t.6.1.25	Proverbs: collection 25		28	cf. 6.1.02.158, 6.1.14.22, 6.1.17.b9 The palace -- one day a lamenting mother, the next day a mother giving birth.
+t.6.1.25	Proverbs: collection 25		29-30	cf. 6.1.02.157, 6.1.14.20, 6.2.3: UET 6/2 317 Even the palace cannot avoid the wasteland. Even a barge cannot avoid straw. Even a nobleman cannot avoid corvée work.
+t.6.1.25	Proverbs: collection 25		31-34	cf. 6.1.26.a3, 6.2.5: YBC 9908, 5.6.1: ll. 95-96 What flows in is never enough to fill it, and what flows out can never be stopped -- don't envy the king's property!
+t.6.1.25	Proverbs: collection 25		35-36	cf. 6.1.03.170, 6.1.26.a10, 6.2.5: BM 57994 Seg. A ll. 1-3 When a man sailing downstream encounters a man whose boat is travelling upstream, an inspection is an abomination to Suen.

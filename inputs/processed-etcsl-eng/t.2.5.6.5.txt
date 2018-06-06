@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.2.5.6.5	An adab to An for Ur-Ninurta (Ur-Ninurta E)		1-4	An the powerful, great among the gods, An the respected, brilliantly manifest god! In fixing a great fate for the king, An has laid his hand truly upon Ur-Ninurta.
 t.2.5.6.5	An adab to An for Ur-Ninurta (Ur-Ninurta E)		5	barsud.
 t.2.5.6.5	An adab to An for Ur-Ninurta (Ur-Ninurta E)		6-19	As he passes, alone, as far as the border of the foreign lands, he is indeed the guardian of the Anuna. He seizes all the great divine powers, and places his feet upon the numerous divine powers. The very wise god, the prince who decides destiny, has truly spoken to him; An has truly spoken to Ur-Ninurta. He has made him the mightiest in the Land; An has made Ur-Ninurta the mightiest in the Land. He has bestowed upon Ur-Ninurta a royal throne on a foundation established forever; the august shepherd's crook, which gathers up the divine powers of the Land; and a just sceptre which directs the numerous people. When holy An determines a destiny, the gods of heaven stand by and the Anuna pay attention.

@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.2.5.6.3	An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C)		1-4	Hero, terror-inspiring dragon of exceptional fearsome terror, powerful Ninurta! Rising hurricane, XX, mighty possessor of august strength, who lets no foreign land escape! Fitted for heroism from the womb, unrivalled!
 t.2.5.6.3	An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C)		5	barsud.
 t.2.5.6.3	An adab to Ninurta for Ur-Ninurta (Ur-Ninurta C)		6-11	You who treat as hostile the cities as well as the unsettled areas, the rebel lands -- Ninurta, as you pass by, like a terrifying fierce lion (?) you make heaven and earth tremble from east to west. When in judgment, like a hero possessing great strength, you batter a rebel land, by day you thrust, by night you rear up, and you leave the rebel land lying prone. If you merely lift your gaze, you make the great hills tremble (?) together.

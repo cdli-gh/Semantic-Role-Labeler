@@ -1,3 +1,2 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.2.4.4.9	A praise poem of Šu-Suen (Šu-Suen I)		1	King Šu-Suen, forceful lord,
-

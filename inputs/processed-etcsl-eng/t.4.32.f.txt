@@ -1,6 +1,5 @@
-id_text,text_name,version,l_no,text
-t.4.32.f	A šir-namšub to Utu (Utu F)		1-23	
-Youthful Utu XX, calf of the wild cow, calf of the wild cow, calf of the righteous son, Utu, royal brother of Inana! He who brings thirst to streets and paths (?), Utu, he of the tavern, provided beer, youthful Utu, he of the tavern, provided beer.
+id_text	text_name	version	l_no	text
+t.4.32.f	A šir-namšub to Utu (Utu F)		1-23	Youthful Utu XX, calf of the wild cow, calf of the wild cow, calf of the righteous son, Utu, royal brother of Inana! He who brings thirst to streets and paths (?), Utu, he of the tavern, provided beer, youthful Utu, he of the tavern, provided beer.
 t.4.32.f	A šir-namšub to Utu (Utu F)		24-30	(Inana speaks:) My brother, awe-inspiring lord, let me ride with you to the mountains! Lord of heaven, awe-inspiring lord, lord, let me ride with you to the mountains; to the mountains of herbs, to the mountains of cedars, to the mountains; to the mountains of cedars, the mountains of cypresses, to the mountains; to the mountains of silver, the mountains of lapis lazuli, to the mountains; to the mountains where the gakkul plants grow, to the mountains; to the distant source of the rolling rivers, to the mountains.
 t.4.32.f	A šir-namšub to Utu (Utu F)		31-34	My brother, come, let me XX. My brother, the midst of the sea XX my eyes. My brother, women XX. Utu, women XX.
 t.4.32.f	A šir-namšub to Utu (Utu F)		35-38	I am unfamiliar with womanly matters, with XX. I am unfamiliar with womanly matters, with sexual intercourse! I am unfamiliar with womanly matters, with kissing! I am unfamiliar with sexual intercourse, I am unfamiliar with kissing!

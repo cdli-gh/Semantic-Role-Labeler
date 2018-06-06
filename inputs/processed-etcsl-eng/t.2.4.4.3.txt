@@ -1,8 +1,6 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.2.4.4.3	A balbale to Inana for Šu-Suen (Šu-Suen C)		1-8	My hair is lettuce, well watered. It is the sprout of a lettuce, well watered. Its tangled coils (?) have been tightened. My nursemaid has XX them high and made my hair stag-like. She has tightened its tiny hairgrips and brought order to my charms; my charms, my hair, the lettuce, is the fairest of plants.
 t.2.4.4.3	A balbale to Inana for Šu-Suen (Šu-Suen C)		9-12	The brother has brought me into his life-giving gaze, Šu-Suen, the XX handsome man, has chosen me. XX my allure is without end,
-
-
 t.2.4.4.3	A balbale to Inana for Šu-Suen (Šu-Suen C)		18-20	You are our lord, you are our lord, of silver and lapis lazuli, you are our lord. You are our farmer who brings superb grain.
 t.2.4.4.3	A balbale to Inana for Šu-Suen (Šu-Suen C)		21-22	He is honey to my eyes, he is the charm of my heart. May the light of life shine for him, may Šu-Suen XX.
 t.2.4.4.3	A balbale to Inana for Šu-Suen (Šu-Suen C)		23	It is a balbale of Inana.

@@ -1,12 +1,8 @@
-id_text,text_name,version,l_no,text
-t.4.13.02	A balbale to Nanna (Nanna B)		1-26	(Ningal speaks:) I XX for the XX.
-
-The embrace of my spouse XX. The young man XX. Among his cows XX. My beloved who XX. I shall go XX! There with the lord XX.
+id_text	text_name	version	l_no	text
+t.4.13.02	A balbale to Nanna (Nanna B)		1-26	(Ningal speaks:) I XX for the XX.  The embrace of my spouse XX. The young man XX. Among his cows XX. My beloved who XX. I shall go XX! There with the lord XX.
 t.4.13.02	A balbale to Nanna (Nanna B)		27-31	(Nanna addresses Ningal:) My spouse, XX, Ningal who XX, XX butter from the holy cows. Pure hands and XX feet XX. My lovely XX.
 t.4.13.02	A balbale to Nanna (Nanna B)		32-37	XX, the reedbeds, the playground XX. I shall XX sharp knives to the XX and reed fences. I shall XX to the beautiful young reeds. Mistress, XX the treasures (?) of the ubi birds. I will gather their eggs for you, and I shall XX the nest. High priestess of Nanna, XX the ubi birds.
 t.4.13.02	A balbale to Nanna (Nanna B)		38-43	After I have XX butter into the container, after I have XX for cakes in the morning (?), after I have XX carp in the great marsh, young lady, after I have XX little turtles (?), then I will XX your own mother Ningikuga. Ningal, I shall go with you to your house.
 t.4.13.02	A balbale to Nanna (Nanna B)		44-49	After I have led the cows into the stall XX, after I have XX holy milk into the holy churn for you, after Šuni-du has done the churning, young lady, after I have given my XX young calves milk XX, then I will XX pats of butter and purified milk for you. Ningal, I shall go with you to your house.
-t.4.13.02	A balbale to Nanna (Nanna B)		50-59	(Ningal addresses Nanna:) XX, my beloved, if only I could come to you without my mother to XX! If only I could come to you without Ningikuga (?) XX!
-
-Lord Nanna, bring it to me! In the dwelling of the shepherd, in the house of gleaned barley, my lord, I shall come to you in the chamber, the storehouse (?)! XX, wonder of the Land, I shall come to you! My Nanna, your chant is sweet; it is the chant of my heart.
+t.4.13.02	A balbale to Nanna (Nanna B)		50-59	(Ningal addresses Nanna:) XX, my beloved, if only I could come to you without my mother to XX! If only I could come to you without Ningikuga (?) XX!  Lord Nanna, bring it to me! In the dwelling of the shepherd, in the house of gleaned barley, my lord, I shall come to you in the chamber, the storehouse (?)! XX, wonder of the Land, I shall come to you! My Nanna, your chant is sweet; it is the chant of my heart.
 t.4.13.02	A balbale to Nanna (Nanna B)		60	A balbale of Nanna.

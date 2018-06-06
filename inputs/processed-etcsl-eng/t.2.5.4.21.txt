@@ -1,7 +1,5 @@
-id_text,text_name,version,l_no,text
-t.2.5.4.21	An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U)		1-12	In the E-kur, the house XX. The great gods XX to your upraised hands. XX holy lap for your exceedingly pleasant life. XX for its good reign XX. Išme-Dagan, the son of Enlil XX. XX joy (?) in the Egal-mah, your ladylike house. XX the prince XX meš tree with shining branches XX. XX to make his life pleasant XX Išme-Dagan XX. XX holy XX the child of An XX.
-
-XX brick-built E-kur XX.
+id_text	text_name	version	l_no	text
+t.2.5.4.21	An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U)		1-12	In the E-kur, the house XX. The great gods XX to your upraised hands. XX holy lap for your exceedingly pleasant life. XX for its good reign XX. Išme-Dagan, the son of Enlil XX. XX joy (?) in the Egal-mah, your ladylike house. XX the prince XX meš tree with shining branches XX. XX to make his life pleasant XX Išme-Dagan XX. XX holy XX the child of An XX.  XX brick-built E-kur XX.
 t.2.5.4.21	An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U)		13	Sa-ŋara.
 t.2.5.4.21	An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U)		14	Dagan, you have XX the shepherd Išme-Dagan, the son of Enlil, with a royal garment.
 t.2.5.4.21	An adab to Dagan (?) for Išme-Dagan (Išme-Dagan U)		15	Ŋišgiŋal of the sa-ŋara.

@@ -1,10 +1,2 @@
-id_text,text_name,version,l_no,text
-t.2.8.3.7	A prayer for Samsu-iluna (Samsu-iluna G)		1-6	He greeted 
-Enki, Asalim and the son of Eridug
-
-an Akkadian gloss has: Ea, Marduk and Asalluha
-, the great gods, 
-while sitting majestically on the golden throne of kingship with head high in heroic strength in its midst
-
-an Akkadian gloss has: on your golden throne of kingship, whose head is raised high in the strength of your heroism, may you sit majestically, Samsu-ilūna, double king
-, the king of Urim and king of Larsam, the king of Sumer and Akkad.
+id_text	text_name	version	l_no	text
+t.2.8.3.7	A prayer for Samsu-iluna (Samsu-iluna G)		1-6	He greeted  Enki, Asalim and the son of Eridug  an Akkadian gloss has: Ea, Marduk and Asalluha , the great gods,  while sitting majestically on the golden throne of kingship with head high in heroic strength in its midst  an Akkadian gloss has: on your golden throne of kingship, whose head is raised high in the strength of your heroism, may you sit majestically, Samsu-ilūna, double king , the king of Urim and king of Larsam, the king of Sumer and Akkad.

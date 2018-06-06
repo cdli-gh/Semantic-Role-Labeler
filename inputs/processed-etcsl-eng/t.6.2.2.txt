@@ -1,22 +1,14 @@
-id_text,text_name,version,l_no,text
-t.6.2.2	Proverbs: from Susa	MDP 27 206	1	cf. 6.1.02.c13, 6.2.3: UET 6/2 244 ll. 1-2, 6.2.3: UET 6/3 80 l. 4
-The voice of the irsaŋ bird is the glory of the garden.
-t.6.2.2	Proverbs: from Susa	MDP 27 206	2	cf. 6.2.3: UET 6/2 244 ll. 5-6, 6.2.3: UET 6/3 80 l. 5
-The voice of the frog is the glory of the marsh waters.
-t.6.2.2	Proverbs: from Susa	MDP 27 206	3	cf. 6.1.02.c14, 6.2.3: UET 6/2 244 ll. 3-4, 6.2.3: UET 6/3 80 l. 6
-The voice of the francolin is the glory of the fields.
-t.6.2.2	Proverbs: from Susa	MDP 27 89	1	cf. 6.1.03.177, 6.2.3: UET 6/2 322 l. 3
-What is in one's mouth is not in one's hand.
-t.6.2.2	Proverbs: from Susa	MDP 27 102	1	cf. 6.1.05.95
-The dog is restrained yet you do not clean the well.
-t.6.2.2	Proverbs: from Susa	MDP 27 82	1	cf. 6.1.05.106, 6.2.3: UET 6/2 224
-A fettered dog is quarrelsome.
-t.6.2.2	Proverbs: from Susa	MDP 27 216	1-2	cf. 6.1.09.a3, 6.1.10.3-4, 6.2.5: IM 43438 Seg. A l. 2
-When the authorities are wise, and the poor are loyal, it is the effect of the blessing of Aratta.
+id_text	text_name	version	l_no	text
+t.6.2.2	Proverbs: from Susa	MDP 27 206	1	cf. 6.1.02.c13, 6.2.3: UET 6/2 244 ll. 1-2, 6.2.3: UET 6/3 80 l. 4 The voice of the irsaŋ bird is the glory of the garden.
+t.6.2.2	Proverbs: from Susa	MDP 27 206	2	cf. 6.2.3: UET 6/2 244 ll. 5-6, 6.2.3: UET 6/3 80 l. 5 The voice of the frog is the glory of the marsh waters.
+t.6.2.2	Proverbs: from Susa	MDP 27 206	3	cf. 6.1.02.c14, 6.2.3: UET 6/2 244 ll. 3-4, 6.2.3: UET 6/3 80 l. 6 The voice of the francolin is the glory of the fields.
+t.6.2.2	Proverbs: from Susa	MDP 27 89	1	cf. 6.1.03.177, 6.2.3: UET 6/2 322 l. 3 What is in one's mouth is not in one's hand.
+t.6.2.2	Proverbs: from Susa	MDP 27 102	1	cf. 6.1.05.95 The dog is restrained yet you do not clean the well.
+t.6.2.2	Proverbs: from Susa	MDP 27 82	1	cf. 6.1.05.106, 6.2.3: UET 6/2 224 A fettered dog is quarrelsome.
+t.6.2.2	Proverbs: from Susa	MDP 27 216	1-2	cf. 6.1.09.a3, 6.1.10.3-4, 6.2.5: IM 43438 Seg. A l. 2 When the authorities are wise, and the poor are loyal, it is the effect of the blessing of Aratta.
 t.6.2.2	Proverbs: from Susa	MDP 27 214	1-2	
 t.6.2.2	Proverbs: from Susa	MDP 27 214	3-5	
-t.6.2.2	Proverbs: from Susa	MDP 27 96	1-4	
-XX scribe XX king XX entering the great sanctuary, let me XX the trading agent from within it.
+t.6.2.2	Proverbs: from Susa	MDP 27 96	1-4	XX scribe XX king XX entering the great sanctuary, let me XX the trading agent from within it.
 t.6.2.2	Proverbs: from Susa	MDP 27 99	1-3	He who stole from the foodstores and the storehouse XX fine grain XX punished by his god.
 t.6.2.2	Proverbs: from Susa	MDP 27 112	1-3	May he be made commander over the foreign peoples XX pay attention to the god XX the elders XX.
 t.6.2.2	Proverbs: from Susa	MDP 27 212	1-3	These cities, those deities, those peoples, from the land Hamazi, from father (?) Magan XX Ninisina XX.

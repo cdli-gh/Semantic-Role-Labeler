@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.4.32.e	A šir-namšub to Utu (Utu E)		1-7	Whoever has eaten good bread has also drunk good beer, in the house where the righteous man has filled the bowls with liquor -- the lord of the storehouse, the Great Mountain Enlil; the lady of the storehouse, the great mother Ninlil; youthful Utu, lord of the mountain; Šerida, youthful leader of battle; the Enki and Ninki deities; Enmul and Ninmul.
 t.4.32.e	A šir-namšub to Utu (Utu E)		8	1st kirugu.
 t.4.32.e	A šir-namšub to Utu (Utu E)		9-18	Unto distant days, indeed forever, stand by the righteous man who gives you bread, O exalted one, O exalted one, O exalted one -- elalu! Unto distant days, indeed forever, stand by the most righteous of men who gives you bread, O lord of the storehouse, Great Mountain Enlil! O lady of the storehouse, great mother Ninlil! O youthful Utu, lord of the mountain! O Šerida, youthful leader of battle! O exalted one, O exalted one, O exalted one -- elalu!
@@ -19,7 +19,5 @@ t.4.32.e	A šir-namšub to Utu (Utu E)		80	7th kirugu.
 t.4.32.e	A šir-namšub to Utu (Utu E)		81-84	When the heart XX, the precious seed XX. The holy offerings XX. Youthful Utu XX.
 t.4.32.e	A šir-namšub to Utu (Utu E)		85	8th kirugu.
 t.4.32.e	A šir-namšub to Utu (Utu E)		86-110	Ulili XX! Enlil XX.
-
-
 t.4.32.e	A šir-namšub to Utu (Utu E)		111	XX kirugu.
 t.4.32.e	A šir-namšub to Utu (Utu E)		x	This composition is inscribed on a tablet whose colophon specifies it as a šir-namšub of Utu

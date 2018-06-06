@@ -1,69 +1,39 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.5.6.1	The instructions of Šuruppag		1-13	In those days, in those far remote days, in those nights, in those faraway nights, in those years, in those far remote years, at that time the wise one who knew how to speak in elaborate words lived in the Land; Šuruppag, the wise one, who knew how to speak with elaborate words lived in the Land. Šuruppag gave instructions to his son; Šuruppag, the son of Ubara-Tutu, gave instructions to his son Zi-ud-sura: My son, let me give you instructions: you should pay attention! Zi-ud-sura, let me speak a word to you: you should pay attention! Do not neglect my instructions! Do not transgress the words I speak! The instructions of an old man are precious; you should comply with them!
 t.5.6.1	The instructions of Šuruppag		14	You should not buy a donkey which brays; it will split (?) your midriff (?).
-t.5.6.1	The instructions of Šuruppag		15-18	You should not locate a field on a road; XX. You should not plough a field at 
-1 ms. adds: a road or
- a path; XX. You should not make a well in your field: people will cause damage on it for you. You should not place your house next to a public square: there is always a crowd (?) there.
-t.5.6.1	The instructions of Šuruppag		19-20	You should not vouch for someone: that man will have a hold on you; and you yourself, you should not let somebody vouch for you
-1 ms. adds:: that man will despise (?) you
-.
+t.5.6.1	The instructions of Šuruppag		15-18	You should not locate a field on a road; XX. You should not plough a field at  1 ms. adds: a road or  a path; XX. You should not make a well in your field: people will cause damage on it for you. You should not place your house next to a public square: there is always a crowd (?) there.
+t.5.6.1	The instructions of Šuruppag		19-20	You should not vouch for someone: that man will have a hold on you; and you yourself, you should not let somebody vouch for you 1 ms. adds:: that man will despise (?) you .
 t.5.6.1	The instructions of Šuruppag		21	You should not make an inspection (?) on a man: the flood (?) will give it back (?) to you.
 t.5.6.1	The instructions of Šuruppag		22-27	You should not loiter about where there is a quarrel; you should not let the quarrel make you a witness. You should not let (?) yourself XX in a quarrel. You should not cause a quarrel; XX. XX the gate of the palace XX. Stand aside from a quarrel, XX you should not take (?) another road.
 t.5.6.1	The instructions of Šuruppag		28-31	You should not steal anything; you should not XX yourself. You should not break into a house; you should not wish for the money chest (?). A thief is a lion, but after he has been caught, he will be a slave. My son, you should not commit robbery; you should not cut yourself with an axe.
 t.5.6.1	The instructions of Šuruppag		32-34	You should not make a young man best man. You should not XX yourself. You should not play around with a married young woman: the slander could be serious. My son, you should not sit alone in a chamber with a married woman.
 t.5.6.1	The instructions of Šuruppag		35-38	You should not pick a quarrel; you should not disgrace yourself. You should not XX lies; XX. You should not boast; then your words will be trusted. You should not deliberate for too long (?); you cannot bear XX glances.
-t.5.6.1	The instructions of Šuruppag		39-41	You should not eat stolen food with 
-anyone
-
-1 ms. has instead: a thief
-. You should not sink (?) your hand into blood. After you have apportioned the bones, you will be made to restore the ox, you will be made to restore the sheep.
+t.5.6.1	The instructions of Šuruppag		39-41	You should not eat stolen food with  anyone  1 ms. has instead: a thief . You should not sink (?) your hand into blood. After you have apportioned the bones, you will be made to restore the ox, you will be made to restore the sheep.
 t.5.6.1	The instructions of Šuruppag		42-43	You should not speak improperly; later it will lay a trap for you.
 t.5.6.1	The instructions of Šuruppag		44-46	You should not scatter your sheep into unknown pastures. You should not hire someone's ox for an uncertain XX. A safe XX means a safe journey.
 t.5.6.1	The instructions of Šuruppag		47	You should not travel during the night: it can hide both good and evil.
 t.5.6.1	The instructions of Šuruppag		48	You should not buy an onager: it lasts (?) only until the end of the day.
 t.5.6.1	The instructions of Šuruppag		49	You should not have sex with your slave girl: she will chew you up (?).
 t.5.6.1	The instructions of Šuruppag		50	You should not curse strongly: it rebounds on you.
-t.5.6.1	The instructions of Šuruppag		51-52	You should not draw up water which you cannot 
-reach
-
-1 ms. has instead: grasp
-: it will make you weak.
-
+t.5.6.1	The instructions of Šuruppag		51-52	You should not draw up water which you cannot  reach  1 ms. has instead: grasp : it will make you weak.
 t.5.6.1	The instructions of Šuruppag		53	You should not drive away a debtor: he will be hostile towards you.
 t.5.6.1	The instructions of Šuruppag		54-57	You should not establish a home with an arrogant man: he will make your life like that of a slave girl. You will not be able to travel through any human dwelling without be being shouted at: There you go! There you go!
 t.5.6.1	The instructions of Šuruppag		58-59	You should not undo the XX of the garden's reed fence; Restore it! Restore it! they will say to you.
 t.5.6.1	The instructions of Šuruppag		60	You should not provide a stranger (?) with food; you should not wipe out (?) a quarrel.
 t.5.6.1	The instructions of Šuruppag		61-62	My son, you should not use violence (?); XX. You should not commit rape on someone's daughter; the courtyard will learn of it.
-t.5.6.1	The instructions of Šuruppag		63-64	You should not drive away a 
-powerful
-
-1 ms. has instead: strong
- man; you should not destroy the outer wall. You should not drive away a young man; you should not make him turn against the city.
+t.5.6.1	The instructions of Šuruppag		63-64	You should not drive away a  powerful  1 ms. has instead: strong  man; you should not destroy the outer wall. You should not drive away a young man; you should not make him turn against the city.
 t.5.6.1	The instructions of Šuruppag		65-66	The eyes of the slanderer always move around as shiftily as a spindle. You should never remain in his presence; his intentions (?) should not be allowed to have an effect (?) on you.
-t.5.6.1	The instructions of Šuruppag		67	You should not boast in 
-beer halls
-
-1 ms. has instead: breweries
- like a deceitful man: 
-1 ms. adds: then your words will be trusted.
-
+t.5.6.1	The instructions of Šuruppag		67	You should not boast in  beer halls  1 ms. has instead: breweries  like a deceitful man:  1 ms. adds: then your words will be trusted.
 t.5.6.1	The instructions of Šuruppag		68-72	Having reached the field of manhood, you should not jump (?) with your hand. The warrior is unique, he alone is the equal of many; Utu is unique, he alone is the equal of many. With your life you should always be on the side of the warrior; with your life you should always be on the side of Utu.
 t.5.6.1	The instructions of Šuruppag		73-75	Šuruppag gave these instructions to his son. Šuruppag, the son of Ubara-Tutu, gave these instructions to his son Zi-ud-sura.
-t.5.6.1	The instructions of Šuruppag		76-82	A second time, Šuruppag gave instructions to his son. Šuruppag, the son of Ubara-Tutu, gave instructions to his son Zi-ud-sura: My son, let me give you instructions: you should pay attention! Zi-ud-sura, let me speak a word to you: you should pay attention! Do not neglect my instructions! Do not transgress the words I speak! 
-1 ms. adds 1 line: The instructions of an old man are precious; you should comply with them!
-
+t.5.6.1	The instructions of Šuruppag		76-82	A second time, Šuruppag gave instructions to his son. Šuruppag, the son of Ubara-Tutu, gave instructions to his son Zi-ud-sura: My son, let me give you instructions: you should pay attention! Zi-ud-sura, let me speak a word to you: you should pay attention! Do not neglect my instructions! Do not transgress the words I speak!  1 ms. adds 1 line: The instructions of an old man are precious; you should comply with them!
 t.5.6.1	The instructions of Šuruppag		83-91	The beer-drinking mouth XX. My little one XX. The beer-drinking mouth XX. Ninkasi XX.
-
 t.5.6.1	The instructions of Šuruppag		92-93	Your own man will not repay (?) it for you. The reedbeds are XX, they can hide (?) slander.
 t.5.6.1	The instructions of Šuruppag		94-96	The palace is like a mighty river: its middle is goring bulls; what flows in is never enough to fill it, and what flows out can never be stopped.
 t.5.6.1	The instructions of Šuruppag		97-100	When it is about someone else's bread, it is easy to say I will give it to you, but the time of actual giving can be as far away as the sky. If you go after the man who said I will give it to you, he will say I cannot give it to you -- the bread has just been finished up.
 t.5.6.1	The instructions of Šuruppag		101-102	Property is something to be expanded (?); but nothing can equal my little ones.
 t.5.6.1	The instructions of Šuruppag		103-105	The artistic mouth recites words; the harsh mouth brings litigation documents; the sweet mouth gathers sweet herbs.
-t.5.6.1	The instructions of Šuruppag		106-108	The 
-garrulous
-
-1 ms. has instead: liar
- fills (?) his bread bag; the haughty one brings an empty bag and can fill his empty mouth only with boasting.
+t.5.6.1	The instructions of Šuruppag		106-108	The  garrulous  1 ms. has instead: liar  fills (?) his bread bag; the haughty one brings an empty bag and can fill his empty mouth only with boasting.
 t.5.6.1	The instructions of Šuruppag		109	Who works with leather will eventually (?) work with his own leather.
 t.5.6.1	The instructions of Šuruppag		110	The strong one can escape (?) from anyone's hand.
 t.5.6.1	The instructions of Šuruppag		111-114	The fool loses something. When sleeping, the fool loses something. Do not tie me up! he pleads; Let me live! he pleads.
@@ -75,17 +45,11 @@ t.5.6.1	The instructions of Šuruppag		126	You should not pass judgment when you
 t.5.6.1	The instructions of Šuruppag		127	You should not worry unduly about what leaves the house.
 t.5.6.1	The instructions of Šuruppag		128-130	Heaven is far, earth is most precious, but it is with heaven that you multiply your goods, and all foreign lands breathe under it.
 t.5.6.1	The instructions of Šuruppag		131-133	At harvest time, at the most priceless time, collect like a slave girl, eat like a queen; my son, to collect like a slave girl, to eat like a queen, this is how it should be.
-t.5.6.1	The instructions of Šuruppag		134-142	Who insults can hurt only the skin; greedy eyes (?), however, can kill. The liar, shouting, tears up his garments. Insults bring (?) advice to the wicked. To speak arrogantly is like an abscess: a herb that makes the stomach sick.
-
-My words of prayer bring abundance. Prayer is cool water that cools the heart. Only (?) insults and stupid speaking receive the attention of the Land.
+t.5.6.1	The instructions of Šuruppag		134-142	Who insults can hurt only the skin; greedy eyes (?), however, can kill. The liar, shouting, tears up his garments. Insults bring (?) advice to the wicked. To speak arrogantly is like an abscess: a herb that makes the stomach sick.  My words of prayer bring abundance. Prayer is cool water that cools the heart. Only (?) insults and stupid speaking receive the attention of the Land.
 t.5.6.1	The instructions of Šuruppag		143-145	Šuruppag gave these instructions to his son. Šuruppag, the son of Ubara-Tutu, gave these instructions to his son Zi-ud-sura.
-t.5.6.1	The instructions of Šuruppag		146-152	A third time, Šuruppag gave instructions to his son. Šuruppag, the son of Ubara-Tutu, gave instructions to his son Zi-ud-sura: My son, let me give you instructions: you should pay attention! Zi-ud-sura, let me speak a word to you: you should pay attention! Do not neglect my instructions! Do not transgress the words I speak!
-Some mss. add the line: The instructions of an old man are precious; you should comply with them!
-
+t.5.6.1	The instructions of Šuruppag		146-152	A third time, Šuruppag gave instructions to his son. Šuruppag, the son of Ubara-Tutu, gave instructions to his son Zi-ud-sura: My son, let me give you instructions: you should pay attention! Zi-ud-sura, let me speak a word to you: you should pay attention! Do not neglect my instructions! Do not transgress the words I speak! Some mss. add the line: The instructions of an old man are precious; you should comply with them!
 t.5.6.1	The instructions of Šuruppag		153	You should not beat a farmer's son: he has constructed (?) your embankments and ditches.
-t.5.6.1	The instructions of Šuruppag		154-164	You should not buy a prostitute: she is a mouth that bites. You should not buy a house-born slave: he is a herb that makes the stomach sick. You should not buy a free man: he will always lean against the wall. You should not buy a palace slave girl: she will always be the bottom of the barrel (?). You should rather bring down a foreign slave from the mountains, or you should bring somebody from a place where he is an alien; my son, then he will pour water for you where the sun rises and he will walk before you. He does not belong to any family, so he does not want to go to his family; he does not belong to any city, so he does not want to go to his city. 
-1 ms. adds 2 lines: He cannot knock at the door of XX, he cannot enter XX.
- He will not XX with you, he will not be presumptuous with you.
+t.5.6.1	The instructions of Šuruppag		154-164	You should not buy a prostitute: she is a mouth that bites. You should not buy a house-born slave: he is a herb that makes the stomach sick. You should not buy a free man: he will always lean against the wall. You should not buy a palace slave girl: she will always be the bottom of the barrel (?). You should rather bring down a foreign slave from the mountains, or you should bring somebody from a place where he is an alien; my son, then he will pour water for you where the sun rises and he will walk before you. He does not belong to any family, so he does not want to go to his family; he does not belong to any city, so he does not want to go to his city.  1 ms. adds 2 lines: He cannot knock at the door of XX, he cannot enter XX.  He will not XX with you, he will not be presumptuous with you.
 t.5.6.1	The instructions of Šuruppag		165-167	My son, you should not travel alone eastwards. Your acquaintance should not XX.
 t.5.6.1	The instructions of Šuruppag		168-169	A name placed on another one XX; you should not pile up a mountain on another one.
 t.5.6.1	The instructions of Šuruppag		170-171	Fate is a wet bank; it can make one slip.
@@ -96,16 +60,10 @@ t.5.6.1	The instructions of Šuruppag		178-180	The need for food makes some peop
 t.5.6.1	The instructions of Šuruppag		181-182	A small city provides (?) its king with a calf; a huge city digs (?) a house plot (?).
 t.5.6.1	The instructions of Šuruppag		183-188	XX is well equipped. The poor man inflicts all kinds of illnesses on the rich man. The married man is well equipped; the unmarried makes his bed in a haystack (?). He who wishes to destroy a house will go ahead and destroy the house; he who wishes to raise up will go ahead and raise up.
 t.5.6.1	The instructions of Šuruppag		189-192	By grasping the neck of a huge ox, you can cross the river. By moving along (?) at the side of the mighty men of your city, my son, you will certainly ascend (?).
-t.5.6.1	The instructions of Šuruppag		193-201	When you bring a slave girl from the hills, she brings both good and evil with her. The good is in the hands; the evil is in the heart. The heart does not let go of the good; but the heart cannot let go of the evil either. As if it were a watery place, the heart does not abandon the good. Evil is a storeroom XX. 
-1 ms. adds: 
- May the boat with the evil sink in the river! May his waterskin split in the desert!
+t.5.6.1	The instructions of Šuruppag		193-201	When you bring a slave girl from the hills, she brings both good and evil with her. The good is in the hands; the evil is in the heart. The heart does not let go of the good; but the heart cannot let go of the evil either. As if it were a watery place, the heart does not abandon the good. Evil is a storeroom XX.  1 ms. adds:   May the boat with the evil sink in the river! May his waterskin split in the desert!
 t.5.6.1	The instructions of Šuruppag		202-203	A loving heart maintains a family; a hateful heart destroys a family.
 t.5.6.1	The instructions of Šuruppag		204-207	To have authority, to have possessions and to be steadfast are princely divine powers. You should submit to the respected; you should be humble before the powerful. My son, you will then survive (?) against the wicked.
-t.5.6.1	The instructions of Šuruppag		208-212	You should not choose a wife during a festival. Her inside is illusory (?); her outside is illusory (?). 
-The silver on her is borrowed; the lapis lazuli on her is borrowed
-
-1 ms. has instead the line: XX; the jewellery on her is borrowed, the jewellery on her is borrowed
-. The dress on her is borrowed; the linen garment on her is borrowed. With XX nothing (?) is comparable.
+t.5.6.1	The instructions of Šuruppag		208-212	You should not choose a wife during a festival. Her inside is illusory (?); her outside is illusory (?).  The silver on her is borrowed; the lapis lazuli on her is borrowed  1 ms. has instead the line: XX; the jewellery on her is borrowed, the jewellery on her is borrowed . The dress on her is borrowed; the linen garment on her is borrowed. With XX nothing (?) is comparable.
 t.5.6.1	The instructions of Šuruppag		213-214	You should not buy a XX bull. You should not buy a vicious bull; XX a hole (?) in the cattle-pen XX.
 t.5.6.1	The instructions of Šuruppag		215	One appoints (?) a reliable woman for a good household.
 t.5.6.1	The instructions of Šuruppag		216-217	You should not buy a donkey at the time of harvest. A donkey which eats XX will XX with another donkey.
@@ -113,10 +71,7 @@ t.5.6.1	The instructions of Šuruppag		218-219	A vicious donkey hangs its neck; 
 t.5.6.1	The instructions of Šuruppag		220	A woman with her own property ruins the house.
 t.5.6.1	The instructions of Šuruppag		221	A drunkard will drown the harvest.
 t.5.6.1	The instructions of Šuruppag		222-234	A female burglar (?) XX ladder; she flies into the houses like a fly. A she-donkey XX on the street. A sow suckles its child on the street. A woman who pricked herself begins to cry and holds the spindle which pricked (?) her in her hand. She enters every house; she peers into all streets. XX she keeps saying Get out! She looks around (?) from all parapets. She pants (?) where there is a quarrel.
-
-t.5.6.1	The instructions of Šuruppag		235-241	Marry (?) XX whose heart hates (?). My son, XX
-
-A heart which overflows with joy XX.
+t.5.6.1	The instructions of Šuruppag		235-241	Marry (?) XX whose heart hates (?). My son, XX  A heart which overflows with joy XX.
 t.5.6.1	The instructions of Šuruppag		242-244	Nothing at all is to be valued, but life should be sweet. You should not serve things; things should serve you. My son, XX.
 t.5.6.1	The instructions of Šuruppag		245	You should not XX grain; its XX are numerous.
 t.5.6.1	The instructions of Šuruppag		246-247	You should not abuse a ewe; otherwise you will give birth to a daughter. You should not throw a lump of earth into the money chest (?); otherwise you will give birth to a son.
@@ -129,14 +84,8 @@ t.5.6.1	The instructions of Šuruppag		261	Without suburbs a city has no centre 
 t.5.6.1	The instructions of Šuruppag		262-263	My son, a field situated at the bottom of the embankments, be it wet or dry, is nevertheless a source of income.
 t.5.6.1	The instructions of Šuruppag		264	It is inconceivable (?) that something is lost forever.
 t.5.6.1	The instructions of Šuruppag		265	XX of Dilmun XX.
-t.5.6.1	The instructions of Šuruppag		266-271	
-To get lost is bad for a dog; but terrible for a man
-
-1 ms. has instead: An unknown place is terrible; to get lost is shameful (?) for a dog
-. On the unfamiliar way at the edge of the mountains, the gods of the mountains are man-eaters. They do not build houses there as men do; they do not build cities there as men do.
-
+t.5.6.1	The instructions of Šuruppag		266-271	To get lost is bad for a dog; but terrible for a man  1 ms. has instead: An unknown place is terrible; to get lost is shameful (?) for a dog . On the unfamiliar way at the edge of the mountains, the gods of the mountains are man-eaters. They do not build houses there as men do; they do not build cities there as men do.
 t.5.6.1	The instructions of Šuruppag		272-273	For the shepherd, he stopped searching, he stopped bringing back the sheep. For the farmer (?), he stopped ploughing the field.
-
 t.5.6.1	The instructions of Šuruppag		274-276	This gift of words is something which soothes the mind XX; when it enters the palace, it soothes the mind XX. The gift of many words XX stars.
 t.5.6.1	The instructions of Šuruppag		277	These are the instructions given by Šuruppag, the son of Ubara-Tutu.
 t.5.6.1	The instructions of Šuruppag		278-280	Praise be to the lady who completed the great tablets, the maiden Nisaba, that Šuruppag, the son of Ubara-Tutu, gave his instructions!

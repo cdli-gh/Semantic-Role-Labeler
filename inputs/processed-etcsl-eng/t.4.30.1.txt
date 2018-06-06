@@ -1,8 +1,4 @@
-id_text,text_name,version,l_no,text
-t.4.30.1	A balbale to Šara (Šara A)		1-33	
-
-XX great radiance XX. Šara, the song praising you befits you. Šara, your divine powers are most precious; Father An, who has engendered you XX.
-t.4.30.1	A balbale to Šara (Šara A)		34-45	Your own mother, holy Inana, has let you sit with her on the holy XX. XX she is the Mistress. She has let you XX. She has called you by a good name. XX joyfully in your XX. XX dwells XX; the lord shines forth in its midst.
-
-Šara, you XX, praying in the good and holy XX. XX, the princely son, grandiloquent XX holy XX, coming forth like the sun from the shrine E-mah.
+id_text	text_name	version	l_no	text
+t.4.30.1	A balbale to Šara (Šara A)		1-33	XX great radiance XX. Šara, the song praising you befits you. Šara, your divine powers are most precious; Father An, who has engendered you XX.
+t.4.30.1	A balbale to Šara (Šara A)		34-45	Your own mother, holy Inana, has let you sit with her on the holy XX. XX she is the Mistress. She has let you XX. She has called you by a good name. XX joyfully in your XX. XX dwells XX; the lord shines forth in its midst.  Šara, you XX, praying in the good and holy XX. XX, the princely son, grandiloquent XX holy XX, coming forth like the sun from the shrine E-mah.
 t.4.30.1	A balbale to Šara (Šara A)		46	A balbale of Šara.

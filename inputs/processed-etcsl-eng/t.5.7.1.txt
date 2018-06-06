@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.5.7.1	 Enlil and Nam-zid-tara		1-10	Nam-zid-tara walked by Enlil, who said to him: Where have you come from, Nam-zid-tara? From Enlil's temple. My turn of duty is finished. I serve at the place of the gudug priests, with their sheep. I am on my way home. Don't stop me; I am in a hurry. Who are you who asks me questions?
 t.5.7.1	 Enlil and Nam-zid-tara		11-16	I am Enlil. But Enlil had changed his appearance: he had turned into a raven and was croaking. But you are not a raven, you really are Enlil! How did you recognise that I am Enlil, who decrees the destinies?
 t.5.7.1	 Enlil and Nam-zid-tara		17-18	When your uncle En-me-šara was a captive, after taking for himself the rank of Enlil, he said: Now I shall know the fates, like a lord.

@@ -1,12 +1,9 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.1.6.1	Ninurta's return to Nibru: a šir-gida to Ninurta		1-6	Created like An, O son of Enlil, Ninurta, created like Enlil, born by Nintur, mightiest of the Anuna gods, who came forth from the mountain range, imbued with terrible awesomeness, son of Enlil, confident in his strength, my sovereign, you are magnificent -- let your magnificence therefore be praised. Ninurta, you are magnificent -- let your magnificence therefore be praised.
 t.1.6.1	Ninurta's return to Nibru: a šir-gida to Ninurta		7-12	Sovereign of all the lands, in your massive might, warrior of Enlil, in your great might, fierce warrior, you have taken up the divine powers which are like heaven, son of Enlil, you have taken up the divine powers which are like the earth, you have taken up the divine powers of the mountains, which are heavy as heaven, you have taken up the divine powers of Eridug, which are huge as the earth.
 t.1.6.1	Ninurta's return to Nibru: a šir-gida to Ninurta		13-15	You have made the gods prostrate (?) themselves before you. You have made the Anuna salute (?) you. Ninurta, you are made complete by heroic strength.
 t.1.6.1	Ninurta's return to Nibru: a šir-gida to Ninurta		16-17	The utterance of the sovereign is a storm XX. The word of Lord Ninurta is a storm XX.
-t.1.6.1	Ninurta's return to Nibru: a šir-gida to Ninurta		18-23	To the hostile mountains XX. To the fortress of the rebellious land XX.
-
-Lord, frighteningly fierce, XX. Fierce in heaven and earth, XX.
-
+t.1.6.1	Ninurta's return to Nibru: a šir-gida to Ninurta		18-23	To the hostile mountains XX. To the fortress of the rebellious land XX.  Lord, frighteningly fierce, XX. Fierce in heaven and earth, XX.
 t.1.6.1	Ninurta's return to Nibru: a šir-gida to Ninurta		24-25	His angry utterance made a corpse of the mountains. His fierce countenance XX.
 t.1.6.1	Ninurta's return to Nibru: a šir-gida to Ninurta		26-29	Horned wild bull XX. Wild ram and stag XX. The great wild bull of the mountains XX from its XX. He put his XX, the strength in battle, in his belt.
 t.1.6.1	Ninurta's return to Nibru: a šir-gida to Ninurta		30-40	The sovereign, with his heroic arms, Ninurta, the son of Enlil, in his great might, brought forth the Six-headed wild ram from the shining, lofty house. He brought forth the Warrior dragon from the great fortress of the mountains. He brought forth the Magilum boat from XX his abzu. He brought forth the Bison from his battle dust. He brought forth the Mermaid from the limits of heaven and earth. He brought forth the Gypsum from the soil of the mountain range. He brought forth the Strong copper from the shattered mountain range. He brought forth the Anzud bird from the halub-haran tree. He brought forth the Seven-headed serpent from the XX of the mountains.
@@ -42,5 +39,4 @@ t.1.6.1	Ninurta's return to Nibru: a šir-gida to Ninurta		187-194	The content o
 t.1.6.1	Ninurta's return to Nibru: a šir-gida to Ninurta		195-198	When Ninurta entered E-šu-me-ša, his beloved temple, alone, he told his wife, young lady Ninnibru, what was in his heart, he told her what was on his mind and he made an enduring favourable pronouncement to her for the king.
 t.1.6.1	Ninurta's return to Nibru: a šir-gida to Ninurta		199-201	The warrior, whose heroism is manifest, Ninurta, the son of Enlil, has firmly grounded his greatness in Enlil's sanctuary.
 t.1.6.1	Ninurta's return to Nibru: a šir-gida to Ninurta		202-207	Lord who has destroyed the mountains, who has no rival, who butts angrily in that magnificent battle, great warrior who goes forth in his XX might, strong one, deluge of Enlil, Ninurta, magnificent child of E-kur, pride of the father who engendered him, it is sweet to praise you.
-t.1.6.1	Ninurta's return to Nibru: a šir-gida to Ninurta		208	
-Šir-gida of Ninurta.
+t.1.6.1	Ninurta's return to Nibru: a šir-gida to Ninurta		208	Šir-gida of Ninurta.

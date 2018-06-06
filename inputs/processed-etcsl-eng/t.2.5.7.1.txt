@@ -1,14 +1,9 @@
-id_text,text_name,version,l_no,text
-t.2.5.7.1	An adab to Ninurta for Būr-Suen (Būr-Suen A)		1-24	XX, lord, whom the Great Mountain engendered, whose magnificence has no equal. Ninurta, magnificent in heaven and earth, surpassing among the Anuna gods. XX, foremost among the gods, support of An. XX imbued with XX, who roars like a storm, who growls in battle. XX, who butts like a huge wild bull, who destroys the fortresses of the rebel lands. XX of Enlil: no foreign land can escape from his grasp. XX by Nunamnir, whose words are firmly established. XX, fit for princeship, the counsellor of E-kur. XX cannot be scattered, the neckstock of the gods.
-
-XX may XX be his helper. XX the son of Iškur. XX, may he provide XX with good food. May he regulate XX. May he be the constant attendant of the E-šu-me-ša, his beloved residence. May he never cease to XX daily his great offerings. May XX prolong the years of abundance and a pleasant life XX for Būr-Suen, well suited for kingship, beloved of An.
+id_text	text_name	version	l_no	text
+t.2.5.7.1	An adab to Ninurta for Būr-Suen (Būr-Suen A)		1-24	XX, lord, whom the Great Mountain engendered, whose magnificence has no equal. Ninurta, magnificent in heaven and earth, surpassing among the Anuna gods. XX, foremost among the gods, support of An. XX imbued with XX, who roars like a storm, who growls in battle. XX, who butts like a huge wild bull, who destroys the fortresses of the rebel lands. XX of Enlil: no foreign land can escape from his grasp. XX by Nunamnir, whose words are firmly established. XX, fit for princeship, the counsellor of E-kur. XX cannot be scattered, the neckstock of the gods.  XX may XX be his helper. XX the son of Iškur. XX, may he provide XX with good food. May he regulate XX. May he be the constant attendant of the E-šu-me-ša, his beloved residence. May he never cease to XX daily his great offerings. May XX prolong the years of abundance and a pleasant life XX for Būr-Suen, well suited for kingship, beloved of An.
 t.2.5.7.1	An adab to Ninurta for Būr-Suen (Būr-Suen A)		25	Sa-gida.
 t.2.5.7.1	An adab to Ninurta for Būr-Suen (Būr-Suen A)		26	May Ninurta be the help of Būr-Suen, who is reverent towards him.
 t.2.5.7.1	An adab to Ninurta for Būr-Suen (Būr-Suen A)		27	Its ŋišgiŋal.
 t.2.5.7.1	An adab to Ninurta for Būr-Suen (Būr-Suen A)		28-46	XX, the right arm of Enlil, who destroys the rebellious foreign lands; Ninurta, the right arm of Enlil, who destroys the rebellious foreign lands. The king, whose rising is a flood no one can oppose. Ninurta, the furious storm in battle, who tramples upon the enemy. He is girded with heroism, a young man without rival. The one given superior strength by Nunamnir, who makes his father feel truly content. Your mighty commands are lofty and great. Ninurta, your mighty commands are lofty and great. XX flattens XX in the rebel lands, who forces the enemy to bow low. XX, who roars like a storm.
-
-
-
 t.2.5.7.1	An adab to Ninurta for Būr-Suen (Būr-Suen A)		47	Sa-ŋara.
 t.2.5.7.1	An adab to Ninurta for Būr-Suen (Būr-Suen A)		48	XX whom you have called by name, Būr-Suen XX.
 t.2.5.7.1	An adab to Ninurta for Būr-Suen (Būr-Suen A)		49	Its ŋišgiŋal.

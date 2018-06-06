@@ -1,4 +1,4 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.4.13.09	A tigi to Suen (Nanna I)		1-9	My king XX in his reed marshes. He XX in the silent (?) reed marshes. He extended his house over a huge reed marsh, over a XX reed marsh. Its XX is green (?); he has built XX by the water. He called his city the shrine Urim. In his city, the lord of the long days, Suen, founded a dwelling-place. In Urim, the city chosen in his heart, bull-like the house gives praise.
 t.4.13.09	A tigi to Suen (Nanna I)		10-15	My king's splendid place is indeed an august place, a most precious place. Suen XX his beloved city, the shrine Urim, the pure divine powers XX his city. My king XX the holy dais. Lord Ašimbabbar XX.
 t.4.13.09	A tigi to Suen (Nanna I)		16	Sa-gida.

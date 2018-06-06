@@ -1,11 +1,5 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.1.8.1.3	The death of Gilgameš	Nibru 2	1-7	His beloved wife, his beloved children, his beloved favourite and junior wife, his beloved musician, cup-bearer and XX, his beloved barber, his beloved XX, his beloved palace retainers and servants and his beloved objects were laid down in their places as if XX in the purified (?) palace in the middle of Unug.
-t.1.8.1.3	The death of Gilgameš	Nibru 2	8-28	Gilgameš, the son of Ninsumun, set out their audience-gifts for Ereškigala. He set out their gifts for Namtar. He set out their surprises for Dimpikug. He set out their presents for Neti. He set out their presents for Ninŋišzida and Dumuzid. He XX the audience-gifts for Enki, Ninki, Enmul, Ninmul, Endukuga, Nindukuga, Enindašuruma, Nindašuruma, Enmu-utula, En-me-šara, the maternal and paternal ancestors of Enlil; for Šul-pa-e, the lord of the table, for Sumugan and Ninhursaŋa, for the Anuna gods of the Holy Mound, for the Great Princes of the Holy Mound, for the dead en priests, the dead lagar priests, the dead lumah priests, the dead nindiŋir priestesses, and the dead gudug, the linen-clad and XX priests.
-
-He set out their presents for XX.
-t.1.8.1.3	The death of Gilgameš	Nibru 2	29-36	XX lie down XX Ninsumun XX. Gilgameš, the son of Ninsumun, XX poured water XX.
-
-XX scratched the nose for him. The people XX of his city XX will not XX anymore. They spread out (?) their XX in the dust.
-t.1.8.1.3	The death of Gilgameš	Nibru 2	37-42	Then the young lord, Lord Gilgameš, who never ceases to XX for the XX of Enlil -- Gilgameš, the son of Ninsumun, XX offshoot XX; no king who could match him has ever been born,
-
-Gilgameš, lord of Kulaba, it is sweet to praise you!
+t.1.8.1.3	The death of Gilgameš	Nibru 2	8-28	Gilgameš, the son of Ninsumun, set out their audience-gifts for Ereškigala. He set out their gifts for Namtar. He set out their surprises for Dimpikug. He set out their presents for Neti. He set out their presents for Ninŋišzida and Dumuzid. He XX the audience-gifts for Enki, Ninki, Enmul, Ninmul, Endukuga, Nindukuga, Enindašuruma, Nindašuruma, Enmu-utula, En-me-šara, the maternal and paternal ancestors of Enlil; for Šul-pa-e, the lord of the table, for Sumugan and Ninhursaŋa, for the Anuna gods of the Holy Mound, for the Great Princes of the Holy Mound, for the dead en priests, the dead lagar priests, the dead lumah priests, the dead nindiŋir priestesses, and the dead gudug, the linen-clad and XX priests.  He set out their presents for XX.
+t.1.8.1.3	The death of Gilgameš	Nibru 2	29-36	XX lie down XX Ninsumun XX. Gilgameš, the son of Ninsumun, XX poured water XX.  XX scratched the nose for him. The people XX of his city XX will not XX anymore. They spread out (?) their XX in the dust.
+t.1.8.1.3	The death of Gilgameš	Nibru 2	37-42	Then the young lord, Lord Gilgameš, who never ceases to XX for the XX of Enlil -- Gilgameš, the son of Ninsumun, XX offshoot XX; no king who could match him has ever been born,  Gilgameš, lord of Kulaba, it is sweet to praise you!

@@ -1,19 +1,6 @@
-id_text,text_name,version,l_no,text
-t.4.08.15	A balbale to Inana (Dumuzid-Inana O)		1-7	
-Your name XX. As I walk, as I walk, as I pass along the banks of the august river, as I roam along the banks of the Euphrates, as I stand XX the lord, as I pass along the gaudy streets:
-t.4.08.15	A balbale to Inana (Dumuzid-Inana O)		8-13	May you be XX a bending reed, may you be barley in the furrows, a beautiful XX, may you be Ezina, who beautifies XX, may you be a nursing mother of the womb, may you be your mother's XX, a vine, 
-my
-
-1 ms. has instead: your
- beloved, your personal god's XX, acting 
-grandly
-
-1 ms. has instead: humanely
-!
-t.4.08.15	A balbale to Inana (Dumuzid-Inana O)		14-21	May There is enough, there is enough 
-be your blessing
-
-1 ms. has instead: is a splendid utterance
-, and may There is none be your abomination. May you be the owner of a house where there is enough, with (?) a beautiful sister, beautiful children! A beautiful storehouse XX like a rope (?). May you be, may you be a male among men, among men. May you be, may you be the son of your god, may you be handsome, may you be praised!
+id_text	text_name	version	l_no	text
+t.4.08.15	A balbale to Inana (Dumuzid-Inana O)		1-7	Your name XX. As I walk, as I walk, as I pass along the banks of the august river, as I roam along the banks of the Euphrates, as I stand XX the lord, as I pass along the gaudy streets:
+t.4.08.15	A balbale to Inana (Dumuzid-Inana O)		8-13	May you be XX a bending reed, may you be barley in the furrows, a beautiful XX, may you be Ezina, who beautifies XX, may you be a nursing mother of the womb, may you be your mother's XX, a vine,  my  1 ms. has instead: your  beloved, your personal god's XX, acting  grandly  1 ms. has instead: humanely !
+t.4.08.15	A balbale to Inana (Dumuzid-Inana O)		14-21	May There is enough, there is enough  be your blessing  1 ms. has instead: is a splendid utterance , and may There is none be your abomination. May you be the owner of a house where there is enough, with (?) a beautiful sister, beautiful children! A beautiful storehouse XX like a rope (?). May you be, may you be a male among men, among men. May you be, may you be the son of your god, may you be handsome, may you be praised!
 t.4.08.15	A balbale to Inana (Dumuzid-Inana O)		22-33	May you be one who pleases his city's god, may you be a son who delights his mother, may you be the life-force of your city, may you be an honourable man, good offspring, may you be prosperous and XX destiny, may you own silver there, may you own grain there! Owning silver, may you delight in silver; owning grain, may you delight in grain! May you be valiant and joyous, may you not be blighted by XX. May you be a soother of hearts, who never wearies of words!
 t.4.08.15	A balbale to Inana (Dumuzid-Inana O)		34	A balbale of Inana.

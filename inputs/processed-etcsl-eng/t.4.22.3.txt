@@ -1,7 +1,3 @@
-id_text,text_name,version,l_no,text
-t.4.22.3	Ninisina's journey to Nibru: a šir-namšub to Ninisina (Ninisina C)		1-18	
-
-XX escorts her to XX. She sails on the Euphrates, amid the holy reed-shoots; XX. She moors the boat at Kar-ŋeština; Enki XX.
+id_text	text_name	version	l_no	text
+t.4.22.3	Ninisina's journey to Nibru: a šir-namšub to Ninisina (Ninisina C)		1-18	XX escorts her to XX. She sails on the Euphrates, amid the holy reed-shoots; XX. She moors the boat at Kar-ŋeština; Enki XX.
 t.4.22.3	Ninisina's journey to Nibru: a šir-namšub to Ninisina (Ninisina C)		19-25	Humbly she XX Enlil's house. She XX food offerings XX of Enlil. She slaughters cattle and sheep XX Enlil. XX greets her from his eternal royal offering-place; XX his shining XX upon her. Joyfully XX.
-
-

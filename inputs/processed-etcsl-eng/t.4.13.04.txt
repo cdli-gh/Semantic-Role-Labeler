@@ -1,14 +1,7 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.4.13.04	A balbale to Nanna (Nanna D)		1-7	They are as numerous, as numerous as the grasses which break through the earth. Nanna, in the XX they are as numerous as the grasses which break through the earth. Their XX are translucent lapis lazuli. Their XX are the colour of the rising moon. The cows with their calves are numerous and are precious šuba stone. XX built and XX together. In their XX he chooses XX.
-t.4.13.04	A balbale to Nanna (Nanna D)		8-12	He who loves the cows herds them into the pen. XX who loves the cows rounds up the cows. He has XX his great cows for her, and their butter XX. Seven 
-1 ms. adds: small
- churns resound with XX and sweet butter for her. XX their butter is holy butter, their milk is holy milk.
-t.4.13.04	A balbale to Nanna (Nanna D)		13-18	XX 
-from the holy pen
-
-1 ms. has instead: in my holy pen
-, the woman does not drink. XX in the holy XX, the woman does not eat. When he sits XX in the pen, he fills the pen with praise. When he sits XX in the pen, he is an ornament of the pen. XX the temple, the cattle-pen is a glory -- Nanna is the master. The XX is Suen's -- Nanna is the master.
+t.4.13.04	A balbale to Nanna (Nanna D)		8-12	He who loves the cows herds them into the pen. XX who loves the cows rounds up the cows. He has XX his great cows for her, and their butter XX. Seven  1 ms. adds: small  churns resound with XX and sweet butter for her. XX their butter is holy butter, their milk is holy milk.
+t.4.13.04	A balbale to Nanna (Nanna D)		13-18	XX  from the holy pen  1 ms. has instead: in my holy pen , the woman does not drink. XX in the holy XX, the woman does not eat. When he sits XX in the pen, he fills the pen with praise. When he sits XX in the pen, he is an ornament of the pen. XX the temple, the cattle-pen is a glory -- Nanna is the master. The XX is Suen's -- Nanna is the master.
 t.4.13.04	A balbale to Nanna (Nanna D)		19-24	XX truly cares for XX, the king of Urim (?). In its XX fish and birds are abundant. In its XX fish and birds are abundant. The fish XX and the birds skim (?). The fish XX and the birds skim (?). He has planted XX, and the carp grow fat.
 t.4.13.04	A balbale to Nanna (Nanna D)		25-40	He has planted XX so that the calves may feed for me. He has planted XX so that the cows may feed for me. XX eats. XX drinks.
-
 t.4.13.04	A balbale to Nanna (Nanna D)		41	A balbale of Nanna.

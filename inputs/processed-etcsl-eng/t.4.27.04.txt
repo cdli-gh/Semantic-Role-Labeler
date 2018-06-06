@@ -1,10 +1,7 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.4.27.04	A tigi to Ninurta (Ninurta D)		1-6	I will fell trees, I will strike down forests. Let my mother know it. I, Ninurta, will fell trees, I will strike down forests. Let my mother know it. I will clear them away like an XX axe. Let my mother know it. I will strike down XX walls like a huge axe. Let my mother now it. I will make their troops tremble like XX. Let my mother know it. I will devour them like storm and flood. Let my mother know it.
 t.4.27.04	A tigi to Ninurta (Ninurta D)		7-13	The warrior, XX in furious battle, smashes heads. The lord curses the disobedient, rebellious lands: I will XX battering ram, I will XX your venom. I will destroy (?) your city gate XX, and reach your XX. I will XX shield on (?) your tower, and reduce it to a pile of dust. I will XX your XX, like a city cursed by Enlil. I will XX you into ruin mounds, like a city hated by Ninurta.
 t.4.27.04	A tigi to Ninurta (Ninurta D)		14	Sa-gida.
-t.4.27.04	A tigi to Ninurta (Ninurta D)		15-32	O king, given strength by Enlil, conquer the foreign lands! Lord Ninurta, given strength by Enlil, conquer the foreign lands! Lord, first choice of An, given strength by Enlil, conquer the foreign lands! Lord Ninurta XX
-
-
-Young woman Ninnibru, lady XX. Lord Ninurta, my king XX. Ig-alim, my king XX. Šul-šagana, my king XX.
+t.4.27.04	A tigi to Ninurta (Ninurta D)		15-32	O king, given strength by Enlil, conquer the foreign lands! Lord Ninurta, given strength by Enlil, conquer the foreign lands! Lord, first choice of An, given strength by Enlil, conquer the foreign lands! Lord Ninurta XX   Young woman Ninnibru, lady XX. Lord Ninurta, my king XX. Ig-alim, my king XX. Šul-šagana, my king XX.
 t.4.27.04	A tigi to Ninurta (Ninurta D)		33	Sa-ŋara, to be played with the hands (?).
 t.4.27.04	A tigi to Ninurta (Ninurta D)		34	A tigi of Ninurta (?).

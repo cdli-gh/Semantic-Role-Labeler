@@ -1,23 +1,9 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.3.1.16	Letter from Šu-Suen to Šarrum-bāni about digging a trench		1-2	Say to Šarrum-bāni: this is what Šu-Suen, your lord, says:
-t.3.1.16	Letter from Šu-Suen to Šarrum-bāni about digging a trench		3-6	The messenger whom you have sent to me XX. XX you do not exceed XX my instructions, as I ordered you.
-
-As for myself, whatever you say to me XX.
-t.3.1.16	Letter from Šu-Suen to Šarrum-bāni about digging a trench		7-14	When you went into the province -- who but you (?) has approached the province? Spending the night XX. When their dignitaries have XX their words, if XX
-
-Their dignitaries should stand by you in (?) their quarters. When their XX have been cast away, they themselves XX the province.
-t.3.1.16	Letter from Šu-Suen to Šarrum-bāni about digging a trench		15-20	If XX officials should pass by (?),
-
-By (?) placing the enemy, their cities, their borders XX, until 
-they come down
-
-1 ms. has instead: they come out from their fortress
-, they must not overturn it!
-t.3.1.16	Letter from Šu-Suen to Šarrum-bāni about digging a trench		21-22	When their men had killed, 
-their women
-
-1 ms. has instead: their soldiers
- passed (?) through your cities of the province; it was not XX.
+t.3.1.16	Letter from Šu-Suen to Šarrum-bāni about digging a trench		3-6	The messenger whom you have sent to me XX. XX you do not exceed XX my instructions, as I ordered you.  As for myself, whatever you say to me XX.
+t.3.1.16	Letter from Šu-Suen to Šarrum-bāni about digging a trench		7-14	When you went into the province -- who but you (?) has approached the province? Spending the night XX. When their dignitaries have XX their words, if XX  Their dignitaries should stand by you in (?) their quarters. When their XX have been cast away, they themselves XX the province.
+t.3.1.16	Letter from Šu-Suen to Šarrum-bāni about digging a trench		15-20	If XX officials should pass by (?),  By (?) placing the enemy, their cities, their borders XX, until  they come down  1 ms. has instead: they come out from their fortress , they must not overturn it!
+t.3.1.16	Letter from Šu-Suen to Šarrum-bāni about digging a trench		21-22	When their men had killed,  their women  1 ms. has instead: their soldiers  passed (?) through your cities of the province; it was not XX.
 t.3.1.16	Letter from Šu-Suen to Šarrum-bāni about digging a trench		23-24	That was how I instructed you. Why did you not act as I ordered you?
 t.3.1.16	Letter from Šu-Suen to Šarrum-bāni about digging a trench		25-27	You were not empowered to kill anyone, to blind (?) people or to destroy cities; but I gave you authority to do so.
 t.3.1.16	Letter from Šu-Suen to Šarrum-bāni about digging a trench		28-30	When my father Šulgi built the fortress XX, it was not you people who were involved -- and my throne is not the throne of Šulgi!

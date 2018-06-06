@@ -1,50 +1,8 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.3.2.05	Letter from Sîn-iddinam to the god Utu		1-5	Say to Utu my lord, the exalted judge of heaven and earth, who cares for the Land, who renders verdicts; just god, who loves to keep man alive, who heeds entreaty, who extends mercy, who knows XX compassion, who loves justice, who selects honesty, XX:
-t.3.2.05	Letter from Sîn-iddinam to the god Utu		6-11	Repeat to the bearded one, the son of Ningal, XX a lapis-lazuli beard, 
-who opens the bolts of heaven and earth
-
-1 ms. has instead: who opens the bolts
-, who creates brightness in darkness; foremost lord who alone is resplendent, whose greatness is unequalled; warrior, son given birth by Ningal, who guards and gathers together the divine powers; just god, prince who determines all the fates, my lord, father of the black-headed: this is what Sîn-iddinam, king of Larsam, your servant, says:
-t.3.2.05	Letter from Sîn-iddinam to the god Utu		12-20	Distress has been caused in your city Larsam, which you have chosen in your heart. The broad squares where days have been passed in merriment 
-have been reduced to
-
-1 ms. has instead: are left (?) in
- silence. Your commendable troops who were assembled have been annihilated (?) like reeds from a reed fence splitting apart. Your young men have been harvested like barley at the due time; they have been picked and have been plucked like ripened fruit (?). The people have been smashed like terracotta figurines; they (?) have perished all together. An evil storm took away the little ones from the laps (?) of their mothers. The people XX; their appearance has been (?) changed. Overwhelming troops have been set loose, XX the Land XX like flour. O youthful Utu, like an enemy you stand aside from your city Larsam.
-t.3.2.05	Letter from Sîn-iddinam to the god Utu		21-29	The mountain land of Elam where there are no dead in great numbers (?) like XX, and Subir, a heavy cloud, which knows no reverence even towards the gods -- these districts have not been weakened; their time has not yet come. 
-The Šimaškian does not elect nugig or lukur priestesses for the places of the gods
-
-1 ms. has instead: The Šimaškian knows neither his god nor those elected nugig and lukur priestesses
-
-1 other ms. has instead: The Šimaškian XX neither the nugig nor the nubar priestesses for the places of the gods
-. His soldiers are numerous like grass; his seed 
-is widespread
-
-1 ms. has instead: is indeed exalted
-. He who lives in tents, who does not know of the places of the gods: like a wild beast which mounts, he knows nothing of 
-eša flour nor prayers
-
-1 ms. has instead: flour and the offering of prayers
-. The evil namtar demon and the distressing asag demon 
-have not carried him off (?)
-
-1 ms. has instead: do not approach him
-. Who XX a divine oath is committing sacrilege, yet his troops are in good health.
-t.3.2.05	Letter from Sîn-iddinam to the god Utu		30-33	
-For seven years, in my city there has been no battle and combat, and death (?) has not been imminent (?)
-
-1 ms. has instead: For five years, in my city we have not been extinguished (?) by battle, not oppressed by death
-. In the open country the lion 
-does not diminish
-
-1 ms. has instead: XX
- devouring men. I am 
-treated
-
-1 ms. has instead: I have been bound (?)
- like one who does not know how to entreat a god fervently. I serve the great gods daily with prayers, and my fervent entreaties are sublime.
-t.3.2.05	Letter from Sîn-iddinam to the god Utu		34-44	O youthful Utu, for that reason look favourably upon your city Larsam! Say Alas! for your city! Say Alas for the sanctuary! XX! Extend sympathetic compassion to Larsam! Take heed of the causes of distress, and make XX leave XX Larsam! Remove XX and distress from 
-its midst (?)
-
-1 ms. has instead: within Larsam
-! XX the frightful (?) XX in Larsam, so that XX may escape the clutches of death. XX may its seed be great! May XX sing your praise!
+t.3.2.05	Letter from Sîn-iddinam to the god Utu		6-11	Repeat to the bearded one, the son of Ningal, XX a lapis-lazuli beard,  who opens the bolts of heaven and earth  1 ms. has instead: who opens the bolts , who creates brightness in darkness; foremost lord who alone is resplendent, whose greatness is unequalled; warrior, son given birth by Ningal, who guards and gathers together the divine powers; just god, prince who determines all the fates, my lord, father of the black-headed: this is what Sîn-iddinam, king of Larsam, your servant, says:
+t.3.2.05	Letter from Sîn-iddinam to the god Utu		12-20	Distress has been caused in your city Larsam, which you have chosen in your heart. The broad squares where days have been passed in merriment  have been reduced to  1 ms. has instead: are left (?) in  silence. Your commendable troops who were assembled have been annihilated (?) like reeds from a reed fence splitting apart. Your young men have been harvested like barley at the due time; they have been picked and have been plucked like ripened fruit (?). The people have been smashed like terracotta figurines; they (?) have perished all together. An evil storm took away the little ones from the laps (?) of their mothers. The people XX; their appearance has been (?) changed. Overwhelming troops have been set loose, XX the Land XX like flour. O youthful Utu, like an enemy you stand aside from your city Larsam.
+t.3.2.05	Letter from Sîn-iddinam to the god Utu		21-29	The mountain land of Elam where there are no dead in great numbers (?) like XX, and Subir, a heavy cloud, which knows no reverence even towards the gods -- these districts have not been weakened; their time has not yet come.  The Šimaškian does not elect nugig or lukur priestesses for the places of the gods  1 ms. has instead: The Šimaškian knows neither his god nor those elected nugig and lukur priestesses  1 other ms. has instead: The Šimaškian XX neither the nugig nor the nubar priestesses for the places of the gods . His soldiers are numerous like grass; his seed  is widespread  1 ms. has instead: is indeed exalted . He who lives in tents, who does not know of the places of the gods: like a wild beast which mounts, he knows nothing of  eša flour nor prayers  1 ms. has instead: flour and the offering of prayers . The evil namtar demon and the distressing asag demon  have not carried him off (?)  1 ms. has instead: do not approach him . Who XX a divine oath is committing sacrilege, yet his troops are in good health.
+t.3.2.05	Letter from Sîn-iddinam to the god Utu		30-33	For seven years, in my city there has been no battle and combat, and death (?) has not been imminent (?)  1 ms. has instead: For five years, in my city we have not been extinguished (?) by battle, not oppressed by death . In the open country the lion  does not diminish  1 ms. has instead: XX  devouring men. I am  treated  1 ms. has instead: I have been bound (?)  like one who does not know how to entreat a god fervently. I serve the great gods daily with prayers, and my fervent entreaties are sublime.
+t.3.2.05	Letter from Sîn-iddinam to the god Utu		34-44	O youthful Utu, for that reason look favourably upon your city Larsam! Say Alas! for your city! Say Alas for the sanctuary! XX! Extend sympathetic compassion to Larsam! Take heed of the causes of distress, and make XX leave XX Larsam! Remove XX and distress from  its midst (?)  1 ms. has instead: within Larsam ! XX the frightful (?) XX in Larsam, so that XX may escape the clutches of death. XX may its seed be great! May XX sing your praise!
 t.3.2.05	Letter from Sîn-iddinam to the god Utu		45-46	And as for me, for my reverence give me life! Bestow on me long life as a gift!

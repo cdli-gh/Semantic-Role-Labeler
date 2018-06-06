@@ -1,9 +1,5 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.4.13.13	A hymn to Nanna (Nanna M)		1-6	Princely lord XX, great lord of heaven XX! In the city which like the sea inspires awe! Far-seeing Suen, ruler of Urim! O Suen, princely lord XX, great lord of heaven XX! In the city which like the sea inspires awe! Far-seeing Suen, ruler of Urim!
 t.4.13.13	A hymn to Nanna (Nanna M)		7-14	Born in the mountains and coming forth in joy, he is a powerful force, a lion, a dragon, a mighty lord -- Suen, mouth like a dragon's, ruler of Urim! Nanna, born in the mountains and coming forth in joy, he is a powerful force, a lion, a dragon, a mighty lord -- Suen, mouth like a dragon's, ruler of Urim!
 t.4.13.13	A hymn to Nanna (Nanna M)		15-20	In the ŋipar (?) XX perfect reputation. My king, having XX and sat upon the dais, in his great banqueting hall he arranges the table of An. Nanna, in the ŋipar (?) XX perfect reputation. My king, having XX and sat upon the dais, in his great banqueting hall he arranges the table of An.
-t.4.13.13	A hymn to Nanna (Nanna M)		21-26	XX has gathered the divine powers in joy. XX, the black-headed have lifted their eyes to you, 
-the first-born son of Enlil
-
-the other ms. has instead: Suen
-. XX has gathered the divine powers in joy. XX, the black-headed have lifted their eyes to you, the first-born son of Enlil.
+t.4.13.13	A hymn to Nanna (Nanna M)		21-26	XX has gathered the divine powers in joy. XX, the black-headed have lifted their eyes to you,  the first-born son of Enlil  the other ms. has instead: Suen . XX has gathered the divine powers in joy. XX, the black-headed have lifted their eyes to you, the first-born son of Enlil.

@@ -1,6 +1,5 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.2.4.2.a	A song of Šulgi		1-4	XX pure from birth XX. XX in the Land XX.
-
 t.2.4.2.a	A song of Šulgi		5-8	My king went to Eridug. Great prince, Father Enki, rejoice! Šulgi went to Eridug. Great prince, Father Enki, rejoice!
 t.2.4.2.a	A song of Šulgi		9-12	My king went to Nibru. Great Mountain, Father Enlil, rejoice! Šulgi went to Nibru. Great Mountain, Father Enlil, rejoice!
 t.2.4.2.a	A song of Šulgi		13-16	My king went to the E-šu-me-ša. Lord Ninurta, rejoice! Šulgi went to the E-šu-me-ša. Lord Ninurta, rejoice!

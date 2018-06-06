@@ -1,22 +1,11 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.4.08.33	Dumuzid and Enkimdu		1-6	Maiden, the cattle-pen XX; maiden Inana, the sheepfold XX. XX bending in the furrows. Inana, let me stroll with you; XX the emmer XX. Young lady, let me XX.
 t.4.08.33	Dumuzid and Enkimdu		7-11	I am a woman and I won't do that, I won't! I am a star XX, and I won't! I won't be the wife of a shepherd! Her brother, the warrior youth Utu, said to holy Inana:
-t.4.08.33	Dumuzid and Enkimdu		12-19	My sister, let the shepherd marry you! Maiden Inana, why are you unwilling? 
-His butter is good, his milk is good
-
-2 mss. have instead: He of good butter, he of good milk
- -- all the work of the shepherd's hands is splendid. Inana, let Dumuzid marry you. You who wear jewellery, who wear šuba jewels, why are you unwilling? 
-1 ms. adds 2 lines: His butter is good, his milk is good -- all the work of the shepherd's hands is splendid.
- He will eat his good butter with you. Protector of the king, why are you unwilling?
-t.4.08.33	Dumuzid and Enkimdu		20-34	The shepherd shall not marry me! He shall not make me carry his garments of new wool. His brand new wool will not influence me. Let the farmer marry me, the maiden. With the farmer who grows colourful flax, with the farmer who grows dappled grain XX.
-
-
-The shepherd shall not marry me!
+t.4.08.33	Dumuzid and Enkimdu		12-19	My sister, let the shepherd marry you! Maiden Inana, why are you unwilling?  His butter is good, his milk is good  2 mss. have instead: He of good butter, he of good milk  -- all the work of the shepherd's hands is splendid. Inana, let Dumuzid marry you. You who wear jewellery, who wear šuba jewels, why are you unwilling?  1 ms. adds 2 lines: His butter is good, his milk is good -- all the work of the shepherd's hands is splendid.  He will eat his good butter with you. Protector of the king, why are you unwilling?
+t.4.08.33	Dumuzid and Enkimdu		20-34	The shepherd shall not marry me! He shall not make me carry his garments of new wool. His brand new wool will not influence me. Let the farmer marry me, the maiden. With the farmer who grows colourful flax, with the farmer who grows dappled grain XX.   The shepherd shall not marry me!
 t.4.08.33	Dumuzid and Enkimdu		35-39	These words XX. XXthe farmer to the shepherd. My king XX, the shepherd, Dumuzid XX. XX to say XX:
 t.4.08.33	Dumuzid and Enkimdu		40-54	In what is the farmer superior to me, the farmer to me, the farmer to me? Enkimdu, the man of the dykes and canals -- in what is that farmer superior to me? Let him give me his black garment, and I will give the farmer my black ewe for it. Let him give me his white garment, and I will give the farmer my white ewe for it. Let him pour me his best beer, and I will pour the farmer my yellow milk for it. Let him pour me his fine beer, and I will pour the farmer my soured (?) milk for it. Let him pour me his brewed beer, and I will pour the farmer my whipped milk for it. Let him pour me his beer shandy, and I will pour the farmer my XX milk for it.
-t.4.08.33	Dumuzid and Enkimdu		55-64	Let him give me his best filtered beer, and I will give the farmer my curds (?). Let him give me his best bread, and I will give the farmer my XX milk for it. Let him give me his little beans, and I will give the farmer my small cheeses for them. 
-1 ms. adds 2 lines: Let him give me his large beans, and I will give the farmer my big cheeses for them.
- After letting him eat and letting him drink, I will even leave extra butter for him, and I will leave extra milk for him. In what is the farmer superior to me?
+t.4.08.33	Dumuzid and Enkimdu		55-64	Let him give me his best filtered beer, and I will give the farmer my curds (?). Let him give me his best bread, and I will give the farmer my XX milk for it. Let him give me his little beans, and I will give the farmer my small cheeses for them.  1 ms. adds 2 lines: Let him give me his large beans, and I will give the farmer my big cheeses for them.  After letting him eat and letting him drink, I will even leave extra butter for him, and I will leave extra milk for him. In what is the farmer superior to me?
 t.4.08.33	Dumuzid and Enkimdu		65-73	He was cheerful, he was cheerful, at the edge of the riverbank, he was cheerful. On the riverbank, the shepherd on the riverbank, now the shepherd was even pasturing the sheep on the riverbank. The farmer approached the shepherd there, the shepherd pasturing the sheep on the riverbank; the farmer Enkimdu approached him there. Dumuzid XX the farmer, the king of dyke and canal. From the plain where he was, the shepherd from the plain where he was provoked a quarrel with him; the shepherd Dumuzid from the plain where he was provoked a quarrel with him.
 t.4.08.33	Dumuzid and Enkimdu		74-79	Why should I compete against you, shepherd, I against you, shepherd, I against you? Let your sheep eat the grass of the riverbank, let your sheep graze on my stubble. Let them eat grain in the jewelled (?) fields of Unug, let your kids and lambs drink water from my Surungal canal.
 t.4.08.33	Dumuzid and Enkimdu		80-83	As for me, I am a shepherd: when I am married, farmer, you are going to be counted as my friend. Farmer Enkimdu, you are going to be counted as my friend, farmer, as my friend.

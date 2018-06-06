@@ -1,56 +1,14 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.3.1.17	Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain		1-2	Say to Ibbi-Suen, my lord: this is what Išbi-Erra, your servant, says:
-t.3.1.17	Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain		3-6	You ordered me to travel to Isin and Kazallu to purchase grain. With grain reaching the exchange rate of one shekel of silver per gur, 20 talents of silver have been invested for 
-the purchase
-
-2 mss. have instead: XX
- of grain.
-t.3.1.17	Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain		7-12	I heard news that the hostile Martu have entered inside your territories. 
-I entered with 72,000 gur of grain
-
-1 ms. has instead: 72,000 gur of grain was brought
- -- the entire amount of grain -- inside Isin. Now I have let the Martu, all of them, penetrate inside the Land, and one by one I have seized all the fortifications therein. Because of the Martu, 
-I am unable to hand over
-
-2 mss. have instead: I am unable to make XX
- this grain for threshing. They are stronger than me, while I am condemned to sitting around.
-t.3.1.17	Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain		13-16	Let my lord repair 600 
-barges
-
-2 mss. have instead: boats
- of 120 gur draught each; 72 solid boats, 20 XX, 30 XX, placing (?) 50 XX and 60 (?) boat doors on the boats (?), may he also XX all the boats.
-t.3.1.17	Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain		17-21	
-Let them bring it up
-
-1 ms. has instead: May he make them go out
- by water, along the Kura and the Palištum watercourses, to the grain heaps (?) that are spread out. And I myself intend to 
-go (?)
-
-1 ms. has instead: come out
- and meet them (?). The place there where the boats moor will be under my responsibility. Let them load up huge amounts of grain (?), the entire amount of grain; it should reach (?) you.
+t.3.1.17	Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain		3-6	You ordered me to travel to Isin and Kazallu to purchase grain. With grain reaching the exchange rate of one shekel of silver per gur, 20 talents of silver have been invested for  the purchase  2 mss. have instead: XX  of grain.
+t.3.1.17	Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain		7-12	I heard news that the hostile Martu have entered inside your territories.  I entered with 72,000 gur of grain  1 ms. has instead: 72,000 gur of grain was brought  -- the entire amount of grain -- inside Isin. Now I have let the Martu, all of them, penetrate inside the Land, and one by one I have seized all the fortifications therein. Because of the Martu,  I am unable to hand over  2 mss. have instead: I am unable to make XX  this grain for threshing. They are stronger than me, while I am condemned to sitting around.
+t.3.1.17	Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain		13-16	Let my lord repair 600  barges  2 mss. have instead: boats  of 120 gur draught each; 72 solid boats, 20 XX, 30 XX, placing (?) 50 XX and 60 (?) boat doors on the boats (?), may he also XX all the boats.
+t.3.1.17	Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain		17-21	Let them bring it up  1 ms. has instead: May he make them go out  by water, along the Kura and the Palištum watercourses, to the grain heaps (?) that are spread out. And I myself intend to  go (?)  1 ms. has instead: come out  and meet them (?). The place there where the boats moor will be under my responsibility. Let them load up huge amounts of grain (?), the entire amount of grain; it should reach (?) you.
 t.3.1.17	Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain		22-23	If you have not got enough grain, I myself shall have grain brought in to you.
 t.3.1.17	Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain		24-28	My lord has become distressed about the battles in Elam. But the Elamites' grain rations have quickly been exhausted, so do not slacken your forces! Do not fall head first into their slavery, nor follow at their heels!
-t.3.1.17	Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain		29-30	I have at my disposal enough grain to meet the needs of your palace and of 
-all the cities
-
-1 ms. has instead: all your cities
- for 15 years.
-t.3.1.17	Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain		31-33	
-That I should guard for you
-
-2 mss. have instead: To guard
- 
-1 ms. adds: the city of
- Isin, and Nibru: 
-let it be my responsibility.
-
-1 ms. has instead: my lord, is this my responsibility?
- My lord should know this! end of shorter version
-t.3.1.17	Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain		34-37	My lord, I am without fear! I will not delay (?); I will not XX in their midst. Each one of Isin's and Nibru's gods may search there for faces (?); I have indeed looked for them. Their widespread people, their population XX, huge XX, are indeed healthy; the true seed is 
-indeed great there
-
-1 ms. has instead: precious
-.
+t.3.1.17	Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain		29-30	I have at my disposal enough grain to meet the needs of your palace and of  all the cities  1 ms. has instead: all your cities  for 15 years.
+t.3.1.17	Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain		31-33	That I should guard for you  2 mss. have instead: To guard   1 ms. adds: the city of  Isin, and Nibru:  let it be my responsibility.  1 ms. has instead: my lord, is this my responsibility?  My lord should know this! end of shorter version
+t.3.1.17	Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain		34-37	My lord, I am without fear! I will not delay (?); I will not XX in their midst. Each one of Isin's and Nibru's gods may search there for faces (?); I have indeed looked for them. Their widespread people, their population XX, huge XX, are indeed healthy; the true seed is  indeed great there  1 ms. has instead: precious .
 t.3.1.17	Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain		38-41	Urim, your holy city, rivalling heaven and earth, whose great prince you are XX, of which the appearance is precious, which dispenses the divine powers and makes the foundations (?) and the plans firm both in the south and in the uplands, will surely escape from the grasp and will cry XX.
 t.3.1.17	Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain		42-45	Elam, a raging dog, a destroyer, will not defile E-kiš-nu-ŋal, the sanctuary which covers heaven and earth, which has no XX. Its protective spirits shall not be split apart! My lord: the loudest roarer (?), the runner, has taken flight (?)!
 t.3.1.17	Letter from Išbi-Erra to Ibbi-Suen about the purchase of grain		46-51	May An, Enlil and Enki, who have loved Ibbi-Suen from the womb, look upon him approvingly. XX is indeed placed there; they have changed (?) their appearance. With the XX and (?) the city-gates of Urim opening, they cry Aee! If XX says, Who is my lord? -- You are the king to whom Enlil has given XX no rival!

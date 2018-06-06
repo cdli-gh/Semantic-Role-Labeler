@@ -1,22 +1,14 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.2.4.4.4	A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D)		1-4	Ancient warrior, greatly respected and forceful, with the strength of a full-grown lion! Ninurta, XX flood, great lion, fierce opponent in battle! Mighty one, who XX the enemy peoples, destroyer of cities, who turns the settlements into dust! Ninurta, great wild bull, a battering ram who XX great walls!
 t.2.4.4.4	A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D)		5	Barsud.
-t.2.4.4.4	A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D)		6-14	A flood which frightens the rebel lands, without rival! Ninurta, deathly hush, 
-XX bolt of lightning (?), XX
-
-the other ms. has instead: imbued with fearsomeness, XX, XX the enemy
-. You have made the name of King Šu-Suen known among the widespread people. When he directs big bulls and big sheep to the main courtyard of your E-šu-me-ša, the holy residence, the Igi-šu-galam in which the fates are determined, may he greet (?) you from its holy royal offering place, may Šu-Suen greet (?) you from there. XX Ninurta XX long life XX. XX long life XX for Šu-Suen.
+t.2.4.4.4	A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D)		6-14	A flood which frightens the rebel lands, without rival! Ninurta, deathly hush,  XX bolt of lightning (?), XX  the other ms. has instead: imbued with fearsomeness, XX, XX the enemy . You have made the name of King Šu-Suen known among the widespread people. When he directs big bulls and big sheep to the main courtyard of your E-šu-me-ša, the holy residence, the Igi-šu-galam in which the fates are determined, may he greet (?) you from its holy royal offering place, may Šu-Suen greet (?) you from there. XX Ninurta XX long life XX. XX long life XX for Šu-Suen.
 t.2.4.4.4	A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D)		15	Šagbatuku.
-t.2.4.4.4	A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D)		16-20	
-Ninurta, firstborn son of Enlil, XX fearsomeness.
-
+t.2.4.4.4	A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D)		16-20	Ninurta, firstborn son of Enlil, XX fearsomeness.
 t.2.4.4.4	A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D)		21	2nd barsud.
-t.2.4.4.4	A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D)		22-28	
-XX raging XX horizon XX. Ninurta, the strong one, the august provider, born of Ninlil! XX deathly hush XX Šu-Suen who is always at Enlil's service. Ninurta, may you be his great wall, may you look on him favourably; may you be Šu-Suen's great wall, may you look on him favourably.
+t.2.4.4.4	A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D)		22-28	XX raging XX horizon XX. Ninurta, the strong one, the august provider, born of Ninlil! XX deathly hush XX Šu-Suen who is always at Enlil's service. Ninurta, may you be his great wall, may you look on him favourably; may you be Šu-Suen's great wall, may you look on him favourably.
 t.2.4.4.4	A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D)		29	Sa-gida.
 t.2.4.4.4	A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D)		30	Ninurta, may you be the aid of my Šu-Suen's weapons.
 t.2.4.4.4	A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D)		31	Its ŋišgiŋal.
 t.2.4.4.4	A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D)		32-43	XX who moves fast into the heart of the mountains! Ninurta, massive stormwind over the rebel lands, devastating the people! Counsellor, who controls perfectly the divine powers of the E-kur, support of his father! Ninurta, XX who moves fast into the heart of the mountains! Ninurta, massive stormwind over the rebel lands, devastating the people! Counsellor, who controls perfectly the divine powers of the E-kur, support of his father! My king, the great strength of Enlil, from whose grasp no foreign country can escape! For Šu-Suen XX, given great strength by Father Enlil -- you, Ninurta, will destroy myriads in the battle and the fray. Ninurta, the great strength of Enlil, from whose grasp no foreign country can escape! For Šu-Suen XX, given great strength by Father Enlil -- you, Ninurta, will destroy myriads in the battle and the fray.
 t.2.4.4.4	A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D)		44-62	My king, you alone perform the ancient rites, a truly immense task. Ninurta, yellow evening light that casts fear over the Land, like holy Uraš, a fearsome dragon brandishing a terrible torch! Ninurta, you alone perform the ancient rites, a truly immense task. Ninurta, yellow evening light that casts fear over the Land, like holy Uraš, a fearsome dragon raising a terrible torch! My king, grandiloquent great warrior, confident in his strength! And may you, Šu-Suen, put your trust in him, in Lord Ninurta. May Šu-Suen, the king whom Enlil has appointed for you, be your constable. Ninurta, grandiloquent great warrior, confident in his strength! And may you, Šu-Suen, put your trust in him, in Lord Ninurta. May Šu-Suen, the king whom Enlil has appointed for you, be your constable. XX of nir stone, XX holy and fearsome XX, a truly immense task. Like XX your august strength, he has written your name on it. XX will be the guardian of his life forever. Šu-Suen! Holy and fearsome, a truly immense task. Like XX your august strength, he has written your name on it. XX will be the guardian of his life forever.
-
 t.2.4.4.4	A tigi (?) to Ninurta for Šu-Suen (Šu-Suen D)		63	Sa-ŋara.

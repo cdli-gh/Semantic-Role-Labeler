@@ -1,17 +1,7 @@
-id_text,text_name,version,l_no,text
+id_text	text_name	version	l_no	text
 t.4.07.8	A balbale to Inana as Nanaya (Inana H)	A	1-6	Worthy of An, XX, XX unsurpassed in ladyship, a throne XX a man in the house, a throne XX a woman in the shrine, a gold ornament XX on the dress, a XX pin XX the niŋlam garment.
-t.4.07.8	A balbale to Inana as Nanaya (Inana H)	A	7-15A	Let me XX on your XX -- Nanaya, its XX is good. Let me (?) XX on your breast -- Nanaya, its XX flour is sweet. Let me put XX on your navel -- Nanaya, XX. Come with me, my lady, come with me, come with me from the entrance to the shrine. May XX for you. 
-ms. c adds 1 line: Come my beloved sister, let my heart rejoice.
-
-t.4.07.8	A balbale to Inana as Nanaya (Inana H)	A	16-20	Your hand is womanly, your foot is womanly. Your conversing with a man is womanly. Your looking at a man is womanly. 
-ms. c adds 4 lines: Your XX a hand towards a man is womanly. Your XX a foot is womanly. Your XX forearm makes my heart rejoice. Your XX a foot brings me pleasure.
- As you rest against the wall, your patient heart pleases. As you bend over, your hips are particularly pleasing.
-t.4.07.8	A balbale to Inana as Nanaya (Inana H)	A	20A-29	
-mss. a and c add 2 lines: My resting against the wall is one lamb. My bending over is one and a half giŋ.
- Do not dig a canal, let me be your canal. Do not plough a field, let me be your field. Farmer, do not search for a wet place, my precious sweet, let this be your wet place. XX, let this be your furrow. XX, let this be your desire! Caring for XX, I come XX. I come XX with bread and wine.
+t.4.07.8	A balbale to Inana as Nanaya (Inana H)	A	7-15A	Let me XX on your XX -- Nanaya, its XX is good. Let me (?) XX on your breast -- Nanaya, its XX flour is sweet. Let me put XX on your navel -- Nanaya, XX. Come with me, my lady, come with me, come with me from the entrance to the shrine. May XX for you.  ms. c adds 1 line: Come my beloved sister, let my heart rejoice.
+t.4.07.8	A balbale to Inana as Nanaya (Inana H)	A	16-20	Your hand is womanly, your foot is womanly. Your conversing with a man is womanly. Your looking at a man is womanly.  ms. c adds 4 lines: Your XX a hand towards a man is womanly. Your XX a foot is womanly. Your XX forearm makes my heart rejoice. Your XX a foot brings me pleasure.  As you rest against the wall, your patient heart pleases. As you bend over, your hips are particularly pleasing.
+t.4.07.8	A balbale to Inana as Nanaya (Inana H)	A	20A-29	mss. a and c add 2 lines: My resting against the wall is one lamb. My bending over is one and a half giŋ.  Do not dig a canal, let me be your canal. Do not plough a field, let me be your field. Farmer, do not search for a wet place, my precious sweet, let this be your wet place. XX, let this be your furrow. XX, let this be your desire! Caring for XX, I come XX. I come XX with bread and wine.
 t.4.07.8	A balbale to Inana as Nanaya (Inana H)	A	30-32	You come to me with bread and wine. Come, my beloved sister, let me XX this heart. Nanaya, let me kiss you.
-t.4.07.8	A balbale to Inana as Nanaya (Inana H)	A	33	A balbale of 
-Nanaya
-
-ms. a has instead: Inana
-.
+t.4.07.8	A balbale to Inana as Nanaya (Inana H)	A	33	A balbale of  Nanaya  ms. a has instead: Inana .
