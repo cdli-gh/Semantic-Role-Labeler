@@ -1,0 +1,2726 @@
+1	Pure	pure	pure	NN	NN	_	_	2	2	SBJ	SBJ	_	_	_	_
+2	are	be	be	VBP	VBP	_	_	0	0	ROOT	ROOT	_	_	_	_
+3	the	the	the	DT	DT	_	_	4	4	NMOD	NMOD	_	_	_	_
+4	cities	city	city	NNS	NNS	_	_	2	2	PRD	PRD	_	_	_	_
+5	--	--	--	:	:	_	_	2	2	P	P	_	_	_	_
+6	and	and	and	CC	CC	_	_	2	2	COORD	COORD	_	_	_	_
+7	you	you	you	PRP	PRP	_	_	8	8	SBJ	SBJ	_	_	_	_
+8	are	be	be	VBP	VBP	_	_	6	6	CONJ	CONJ	_	_	_	_
+9	the	the	the	DT	DT	_	_	10	10	NMOD	NMOD	_	_	_	_
+10	ones	one	one	NNS	NNS	_	_	8	8	PRD	PRD	_	_	A1	_
+11	to	to	to	TO	TO	_	_	10	10	NMOD	NMOD	_	_	_	_
+12	whom	whom	whom	WP	WP	_	_	11	11	PMOD	PMOD	_	_	_	_
+13	they	they	they	PRP	PRP	_	_	14	14	SBJ	SBJ	_	_	A1	_
+14	are	be	be	VBP	VBP	_	_	10	10	NMOD	NMOD	_	_	_	_
+15	allotted	allot	allot	VBN	VBN	_	_	14	14	VC	VC	Y	allot.01	_	_
+16	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_
+17	Pure	pure	pure	NNP	NNP	_	_	18	18	SBJ	SBJ	_	_	_	_
+18	is	be	be	VBZ	VBZ	_	_	2	2	COORD	COORD	_	_	_	_
+19	Dilmun	dilmun	dilmun	NNP	NNP	_	_	20	20	NMOD	NMOD	_	_	_	_
+20	land	land	land	NN	NN	_	_	18	18	PRD	PRD	_	_	_	_
+21	.	.	.	.	.	_	_	18	18	P	P	_	_	_	_
+22	Pure	pure	pure	NNP	NNP	_	_	23	23	SBJ	SBJ	_	_	_	_
+23	is	be	be	VBZ	VBZ	_	_	18	18	PRN	PRN	_	_	_	_
+24	Sumer	sumer	sumer	NNP	NNP	_	_	23	23	PRD	PRD	_	_	_	_
+25	--	--	--	:	:	_	_	23	23	P	P	_	_	_	_
+26	and	and	and	CC	CC	_	_	2	2	COORD	COORD	_	_	_	_
+27	you	you	you	PRP	PRP	_	_	28	28	SBJ	SBJ	_	_	_	_
+28	are	be	be	VBP	VBP	_	_	26	26	CONJ	CONJ	_	_	_	_
+29	the	the	the	DT	DT	_	_	30	30	NMOD	NMOD	_	_	_	_
+30	ones	one	one	NNS	NNS	_	_	28	28	PRD	PRD	_	_	_	A1
+31	to	to	to	TO	TO	_	_	30	30	NMOD	NMOD	_	_	_	_
+32	whom	whom	whom	WP	WP	_	_	31	31	PMOD	PMOD	_	_	_	_
+33	it	it	it	PRP	PRP	_	_	34	34	SBJ	SBJ	_	_	_	A1
+34	is	be	be	VBZ	VBZ	_	_	30	30	NMOD	NMOD	_	_	_	_
+35	allotted	allot	allot	VBN	VBN	_	_	34	34	VC	VC	Y	allot.01	_	_
+36	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_
+37	Pure	pure	pure	NNP	NNP	_	_	38	38	SBJ	SBJ	_	_	_	_
+38	is	be	be	VBZ	VBZ	_	_	2	2	COORD	COORD	_	_	_	_
+39	Dilmun	dilmun	dilmun	NNP	NNP	_	_	40	40	NMOD	NMOD	_	_	_	_
+40	land	land	land	NN	NN	_	_	38	38	PRD	PRD	_	_	_	_
+41	.	.	.	.	.	_	_	38	38	P	P	_	_	_	_
+42	Pure	pure	pure	NNP	NNP	_	_	43	43	SBJ	SBJ	_	_	_	_
+43	is	be	be	VBZ	VBZ	_	_	38	38	COORD	COORD	_	_	_	_
+44	Dilmun	dilmun	dilmun	NNP	NNP	_	_	45	45	NMOD	NMOD	_	_	_	_
+45	land	land	land	NN	NN	_	_	43	43	PRD	PRD	_	_	_	_
+46	.	.	.	.	.	_	_	43	43	P	P	_	_	_	_
+47	Virginal	virginal	virginal	NNP	NNP	_	_	48	48	SBJ	SBJ	_	_	_	_
+48	is	be	be	VBZ	VBZ	_	_	43	43	COORD	COORD	_	_	_	_
+49	Dilmun	dilmun	dilmun	NNP	NNP	_	_	50	50	NMOD	NMOD	_	_	_	_
+50	land	land	land	NN	NN	_	_	48	48	PRD	PRD	_	_	_	_
+51	.	.	.	.	.	_	_	48	48	P	P	_	_	_	_
+52	Virginal	virginal	virginal	NNP	NNP	_	_	53	53	SBJ	SBJ	_	_	_	_
+53	is	be	be	VBZ	VBZ	_	_	48	48	COORD	COORD	_	_	_	_
+54	Dilmun	dilmun	dilmun	NNP	NNP	_	_	55	55	NMOD	NMOD	_	_	_	_
+55	land	land	land	NN	NN	_	_	53	53	PRD	PRD	_	_	_	_
+56	.	.	.	.	.	_	_	53	53	P	P	_	_	_	_
+57	Pristine	pristine	pristine	NNP	NNP	_	_	58	58	SBJ	SBJ	_	_	_	_
+58	is	be	be	VBZ	VBZ	_	_	53	53	PRD-PRP	PRD-PRP	_	_	_	_
+59	Dilmun	dilmun	dilmun	NNP	NNP	_	_	60	60	NMOD	NMOD	_	_	_	_
+60	land	land	land	NN	NN	_	_	58	58	PRD	PRD	_	_	_	_
+61	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_
+
+1	He	he	he	PRP	PRP	_	_	2	2	SBJ	SBJ	_	_	A0	_	_	_	_	_	_
+2	laid	lay	lay	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	lay.01	_	_	_	_	_	_	_
+3	her	her	her	PRP	PRP	_	_	2	2	OBJ	OBJ	_	_	A1	_	_	_	_	_	_
+4	down	down	down	RP	RP	_	_	2	2	PRT	PRT	_	_	_	_	_	_	_	_	_
+5	all	all	all	DT	DT	_	_	6	6	NMOD	NMOD	_	_	_	_	_	_	_	_	_
+6	alone	alone	alone	RB	RB	_	_	2	2	TMP	TMP	_	_	AM-MNR	_	_	_	_	_	_
+7	in	in	in	IN	IN	_	_	6	6	LOC	LOC	_	_	_	_	_	_	_	_	_
+8	Dilmun	dilmun	dilmun	NNP	NNP	_	_	7	7	PMOD	PMOD	_	_	_	_	_	_	_	_	_
+9	,	,	,	,	,	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_
+10	and	and	and	CC	CC	_	_	2	2	COORD	COORD	_	_	_	_	_	_	_	_	_
+11	the	the	the	DT	DT	_	_	12	12	NMOD	NMOD	_	_	_	_	_	_	_	_	_
+12	place	place	place	NN	NN	_	_	24	24	SBJ	SBJ	Y	place.08	_	_	AM-LOC	_	_	_	_
+13	where	where	where	WRB	WRB	_	_	16	16	LOC	LOC	_	_	_	_	R-AM-LOC	_	_	_	_
+14	Enki	enki	enki	NNP	NNP	_	_	15	15	SBJ	SBJ	_	_	_	_	A1	_	_	_	_
+15	had	have	have	VBD	VBD	_	_	12	12	NMOD	NMOD	_	_	_	_	_	_	_	_	_
+16	lain	lain	lain	VBN	VBN	_	_	15	15	VC	VC	Y	lain.01	_	_	_	_	_	_	_
+17	down	down	down	RP	RP	_	_	16	16	PRT	PRT	_	_	_	_	_	_	_	_	_
+18	with	with	with	IN	IN	_	_	24	24	ADV	ADV	_	_	_	_	_	_	_	_	_
+19	his	his	his	PRP$	PRP$	_	_	20	20	NMOD	NMOD	_	_	_	_	_	A1	_	_	_
+20	spouse	spouse	spouse	NN	NN	_	_	18	18	PMOD	PMOD	Y	spouse.01	_	_	_	_	_	_	_
+21	,	,	,	,	,	_	_	24	24	P	P	_	_	_	_	_	_	_	_	_
+22	that	that	that	DT	DT	_	_	23	23	NMOD	NMOD	_	_	_	_	_	_	_	_	_
+23	place	place	place	NN	NN	_	_	24	24	SBJ	SBJ	_	_	_	_	_	_	_	_	_
+24	was	be	be	VBD	VBD	_	_	10	10	CONJ	CONJ	_	_	_	_	_	_	_	_	_
+25	still	still	still	RB	RB	_	_	24	24	TMP	TMP	_	_	_	_	_	_	_	_	_
+26	virginal	virginal	virginal	JJ	JJ	_	_	24	24	PRD	PRD	_	_	_	_	_	_	_	_	_
+27	,	,	,	,	,	_	_	24	24	P	P	_	_	_	_	_	_	_	_	_
+28	that	that	that	DT	DT	_	_	29	29	NMOD	NMOD	_	_	_	_	_	_	_	_	_
+29	place	place	place	NN	NN	_	_	30	30	SBJ	SBJ	_	_	_	_	_	_	_	_	_
+30	was	be	be	VBD	VBD	_	_	24	24	COORD	COORD	_	_	_	_	_	_	_	_	_
+31	still	still	still	RB	RB	_	_	30	30	TMP	TMP	_	_	_	_	_	_	_	_	_
+32	pristine	pristine	pristine	JJ	JJ	_	_	30	30	PRD	PRD	_	_	_	_	_	_	_	_	_
+33	.	.	.	.	.	_	_	30	30	P	P	_	_	_	_	_	_	_	_	_
+34	He	he	he	PRP	PRP	_	_	35	35	SBJ	SBJ	_	_	_	_	_	_	A0	_	_
+35	laid	lay	lay	VBD	VBD	_	_	30	30	VC	VC	Y	lay.01	_	_	_	_	_	_	_
+36	her	her	her	PRP	PRP	_	_	35	35	OBJ	OBJ	_	_	_	_	_	_	A1	_	_
+37	down	down	down	RP	RP	_	_	35	35	PRT	PRT	_	_	_	_	_	_	_	_	_
+38	all	all	all	DT	DT	_	_	39	39	NMOD	NMOD	_	_	_	_	_	_	_	_	_
+39	alone	alone	alone	RB	RB	_	_	35	35	TMP	TMP	_	_	_	_	_	_	AM-TMP	_	_
+40	in	in	in	IN	IN	_	_	39	39	LOC	LOC	_	_	_	_	_	_	_	_	_
+41	Dilmun	dilmun	dilmun	NNP	NNP	_	_	40	40	PMOD	PMOD	_	_	_	_	_	_	_	_	_
+42	,	,	,	,	,	_	_	30	30	P	P	_	_	_	_	_	_	_	_	_
+43	and	and	and	CC	CC	_	_	30	30	COORD	COORD	_	_	_	_	_	_	_	_	_
+44	the	the	the	DT	DT	_	_	45	45	NMOD	NMOD	_	_	_	_	_	_	_	_	_
+45	place	place	place	NN	NN	_	_	56	56	SBJ	SBJ	Y	place.08	_	_	_	_	_	_	AM-LOC
+46	where	where	where	WRB	WRB	_	_	49	49	LOC	LOC	_	_	_	_	_	_	_	_	R-AM-LOC
+47	Enki	enki	enki	NNP	NNP	_	_	48	48	SBJ	SBJ	_	_	_	_	_	_	_	_	A0
+48	had	have	have	VBD	VBD	_	_	45	45	NMOD	NMOD	_	_	_	_	_	_	_	_	_
+49	lain	lain	lain	VBN	VBN	_	_	48	48	VC	VC	Y	lain.01	_	_	_	_	_	_	_
+50	down	down	down	RP	RP	_	_	49	49	PRT	PRT	_	_	_	_	_	_	_	_	_
+51	with	with	with	IN	IN	_	_	49	49	ADV	ADV	_	_	_	_	_	_	_	_	AM-MNR
+52	Ninsikila	ninsikila	ninsikila	NNP	NNP	_	_	51	51	PMOD	PMOD	_	_	_	_	_	_	_	_	_
+53	,	,	,	,	,	_	_	52	52	P	P	_	_	_	_	_	_	_	_	_
+54	that	that	that	DT	DT	_	_	55	55	NMOD	NMOD	_	_	_	_	_	_	_	_	_
+55	place	place	place	NN	NN	_	_	52	52	APPO	APPO	_	_	_	_	_	_	_	_	_
+56	was	be	be	VBD	VBD	_	_	61	61	TMP	TMP	_	_	_	_	_	_	_	_	_
+57	virginal	virginal	virginal	JJ	JJ	_	_	56	56	PRD	PRD	_	_	_	_	_	_	_	_	_
+58	,	,	,	,	,	_	_	61	61	P	P	_	_	_	_	_	_	_	_	_
+59	that	that	that	DT	DT	_	_	60	60	NMOD	NMOD	_	_	_	_	_	_	_	_	_
+60	place	place	place	NN	NN	_	_	61	61	SBJ	SBJ	_	_	_	_	_	_	_	_	_
+61	was	be	be	VBD	VBD	_	_	43	43	CONJ	CONJ	_	_	_	_	_	_	_	_	_
+62	pristine	pristine	pristine	JJ	JJ	_	_	61	61	PRD	PRD	_	_	_	_	_	_	_	_	_
+63	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_
+
+1	In	in	in	IN	IN	_	_	43	43	LOC	LOC	_	_	_	_	_	_	_	_	_	AM-LOC	_
+2	Dilmun	dilmun	dilmun	NNP	NNP	_	_	1	1	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_
+3	the	the	the	DT	DT	_	_	4	4	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_
+4	raven	raven	raven	NN	NN	_	_	5	5	SBJ	SBJ	_	_	A0	A0	_	_	_	_	_	_	_
+5	was	be	be	VBD	VBD	_	_	17	17	TMP	TMP	_	_	_	_	AM-TMP	_	_	_	_	_	_
+6	not	not	not	RB	RB	_	_	5	5	ADV	ADV	_	_	AM-NEG	_	_	_	_	_	_	_	_
+7	yet	yet	yet	RB	RB	_	_	6	6	AMOD	AMOD	_	_	_	_	_	_	_	_	_	_	_
+8	cawing	cawing	cawing	VBG	VBG	_	_	5	5	VC	VC	Y	cawing.01	_	_	_	_	_	_	_	_	_
+9	,	,	,	,	,	_	_	17	17	P	P	_	_	_	_	_	_	_	_	_	_	_
+10	the	the	the	DT	DT	_	_	11	11	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_
+11	partridge	partridge	partridge	NN	NN	_	_	8	8	OBJ	OBJ	_	_	A1	_	_	_	_	_	_	_	_
+12	not	not	not	RB	RB	_	_	13	13	ADV	ADV	_	_	_	AM-NEG	_	_	_	_	_	_	_
+13	cackling	cackle	cackle	VBG	VBG	_	_	8	8	COORD	COORD	Y	cackle.01	_	_	_	_	_	_	_	_	_
+14	.	.	.	.	.	_	_	5	5	P	P	_	_	_	_	_	_	_	_	_	_	_
+15	The	the	the	DT	DT	_	_	16	16	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_
+16	lion	lion	lion	NN	NN	_	_	17	17	SBJ	SBJ	_	_	_	_	A0	_	_	_	_	_	_
+17	did	do	do	VBD	VBD	_	_	31	31	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_
+18	not	not	not	RB	RB	_	_	17	17	ADV	ADV	_	_	_	_	AM-NEG	_	_	_	_	_	_
+19	slay	slay	slay	VB	VB	_	_	17	17	VC	VC	Y	slay.01	_	_	_	_	_	_	_	_	_
+20	,	,	,	,	,	_	_	19	19	P	P	_	_	_	_	_	_	_	_	_	_	_
+21	the	the	the	DT	DT	_	_	22	22	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_
+22	wolf	wolf	wolf	NN	NN	_	_	23	23	SBJ	SBJ	_	_	_	_	_	A0	_	_	_	_	_
+23	was	be	be	VBD	VBD	_	_	19	19	OBJ	OBJ	_	_	_	_	A1	_	_	_	_	_	_
+24	not	not	not	RB	RB	_	_	23	23	ADV	ADV	_	_	_	_	_	AM-NEG	_	_	_	_	_
+25	carrying	carry	carry	VBG	VBG	_	_	23	23	VC	VC	Y	carry.01	_	_	_	_	_	_	_	_	_
+26	off	off	off	IN	IN	_	_	25	25	ADV	ADV	_	_	_	_	_	AM-DIR	_	_	_	_	_
+27	lambs	lamb	lamb	NNS	NNS	_	_	26	26	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_
+28	,	,	,	,	,	_	_	31	31	P	P	_	_	_	_	_	_	_	_	_	_	_
+29	the	the	the	DT	DT	_	_	30	30	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_
+30	dog	dog	dog	NN	NN	_	_	31	31	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_
+31	had	have	have	VBD	VBD	_	_	43	43	ADV	ADV	_	_	_	_	_	_	_	_	_	AM-ADV	_
+32	not	not	not	RB	RB	_	_	31	31	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_
+33	been	be	be	VBN	VBN	_	_	31	31	VC	VC	_	_	_	_	_	_	_	_	_	_	_
+34	taught	teach	teach	VBN	VBN	_	_	33	33	VC	VC	Y	teach.01	_	_	_	_	_	_	_	_	_
+35	to	to	to	TO	TO	_	_	34	34	OPRD	OPRD	_	_	_	_	_	_	A1	_	_	_	_
+36	make	make	make	VB	VB	_	_	35	35	IM	IM	Y	make.02	_	_	_	_	_	_	_	_	_
+37	kids	kid	kid	NNS	NNS	_	_	36	36	OBJ	OBJ	_	_	_	_	_	_	_	A1	A1	_	_
+38	curl	curl	curl	VB	VB	_	_	36	36	OPRD	OPRD	Y	curl.02	_	_	_	_	_	A2	_	_	_
+39	up	up	up	RP	RP	_	_	38	38	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_
+40	,	,	,	,	,	_	_	43	43	P	P	_	_	_	_	_	_	_	_	_	_	_
+41	the	the	the	DT	DT	_	_	42	42	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_
+42	pig	pig	pig	NN	NN	_	_	43	43	SBJ	SBJ	_	_	_	_	_	_	_	_	_	A0	_
+43	had	have	have	VBD	VBD	_	_	0	0	ROOT	ROOT	_	_	_	_	_	_	_	_	_	_	_
+44	not	not	not	RB	RB	_	_	43	43	ADV	ADV	_	_	_	_	_	_	_	_	_	AM-NEG	_
+45	learned	learn	learn	VBN	VBN	_	_	43	43	VC	VC	Y	learn.01	_	_	_	_	_	_	_	_	_
+46	that	that	that	IN	IN	_	_	45	45	OBJ	OBJ	_	_	_	_	_	_	_	_	_	A1	_
+47	grain	grain	grain	NN	NN	_	_	48	48	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	A1
+48	was	be	be	VBD	VBD	_	_	46	46	SUB	SUB	_	_	_	_	_	_	_	_	_	_	_
+49	to	to	to	TO	TO	_	_	48	48	VC	VC	_	_	_	_	_	_	_	_	_	_	_
+50	be	be	be	VB	VB	_	_	49	49	IM	IM	_	_	_	_	_	_	_	_	_	_	_
+51	eaten	eat	eat	VBN	VBN	_	_	50	50	VC	VC	Y	eat.01	_	_	_	_	_	_	_	_	_
+52	.	.	.	.	.	_	_	43	43	P	P	_	_	_	_	_	_	_	_	_	_	_
+
+1	When	when	when	WRB	WRB	_	_	4	4	TMP	TMP	_	_	R-AM-TMP	_	_	_
+2	a	a	a	DT	DT	_	_	3	3	NMOD	NMOD	_	_	_	_	_	_
+3	widow	widow	widow	NN	NN	_	_	4	4	SBJ	SBJ	_	_	A0	_	_	_
+4	has	have	have	VBZ	VBZ	_	_	13	13	TMP	TMP	_	_	_	AM-TMP	_	_
+5	spread	spread	spread	VBN	VBN	_	_	4	4	VC	VC	Y	spread.03	_	_	_	_
+6	malt	malt	malt	NN	NN	_	_	5	5	OBJ	OBJ	_	_	A1	_	_	_
+7	on	on	on	IN	IN	_	_	5	5	LOC	LOC	_	_	AM-LOC	_	_	_
+8	the	the	the	DT	DT	_	_	9	9	NMOD	NMOD	_	_	_	_	_	_
+9	roof	roof	roof	NN	NN	_	_	7	7	PMOD	PMOD	_	_	_	_	_	_
+10	,	,	,	,	,	_	_	13	13	P	P	_	_	_	_	_	_
+11	the	the	the	DT	DT	_	_	12	12	NMOD	NMOD	_	_	_	_	_	_
+12	birds	bird	bird	NNS	NNS	_	_	13	13	SBJ	SBJ	_	_	_	A0	_	_
+13	did	do	do	VBD	VBD	_	_	0	0	ROOT	ROOT	_	_	_	_	_	_
+14	not	not	not	RB	RB	_	_	13	13	ADV	ADV	_	_	_	AM-NEG	_	_
+15	yet	yet	yet	RB	RB	_	_	13	13	ADV	ADV	_	_	_	AM-TMP	_	_
+16	eat	eat	eat	VB	VB	_	_	13	13	VC	VC	Y	eat.01	_	_	_	_
+17	that	that	that	IN	IN	_	_	16	16	OBJ	OBJ	_	_	_	A1	_	_
+18	malt	malt	malt	VB	VB	_	_	19	19	HMOD	HMOD	_	_	_	_	_	_
+19	up	up	up	RP	RP	_	_	17	17	SUB	SUB	_	_	_	_	_	_
+20	there	there	there	RB	RB	_	_	19	19	AMOD	AMOD	_	_	_	_	_	_
+21	.	.	.	.	.	_	_	13	13	P	P	_	_	_	_	_	_
+22	The	the	the	DT	DT	_	_	23	23	NMOD	NMOD	_	_	_	_	_	_
+23	pigeon	pigeon	pigeon	NN	NN	_	_	25	25	SBJ	SBJ	_	_	_	_	A0	_
+24	then	then	then	RB	RB	_	_	25	25	TMP	TMP	_	_	_	_	AM-TMP	_
+25	did	do	do	VBD	VBD	_	_	18	18	OBJ	OBJ	_	_	_	_	_	_
+26	not	not	not	RB	RB	_	_	25	25	ADV	ADV	_	_	_	_	AM-NEG	_
+27	tuck	tuck	tuck	VB	VB	_	_	25	25	VC	VC	Y	tuck.01	_	_	_	_
+28	the	the	the	DT	DT	_	_	29	29	NMOD	NMOD	_	_	_	_	_	_
+29	head	head	head	NN	NN	_	_	27	27	OBJ	OBJ	_	_	_	_	A1	_
+30	under	under	under	IN	IN	_	_	27	27	LOC	LOC	_	_	_	_	A2	_
+31	its	its	its	PRP$	PRP$	_	_	32	32	NMOD	NMOD	_	_	_	_	_	A1
+32	wing	wing	wing	NN	NN	_	_	30	30	PMOD	PMOD	Y	wing.02	_	_	_	_
+33	.	.	.	.	.	_	_	13	13	P	P	_	_	_	_	_	_
+
+1	No	no	no	DT	DT	_	_	2	2	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	eye-diseases	eye-disease	eye-disease	NNS	NNS	_	_	3	3	SBJ	SBJ	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	said	say	say	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	say.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	there	there	there	RB	RB	_	_	3	3	LOC	LOC	_	_	AM-LOC	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	:	:	:	:	:	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	I	i	i	PRP	PRP	_	_	7	7	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	am	be	be	VBP	VBP	_	_	3	3	OBJ	OBJ	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	the	the	the	DT	DT	_	_	10	10	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	eye	eye	eye	NN	NN	_	_	10	10	NMOD	NMOD	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_
+10	disease	disease	disease	NN	NN	_	_	7	7	PRD	PRD	Y	disease.01	_	A2	_	_	_	_	_	_	_	_	_	_	_	_
+11	.	.	.	.	.	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	No	no	no	DT	DT	_	_	13	13	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	headache	headache	headache	NN	NN	_	_	14	14	SBJ	SBJ	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_
+14	said	say	say	VBD	VBD	_	_	3	3	COORD	COORD	Y	say.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	there	there	there	RB	RB	_	_	14	14	LOC	LOC	_	_	_	_	AM-LOC	_	_	_	_	_	_	_	_	_	_	_
+16	:	:	:	:	:	_	_	7	7	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	I	i	i	PRP	PRP	_	_	18	18	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	am	be	be	VBP	VBP	_	_	14	14	OBJ	OBJ	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_
+19	the	the	the	DT	DT	_	_	20	20	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	headache	headache	headache	NN	NN	_	_	18	18	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	.	.	.	.	.	_	_	14	14	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	No	no	no	DT	DT	_	_	24	24	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	old	old	old	JJ	JJ	_	_	24	24	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	woman	woman	woman	NN	NN	_	_	28	28	SBJ	SBJ	_	_	_	_	_	A0	A0	_	_	_	_	_	_	_	_	_
+25	belonging	belong	belong	VBG	VBG	_	_	24	24	APPO	APPO	Y	belong.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	to	to	to	TO	TO	_	_	25	25	ADV	ADV	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_
+27	it	it	it	PRP	PRP	_	_	26	26	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	said	say	say	VBD	VBD	_	_	14	14	COORD	COORD	Y	say.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	there	there	there	EX	EX	_	_	28	28	LOC-PRD	LOC-PRD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	:	:	:	:	:	_	_	28	28	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	I	i	i	PRP	PRP	_	_	32	32	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	am	be	be	VBP	VBP	_	_	28	28	OBJ	OBJ	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_
+33	an	an	an	DT	DT	_	_	35	35	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	old	old	old	JJ	JJ	_	_	35	35	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	woman	woman	woman	NN	NN	_	_	32	32	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	.	.	.	.	.	_	_	28	28	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	No	no	no	DT	DT	_	_	39	39	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	old	old	old	JJ	JJ	_	_	39	39	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	man	man	man	NN	NN	_	_	43	43	SBJ	SBJ	_	_	_	_	_	_	_	A0	A0	_	_	_	_	_	_	_
+40	belonging	belong	belong	VBG	VBG	_	_	39	39	APPO	APPO	Y	belong.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	to	to	to	TO	TO	_	_	40	40	ADV	ADV	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_
+42	it	it	it	PRP	PRP	_	_	41	41	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	said	say	say	VBD	VBD	_	_	28	28	OBJ	OBJ	Y	say.01	_	_	_	_	A1	_	_	_	_	_	_	_	_	_
+44	there	there	there	EX	EX	_	_	20	20	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	:	:	:	:	:	_	_	43	43	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	I	i	i	PRP	PRP	_	_	47	47	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	am	be	be	VBP	VBP	_	_	43	43	OBJ	OBJ	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_
+48	an	an	an	DT	DT	_	_	50	50	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	old	old	old	JJ	JJ	_	_	50	50	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	man	man	man	NN	NN	_	_	47	47	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+51	.	.	.	.	.	_	_	43	43	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+52	No	no	no	DT	DT	_	_	53	53	NMOD	NMOD	_	_	_	_	_	_	_	_	_	AM-NEG	_	_	_	_	_	_
+53	maiden	maiden	maiden	NN	NN	_	_	43	43	DEP	DEP	Y	maiden.01	_	_	_	_	_	_	A1	_	_	_	_	_	_	_
+54	in	in	in	IN	IN	_	_	53	53	LOC	LOC	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_
+55	her	her	her	PRP$	PRP$	_	_	58	58	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_
+56	unwashed	unwashed	unwashed	JJ	JJ	_	_	58	58	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+57	state	state	state	NN	NN	_	_	58	58	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_
+58	XX	xx	xx	NN	NN	_	_	54	54	PMOD	PMOD	Y	xx.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+59	in	in	in	IN	IN	_	_	58	58	LOC	LOC	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_
+60	the	the	the	DT	DT	_	_	61	61	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+61	city	city	city	NN	NN	_	_	59	59	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+62	.	.	.	.	.	_	_	28	28	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+63	No	no	no	DT	DT	_	_	64	64	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+64	man	man	man	NN	NN	_	_	68	68	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	A0	A0	_	_	_
+65	dredging	dredge	dredge	VBG	VBG	_	_	64	64	APPO	APPO	Y	dredge.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+66	a	a	a	DT	DT	_	_	67	67	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+67	river	river	river	NN	NN	_	_	65	65	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_
+68	said	say	say	VBD	VBD	_	_	28	28	OBJ	OBJ	Y	say.01	_	_	_	_	A1	_	_	_	_	_	_	_	_	_
+69	there	there	there	RB	RB	_	_	68	68	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_	_	AM-LOC	_	_	_
+70	:	:	:	:	:	_	_	39	39	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+71	It	it	it	PRP	PRP	_	_	72	72	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_
+72	is	be	be	VBZ	VBZ	_	_	68	68	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_
+73	getting	get	get	VBG	VBG	_	_	72	72	VC	VC	Y	get.03	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+74	dark	dark	dark	JJ	JJ	_	_	73	73	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_	A2	_	_
+75	.	.	.	.	.	_	_	68	68	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+76	No	no	no	DT	DT	_	_	77	77	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+77	herald	herald	herald	NN	NN	_	_	78	78	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_
+78	made	make	make	VBD	VBD	_	_	68	68	OBJ	OBJ	Y	make.01	_	_	_	_	_	_	_	_	_	_	A1	_	_	_
+79	the	the	the	DT	DT	_	_	80	80	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+80	rounds	round	round	NNS	NNS	_	_	78	78	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_
+81	in	in	in	IN	IN	_	_	78	78	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-LOC	_
+82	his	his	his	PRP$	PRP$	_	_	84	84	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1
+83	border	border	border	NN	NN	_	_	84	84	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A2
+84	district	district	district	NN	NN	_	_	81	81	PMOD	PMOD	Y	district.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+85	.	.	.	.	.	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	No	no	no	DT	DT	_	_	2	2	NMOD	NMOD	_	_	_	_	_
+2	singer	singer	singer	NN	NN	_	_	3	3	SBJ	SBJ	_	_	A0	_	_
+3	sang	sing	sing	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	sing.01	_	_	_
+4	an	an	an	DT	DT	_	_	5	5	NMOD	NMOD	_	_	_	_	_
+5	elulam	elulam	elulam	NN	NN	_	_	3	3	OBJ	OBJ	_	_	A1	_	_
+6	there	there	there	RB	RB	_	_	3	3	LOC	LOC	_	_	AM-LOC	_	_
+7	.	.	.	.	.	_	_	3	3	P	P	_	_	_	_	_
+8	No	no	no	DT	DT	_	_	9	9	NMOD	NMOD	_	_	_	_	_
+9	wailings	wailing	wailing	NNS	NNS	_	_	10	10	SBJ	SBJ	_	_	_	A1	_
+10	were	be	be	VBD	VBD	_	_	3	3	TMP	TMP	_	_	AM-TMP	_	_
+11	wailed	wail	wail	VBN	VBN	_	_	10	10	VC	VC	Y	wail.01	_	_	_
+12	in	in	in	IN	IN	_	_	11	11	LOC	LOC	_	_	_	AM-LOC	_
+13	the	the	the	DT	DT	_	_	14	14	NMOD	NMOD	_	_	_	_	_
+14	city	city	city	NN	NN	_	_	16	16	NMOD	NMOD	_	_	_	_	A1
+15	's	's	's	POS	POS	_	_	14	14	SUFFIX	SUFFIX	_	_	_	_	_
+16	outskirts	outskirts	outskirts	NNS	NNS	_	_	12	12	PMOD	PMOD	Y	outskirts.01	_	_	_
+17	there	there	there	RB	RB	_	_	16	16	LOC	LOC	_	_	_	_	_
+18	.	.	.	.	.	_	_	3	3	P	P	_	_	_	_	_
+
+1	Ninsikila	ninsikila	ninsikila	NNP	NNP	_	_	2	2	SBJ	SBJ	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	said	say	say	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	say.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	to	to	to	TO	TO	_	_	2	2	ADV	ADV	_	_	A2	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	her	her	her	PRP$	PRP$	_	_	5	5	NMOD	NMOD	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_
+5	father	father	father	NN	NN	_	_	3	3	PMOD	PMOD	Y	father.01	_	A0	_	_	_	_	_	_	_	_	_	_	_	_
+6	Enki	enki	enki	NNP	NNP	_	_	2	2	TMP	TMP	_	_	AM-TMP	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	:	:	:	:	:	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	You	you	you	PRP	PRP	_	_	9	9	SBJ	SBJ	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_
+9	have	have	have	VBP	VBP	_	_	2	2	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	given	give	give	VBN	VBN	_	_	9	9	VC	VC	Y	give.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	a	a	a	DT	DT	_	_	12	12	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	city	city	city	NN	NN	_	_	10	10	OBJ	OBJ	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_
+13	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	You	you	you	PRP	PRP	_	_	15	15	SBJ	SBJ	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_
+15	have	have	have	VBP	VBP	_	_	2	2	OBJ	OBJ	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	given	give	give	VBN	VBN	_	_	15	15	VC	VC	Y	give.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	a	a	a	DT	DT	_	_	18	18	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	city	city	city	NN	NN	_	_	16	16	OBJ	OBJ	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_
+19	.	.	.	.	.	_	_	15	15	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	What	what	what	WP	WP	_	_	21	21	SBJ	SBJ	_	_	_	_	_	_	R-A0	R-A0	_	_	_	_	_	_	_	_
+21	does	do	do	VBZ	VBZ	_	_	15	15	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	your	your	your	PRP$	PRP$	_	_	21	21	SBJ	SBJ	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_
+23	giving	give	give	VBG	VBG	_	_	21	21	VC	VC	Y	give.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	avail	avail	avail	VB	VB	_	_	21	21	VC	VC	Y	avail.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	me	me	me	PRP	PRP	_	_	24	24	OBJ	OBJ	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_
+26	?	?	?	.	.	_	_	21	21	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	You	you	you	PRP	PRP	_	_	28	28	SBJ	SBJ	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_
+28	have	have	have	VBP	VBP	_	_	21	21	COORD	COORD	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_
+29	given	give	give	VBN	VBN	_	_	28	28	VC	VC	Y	give.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	a	a	a	DT	DT	_	_	31	31	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	city	city	city	NN	NN	_	_	29	29	OBJ	OBJ	_	_	_	_	_	_	_	_	A1	A0	_	_	_	_	_	_
+32	,	,	,	,	,	_	_	31	31	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	Dilmun	dilmun	dilmun	NNP	NNP	_	_	31	31	APPO	APPO	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	You	you	you	PRP	PRP	_	_	36	36	SBJ	SBJ	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_
+36	have	have	have	VBP	VBP	_	_	31	31	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	given	give	give	VBN	VBN	_	_	36	36	VC	VC	Y	give.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	a	a	a	DT	DT	_	_	39	39	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	city	city	city	NN	NN	_	_	37	37	OBJ	OBJ	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_
+40	.	.	.	.	.	_	_	28	28	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	What	what	what	WP	WP	_	_	42	42	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	R-A0	R-A0	_	_	_	_
+42	does	do	do	VBZ	VBZ	_	_	28	28	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	your	your	your	PRP$	PRP$	_	_	42	42	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_
+44	giving	give	give	VBG	VBG	_	_	42	42	VC	VC	Y	give.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	avail	avail	avail	VB	VB	_	_	42	42	VC	VC	Y	avail.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	me	me	me	PRP	PRP	_	_	45	45	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_
+47	?	?	?	.	.	_	_	42	42	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	You	you	you	PRP	PRP	_	_	49	49	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_
+49	have	have	have	VBP	VBP	_	_	42	42	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	given	give	give	VBN	VBN	_	_	49	49	VC	VC	Y	give.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+51	XX	xx	xx	RP	RP	_	_	50	50	MNR	MNR	_	_	_	_	_	_	_	_	_	_	_	_	A2	_	_	_
+52	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+53	You	you	you	PRP	PRP	_	_	54	54	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_
+54	have	have	have	VBP	VBP	_	_	45	45	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_
+55	given	give	give	VBN	VBN	_	_	54	54	VC	VC	Y	give.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	a	a	a	DT	DT	_	_	57	57	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+57	city	city	city	NN	NN	_	_	55	55	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_
+58	.	.	.	.	.	_	_	54	54	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+59	What	what	what	WP	WP	_	_	60	60	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R-A0	_
+60	avails	avail	avail	VBZ	VBZ	_	_	54	54	VC	VC	Y	avail.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+61	me	me	me	PRP	PRP	_	_	60	60	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_
+62	your	your	your	PRP$	PRP$	_	_	63	63	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0
+63	giving	give	give	VBG	VBG	_	_	50	50	OBJ	OBJ	Y	give.01	_	_	_	_	_	_	_	_	_	_	A1	_	_	_
+64	?	?	?	.	.	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	You	you	you	PRP	PRP	_	_	2	2	SBJ	SBJ	_	_	A0	_	_	_	_	_	_	_
+2	have	have	have	VBP	VBP	_	_	0	0	ROOT	ROOT	_	_	_	_	_	_	_	_	_	_
+3	given	give	give	VBN	VBN	_	_	2	2	VC	VC	Y	give.01	_	_	_	_	_	_	_	_
+4	XX	xx	xx	NNP	NNP	_	_	3	3	OBJ	OBJ	_	_	A2	_	_	_	_	_	_	_
+5	,	,	,	,	,	_	_	4	4	P	P	_	_	_	_	_	_	_	_	_	_
+6	a	a	a	DT	DT	_	_	7	7	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+7	city	city	city	NN	NN	_	_	4	4	APPO	APPO	_	_	_	A0	_	_	_	_	_	_
+8	that	that	that	WDT	WDT	_	_	9	9	SBJ	SBJ	_	_	_	R-A0	_	_	_	_	_	_
+9	has	have	have	VBZ	VBZ	_	_	7	7	NMOD	NMOD	Y	have.03	_	_	_	_	_	_	_	_
+10	no	no	no	DT	DT	_	_	12	12	NMOD	NMOD	_	_	_	_	AM-NEG	_	_	_	_	_
+11	river	river	river	NN	NN	_	_	12	12	NMOD	NMOD	_	_	_	_	A1	_	_	_	_	_
+12	quay	quay	quay	NN	NN	_	_	9	9	OBJ	OBJ	Y	quay.01	_	A1	_	A0	_	_	_	_
+13	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_
+14	You	you	you	PRP	PRP	_	_	15	15	SBJ	SBJ	_	_	_	_	_	A0	_	_	_	_
+15	have	have	have	VBP	VBP	_	_	12	12	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+16	given	give	give	VBN	VBN	_	_	15	15	VC	VC	Y	give.01	_	_	_	_	_	_	_	_
+17	a	a	a	DT	DT	_	_	18	18	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+18	city	city	city	NN	NN	_	_	16	16	OBJ	OBJ	_	_	_	_	_	A1	_	_	_	_
+19	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_
+20	What	what	what	WP	WP	_	_	21	21	SBJ	SBJ	_	_	_	_	_	_	R-A0	R-A0	_	_
+21	does	do	do	VBZ	VBZ	_	_	8	8	SUB	SUB	_	_	_	_	_	_	_	_	_	_
+22	your	your	your	PRP$	PRP$	_	_	21	21	SBJ	SBJ	_	_	_	_	_	_	A0	A0	_	_
+23	giving	give	give	VBG	VBG	_	_	21	21	VC	VC	Y	give.01	_	_	_	_	_	_	_	_
+24	avail	avail	avail	VB	VB	_	_	21	21	VC	VC	Y	avail.01	_	_	_	_	_	_	_	_
+25	me	me	me	PRP	PRP	_	_	24	24	OBJ	OBJ	_	_	_	_	_	_	_	A1	_	_
+26	?	?	?	.	.	_	_	21	21	P	P	_	_	_	_	_	_	_	_	_	_
+27	A	a	a	DT	DT	_	_	28	28	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+28	city	city	city	NN	NN	_	_	23	23	OBJ	OBJ	_	_	_	_	_	_	A1	_	A0	_
+29	that	that	that	WDT	WDT	_	_	30	30	SBJ	SBJ	_	_	_	_	_	_	_	_	R-A0	_
+30	has	have	have	VBZ	VBZ	_	_	28	28	NMOD	NMOD	Y	have.03	_	_	_	_	_	_	_	_
+31	no	no	no	DT	DT	_	_	32	32	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+32	fields	fields	fields	NNS	NNS	_	_	30	30	OBJ	OBJ	_	_	_	_	_	_	_	_	A1	A1
+33	,	,	,	,	,	_	_	32	32	P	P	_	_	_	_	_	_	_	_	_	_
+34	glebe	glebe	glebe	VBP	VBP	_	_	32	32	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+35	or	or	or	CC	CC	_	_	34	34	COORD	COORD	_	_	_	_	_	_	_	_	_	_
+36	furrow	furrow	furrow	VBP	VBP	_	_	35	35	CONJ	CONJ	Y	furrow.01	_	_	_	_	_	_	_	_
+
+1	(	-lrb-	-lrb-	(	(	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_
+2	Enki	enki	enki	NNP	NNP	_	_	3	3	SBJ	SBJ	_	_	A0	_	_	_	_	_	_	_
+3	answered	answer	answer	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	answer.01	_	_	_	_	_	_	_	_
+4	Ninsikila	ninsikila	ninsikila	NNP	NNP	_	_	3	3	OBJ	OBJ	_	_	A1	_	_	_	_	_	_	_
+5	:	:	:	:	:	_	_	4	4	P	P	_	_	_	_	_	_	_	_	_	_
+6	)	-rrb-	-rrb-	)	)	_	_	4	4	P	P	_	_	_	_	_	_	_	_	_	_
+7	When	when	when	WRB	WRB	_	_	9	9	TMP	TMP	_	_	_	R-AM-TMP	_	_	_	_	_	_
+8	Utu	utu	utu	NNP	NNP	_	_	9	9	SBJ	SBJ	_	_	_	A0	_	_	_	_	_	_
+9	steps	steps	steps	VBZ	VBZ	_	_	3	3	TMP	TMP	Y	step.03	AM-TMP	_	_	_	_	_	_	_
+10	up	up	up	RP	RP	_	_	9	9	PRT	PRT	_	_	_	_	_	_	_	_	_	_
+11	into	into	into	IN	IN	_	_	9	9	ADV	ADV	_	_	_	A1	_	_	_	_	_	_
+12	heaven	heaven	heaven	JJ	JJ	_	_	15	15	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+13	,	,	,	,	,	_	_	15	15	P	P	_	_	_	_	_	_	_	_	_	_
+14	fresh	fresh	fresh	JJ	JJ	_	_	15	15	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+15	waters	waters	waters	NNS	NNS	_	_	16	16	SBJ	SBJ	_	_	_	_	A1	_	_	_	_	_
+16	shall	shall	shall	MD	MD	_	_	11	11	PMOD	PMOD	_	_	_	_	AM-MOD	_	_	_	_	_
+17	run	run	run	VB	VB	_	_	16	16	VC	VC	Y	run.01	_	_	_	_	_	_	_	_
+18	out	out	out	IN	IN	_	_	17	17	ADV	ADV	_	_	_	_	AM-DIR	_	_	_	_	_
+19	of	of	of	IN	IN	_	_	18	18	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_
+20	the	the	the	DT	DT	_	_	21	21	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+21	ground	ground	ground	NN	NN	_	_	19	19	PMOD	PMOD	Y	ground.01	_	_	_	A1	_	_	_	_
+22	for	for	for	IN	IN	_	_	21	21	NMOD	NMOD	_	_	_	_	_	A0	_	_	_	_
+23	you	you	you	PRP	PRP	_	_	22	22	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_
+24	from	from	from	IN	IN	_	_	21	21	NMOD	NMOD	_	_	_	_	_	A0	_	_	_	_
+25	the	the	the	DT	DT	_	_	27	27	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+26	standing	standing	standing	NN	NN	_	_	27	27	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+27	vessels	vessel	vessel	NNS	NNS	_	_	24	24	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_
+28	(	-lrb-	-lrb-	(	(	_	_	44	44	P	P	_	_	_	_	_	_	_	_	_	_
+29	?	?	?	.	.	_	_	16	16	P	P	_	_	_	_	_	_	_	_	_	_
+30	)	-rrb-	-rrb-	)	)	_	_	16	16	P	P	_	_	_	_	_	_	_	_	_	_
+31	on	on	on	IN	IN	_	_	9	9	ADV	ADV	_	_	_	A1	_	_	_	_	_	_
+32	Ezen	ezen	ezen	NNP	NNP	_	_	37	37	NMOD	NMOD	_	_	_	_	_	_	A0	_	_	_
+33	's	's	's	POS	POS	_	_	32	32	SUFFIX	SUFFIX	_	_	_	_	_	_	_	_	_	_
+34	(	-lrb-	-lrb-	(	(	_	_	37	37	PRN	PRN	_	_	_	_	_	_	_	_	_	_
+35	?	?	?	.	.	_	_	34	34	P	P	_	_	_	_	_	_	_	_	_	_
+36	)	-rrb-	-rrb-	)	)	_	_	34	34	P	P	_	_	_	_	_	_	_	_	_	_
+37	shore	shore	shore	NN	NN	_	_	31	31	PMOD	PMOD	Y	shore.01	_	_	_	_	_	_	_	_
+38	,	,	,	,	,	_	_	37	37	P	P	_	_	_	_	_	_	_	_	_	_
+39	from	from	from	IN	IN	_	_	37	37	NMOD	NMOD	_	_	_	_	_	_	A0	_	_	_
+40	Nanna	nanna	nanna	NNP	NNP	_	_	44	44	NMOD	NMOD	_	_	_	_	_	_	_	A1	_	_
+41	's	's	's	POS	POS	_	_	40	40	SUFFIX	SUFFIX	_	_	_	_	_	_	_	_	_	_
+42	radiant	radiant	radiant	JJ	JJ	_	_	44	44	NMOD	NMOD	_	_	_	_	_	_	_	AM-MNR	_	_
+43	high	high	high	JJ	JJ	_	_	44	44	NMOD	NMOD	_	_	_	_	_	_	_	A2	_	_
+44	temple	temple	temple	NN	NN	_	_	39	39	PMOD	PMOD	Y	temple.01	_	_	_	_	_	_	_	_
+45	,	,	,	,	,	_	_	37	37	P	P	_	_	_	_	_	_	_	_	_	_
+46	from	from	from	IN	IN	_	_	37	37	NMOD	NMOD	_	_	_	_	_	_	A1	_	_	_
+47	the	the	the	DT	DT	_	_	48	48	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+48	mouth	mouth	mouth	NN	NN	_	_	46	46	PMOD	PMOD	Y	mouth.01	_	_	_	_	_	_	_	_
+49	of	of	of	IN	IN	_	_	48	48	NMOD	NMOD	_	_	_	_	_	_	_	_	A1	_
+50	the	the	the	DT	DT	_	_	51	51	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+51	waters	waters	waters	NNS	NNS	_	_	49	49	PMOD	PMOD	_	_	_	_	_	_	_	_	_	A1
+52	running	run	run	VBG	VBG	_	_	51	51	APPO	APPO	Y	run.01	_	_	_	_	_	_	_	_
+53	underground	underground	underground	RB	RB	_	_	52	52	MNR	MNR	_	_	_	_	_	_	_	_	_	AM-MNR
+54	.	.	.	.	.	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_
+
+1	May	may	may	MD	MD	_	_	36	36	EXTR	EXTR	_	_	AM-MOD	_	_	_	_	A1	_	_	_	_
+2	the	the	the	DT	DT	_	_	3	3	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+3	waters	waters	waters	NNS	NNS	_	_	1	1	SBJ	SBJ	_	_	A1	_	_	_	_	_	_	_	_	_
+4	rise	rise	rise	VB	VB	_	_	1	1	VC	VC	Y	rise.01	_	_	_	_	_	_	_	_	_	_
+5	up	up	up	RB	RB	_	_	4	4	ADV	ADV	_	_	AM-DIR	_	_	_	_	_	_	_	_	_
+6	from	from	from	IN	IN	_	_	5	5	AMOD	AMOD	_	_	_	_	_	_	_	_	_	_	_	_
+7	it	it	it	PRP	PRP	_	_	6	6	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+8	into	into	into	IN	IN	_	_	4	4	ADV	ADV	_	_	A2	_	_	_	_	_	_	_	_	_
+9	your	your	your	PRP$	PRP$	_	_	11	11	NMOD	NMOD	_	_	_	A0	_	_	_	_	_	_	_	_
+10	great	great	great	JJ	JJ	_	_	11	11	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+11	basins	basin	basin	NNS	NNS	_	_	8	8	PMOD	PMOD	Y	basin.01	_	_	_	_	_	_	_	_	_	_
+12	.	.	.	.	.	_	_	1	1	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+13	May	may	may	NNP	NNP	_	_	1	1	VC	VC	_	_	_	_	_	_	_	_	_	_	_	_
+14	your	your	your	PRP$	PRP$	_	_	15	15	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+15	city	city	city	NN	NN	_	_	16	16	NMOD	NMOD	_	_	_	_	A0	_	_	_	_	_	_	_
+16	drink	drink	drink	NN	NN	_	_	17	17	NMOD	NMOD	Y	drink.01	_	_	_	_	_	_	_	_	_	_
+17	water	water	water	NN	NN	_	_	13	13	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+18	aplenty	aplenty	aplenty	RB	RB	_	_	17	17	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+19	from	from	from	IN	IN	_	_	18	18	AMOD	AMOD	_	_	_	_	_	_	_	_	_	_	_	_
+20	them	them	them	PRP	PRP	_	_	19	19	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+21	.	.	.	.	.	_	_	1	1	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+22	May	may	may	NNP	NNP	_	_	23	23	NAME	NAME	_	_	_	_	_	_	_	_	_	_	_	_
+23	Dilmun	dilmun	dilmun	NNP	NNP	_	_	1	1	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_
+24	drink	drink	drink	NN	NN	_	_	1	1	VC	VC	Y	drink.01	_	_	_	_	_	_	_	_	_	_
+25	water	water	water	NN	NN	_	_	24	24	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_
+26	aplenty	aplenty	aplenty	RB	RB	_	_	24	24	MNR	MNR	_	_	_	_	_	_	_	_	_	_	_	_
+27	from	from	from	IN	IN	_	_	24	24	ADV	ADV	_	_	_	_	_	A0	_	_	_	_	_	_
+28	them	them	them	PRP	PRP	_	_	27	27	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+29	.	.	.	.	.	_	_	1	1	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+30	May	may	may	MD	MD	_	_	1	1	TMP	TMP	_	_	_	_	_	_	_	_	_	_	_	_
+31	your	your	your	PRP$	PRP$	_	_	32	32	NMOD	NMOD	_	_	_	_	_	_	A0	_	_	_	_	_
+32	pools	pool	pool	NNS	NNS	_	_	36	36	SBJ	SBJ	Y	pool.01	_	_	_	_	_	_	_	_	_	_
+33	of	of	of	IN	IN	_	_	32	32	NMOD	NMOD	_	_	_	_	_	_	A1	_	_	_	_	_
+34	salt	salt	salt	NN	NN	_	_	35	35	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+35	water	water	water	NN	NN	_	_	33	33	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+36	become	become	become	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	become.01	_	_	_	_	_	_	_	_	_	_
+37	pools	pool	pool	NNS	NNS	_	_	36	36	PRD	PRD	Y	pool.01	_	_	_	_	_	A2	_	_	_	_
+38	of	of	of	IN	IN	_	_	37	37	NMOD	NMOD	_	_	_	_	_	_	_	_	A1	_	_	_
+39	fresh	fresh	fresh	JJ	JJ	_	_	40	40	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+40	water	water	water	NN	NN	_	_	38	38	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+41	.	.	.	.	.	_	_	36	36	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+42	May	may	may	NNP	NNP	_	_	45	45	SBJ	SBJ	_	_	_	_	_	_	_	_	_	A1	_	_
+43	your	your	your	PRP$	PRP$	_	_	44	44	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+44	city	city	city	NN	NN	_	_	45	45	SBJ	SBJ	_	_	_	_	_	_	_	_	_	A1	_	_
+45	become	become	become	VBD	VBD	_	_	36	36	COORD	COORD	Y	become.01	_	_	_	_	_	_	_	_	_	_
+46	an	an	an	DT	DT	_	_	47	47	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+47	emporium	emporium	emporium	NN	NN	_	_	45	45	PRD	PRD	_	_	_	_	_	_	_	_	_	A2	_	_
+48	on	on	on	IN	IN	_	_	45	45	LOC	LOC	_	_	_	_	_	_	_	_	_	AM-LOC	_	_
+49	the	the	the	DT	DT	_	_	53	53	NAME	NAME	_	_	_	_	_	_	_	_	_	_	_	_
+50	quay	quay	quay	NNP	NNP	_	_	53	53	NAME	NAME	_	_	_	_	_	_	_	_	_	_	_	_
+51	for	for	for	IN	IN	_	_	53	53	NAME	NAME	_	_	_	_	_	_	_	_	_	_	_	_
+52	the	the	the	DT	DT	_	_	53	53	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+53	Land	land	land	NNP	NNP	_	_	48	48	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+54	.	.	.	.	.	_	_	45	45	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+55	May	may	may	NNP	NNP	_	_	56	56	NAME	NAME	_	_	_	_	_	_	_	_	_	_	_	_
+56	Dilmun	dilmun	dilmun	NNP	NNP	_	_	57	57	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	A1	_
+57	become	become	become	VBD	VBD	_	_	45	45	TMP	TMP	Y	become.01	_	_	_	_	_	_	_	AM-TMP	_	_
+58	an	an	an	DT	DT	_	_	59	59	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+59	emporium	emporium	emporium	NN	NN	_	_	57	57	PRD	PRD	Y	emporium.01	_	_	_	_	_	_	_	_	A2	_
+60	on	on	on	IN	IN	_	_	59	59	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_	A1
+61	the	the	the	DT	DT	_	_	65	65	NAME	NAME	_	_	_	_	_	_	_	_	_	_	_	_
+62	quay	quay	quay	NNP	NNP	_	_	65	65	NAME	NAME	_	_	_	_	_	_	_	_	_	_	_	_
+63	for	for	for	IN	IN	_	_	65	65	NAME	NAME	_	_	_	_	_	_	_	_	_	_	_	_
+64	the	the	the	DT	DT	_	_	65	65	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+65	Land	land	land	NNP	NNP	_	_	60	60	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+66	.	.	.	.	.	_	_	36	36	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	At	at	at	IN	IN	_	_	54	54	LOC	LOC	_	_	_	_	_	_	_	AM-LOC
+2	that	that	that	DT	DT	_	_	3	3	NMOD	NMOD	_	_	_	_	_	_	_	_
+3	moment	moment	moment	NN	NN	_	_	1	1	PMOD	PMOD	_	_	_	_	_	_	_	_
+4	,	,	,	,	,	_	_	1	1	P	P	_	_	_	_	_	_	_	_
+5	on	on	on	IN	IN	_	_	1	1	COORD	COORD	_	_	_	_	_	_	_	_
+6	that	that	that	DT	DT	_	_	7	7	NMOD	NMOD	_	_	_	_	_	_	_	_
+7	day	day	day	NN	NN	_	_	5	5	PMOD	PMOD	_	_	_	_	_	_	_	_
+8	,	,	,	,	,	_	_	5	5	P	P	_	_	_	_	_	_	_	_
+9	and	and	and	CC	CC	_	_	5	5	COORD	COORD	_	_	_	_	_	_	_	_
+10	under	under	under	IN	IN	_	_	16	16	LOC	LOC	_	_	AM-LOC	_	_	_	_	_
+11	that	that	that	DT	DT	_	_	12	12	NMOD	NMOD	_	_	_	_	_	_	_	_
+12	sun	sun	sun	NN	NN	_	_	10	10	PMOD	PMOD	_	_	_	_	_	_	_	_
+13	,	,	,	,	,	_	_	16	16	P	P	_	_	_	_	_	_	_	_
+14	when	when	when	WRB	WRB	_	_	16	16	TMP	TMP	_	_	R-AM-TMP	_	_	_	_	_
+15	Utu	utu	utu	NNP	NNP	_	_	16	16	SBJ	SBJ	_	_	A1	_	_	_	_	_
+16	stepped	step	step	VBD	VBD	_	_	9	9	CONJ	CONJ	Y	step.01	_	_	_	_	_	_
+17	up	up	up	RP	RP	_	_	16	16	PRT	PRT	_	_	_	_	_	_	_	_
+18	into	into	into	IN	IN	_	_	16	16	DIR	DIR	_	_	A2	_	_	_	_	_
+19	heaven	heaven	heaven	RB	RB	_	_	18	18	PMOD	PMOD	_	_	_	_	_	_	_	_
+20	,	,	,	,	,	_	_	16	16	P	P	_	_	_	_	_	_	_	_
+21	from	from	from	IN	IN	_	_	16	16	ADV	ADV	_	_	A3	_	_	_	_	_
+22	the	the	the	DT	DT	_	_	24	24	NMOD	NMOD	_	_	_	_	_	_	_	_
+23	standing	standing	standing	VBG	VBG	_	_	24	24	NMOD	NMOD	_	_	_	_	_	_	_	_
+24	vessels	vessel	vessel	NNS	NNS	_	_	21	21	PMOD	PMOD	_	_	_	_	_	_	_	_
+25	(	-lrb-	-lrb-	(	(	_	_	24	24	APPO	APPO	_	_	_	_	_	_	_	_
+26	?	?	?	.	.	_	_	25	25	P	P	_	_	_	_	_	_	_	_
+27	)	-rrb-	-rrb-	)	)	_	_	25	25	P	P	_	_	_	_	_	_	_	_
+28	on	on	on	IN	IN	_	_	24	24	NMOD	NMOD	_	_	_	_	_	_	_	_
+29	Ezen	ezen	ezen	NNP	NNP	_	_	34	34	NMOD	NMOD	_	_	_	A0	_	_	_	_
+30	's	's	's	POS	POS	_	_	29	29	SUFFIX	SUFFIX	_	_	_	_	_	_	_	_
+31	(	-lrb-	-lrb-	(	(	_	_	23	23	PRN	PRN	_	_	_	_	_	_	_	_
+32	?	?	?	.	.	_	_	31	31	P	P	_	_	_	_	_	_	_	_
+33	)	-rrb-	-rrb-	)	)	_	_	31	31	P	P	_	_	_	_	_	_	_	_
+34	shore	shore	shore	NN	NN	_	_	28	28	PMOD	PMOD	Y	shore.01	_	_	_	_	_	_
+35	,	,	,	,	,	_	_	34	34	P	P	_	_	_	_	_	_	_	_
+36	from	from	from	IN	IN	_	_	34	34	NMOD	NMOD	_	_	_	A0	_	_	_	_
+37	Nanna	nanna	nanna	NNP	NNP	_	_	41	41	NMOD	NMOD	_	_	_	_	A1	_	_	_
+38	's	's	's	POS	POS	_	_	37	37	SUFFIX	SUFFIX	_	_	_	_	_	_	_	_
+39	radiant	radiant	radiant	JJ	JJ	_	_	41	41	NMOD	NMOD	_	_	_	_	AM-MNR	_	_	_
+40	high	high	high	JJ	JJ	_	_	41	41	NMOD	NMOD	_	_	_	_	A2	_	_	_
+41	temple	temple	temple	NN	NN	_	_	36	36	PMOD	PMOD	Y	temple.01	_	_	_	_	_	_
+42	,	,	,	,	,	_	_	34	34	P	P	_	_	_	_	_	_	_	_
+43	from	from	from	IN	IN	_	_	34	34	NMOD	NMOD	_	_	_	A0	_	_	_	_
+44	the	the	the	DT	DT	_	_	45	45	NMOD	NMOD	_	_	_	_	_	_	_	_
+45	mouth	mouth	mouth	NN	NN	_	_	43	43	PMOD	PMOD	Y	mouth.01	_	_	_	_	_	_
+46	of	of	of	IN	IN	_	_	45	45	NMOD	NMOD	_	_	_	_	_	A1	_	_
+47	the	the	the	DT	DT	_	_	48	48	NMOD	NMOD	_	_	_	_	_	_	_	_
+48	waters	waters	waters	NNS	NNS	_	_	46	46	PMOD	PMOD	_	_	_	_	_	_	A0	_
+49	running	run	run	VBG	VBG	_	_	48	48	APPO	APPO	Y	run.01	_	_	_	_	_	_
+50	underground	underground	underground	NN	NN	_	_	49	49	OBJ	OBJ	_	_	_	_	_	_	A1	_
+51	,	,	,	,	,	_	_	54	54	P	P	_	_	_	_	_	_	_	_
+52	fresh	fresh	fresh	JJ	JJ	_	_	53	53	NMOD	NMOD	_	_	_	_	_	_	_	_
+53	waters	waters	waters	NNS	NNS	_	_	54	54	SBJ	SBJ	_	_	_	_	_	_	_	A1
+54	ran	run	run	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	run.01	_	_	_	_	_	_
+55	out	out	out	IN	IN	_	_	54	54	DIR	DIR	_	_	_	_	_	_	_	AM-DIR
+56	of	of	of	IN	IN	_	_	55	55	PMOD	PMOD	_	_	_	_	_	_	_	_
+57	the	the	the	DT	DT	_	_	58	58	NMOD	NMOD	_	_	_	_	_	_	_	_
+58	ground	ground	ground	NN	NN	_	_	56	56	PMOD	PMOD	_	_	_	_	_	_	_	_
+59	for	for	for	IN	IN	_	_	54	54	ADV	ADV	_	_	_	_	_	_	_	AM-PNC
+60	her	her	her	PRP	PRP	_	_	59	59	PMOD	PMOD	_	_	_	_	_	_	_	_
+61	.	.	.	.	.	_	_	54	54	P	P	_	_	_	_	_	_	_	_
+
+1	The	the	the	DT	DT	_	_	2	2	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	waters	waters	waters	NNS	NNS	_	_	3	3	SBJ	SBJ	_	_	A1	_	_	_	_	_	_	_	_	_	_	_
+3	rose	rise	rise	VBD	VBD	_	_	22	22	NMOD	NMOD	Y	rise.01	_	_	_	_	_	_	_	_	_	_	_	_
+4	up	up	up	RB	RB	_	_	3	3	ADV	ADV	_	_	A2	_	_	_	_	_	_	_	_	_	_	_
+5	from	from	from	IN	IN	_	_	4	4	AMOD	AMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	it	it	it	PRP	PRP	_	_	5	5	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	into	into	into	IN	IN	_	_	3	3	ADV	ADV	_	_	A2	_	_	_	_	_	_	_	_	_	_	_
+8	her	her	her	PRP$	PRP$	_	_	10	10	NMOD	NMOD	_	_	_	A0	_	_	_	_	_	_	_	_	_	_
+9	great	great	great	JJ	JJ	_	_	10	10	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	basins	basin	basin	NNS	NNS	_	_	7	7	PMOD	PMOD	Y	basin.01	_	_	_	_	_	_	_	_	_	_	_	_
+11	.	.	.	.	.	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	Her	her	her	PRP$	PRP$	_	_	15	15	NMOD	NMOD	_	_	_	_	A0	A1	_	_	_	_	_	_	_	_
+13	city	city	city	NN	NN	_	_	14	14	NMOD	NMOD	_	_	_	_	A1	_	_	_	_	_	_	_	_	_
+14	drank	drank	drank	NN	NN	_	_	15	15	NMOD	NMOD	Y	drank.01	_	_	_	A1	_	_	_	_	_	_	_	_
+15	water	water	water	NN	NN	_	_	16	16	NMOD	NMOD	Y	water.01	_	_	_	_	_	_	_	_	_	_	_	_
+16	aplenty	aplenty	aplenty	RB	RB	_	_	3	3	ADV	ADV	_	_	AM-ADV	_	_	_	_	_	_	_	_	_	_	_
+17	from	from	from	IN	IN	_	_	16	16	AMOD	AMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	them	them	them	PRP	PRP	_	_	17	17	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	.	.	.	.	.	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	Dilmun	dilmun	dilmun	NNP	NNP	_	_	21	21	NAME	NAME	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	drank	drank	drank	NNP	NNP	_	_	22	22	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	water	water	water	NN	NN	_	_	33	33	SBJ	SBJ	_	_	A1	_	_	_	_	A1	_	_	_	_	_	_
+23	aplenty	aplenty	aplenty	RB	RB	_	_	22	22	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	from	from	from	IN	IN	_	_	23	23	AMOD	AMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	them	them	them	PRP	PRP	_	_	24	24	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	.	.	.	.	.	_	_	33	33	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	Her	her	her	PRP$	PRP$	_	_	28	28	NMOD	NMOD	_	_	_	_	_	_	A1	_	_	_	_	_	_	_
+28	pools	pool	pool	NNS	NNS	_	_	33	33	SBJ	SBJ	Y	pool.01	_	_	_	_	_	A1	_	_	_	_	_	_
+29	of	of	of	IN	IN	_	_	28	28	NMOD	NMOD	_	_	_	_	_	_	A1	_	_	_	_	_	_	_
+30	salt	salt	salt	NN	NN	_	_	31	31	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	water	water	water	NN	NN	_	_	29	29	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	indeed	indeed	indeed	RB	RB	_	_	33	33	ADV	ADV	_	_	_	_	_	_	_	AM-DIS	_	_	_	_	_	_
+33	became	become	become	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	become.01	_	_	_	_	_	_	_	_	_	_	_	_
+34	pools	pool	pool	NNS	NNS	_	_	33	33	PRD	PRD	Y	pool.01	_	_	_	_	_	A2	_	_	_	_	_	_
+35	of	of	of	IN	IN	_	_	34	34	NMOD	NMOD	_	_	_	_	_	_	_	_	A1	_	_	_	_	_
+36	fresh	fresh	fresh	JJ	JJ	_	_	37	37	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	water	water	water	NN	NN	_	_	35	35	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	.	.	.	.	.	_	_	33	33	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	Her	her	her	PRP$	PRP$	_	_	40	40	NMOD	NMOD	_	_	_	_	_	_	_	_	_	A1	_	_	_	_
+40	fields	fields	fields	NNS	NNS	_	_	33	33	OBJ	OBJ	Y	field.02	_	_	_	_	_	A1	_	_	_	_	_	_
+41	,	,	,	,	,	_	_	40	40	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	glebe	glebe	glebe	NN	NN	_	_	40	40	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	and	and	and	CC	CC	_	_	42	42	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	furrows	furrow	furrow	VBZ	VBZ	_	_	43	43	CONJ	CONJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	indeed	indeed	indeed	RB	RB	_	_	44	44	ADV	ADV	_	_	_	_	_	_	_	_	_	_	AM-DIS	_	_	_
+46	produced	produce	produce	VBN	VBN	_	_	44	44	VC	VC	Y	produce.01	_	_	_	_	_	_	_	_	_	_	_	_
+47	grain	grain	grain	NN	NN	_	_	46	46	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	A1	_	_	_
+48	for	for	for	IN	IN	_	_	47	47	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	her	her	her	PRP	PRP	_	_	48	48	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	.	.	.	.	.	_	_	33	33	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+51	Her	her	her	PRP$	PRP$	_	_	52	52	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+52	city	city	city	NN	NN	_	_	54	54	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	A1	_	_
+53	indeed	indeed	indeed	RB	RB	_	_	54	54	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+54	became	become	become	VBD	VBD	_	_	33	33	COORD	COORD	Y	become.01	_	_	_	_	_	_	_	_	_	_	_	_
+55	an	an	an	DT	DT	_	_	56	56	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	emporium	emporium	emporium	NN	NN	_	_	54	54	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	A2	_	_
+57	on	on	on	IN	IN	_	_	54	54	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_	AM-LOC	_	_
+58	the	the	the	DT	DT	_	_	62	62	NAME	NAME	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+59	quay	quay	quay	NNP	NNP	_	_	62	62	NAME	NAME	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+60	for	for	for	IN	IN	_	_	62	62	NAME	NAME	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+61	the	the	the	DT	DT	_	_	62	62	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+62	Land	land	land	NNP	NNP	_	_	57	57	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+63	.	.	.	.	.	_	_	54	54	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+64	Dilmun	dilmun	dilmun	NNP	NNP	_	_	66	66	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	A1	_
+65	indeed	indeed	indeed	RB	RB	_	_	66	66	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+66	became	become	become	VBD	VBD	_	_	54	54	COORD	COORD	Y	become.01	_	_	_	_	_	_	_	_	_	_	_	_
+67	an	an	an	DT	DT	_	_	68	68	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+68	emporium	emporium	emporium	NN	NN	_	_	66	66	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	A2	_
+69	on	on	on	IN	IN	_	_	68	68	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+70	the	the	the	DT	DT	_	_	74	74	NAME	NAME	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+71	quay	quay	quay	NNP	NNP	_	_	74	74	NAME	NAME	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+72	for	for	for	IN	IN	_	_	74	74	NAME	NAME	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+73	the	the	the	DT	DT	_	_	74	74	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+74	Land	land	land	NNP	NNP	_	_	69	69	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+75	.	.	.	.	.	_	_	74	74	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+76	At	at	at	IN	IN	_	_	74	74	TMP	TMP	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+77	that	that	that	DT	DT	_	_	78	78	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+78	moment	moment	moment	NN	NN	_	_	76	76	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+79	,	,	,	,	,	_	_	66	66	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+80	on	on	on	IN	IN	_	_	66	66	TMP	TMP	_	_	_	_	_	_	_	_	_	_	_	_	AM-TMP	_
+81	that	that	that	DT	DT	_	_	82	82	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+82	day	day	day	NN	NN	_	_	80	80	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+83	,	,	,	,	,	_	_	66	66	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+84	and	and	and	CC	CC	_	_	66	66	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+85	under	under	under	IN	IN	_	_	92	92	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-LOC
+86	that	that	that	DT	DT	_	_	87	87	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+87	sun	sun	sun	NN	NN	_	_	85	85	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+88	,	,	,	,	,	_	_	85	85	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+89	so	so	so	IN	IN	_	_	85	85	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+90	it	it	it	PRP	PRP	_	_	92	92	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	A1
+91	indeed	indeed	indeed	RB	RB	_	_	92	92	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-DIS
+92	happened	happen	happen	VBD	VBD	_	_	84	84	CONJ	CONJ	Y	happen.01	_	_	_	_	_	_	_	_	_	_	_	_
+93	.	.	.	.	.	_	_	33	33	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	All	all	all	DT	DT	_	_	2	2	SBJ	SBJ	_	_	A0	_	_	_	_	_	_	_	_	_	_
+2	alone	alone	alone	VBP	VBP	_	_	29	29	SBJ	SBJ	Y	alone.01	_	_	_	_	_	_	_	_	_	_	_
+3	the	the	the	DT	DT	_	_	5	5	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	wise	wise	wise	JJ	JJ	_	_	5	5	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	one	one	one	CD	CD	_	_	2	2	OBJ	OBJ	_	_	A1	_	_	_	_	_	_	_	_	_	_
+6	,	,	,	,	,	_	_	29	29	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	toward	toward	toward	IN	IN	_	_	29	29	TMP	TMP	_	_	_	_	_	AM-TMP	_	_	_	_	_	AM-TMP	_
+8	Nintur	nintur	nintur	NNP	NNP	_	_	7	7	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	,	,	,	,	,	_	_	29	29	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	the	the	the	DT	DT	_	_	11	11	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	country	country	country	NN	NN	_	_	13	13	NMOD	NMOD	_	_	_	A1	_	_	_	_	_	_	_	_	_
+12	's	's	's	POS	POS	_	_	11	11	SUFFIX	SUFFIX	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	mother	mother	mother	NN	NN	_	_	29	29	SBJ	SBJ	Y	mother.01	_	A0	_	A0	_	A0	_	_	_	A0	_
+14	,	,	,	,	,	_	_	13	13	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	Enki	enki	enki	NNP	NNP	_	_	13	13	APPO	APPO	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	,	,	,	,	,	_	_	13	13	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	the	the	the	DT	DT	_	_	19	19	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	wise	wise	wise	JJ	JJ	_	_	19	19	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	one	one	one	CD	CD	_	_	13	13	APPO	APPO	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	,	,	,	,	,	_	_	29	29	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	toward	toward	toward	IN	IN	_	_	29	29	TMP	TMP	_	_	_	_	_	AM-TMP	_	_	_	_	_	AM-TMP	_
+22	Nintur	nintur	nintur	NNP	NNP	_	_	21	21	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	,	,	,	,	,	_	_	29	29	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	the	the	the	DT	DT	_	_	25	25	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	country	country	country	NN	NN	_	_	27	27	NMOD	NMOD	_	_	_	_	A1	_	_	_	_	_	_	_	_
+26	's	's	's	POS	POS	_	_	25	25	SUFFIX	SUFFIX	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	mother	mother	mother	NN	NN	_	_	29	29	SBJ	SBJ	Y	mother.01	_	_	A0	A0	_	A0	_	_	_	_	_
+28	,	,	,	,	,	_	_	13	13	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	was	be	be	VBD	VBD	_	_	0	0	ROOT	ROOT	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	digging	dig	dig	VBG	VBG	_	_	29	29	VC	VC	Y	dig.03	_	_	_	_	_	_	_	_	_	_	_
+31	his	his	his	PRP$	PRP$	_	_	32	32	NMOD	NMOD	_	_	_	_	_	_	A0	_	_	_	_	_	_
+32	phallus	phallus	phallus	NN	NN	_	_	30	30	OBJ	OBJ	Y	phallus.01	_	_	_	A1	_	_	_	_	_	_	_
+33	into	into	into	IN	IN	_	_	30	30	DIR	DIR	_	_	_	_	_	A2	_	_	_	_	_	_	_
+34	the	the	the	DT	DT	_	_	35	35	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	dykes	dyke	dyke	NNS	NNS	_	_	33	33	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	,	,	,	,	,	_	_	30	30	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	plunging	plunge	plunge	VBG	VBG	_	_	30	30	COORD	COORD	Y	plunge.02	_	_	_	_	_	_	_	_	_	_	_
+38	his	his	his	PRP$	PRP$	_	_	39	39	NMOD	NMOD	_	_	_	_	_	_	_	_	A0	_	_	_	_
+39	phallus	phallus	phallus	NN	NN	_	_	37	37	OBJ	OBJ	Y	phallus.01	_	_	_	_	_	A1	_	_	_	_	_
+40	into	into	into	IN	IN	_	_	37	37	DIR	DIR	_	_	_	_	_	_	_	A2	_	_	_	_	_
+41	the	the	the	DT	DT	_	_	42	42	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	reedbeds	reedbed	reedbed	NNS	NNS	_	_	40	40	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	.	.	.	.	.	_	_	29	29	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	The	the	the	DT	DT	_	_	46	46	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	august	august	august	JJ	JJ	_	_	46	46	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	one	one	one	CD	CD	_	_	47	47	SBJ	SBJ	_	_	_	_	_	_	_	_	_	A0	_	A0	_
+47	pulled	pull	pull	VBD	VBD	_	_	29	29	COORD	COORD	Y	pull.01	_	_	_	_	_	_	_	_	_	_	_
+48	his	his	his	PRP$	PRP$	_	_	50	50	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	A0	_	_
+49	phallus	phallus	phallus	NN	NN	_	_	50	50	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	A1	_	_
+50	aside	aside	aside	NN	NN	_	_	47	47	OBJ	OBJ	Y	aside.01	_	_	_	_	_	_	_	A1	_	_	_
+51	and	and	and	CC	CC	_	_	47	47	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_
+52	cried	cry	cry	VBD	VBD	_	_	51	51	CONJ	CONJ	Y	cry.03	_	_	_	_	_	_	_	_	_	_	_
+53	out	out	out	RP	RP	_	_	52	52	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_
+54	:	:	:	:	:	_	_	52	52	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+55	No	no	no	DT	DT	_	_	56	56	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	man	man	man	NN	NN	_	_	57	57	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	A0
+57	take	take	take	VB	VB	_	_	52	52	ADV	ADV	Y	take.01	_	_	_	_	_	_	_	_	_	A1	_
+58	me	me	me	PRP	PRP	_	_	57	57	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	A1
+59	in	in	in	IN	IN	_	_	52	52	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_	AM-LOC	_
+60	the	the	the	DT	DT	_	_	61	61	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+61	marsh	marsh	marsh	NN	NN	_	_	59	59	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+62	.	.	.	.	.	_	_	29	29	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Enki	enki	enki	NNP	NNP	_	_	2	2	SBJ	SBJ	_	_	A0	_	_	_	_	_	_	_	_	_	_	_
+2	cried	cry	cry	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	cry.03	_	_	_	_	_	_	_	_	_	_	_	_
+3	out	out	out	RP	RP	_	_	2	2	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	:	:	:	:	:	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	By	by	by	IN	IN	_	_	2	2	MNR	MNR	_	_	AM-MNR	_	_	_	_	_	_	_	_	_	_	_
+6	the	the	the	DT	DT	_	_	7	7	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	life	life	life	NN	NN	_	_	9	9	NMOD	NMOD	_	_	_	A0	_	_	_	_	_	_	_	_	_	_
+8	's	's	's	POS	POS	_	_	7	7	SUFFIX	SUFFIX	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	breath	breath	breath	NN	NN	_	_	5	5	PMOD	PMOD	Y	breath.01	_	_	_	_	_	_	_	_	_	_	_	_
+10	of	of	of	IN	IN	_	_	9	9	NMOD	NMOD	_	_	_	A1	_	_	_	_	_	_	_	_	_	_
+11	heaven	heaven	heaven	NN	NN	_	_	10	10	PMOD	PMOD	_	_	_	_	A0	_	_	_	_	_	_	_	_	_
+12	I	i	i	PRP	PRP	_	_	13	13	SBJ	SBJ	_	_	_	_	A0	A1	_	_	_	_	_	_	_	_
+13	adjure	adjure	adjure	VBP	VBP	_	_	11	11	NMOD	NMOD	Y	adjure.01	_	_	_	_	_	_	_	_	_	_	_	_
+14	you	you	you	PRP	PRP	_	_	13	13	OBJ	OBJ	_	_	_	_	A1	_	_	_	_	_	_	_	_	_
+15	.	.	.	.	.	_	_	13	13	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	Lie	lie	lie	VB	VB	_	_	13	13	COORD	COORD	Y	lie.01	_	_	_	_	_	_	_	_	_	_	_	_
+17	down	down	down	RP	RP	_	_	16	16	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	for	for	for	IN	IN	_	_	16	16	ADV	ADV	_	_	_	_	_	A2	_	_	_	_	_	_	_	_
+19	me	me	me	PRP	PRP	_	_	18	18	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	in	in	in	IN	IN	_	_	16	16	LOC	LOC	_	_	_	_	_	A2	_	_	_	_	_	_	_	_
+21	the	the	the	DT	DT	_	_	22	22	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	marsh	marsh	marsh	NN	NN	_	_	20	20	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	,	,	,	,	,	_	_	16	16	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	lie	lie	lie	VB	VB	_	_	16	16	COORD	COORD	Y	lie.01	_	_	_	_	_	_	_	_	_	_	_	_
+25	down	down	down	RP	RP	_	_	24	24	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	for	for	for	IN	IN	_	_	24	24	ADV	ADV	_	_	_	_	_	_	A2	_	_	_	_	_	_	_
+27	me	me	me	PRP	PRP	_	_	26	26	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	in	in	in	IN	IN	_	_	24	24	LOC	LOC	_	_	_	_	_	_	A2	_	_	_	_	_	_	_
+29	the	the	the	DT	DT	_	_	30	30	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	marsh	marsh	marsh	NN	NN	_	_	28	28	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	,	,	,	,	,	_	_	24	24	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	that	that	that	DT	DT	_	_	33	33	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	would	would	would	MD	MD	_	_	9	9	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	be	be	be	VB	VB	_	_	33	33	VC	VC	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	joyous	joyous	joyous	JJ	JJ	_	_	34	34	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	Enki	enki	enki	NNP	NNP	_	_	38	38	SBJ	SBJ	_	_	_	_	_	_	_	A0	_	_	_	_	_	_
+38	distributed	distribute	distribute	VBD	VBD	_	_	2	2	COORD	COORD	Y	distribute.01	_	_	_	_	_	_	_	_	_	_	_	_
+39	his	his	his	PRP$	PRP$	_	_	40	40	NMOD	NMOD	_	_	_	_	_	_	_	_	A0	_	_	_	_	_
+40	semen	seman	seman	NNS	NNS	_	_	38	38	OBJ	OBJ	Y	seman.01	_	_	_	_	_	A1	_	A1	_	_	_	_
+41	destined	destine	destine	VBN	VBN	_	_	40	40	APPO	APPO	Y	destine.01	_	_	_	_	_	_	_	_	_	_	_	_
+42	for	for	for	IN	IN	_	_	38	38	ADV	ADV	_	_	_	_	_	_	_	A2	_	_	_	_	_	_
+43	Damgalnuna	damgalnuna	damgalnuna	NNP	NNP	_	_	42	42	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	.	.	.	.	.	_	_	38	38	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	He	he	he	PRP	PRP	_	_	46	46	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	A0	A0	_	_
+46	poured	pour	pour	VBD	VBD	_	_	41	41	TMP	TMP	Y	pour.01	_	_	_	_	_	_	_	AM-TMP	_	_	_	_
+47	semen	seman	seman	NNS	NNS	_	_	46	46	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	A1	A1	_	_
+48	into	into	into	IN	IN	_	_	46	46	DIR	DIR	_	_	_	_	_	_	_	_	_	_	A3	_	_	_
+49	Ninhursaŋa	ninhursaŋa	ninhursaŋa	NNP	NNP	_	_	51	51	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	A0	_	_
+50	's	's	's	POS	POS	_	_	49	49	SUFFIX	SUFFIX	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+51	womb	womb	womb	NN	NN	_	_	48	48	PMOD	PMOD	Y	womb.01	_	_	_	_	_	_	_	_	_	_	_	_
+52	and	and	and	CC	CC	_	_	38	38	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+53	she	she	she	PRP	PRP	_	_	54	54	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	A0	_
+54	conceived	conceive	conceive	VBD	VBD	_	_	52	52	CONJ	CONJ	Y	conceive.01	_	_	_	_	_	_	_	_	_	_	_	_
+55	the	the	the	DT	DT	_	_	56	56	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	semen	seman	seman	NNS	NNS	_	_	54	54	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	A1	_
+57	in	in	in	IN	IN	_	_	56	56	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_	_	AM-LOC	_
+58	the	the	the	DT	DT	_	_	59	59	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+59	womb	womb	womb	NN	NN	_	_	57	57	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+60	,	,	,	,	,	_	_	56	56	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+61	the	the	the	DT	DT	_	_	62	62	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+62	semen	seman	seman	NNS	NNS	_	_	56	56	APPO	APPO	Y	seman.01	_	_	_	_	_	_	_	_	_	_	_	_
+63	of	of	of	IN	IN	_	_	62	62	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	A1
+64	Enki	enki	enki	NNP	NNP	_	_	63	63	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+65	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	But	but	but	CC	CC	_	_	5	5	DEP	DEP	_	_	_
+2	her	her	her	PRP$	PRP$	_	_	4	4	NMOD	NMOD	_	_	_
+3	one	one	one	CD	CD	_	_	4	4	NMOD	NMOD	_	_	_
+4	month	month	month	NN	NN	_	_	5	5	SBJ	SBJ	_	_	_
+5	was	be	be	VBD	VBD	_	_	0	0	ROOT	ROOT	_	_	_
+6	one	one	one	CD	CD	_	_	7	7	NMOD	NMOD	_	_	_
+7	day	day	day	NN	NN	_	_	5	5	PRD	PRD	_	_	_
+8	,	,	,	,	,	_	_	5	5	P	P	_	_	_
+9	but	but	but	CC	CC	_	_	5	5	COORD	COORD	_	_	_
+10	her	her	her	PRP	PRP	_	_	12	12	NMOD	NMOD	_	_	_
+11	two	two	two	CD	CD	_	_	12	12	NMOD	NMOD	_	_	_
+12	months	month	month	NNS	NNS	_	_	13	13	SBJ	SBJ	_	_	_
+13	were	be	be	VBD	VBD	_	_	9	9	CONJ	CONJ	_	_	_
+14	two	two	two	CD	CD	_	_	15	15	NMOD	NMOD	_	_	_
+15	days	days	days	NNS	NNS	_	_	13	13	PRD	PRD	_	_	_
+16	,	,	,	,	,	_	_	13	13	P	P	_	_	_
+17	but	but	but	CC	CC	_	_	13	13	COORD	COORD	_	_	_
+18	her	her	her	PRP$	PRP$	_	_	20	20	NMOD	NMOD	_	_	A0
+19	three	three	three	CD	CD	_	_	20	20	NMOD	NMOD	_	_	_
+20	months	month	month	NNS	NNS	_	_	21	21	SBJ	SBJ	_	_	_
+21	were	be	be	VBD	VBD	_	_	17	17	CONJ	CONJ	_	_	_
+22	three	three	three	CD	CD	_	_	23	23	NMOD	NMOD	_	_	_
+23	days	days	days	NNS	NNS	_	_	21	21	PRD	PRD	_	_	_
+24	,	,	,	,	,	_	_	21	21	P	P	_	_	_
+25	but	but	but	CC	CC	_	_	21	21	COORD	COORD	_	_	_
+26	her	her	her	PRP$	PRP$	_	_	28	28	NMOD	NMOD	_	_	_
+27	four	four	four	CD	CD	_	_	28	28	NMOD	NMOD	_	_	_
+28	months	month	month	NNS	NNS	_	_	29	29	SBJ	SBJ	_	_	_
+29	were	be	be	VBD	VBD	_	_	25	25	CONJ	CONJ	_	_	_
+30	four	four	four	CD	CD	_	_	31	31	NMOD	NMOD	_	_	_
+31	days	days	days	NNS	NNS	_	_	29	29	PRD	PRD	_	_	_
+32	,	,	,	,	,	_	_	29	29	P	P	_	_	_
+33	but	but	but	CC	CC	_	_	29	29	COORD	COORD	_	_	_
+34	her	her	her	PRP$	PRP$	_	_	36	36	NMOD	NMOD	_	_	_
+35	five	five	five	CD	CD	_	_	36	36	NMOD	NMOD	_	_	_
+36	months	month	month	NNS	NNS	_	_	37	37	SBJ	SBJ	_	_	_
+37	were	be	be	VBD	VBD	_	_	33	33	CONJ	CONJ	_	_	_
+38	five	five	five	CD	CD	_	_	39	39	NMOD	NMOD	_	_	_
+39	days	days	days	NNS	NNS	_	_	37	37	PRD	PRD	_	_	_
+40	,	,	,	,	,	_	_	37	37	P	P	_	_	_
+41	but	but	but	CC	CC	_	_	37	37	COORD	COORD	_	_	_
+42	her	her	her	PRP$	PRP$	_	_	44	44	NMOD	NMOD	_	_	_
+43	six	six	six	CD	CD	_	_	44	44	NMOD	NMOD	_	_	_
+44	months	month	month	NNS	NNS	_	_	45	45	SBJ	SBJ	_	_	_
+45	were	be	be	VBD	VBD	_	_	41	41	CONJ	CONJ	_	_	_
+46	six	six	six	CD	CD	_	_	47	47	NMOD	NMOD	_	_	_
+47	days	days	days	NNS	NNS	_	_	45	45	PRD	PRD	_	_	_
+48	,	,	,	,	,	_	_	45	45	P	P	_	_	_
+49	but	but	but	CC	CC	_	_	45	45	COORD	COORD	_	_	_
+50	her	her	her	PRP$	PRP$	_	_	52	52	NMOD	NMOD	_	_	_
+51	seven	seven	seven	CD	CD	_	_	52	52	NMOD	NMOD	_	_	_
+52	months	month	month	NNS	NNS	_	_	53	53	SBJ	SBJ	_	_	_
+53	were	be	be	VBD	VBD	_	_	49	49	CONJ	CONJ	_	_	_
+54	seven	seven	seven	CD	CD	_	_	55	55	NMOD	NMOD	_	_	_
+55	days	days	days	NNS	NNS	_	_	53	53	PRD	PRD	_	_	_
+56	,	,	,	,	,	_	_	53	53	P	P	_	_	_
+57	but	but	but	CC	CC	_	_	53	53	COORD	COORD	_	_	_
+58	her	her	her	PRP$	PRP$	_	_	60	60	NMOD	NMOD	_	_	_
+59	eight	eight	eight	CD	CD	_	_	60	60	NMOD	NMOD	_	_	_
+60	months	month	month	NNS	NNS	_	_	61	61	SBJ	SBJ	_	_	_
+61	were	be	be	VBD	VBD	_	_	57	57	CONJ	CONJ	_	_	_
+62	eight	eight	eight	CD	CD	_	_	63	63	NMOD	NMOD	_	_	_
+63	days	days	days	NNS	NNS	_	_	61	61	PRD	PRD	_	_	_
+64	,	,	,	,	,	_	_	61	61	P	P	_	_	_
+65	but	but	but	CC	CC	_	_	61	61	COORD	COORD	_	_	_
+66	her	her	her	PRP$	PRP$	_	_	68	68	NMOD	NMOD	_	_	_
+67	nine	nine	nine	CD	CD	_	_	68	68	NMOD	NMOD	_	_	_
+68	months	month	month	NNS	NNS	_	_	69	69	SBJ	SBJ	_	_	_
+69	were	be	be	VBD	VBD	_	_	65	65	CONJ	CONJ	_	_	_
+70	nine	nine	nine	CD	CD	_	_	71	71	NMOD	NMOD	_	_	_
+71	days	days	days	NNS	NNS	_	_	69	69	PRD	PRD	_	_	_
+72	.	.	.	.	.	_	_	69	69	P	P	_	_	_
+73	In	in	in	IN	IN	_	_	69	69	TMP	TMP	_	_	_
+74	the	the	the	DT	DT	_	_	75	75	NMOD	NMOD	_	_	_
+75	month	month	month	NN	NN	_	_	73	73	PMOD	PMOD	_	_	_
+76	of	of	of	IN	IN	_	_	75	75	NMOD	NMOD	_	_	_
+77	womanhood	womanhood	womanhood	NN	NN	_	_	76	76	PMOD	PMOD	_	_	_
+78	,	,	,	,	,	_	_	69	69	P	P	_	_	_
+79	like	like	like	IN	IN	_	_	112	112	ADV	ADV	_	_	AM-MNR
+80	fine	fine	fine	JJ	JJ	_	_	84	84	NMOD	NMOD	_	_	_
+81	(	-lrb-	-lrb-	(	(	_	_	84	84	PRN	PRN	_	_	_
+82	?	?	?	.	.	_	_	81	81	P	P	_	_	_
+83	)	-rrb-	-rrb-	)	)	_	_	81	81	P	P	_	_	_
+84	oil	oil	oil	NN	NN	_	_	79	79	PMOD	PMOD	_	_	_
+85	,	,	,	,	,	_	_	112	112	P	P	_	_	_
+86	like	like	like	IN	IN	_	_	112	112	ADV	ADV	_	_	AM-ADV
+87	fine	fine	fine	JJ	JJ	_	_	91	91	NMOD	NMOD	_	_	_
+88	(	-lrb-	-lrb-	(	(	_	_	91	91	PRN	PRN	_	_	_
+89	?	?	?	.	.	_	_	88	88	P	P	_	_	_
+90	)	-rrb-	-rrb-	)	)	_	_	88	88	P	P	_	_	_
+91	oil	oil	oil	NN	NN	_	_	86	86	PMOD	PMOD	_	_	_
+92	,	,	,	,	,	_	_	112	112	P	P	_	_	_
+93	like	like	like	IN	IN	_	_	112	112	ADV	ADV	_	_	AM-ADV
+94	oil	oil	oil	NN	NN	_	_	93	93	PMOD	PMOD	_	_	_
+95	of	of	of	IN	IN	_	_	94	94	NMOD	NMOD	_	_	_
+96	abundance	abundance	abundance	NN	NN	_	_	95	95	PMOD	PMOD	_	_	_
+97	,	,	,	,	,	_	_	112	112	P	P	_	_	_
+98	Nintur	nintur	nintur	NNP	NNP	_	_	112	112	SBJ	SBJ	_	_	A0
+99	,	,	,	,	,	_	_	98	98	P	P	_	_	_
+100	mother	mother	mother	DT	DT	_	_	98	98	APPO	APPO	_	_	_
+101	of	of	of	IN	IN	_	_	100	100	NMOD	NMOD	_	_	_
+102	the	the	the	DT	DT	_	_	103	103	NMOD	NMOD	_	_	_
+103	country	country	country	NN	NN	_	_	101	101	PMOD	PMOD	_	_	_
+104	,	,	,	,	,	_	_	112	112	P	P	_	_	_
+105	like	like	like	IN	IN	_	_	112	112	ADV	ADV	_	_	AM-ADV
+106	fine	fine	fine	JJ	JJ	_	_	110	110	NMOD	NMOD	_	_	_
+107	(	-lrb-	-lrb-	(	(	_	_	110	110	PRN	PRN	_	_	_
+108	?	?	?	.	.	_	_	69	69	P	P	_	_	_
+109	)	-rrb-	-rrb-	)	)	_	_	107	107	P	P	_	_	_
+110	oil	oil	oil	NN	NN	_	_	105	105	PMOD	PMOD	_	_	_
+111	,	,	,	,	,	_	_	112	112	P	P	_	_	_
+112	gave	give	give	VBD	VBD	_	_	18	18	NMOD	NMOD	Y	give.01	_
+113	birth	birth	birth	NN	NN	_	_	112	112	OBJ	OBJ	_	_	A1
+114	to	to	to	TO	TO	_	_	112	112	DTV	DTV	_	_	A2
+115	Ninnisig	ninnisig	ninnisig	NNP	NNP	_	_	114	114	PMOD	PMOD	_	_	_
+116	.	.	.	.	.	_	_	5	5	P	P	_	_	_
+
+1	In	in	in	IN	IN	_	_	0	0	ROOT	ROOT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	turn	turn	turn	NN	NN	_	_	1	1	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	Ninnisig	ninnisig	ninnisig	NNP	NNP	_	_	4	4	SBJ	SBJ	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	went	go	go	VBD	VBD	_	_	1	1	SUB	SUB	Y	go.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	out	out	out	IN	IN	_	_	4	4	DIR	DIR	_	_	AM-DIR	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	to	to	to	TO	TO	_	_	4	4	DIR	DIR	_	_	A4	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	the	the	the	DT	DT	_	_	8	8	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	riverbank	riverbank	riverbank	NN	NN	_	_	6	6	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	.	.	.	.	.	_	_	4	4	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	Enki	enki	enki	NNP	NNP	_	_	11	11	SBJ	SBJ	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	was	be	be	VBD	VBD	_	_	4	4	TMP	TMP	_	_	AM-TMP	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	able	able	able	JJ	JJ	_	_	11	11	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	to	to	to	TO	TO	_	_	12	12	AMOD	AMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	see	see	see	VB	VB	_	_	13	13	IM	IM	Y	see.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	up	up	up	RP	RP	_	_	14	14	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	there	there	there	RB	RB	_	_	14	14	LOC	LOC	_	_	_	AM-LOC	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	from	from	from	IN	IN	_	_	16	16	AMOD	AMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	in	in	in	IN	IN	_	_	23	23	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	the	the	the	DT	DT	_	_	20	20	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	marsh	marsh	marsh	NN	NN	_	_	18	18	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	,	,	,	,	,	_	_	23	23	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	he	he	he	PRP	PRP	_	_	23	23	SBJ	SBJ	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	was	be	be	VBD	VBD	_	_	17	17	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	able	able	able	JJ	JJ	_	_	23	23	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	to	to	to	TO	TO	_	_	24	24	AMOD	AMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	see	see	see	VB	VB	_	_	25	25	IM	IM	Y	see.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	up	up	up	RP	RP	_	_	26	26	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	there	there	there	RB	RB	_	_	26	26	LOC	LOC	_	_	_	_	AM-LOC	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	,	,	,	,	,	_	_	23	23	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	he	he	he	PRP	PRP	_	_	31	31	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	was	be	be	VBD	VBD	_	_	23	23	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	.	.	.	.	.	_	_	31	31	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	He	he	he	PRP	PRP	_	_	34	34	SBJ	SBJ	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	said	say	say	VBD	VBD	_	_	31	31	EXTR	EXTR	Y	say.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	to	to	to	TO	TO	_	_	34	34	ADV	ADV	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	his	his	his	PRP$	PRP$	_	_	37	37	NMOD	NMOD	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_	_	_	_
+37	minister	minister	minister	NN	NN	_	_	40	40	SBJ	SBJ	Y	minister.01	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_
+38	Isimud	isimud	isimud	NNP	NNP	_	_	35	35	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	:	:	:	:	:	_	_	31	31	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	Is	be	be	VBZ	VBZ	_	_	31	31	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	this	this	this	DT	DT	_	_	43	43	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	nice	nice	nice	JJ	JJ	_	_	43	43	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	youngster	youngster	youngster	NN	NN	_	_	40	40	PRD	PRD	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_
+44	not	not	not	RB	RB	_	_	45	45	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	to	to	to	TO	TO	_	_	43	43	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	be	be	be	VB	VB	_	_	45	45	IM	IM	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	kissed	kiss	kiss	VBN	VBN	_	_	46	46	VC	VC	Y	kiss.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	?	?	?	.	.	_	_	40	40	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	Is	be	be	VBZ	VBZ	_	_	40	40	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	this	this	this	DT	DT	_	_	52	52	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+51	nice	nice	nice	JJ	JJ	_	_	52	52	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+52	Ninnisig	ninnisig	ninnisig	NNP	NNP	_	_	49	49	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+53	not	not	not	RB	RB	_	_	54	54	ADV	ADV	_	_	_	_	_	_	_	_	AM-NEG	_	_	_	_	_	_	_	_	_	_
+54	to	to	to	TO	TO	_	_	47	47	OPRD	OPRD	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_	_	_
+55	be	be	be	VB	VB	_	_	54	54	IM	IM	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	kissed	kiss	kiss	VBN	VBN	_	_	55	55	VC	VC	Y	kiss.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+57	?	?	?	.	.	_	_	1	1	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+58	His	his	his	PRP$	PRP$	_	_	59	59	NMOD	NMOD	_	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_
+59	minister	minister	minister	NN	NN	_	_	64	64	SBJ	SBJ	Y	minister.01	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_
+60	Isimud	isimud	isimud	NNP	NNP	_	_	61	61	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_
+61	answered	answer	answer	VBD	VBD	_	_	59	59	PRN	PRN	Y	answer.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+62	him	him	him	PRP	PRP	_	_	61	61	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_
+63	:	:	:	:	:	_	_	61	61	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+64	Is	be	be	VBZ	VBZ	_	_	85	85	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_
+65	this	this	this	DT	DT	_	_	67	67	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+66	nice	nice	nice	JJ	JJ	_	_	67	67	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+67	youngster	youngster	youngster	NN	NN	_	_	64	64	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_
+68	not	not	not	RB	RB	_	_	69	69	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	AM-NEG	_	_	_	_	_	_	_
+69	to	to	to	TO	TO	_	_	67	67	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+70	be	be	be	VB	VB	_	_	69	69	IM	IM	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+71	kissed	kiss	kiss	VBN	VBN	_	_	70	70	VC	VC	Y	kiss.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+72	?	?	?	.	.	_	_	1	1	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+73	Is	be	be	VBZ	VBZ	_	_	93	93	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_
+74	this	this	this	DT	DT	_	_	76	76	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+75	nice	nice	nice	JJ	JJ	_	_	76	76	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+76	Ninnisig	ninnisig	ninnisig	NNP	NNP	_	_	73	73	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_
+77	not	not	not	RB	RB	_	_	78	78	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	AM-NEG	_	_	_	_	_	_
+78	to	to	to	TO	TO	_	_	73	73	OPRD	OPRD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+79	be	be	be	VB	VB	_	_	78	78	IM	IM	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+80	kissed	kiss	kiss	VBN	VBN	_	_	79	79	VC	VC	Y	kiss.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+81	?	?	?	.	.	_	_	1	1	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+82	My	my	my	PRP$	PRP$	_	_	83	83	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+83	master	master	master	NN	NN	_	_	84	84	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	A0	_	_	_	_
+84	will	will	will	MD	MD	_	_	80	80	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	A1	AM-MOD	AM-MOD	_	_	_	_
+85	sail	sail	sail	VB	VB	_	_	84	84	VC	VC	Y	sail.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+86	,	,	,	,	,	_	_	84	84	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+87	let	let	let	VB	VB	_	_	84	84	VC	VC	Y	let.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+88	me	me	me	PRP	PRP	_	_	87	87	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	A0	_	_	_
+89	navigate	navigate	navigate	VB	VB	_	_	87	87	OPRD	OPRD	Y	navigate.01	_	_	_	_	_	_	_	_	_	_	_	_	C-A1	_	_	_	_
+90	.	.	.	.	.	_	_	1	1	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+91	He	he	he	PRP	PRP	_	_	92	92	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	A0	_
+92	will	will	will	MD	MD	_	_	90	90	DEP	DEP	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-MOD	AM-MOD	_
+93	sail	sail	sail	VB	VB	_	_	92	92	VC	VC	Y	sail.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+94	,	,	,	,	,	_	_	92	92	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+95	let	let	let	VB	VB	_	_	92	92	VC	VC	Y	let.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+96	me	me	me	PRP	PRP	_	_	95	95	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	A0
+97	navigate	navigate	navigate	VB	VB	_	_	95	95	OPRD	OPRD	Y	navigate.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C-A1	_
+98	.	.	.	.	.	_	_	1	1	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	First	first	first	JJ	JJ	_	_	19	19	TMP	TMP	_	_	_	_	_	AM-TMP	_	_	_	_	_	_
+2	he	he	he	PRP	PRP	_	_	3	3	SBJ	SBJ	_	_	A0	_	_	_	_	_	_	_	_	_
+3	put	put	put	VBD	VBD	_	_	1	1	AMOD	AMOD	Y	put.01	_	_	_	_	_	_	_	_	_	_
+4	his	his	his	PRP$	PRP$	_	_	5	5	NMOD	NMOD	_	_	_	A1	_	_	_	_	_	_	_	_
+5	feet	foot	foot	NNS	NNS	_	_	3	3	OBJ	OBJ	Y	foot.02	A1	_	_	_	_	_	_	_	_	_
+6	in	in	in	IN	IN	_	_	3	3	PUT	PUT	_	_	A2	_	_	_	_	_	_	_	_	_
+7	the	the	the	DT	DT	_	_	8	8	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+8	boat	boat	boat	NN	NN	_	_	6	6	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+9	,	,	,	,	,	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+10	next	next	next	JJ	JJ	_	_	12	12	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+11	he	he	he	PRP	PRP	_	_	12	12	SBJ	SBJ	_	_	_	_	A0	_	_	_	_	_	_	_
+12	put	put	put	VBD	VBD	_	_	3	3	COORD	COORD	Y	put.01	_	_	_	_	_	_	_	_	_	_
+13	them	them	them	PRP	PRP	_	_	12	12	OBJ	OBJ	_	_	_	_	A1	_	_	_	_	_	_	_
+14	on	on	on	IN	IN	_	_	12	12	PUT	PUT	_	_	_	_	A2	_	_	_	_	_	_	_
+15	dry	dry	dry	JJ	JJ	_	_	16	16	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+16	land	land	land	NN	NN	_	_	14	14	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+17	.	.	.	.	.	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+18	He	he	he	PRP	PRP	_	_	19	19	SBJ	SBJ	_	_	_	_	_	A0	_	_	_	_	_	_
+19	clasped	clasp	clasp	VBD	VBD	_	_	29	29	TMP	TMP	Y	clasp.01	_	_	_	_	_	AM-TMP	_	_	_	_
+20	her	her	her	PRP	PRP	_	_	19	19	OBJ	OBJ	_	_	_	_	_	A1	_	_	_	_	_	_
+21	to	to	to	TO	TO	_	_	19	19	ADV	ADV	_	_	_	_	_	A2	_	_	_	_	_	_
+22	the	the	the	DT	DT	_	_	23	23	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+23	bosom	bosom	bosom	NN	NN	_	_	21	21	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+24	,	,	,	,	,	_	_	19	19	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+25	kissed	kiss	kiss	VBD	VBD	_	_	19	19	COORD	COORD	Y	kiss.01	_	_	_	_	_	_	_	_	_	_
+26	her	her	her	PRP	PRP	_	_	25	25	OBJ	OBJ	_	_	_	_	_	_	A1	_	_	_	_	_
+27	,	,	,	,	,	_	_	29	29	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+28	Enki	enki	enki	NNP	NNP	_	_	29	29	SBJ	SBJ	_	_	_	_	_	_	_	A0	_	_	_	_
+29	poured	pour	pour	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	pour.01	_	_	_	_	_	_	_	_	_	_
+30	semen	seman	seman	NNS	NNS	_	_	29	29	OBJ	OBJ	_	_	_	_	_	_	_	A1	_	_	_	_
+31	into	into	into	IN	IN	_	_	29	29	ADV	ADV	_	_	_	_	_	_	_	A3	_	_	_	_
+32	the	the	the	DT	DT	_	_	33	33	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+33	womb	womb	womb	NN	NN	_	_	31	31	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+34	and	and	and	CC	CC	_	_	25	25	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_
+35	she	she	she	PRP	PRP	_	_	36	36	SBJ	SBJ	_	_	_	_	_	_	_	_	A0	_	_	_
+36	conceived	conceive	conceive	VBD	VBD	_	_	34	34	CONJ	CONJ	Y	conceive.01	_	_	_	_	_	_	_	_	_	_
+37	the	the	the	DT	DT	_	_	38	38	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+38	semen	seman	seman	NNS	NNS	_	_	36	36	OBJ	OBJ	_	_	_	_	_	_	_	_	A1	_	_	_
+39	in	in	in	IN	IN	_	_	38	38	LOC	LOC	_	_	_	_	_	_	_	_	AM-LOC	_	_	_
+40	the	the	the	DT	DT	_	_	41	41	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+41	womb	womb	womb	NN	NN	_	_	39	39	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+42	,	,	,	,	,	_	_	38	38	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+43	the	the	the	DT	DT	_	_	44	44	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+44	semen	seman	seman	NNS	NNS	_	_	38	38	APPO	APPO	Y	seman.01	_	_	_	_	_	_	_	_	_	_
+45	of	of	of	IN	IN	_	_	44	44	NMOD	NMOD	_	_	_	_	_	_	_	_	_	A1	_	_
+46	Enki	enki	enki	NNP	NNP	_	_	45	45	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+47	.	.	.	.	.	_	_	29	29	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+48	But	but	but	CC	CC	_	_	29	29	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_
+49	her	her	her	PRP$	PRP$	_	_	51	51	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+50	one	one	one	CD	CD	_	_	51	51	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+51	month	month	month	NN	NN	_	_	52	52	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_
+52	was	be	be	VBD	VBD	_	_	48	48	CONJ	CONJ	_	_	_	_	_	_	_	_	_	_	_	_
+53	one	one	one	CD	CD	_	_	54	54	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+54	day	day	day	NN	NN	_	_	52	52	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_
+55	,	,	,	,	,	_	_	52	52	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+56	but	but	but	CC	CC	_	_	52	52	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_
+57	her	her	her	PRP	PRP	_	_	59	59	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+58	two	two	two	CD	CD	_	_	59	59	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+59	months	month	month	NNS	NNS	_	_	60	60	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_
+60	were	be	be	VBD	VBD	_	_	56	56	CONJ	CONJ	_	_	_	_	_	_	_	_	_	_	_	_
+61	two	two	two	CD	CD	_	_	62	62	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+62	days	days	days	NNS	NNS	_	_	60	60	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_
+63	,	,	,	,	,	_	_	60	60	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+64	but	but	but	CC	CC	_	_	60	60	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_
+65	her	her	her	PRP$	PRP$	_	_	67	67	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	A0
+66	nine	nine	nine	CD	CD	_	_	67	67	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+67	months	month	month	NNS	NNS	_	_	68	68	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_
+68	were	be	be	VBD	VBD	_	_	64	64	CONJ	CONJ	_	_	_	_	_	_	_	_	_	_	_	_
+69	nine	nine	nine	CD	CD	_	_	70	70	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+70	days	days	days	NNS	NNS	_	_	68	68	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_
+71	.	.	.	.	.	_	_	14	14	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+72	In	in	in	IN	IN	_	_	68	68	TMP	TMP	_	_	_	_	_	_	_	_	_	_	_	_
+73	the	the	the	DT	DT	_	_	74	74	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+74	month	month	month	NN	NN	_	_	72	72	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+75	of	of	of	IN	IN	_	_	74	74	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+76	womanhood	womanhood	womanhood	NN	NN	_	_	75	75	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+77	,	,	,	,	,	_	_	68	68	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+78	like	like	like	IN	IN	_	_	68	68	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_
+79	fine	fine	fine	JJ	JJ	_	_	83	83	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+80	(	-lrb-	-lrb-	(	(	_	_	83	83	PRN	PRN	_	_	_	_	_	_	_	_	_	_	_	_
+81	?	?	?	.	.	_	_	14	14	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+82	)	-rrb-	-rrb-	)	)	_	_	80	80	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+83	oil	oil	oil	NN	NN	_	_	78	78	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+84	,	,	,	,	,	_	_	83	83	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+85	like	like	like	IN	IN	_	_	83	83	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+86	fine	fine	fine	JJ	JJ	_	_	90	90	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+87	(	-lrb-	-lrb-	(	(	_	_	90	90	PRN	PRN	_	_	_	_	_	_	_	_	_	_	_	_
+88	?	?	?	.	.	_	_	14	14	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+89	)	-rrb-	-rrb-	)	)	_	_	87	87	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+90	oil	oil	oil	NN	NN	_	_	85	85	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+91	,	,	,	,	,	_	_	83	83	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+92	like	like	like	IN	IN	_	_	83	83	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+93	oil	oil	oil	NN	NN	_	_	92	92	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+94	of	of	of	IN	IN	_	_	93	93	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+95	abundance	abundance	abundance	NN	NN	_	_	94	94	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+96	,	,	,	,	,	_	_	83	83	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+97	Ninnisig	ninnisig	ninnisig	NNP	NNP	_	_	118	118	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	A0
+98	,	,	,	,	,	_	_	118	118	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+99	like	like	like	IN	IN	_	_	118	118	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	AM-ADV
+100	fine	fine	fine	NN	NN	_	_	104	104	NMOD	NMOD	Y	fine.01	_	_	_	_	_	_	_	_	_	_
+101	(	-lrb-	-lrb-	(	(	_	_	104	104	PRN	PRN	_	_	_	_	_	_	_	_	_	_	_	_
+102	?	?	?	.	.	_	_	14	14	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+103	)	-rrb-	-rrb-	)	)	_	_	101	101	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+104	oil	oil	oil	NN	NN	_	_	99	99	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+105	,	,	,	,	,	_	_	118	118	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+106	like	like	like	IN	IN	_	_	118	118	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	AM-ADV
+107	fine	fine	fine	JJ	JJ	_	_	111	111	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+108	(	-lrb-	-lrb-	(	(	_	_	111	111	PRN	PRN	_	_	_	_	_	_	_	_	_	_	_	_
+109	?	?	?	.	.	_	_	14	14	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+110	)	-rrb-	-rrb-	)	)	_	_	108	108	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+111	oil	oil	oil	NN	NN	_	_	106	106	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+112	,	,	,	,	,	_	_	118	118	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+113	like	like	like	IN	IN	_	_	118	118	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	AM-ADV
+114	oil	oil	oil	NN	NN	_	_	113	113	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+115	of	of	of	IN	IN	_	_	114	114	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+116	abundance	abundance	abundance	NN	NN	_	_	115	115	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+117	,	,	,	,	,	_	_	118	118	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+118	gave	give	give	VBD	VBD	_	_	65	65	NMOD	NMOD	Y	give.01	_	_	_	_	_	_	_	_	_	_
+119	birth	birth	birth	NN	NN	_	_	118	118	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	A1
+120	to	to	to	TO	TO	_	_	118	118	DTV	DTV	_	_	_	_	_	_	_	_	_	_	_	A2
+121	Ninkura	ninkura	ninkura	NNP	NNP	_	_	120	120	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+122	.	.	.	.	.	_	_	29	29	P	P	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	In	in	in	IN	IN	_	_	23	23	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	turn	turn	turn	NN	NN	_	_	1	1	PMOD	PMOD	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	Ninkura	ninkura	ninkura	NNP	NNP	_	_	4	4	SBJ	SBJ	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	went	go	go	VBD	VBD	_	_	2	2	NMOD	NMOD	Y	go.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	out	out	out	IN	IN	_	_	4	4	DIR	DIR	_	_	AM-DIR	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	to	to	to	TO	TO	_	_	4	4	DIR	DIR	_	_	A4	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	the	the	the	DT	DT	_	_	8	8	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	riverbank	riverbank	riverbank	NN	NN	_	_	6	6	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	.	.	.	.	.	_	_	4	4	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	Enki	enki	enki	NNP	NNP	_	_	11	11	SBJ	SBJ	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	was	be	be	VBD	VBD	_	_	4	4	TMP	TMP	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	able	able	able	JJ	JJ	_	_	11	11	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	to	to	to	TO	TO	_	_	12	12	AMOD	AMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	see	see	see	VB	VB	_	_	13	13	IM	IM	Y	see.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	up	up	up	RP	RP	_	_	14	14	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	there	there	there	RB	RB	_	_	15	15	AMOD	AMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	from	from	from	IN	IN	_	_	15	15	AMOD	AMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	in	in	in	IN	IN	_	_	17	17	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	the	the	the	DT	DT	_	_	20	20	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	marsh	marsh	marsh	NN	NN	_	_	18	18	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	,	,	,	,	,	_	_	23	23	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	he	he	he	PRP	PRP	_	_	23	23	SBJ	SBJ	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	was	be	be	VBD	VBD	_	_	0	0	ROOT	ROOT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	able	able	able	JJ	JJ	_	_	23	23	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	to	to	to	TO	TO	_	_	24	24	AMOD	AMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	see	see	see	VB	VB	_	_	25	25	IM	IM	Y	see.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	up	up	up	RP	RP	_	_	26	26	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	there	there	there	RB	RB	_	_	26	26	LOC	LOC	_	_	_	_	AM-LOC	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	,	,	,	,	,	_	_	23	23	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	he	he	he	PRP	PRP	_	_	31	31	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	was	be	be	VBD	VBD	_	_	23	23	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	.	.	.	.	.	_	_	31	31	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	He	he	he	PRP	PRP	_	_	34	34	SBJ	SBJ	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_
+34	said	say	say	VBD	VBD	_	_	31	31	EXTR	EXTR	Y	say.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	to	to	to	TO	TO	_	_	34	34	ADV	ADV	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_	_	_	_
+36	his	his	his	PRP$	PRP$	_	_	37	37	NMOD	NMOD	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_	_	_
+37	minister	minister	minister	NN	NN	_	_	40	40	SBJ	SBJ	Y	minister.01	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_
+38	Isimud	isimud	isimud	NNP	NNP	_	_	35	35	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	:	:	:	:	:	_	_	31	31	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	Is	be	be	VBZ	VBZ	_	_	31	31	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	this	this	this	DT	DT	_	_	43	43	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	nice	nice	nice	JJ	JJ	_	_	43	43	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	youngster	youngster	youngster	NN	NN	_	_	40	40	PRD	PRD	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_
+44	not	not	not	RB	RB	_	_	45	45	ADV	ADV	_	_	_	_	_	_	_	AM-NEG	_	_	_	_	_	_	_	_	_	_
+45	to	to	to	TO	TO	_	_	43	43	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	be	be	be	VB	VB	_	_	45	45	IM	IM	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	kissed	kiss	kiss	VBN	VBN	_	_	46	46	VC	VC	Y	kiss.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	?	?	?	.	.	_	_	40	40	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	Is	be	be	VBZ	VBZ	_	_	40	40	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	this	this	this	DT	DT	_	_	52	52	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+51	nice	nice	nice	JJ	JJ	_	_	52	52	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+52	Ninkura	ninkura	ninkura	NNP	NNP	_	_	49	49	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+53	not	not	not	RB	RB	_	_	49	49	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+54	to	to	to	TO	TO	_	_	49	49	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+55	kissed	kiss	kiss	VBN	VBN	_	_	87	87	NMOD	NMOD	Y	kiss.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	?	?	?	.	.	_	_	1	1	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+57	His	his	his	PRP$	PRP$	_	_	58	58	NMOD	NMOD	_	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_
+58	minister	minister	minister	NN	NN	_	_	54	54	PMOD	PMOD	Y	minister.01	_	_	_	_	_	_	_	A0	A0	_	_	_	_	_	_	_
+59	Isimud	isimud	isimud	NNP	NNP	_	_	60	60	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_
+60	answered	answer	answer	VBD	VBD	_	_	58	58	NMOD	NMOD	Y	answer.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+61	him	him	him	PRP	PRP	_	_	60	60	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_
+62	:	:	:	:	:	_	_	54	54	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+63	Kiss	kiss	kiss	VB	VB	_	_	54	54	IM	IM	Y	kiss.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+64	this	this	this	DT	DT	_	_	66	66	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+65	nice	nice	nice	JJ	JJ	_	_	66	66	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+66	youngster	youngster	youngster	NN	NN	_	_	63	63	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_
+67	.	.	.	.	.	_	_	23	23	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+68	Kiss	kiss	kiss	NNP	NNP	_	_	71	71	NAME	NAME	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+69	this	this	this	DT	DT	_	_	74	74	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+70	nice	nice	nice	JJ	JJ	_	_	71	71	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+71	Ninkura	ninkura	ninkura	NNP	NNP	_	_	72	72	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+72	.	.	.	.	.	_	_	1	1	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+73	My	my	my	NNP	NNP	_	_	74	74	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+74	master	master	master	NN	NN	_	_	75	75	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_
+75	will	will	will	MD	MD	_	_	23	23	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	AM-MOD	_	_	_	_	_
+76	sail	sail	sail	VB	VB	_	_	75	75	VC	VC	Y	sailing.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+77	,	,	,	,	,	_	_	75	75	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+78	let	let	let	VB	VB	_	_	84	84	OBJ	OBJ	Y	let.01	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_
+79	me	me	me	PRP	PRP	_	_	78	78	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	A0	A0	_	_
+80	navigate	navigate	navigate	VB	VB	_	_	78	78	OPRD	OPRD	Y	navigate.01	_	_	_	_	_	_	_	_	_	_	_	C-A1	_	_	_	_
+81	.	.	.	.	.	_	_	1	1	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+82	He	he	he	PRP	PRP	_	_	83	83	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	A0	_
+83	will	will	will	MD	MD	_	_	75	75	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-MOD	AM-MOD	_
+84	sail	sail	sail	VB	VB	_	_	83	83	VC	VC	Y	sail.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+85	,	,	,	,	,	_	_	83	83	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+86	let	let	let	VB	VB	_	_	83	83	VC	VC	Y	let.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+87	me	me	me	PRP	PRP	_	_	86	86	OBJ	OBJ	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	A1	A0
+88	navigate	navigate	navigate	VB	VB	_	_	86	86	OPRD	OPRD	Y	navigate.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C-A1	_
+89	.	.	.	.	.	_	_	23	23	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	First	first	first	JJ	JJ	_	_	3	3	TMP	TMP	_	_	AM-TMP	_	_	_	_	_	_	_	_	_	_
+2	he	he	he	PRP	PRP	_	_	3	3	SBJ	SBJ	_	_	A0	_	_	_	_	_	_	_	_	_	_
+3	put	put	put	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	put.01	_	_	_	_	_	_	_	_	_	_	_
+4	his	his	his	PRP$	PRP$	_	_	5	5	NMOD	NMOD	_	_	_	A1	_	_	_	_	_	_	_	_	_
+5	feet	foot	foot	NNS	NNS	_	_	3	3	OBJ	OBJ	Y	foot.02	A1	_	_	_	_	_	_	_	_	_	_
+6	in	in	in	IN	IN	_	_	3	3	PUT	PUT	_	_	A2	_	_	_	_	_	_	_	_	_	_
+7	the	the	the	DT	DT	_	_	8	8	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	boat	boat	boat	NN	NN	_	_	6	6	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	,	,	,	,	,	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	next	next	next	JJ	JJ	_	_	12	12	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	he	he	he	PRP	PRP	_	_	12	12	SBJ	SBJ	_	_	_	_	A0	_	_	_	_	_	_	_	_
+12	put	put	put	VBD	VBD	_	_	3	3	COORD	COORD	Y	put.01	_	_	_	_	_	_	_	_	_	_	_
+13	them	them	them	PRP	PRP	_	_	12	12	OBJ	OBJ	_	_	_	_	A1	_	_	_	_	_	_	_	_
+14	on	on	on	IN	IN	_	_	12	12	PUT	PUT	_	_	_	_	A2	_	_	_	_	_	_	_	_
+15	dry	dry	dry	JJ	JJ	_	_	16	16	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	land	land	land	NN	NN	_	_	14	14	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	.	.	.	.	.	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	He	he	he	PRP	PRP	_	_	19	19	SBJ	SBJ	_	_	_	_	_	A0	_	_	_	_	_	_	_
+19	clasped	clasp	clasp	VBD	VBD	_	_	3	3	OBJ	OBJ	Y	clasp.01	A1	_	_	_	_	_	_	_	_	_	_
+20	her	her	her	PRP	PRP	_	_	19	19	OBJ	OBJ	_	_	_	_	_	A1	_	_	_	_	_	_	_
+21	to	to	to	TO	TO	_	_	19	19	ADV	ADV	_	_	_	_	_	A2	_	_	_	_	_	_	_
+22	the	the	the	DT	DT	_	_	23	23	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	bosom	bosom	bosom	NN	NN	_	_	21	21	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	,	,	,	,	,	_	_	19	19	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	kissed	kiss	kiss	VBD	VBD	_	_	19	19	COORD	COORD	Y	kiss.01	_	_	_	_	_	_	_	_	_	_	_
+26	her	her	her	PRP	PRP	_	_	25	25	OBJ	OBJ	_	_	_	_	_	_	A1	_	_	_	_	_	_
+27	,	,	,	,	,	_	_	25	25	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	Enki	enki	enki	NNP	NNP	_	_	29	29	SBJ	SBJ	_	_	_	_	_	_	_	A0	_	_	_	_	_
+29	poured	pour	pour	VBD	VBD	_	_	25	25	COORD	COORD	Y	pour.01	_	_	_	_	_	_	_	_	_	_	_
+30	semen	seman	seman	NNS	NNS	_	_	29	29	OBJ	OBJ	_	_	_	_	_	_	_	A1	_	_	_	_	_
+31	into	into	into	IN	IN	_	_	29	29	ADV	ADV	_	_	_	_	_	_	_	A3	_	_	_	_	_
+32	the	the	the	DT	DT	_	_	33	33	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	womb	womb	womb	NN	NN	_	_	31	31	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	and	and	and	CC	CC	_	_	29	29	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	she	she	she	PRP	PRP	_	_	36	36	SBJ	SBJ	_	_	_	_	_	_	_	_	A0	_	_	_	_
+36	conceived	conceive	conceive	VBD	VBD	_	_	34	34	CONJ	CONJ	Y	conceive.01	_	_	_	_	_	_	_	_	_	_	_
+37	the	the	the	DT	DT	_	_	38	38	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	semen	seman	seman	NNS	NNS	_	_	36	36	OBJ	OBJ	_	_	_	_	_	_	_	_	A1	_	_	_	_
+39	in	in	in	IN	IN	_	_	38	38	LOC	LOC	_	_	_	_	_	_	_	_	AM-LOC	_	_	_	_
+40	the	the	the	DT	DT	_	_	41	41	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	womb	womb	womb	NN	NN	_	_	39	39	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	,	,	,	,	,	_	_	38	38	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	the	the	the	DT	DT	_	_	44	44	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	semen	seman	seman	NNS	NNS	_	_	38	38	APPO	APPO	Y	seman.01	_	_	_	_	_	_	_	_	_	_	_
+45	of	of	of	IN	IN	_	_	44	44	NMOD	NMOD	_	_	_	_	_	_	_	_	_	A1	_	_	_
+46	Enki	enki	enki	NNP	NNP	_	_	45	45	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	.	.	.	.	.	_	_	19	19	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	But	but	but	CC	CC	_	_	47	47	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	her	her	her	PRP$	PRP$	_	_	51	51	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	one	one	one	CD	CD	_	_	51	51	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+51	month	month	month	NN	NN	_	_	52	52	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_
+52	was	be	be	VBD	VBD	_	_	48	48	CONJ	CONJ	_	_	_	_	_	_	_	_	_	_	_	_	_
+53	one	one	one	CD	CD	_	_	54	54	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+54	day	day	day	NN	NN	_	_	52	52	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_
+55	,	,	,	,	,	_	_	52	52	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	but	but	but	CC	CC	_	_	52	52	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_
+57	her	her	her	PRP$	PRP$	_	_	59	59	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+58	nine	nine	nine	CD	CD	_	_	59	59	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+59	months	month	month	NNS	NNS	_	_	60	60	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_
+60	were	be	be	VBD	VBD	_	_	56	56	CONJ	CONJ	_	_	_	_	_	_	_	_	_	_	_	_	_
+61	nine	nine	nine	CD	CD	_	_	62	62	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+62	days	days	days	NNS	NNS	_	_	60	60	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_
+63	.	.	.	.	.	_	_	14	14	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+64	In	in	in	IN	IN	_	_	60	60	TMP	TMP	_	_	_	_	_	_	_	_	_	_	_	_	_
+65	the	the	the	DT	DT	_	_	66	66	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+66	month	month	month	NN	NN	_	_	64	64	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+67	of	of	of	IN	IN	_	_	66	66	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+68	womanhood	womanhood	womanhood	NN	NN	_	_	67	67	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+69	,	,	,	,	,	_	_	60	60	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+70	like	like	like	IN	IN	_	_	60	60	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_
+71	fine	fine	fine	JJ	JJ	_	_	75	75	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+72	(	-lrb-	-lrb-	(	(	_	_	75	75	PRN	PRN	_	_	_	_	_	_	_	_	_	_	_	_	_
+73	?	?	?	.	.	_	_	14	14	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+74	)	-rrb-	-rrb-	)	)	_	_	72	72	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+75	oil	oil	oil	NN	NN	_	_	70	70	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+76	,	,	,	,	,	_	_	75	75	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+77	like	like	like	IN	IN	_	_	75	75	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+78	fine	fine	fine	JJ	JJ	_	_	82	82	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+79	(	-lrb-	-lrb-	(	(	_	_	82	82	PRN	PRN	_	_	_	_	_	_	_	_	_	_	_	_	_
+80	?	?	?	.	.	_	_	14	14	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+81	)	-rrb-	-rrb-	)	)	_	_	79	79	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+82	oil	oil	oil	NN	NN	_	_	77	77	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+83	,	,	,	,	,	_	_	75	75	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+84	like	like	like	IN	IN	_	_	110	110	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	AM-MNR	_
+85	oil	oil	oil	NN	NN	_	_	84	84	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+86	of	of	of	IN	IN	_	_	85	85	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+87	abundance	abundance	abundance	NN	NN	_	_	86	86	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+88	,	,	,	,	,	_	_	110	110	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+89	Ninkura	ninkura	ninkura	NNP	NNP	_	_	110	110	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	A0	_
+90	,	,	,	,	,	_	_	110	110	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+91	like	like	like	IN	IN	_	_	110	110	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	AM-MNR	_
+92	fine	fine	fine	NN	NN	_	_	96	96	NMOD	NMOD	Y	fine.01	_	_	_	_	_	_	_	_	_	_	_
+93	(	-lrb-	-lrb-	(	(	_	_	96	96	PRN	PRN	_	_	_	_	_	_	_	_	_	_	_	_	_
+94	?	?	?	.	.	_	_	14	14	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+95	)	-rrb-	-rrb-	)	)	_	_	93	93	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+96	oil	oil	oil	NN	NN	_	_	91	91	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+97	,	,	,	,	,	_	_	110	110	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+98	like	like	like	IN	IN	_	_	110	110	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	AM-MNR	_
+99	fine	fine	fine	JJ	JJ	_	_	103	103	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+100	(	-lrb-	-lrb-	(	(	_	_	103	103	PRN	PRN	_	_	_	_	_	_	_	_	_	_	_	_	_
+101	?	?	?	.	.	_	_	14	14	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+102	)	-rrb-	-rrb-	)	)	_	_	100	100	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+103	oil	oil	oil	NN	NN	_	_	98	98	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+104	,	,	,	,	,	_	_	110	110	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+105	like	like	like	IN	IN	_	_	110	110	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	AM-MNR	_
+106	oil	oil	oil	NN	NN	_	_	105	105	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+107	of	of	of	IN	IN	_	_	106	106	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+108	abundance	abundance	abundance	NN	NN	_	_	107	107	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+109	,	,	,	,	,	_	_	110	110	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+110	gave	give	give	VBD	VBD	_	_	47	47	DEP	DEP	Y	give.01	_	_	_	_	_	_	_	_	_	_	_
+111	birth	birth	birth	NN	NN	_	_	110	110	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	A1	_
+112	to	to	to	TO	TO	_	_	110	110	DTV	DTV	_	_	_	_	_	_	_	_	_	_	_	A2	_
+113	Uttu	uttu	uttu	NNP	NNP	_	_	112	112	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+114	,	,	,	,	,	_	_	113	113	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+115	the	the	the	DT	DT	_	_	120	120	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+116	exalted	exalt	exalt	VBN	VBN	_	_	120	120	NMOD	NMOD	Y	exalt.01	_	_	_	_	_	_	_	_	_	_	_
+117	(	-lrb-	-lrb-	(	(	_	_	120	120	PRN	PRN	_	_	_	_	_	_	_	_	_	_	_	_	_
+118	?	?	?	.	.	_	_	60	60	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+119	)	-rrb-	-rrb-	)	)	_	_	117	117	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+120	woman	woman	woman	NN	NN	_	_	113	113	APPO	APPO	_	_	_	_	_	_	_	_	_	_	_	_	A1
+121	.	.	.	.	.	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Nintur	nintur	nintur	NNP	NNP	_	_	2	2	SBJ	SBJ	_	_	A0	A0	A0	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	said	say	say	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	say.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	to	to	to	TO	TO	_	_	2	2	OPRD	OPRD	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	Uttu	uttu	uttu	VB	VB	_	_	3	3	IM	IM	Y	uttu.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	:	:	:	:	:	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	Let	let	let	VB	VB	_	_	2	2	COORD	COORD	Y	let.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	me	me	me	PRP	PRP	_	_	6	6	OBJ	OBJ	_	_	_	_	A1	A0	_	_	_	_	_	_	_	_	_	_	_	_
+8	advise	advise	advise	VB	VB	_	_	6	6	OPRD	OPRD	Y	advise.01	_	_	C-A1	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	you	you	you	PRP	PRP	_	_	8	8	OBJ	OBJ	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_
+10	,	,	,	,	,	_	_	6	6	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	and	and	and	CC	CC	_	_	6	6	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	may	may	may	MD	MD	_	_	11	11	CONJ	CONJ	_	_	_	_	_	_	AM-MOD	_	_	AM-MOD	_	_	_	_	_	_	_	_
+13	you	you	you	PRP	PRP	_	_	12	12	SBJ	SBJ	_	_	_	_	_	_	A0	A0	_	A0	A0	_	_	_	_	_	_	_
+14	take	take	take	VB	VB	_	_	12	12	VC	VC	Y	take.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	heed	heed	heed	NN	NN	_	_	14	14	OBJ	OBJ	Y	heed.01	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_
+16	of	of	of	IN	IN	_	_	15	15	NMOD	NMOD	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_
+17	my	my	my	PRP$	PRP$	_	_	18	18	NMOD	NMOD	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_
+18	advice	advice	advice	NN	NN	_	_	16	16	PMOD	PMOD	Y	advice.01	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_
+19	.	.	.	.	.	_	_	12	12	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	Let	let	let	VB	VB	_	_	12	12	VC	VC	Y	let.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	me	me	me	PRP	PRP	_	_	20	20	OBJ	OBJ	_	_	_	_	_	_	_	_	_	A1	A0	_	_	_	_	_	_	_
+22	speak	speak	speak	VB	VB	_	_	20	20	OPRD	OPRD	Y	speak.01	_	_	_	_	_	_	_	C-A1	_	_	_	_	_	_	_	_
+23	words	words	words	NNS	NNS	_	_	22	22	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_
+24	to	to	to	TO	TO	_	_	22	22	ADV	ADV	_	_	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_
+25	you	you	you	PRP	PRP	_	_	24	24	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	and	and	and	CC	CC	_	_	12	12	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	may	may	may	MD	MD	_	_	26	26	CONJ	CONJ	_	_	_	_	_	_	_	_	_	_	_	AM-MOD	_	_	_	_	_	_
+28	you	you	you	PRP	PRP	_	_	27	27	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_
+29	heed	heed	heed	VB	VB	_	_	27	27	VC	VC	Y	heed.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	my	my	my	PRP$	PRP$	_	_	31	31	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_
+31	words	words	words	NNS	NNS	_	_	29	29	OBJ	OBJ	Y	word.01	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_
+32	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	From	from	from	IN	IN	_	_	79	79	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	in	in	in	IN	IN	_	_	33	33	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	the	the	the	DT	DT	_	_	38	38	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	marsh	marsh	marsh	JJ	JJ	_	_	38	38	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	one	one	one	CD	CD	_	_	38	38	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	man	man	man	NN	NN	_	_	39	39	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_
+39	is	be	be	VBZ	VBZ	_	_	34	34	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	able	able	able	JJ	JJ	_	_	39	39	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	to	to	to	TO	TO	_	_	40	40	AMOD	AMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	see	see	see	VB	VB	_	_	41	41	IM	IM	Y	see.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	up	up	up	RP	RP	_	_	42	42	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	here	here	here	RB	RB	_	_	42	42	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-LOC	_	_	_	_
+45	,	,	,	,	,	_	_	39	39	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	is	be	be	VBZ	VBZ	_	_	39	39	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	able	able	able	JJ	JJ	_	_	46	46	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	to	to	to	TO	TO	_	_	47	47	AMOD	AMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	see	see	see	VB	VB	_	_	48	48	IM	IM	Y	see.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	up	up	up	RP	RP	_	_	49	49	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+51	here	here	here	RB	RB	_	_	49	49	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-LOC	_	_	_
+52	,	,	,	,	,	_	_	46	46	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+53	he	he	he	PRP	PRP	_	_	54	54	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+54	is	be	be	VBZ	VBZ	_	_	46	46	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+55	;	;	;	:	:	_	_	54	54	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	from	from	from	IN	IN	_	_	68	68	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+57	in	in	in	IN	IN	_	_	56	56	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+58	the	the	the	DT	DT	_	_	59	59	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+59	marsh	marsh	marsh	NN	NN	_	_	57	57	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_
+60	Enki	enki	enki	NNP	NNP	_	_	61	61	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_
+61	is	be	be	VBZ	VBZ	_	_	59	59	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+62	able	able	able	JJ	JJ	_	_	61	61	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+63	to	to	to	TO	TO	_	_	62	62	AMOD	AMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+64	see	see	see	VB	VB	_	_	63	63	IM	IM	Y	see.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+65	up	up	up	RP	RP	_	_	64	64	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+66	here	here	here	RB	RB	_	_	64	64	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-LOC	_	_
+67	,	,	,	,	,	_	_	68	68	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+68	is	be	be	VBZ	VBZ	_	_	54	54	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+69	able	able	able	JJ	JJ	_	_	68	68	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+70	to	to	to	TO	TO	_	_	69	69	AMOD	AMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+71	see	see	see	VB	VB	_	_	70	70	IM	IM	Y	see.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+72	up	up	up	RP	RP	_	_	71	71	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+73	here	here	here	RB	RB	_	_	71	71	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-LOC	_
+74	,	,	,	,	,	_	_	68	68	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+75	he	he	he	PRP	PRP	_	_	76	76	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+76	is	be	be	VBZ	VBZ	_	_	68	68	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+77	.	.	.	.	.	_	_	39	39	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+78	He	he	he	PRP	PRP	_	_	79	79	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0
+79	will	will	will	MD	MD	_	_	12	12	DEP	DEP	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-MOD
+80	set	set	set	VB	VB	_	_	79	79	VC	VC	Y	set.02	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+81	eyes	eyes	eyes	NNS	NNS	_	_	80	80	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1
+82	on	on	on	IN	IN	_	_	80	80	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A2
+83	you	you	you	PRP	PRP	_	_	82	82	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+84	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+85	XX	xx	xx	IN	IN	_	_	76	76	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+86	Uttu	uttu	uttu	NNP	NNP	_	_	85	85	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+87	,	,	,	,	,	_	_	86	86	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+88	the	the	the	DT	DT	_	_	93	93	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+89	exalted	exalt	exalt	VBN	VBN	_	_	93	93	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+90	(	-lrb-	-lrb-	(	(	_	_	89	89	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+91	?	?	?	.	.	_	_	39	39	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+92	)	-rrb-	-rrb-	)	)	_	_	89	89	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+93	woman	woman	woman	NN	NN	_	_	86	86	APPO	APPO	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+94	XX	xx	xx	NNP	NNP	_	_	93	93	APPO	APPO	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	(	-lrb-	-lrb-	(	(	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	Uttu	uttu	uttu	NNP	NNP	_	_	3	3	SBJ	SBJ	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_
+3	said	say	say	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	say.01	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	:	:	:	:	:	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	)	-rrb-	-rrb-	)	)	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	Bring	bring	bring	NNP	NNP	_	_	7	7	NMOD	NMOD	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_
+7	cucumbers	cucumber	cucumber	NNS	NNS	_	_	11	11	SBJ	SBJ	Y	cucumber.01	_	_	A0	_	_	A0	_	_	_	_	_	_	_
+8	in	in	in	IN	IN	_	_	7	7	LOC	LOC	_	_	_	AM-LOC	_	_	_	_	_	_	_	_	_	_	_
+9	XX	xx	xx	NNP	NNP	_	_	8	8	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	,	,	,	,	,	_	_	11	11	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	bring	bring	bring	VBP	VBP	_	_	3	3	OBJ	OBJ	Y	bring.01	A1	_	_	_	_	_	_	_	_	_	_	_	_
+12	apples	apple	apple	NNS	NNS	_	_	11	11	OBJ	OBJ	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_
+13	with	with	with	IN	IN	_	_	11	11	ADV	ADV	_	_	_	_	AM-MNR	_	_	_	_	_	_	_	_	_	_
+14	their	their	their	PRP$	PRP$	_	_	15	15	NMOD	NMOD	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_
+15	stems	stem	stem	NNS	NNS	_	_	16	16	SBJ	SBJ	Y	stem.01	_	_	_	_	A1	_	_	_	_	_	_	_	_
+16	sticking	stick	stick	VBG	VBG	_	_	13	13	PMOD	PMOD	Y	stick.01	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	out	out	out	RP	RP	_	_	16	16	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	(	-lrb-	-lrb-	(	(	_	_	11	11	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	?	?	?	.	.	_	_	11	11	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	)	-rrb-	-rrb-	)	)	_	_	11	11	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	,	,	,	,	,	_	_	11	11	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	bring	bring	bring	VBG	VBG	_	_	11	11	ADV	ADV	Y	bring.01	_	_	AM-ADV	_	_	_	_	_	_	_	_	_	_
+23	grapes	grape	grape	NNS	NNS	_	_	22	22	OBJ	OBJ	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_
+24	in	in	in	IN	IN	_	_	22	22	DIR	DIR	_	_	_	_	_	_	_	A3	_	_	_	_	_	_	_
+25	their	their	their	PRP$	PRP$	_	_	26	26	NMOD	NMOD	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_
+26	clusters	cluster	cluster	NNS	NNS	_	_	24	24	PMOD	PMOD	Y	cluster.01	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	,	,	,	,	,	_	_	11	11	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	and	and	and	CC	CC	_	_	11	11	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	in	in	in	IN	IN	_	_	45	45	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_	_	AM-LOC	_	_
+30	the	the	the	DT	DT	_	_	31	31	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	house	house	house	NN	NN	_	_	29	29	PMOD	PMOD	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_
+32	you	you	you	PRP	PRP	_	_	33	33	SBJ	SBJ	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_
+33	will	will	will	MD	MD	_	_	31	31	NMOD	NMOD	_	_	_	_	_	_	_	_	_	AM-MOD	_	_	_	_	_
+34	indeed	indeed	indeed	RB	RB	_	_	33	33	ADV	ADV	_	_	_	_	_	_	_	_	_	AM-ADV	_	_	_	_	_
+35	have	have	have	VB	VB	_	_	33	33	VC	VC	Y	have.03	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	hold	hold	hold	NN	NN	_	_	35	35	OBJ	OBJ	Y	hold.01	_	_	_	_	_	_	_	A1	_	_	_	_	_
+37	of	of	of	IN	IN	_	_	36	36	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_
+38	my	my	my	PRP$	PRP$	_	_	39	39	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_
+39	halter	halter	halter	NN	NN	_	_	37	37	PMOD	PMOD	Y	halter.01	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	,	,	,	,	,	_	_	39	39	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	O	o	o	NNP	NNP	_	_	42	42	NAME	NAME	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	Enki	enki	enki	NNP	NNP	_	_	39	39	APPO	APPO	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	,	,	,	,	,	_	_	45	45	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	you	you	you	PRP	PRP	_	_	45	45	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	A0	A0	_
+45	will	will	will	MD	MD	_	_	28	28	CONJ	CONJ	_	_	_	_	_	_	_	_	_	_	_	_	AM-MOD	_	_
+46	indeed	indeed	indeed	RB	RB	_	_	45	45	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	AM-ADV	_	_
+47	have	have	have	VB	VB	_	_	45	45	VC	VC	Y	have.03	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	hold	hold	hold	NN	NN	_	_	47	47	OBJ	OBJ	Y	hold.01	_	_	_	_	_	_	_	_	_	_	A1	_	_
+49	of	of	of	IN	IN	_	_	48	48	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_
+50	my	my	my	PRP$	PRP$	_	_	51	51	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0
+51	halter	halter	halter	NN	NN	_	_	49	49	PMOD	PMOD	Y	halter.01	_	_	_	_	_	_	_	_	_	_	_	_	_
+52	.	.	.	.	.	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	When	when	when	WRB	WRB	_	_	12	12	TMP	TMP	_	_	_	_	_	_	_	_	_	_
+2	he	he	he	PRP	PRP	_	_	3	3	SBJ	SBJ	_	_	A1	_	_	_	_	_	_	_
+3	was	be	be	VBD	VBD	_	_	12	12	TMP	TMP	_	_	_	AM-TMP	_	_	_	_	_	_
+4	filling	fill	fill	VBG	VBG	_	_	3	3	VC	VC	Y	fill.01	_	_	_	_	_	_	_	_
+5	with	with	with	IN	IN	_	_	4	4	ADV	ADV	_	_	A2	_	_	_	_	_	_	_
+6	water	water	water	NN	NN	_	_	5	5	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_
+7	a	a	a	DT	DT	_	_	9	9	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+8	second	second	second	JJ	JJ	_	_	9	9	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+9	time	time	time	NN	NN	_	_	4	4	TMP	TMP	_	_	AM-TMP	_	_	_	_	_	_	_
+10	,	,	,	,	,	_	_	12	12	P	P	_	_	_	_	_	_	_	_	_	_
+11	he	he	he	PRP	PRP	_	_	12	12	SBJ	SBJ	_	_	_	A0	_	_	_	_	_	_
+12	filled	fill	fill	VBD	VBD	_	_	19	19	TMP	TMP	Y	fill.01	_	_	AM-TMP	_	_	_	_	_
+13	the	the	the	DT	DT	_	_	14	14	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+14	dykes	dyke	dyke	NNS	NNS	_	_	12	12	OBJ	OBJ	_	_	_	A1	_	_	_	_	_	_
+15	with	with	with	IN	IN	_	_	12	12	ADV	ADV	_	_	_	A2	_	_	_	_	_	_
+16	water	water	water	NN	NN	_	_	15	15	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_
+17	,	,	,	,	,	_	_	19	19	P	P	_	_	_	_	_	_	_	_	_	_
+18	he	he	he	PRP	PRP	_	_	19	19	SBJ	SBJ	_	_	_	_	A0	_	_	_	_	_
+19	filled	fill	fill	VBD	VBD	_	_	26	26	TMP	TMP	Y	fill.01	_	_	_	AM-TMP	_	_	_	_
+20	the	the	the	DT	DT	_	_	21	21	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+21	canals	canal	canal	NNS	NNS	_	_	19	19	OBJ	OBJ	_	_	_	_	A1	_	_	_	_	_
+22	with	with	with	IN	IN	_	_	19	19	ADV	ADV	_	_	_	_	A2	_	_	_	_	_
+23	water	water	water	NN	NN	_	_	22	22	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_
+24	,	,	,	,	,	_	_	26	26	P	P	_	_	_	_	_	_	_	_	_	_
+25	he	he	he	PRP	PRP	_	_	26	26	SBJ	SBJ	_	_	_	_	_	A0	_	_	A0	_
+26	filled	fill	fill	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	fill.01	_	_	_	_	_	_	_	_
+27	the	the	the	DT	DT	_	_	28	28	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+28	fallows	fallow	fallow	NNS	NNS	_	_	26	26	OBJ	OBJ	_	_	_	_	_	A1	_	_	_	_
+29	with	with	with	IN	IN	_	_	26	26	ADV	ADV	_	_	_	_	_	A2	_	_	_	_
+30	water	water	water	NN	NN	_	_	29	29	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_
+31	.	.	.	.	.	_	_	26	26	P	P	_	_	_	_	_	_	_	_	_	_
+32	The	the	the	DT	DT	_	_	33	33	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+33	gardener	gardener	gardener	NN	NN	_	_	37	37	SBJ	SBJ	_	_	_	_	_	_	_	A1	_	_
+34	in	in	in	IN	IN	_	_	33	33	LOC	LOC	_	_	_	_	_	_	_	_	_	_
+35	his	his	his	PRP$	PRP$	_	_	36	36	NMOD	NMOD	_	_	_	_	_	_	A0	_	_	_
+36	joy	joy	joy	NN	NN	_	_	34	34	PMOD	PMOD	Y	joy.01	_	_	_	_	_	_	_	_
+37	rose	rise	rise	VBD	VBD	_	_	26	26	COORD	COORD	Y	rise.01	_	_	_	_	_	_	_	_
+38	(	-lrb-	-lrb-	(	(	_	_	37	37	P	P	_	_	_	_	_	_	_	_	_	_
+39	?	?	?	.	.	_	_	37	37	P	P	_	_	_	_	_	_	_	_	_	_
+40	)	-rrb-	-rrb-	)	)	_	_	37	37	P	P	_	_	_	_	_	_	_	_	_	_
+41	from	from	from	IN	IN	_	_	37	37	DIR	DIR	_	_	_	_	_	_	_	A3	_	_
+42	the	the	the	DT	DT	_	_	43	43	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+43	dust	dust	dust	NN	NN	_	_	41	41	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_
+44	and	and	and	CC	CC	_	_	37	37	COORD	COORD	_	_	_	_	_	_	_	_	_	_
+45	embraced	embrace	embrace	VBD	VBD	_	_	44	44	CONJ	CONJ	Y	embrace.01	_	_	_	_	_	_	_	_
+46	him	him	him	PRP	PRP	_	_	45	45	OBJ	OBJ	_	_	_	_	_	_	_	_	A1	_
+47	:	:	:	:	:	_	_	45	45	P	P	_	_	_	_	_	_	_	_	_	_
+48	Who	who	who	WP	WP	_	_	49	49	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_
+49	are	be	be	VBP	VBP	_	_	45	45	DEP	DEP	_	_	_	_	_	_	_	_	A1	_
+50	you	you	you	PRP	PRP	_	_	49	49	SBJ	SBJ	_	_	_	_	_	_	_	_	_	A0
+51	who	who	who	WP	WP	_	_	52	52	SBJ	SBJ	_	_	_	_	_	_	_	_	_	R-A0
+52	XX	xx	xx	VBP	VBP	_	_	50	50	NMOD	NMOD	Y	xx.01	_	_	_	_	_	_	_	_
+53	the	the	the	DT	DT	_	_	54	54	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+54	garden	garden	garden	NN	NN	_	_	52	52	OBJ	OBJ	_	_	_	_	_	_	_	_	_	A1
+55	?	?	?	.	.	_	_	26	26	P	P	_	_	_	_	_	_	_	_	_	_
+
+1	Enki	enki	enki	NNP	NNP	_	_	17	17	SBJ	SBJ	_	_	_	_	A0	_	_	_	_	_	_
+2	(	-lrb-	-lrb-	(	(	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_
+3	said	say	say	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	say.01	_	_	_	_	_	_	_	_	_
+4	to	to	to	TO	TO	_	_	3	3	ADV	ADV	_	_	A2	_	_	_	_	_	_	_	_
+5	)	-rrb-	-rrb-	)	)	_	_	4	4	P	P	_	_	_	_	_	_	_	_	_	_	_
+6	XX	xx	xx	IN	IN	_	_	3	3	ADV	ADV	_	_	A3	_	_	_	_	_	_	_	_
+7	the	the	the	DT	DT	_	_	8	8	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_
+8	gardener	gardener	gardener	NN	NN	_	_	6	6	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_
+9	:	:	:	:	:	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_
+10	He	he	he	PRP	PRP	_	_	11	11	SBJ	SBJ	_	_	_	A0	_	_	_	_	_	_	_
+11	brought	bring	bring	VBD	VBD	_	_	3	3	COORD	COORD	Y	bring.01	_	_	_	_	_	_	_	_	_
+12	him	him	him	PRP	PRP	_	_	11	11	OBJ	OBJ	_	_	_	A1	_	_	_	_	_	_	_
+13	cucumbers	cucumber	cucumber	NNS	NNS	_	_	11	11	OBJ	OBJ	_	_	_	A1	_	_	_	_	_	_	_
+14	in	in	in	IN	IN	_	_	13	13	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_
+15	XX	xx	xx	NNP	NNP	_	_	14	14	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_
+16	,	,	,	,	,	_	_	11	11	P	P	_	_	_	_	_	_	_	_	_	_	_
+17	brought	bring	bring	VBD	VBD	_	_	11	11	COORD	COORD	Y	bring.01	_	_	_	_	_	_	_	_	_
+18	him	him	him	PRP	PRP	_	_	17	17	OBJ	OBJ	_	_	_	_	A1	_	_	_	_	_	_
+19	apples	apple	apple	NNS	NNS	_	_	17	17	OBJ	OBJ	_	_	_	_	A1	_	_	_	_	_	_
+20	with	with	with	IN	IN	_	_	17	17	ADV	ADV	_	_	_	_	AM-MNR	_	_	_	_	_	_
+21	their	their	their	PRP$	PRP$	_	_	22	22	NMOD	NMOD	_	_	_	_	_	A1	_	_	_	_	_
+22	stems	stem	stem	NNS	NNS	_	_	23	23	SBJ	SBJ	Y	stem.01	_	_	_	_	A1	_	_	_	_
+23	sticking	stick	stick	VBG	VBG	_	_	20	20	PMOD	PMOD	Y	stick.01	_	_	_	_	_	_	_	_	_
+24	out	out	out	RP	RP	_	_	23	23	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_
+25	(	-lrb-	-lrb-	(	(	_	_	17	17	P	P	_	_	_	_	_	_	_	_	_	_	_
+26	?	?	?	.	.	_	_	17	17	P	P	_	_	_	_	_	_	_	_	_	_	_
+27	)	-rrb-	-rrb-	)	)	_	_	17	17	P	P	_	_	_	_	_	_	_	_	_	_	_
+28	,	,	,	,	,	_	_	17	17	P	P	_	_	_	_	_	_	_	_	_	_	_
+29	brought	bring	bring	VBD	VBD	_	_	17	17	COORD	COORD	Y	bring.01	_	_	_	_	_	_	_	_	_
+30	him	him	him	PRP	PRP	_	_	29	29	OBJ	OBJ	_	_	_	_	_	_	_	A1	_	_	_
+31	grapes	grape	grape	NNS	NNS	_	_	29	29	OBJ	OBJ	_	_	_	_	_	_	_	A1	_	_	_
+32	in	in	in	IN	IN	_	_	31	31	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_
+33	their	their	their	PRP$	PRP$	_	_	34	34	NMOD	NMOD	_	_	_	_	_	_	_	_	A0	_	_
+34	clusters	cluster	cluster	NNS	NNS	_	_	32	32	PMOD	PMOD	Y	cluster.01	_	_	_	_	_	_	_	_	_
+35	,	,	,	,	,	_	_	29	29	P	P	_	_	_	_	_	_	_	_	_	_	_
+36	filled	fill	fill	VBD	VBD	_	_	29	29	COORD	COORD	Y	fill.01	_	_	_	_	_	_	_	_	_
+37	his	his	his	PRP$	PRP$	_	_	38	38	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	A0
+38	lap	lap	lap	NN	NN	_	_	36	36	OBJ	OBJ	Y	lap.01	_	_	_	_	_	_	_	A1	_
+39	.	.	.	.	.	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_
+
+1	Enki	enki	enki	NNP	NNP	_	_	2	2	SBJ	SBJ	_	_	A0	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	made	make	make	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	make.02	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	his	his	his	PRP$	PRP$	_	_	4	4	NMOD	NMOD	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	face	face	face	NN	NN	_	_	2	2	OBJ	OBJ	Y	face.02	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	attractive	attractive	attractive	JJ	JJ	_	_	2	2	OPRD	OPRD	_	_	A2	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	and	and	and	CC	CC	_	_	2	2	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	took	take	take	VBD	VBD	_	_	6	6	CONJ	CONJ	Y	take.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	a	a	a	DT	DT	_	_	9	9	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	staff	staff	staff	NN	NN	_	_	7	7	OBJ	OBJ	Y	staff.01	_	_	A1	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	in	in	in	IN	IN	_	_	7	7	LOC	LOC	_	_	_	_	AM-LOC	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	his	his	his	PRP$	PRP$	_	_	12	12	NMOD	NMOD	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	hand	hand	hand	NN	NN	_	_	10	10	PMOD	PMOD	Y	hand.02	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	Enki	enki	enki	NNP	NNP	_	_	15	15	SBJ	SBJ	_	_	_	_	_	_	_	A1	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	came	come	come	VBD	VBD	_	_	2	2	COORD	COORD	Y	come.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	to	to	to	TO	TO	_	_	15	15	ADV	ADV	_	_	_	_	_	_	_	A4	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	a	a	a	DT	DT	_	_	18	18	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	halt	halt	halt	NN	NN	_	_	16	16	PMOD	PMOD	Y	halt.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	at	at	at	IN	IN	_	_	18	18	LOC	LOC	_	_	_	_	_	_	_	_	AM-LOC	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	Uttu	uttu	uttu	NNP	NNP	_	_	19	19	PMOD	PMOD	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	's	's	's	POS	POS	_	_	20	20	SUFFIX	SUFFIX	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	,	,	,	,	,	_	_	18	18	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	knocked	knock	knock	VBD	VBD	_	_	18	18	APPO	APPO	Y	knock.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	at	at	at	IN	IN	_	_	23	23	LOC	LOC	_	_	_	_	_	_	_	_	_	AM-LOC	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	her	her	her	PRP$	PRP$	_	_	26	26	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	house	house	house	NN	NN	_	_	24	24	PMOD	PMOD	Y	house.01	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	(	-lrb-	-lrb-	(	(	_	_	26	26	PRN	PRN	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	demanding	demand	demand	VBG	VBG	_	_	27	27	DEP	DEP	Y	demand.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	)	-rrb-	-rrb-	)	)	_	_	27	27	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	:	:	:	:	:	_	_	18	18	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	Open	open	open	VB	VB	_	_	18	18	DEP	DEP	Y	open.03	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	up	up	up	RP	RP	_	_	31	31	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	,	,	,	,	,	_	_	31	31	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	open	open	open	VB	VB	_	_	31	31	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	up	up	up	RP	RP	_	_	34	34	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	.	.	.	.	.	_	_	15	15	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	(	-lrb-	-lrb-	(	(	_	_	39	39	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	She	she	she	PRP	PRP	_	_	39	39	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	asked	ask	ask	VBD	VBD	_	_	34	34	PRN	PRN	Y	ask.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	)	-rrb-	-rrb-	)	)	_	_	39	39	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	:	:	:	:	:	_	_	34	34	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	Who	who	who	WP	WP	_	_	43	43	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	are	be	be	VBP	VBP	_	_	34	34	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	you	you	you	PRP	PRP	_	_	43	43	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	?	?	?	.	.	_	_	34	34	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	(	-lrb-	-lrb-	(	(	_	_	34	34	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	He	he	he	PRP	PRP	_	_	48	48	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	answered	answer	answer	VBD	VBD	_	_	34	34	OBJ	OBJ	Y	answer.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	:	:	:	:	:	_	_	34	34	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	)	-rrb-	-rrb-	)	)	_	_	34	34	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+51	I	i	i	PRP	PRP	_	_	52	52	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+52	am	be	be	VBP	VBP	_	_	34	34	TMP	TMP	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+53	a	a	a	DT	DT	_	_	54	54	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+54	gardener	gardener	gardener	NN	NN	_	_	52	52	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+55	.	.	.	.	.	_	_	34	34	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	Let	let	let	VB	VB	_	_	34	34	COORD	COORD	Y	let.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+57	me	me	me	PRP	PRP	_	_	56	56	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	A0	_	_	_	_	_	_	_	_	_	_	_	_
+58	give	give	give	VB	VB	_	_	56	56	OPRD	OPRD	Y	give.01	_	_	_	_	_	_	_	_	_	_	_	_	_	C-A1	_	_	_	_	_	_	_	_	_	_	_	_	_
+59	you	you	you	PRP	PRP	_	_	58	58	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_	_	_	_
+60	cucumbers	cucumber	cucumber	NNS	NNS	_	_	58	58	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_
+61	,	,	,	,	,	_	_	60	60	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+62	apples	apple	apple	NNS	NNS	_	_	60	60	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+63	,	,	,	,	,	_	_	62	62	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+64	and	and	and	CC	CC	_	_	62	62	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+65	grapes	grape	grape	NNS	NNS	_	_	64	64	CONJ	CONJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+66	for	for	for	IN	IN	_	_	65	65	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+67	your	your	your	PRP$	PRP$	_	_	68	68	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_
+68	consent	consent	consent	NN	NN	_	_	66	66	PMOD	PMOD	Y	consent.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+69	.	.	.	.	.	_	_	15	15	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+70	Joyfully	joyfully	joyfully	NNP	NNP	_	_	71	71	NAME	NAME	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+71	Uttu	uttu	uttu	NNP	NNP	_	_	72	72	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_
+72	opened	open	open	VBD	VBD	_	_	15	15	COORD	COORD	Y	open.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+73	the	the	the	DT	DT	_	_	74	74	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+74	house	house	house	NN	NN	_	_	72	72	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_
+75	.	.	.	.	.	_	_	72	72	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+76	Enki	enki	enki	NNP	NNP	_	_	77	77	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_
+77	gave	give	give	VBD	VBD	_	_	72	72	COORD	COORD	Y	give.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+78	Uttu	uttu	uttu	NNP	NNP	_	_	77	77	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_
+79	,	,	,	,	,	_	_	78	78	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+80	the	the	the	DT	DT	_	_	85	85	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+81	exalted	exalt	exalt	VBN	VBN	_	_	85	85	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+82	(	-lrb-	-lrb-	(	(	_	_	81	81	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+83	?	?	?	.	.	_	_	81	81	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+84	)	-rrb-	-rrb-	)	)	_	_	81	81	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+85	woman	woman	woman	NN	NN	_	_	78	78	APPO	APPO	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+86	,	,	,	,	,	_	_	78	78	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+87	cucumbers	cucumber	cucumber	NNS	NNS	_	_	77	77	OBJ	OBJ	Y	cucumber.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_
+88	in	in	in	IN	IN	_	_	87	87	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-LOC	_	_	_	_	_	_	_	_
+89	XX	xx	xx	NNP	NNP	_	_	88	88	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+90	,	,	,	,	,	_	_	77	77	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+91	gave	give	give	VBD	VBD	_	_	77	77	COORD	COORD	Y	give.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+92	her	her	her	PRP$	PRP$	_	_	93	93	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+93	apples	apple	apple	NNS	NNS	_	_	91	91	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_
+94	with	with	with	IN	IN	_	_	91	91	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-ADV	_	_	_	_	_	_	_
+95	their	their	their	PRP$	PRP$	_	_	96	96	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_
+96	stems	stem	stem	NNS	NNS	_	_	97	97	SBJ	SBJ	Y	stem.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_
+97	sticking	stick	stick	VBG	VBG	_	_	94	94	PMOD	PMOD	Y	stick.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+98	out	out	out	RP	RP	_	_	97	97	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+99	(	-lrb-	-lrb-	(	(	_	_	91	91	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+100	?	?	?	.	.	_	_	91	91	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+101	)	-rrb-	-rrb-	)	)	_	_	91	91	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+102	,	,	,	,	,	_	_	91	91	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+103	gave	give	give	VBD	VBD	_	_	91	91	COORD	COORD	Y	give.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+104	her	her	her	PRP$	PRP$	_	_	105	105	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_
+105	grapes	grape	grape	NNS	NNS	_	_	103	103	OBJ	OBJ	Y	grape.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_
+106	in	in	in	IN	IN	_	_	105	105	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_
+107	their	their	their	PRP$	PRP$	_	_	108	108	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_
+108	clusters	cluster	cluster	NNS	NNS	_	_	106	106	PMOD	PMOD	Y	cluster.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+109	.	.	.	.	.	_	_	103	103	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+110	1	1	1	CD	CD	_	_	111	111	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+111	line	line	line	NN	NN	_	_	103	103	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_
+112	not	not	not	RB	RB	_	_	113	113	DEP	DEP	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+113	in	in	in	IN	IN	_	_	103	103	TMP	TMP	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-TMP	_	_	_	_
+114	the	the	the	DT	DT	_	_	115	115	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+115	ms.	ms.	ms.	NN	NN	_	_	113	113	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+116	from	from	from	IN	IN	_	_	115	115	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+117	Nibru	nibru	nibru	NNP	NNP	_	_	116	116	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+118	:	:	:	:	:	_	_	103	103	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+119	He	he	he	PRP	PRP	_	_	120	120	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	A0
+120	poured	pour	pour	VBD	VBD	_	_	103	103	COORD	COORD	Y	pour.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+121	beer	beer	beer	NN	NN	_	_	120	120	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_
+122	for	for	for	IN	IN	_	_	120	120	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A3	_
+123	her	her	her	PRP$	PRP$	_	_	122	122	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+124	in	in	in	IN	IN	_	_	120	120	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-LOC	_
+125	the	the	the	DT	DT	_	_	128	128	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+126	large	large	large	JJ	JJ	_	_	128	128	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+127	ban	ban	ban	NN	NN	_	_	128	128	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1
+128	measure	measure	measure	NN	NN	_	_	124	124	PMOD	PMOD	Y	measure.02	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+129	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Uttu	uttu	uttu	NNP	NNP	_	_	17	17	SBJ	SBJ	_	_	_	A0	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	,	,	,	,	,	_	_	1	1	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	the	the	the	DT	DT	_	_	8	8	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	exalted	exalt	exalt	VBN	VBN	_	_	8	8	NMOD	NMOD	Y	exalt.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	(	-lrb-	-lrb-	(	(	_	_	4	4	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	?	?	?	.	.	_	_	4	4	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	)	-rrb-	-rrb-	)	)	_	_	4	4	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	woman	woman	woman	NN	NN	_	_	1	1	APPO	APPO	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	,	,	,	,	,	_	_	8	8	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	XX	xx	xx	NNP	NNP	_	_	8	8	APPO	APPO	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	to	to	to	TO	TO	_	_	4	4	ADV	ADV	_	_	A2	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	the	the	the	DT	DT	_	_	13	13	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	left	leave	leave	NN	NN	_	_	11	11	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	for	for	for	IN	IN	_	_	13	13	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	him	him	him	PRP	PRP	_	_	14	14	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	,	,	,	,	,	_	_	1	1	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	waved	wave	wave	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	wave.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	the	the	the	DT	DT	_	_	19	19	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	hands	hands	hands	NNS	NNS	_	_	17	17	OBJ	OBJ	Y	hand.01	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	for	for	for	IN	IN	_	_	17	17	ADV	ADV	_	_	_	A2	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	him	him	him	PRP	PRP	_	_	20	20	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	.	.	.	.	.	_	_	17	17	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	Enki	enki	enki	NNP	NNP	_	_	24	24	SBJ	SBJ	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	aroused	arouse	arouse	VBD	VBD	_	_	17	17	COORD	COORD	Y	arouse.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	Uttu	uttu	uttu	NNP	NNP	_	_	24	24	OBJ	OBJ	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	.	.	.	.	.	_	_	25	25	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	He	he	he	PRP	PRP	_	_	28	28	SBJ	SBJ	_	_	_	_	_	_	A0	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	clasped	clasp	clasp	VBD	VBD	_	_	24	24	TMP	TMP	Y	clasp.01	_	_	_	AM-TMP	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	her	her	her	PRP	PRP	_	_	28	28	OBJ	OBJ	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	to	to	to	TO	TO	_	_	28	28	ADV	ADV	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	the	the	the	DT	DT	_	_	32	32	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	bosom	bosom	bosom	NN	NN	_	_	30	30	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	,	,	,	,	,	_	_	28	28	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	lying	lie	lie	VBG	VBG	_	_	28	28	ADV	ADV	Y	lie.01	_	_	_	_	AM-ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	in	in	in	IN	IN	_	_	34	34	LOC	LOC	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	her	her	her	PRP$	PRP$	_	_	37	37	NMOD	NMOD	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	crotch	crotch	crotch	NN	NN	_	_	35	35	PMOD	PMOD	Y	crotch.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	,	,	,	,	,	_	_	28	28	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	fondled	fondle	fondle	VBD	VBD	_	_	28	28	COORD	COORD	Y	fondle.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	her	her	her	PRP$	PRP$	_	_	41	41	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_
+41	thighs	thigh	thigh	NNS	NNS	_	_	39	39	OBJ	OBJ	Y	thigh.01	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	,	,	,	,	,	_	_	39	39	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	fondled	fondle	fondle	VBD	VBD	_	_	39	39	COORD	COORD	Y	fondle.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	her	her	her	PRP	PRP	_	_	43	43	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_
+45	with	with	with	IN	IN	_	_	43	43	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	AM-MNR	_	_	_	_	_	_	_	_	_	_	_
+46	the	the	the	DT	DT	_	_	47	47	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	hand	hand	hand	NN	NN	_	_	45	45	PMOD	PMOD	Y	hand.03	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	.	.	.	.	.	_	_	43	43	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	He	he	he	PRP	PRP	_	_	50	50	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	A1	_	_	_	_	_	_	_	_
+50	clasped	clasp	clasp	VBD	VBD	_	_	43	43	COORD	COORD	Y	clasp.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+51	her	her	her	PRP	PRP	_	_	50	50	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_
+52	to	to	to	TO	TO	_	_	50	50	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_
+53	the	the	the	DT	DT	_	_	54	54	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+54	bosom	bosom	bosom	NN	NN	_	_	52	52	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+55	,	,	,	,	,	_	_	50	50	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	lying	lie	lie	VBG	VBG	_	_	50	50	ADV	ADV	Y	lie.01	_	_	_	_	_	_	_	_	_	_	_	AM-ADV	_	_	_	_	_	_	_	_	_
+57	in	in	in	IN	IN	_	_	56	56	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_
+58	her	her	her	PRP$	PRP$	_	_	59	59	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_
+59	crotch	crotch	crotch	NN	NN	_	_	57	57	PMOD	PMOD	Y	crotch.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+60	,	,	,	,	,	_	_	50	50	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+61	made	make	make	VBD	VBD	_	_	50	50	COORD	COORD	Y	make.03	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+62	love	love	love	NN	NN	_	_	61	61	OBJ	OBJ	Y	love.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_
+63	to	to	to	TO	TO	_	_	61	61	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A2	A1	_	_	_	_	_
+64	the	the	the	DT	DT	_	_	65	65	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+65	youngster	youngster	youngster	NN	NN	_	_	63	63	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+66	and	and	and	CC	CC	_	_	61	61	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+67	kissed	kiss	kiss	VBD	VBD	_	_	66	66	CONJ	CONJ	Y	kiss.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+68	her	her	her	PRP	PRP	_	_	67	67	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_
+69	.	.	.	.	.	_	_	4	4	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+70	Enki	enki	enki	NNP	NNP	_	_	71	71	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_
+71	poured	pour	pour	VBD	VBD	_	_	67	67	COORD	COORD	Y	pour.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+72	semen	seman	seman	NNS	NNS	_	_	71	71	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_
+73	into	into	into	IN	IN	_	_	71	71	DIR	DIR	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A3	_	_	_
+74	Uttu	uttu	uttu	NNP	NNP	_	_	76	76	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_
+75	's	's	's	POS	POS	_	_	74	74	SUFFIX	SUFFIX	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+76	womb	womb	womb	NN	NN	_	_	73	73	PMOD	PMOD	Y	womb.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+77	and	and	and	CC	CC	_	_	71	71	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+78	she	she	she	PRP	PRP	_	_	79	79	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_
+79	conceived	conceive	conceive	VBD	VBD	_	_	77	77	CONJ	CONJ	Y	conceive.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+80	the	the	the	DT	DT	_	_	81	81	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+81	semen	seman	seman	NNS	NNS	_	_	79	79	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_
+82	in	in	in	IN	IN	_	_	81	81	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-LOC	_
+83	the	the	the	DT	DT	_	_	84	84	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+84	womb	womb	womb	NN	NN	_	_	82	82	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+85	,	,	,	,	,	_	_	81	81	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+86	the	the	the	DT	DT	_	_	87	87	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+87	semen	seman	seman	NNS	NNS	_	_	81	81	APPO	APPO	Y	seman.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+88	of	of	of	IN	IN	_	_	87	87	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1
+89	Enki	enki	enki	NNP	NNP	_	_	88	88	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+90	.	.	.	.	.	_	_	17	17	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Uttu	uttu	uttu	NNP	NNP	_	_	7	7	SBJ	SBJ	_	_	A0	_	_	_	_	_	_
+2	,	,	,	,	,	_	_	1	1	P	P	_	_	_	_	_	_	_	_	_
+3	the	the	the	DT	DT	_	_	5	5	NMOD	NMOD	_	_	_	_	_	_	_	_	_
+4	beautiful	beautiful	beautiful	JJ	JJ	_	_	5	5	NMOD	NMOD	_	_	_	_	_	_	_	_	_
+5	woman	woman	woman	NN	NN	_	_	1	1	APPO	APPO	_	_	_	_	_	_	_	_	_
+6	,	,	,	,	,	_	_	1	1	P	P	_	_	_	_	_	_	_	_	_
+7	cried	cry	cry	VBN	VBN	_	_	0	0	ROOT	ROOT	Y	cry.03	_	_	_	_	_	_	_
+8	out	out	out	RP	RP	_	_	7	7	PRT	PRT	_	_	_	_	_	_	_	_	_
+9	:	:	:	:	:	_	_	7	7	P	P	_	_	_	_	_	_	_	_	_
+10	Woe	woe	woe	NN	NN	_	_	16	16	TMP	TMP	_	_	_	_	AM-TMP	_	_	_	_
+11	,	,	,	,	,	_	_	16	16	P	P	_	_	_	_	_	_	_	_	_
+12	my	my	my	PRP$	PRP$	_	_	13	13	NMOD	NMOD	_	_	_	A0	_	_	_	_	_
+13	thighs	thigh	thigh	NNS	NNS	_	_	16	16	SBJ	SBJ	Y	thigh.01	_	_	A1	_	_	_	_
+14	.	.	.	.	.	_	_	16	16	P	P	_	_	_	_	_	_	_	_	_
+15	She	she	she	PRP	PRP	_	_	16	16	SBJ	SBJ	_	_	_	_	A0	_	_	_	_
+16	cried	cry	cry	VBD	VBD	_	_	7	7	COORD	COORD	Y	cry.03	_	_	_	_	_	_	_
+17	out	out	out	RP	RP	_	_	16	16	PRT	PRT	_	_	_	_	_	_	_	_	_
+18	:	:	:	:	:	_	_	16	16	P	P	_	_	_	_	_	_	_	_	_
+19	Woe	woe	woe	NN	NN	_	_	30	30	DEP	DEP	_	_	_	_	_	_	_	_	A0
+20	,	,	,	,	,	_	_	19	19	P	P	_	_	_	_	_	_	_	_	_
+21	my	my	my	PRP$	PRP$	_	_	22	22	NMOD	NMOD	_	_	_	_	_	A1	_	_	_
+22	body	body	body	NN	NN	_	_	19	19	COORD	COORD	Y	body.01	_	_	_	_	_	_	_
+23	.	.	.	.	.	_	_	24	24	P	P	_	_	_	_	_	_	_	_	_
+24	Woe	woe	woe	NN	NN	_	_	22	22	COORD	COORD	Y	woe.01	_	_	_	_	_	_	_
+25	,	,	,	,	,	_	_	24	24	P	P	_	_	_	_	_	_	_	_	_
+26	my	my	my	PRP$	PRP$	_	_	27	27	NMOD	NMOD	_	_	_	_	_	_	_	A1	_
+27	heart	heart	heart	NN	NN	_	_	24	24	APPO	APPO	Y	heart.02	_	_	_	_	_	_	_
+28	.	.	.	.	.	_	_	30	30	P	P	_	_	_	_	_	_	_	_	_
+29	Ninhursaŋa	ninhursaŋa	ninhursaŋa	NNP	NNP	_	_	30	30	SBJ	SBJ	_	_	_	_	_	_	_	_	A0
+30	removed	remove	remove	VBD	VBD	_	_	16	16	COORD	COORD	Y	remove.01	_	_	_	_	_	_	_
+31	the	the	the	DT	DT	_	_	32	32	NMOD	NMOD	_	_	_	_	_	_	_	_	_
+32	semen	seman	seman	NNS	NNS	_	_	30	30	OBJ	OBJ	_	_	_	_	_	_	_	_	A1
+33	from	from	from	IN	IN	_	_	30	30	ADV	ADV	_	_	_	_	_	_	_	_	A2
+34	the	the	the	DT	DT	_	_	35	35	NMOD	NMOD	_	_	_	_	_	_	_	_	_
+35	thighs	thigh	thigh	NNS	NNS	_	_	33	33	PMOD	PMOD	_	_	_	_	_	_	_	_	_
+36	.	.	.	.	.	_	_	7	7	P	P	_	_	_	_	_	_	_	_	_
+
+1	She	she	she	PRP	PRP	_	_	2	2	SBJ	SBJ	_	_	A0	_	_	_	_	_	_	_
+2	grew	grow	grow	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	grow.01	_	_	_	_	_	_	_	_
+3	the	the	the	DT	DT	_	_	4	4	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+4	'tree	'tree	'tree	NN	NN	_	_	6	6	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+5	'	'	'	POS	POS	_	_	4	4	SUFFIX	SUFFIX	_	_	_	_	_	_	_	_	_	_
+6	plant	plant	plant	NN	NN	_	_	2	2	OBJ	OBJ	_	_	A1	_	_	_	_	_	_	_
+7	,	,	,	,	,	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_
+8	she	she	she	PRP	PRP	_	_	9	9	SBJ	SBJ	_	_	_	A1	_	_	_	_	_	_
+9	grew	grow	grow	VBD	VBD	_	_	2	2	COORD	COORD	Y	grow.01	_	_	_	_	_	_	_	_
+10	the	the	the	DT	DT	_	_	11	11	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+11	'honey	'honey	'honey	NN	NN	_	_	13	13	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+12	'	'	'	POS	POS	_	_	11	11	SUFFIX	SUFFIX	_	_	_	_	_	_	_	_	_	_
+13	plant	plant	plant	NN	NN	_	_	9	9	OBJ	OBJ	_	_	_	A1	_	_	_	_	_	_
+14	,	,	,	,	,	_	_	9	9	P	P	_	_	_	_	_	_	_	_	_	_
+15	she	she	she	PRP	PRP	_	_	16	16	SBJ	SBJ	_	_	_	_	A1	_	_	_	_	_
+16	grew	grow	grow	VBD	VBD	_	_	9	9	COORD	COORD	Y	grow.01	_	_	_	_	_	_	_	_
+17	the	the	the	DT	DT	_	_	20	20	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+18	'vegetable	'vegetable	'vegetable	JJ	JJ	_	_	20	20	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+19	'	'	'	POS	POS	_	_	18	18	SUFFIX	SUFFIX	_	_	_	_	_	_	_	_	_	_
+20	plant	plant	plant	NN	NN	_	_	16	16	OBJ	OBJ	_	_	_	_	A1	_	_	_	_	_
+21	,	,	,	,	,	_	_	16	16	P	P	_	_	_	_	_	_	_	_	_	_
+22	she	she	she	PRP	PRP	_	_	23	23	SBJ	SBJ	_	_	_	_	_	A1	_	_	_	_
+23	grew	grow	grow	VBD	VBD	_	_	16	16	COORD	COORD	Y	grow.01	_	_	_	_	_	_	_	_
+24	the	the	the	DT	DT	_	_	26	26	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+25	esparto	esparto	esparto	NN	NN	_	_	26	26	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+26	grass	grass	grass	NN	NN	_	_	23	23	OBJ	OBJ	_	_	_	_	_	A1	_	_	_	_
+27	(	-lrb-	-lrb-	(	(	_	_	26	26	P	P	_	_	_	_	_	_	_	_	_	_
+28	?	?	?	.	.	_	_	26	26	P	P	_	_	_	_	_	_	_	_	_	_
+29	)	-rrb-	-rrb-	)	)	_	_	26	26	P	P	_	_	_	_	_	_	_	_	_	_
+30	,	,	,	,	,	_	_	23	23	P	P	_	_	_	_	_	_	_	_	_	_
+31	she	she	she	PRP	PRP	_	_	32	32	SBJ	SBJ	_	_	_	_	_	_	A1	_	_	_
+32	grew	grow	grow	VBD	VBD	_	_	23	23	COORD	COORD	Y	grow.01	_	_	_	_	_	_	_	_
+33	the	the	the	DT	DT	_	_	35	35	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+34	atutu	atutu	atutu	NN	NN	_	_	35	35	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+35	plant	plant	plant	NN	NN	_	_	32	32	OBJ	OBJ	_	_	_	_	_	_	A1	_	_	_
+36	,	,	,	,	,	_	_	32	32	P	P	_	_	_	_	_	_	_	_	_	_
+37	she	she	she	PRP	PRP	_	_	38	38	SBJ	SBJ	_	_	_	_	_	_	_	A1	_	_
+38	grew	grow	grow	VBD	VBD	_	_	32	32	COORD	COORD	Y	grow.01	_	_	_	_	_	_	_	_
+39	the	the	the	DT	DT	_	_	41	41	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+40	aštaltal	aštaltal	aštaltal	JJ	JJ	_	_	41	41	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+41	plant	plant	plant	NN	NN	_	_	38	38	OBJ	OBJ	_	_	_	_	_	_	_	A1	_	_
+42	,	,	,	,	,	_	_	38	38	P	P	_	_	_	_	_	_	_	_	_	_
+43	she	she	she	PRP	PRP	_	_	44	44	SBJ	SBJ	_	_	_	_	_	_	_	_	A1	_
+44	grew	grow	grow	VBD	VBD	_	_	38	38	COORD	COORD	Y	grow.01	_	_	_	_	_	_	_	_
+45	the	the	the	DT	DT	_	_	47	47	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+46	XX	xx	xx	NNP	NNP	_	_	47	47	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+47	plant	plant	plant	NN	NN	_	_	44	44	OBJ	OBJ	_	_	_	_	_	_	_	_	A1	_
+48	,	,	,	,	,	_	_	44	44	P	P	_	_	_	_	_	_	_	_	_	_
+49	she	she	she	PRP	PRP	_	_	50	50	SBJ	SBJ	_	_	_	_	_	_	_	_	_	A1
+50	grew	grow	grow	VBD	VBD	_	_	44	44	OBJ	OBJ	Y	grow.01	_	_	_	_	_	_	A1	_
+51	the	the	the	DT	DT	_	_	53	53	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+52	amharu	amharu	amharu	JJ	JJ	_	_	53	53	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_
+53	plant	plant	plant	NN	NN	_	_	50	50	OBJ	OBJ	_	_	_	_	_	_	_	_	_	A1
+54	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_
+
+1	Enki	enki	enki	NNP	NNP	_	_	2	2	SBJ	SBJ	_	_	A0	_	_	_	_	_
+2	was	be	be	VBD	VBD	_	_	0	0	ROOT	ROOT	_	_	_	_	_	_	_	_
+3	able	able	able	JJ	JJ	_	_	2	2	PRD	PRD	_	_	_	_	_	_	_	_
+4	to	to	to	TO	TO	_	_	3	3	AMOD	AMOD	_	_	_	_	_	_	_	_
+5	see	see	see	VB	VB	_	_	4	4	IM	IM	Y	see.01	_	_	_	_	_	_
+6	up	up	up	RP	RP	_	_	5	5	PRT	PRT	_	_	_	_	_	_	_	_
+7	there	there	there	RB	RB	_	_	5	5	LOC	LOC	_	_	AM-LOC	_	_	_	_	_
+8	from	from	from	IN	IN	_	_	7	7	AMOD	AMOD	_	_	_	_	_	_	_	_
+9	in	in	in	IN	IN	_	_	14	14	ADV	ADV	_	_	_	_	_	_	_	_
+10	the	the	the	DT	DT	_	_	11	11	NMOD	NMOD	_	_	_	_	_	_	_	_
+11	marsh	marsh	marsh	NN	NN	_	_	9	9	PMOD	PMOD	_	_	_	_	_	_	_	_
+12	,	,	,	,	,	_	_	14	14	P	P	_	_	_	_	_	_	_	_
+13	he	he	he	PRP	PRP	_	_	14	14	SBJ	SBJ	_	_	_	A0	_	_	_	_
+14	was	be	be	VBD	VBD	_	_	8	8	PMOD	PMOD	_	_	_	_	_	_	_	_
+15	able	able	able	JJ	JJ	_	_	14	14	PRD	PRD	_	_	_	_	_	_	_	_
+16	to	to	to	TO	TO	_	_	15	15	AMOD	AMOD	_	_	_	_	_	_	_	_
+17	see	see	see	VB	VB	_	_	16	16	IM	IM	Y	see.01	_	_	_	_	_	_
+18	up	up	up	RP	RP	_	_	17	17	PRT	PRT	_	_	_	_	_	_	_	_
+19	there	there	there	RB	RB	_	_	17	17	LOC	LOC	_	_	_	AM-LOC	_	_	_	_
+20	,	,	,	,	,	_	_	14	14	P	P	_	_	_	_	_	_	_	_
+21	he	he	he	PRP	PRP	_	_	22	22	SBJ	SBJ	_	_	_	_	_	_	_	_
+22	was	be	be	VBD	VBD	_	_	14	14	COORD	COORD	_	_	_	_	_	_	_	_
+23	.	.	.	.	.	_	_	22	22	P	P	_	_	_	_	_	_	_	_
+24	He	he	he	PRP	PRP	_	_	25	25	SBJ	SBJ	_	_	_	_	A0	A2	_	_
+25	said	say	say	VBD	VBD	_	_	22	22	COORD	COORD	Y	say.01	_	_	_	_	_	_
+26	to	to	to	TO	TO	_	_	25	25	ADV	ADV	_	_	_	_	A2	_	_	_
+27	his	his	his	PRP$	PRP$	_	_	28	28	NMOD	NMOD	_	_	_	_	_	A2	_	_
+28	minister	minister	minister	NN	NN	_	_	26	26	PMOD	PMOD	Y	minister.01	_	_	_	A0	_	_
+29	Isimud	isimud	isimud	NNP	NNP	_	_	25	25	TMP	TMP	_	_	_	_	AM-TMP	_	_	_
+30	:	:	:	:	:	_	_	25	25	P	P	_	_	_	_	_	_	_	_
+31	I	i	i	PRP	PRP	_	_	32	32	SBJ	SBJ	_	_	_	_	_	_	A0	_
+32	have	have	have	VBP	VBP	_	_	25	25	COORD	COORD	_	_	_	_	_	_	_	_
+33	not	not	not	RB	RB	_	_	32	32	ADV	ADV	_	_	_	_	_	_	AM-NEG	_
+34	determined	determine	determine	VBN	VBN	_	_	32	32	VC	VC	Y	determine.01	_	_	_	_	_	_
+35	the	the	the	DT	DT	_	_	36	36	NMOD	NMOD	_	_	_	_	_	_	_	_
+36	destiny	destiny	destiny	NN	NN	_	_	34	34	OBJ	OBJ	Y	destiny.01	_	_	_	_	A1	_
+37	of	of	of	IN	IN	_	_	36	36	NMOD	NMOD	_	_	_	_	_	_	_	A1
+38	these	these	these	DT	DT	_	_	39	39	NMOD	NMOD	_	_	_	_	_	_	_	_
+39	plants	plant	plant	NNS	NNS	_	_	37	37	PMOD	PMOD	_	_	_	_	_	_	_	_
+40	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_	_	_	_	_
+41	What	what	what	WP	WP	_	_	42	42	SBJ	SBJ	_	_	_	_	_	_	_	_
+42	is	be	be	VBZ	VBZ	_	_	25	25	OBJ	OBJ	_	_	_	_	A1	_	_	_
+43	this	this	this	DT	DT	_	_	44	44	NMOD	NMOD	_	_	_	_	_	_	_	_
+44	one	one	one	CD	CD	_	_	42	42	PRD	PRD	_	_	_	_	_	_	_	_
+45	?	?	?	.	.	_	_	22	22	P	P	_	_	_	_	_	_	_	_
+46	What	what	what	WP	WP	_	_	47	47	SBJ	SBJ	_	_	_	_	_	_	_	_
+47	is	be	be	VBZ	VBZ	_	_	22	22	PMOD	PMOD	_	_	_	_	_	_	_	_
+48	that	that	that	IN	IN	_	_	49	49	NMOD	NMOD	_	_	_	_	_	_	_	_
+49	one	one	one	CD	CD	_	_	47	47	PRD	PRD	_	_	_	_	_	_	_	_
+50	?	?	?	.	.	_	_	2	2	P	P	_	_	_	_	_	_	_	_
+
+1	His	his	his	PRP$	PRP$	_	_	2	2	NMOD	NMOD	_	_	A2	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	minister	minister	minister	NN	NN	_	_	4	4	SBJ	SBJ	Y	minister.01	A0	A0	A0	_	_	_	_	_	_	_	_	_	_	_	_
+3	Isimud	isimud	isimud	NNP	NNP	_	_	2	2	APPO	APPO	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	had	have	have	VBD	VBD	_	_	90	90	OBJ	OBJ	Y	have.03	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_
+5	the	the	the	DT	DT	_	_	6	6	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	answer	answer	answer	NN	NN	_	_	4	4	OBJ	OBJ	Y	answer.01	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	for	for	for	IN	IN	_	_	6	6	NMOD	NMOD	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_
+8	him	him	him	PRP	PRP	_	_	7	7	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	.	.	.	.	.	_	_	4	4	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	My	my	my	PRP$	PRP$	_	_	11	11	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	master	master	master	NN	NN	_	_	23	23	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	,	,	,	,	,	_	_	23	23	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	the	the	the	DT	DT	_	_	14	14	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	'tree	'tree	'tree	NN	NN	_	_	16	16	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	'	'	'	POS	POS	_	_	14	14	SUFFIX	SUFFIX	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	plant	plant	plant	NN	NN	_	_	23	23	SBJ	SBJ	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_
+17	,	,	,	,	,	_	_	19	19	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	he	he	he	PRP	PRP	_	_	19	19	SBJ	SBJ	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_
+19	said	say	say	VBD	VBD	_	_	16	16	PRN	PRN	Y	say.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	to	to	to	TO	TO	_	_	19	19	ADV	ADV	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_	_	_
+21	him	him	him	PRP	PRP	_	_	20	20	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	,	,	,	,	,	_	_	16	16	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	cut	cut	cut	VBD	VBD	_	_	7	7	COORD	COORD	Y	cut.04	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	it	it	it	PRP	PRP	_	_	23	23	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	off	off	off	RP	RP	_	_	23	23	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	for	for	for	IN	IN	_	_	23	23	ADV	ADV	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_	_
+27	him	him	him	PRP	PRP	_	_	26	26	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	and	and	and	CC	CC	_	_	23	23	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	Enki	enki	enki	NNP	NNP	_	_	30	30	SBJ	SBJ	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_
+30	ate	eat	eat	VBD	VBD	_	_	28	28	CONJ	CONJ	Y	eat.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	it	it	it	PRP	PRP	_	_	30	30	OBJ	OBJ	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_
+32	.	.	.	.	.	_	_	30	30	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	My	my	my	PRP$	PRP$	_	_	34	34	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	master	master	master	NN	NN	_	_	30	30	OBJ	OBJ	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_
+35	,	,	,	,	,	_	_	30	30	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	the	the	the	DT	DT	_	_	37	37	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	'honey	'honey	'honey	NN	NN	_	_	39	39	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	'	'	'	POS	POS	_	_	37	37	SUFFIX	SUFFIX	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	plant	plant	plant	NN	NN	_	_	46	46	SBJ	SBJ	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_
+40	,	,	,	,	,	_	_	42	42	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	he	he	he	PRP	PRP	_	_	42	42	SBJ	SBJ	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_
+42	said	say	say	VBD	VBD	_	_	39	39	PRN	PRN	Y	say.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	to	to	to	TO	TO	_	_	42	42	ADV	ADV	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_
+44	him	him	him	PRP	PRP	_	_	43	43	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	,	,	,	,	,	_	_	39	39	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	pulled	pull	pull	VBD	VBD	_	_	30	30	COORD	COORD	Y	pull.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	it	it	it	PRP	PRP	_	_	46	46	OBJ	OBJ	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_
+48	up	up	up	RP	RP	_	_	46	46	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	for	for	for	IN	IN	_	_	46	46	ADV	ADV	_	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_
+50	him	him	him	PRP	PRP	_	_	49	49	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+51	and	and	and	CC	CC	_	_	46	46	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+52	Enki	enki	enki	NNP	NNP	_	_	53	53	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_
+53	ate	eat	eat	VBD	VBD	_	_	51	51	CONJ	CONJ	Y	eat.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+54	it	it	it	PRP	PRP	_	_	53	53	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_
+55	.	.	.	.	.	_	_	53	53	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	My	my	my	PRP$	PRP$	_	_	57	57	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+57	master	master	master	NN	NN	_	_	53	53	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_
+58	,	,	,	,	,	_	_	53	53	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+59	the	the	the	DT	DT	_	_	62	62	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+60	'vegetable	'vegetable	'vegetable	JJ	JJ	_	_	62	62	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+61	'	'	'	POS	POS	_	_	60	60	SUFFIX	SUFFIX	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+62	plant	plant	plant	NN	NN	_	_	69	69	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_
+63	,	,	,	,	,	_	_	65	65	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+64	he	he	he	PRP	PRP	_	_	65	65	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_
+65	said	say	say	VBD	VBD	_	_	62	62	PRN	PRN	Y	say.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+66	to	to	to	TO	TO	_	_	65	65	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	A2	_	_	_	_	_
+67	him	him	him	PRP	PRP	_	_	66	66	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+68	,	,	,	,	,	_	_	62	62	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+69	cut	cut	cut	VBD	VBD	_	_	53	53	COORD	COORD	Y	cut.04	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+70	it	it	it	PRP	PRP	_	_	69	69	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_
+71	off	off	off	RP	RP	_	_	69	69	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+72	for	for	for	IN	IN	_	_	69	69	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	A2	_	_	_	_
+73	him	him	him	PRP	PRP	_	_	72	72	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+74	and	and	and	CC	CC	_	_	69	69	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+75	Enki	enki	enki	NNP	NNP	_	_	76	76	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_
+76	ate	eat	eat	VBD	VBD	_	_	74	74	CONJ	CONJ	Y	eat.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+77	it	it	it	PRP	PRP	_	_	76	76	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_
+78	.	.	.	.	.	_	_	7	7	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+79	My	my	my	PRP$	PRP$	_	_	80	80	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+80	master	master	master	NN	NN	_	_	78	78	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+81	,	,	,	,	,	_	_	80	80	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+82	the	the	the	DT	DT	_	_	84	84	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+83	alfalfa	alfalfa	alfalfa	JJ	JJ	_	_	84	84	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+84	grass	grass	grass	NN	NN	_	_	80	80	APPO	APPO	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+85	(	-lrb-	-lrb-	(	(	_	_	101	101	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+86	?	?	?	.	.	_	_	7	7	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+87	)	-rrb-	-rrb-	)	)	_	_	4	4	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+88	,	,	,	,	,	_	_	90	90	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+89	he	he	he	PRP	PRP	_	_	90	90	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	A0	_
+90	said	say	say	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	say.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+91	to	to	to	TO	TO	_	_	90	90	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A2	_	_
+92	him	him	him	PRP	PRP	_	_	91	91	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+93	,	,	,	,	,	_	_	90	90	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+94	pulled	pull	pull	VBD	VBD	_	_	90	90	COORD	COORD	Y	pull.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+95	it	it	it	PRP	PRP	_	_	94	94	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_
+96	up	up	up	RP	RP	_	_	94	94	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+97	for	for	for	IN	IN	_	_	94	94	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A2	_
+98	him	him	him	PRP	PRP	_	_	97	97	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+99	and	and	and	CC	CC	_	_	94	94	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+100	Enki	enki	enki	NNP	NNP	_	_	101	101	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0
+101	ate	eat	eat	VBD	VBD	_	_	99	99	CONJ	CONJ	Y	eat.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+102	it	it	it	PRP	PRP	_	_	101	101	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1
+103	.	.	.	.	.	_	_	90	90	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	My	my	my	PRP$	PRP$	_	_	2	2	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	master	master	master	NN	NN	_	_	13	13	SBJ	SBJ	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	,	,	,	,	,	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	the	the	the	DT	DT	_	_	6	6	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	atutu	atutu	atutu	NNP	NNP	_	_	6	6	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	plant	plant	plant	NN	NN	_	_	2	2	APPO	APPO	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	,	,	,	,	,	_	_	9	9	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	he	he	he	PRP	PRP	_	_	9	9	SBJ	SBJ	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	said	say	say	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	say.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	to	to	to	TO	TO	_	_	9	9	ADV	ADV	_	_	A2	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	him	him	him	PRP	PRP	_	_	10	10	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	,	,	,	,	,	_	_	9	9	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	cut	cut	cut	VBD	VBD	_	_	10	10	COORD	COORD	Y	cut.04	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	it	it	it	PRP	PRP	_	_	13	13	OBJ	OBJ	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	off	off	off	RP	RP	_	_	13	13	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	for	for	for	IN	IN	_	_	13	13	PRP	PRP	_	_	_	AM-PNC	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	him	him	him	PRP	PRP	_	_	88	88	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	and	and	and	CC	CC	_	_	13	13	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	Enki	enki	enki	NNP	NNP	_	_	20	20	SBJ	SBJ	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	ate	eat	eat	VBD	VBD	_	_	18	18	CONJ	CONJ	Y	eat.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	it	it	it	PRP	PRP	_	_	20	20	OBJ	OBJ	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	.	.	.	.	.	_	_	20	20	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	My	my	my	PRP$	PRP$	_	_	24	24	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	master	master	master	NN	NN	_	_	20	20	OBJ	OBJ	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	,	,	,	,	,	_	_	20	20	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	the	the	the	DT	DT	_	_	28	28	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	aštaltal	aštaltal	aštaltal	JJ	JJ	_	_	28	28	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	plant	plant	plant	NN	NN	_	_	35	35	SBJ	SBJ	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_
+29	,	,	,	,	,	_	_	31	31	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	he	he	he	PRP	PRP	_	_	31	31	SBJ	SBJ	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	said	say	say	VBD	VBD	_	_	28	28	PRN	PRN	Y	say.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	to	to	to	TO	TO	_	_	31	31	ADV	ADV	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	him	him	him	PRP	PRP	_	_	32	32	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	,	,	,	,	,	_	_	28	28	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	pulled	pull	pull	VBD	VBD	_	_	20	20	COORD	COORD	Y	pull.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	it	it	it	PRP	PRP	_	_	35	35	OBJ	OBJ	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_
+37	up	up	up	RP	RP	_	_	35	35	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	for	for	for	IN	IN	_	_	35	35	ADV	ADV	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_	_	_	_
+39	him	him	him	PRP	PRP	_	_	38	38	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	and	and	and	CC	CC	_	_	35	35	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	Enki	enki	enki	NNP	NNP	_	_	42	42	SBJ	SBJ	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_
+42	ate	eat	eat	VBD	VBD	_	_	40	40	CONJ	CONJ	Y	eat.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	it	it	it	PRP	PRP	_	_	42	42	OBJ	OBJ	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_
+44	.	.	.	.	.	_	_	42	42	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	My	my	my	PRP$	PRP$	_	_	46	46	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	master	master	master	NN	NN	_	_	42	42	OBJ	OBJ	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_
+47	,	,	,	,	,	_	_	42	42	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	the	the	the	DT	DT	_	_	50	50	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	XX	xx	xx	NNP	NNP	_	_	50	50	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	plant	plant	plant	NN	NN	_	_	57	57	SBJ	SBJ	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_
+51	,	,	,	,	,	_	_	53	53	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+52	he	he	he	PRP	PRP	_	_	53	53	SBJ	SBJ	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_
+53	said	say	say	VBD	VBD	_	_	50	50	PRN	PRN	Y	say.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+54	to	to	to	TO	TO	_	_	53	53	ADV	ADV	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_	_
+55	him	him	him	PRP	PRP	_	_	54	54	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	,	,	,	,	,	_	_	50	50	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+57	cut	cut	cut	VBD	VBD	_	_	42	42	COORD	COORD	Y	cut.04	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+58	it	it	it	PRP	PRP	_	_	57	57	OBJ	OBJ	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_
+59	off	off	off	RP	RP	_	_	57	57	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+60	for	for	for	IN	IN	_	_	57	57	ADV	ADV	_	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_
+61	him	him	him	PRP	PRP	_	_	60	60	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+62	and	and	and	CC	CC	_	_	57	57	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+63	Enki	enki	enki	NNP	NNP	_	_	64	64	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_
+64	ate	eat	eat	VBD	VBD	_	_	62	62	CONJ	CONJ	Y	eat.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+65	it	it	it	PRP	PRP	_	_	64	64	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_
+66	.	.	.	.	.	_	_	64	64	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+67	My	my	my	PRP$	PRP$	_	_	68	68	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+68	master	master	master	NN	NN	_	_	97	97	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_
+69	,	,	,	,	,	_	_	64	64	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+70	the	the	the	DT	DT	_	_	72	72	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+71	amharu	amharu	amharu	NNP	NNP	_	_	72	72	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+72	plant	plant	plant	NN	NN	_	_	79	79	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_
+73	,	,	,	,	,	_	_	75	75	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+74	he	he	he	PRP	PRP	_	_	75	75	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_
+75	said	say	say	VBD	VBD	_	_	72	72	PRN	PRN	Y	say.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+76	to	to	to	TO	TO	_	_	75	75	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_
+77	him	him	him	PRP	PRP	_	_	76	76	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+78	,	,	,	,	,	_	_	72	72	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+79	pulled	pull	pull	VBD	VBD	_	_	64	64	COORD	COORD	Y	pull.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+80	it	it	it	PRP	PRP	_	_	79	79	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_
+81	up	up	up	RP	RP	_	_	79	79	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+82	for	for	for	IN	IN	_	_	79	79	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_
+83	him	him	him	PRP	PRP	_	_	82	82	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+84	and	and	and	CC	CC	_	_	79	79	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+85	Enki	enki	enki	NNP	NNP	_	_	86	86	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_
+86	ate	eat	eat	VBD	VBD	_	_	84	84	CONJ	CONJ	Y	eat.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+87	it	it	it	PRP	PRP	_	_	86	86	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_
+88	.	.	.	.	.	_	_	16	16	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+89	Enki	enki	enki	NNP	NNP	_	_	90	90	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_
+90	determined	determine	determine	VBD	VBD	_	_	86	86	COORD	COORD	Y	determine.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+91	the	the	the	DT	DT	_	_	92	92	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+92	destiny	destiny	destiny	NN	NN	_	_	90	90	OBJ	OBJ	Y	destiny.01	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_
+93	of	of	of	IN	IN	_	_	92	92	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_
+94	the	the	the	DT	DT	_	_	95	95	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+95	plants	plant	plant	NNS	NNS	_	_	93	93	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+96	,	,	,	,	,	_	_	90	90	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+97	had	have	have	VBD	VBD	_	_	90	90	COORD	COORD	Y	have.03	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+98	them	them	them	PRP	PRP	_	_	97	97	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	A0	_
+99	know	know	know	VBP	VBP	_	_	97	97	VC	VC	Y	know.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+100	it	it	it	PRP	PRP	_	_	99	99	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_
+101	in	in	in	IN	IN	_	_	99	99	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-LOC	_
+102	their	their	their	PRP$	PRP$	_	_	103	103	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1
+103	hearts	hearts	hearts	NNS	NNS	_	_	101	101	PMOD	PMOD	Y	heart.02	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+104	.	.	.	.	.	_	_	16	16	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Ninhursaŋa	ninhursaŋa	ninhursaŋa	NNP	NNP	_	_	2	2	SBJ	SBJ	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_
+2	cursed	curse	curse	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	curse.01	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	the	the	the	DT	DT	_	_	5	5	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	name	name	name	NN	NN	_	_	5	5	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	Enki	enki	enki	NN	NN	_	_	2	2	OBJ	OBJ	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_
+6	:	:	:	:	:	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	Until	until	until	IN	IN	_	_	13	13	TMP	TMP	_	_	_	_	_	AM-TMP	_	AM-TMP	_	_	_	_	_	_	_
+8	his	his	his	PRP$	PRP$	_	_	10	10	NMOD	NMOD	_	_	_	_	A3	_	_	_	_	_	_	_	_	_	_
+9	dying	die	die	VBG	VBG	_	_	10	10	NMOD	NMOD	Y	die.01	_	_	A1	_	_	_	_	_	_	_	_	_	_
+10	day	day	day	NN	NN	_	_	7	7	PMOD	PMOD	Y	day.01	_	AM-TMP	_	_	_	_	_	_	_	_	_	_	_
+11	,	,	,	,	,	_	_	13	13	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	I	i	i	PRP	PRP	_	_	13	13	SBJ	SBJ	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_
+13	will	will	will	MD	MD	_	_	2	2	COORD	COORD	_	_	_	_	_	AM-MOD	_	_	_	_	_	_	_	_	_
+14	never	never	never	RB	RB	_	_	13	13	TMP	TMP	_	_	_	_	_	AM-TMP	_	AM-TMP	_	_	_	_	_	_	_
+15	look	look	look	VB	VB	_	_	13	13	VC	VC	Y	look.01	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	upon	upon	upon	IN	IN	_	_	15	15	ADV	ADV	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_
+17	him	him	him	PRP	PRP	_	_	16	16	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	with	with	with	IN	IN	_	_	15	15	ADV	ADV	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_
+19	life-giving	life-give	life-give	VBG	VBG	_	_	18	18	PMOD	PMOD	Y	life-give.01	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	eye	eye	eye	NN	NN	_	_	19	19	OBJ	OBJ	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_
+21	.	.	.	.	.	_	_	13	13	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	The	the	the	DT	DT	_	_	23	23	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	Anuna	anuna	anuna	NN	NN	_	_	24	24	SBJ	SBJ	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_
+24	sat	sit	sit	VBD	VBD	_	_	13	13	VC	VC	Y	sit.01	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	down	down	down	RB	RB	_	_	24	24	PRT	PRT	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_
+26	in	in	in	IN	IN	_	_	24	24	LOC	LOC	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_
+27	the	the	the	DT	DT	_	_	28	28	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	dust	dust	dust	NN	NN	_	_	26	26	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	But	but	but	CC	CC	_	_	2	2	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	a	a	a	DT	DT	_	_	32	32	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	fox	fox	fox	NN	NN	_	_	33	33	SBJ	SBJ	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_
+33	was	be	be	VBD	VBD	_	_	30	30	CONJ	CONJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	able	able	able	JJ	JJ	_	_	33	33	PRD	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	to	to	to	TO	TO	_	_	34	34	AMOD	AMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	speak	speak	speak	VB	VB	_	_	35	35	IM	IM	Y	speak.01	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	to	to	to	TO	TO	_	_	36	36	ADV	ADV	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_
+38	Enlil	enlil	enlil	NNP	NNP	_	_	37	37	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	:	:	:	:	:	_	_	33	33	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	If	if	if	IN	IN	_	_	48	48	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	I	i	i	PRP	PRP	_	_	42	42	SBJ	SBJ	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_
+42	bring	bring	bring	VBP	VBP	_	_	40	40	SUB	SUB	Y	bring.01	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	Ninhursaŋa	ninhursaŋa	ninhursaŋa	NNP	NNP	_	_	42	42	OBJ	OBJ	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_
+44	to	to	to	TO	TO	_	_	42	42	ADV	ADV	_	_	_	_	_	_	_	_	_	A3	_	_	_	_	_
+45	you	you	you	PRP	PRP	_	_	44	44	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	,	,	,	,	,	_	_	48	48	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	what	what	what	WP	WP	_	_	48	48	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	will	will	will	MD	MD	_	_	33	33	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	be	be	be	VB	VB	_	_	48	48	VC	VC	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	my	my	my	PRP$	PRP$	_	_	51	51	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_
+51	reward	reward	reward	NN	NN	_	_	49	49	PRD	PRD	Y	reward.01	_	_	_	_	_	_	_	_	_	_	_	_	_
+52	?	?	?	.	.	_	_	54	54	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+53	Enlil	enlil	enlil	NNP	NNP	_	_	54	54	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_
+54	answered	answer	answer	VBD	VBD	_	_	51	51	NMOD	NMOD	Y	answer.01	_	_	_	_	_	_	_	_	_	_	_	_	_
+55	the	the	the	DT	DT	_	_	56	56	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	fox	fox	fox	NN	NN	_	_	54	54	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_
+57	:	:	:	:	:	_	_	48	48	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+58	If	if	if	IN	IN	_	_	66	66	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-ADV	_
+59	you	you	you	PRP	PRP	_	_	60	60	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_
+60	bring	bring	bring	VBP	VBP	_	_	58	58	SUB	SUB	Y	bring.01	_	_	_	_	_	_	_	_	_	_	_	_	_
+61	Ninhursaŋa	ninhursaŋa	ninhursaŋa	NNP	NNP	_	_	60	60	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_
+62	to	to	to	TO	TO	_	_	60	60	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	A2	_	_
+63	me	me	me	PRP	PRP	_	_	62	62	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+64	,	,	,	,	,	_	_	66	66	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+65	I	i	i	PRP	PRP	_	_	66	66	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_
+66	shall	shall	shall	MD	MD	_	_	48	48	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-MOD	_
+67	erect	erect	erect	VB	VB	_	_	66	66	VC	VC	Y	erect.01	_	_	_	_	_	_	_	_	_	_	_	_	_
+68	two	two	two	CD	CD	_	_	73	73	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+69	birch	birch	birch	NN	NN	_	_	73	73	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+70	(	-lrb-	-lrb-	(	(	_	_	73	73	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+71	?	?	?	.	.	_	_	70	70	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+72	)	-rrb-	-rrb-	)	)	_	_	70	70	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+73	trees	tree	tree	NNS	NNS	_	_	67	67	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_
+74	for	for	for	IN	IN	_	_	67	67	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	A2	_
+75	you	you	you	PRP	PRP	_	_	74	74	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+76	in	in	in	IN	IN	_	_	67	67	LOC	LOC	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-LOC	_
+77	my	my	my	PRP$	PRP$	_	_	78	78	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+78	city	city	city	NN	NN	_	_	76	76	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+79	and	and	and	CC	CC	_	_	66	66	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+80	you	you	you	PRP	PRP	_	_	81	81	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1
+81	will	will	will	MD	MD	_	_	79	79	CONJ	CONJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-MOD
+82	be	be	be	VB	VB	_	_	81	81	VC	VC	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+83	renowned	renowned	renowned	VBN	VBN	_	_	82	82	VC	VC	Y	renowned.01	_	_	_	_	_	_	_	_	_	_	_	_	_
+84	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	The	the	the	DT	DT	_	_	2	2	NMOD	NMOD	_	_	_	_	_	_	_
+2	fox	fox	fox	NN	NN	_	_	4	4	SBJ	SBJ	_	_	A0	_	_	_	_
+3	first	first	first	RB	RB	_	_	4	4	TMP	TMP	_	_	AM-TMP	_	_	_	_
+4	anointed	anoint	anoint	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	anoint.01	_	_	_	_	_
+5	his	his	his	PRP$	PRP$	_	_	6	6	NMOD	NMOD	_	_	_	A1	_	_	_
+6	body	body	body	NN	NN	_	_	4	4	OBJ	OBJ	Y	body.01	A1	_	A0	_	_
+7	,	,	,	,	,	_	_	6	6	P	P	_	_	_	_	_	_	_
+8	first	first	first	JJ	JJ	_	_	9	9	TMP	TMP	_	_	_	_	AM-TMP	_	_
+9	shook	shake	shake	VBD	VBD	_	_	6	6	NMOD	NMOD	Y	shake.01	_	_	_	_	_
+10	out	out	out	RP	RP	_	_	9	9	PRT	PRT	_	_	_	_	_	_	_
+11	his	his	his	PRP$	PRP$	_	_	19	19	NMOD	NMOD	_	_	_	_	_	A0	_
+12	fur	fur	fur	NN	NN	_	_	19	19	NMOD	NMOD	_	_	_	_	_	A1	_
+13	(	-lrb-	-lrb-	(	(	_	_	12	12	PRN	PRN	_	_	_	_	_	_	_
+14	?	?	?	.	.	_	_	13	13	P	P	_	_	_	_	_	_	_
+15	)	-rrb-	-rrb-	)	)	_	_	13	13	P	P	_	_	_	_	_	_	_
+16	,	,	,	,	,	_	_	19	19	P	P	_	_	_	_	_	_	_
+17	first	first	first	JJ	JJ	_	_	19	19	NMOD	NMOD	_	_	_	_	_	_	_
+18	put	put	put	NN	NN	_	_	19	19	NMOD	NMOD	_	_	_	_	_	A1	_
+19	kohl	kohl	kohl	NN	NN	_	_	9	9	OBJ	OBJ	Y	kohl.01	_	_	A1	_	_
+20	on	on	on	IN	IN	_	_	9	9	ADV	ADV	_	_	_	_	AM-LOC	_	_
+21	his	his	his	PRP$	PRP$	_	_	22	22	NMOD	NMOD	_	_	_	_	_	_	A1
+22	eyes	eyes	eyes	NNS	NNS	_	_	20	20	PMOD	PMOD	Y	eye.02	_	_	_	_	_
+23	.	.	.	.	.	_	_	4	4	P	P	_	_	_	_	_	_	_
+
+1	(	-lrb-	-lrb-	(	(	_	_	4	4	P	P	_	_	_	_	_	_
+2	The	the	the	DT	DT	_	_	3	3	NMOD	NMOD	_	_	_	_	_	_
+3	fox	fox	fox	NN	NN	_	_	4	4	SBJ	SBJ	_	_	A0	_	_	_
+4	said	say	say	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	say.01	_	_	_	_
+5	to	to	to	TO	TO	_	_	3	3	NMOD	NMOD	_	_	_	_	_	_
+6	Ninhursaŋa	ninhursaŋa	ninhursaŋa	NNP	NNP	_	_	5	5	PMOD	PMOD	_	_	_	_	_	_
+7	:	:	:	:	:	_	_	4	4	P	P	_	_	_	_	_	_
+8	)	-rrb-	-rrb-	)	)	_	_	4	4	P	P	_	_	_	_	_	_
+9	I	i	i	PRP	PRP	_	_	10	10	SBJ	SBJ	_	_	_	_	_	_
+10	have	have	have	VBP	VBP	_	_	4	4	OBJ	OBJ	_	_	A1	_	_	_
+11	been	be	be	VBN	VBN	_	_	10	10	VC	VC	_	_	_	_	_	_
+12	to	to	to	TO	TO	_	_	11	11	PRD	PRD	_	_	_	_	_	_
+13	Nibru	nibru	nibru	NNP	NNP	_	_	12	12	PMOD	PMOD	_	_	_	_	_	_
+14	,	,	,	,	,	_	_	10	10	P	P	_	_	_	_	_	_
+15	but	but	but	CC	CC	_	_	10	10	COORD	COORD	_	_	_	_	_	_
+16	Enlil	enlil	enlil	NNP	NNP	_	_	17	17	NAME	NAME	_	_	_	_	_	_
+17	XX	xx	xx	NNP	NNP	_	_	20	20	APPO	APPO	_	_	_	_	_	_
+18	.	.	.	.	.	_	_	17	17	P	P	_	_	_	_	_	_
+19	I	i	i	PRP	PRP	_	_	20	20	SBJ	SBJ	_	_	_	A0	_	_
+20	have	have	have	VBP	VBP	_	_	15	15	CONJ	CONJ	_	_	_	_	_	_
+21	been	be	be	VBN	VBN	_	_	20	20	VC	VC	_	_	_	_	_	_
+22	to	to	to	TO	TO	_	_	21	21	PRD	PRD	_	_	_	_	_	_
+23	Urim	urim	urim	VB	VB	_	_	22	22	IM	IM	Y	urim.01	_	_	_	_
+24	,	,	,	,	,	_	_	20	20	P	P	_	_	_	_	_	_
+25	but	but	but	CC	CC	_	_	20	20	COORD	COORD	_	_	_	_	_	_
+26	Nanna	nanna	nanna	NNP	NNP	_	_	27	27	NAME	NAME	_	_	_	_	_	_
+27	XX	xx	xx	NNP	NNP	_	_	30	30	APPO	APPO	_	_	_	_	_	_
+28	.	.	.	.	.	_	_	27	27	P	P	_	_	_	_	_	_
+29	I	i	i	PRP	PRP	_	_	30	30	SBJ	SBJ	_	_	_	_	_	_
+30	have	have	have	VBP	VBP	_	_	25	25	CONJ	CONJ	_	_	_	_	_	_
+31	been	be	be	VBN	VBN	_	_	30	30	VC	VC	_	_	_	_	_	_
+32	to	to	to	TO	TO	_	_	31	31	PRD	PRD	_	_	_	_	_	_
+33	Larsam	larsam	larsam	NNP	NNP	_	_	32	32	PMOD	PMOD	_	_	_	_	_	_
+34	,	,	,	,	,	_	_	30	30	P	P	_	_	_	_	_	_
+35	but	but	but	CC	CC	_	_	30	30	COORD	COORD	_	_	_	_	_	_
+36	Utu	utu	utu	NNP	NNP	_	_	37	37	NAME	NAME	_	_	_	_	_	_
+37	XX	xx	xx	NNP	NNP	_	_	40	40	APPO	APPO	_	_	_	_	_	_
+38	.	.	.	.	.	_	_	10	10	P	P	_	_	_	_	_	_
+39	I	i	i	PRP	PRP	_	_	40	40	SBJ	SBJ	_	_	_	_	_	_
+40	have	have	have	VBP	VBP	_	_	35	35	CONJ	CONJ	_	_	_	_	_	_
+41	been	be	be	VBN	VBN	_	_	40	40	VC	VC	_	_	_	_	_	_
+42	to	to	to	TO	TO	_	_	41	41	PRD	PRD	_	_	_	_	_	_
+43	Unug	unug	unug	NNP	NNP	_	_	42	42	PMOD	PMOD	_	_	_	_	_	_
+44	,	,	,	,	,	_	_	40	40	P	P	_	_	_	_	_	_
+45	but	but	but	CC	CC	_	_	40	40	COORD	COORD	_	_	_	_	_	_
+46	Inana	inana	inana	NNP	NNP	_	_	47	47	NAME	NAME	_	_	_	_	_	_
+47	XX	xx	xx	NNP	NNP	_	_	50	50	PRD	PRD	_	_	_	_	_	_
+48	.	.	.	.	.	_	_	47	47	P	P	_	_	_	_	_	_
+49	I	i	i	PRP	PRP	_	_	50	50	SBJ	SBJ	_	_	_	_	A0	A0
+50	am	be	be	VBP	VBP	_	_	45	45	CONJ	CONJ	_	_	_	_	_	_
+51	seeking	seek	seek	VBG	VBG	_	_	50	50	VC	VC	Y	seek.01	_	_	_	_
+52	refuge	refuge	refuge	NN	NN	_	_	51	51	OBJ	OBJ	Y	refuge.01	_	_	A1	_
+53	with	with	with	IN	IN	_	_	51	51	ADV	ADV	_	_	_	_	AM-MNR	A2
+54	one	one	one	CD	CD	_	_	53	53	PMOD	PMOD	_	_	_	_	_	_
+55	who	who	who	WP	WP	_	_	56	56	SBJ	SBJ	_	_	_	_	_	_
+56	is	be	be	VBZ	VBZ	_	_	54	54	NMOD	NMOD	_	_	_	_	_	_
+57	XX	xx	xx	NNP	NNP	_	_	56	56	PRD	PRD	_	_	_	_	_	_
+58	.	.	.	.	.	_	_	4	4	P	P	_	_	_	_	_	_
+
+1	Ninhursaŋa	ninhursaŋa	ninhursaŋa	NNP	NNP	_	_	2	2	SBJ	SBJ	_	_	A0	_	_	_	_	_	_	_	_	_	_
+2	hastened	hasten	hasten	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	hasten.01	_	_	_	_	_	_	_	_	_	_	_
+3	to	to	to	TO	TO	_	_	2	2	ADV	ADV	_	_	A2	_	_	_	_	_	_	_	_	_	_
+4	the	the	the	DT	DT	_	_	5	5	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	temple	temple	temple	NN	NN	_	_	3	3	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	The	the	the	DT	DT	_	_	8	8	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	Anuna	anuna	anuna	NN	NN	_	_	9	9	SBJ	SBJ	_	_	_	A1	_	_	_	_	_	_	_	_	_
+9	slipped	slip	slip	VBD	VBD	_	_	2	2	COORD	COORD	Y	slip.01	_	_	_	_	_	_	_	_	_	_	_
+10	off	off	off	RP	RP	_	_	9	9	PRT	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	her	her	her	PRP$	PRP$	_	_	12	12	NMOD	NMOD	_	_	_	_	A0	_	_	_	_	_	_	_	_
+12	garment	garment	garment	NN	NN	_	_	17	17	SBJ	SBJ	Y	garment.01	_	_	_	A1	A0	_	_	_	_	_	_
+13	,	,	,	,	,	_	_	12	12	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	made	make	make	VBN	VBN	_	_	12	12	APPO	APPO	Y	make.01	_	_	_	_	_	_	_	_	_	_	_
+15	XX	xx	xx	NNP	NNP	_	_	14	14	OBJ	OBJ	_	_	_	_	_	A1	_	_	_	_	_	_	_
+16	,	,	,	,	,	_	_	12	12	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	determined	determine	determine	VBD	VBD	_	_	9	9	COORD	COORD	Y	determine.01	_	_	_	_	_	_	_	_	_	_	_
+18	its	its	its	PRP$	PRP$	_	_	19	19	NMOD	NMOD	_	_	_	_	_	_	_	A1	_	_	_	_	_
+19	destiny	destiny	destiny	NN	NN	_	_	17	17	OBJ	OBJ	Y	destiny.01	_	_	_	_	A1	_	_	_	_	_	_
+20	and	and	and	CC	CC	_	_	17	17	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	XX	xx	xx	NNP	NNP	_	_	23	23	NAME	NAME	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	.	.	.	.	.	_	_	23	23	NAME	NAME	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	Ninhursaŋa	ninhursaŋa	ninhursaŋa	NNP	NNP	_	_	24	24	SBJ	SBJ	_	_	_	_	_	_	_	_	A0	_	_	_	_
+24	made	make	make	VBD	VBD	_	_	20	20	CONJ	CONJ	Y	make.02	_	_	_	_	_	_	_	_	_	_	_
+25	Enki	enki	enki	NNP	NNP	_	_	24	24	OBJ	OBJ	_	_	_	_	_	_	_	_	A1	A1	_	_	_
+26	sit	sit	sit	VBP	VBP	_	_	24	24	OPRD	OPRD	Y	sit.01	_	_	_	_	_	_	A2	_	_	_	_
+27	by	by	by	IN	IN	_	_	24	24	MNR	MNR	_	_	_	_	_	_	_	_	AM-MNR	_	_	_	_
+28	her	her	her	PRP$	PRP$	_	_	32	32	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	A0	_	_
+29	vagina	vagina	vagina	NN	NN	_	_	32	32	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	A1	_	_
+30	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	1	1	1	CD	CD	_	_	32	32	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	A1	_	_
+32	line	line	line	NN	NN	_	_	27	27	PMOD	PMOD	Y	line.06	_	_	_	_	_	_	_	_	_	_	_
+33	not	not	not	RB	RB	_	_	26	26	ADV	ADV	_	_	_	_	_	_	_	_	_	AM-NEG	_	_	_
+34	in	in	in	IN	IN	_	_	26	26	LOC	LOC	_	_	_	_	_	_	_	_	_	A2	_	_	_
+35	the	the	the	DT	DT	_	_	36	36	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	ms.	ms.	ms.	NN	NN	_	_	34	34	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	A0	_
+37	from	from	from	IN	IN	_	_	36	36	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	Nibru	nibru	nibru	NNP	NNP	_	_	37	37	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	:	:	:	:	:	_	_	36	36	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	She	she	she	PRP	PRP	_	_	41	41	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	A0	_
+41	placed	place	place	VBD	VBD	_	_	36	36	NMOD	NMOD	Y	place.01	_	_	_	_	_	_	_	_	_	_	_
+42	(	-lrb-	-lrb-	(	(	_	_	46	46	PRN	PRN	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	?	?	?	.	.	_	_	42	42	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	)	-rrb-	-rrb-	)	)	_	_	42	42	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	her	her	her	PRP$	PRP$	_	_	46	46	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	A1
+46	hands	hands	hands	NNS	NNS	_	_	41	41	OBJ	OBJ	Y	hand.02	_	_	_	_	_	_	_	_	_	A1	_
+47	on	on	on	IN	IN	_	_	41	41	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	A2	_
+48	XX	xx	xx	NNP	NNP	_	_	47	47	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	and	and	and	CC	CC	_	_	48	48	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_
+51	XX	xx	xx	NNP	NNP	_	_	50	50	CONJ	CONJ	_	_	_	_	_	_	_	_	_	_	_	_	_
+52	.	.	.	.	.	_	_	41	41	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+53	on	on	on	IN	IN	_	_	41	41	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	A2	_
+54	its	its	its	PRP$	PRP$	_	_	55	55	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+55	outside	outside	outside	NN	NN	_	_	53	53	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	.	.	.	.	.	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	(	-lrb-	-lrb-	(	(	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	Ninhursaŋa	ninhursaŋa	ninhursaŋa	NNP	NNP	_	_	3	3	SBJ	SBJ	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	asked	ask	ask	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	ask.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	:	:	:	:	:	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	)	-rrb-	-rrb-	)	)	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	My	my	my	PRP$	PRP$	_	_	7	7	NMOD	NMOD	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	brother	brother	brother	NN	NN	_	_	3	3	OBJ	OBJ	Y	brother.01	A2	A0	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	,	,	,	,	,	_	_	7	7	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	what	what	what	WP	WP	_	_	10	10	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R-A2	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	part	part	part	NN	NN	_	_	13	13	SBJ	SBJ	Y	part.01	_	_	_	A2	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	of	of	of	IN	IN	_	_	10	10	NMOD	NMOD	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	you	you	you	PRP	PRP	_	_	11	11	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	hurts	hurt	hurt	VBZ	VBZ	_	_	7	7	NMOD	NMOD	Y	hurt.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	you	you	you	PRP	PRP	_	_	13	13	OBJ	OBJ	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	?	?	?	.	.	_	_	7	7	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	The	the	the	DT	DT	_	_	17	17	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	top	top	top	NN	NN	_	_	24	24	SBJ	SBJ	Y	top.01	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	of	of	of	IN	IN	_	_	17	17	NMOD	NMOD	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	my	my	my	PRP$	PRP$	_	_	20	20	NMOD	NMOD	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	head	head	head	NN	NN	_	_	18	18	PMOD	PMOD	Y	head.02	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	(	-lrb-	-lrb-	(	(	_	_	22	22	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	ugu-dili	ugu-dili	ugu-dili	NNP	NNP	_	_	20	20	APPO	APPO	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	)	-rrb-	-rrb-	)	)	_	_	22	22	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	hurts	hurt	hurt	VBZ	VBZ	_	_	3	3	OBJ	OBJ	Y	hurt.01	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	me	me	me	PRP	PRP	_	_	24	24	OBJ	OBJ	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	.	.	.	.	.	_	_	24	24	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	She	she	she	PRP	PRP	_	_	28	28	SBJ	SBJ	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	gave	give	give	VBD	VBD	_	_	24	24	DEP	DEP	Y	give.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	birth	birth	birth	NN	NN	_	_	28	28	OBJ	OBJ	Y	birth.01	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	to	to	to	TO	TO	_	_	29	29	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	Ab-u	ab-u	ab-u	VB	VB	_	_	30	30	IM	IM	Y	ab-u.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	out	out	out	IN	IN	_	_	31	31	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	of	of	of	IN	IN	_	_	32	32	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	it	it	it	PRP	PRP	_	_	33	33	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	.	.	.	.	.	_	_	24	24	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	My	my	my	PRP$	PRP$	_	_	37	37	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	brother	brother	brother	NN	NN	_	_	43	43	SBJ	SBJ	Y	brother.01	_	_	_	_	_	_	_	_	_	_	A0	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	,	,	,	,	,	_	_	37	37	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	what	what	what	WP	WP	_	_	40	40	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	part	part	part	NN	NN	_	_	37	37	NMOD	NMOD	Y	part.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	of	of	of	IN	IN	_	_	40	40	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	you	you	you	PRP	PRP	_	_	41	41	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	hurts	hurt	hurt	VBZ	VBZ	_	_	24	24	COORD	COORD	Y	hurt.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	you	you	you	PRP	PRP	_	_	43	43	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	?	?	?	.	.	_	_	24	24	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	The	the	the	DT	DT	_	_	47	47	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	locks	lock	lock	NNS	NNS	_	_	54	54	SBJ	SBJ	Y	lock.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	of	of	of	IN	IN	_	_	47	47	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	my	my	my	PRP$	PRP$	_	_	50	50	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	hair	hair	hair	NN	NN	_	_	48	48	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+51	(	-lrb-	-lrb-	(	(	_	_	52	52	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+52	siki	siki	siki	NN	NN	_	_	50	50	PRN	PRN	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+53	)	-rrb-	-rrb-	)	)	_	_	52	52	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+54	hurt	hurt	hurt	VB	VB	_	_	9	9	COORD	COORD	Y	hurt.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+55	me	me	me	PRP	PRP	_	_	54	54	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	.	.	.	.	.	_	_	24	24	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+57	She	she	she	PRP	PRP	_	_	58	58	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+58	gave	give	give	VBD	VBD	_	_	47	47	NMOD	NMOD	Y	give.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+59	birth	birth	birth	NN	NN	_	_	58	58	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_
+60	to	to	to	TO	TO	_	_	58	58	DTV	DTV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+61	Ninsikila	ninsikila	ninsikila	NNP	NNP	_	_	60	60	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+62	out	out	out	IN	IN	_	_	58	58	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+63	of	of	of	IN	IN	_	_	62	62	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+64	it	it	it	PRP	PRP	_	_	63	63	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+65	.	.	.	.	.	_	_	24	24	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+66	My	my	my	PRP$	PRP$	_	_	67	67	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+67	brother	brother	brother	NN	NN	_	_	73	73	SBJ	SBJ	Y	brother.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	A2	_	_	_	_	_	_	_	_	_	_	_	_	_
+68	,	,	,	,	,	_	_	67	67	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+69	what	what	what	WP	WP	_	_	70	70	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+70	part	part	part	NN	NN	_	_	88	88	OBJ	OBJ	Y	part.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_
+71	of	of	of	IN	IN	_	_	70	70	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+72	you	you	you	PRP	PRP	_	_	71	71	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+73	hurts	hurt	hurt	VBZ	VBZ	_	_	59	59	NMOD	NMOD	Y	hurt.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+74	you	you	you	PRP	PRP	_	_	73	73	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_
+75	?	?	?	.	.	_	_	24	24	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+76	My	my	my	PRP$	PRP$	_	_	77	77	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_
+77	nose	nose	nose	NN	NN	_	_	81	81	SBJ	SBJ	Y	nose.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A2	A0	_	_	_	_	_	_	_	_	_	_
+78	(	-lrb-	-lrb-	(	(	_	_	79	79	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+79	giri	giri	giri	NN	NN	_	_	77	77	PRN	PRN	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+80	)	-rrb-	-rrb-	)	)	_	_	79	79	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+81	hurts	hurt	hurt	VBZ	VBZ	_	_	24	24	COORD	COORD	Y	hurt.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+82	me	me	me	PRP	PRP	_	_	81	81	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_
+83	.	.	.	.	.	_	_	24	24	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+84	She	she	she	PRP	PRP	_	_	85	85	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	A0	_	_	_	_	_	_	_	_
+85	gave	give	give	VBD	VBD	_	_	77	77	NMOD	NMOD	Y	give.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+86	birth	birth	birth	NN	NN	_	_	85	85	OBJ	OBJ	Y	birth.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_
+87	to	to	to	TO	TO	_	_	86	86	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_
+88	Ningiriutud	ningiriutud	ningiriutud	VB	VB	_	_	87	87	IM	IM	Y	ningiriutud.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+89	out	out	out	IN	IN	_	_	88	88	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_
+90	of	of	of	IN	IN	_	_	89	89	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+91	it	it	it	PRP	PRP	_	_	90	90	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+92	.	.	.	.	.	_	_	24	24	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+93	My	my	my	PRP$	PRP$	_	_	94	94	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_
+94	brother	brother	brother	NN	NN	_	_	100	100	SBJ	SBJ	Y	brother.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	A2	_	_	_	_	_
+95	,	,	,	,	,	_	_	94	94	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+96	what	what	what	WP	WP	_	_	97	97	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+97	part	part	part	NN	NN	_	_	115	115	OBJ	OBJ	Y	part.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1
+98	of	of	of	IN	IN	_	_	97	97	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_
+99	you	you	you	PRP	PRP	_	_	98	98	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+100	hurts	hurt	hurt	VBZ	VBZ	_	_	81	81	COORD	COORD	Y	hurt.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+101	you	you	you	PRP	PRP	_	_	100	100	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_
+102	?	?	?	.	.	_	_	24	24	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+103	My	my	my	PRP$	PRP$	_	_	104	104	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_
+104	mouth	mouth	mouth	NN	NN	_	_	108	108	SBJ	SBJ	Y	mouth.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A2	_	_	_
+105	(	-lrb-	-lrb-	(	(	_	_	106	106	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+106	ka	ka	ka	NN	NN	_	_	104	104	PRN	PRN	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+107	)	-rrb-	-rrb-	)	)	_	_	106	106	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+108	hurts	hurt	hurt	VBZ	VBZ	_	_	100	100	ADV	ADV	Y	hurt.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+109	me	me	me	PRP	PRP	_	_	108	108	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_
+110	.	.	.	.	.	_	_	24	24	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+111	She	she	she	PRP	PRP	_	_	112	112	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	A0
+112	gave	give	give	VBD	VBD	_	_	104	104	NMOD	NMOD	Y	give.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+113	birth	birth	birth	NN	NN	_	_	112	112	OBJ	OBJ	Y	birth.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_
+114	to	to	to	TO	TO	_	_	113	113	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_
+115	Ninkasi	ninkasi	ninkasi	VB	VB	_	_	114	114	IM	IM	Y	ninkasi.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+116	out	out	out	IN	IN	_	_	115	115	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A2
+117	of	of	of	IN	IN	_	_	116	116	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+118	it	it	it	PRP	PRP	_	_	117	117	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+119	.	.	.	.	.	_	_	24	24	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	My	my	my	PRP$	PRP$	_	_	2	2	NMOD	NMOD	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	brother	brother	brother	NN	NN	_	_	8	8	SBJ	SBJ	Y	brother.01	A0	_	A2	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	,	,	,	,	,	_	_	2	2	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	what	what	what	WP	WP	_	_	5	5	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R-A2	_	_	_	_	_	_	R-A2	_	_	_
+5	part	part	part	NN	NN	_	_	23	23	OBJ	OBJ	Y	part.01	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	of	of	of	IN	IN	_	_	5	5	NMOD	NMOD	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	you	you	you	PRP	PRP	_	_	6	6	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	hurts	hurt	hurt	VBZ	VBZ	_	_	0	0	ROOT	ROOT	Y	hurt.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	you	you	you	PRP	PRP	_	_	8	8	OBJ	OBJ	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	?	?	?	.	.	_	_	8	8	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	My	my	my	PRP$	PRP$	_	_	12	12	NMOD	NMOD	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	throat	throat	throat	NN	NN	_	_	16	16	SBJ	SBJ	Y	throat.01	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	(	-lrb-	-lrb-	(	(	_	_	14	14	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	zi	zi	zi	NN	NN	_	_	12	12	PRN	PRN	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	)	-rrb-	-rrb-	)	)	_	_	14	14	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	hurts	hurt	hurt	VBZ	VBZ	_	_	8	8	COORD	COORD	Y	hurt.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	me	me	me	PRP	PRP	_	_	16	16	OBJ	OBJ	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	.	.	.	.	.	_	_	16	16	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	She	she	she	PRP	PRP	_	_	20	20	SBJ	SBJ	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	gave	give	give	VBD	VBD	_	_	16	16	DEP	DEP	Y	give.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	birth	birth	birth	NN	NN	_	_	20	20	OBJ	OBJ	Y	birth.01	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	to	to	to	TO	TO	_	_	21	21	NMOD	NMOD	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	Nazi	nazi	nazi	VB	VB	_	_	22	22	IM	IM	Y	nazi.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	out	out	out	IN	IN	_	_	23	23	ADV	ADV	_	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	of	of	of	IN	IN	_	_	24	24	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	it	it	it	PRP	PRP	_	_	25	25	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	.	.	.	.	.	_	_	16	16	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	My	my	my	PRP$	PRP$	_	_	29	29	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	brother	brother	brother	NN	NN	_	_	20	20	OBJ	OBJ	Y	brother.01	_	_	_	_	_	A1	_	_	A0	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	,	,	,	,	,	_	_	29	29	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	what	what	what	WP	WP	_	_	32	32	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	part	part	part	NN	NN	_	_	35	35	SBJ	SBJ	Y	part.01	_	_	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	of	of	of	IN	IN	_	_	32	32	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	you	you	you	PRP	PRP	_	_	33	33	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	hurts	hurt	hurt	VBZ	VBZ	_	_	29	29	NMOD	NMOD	Y	hurt.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	you	you	you	PRP	PRP	_	_	35	35	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	?	?	?	.	.	_	_	16	16	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	My	my	my	PRP$	PRP$	_	_	39	39	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	arm	arm	arm	NN	NN	_	_	43	43	SBJ	SBJ	Y	arm.01	_	_	_	_	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	(	-lrb-	-lrb-	(	(	_	_	39	39	PRN	PRN	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	a	a	a	DT	DT	_	_	40	40	DEP	DEP	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	)	-rrb-	-rrb-	)	)	_	_	40	40	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	hurts	hurt	hurt	VBZ	VBZ	_	_	16	16	ADV	ADV	Y	hurt.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	me	me	me	PRP	PRP	_	_	43	43	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	.	.	.	.	.	_	_	16	16	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	She	she	she	PRP	PRP	_	_	47	47	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	gave	give	give	VBD	VBD	_	_	16	16	DEP	DEP	Y	give.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	birth	birth	birth	NN	NN	_	_	47	47	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	to	to	to	TO	TO	_	_	47	47	DTV	DTV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	Azimua	azimua	azimua	NNP	NNP	_	_	49	49	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+51	out	out	out	IN	IN	_	_	47	47	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+52	of	of	of	IN	IN	_	_	51	51	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+53	it	it	it	PRP	PRP	_	_	52	52	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+54	.	.	.	.	.	_	_	16	16	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+55	My	my	my	PRP$	PRP$	_	_	56	56	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	brother	brother	brother	NN	NN	_	_	62	62	SBJ	SBJ	Y	brother.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	A2	_	_	_	_	_	_	_	_	_	_	_
+57	,	,	,	,	,	_	_	56	56	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+58	what	what	what	WP	WP	_	_	59	59	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+59	part	part	part	NN	NN	_	_	77	77	OBJ	OBJ	Y	part.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_
+60	of	of	of	IN	IN	_	_	59	59	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_
+61	you	you	you	PRP	PRP	_	_	60	60	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+62	hurts	hurt	hurt	VBZ	VBZ	_	_	16	16	COORD	COORD	Y	hurt.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+63	you	you	you	PRP	PRP	_	_	62	62	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_
+64	?	?	?	.	.	_	_	16	16	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+65	My	my	my	PRP$	PRP$	_	_	66	66	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+66	ribs	rib	rib	NNS	NNS	_	_	70	70	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	A0	_	_	_	_	_	_	_	_	_
+67	(	-lrb-	-lrb-	(	(	_	_	68	68	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+68	ti	ti	ti	NN	NN	_	_	66	66	PRN	PRN	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+69	)	-rrb-	-rrb-	)	)	_	_	68	68	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+70	hurt	hurt	hurt	VB	VB	_	_	4	4	COORD	COORD	Y	hurt.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+71	me	me	me	PRP	PRP	_	_	70	70	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_
+72	.	.	.	.	.	_	_	16	16	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+73	She	she	she	PRP	PRP	_	_	74	74	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	A0	_	_	_	_	_	_	_
+74	gave	give	give	VBD	VBD	_	_	66	66	NMOD	NMOD	Y	give.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+75	birth	birth	birth	NN	NN	_	_	74	74	OBJ	OBJ	Y	birth.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_
+76	to	to	to	TO	TO	_	_	75	75	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_
+77	Ninti	ninti	ninti	VB	VB	_	_	76	76	IM	IM	Y	ninti.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+78	out	out	out	IN	IN	_	_	77	77	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_
+79	of	of	of	IN	IN	_	_	78	78	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+80	it	it	it	PRP	PRP	_	_	79	79	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+81	.	.	.	.	.	_	_	16	16	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+82	My	my	my	PRP$	PRP$	_	_	83	83	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_
+83	brother	brother	brother	NN	NN	_	_	89	89	SBJ	SBJ	Y	brother.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	A2	_	_	_	_
+84	,	,	,	,	,	_	_	83	83	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+85	what	what	what	WP	WP	_	_	86	86	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+86	part	part	part	NN	NN	_	_	104	104	OBJ	OBJ	Y	part.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1
+87	of	of	of	IN	IN	_	_	86	86	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_
+88	you	you	you	PRP	PRP	_	_	87	87	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+89	hurts	hurt	hurt	VBZ	VBZ	_	_	62	62	COORD	COORD	Y	hurt.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+90	you	you	you	PRP	PRP	_	_	89	89	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_
+91	?	?	?	.	.	_	_	16	16	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+92	My	my	my	PRP$	PRP$	_	_	93	93	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+93	sides	side	side	NNS	NNS	_	_	97	97	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	A0	_	_
+94	(	-lrb-	-lrb-	(	(	_	_	95	95	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+95	zag	zag	zag	NN	NN	_	_	93	93	PRN	PRN	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+96	)	-rrb-	-rrb-	)	)	_	_	95	95	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+97	hurt	hurt	hurt	VB	VB	_	_	4	4	COORD	COORD	Y	hurt.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+98	me	me	me	PRP	PRP	_	_	97	97	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_
+99	.	.	.	.	.	_	_	8	8	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+100	She	she	she	PRP	PRP	_	_	101	101	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	A0
+101	gave	give	give	VBD	VBD	_	_	93	93	NMOD	NMOD	Y	give.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+102	birth	birth	birth	NN	NN	_	_	101	101	OBJ	OBJ	Y	birth.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_
+103	to	to	to	TO	TO	_	_	102	102	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_
+104	Ensag	ensag	ensag	VB	VB	_	_	103	103	IM	IM	Y	ensag.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+105	out	out	out	IN	IN	_	_	104	104	ADV	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A2
+106	of	of	of	IN	IN	_	_	105	105	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+107	it	it	it	PRP	PRP	_	_	106	106	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+108	.	.	.	.	.	_	_	8	8	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	(	-lrb-	-lrb-	(	(	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	She	she	she	PRP	PRP	_	_	3	3	SBJ	SBJ	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	said	say	say	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	say.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	:	:	:	:	:	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	)	-rrb-	-rrb-	)	)	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	For	for	for	IN	IN	_	_	16	16	ADV	ADV	_	_	_	_	AM-ADV	AM-ADV	_	_	_	_	_	_	_	_	_	_	_	_
+7	the	the	the	DT	DT	_	_	9	9	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	little	little	little	JJ	JJ	_	_	9	9	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	ones	one	one	NNS	NNS	_	_	6	6	PMOD	PMOD	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	to	to	to	TO	TO	_	_	24	24	EXT	EXT	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_
+11	whom	whom	whom	WP	WP	_	_	10	10	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	I	i	i	PRP	PRP	_	_	13	13	SBJ	SBJ	_	_	_	A0	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	have	have	have	VBP	VBP	_	_	9	9	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	given	give	give	VBN	VBN	_	_	13	13	VC	VC	Y	give.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	birth	birth	birth	NN	NN	_	_	16	16	SBJ	SBJ	_	_	_	_	A0	A0	_	_	_	_	_	_	_	_	_	_	_	_
+16	may	may	may	MD	MD	_	_	3	3	OBJ	OBJ	_	_	A1	_	AM-MOD	AM-MOD	_	_	_	_	_	_	_	_	_	_	_	_
+17	rewards	reward	reward	VB	VB	_	_	16	16	VC	VC	Y	reward.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	not	not	not	RB	RB	_	_	17	17	ADV	ADV	_	_	_	_	AM-NEG	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	be	be	be	VB	VB	_	_	16	16	VC	VC	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	lacking	lack	lack	VBG	VBG	_	_	19	19	VC	VC	Y	lack.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	.	.	.	.	.	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	Ab-u	ab-u	ab-u	NNP	NNP	_	_	23	23	SBJ	SBJ	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_
+23	shall	shall	shall	MD	MD	_	_	3	3	OBJ	OBJ	_	_	A1	_	_	_	AM-MOD	_	_	_	_	_	_	_	_	_	_	_
+24	become	become	become	VB	VB	_	_	23	23	VC	VC	Y	become.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	king	king	king	NN	NN	_	_	24	24	PRD	PRD	Y	king.01	_	_	_	_	A2	A0	_	_	_	_	_	_	_	_	_	_
+26	of	of	of	IN	IN	_	_	25	25	NMOD	NMOD	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_
+27	the	the	the	DT	DT	_	_	28	28	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	grasses	grass	grass	NNS	NNS	_	_	26	26	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	,	,	,	,	,	_	_	23	23	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	Ninsikila	ninsikila	ninsikila	NNP	NNP	_	_	31	31	SBJ	SBJ	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_
+31	shall	shall	shall	MD	MD	_	_	23	23	COORD	COORD	_	_	_	_	_	_	_	_	AM-MOD	_	_	_	_	_	_	_	_	_
+32	become	become	become	VB	VB	_	_	31	31	VC	VC	Y	become.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	lord	lord	lord	NN	NN	_	_	32	32	PRD	PRD	Y	lord.01	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_	_
+34	of	of	of	IN	IN	_	_	33	33	NMOD	NMOD	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_
+35	Magan	magan	magan	NNP	NNP	_	_	34	34	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	,	,	,	,	,	_	_	31	31	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	Ningiriutud	ningiriutud	ningiriutud	NNP	NNP	_	_	38	38	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_
+38	shall	shall	shall	MD	MD	_	_	31	31	COORD	COORD	_	_	_	_	_	_	_	_	_	_	AM-MOD	_	_	_	_	_	_	_
+39	marry	marry	marry	VB	VB	_	_	38	38	VC	VC	Y	marry.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	Ninazu	ninazu	ninazu	NNP	NNP	_	_	39	39	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	A2	_	_	_	_	_	_	_
+41	,	,	,	,	,	_	_	38	38	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	Ninkasi	ninkasi	ninkasi	NNP	NNP	_	_	43	43	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	shall	shall	shall	MD	MD	_	_	38	38	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	be	be	be	VB	VB	_	_	43	43	VC	VC	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	what	what	what	WP	WP	_	_	46	46	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	R-A2	_	_	_	_	_	_
+46	satisfies	satisfy	satisfy	VBZ	VBZ	_	_	44	44	PRD	PRD	Y	satisfy.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	the	the	the	DT	DT	_	_	48	48	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	heart	heart	heart	NN	NN	_	_	46	46	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_	_
+49	,	,	,	,	,	_	_	43	43	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	Nazi	nazi	nazi	NNP	NNP	_	_	51	51	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_
+51	shall	shall	shall	MD	MD	_	_	43	43	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	AM-MOD	_	_	_	_	_
+52	marry	marry	marry	VB	VB	_	_	51	51	VC	VC	Y	marry.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+53	Nindara	nindara	nindara	NNP	NNP	_	_	52	52	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	A2	_	_	_	_	_
+54	,	,	,	,	,	_	_	51	51	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+55	Azimua	azimua	azimua	NNP	NNP	_	_	56	56	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_
+56	shall	shall	shall	MD	MD	_	_	51	51	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-MOD	_	_	_	_
+57	marry	marry	marry	VB	VB	_	_	56	56	VC	VC	Y	marry.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+58	Ninŋišzida	ninŋišzida	ninŋišzida	NNP	NNP	_	_	57	57	OBJ	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	A2	_	_	_	_
+59	,	,	,	,	,	_	_	56	56	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+60	Ninti	ninti	ninti	NNP	NNP	_	_	61	61	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_
+61	shall	shall	shall	MD	MD	_	_	56	56	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-MOD	_	_	_
+62	become	become	become	VB	VB	_	_	61	61	VC	VC	Y	become.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+63	the	the	the	DT	DT	_	_	64	64	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+64	lady	lady	lady	NN	NN	_	_	62	62	PRD	PRD	Y	lady.01	_	_	_	_	_	_	_	_	_	_	_	_	A2	A0	_	_
+65	of	of	of	IN	IN	_	_	64	64	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_
+66	the	the	the	DT	DT	_	_	67	67	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+67	month	month	month	NN	NN	_	_	65	65	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+68	,	,	,	,	,	_	_	61	61	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+69	and	and	and	CC	CC	_	_	61	61	COORD	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+70	Ensag	ensag	ensag	NNP	NNP	_	_	71	71	SBJ	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_
+71	shall	shall	shall	MD	MD	_	_	69	69	CONJ	CONJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-MOD	_
+72	become	become	become	VB	VB	_	_	71	71	VC	VC	Y	become.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+73	lord	lord	lord	NN	NN	_	_	72	72	PRD	PRD	Y	lord.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A2	_
+74	of	of	of	IN	IN	_	_	73	73	NMOD	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1
+75	Dilmun	dilmun	dilmun	NNP	NNP	_	_	74	74	PMOD	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+76	.	.	.	.	.	_	_	3	3	P	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
