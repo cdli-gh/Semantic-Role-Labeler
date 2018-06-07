@@ -1,6 +1,7 @@
 # Modified for English translations : June 2018, Bakhtiyar Syed 
-# Rest of the header is for original attribution
+# Rest of the header is for original attribution.
 # coding: utf-8
+# Usage: Use the .ipynb files in the subfolder above.
 
 # # Formatting ETCSL TEI XML files
 # ## Introduction
