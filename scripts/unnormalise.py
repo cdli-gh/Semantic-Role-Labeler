@@ -3,7 +3,7 @@
 
 # Pre-requisites: - 
 
-# Usage : python unnormalise.py [path-to-file-to-unnormalise] [output-file-path.py]
+# Usage : python unnormalise.py [path-to-file-to-unnormalise] [output-file-path]
 ############################################################
 
 import os, sys
