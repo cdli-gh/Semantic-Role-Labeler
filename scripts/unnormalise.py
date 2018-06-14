@@ -20,6 +20,7 @@ with codecs.open(INPUT_FILE, 'r', encoding='utf-8') as f, codecs.open(OUTPUT_FIL
 		
 		line = line.replace(u"ordNUMB", "4")
 		line = line.replace(u"NUMB", "3")
+		line = line.replace(u"$", " ||| ")
 		docs.append(line)
 
 	for item in docs:
