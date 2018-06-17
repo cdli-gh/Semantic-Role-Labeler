@@ -12,8 +12,9 @@ from itertools import izip
 ALIGNMENT_FILE = sys.argv[1]
 DATA_FILE = sys.argv[2]
 
-with codecs.open(ALIGNMENT_FILE,  mode='r', encoding='utf-8') as a, codecs.open(DATA_FILE, mode='r', encoding='utf-8') as d:
+with open(ALIGNMENT_FILE,  'r') as a, open(DATA_FILE, 'r') as d, open('words-aligned.dat', 'w+') as w:
 	line_no = 1
+	total_list = []
 	for x, y in izip(a, d):
 		
 		left_label_dict = {}
@@ -26,10 +27,16 @@ with codecs.open(ALIGNMENT_FILE,  mode='r', encoding='utf-8') as a, codecs.open(
 		print (x)
 		print (y)
 
+		#Error handling
+		if len(x) == 0 or len(y) == 0:
+			print "Empty"
+			alignment['empty'] = 1
+			
+
 		x = x.split(' ')
 		y = y.split(' ||| ')
-		if len(y) > 2:
-			continue
+		#if len(y) > 2:
+		#	continue
 		left = y[0].split(' ')
 		right = y[1].split(' ')
 
@@ -53,7 +60,21 @@ with codecs.open(ALIGNMENT_FILE,  mode='r', encoding='utf-8') as a, codecs.open(
 				alignment[left_label_dict[int(item[0])]] = []
 				alignment[left_label_dict[int(item[0])]].append(right_label_dict[int(item[1])])
 
-		print alignment
+		temp_list = []
+		for key, val in alignment.iteritems():
+			val_str = ""
+			for elem in val:
+				val_str = val_str + elem + '|'
 
+			temp_list.append(key + '--' + val_str)
+
+		sentence_str = ""
+		for item in temp_list:
+			sentence_str += item
+		total_list.append(sentence_str)
 		line_no+=1
 		#print (x.encode('utf-8'), y.encode('utf-8'))
+
+
+	for item in total_list:
+		w.write(item+'\n')
