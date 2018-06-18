@@ -13,7 +13,7 @@ ALIGNMENT_FILE = sys.argv[1]
 DATA_FILE = sys.argv[2]
 
 
-with open(ALIGNMENT_FILE,  'r') as a, open(DATA_FILE, 'r') as d, open('words-aligned.dat', 'w+') as w:
+with open(ALIGNMENT_FILE,  'r') as a, open(DATA_FILE, 'r') as d, open('words-aligned-forward.dat', 'w+') as w:
 	line_no = 1
 	total_list = []
 	for x, y in izip(a, d):
@@ -54,7 +54,7 @@ with open(ALIGNMENT_FILE,  'r') as a, open(DATA_FILE, 'r') as d, open('words-ali
 			try:
 				word_sentence = word_sentence + left_label_dict[int(item[0])] + '-' + right_label_dict[int(item[1])] + ' '
 			except:
-				word_sentence += "Error"
+				word_sentence += "Error "
 		word_sentence = word_sentence.strip()
 		total_list.append(word_sentence)
 		line_no+=1
