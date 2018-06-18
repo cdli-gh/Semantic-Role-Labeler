@@ -3,7 +3,7 @@
 
 # Pre-requisites: - 
 
-# Usage : python label_to_word.py [../inputs/processed-etcsl-sumerian/] [../inputs/processed-etcsl-eng/]
+# Usage :  python label_to_word.py ../outputs/word-alignments/symmetrized-alignment.dat ../data/translated_parallel_data/sum_eng_train_unnorm.csv
 ############################################################
 
 import os, sys, codecs
@@ -11,6 +11,7 @@ from itertools import izip
 
 ALIGNMENT_FILE = sys.argv[1]
 DATA_FILE = sys.argv[2]
+
 
 with open(ALIGNMENT_FILE,  'r') as a, open(DATA_FILE, 'r') as d, open('words-aligned.dat', 'w+') as w:
 	line_no = 1
@@ -24,8 +25,8 @@ with open(ALIGNMENT_FILE,  'r') as a, open(DATA_FILE, 'r') as d, open('words-ali
 		x = x.strip()
 		y = y.strip()
 
-		print (x)
-		print (y)
+		#print (x)
+		#print (y)
 
 		#Error handling
 		if len(x) == 0 or len(y) == 0:
@@ -45,6 +46,20 @@ with open(ALIGNMENT_FILE,  'r') as a, open(DATA_FILE, 'r') as d, open('words-ali
 		for i, word in enumerate(right):
 			right_label_dict[i] = word
 
+		print (line_no)
+
+		word_sentence = "" #This word list string is unique for each sentence.
+		for item in x:
+			item = item.split('-')
+			try:
+				word_sentence = word_sentence + left_label_dict[int(item[0])] + '-' + right_label_dict[int(item[1])] + ' '
+			except:
+				word_sentence += "Error"
+		word_sentence = word_sentence.strip()
+		total_list.append(word_sentence)
+		line_no+=1
+
+		'''
 		print (line_no)
 		print (left_label_dict)
 		print (right_label_dict)
@@ -74,7 +89,7 @@ with open(ALIGNMENT_FILE,  'r') as a, open(DATA_FILE, 'r') as d, open('words-ali
 		total_list.append(sentence_str)
 		line_no+=1
 		#print (x.encode('utf-8'), y.encode('utf-8'))
-
+		'''
 
 	for item in total_list:
 		w.write(item+'\n')

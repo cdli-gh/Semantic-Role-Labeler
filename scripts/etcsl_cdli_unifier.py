@@ -226,7 +226,7 @@ class transliteration:
 
 
 final_file = [] #Contains the final processed file
-with open(INPUT_FILE, 'r') as f, open('temp.out', 'w+') as g:
+with open(INPUT_FILE, 'r') as f, open('temp_u.out', 'w+') as g:
   for line in f:
     line = line.split()
     temp_tokens = ""
@@ -235,7 +235,7 @@ with open(INPUT_FILE, 'r') as f, open('temp.out', 'w+') as g:
       if unified.defective == True:
         temp_tokens+= "Defective "
       else:
-        temp_tokens= temp_tokens + unified.normalization + " "
+        temp_tokens= temp_tokens + unified.normalization_u + " "
 
     final_file.append(temp_tokens.strip())
 
