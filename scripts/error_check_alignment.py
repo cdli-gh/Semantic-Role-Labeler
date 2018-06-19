@@ -1,3 +1,4 @@
+# Usage : python error_check_alignment.py 
 import os,sys
 
 total = 0
@@ -8,6 +9,5 @@ with open(sys.argv[1], 'r') as f:
 		line  = line.lower().split()
 		if 'error' in line:
 			err+=1
-
 print ("Error-prone : ")
 print (float(err)/total * 100 )

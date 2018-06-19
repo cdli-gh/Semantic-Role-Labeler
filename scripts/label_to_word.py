@@ -13,7 +13,7 @@ ALIGNMENT_FILE = sys.argv[1]
 DATA_FILE = sys.argv[2]
 
 
-with open(ALIGNMENT_FILE,  'r') as a, open(DATA_FILE, 'r') as d, open('words-aligned-forward.dat', 'w+') as w:
+with open(ALIGNMENT_FILE,  'r') as a, open(DATA_FILE, 'r') as d, open('efmaral-words-aligned-symm.dat', 'w+') as w:
 	line_no = 1
 	total_list = []
 	for x, y in izip(a, d):
