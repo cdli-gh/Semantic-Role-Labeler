@@ -42,7 +42,7 @@ Its larger goal is to develop a standalone semantic role labeler for the Sumeria
 
 * **[processed-data](processed-data)** - Contains all the processed data that has been used in the course of the workflow of the project.
 	* **[cdli/un-normalised](processed-data/cdli/un-normalised)** - Has the processed CDLI data which is un-normalised and also ready for use by word aligning software. A sample file is described below:
-		* [sum_eng_train_unnorm.csv](processed-data/cdli/un-normalised/sum_eng_train_unnorm.csv) : Contains the input data (unnormalised) which contains side-by-side Sumerian sentences along with their English counterparts separated by ``` ||| ``` with the spaces. This format is required as input to word-aligners. The data is 
+		* [sum_eng_train_unnorm.csv](processed-data/cdli/un-normalised/sum_eng_train_unnorm.csv) : Contains the input data (unnormalised) which contains side-by-side Sumerian sentences along with their English counterparts separated by ``` ||| ``` with the spaces. This format is required as input to word-aligners. 
 		* ... : Other files similar to the above.
 	* **[etcsl](processed-data/etcsl)** - Contains ETCSL processed data.
 		* [parallel-etcsl-eng](processed-data/etcsl/parallel-etcsl-eng) : Contains English texts arranged in paragraphs from the etcsl corpus.
