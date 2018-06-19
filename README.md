@@ -50,12 +50,12 @@ Its larger goal is to develop a standalone semantic role labeler for the Sumeria
 		* [old-proc-eng](processed-data/etcsl/old-proc-eng) : Processed data for English as returned by the ETCSL scraper script.
 		* [old-proc-sum](processed-data/etcsl/old-proc-sum) : Processed data for Sumerian as returned by the ETCSL scraper script. Difference is this has line-by-line transliterations along with the identification information for each text.
 
-	* **[unified](processed-data/unified)** - The plan is to include all unified parallel data here, for ETCSL and ETCSRI.
+	* **[unified](processed-data/unified)** - The plan is to include all unified parallel data here, for ETCSL and ETCSRI after converting to ASCII and normalising it.
 		* [etcsl-transliteration-normalised.dat](processed-data/etcsl/unified/etcsl-transliteration-normalised.dat) : A sample snapshot of the [unifier script](scripts/processing/etcsl_cdli_unifier.py) from above on etcsl text _c.1.1.1.txt_
 
 
 	*  **[misc](processed-data/misc)** - Miscellaneous processed data. Currently contains outputs for a few sentence-combining heuristic functions for the CDLI-UrIII data.
-	
+
 
 ### Prerequisites
 
