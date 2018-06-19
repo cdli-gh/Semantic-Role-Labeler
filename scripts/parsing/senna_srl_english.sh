@@ -1,6 +1,6 @@
 ############################################################
 #
-# Usage : [./srl_english.sh] [path_to_senna_dir] [input_file] [output_file]
+# Usage : [./senna_srl_english.sh] [path_to_senna_dir] [input_file] [output_file]
 #
 ############################################################
 
@@ -19,7 +19,7 @@ function absolute_path() {
 #Exit program if no. of arguments are not equal to 3
 if [[ $# -ne 3 ]]
 then
-	echo "Usage: ./srl_english.sh [path_to_senna_dir] [input_file] [output_file]"
+	echo "Usage: ./senna_srl_english.sh [path_to_senna_dir] [input_file] [output_file]"
 	exit
 fi
 
