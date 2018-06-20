@@ -62,7 +62,7 @@ Its larger goal is to develop a standalone semantic role labeler for the Sumeria
 	3. **[word-alignments](outputs/word-alignments)** : Outputs containing the word-aligned Sum-Eng data. Both of the folders below contain both index-based and word-based alignments.
 		* [efmaral-aligner](outputs/word-alignments/efmaral-aligner) : Word alignments induced via the efmeral aligner from https://github.com/robertostling/efmaral. Gives lesser errory alignments than fast-align.
 		* [fast-align](outputs/word-alignments/fast-align) : Using fast-align (https://github.com/clab/fast_align) for the word alignments. 
-		
+	4. **[projected](outputs/projected)** : Contains SRL projected annotations for Sumerian and the error logs.
 
 
 ### Prerequisites
