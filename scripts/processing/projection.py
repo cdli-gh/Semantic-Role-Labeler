@@ -82,7 +82,7 @@ with open(MATE_PARSED_FILE, 'r') as f:
 				print ('label .01 or .02 does not exist for the predicate.', m_line_no)
 
 		# Join the list into a string and append it to the final projected list
-		string = ' '.join(x for x in line)
+		string = '\t'.join(x for x in line)
 		string = string.strip()
 		projected_list.append(string)
 
