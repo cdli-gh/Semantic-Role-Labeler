@@ -3,7 +3,8 @@
 
 # Pre-requisites: - 
 
-# Usage :  python label_to_word.py ../outputs/word-alignments/symmetrized-alignment.dat ../data/translated_parallel_data/sum_eng_train_unnorm.csv
+# Usage : python label_to_word.py ../../outputs/word-alignments/efmaral-aligner/index-aligned/efmaral-symm.dat ../../processed-data/cdli/un-normalised/sum_eng_train_unnorm.csv 
+
 ############################################################
 
 import os, sys, codecs
@@ -52,7 +53,7 @@ with open(ALIGNMENT_FILE,  'r') as a, open(DATA_FILE, 'r') as d, open('efmaral-w
 		for item in x:
 			item = item.split('-')
 			try:
-				word_sentence = word_sentence + left_label_dict[int(item[0])] + '-' + right_label_dict[int(item[1])] + ' '
+				word_sentence = word_sentence + left_label_dict[int(item[0])] + '|' + right_label_dict[int(item[1])] + ' '
 			except:
 				word_sentence += "Error "
 		word_sentence = word_sentence.strip()
