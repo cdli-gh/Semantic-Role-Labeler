@@ -6,18 +6,18 @@ Its larger goal is to develop a standalone semantic role labeler for the Sumeria
 
 ## Contents
 
-* **[data](data)** - Contains all the data files required for the project. These contain _non-processed_ raw data files which are download  
+1. **[data](data)** - Contains all the data files required for the project. These contain _non-processed_ raw data files which are download  
 	1. [cdli-data](data/cdli-data) : Has the parallel data from the CDLI-UrIII corpus - contains normalised files which have NUMB and ordNUMB for numbers, etc. Downloaded from https://github.com/cdli-gh/mtaac_cdli_ur3_corpus
 	2. [etcsl](data/etcsl) : It contains all the etcsl files provided by http://ota.ox.ac.uk/desc/2518 , which includes XML versions of the transliterations & the translations of the complete etcsl corpus.
 	3. [preproposal-data](data/preproposal-data) : Contains data files from the pre-proposal phase.
 	4. [misc](data/misc) : Miscellanous data files.
 
-* **[embeddings](embeddings)** - Contains trained word2vec vectors trained on monolingual Sumerian data using the skipgram as well as cbow word vector models.
+2. **[embeddings](embeddings)** - Contains trained word2vec vectors trained on monolingual Sumerian data using the skipgram as well as cbow word vector models.
 	1. [skipgram](embeddings/skipgram) : It contains word vectors trained using the skipgram model - contains tweaking of various parameters like no. of dimensions (50, 100, 200, 300), usage of hierarchical softmax(_indicated by _hs_ in the respective stored files_), and change in the window size while training(either 3 or 4 context words). 
 	2. [cbow](embeddings/cbow) : Same as above except the method of training used is the Continuous Bag of Words(CBoW) model.
 
 
-* **[scripts](scripts)** - Contains all the scripts used in the project. Usage mechanisms for each of the files are provided in the header of the scripts.
+3. **[scripts](scripts)** - Contains all the scripts used in the project. Usage mechanisms for each of the files are provided in the header of the scripts.
 	1. **[alignments](scripts/alignments)** - Has scripts which modify/deal with word aligned Sumerian-English data.
 		* [label_to_word.py](scripts/alignments/label_to_word.py) : Script for creating words-aligned representation from Pharaoh format index-labeled aligned data. 
 	2. **[error-checking](scripts/error-checking)** - Scripts for error handling and analysing errors in files.
@@ -33,14 +33,14 @@ Its larger goal is to develop a standalone semantic role labeler for the Sumeria
 		* [make_fasttext.sh](scripts/word-embeddings/make_fastttext.sh) : Make word vectors using the FastText algorithm.
 		* [make_word_vectors.py](scripts/word-embeddings/make_word_vectors.py) : Inducing word vectors using the traditional word2vec algorithms.
 
-	6. **[processsing](scripts/processing)** - Scripts for processing data and other files.
+	6. **[processing](scripts/processing)** - Scripts for processing data and other files.
 		* [create_parallel.py](scripts/processing/create_parallel.py) : Script for creating parallel aligned data from the existing XML parsed data for ETCSL. Converts the sentence transliterations to combine into paragraphs.
 		* [etcsl_cdli_unifier.py](scripts/processing/etcsl_cdli_unifier.py) : Uses Ilya's script from the ```transliteration``` python class ([link here](https://github.com/cdli-gh/mtaac_cdli_ur3_corpus/blob/master/scripts/scripts_translated.py)) to normalise the tokenized data from an input file. (in this case, the ETCSL files)
 		* [sentence_segment.py](scripts/processing/sentence_segment.py) : A simple heuristic to segment sentences in the CDLI English corpus - mainly used before applying mate-tools to the English data for better coverage.
 		* [unicode_decode.py](scripts/processing/unicode_decode.py) : Script for normalising the english character set in the source English data.
 		* [unnormalise.py](scripts/processing/unnormalise.py) : Script for removing normalisation elements from the CDLI data, and also making the parallel data ready as input for the _efmaral_ & _fast_align_ word aligners.
 
-* **[processed-data](processed-data)** - Contains all the processed data that has been used in the course of the workflow of the project.
+4. **[processed-data](processed-data)** - Contains all the processed data that has been used in the course of the workflow of the project.
 	1. **[cdli/un-normalised](processed-data/cdli/un-normalised)** - Has the processed CDLI data which is un-normalised and also ready for use by word aligning software. A sample file is described below:
 		* [sum_eng_train_unnorm.csv](processed-data/cdli/un-normalised/sum_eng_train_unnorm.csv) : Contains the input data (unnormalised) which contains side-by-side Sumerian sentences along with their English counterparts separated by ``` ||| ``` with the spaces. This format is required as input to word-aligners. 
 		* ... : Other files similar to the above.
@@ -56,7 +56,7 @@ Its larger goal is to develop a standalone semantic role labeler for the Sumeria
 
 	4. **[misc](processed-data/misc)** - Miscellaneous processed data. Currently contains outputs for a few sentence-combining heuristic functions for the CDLI-UrIII data.
 
-* **[outputs](outputs)** - This folder contains all the intermediate output files generated after applying the workflow processes.
+5. **[outputs](outputs)** - This folder contains all the intermediate output files generated after applying the workflow processes.
 	1. **[mate-parsing](outputs/mate-parsing)** : Contains outputs of SRL structure of English text via mate-tools. For both normalised and un-normalised data.
 	2. **[senna-parsing](outputs/senna-parsing)** : Contains SRL structure of the English text via SENNA.
 	3. **[word-alignments](outputs/word-alignments)** : Outputs containing the word-aligned Sum-Eng data. Both of the folders below contain both index-based and word-based alignments.
