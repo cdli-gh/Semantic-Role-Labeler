@@ -83,7 +83,7 @@ Feel free to send in pull requests to us, we will be happy to incorporate meanin
 
 ## Authors
 
-* **Bakhtiyar Syed** - [bakszero](https://github.com/PurpleBooth)
+* **Bakhtiyar Syed** - [bakszero](https://github.com/bakszero)
 
 ## Mentors
 
