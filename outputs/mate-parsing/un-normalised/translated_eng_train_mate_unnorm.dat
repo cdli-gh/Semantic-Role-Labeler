@@ -26536,7 +26536,9 @@
 1	Inanna	inanna	inanna	NNP	NNP	_	_	0	0	ROOT	ROOT	_	_
 2	.	.	.	.	.	_	_	1	1	P	P	_	_
 
-
+1	…	…	…	SYM	SYM	_	_	3	3	NMOD	NMOD	_	_
+2	…	…	…	:	:	_	_	1	1	P	P	_	_
+3	…	…	…	PRP	PRP	_	_	0	0	ROOT	ROOT	_	_
 
 1	…	…	…	:	:	_	_	5	5	P	P	_	_	_
 2	the	the	the	DT	DT	_	_	4	4	NMOD	NMOD	_	_	_
@@ -40034,7 +40036,7 @@
 16	.	.	.	.	.	_	_	15	15	P	P	_	_	_	_	_
 17	”	”	”	)	)	_	_	15	15	P	P	_	_	_	_	_
 
-
+1	...	...	...	:	:	_	_	0	0	ROOT	ROOT	_	_
 
 1	beloved	belove	belove	VBN	VBN	_	_	0	0	ROOT	ROOT	Y	belove.01	_
 2	of	of	of	IN	IN	_	_	1	1	ADV	ADV	_	_	A1
@@ -40897,7 +40899,10 @@
 3	eša	eša	eša	NNP	NNP	_	_	0	0	ROOT	ROOT	_	_
 4	,	,	,	,	,	_	_	3	3	P	P	_	_
 
-
+1	Ki	ki	ki	NNP	NNP	_	_	3	3	NAME	NAME	_	_
+2	’	’	’	NNP	NNP	_	_	3	3	NAME	NAME	_	_
+3	eša	eša	eša	NNP	NNP	_	_	0	0	ROOT	ROOT	_	_
+4	,	,	,	,	,	_	_	3	3	P	P	_	_
 
 1	houses	house	house	NNS	NNS	_	_	0	0	ROOT	ROOT	Y	house.03	_
 2	of	of	of	IN	IN	_	_	1	1	NMOD	NMOD	_	_	A1
@@ -40905,7 +40910,11 @@
 4	gods	god	god	NNS	NNS	_	_	2	2	PMOD	PMOD	_	_	_
 5	,	,	,	,	,	_	_	1	1	P	P	_	_	_
 
-
+1	houses	house	house	NNS	NNS	_	_	0	0	ROOT	ROOT	Y	house.03	_
+2	of	of	of	IN	IN	_	_	1	1	NMOD	NMOD	_	_	A1
+3	the	the	the	DT	DT	_	_	4	4	NMOD	NMOD	_	_	_
+4	gods	god	god	NNS	NNS	_	_	2	2	PMOD	PMOD	_	_	_
+5	,	,	,	,	,	_	_	1	1	P	P	_	_	_
 
 1	in	in	in	IN	IN	_	_	0	0	ROOT	ROOT	_	_	_
 2	the	the	the	DT	DT	_	_	3	3	NMOD	NMOD	_	_	_
@@ -51281,7 +51290,15 @@
 8	,	,	,	,	,	_	_	9	9	P	P	_	_
 9	”	”	”	NNP	NNP	_	_	0	0	ROOT	ROOT	_	_
 
-
+1	workdays	workday	workday	NNS	NNS	_	_	7	7	NAME	NAME	_	_
+2	,	,	,	,	,	_	_	1	1	P	P	_	_
+3	at	at	at	IN	IN	_	_	1	1	LOC	LOC	_	_
+4	the	the	the	DT	DT	_	_	5	5	NMOD	NMOD	_	_
+5	field	field	field	NN	NN	_	_	3	3	PMOD	PMOD	_	_
+6	“	“	“	NIL	NIL	_	_	7	7	NMOD	NMOD	_	_
+7	Ninnudu	ninnudu	ninnudu	NNP	NNP	_	_	9	9	NMOD	NMOD	_	_
+8	,	,	,	,	,	_	_	9	9	P	P	_	_
+9	”	”	”	NNP	NNP	_	_	0	0	ROOT	ROOT	_	_
 
 1	acacia	acacia	acacia	NN	NN	_	_	2	2	SBJ	SBJ	_	_	A0
 2	cut	cut	cut	VBD	VBD	_	_	0	0	ROOT	ROOT	Y	cut.02	_
@@ -56171,9 +56188,11 @@
 
 1	3	3	3	CD	CD	_	_	0	0	ROOT	ROOT	_	_
 
+1	.	.	.	.	.	_	_	0	0	ROOT	ROOT	_	_
+2	.	.	.	.	.	_	_	1	1	NMOD	NMOD	_	_
 
-
-
+1	.	.	.	.	.	_	_	0	0	ROOT	ROOT	_	_
+2	.	.	.	.	.	_	_	1	1	NMOD	NMOD	_	_
 
 1	Geme-Amar-Suen	geme-amar-suen	geme-amar-suen	NNP	NNP	_	_	0	0	ROOT	ROOT	_	_
 2	,	,	,	,	,	_	_	1	1	P	P	_	_
@@ -60050,7 +60069,17 @@
 10	.	.	.	.	.	_	_	1	1	P	P	_	_	_	_
 11	”	”	”	''	''	_	_	1	1	P	P	_	_	_	_
 
-
+1	year	year	year	NN	NN	_	_	0	0	ROOT	ROOT	_	_	_	AM-TMP
+2	:	:	:	:	:	_	_	1	1	P	P	_	_	_	_
+3	“	“	“	:	:	_	_	1	1	P	P	_	_	_	_
+4	The	the	the	DT	DT	_	_	5	5	NMOD	NMOD	_	_	_	_
+5	house	house	house	NN	NN	_	_	8	8	SBJ	SBJ	Y	house.03	_	A1
+6	of	of	of	IN	IN	_	_	5	5	NMOD	NMOD	_	_	A1	_
+7	Šara	šara	šara	NNP	NNP	_	_	6	6	PMOD	PMOD	_	_	_	_
+8	was	be	be	VBD	VBD	_	_	1	1	NMOD	NMOD	_	_	_	_
+9	erected	erect	erect	VBN	VBN	_	_	8	8	VC	VC	Y	erect.01	_	_
+10	.	.	.	.	.	_	_	1	1	P	P	_	_	_	_
+11	”	”	”	''	''	_	_	1	1	P	P	_	_	_	_
 
 1	3	3	3	CD	CD	_	_	0	0	ROOT	ROOT	_	_
 
@@ -78574,9 +78603,11 @@
 1	delivery	delivery	delivery	NN	NN	_	_	0	0	ROOT	ROOT	_	_
 2	;	;	;	:	:	_	_	1	1	P	P	_	_
 
+1	delivery	delivery	delivery	NN	NN	_	_	0	0	ROOT	ROOT	_	_
+2	;	;	;	:	:	_	_	1	1	P	P	_	_
 
-
-
+1	delivery	delivery	delivery	NN	NN	_	_	0	0	ROOT	ROOT	_	_
+2	;	;	;	:	:	_	_	1	1	P	P	_	_
 
 1	Albanidu	albanidu	albanidu	NNP	NNP	_	_	0	0	ROOT	ROOT	_	_
 2	,	,	,	,	,	_	_	1	1	P	P	_	_
@@ -86437,7 +86468,14 @@
 7	.	.	.	.	.	_	_	1	1	P	P	_	_	_
 8	”	”	”	''	''	_	_	1	1	P	P	_	_	_
 
-
+1	year	year	year	NN	NN	_	_	0	0	ROOT	ROOT	_	_	AM-TMP
+2	:	:	:	:	:	_	_	1	1	P	P	_	_	_
+3	“	“	“	NN	NN	_	_	4	4	NAME	NAME	_	_	_
+4	Amar-Suen	amar-suen	amar-suen	NNP	NNP	_	_	5	5	SBJ	SBJ	_	_	A0
+5	destroyed	destroy	destroy	VBD	VBD	_	_	1	1	NMOD	NMOD	Y	destroy.01	_
+6	Urbilum	urbilum	urbilum	NNP	NNP	_	_	5	5	OBJ	OBJ	_	_	A1
+7	.	.	.	.	.	_	_	1	1	P	P	_	_	_
+8	”	”	”	''	''	_	_	1	1	P	P	_	_	_
 
 1	3	3	3	CD	CD	_	_	0	0	ROOT	ROOT	_	_
 
@@ -91086,4 +91124,3 @@
 6	destroyed	destroy	destroy	VBN	VBN	_	_	5	5	VC	VC	Y	destroy.01	_
 7	.	.	.	.	.	_	_	5	5	P	P	_	_	_
 8	”	”	”	''	''	_	_	5	5	P	P	_	_	_
-
