@@ -64,13 +64,14 @@ Its larger goal is to develop a standalone semantic role labeler for the Sumeria
 	4. **[projected](outputs/projected)** : Contains SRL projected annotations for Sumerian and the error logs.
 
 
-### Prerequisites
+
+## Prerequisites
 
 What things you need to install the software and how to install them.
 Will be updated as the project progresses.
 
 
-### Installing
+## Installing
 
 Will be updated as the project progresses.
 
