@@ -1,4 +1,4 @@
-############################################################
+ ############################################################
 # Script for creating parallel aligned data from the existing XML parsed data.
 
 # Pre-requisites: - 

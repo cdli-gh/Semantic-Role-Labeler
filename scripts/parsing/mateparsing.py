@@ -5,12 +5,14 @@
 #				  2. Install the mate-tools python wrapper from 'https://github.com/bjut-hz/py-mate-tools'
 
 # Usage : python mateparsing.py [input_file] [output_path]
+# Note : The output path must be a directory to which results.out is written. DON'T SPECIFY A FILE PATH HERE!!!
 ############################################################
 
 import sys, os, codecs
 from PyMateTools import matetools
 
 INPUT_FILE = sys.argv[1]
+
 OUTPUT_PATH = sys.argv[2]
 OUTPUT_PATH = os.path.abspath(OUTPUT_PATH) # get the absolute path of the output file you want to write to
 
