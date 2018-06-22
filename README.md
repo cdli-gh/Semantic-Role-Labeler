@@ -77,6 +77,10 @@ ___
 
 ___
 
+## Progress Document
+
+Update of the progress document of the project - contains minute details as well as comprehensive details of the challenges and the solution to many roadbloacks is being done here : https://docs.google.com/document/d/1ttPy-t14cTuVvAAnuWiOoCDEJHRfuyq9eXmpY4bnohg/edit?usp=sharing
+ (Link sharing on only for mentors and admins)
 
 ## Prerequisites
 
