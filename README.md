@@ -4,6 +4,18 @@ This project is a work undertaken for Google Summer of Code - GSoC 2018 under th
 Its larger goal is to develop a standalone semantic role labeler for the Sumerian language.
 
 
+## Authors
+
+* **Bakhtiyar Syed** - [bakszero](https://github.com/bakszero)
+
+## Mentors
+
+This project is mentored by:
+
+* **Niko Schenk**
+* **Ilya Khait**
+
+
 ## Contents
 
 1. **[data](data)** - Contains all the data files required for the project. These contain _non-processed_ raw data files which are download  
@@ -62,6 +74,7 @@ ___
 		* [efmaral-aligner](outputs/word-alignments/efmaral-aligner) : Word alignments induced via the efmeral aligner from https://github.com/robertostling/efmaral. Gives lesser errory alignments than fast-align.
 		* [fast-align](outputs/word-alignments/fast-align) : Using fast-align (https://github.com/clab/fast_align) for the word alignments. 
 	4. **[projected](outputs/projected)** : Contains SRL projected annotations for Sumerian and the error logs.
+
 ___
 
 
@@ -79,18 +92,6 @@ Will be updated as the project progresses.
 ## Contributing
 
 Feel free to send in pull requests to us, we will be happy to incorporate meaningful changes and suggestions.
-
-
-## Authors
-
-* **Bakhtiyar Syed** - [bakszero](https://github.com/bakszero)
-
-## Mentors
-
-This project is mentored by:
-
-* **Niko Schenk**
-* **Ilya Khait**
 
 
 ## License
