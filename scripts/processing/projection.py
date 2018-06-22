@@ -83,7 +83,7 @@ with open(MATE_PARSED_FILE, 'r') as f:
 
 
 		#Join the line_no for error handling
-		line[-1] = str(m_line_no)
+		#line.append(str(m_line_no))
 		# Join the list into a string and append it to the final projected list
 		string = '\t'.join(x for i, x in enumerate(line) if (i==0 or i==1 or i>=12) )
 		string = string.strip()
