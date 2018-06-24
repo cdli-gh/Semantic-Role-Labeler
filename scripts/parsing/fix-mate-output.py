@@ -68,17 +68,21 @@ with open(ENG_MATE_PARSED_FILE, 'r') as f:
 				#print (children[val])
 			#print (children)
 			copy_intermediate_lines = copy.deepcopy(intermediate_lines)
+			print (children)
+			print (copy_intermediate_lines)
 			for key, arr in children.items():
 				if key == '0':
 					continue
 
-				if (intermediate_lines[int(key)][14] != '-'):
-					#print (intermediate_lines[int(key)][13])
+				if (intermediate_lines[int(key)][14] != '_'):
+					#print (intermediate_lines[int(key)][14])
 					#print (arr)
-					copy_intermediate_lines[int(key)][14] = intermediate_lines[int(key)][14]
+					#copy_intermediate_lines[int(key)][14] = intermediate_lines[int(key)][14]
+					#print (copy_intermediate_lines)
 					for child in arr:
 						copy_intermediate_lines[int(child)][14] = intermediate_lines[int(key)][14]
-			
+						#print (copy_intermediate_lines[int(child)][14])
+			print (copy_intermediate_lines)
 
 			for i,item in enumerate(copy_intermediate_lines):
 				if (i==0):
