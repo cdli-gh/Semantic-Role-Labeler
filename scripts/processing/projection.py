@@ -46,10 +46,12 @@ with open(MATE_PARSED_FILE, 'r') as f:
 	for line in f:
 		#if (check > 1):
 		#	break
+		print (line)
 		line = line.strip() # to remove newline characters at the end of the line
 		
 		# Once an end of an actual line occurs :-
 		if line == '':
+			#print (projected_list)
 			projected_list.append('\n')
 			m_line_no+=1 # Increment line no. only when we encounter a blank token
 			continue
