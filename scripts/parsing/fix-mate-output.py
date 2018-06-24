@@ -12,6 +12,25 @@ import copy
 ENG_MATE_PARSED_FILE = sys.argv[1]
 projected_list = [] #Store fixed output here
 
+
+def dfs(dictionary, temp_list, start, depth):
+	print ("DICTIONARY: ", dictionary)
+	print ("START : ", start)
+	print ("TEMP_LIST :", temp_list)
+	if start in temp_list:
+		return
+	if len(dictionary[start]) == 0:
+		temp_list.append(start)
+		return
+	if depth !=0:
+		temp_list.append(start)
+	depth+=1
+	for item in dictionary[start]:
+		print ("ITEM :", item)
+		dfs(children, temp_list, item, depth)
+
+
+
 with open(ENG_MATE_PARSED_FILE, 'r') as f:
 	m_line_no = 1
 
@@ -64,12 +83,24 @@ with open(ENG_MATE_PARSED_FILE, 'r') as f:
 			for key, val in parent.items():
 				#print (key, val)
 				#print (type(key), type(val))
-				children[val].append(key)
+				if key != val:
+					children[val].append(key)
+
 				#print (children[val])
+
+			print (children)
+			for key, val in children.items():
+				temp_list = []
+				depth =0
+				#temp_list.append(key)
+				dfs(children, temp_list, key, depth)
+				print ("NEW LIST : ",temp_list)
+				children[key] = temp_list
+
 			#print (children)
 			copy_intermediate_lines = copy.deepcopy(intermediate_lines)
 			print (children)
-			print (copy_intermediate_lines)
+			#print (copy_intermediate_lines)
 			for key, arr in children.items():
 				if key == '0':
 					continue
