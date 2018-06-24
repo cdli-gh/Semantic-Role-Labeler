@@ -25,7 +25,7 @@ with open(ENG_MATE_PARSED_FILE, 'r') as f:
 		# Once an end of an actual line occurs :-
 		if line == '':
 			print ("LINE NO: ", m_line_no)
-
+			flag_predicate = 0
 			# Create the parent and children dicts.
 			# parent is one-to-one.
 			# children is one-to-a-list.
@@ -36,9 +36,25 @@ with open(ENG_MATE_PARSED_FILE, 'r') as f:
 
 			#Find all parents of lines
 			children['0'] = []
+
 			for item in intermediate_lines:
 				parent[item[0]] = item[9]
 				children[item[0]] = []
+
+				#Check if predicate exists in any one of the item of the intermediate lines
+				if item[12] == 'Y':
+					flag_predicate = 1
+
+			# If no predicate, skip the sentence altogether since it does not have 13 and 14 indexes
+			if flag_predicate == 0:
+				projected_list.append('\n')
+				intermediate_lines = []
+				intermediate_lines.append(['0','-','-','-','-','-','-','-','-','0','-','-','-','-'])
+				copy_intermediate_lines = []
+				continue
+
+
+
 			for key, val in parent.items():
 				#print (key, val)
 				#print (type(key), type(val))
@@ -49,11 +65,12 @@ with open(ENG_MATE_PARSED_FILE, 'r') as f:
 			for key, arr in children.items():
 				if key == '0':
 					continue
-				if (intermediate_lines[int(key)][13] != '-'):
+
+				if (intermediate_lines[int(key)][14] != '-'):
 					#print (intermediate_lines[int(key)][13])
 					#print (arr)
 					for child in arr:
-						copy_intermediate_lines[int(child)][13] = intermediate_lines[int(key)][13]
+						copy_intermediate_lines[int(child)][14] = intermediate_lines[int(key)][14]
 			
 
 			for i,item in enumerate(copy_intermediate_lines):
