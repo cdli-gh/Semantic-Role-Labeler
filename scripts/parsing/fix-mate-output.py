@@ -75,6 +75,7 @@ with open(ENG_MATE_PARSED_FILE, 'r') as f:
 				if (intermediate_lines[int(key)][14] != '-'):
 					#print (intermediate_lines[int(key)][13])
 					#print (arr)
+					copy_intermediate_lines[int(key)][14] = intermediate_lines[int(key)][14]
 					for child in arr:
 						copy_intermediate_lines[int(child)][14] = intermediate_lines[int(key)][14]
 			
@@ -96,7 +97,7 @@ with open(ENG_MATE_PARSED_FILE, 'r') as f:
 
 
 # Store the fixed mate tools extended output
-with open('fixed_mate.out', 'w+') as f:
+with open('../../outputs/mate-parsing/un-normalised/extended_translated_eng_train_mate_unnorm.dat', 'w+') as f:
 	for item in projected_list:
 		f.write(item+'\n')
 
