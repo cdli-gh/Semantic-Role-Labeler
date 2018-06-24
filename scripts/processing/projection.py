@@ -64,7 +64,7 @@ with open(MATE_PARSED_FILE, 'r') as f:
 			line[1] = alignment[str(m_line_no)][line[1]]
 		except:
 			print ("Alignment not found | ", line[1], " | Line no. " ,m_line_no)
-
+			#continue
 		# Check if the token is a predicate -  if yes, replace the column pertaining to that with the sumerian word.
 		if line[12] == 'Y':
 			label = line[13].split('.')[1] # Check if .01 or .02
@@ -93,7 +93,7 @@ with open(MATE_PARSED_FILE, 'r') as f:
 
 
 # Store the projected output
-with open('test_projected.out', 'w+') as f:
+with open('../../outputs/projected/new_cleaned_projected.out', 'w+') as f:
 	for item in projected_list:
 		f.write(item+'\n')
 

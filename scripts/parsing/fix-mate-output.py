@@ -134,7 +134,10 @@ with open(ENG_MATE_PARSED_FILE, 'r') as f:
 # Store the fixed mate tools extended output
 with open('../../outputs/mate-parsing/un-normalised/extended_translated_eng_train_mate_unnorm.dat', 'w+') as f:
 	for item in projected_list:
-		f.write(item+'\n')
+		if item == '\n':
+			f.write(item)
+		else:
+			f.write(item+'\n')
 
 
 
