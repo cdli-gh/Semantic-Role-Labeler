@@ -47,6 +47,12 @@ with open(ENG_MATE_PARSED_FILE, 'r') as f:
 
 			# If no predicate, skip the sentence altogether since it does not have 13 and 14 indexes
 			if flag_predicate == 0:
+				for i, item in enumerate(intermediate_lines):
+					if (i==0):
+						continue
+					string = '\t'.join(x for i, x in enumerate(item))
+					projected_list.append(string.strip())
+
 				projected_list.append('\n')
 				intermediate_lines = []
 				intermediate_lines.append(['0','-','-','-','-','-','-','-','-','0','-','-','-','-'])
