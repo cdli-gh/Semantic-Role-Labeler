@@ -36,6 +36,7 @@ ___
 	3. **[parsing](scripts/parsing)** - Scripts related to/for parsing English source data.
 		* [mateparsing.py](scripts/parsing/mateparsing.py) : It is used for running mate-tools on the data to get the SRL labels for English. A python wrapper of mate-tools is used.
 		* [senna_srl_english.sh](scripts/parsing/senna_srl_english.sh) : Used for obtaining SENNA's SRL parser output on the English data.
+		* [fix-mate-output.py](scripts/parsing/fix-mate-output.py) : Script for extending arguments of prepositional phrases in output of mate-tools. Uses DFS(depth-first-search) to accomplish the task.
 	4. **[scraping](scripts/scraping)** - Scripts for scraping data and reformating/storing it in a readable and coherent fashion.
 		* [scrape-etcsl-XML.py](scripts/scraping/scrape-etcsl-XML.py) : It is used for scraping transliterations from ETCSL XML files. Reference: https://github.com/niekveldhuis/Digital-Assyriology/blob/master/Scrape-etcsl/scrape-etcsl-XML.ipynb
 		* [modified-scrape-etcsl-translations-XML.py](scripts/scraping/modified-scrape-etcsl-translations-XML.py) : Modified version of the above script for scraping the translations from the ETCSL XML translations data file.
