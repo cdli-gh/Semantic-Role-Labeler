@@ -97,7 +97,10 @@ with open(MATE_PARSED_FILE, 'r') as f:
 # Store the projected output
 with open('../../outputs/projected/new_cleaned_projected.out', 'w+') as f:
 	for item in projected_list:
-		f.write(item+'\n')
+		if item == '\n':
+			f.write(item)
+		else:
+			f.write(item+'\n')
 
 
 
