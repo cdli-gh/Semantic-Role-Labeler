@@ -70,7 +70,7 @@ with open(SUM_PROJECTED_FILE, 'r') as f:
 					intermediate_lines[key][0] = str(token_no)
 					projected_list.append('\t'.join(x for i, x in enumerate(intermediate_lines[key])))
 				else:
-					intermediate_lines[key][0] = str(token_no)
+					intermediate_lines[pred_pos[key]][0] = str(token_no)
 					projected_list.append('\t'.join(x for i, x in enumerate(intermediate_lines[pred_pos[key]])))
 				token_no+=1
 
