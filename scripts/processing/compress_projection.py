@@ -16,8 +16,8 @@ SUM_PROJECTED_FILE = sys.argv[1]
 with open(SUM_PROJECTED_FILE, 'r') as f:
 	m_line_no = 1
 
-	intermediate_lines = []
-	projected_list = []
+	intermediate_lines = [] #
+	projected_list = [] #Final output file stored line-by-line.
 
 	for line in f:
 
