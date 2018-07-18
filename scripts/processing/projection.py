@@ -95,7 +95,7 @@ with open(MATE_PARSED_FILE, 'r') as f:
 
 
 # Store the projected output
-with open('../../outputs/projected/new_cleaned_projected.out', 'w+') as f:
+with open('../../outputs/projected/srl_new_cleaned_projected.out', 'w+') as f:
 	for item in projected_list:
 		if item == '\n':
 			f.write(item)
