@@ -3,7 +3,7 @@
 
 # Pre-requisites: - 
 
-# Usage : python3 nlpnetformat_from_compressedSUM.py SUM_PROJECTED_FILE
+# Usage : python3 fixsrl2conll.py SUM_PROJECTED_FILE
 ############################################################
 
 import sys, os
