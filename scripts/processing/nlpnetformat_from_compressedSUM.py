@@ -117,8 +117,8 @@ with open(SUM_PROJECTED_FILE, 'r') as f:
 					for i, item in enumerate(copy_intermediate_lines):
 						if (i==0):
 							continue
-						#if '*' not in item[int(index)]:
-					#		copy_intermediate_lines[i][int(index)] = '*'
+						if '*' not in item[int(index)]:
+							copy_intermediate_lines[i][int(index)] = '*'
 
 
 
