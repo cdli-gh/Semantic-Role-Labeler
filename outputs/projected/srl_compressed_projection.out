@@ -9,7 +9,7 @@
 2	lukala	_	_	A1
 
 1	iti	_	_	_
-2	ezemamarsuen	Y	festival.01	_
+2	ezemamarsuen	Y	festival.01	A1
 
 1	mu	_	_	A1
 2	huhnuri	_	_	A1
@@ -30,11 +30,10 @@
 1	ki	_	_
 2	abasagata	_	_
 
-
 1	idab	Y	accept.01	_
 
 1	iti	_	_	_
-2	kisikininazu	Y	ki-siki.01	_
+2	kisikininazu	Y	ki-siki.01	A1
 
 1	mu	_	_	A1
 2	cacru	_	_	A1
@@ -5003,7 +5002,7 @@
 1	idab	Y	accept.01	_
 
 1	iti	_	_	_
-2	kisikininazu	Y	ki-siki.01	_
+2	kisikininazu	Y	ki-siki.01	A1
 
 1	mu	_	_	_	A1
 2	guza	Y	throne.01	_	A1
@@ -9472,7 +9471,7 @@
 2	idab	Y	receive.01	_
 
 1	iti	_	_	_
-2	kisikininazu	Y	ki-siki.01	_
+2	kisikininazu	Y	ki-siki.01	A1
 
 1	mu	_	_	_	_	A1
 2	enunugal	Y	en-unu-gal.01	_	_	A1
@@ -10502,7 +10501,7 @@
 1	bazi	Y	book.01	_
 
 1	iti	_	_	_
-2	kisikininazu	Y	kisiki.01	_
+2	kisikininazu	Y	kisiki.01	A1
 
 1	mu	_	_	A0
 2	amarsuen	_	_	A0
@@ -10926,7 +10925,7 @@
 1	bati	Y	receive.01	_
 
 1	iti	_	_	_
-2	kisikininazu	Y	ki-siki.01	_
+2	kisikininazu	Y	ki-siki.01	A1
 
 1	mu	_	_	A1
 2	kimac	_	_	A1
@@ -13099,7 +13098,7 @@
 5	gur	_	_	_
 
 1	iti	_	_	_
-2	kisikininazu	Y	ki-siki.01	_
+2	kisikininazu	Y	ki-siki.01	A1
 
 1	mu	_	_	AM-TMP	A1
 2	ma	_	_	AM-TMP	A1
@@ -13250,7 +13249,7 @@
 1	idab	Y	accept.01	_
 
 1	iti	_	_	_
-2	kisikininazu	Y	kisiki.01	_
+2	kisikininazu	Y	kisiki.01	A1
 
 1	mu	_	_	_	_	A1
 2	en	Y	priest.01	_	_	A1
@@ -28597,7 +28596,7 @@
 1	bati	Y	receive.01	_
 
 1	iti	_	_	_
-2	kisikininazu	Y	ki-siki.01	_
+2	kisikininazu	Y	ki-siki.01	A1
 
 1	mu	_	_	_	AM-TMP
 2	en	Y	high-priestess.01	_	A1
@@ -29136,7 +29135,7 @@
 3	dubsar	_	_
 
 1	iti	_	_	_
-2	kisikininazu	Y	ki-siki.01	_
+2	kisikininazu	Y	ki-siki.01	A1
 
 1	mu	_	_	_	_
 2	cusuen	_	_	_	_
@@ -39059,8 +39058,8 @@
 1	cu	Y	receive.01	_
 2	bati	_	_	_
 
-1	iti	_	_
-2	kisikininazu	_	_
+1	iti	_	_	_
+2	kisikininazu	Y	_	A1
 
 1	3	_	_	_	_
 2	ce	Y	gur.01	_	_
@@ -39546,7 +39545,7 @@
 2	cumama	_	_
 
 1	iti	Y	“.01	_
-2	gisiga	_	_	_
+2	gisiga	_	_	A1
 
 1	3	_	_	A1	A1
 2	udu	_	_	A1	A1
@@ -40304,7 +40303,7 @@
 2	bazi	Y	book.01	_
 
 1	iti	Y	“.01	_	A1
-2	ezemcusuen	Y	festival.01	_	_
+2	ezemcusuen	Y	festival.01	_	A1
 
 1	X	_	_
 
@@ -42994,7 +42993,7 @@
 2	idab	Y	control.01	A1	_
 
 1	iti	_	_	A1
-2	kisikininazu	Y	weave.01	_
+2	kisikininazu	Y	weave.01	A1
 
 1	mu	_	_	A1
 2	huhnuri	_	_	A1
@@ -47042,8 +47041,8 @@
 5	3	_	_	_
 6	ginta	_	_	_
 
-1	iti	Y	“.01	_
-2	kisikininazu	_	_	_
+1	iti	_	“.01	_
+2	kisikininazu	Y	_	A1
 
 1	3	_	_
 2	udu	_	_
@@ -47204,8 +47203,8 @@
 5	3	_	_
 6	ginta	_	_
 
-1	iti	Y	“.01	_
-2	kisikininazu	_	_	_
+1	iti	_	“.01	_
+2	kisikininazu	Y	_	A1
 
 1	3	_	_
 2	udu	_	_
@@ -47363,8 +47362,8 @@
 1	n	_	_
 2	X	_	_
 
-1	iti	Y	“.01	_
-2	kisikininazu	_	_	_
+1	iti	_	“.01	_
+2	kisikininazu	Y	_	A1
 
 1	3	_	_
 2	udu	_	_
@@ -48101,7 +48100,7 @@
 2	idab	Y	responsibility.01	A1	_
 
 1	iti	_	_	_
-2	kisikininazu	_	_	A1
+2	kisikininazu	Y	_	A1
 
 1	mu	_	_	_	_
 2	en	Y	en.01	_	A1
@@ -49074,7 +49073,7 @@
 1	muku	_	_
 
 1	iti	_	_	_
-2	kisikininazu	Y	ki-siki.01	_
+2	kisikininazu	Y	ki-siki.01	A1
 
 1	mu	_	_	_	_	_
 2	en	Y	high-priestess.01	_	_	A1
