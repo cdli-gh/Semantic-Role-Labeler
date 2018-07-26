@@ -30,6 +30,19 @@ with codecs.open(INPUT_FILE, 'r', encoding='utf-8') as f, codecs.open(OUTPUT_FIL
 
 		if line[8] !='Y':
 			line[8] = '-'
+			'''
+			if len(line) >= 13:
+				del line[12]
+				del line [11]
+				del line[10]
+			elif len(line) >= 12:
+				del line[11]
+				del line[10]
+			elif len(line) >= 11:
+				del line[10]
+			'''
+
+
 		del line[9]
 
 		print (line)

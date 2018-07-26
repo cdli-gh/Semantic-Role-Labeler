@@ -3,7 +3,7 @@
 
 # Pre-requisites: - 
 
-# Usage : python3 fixsrl2conll.py SUM_PROJECTED_FILE
+# Usage : python3 nlpnetformat_from_compressedSUM.py SUM_PROJECTED_FILE
 ############################################################
 
 import sys, os
@@ -31,8 +31,8 @@ with open(SUM_PROJECTED_FILE, 'r') as f:
 		if line == '':
 			
 
-			#print ("LINE NO: ", m_line_no)
-			#print (" MAGIC NO: ", magic)
+			print ("LINE NO: ", m_line_no)
+			print (" MAGIC NO: ", magic)
 			#for item in intermediate_lines:
 			#	print (item[1])
 			flag_predicate = 0
@@ -53,32 +53,17 @@ with open(SUM_PROJECTED_FILE, 'r') as f:
 			#initialise chunks
 			chunks={}
 
-			#initialise all index_to_column dict
-			for i in range(1, flag_predicate+1):
-				chunks[c] ={}
-				index_to_column[i] = c
-				for i, item in enumerate(intermediate_lines):
-					if (i==0):
-						continue
-
-					#print (chunks)
-					#print ("c : item", c, item)
-					#print ("items : ", item[1], c, item[c])
-					if (item[c] not in chunks[c]) and item[c] != '_' and item[c] != '-':
-						chunks[c][item[c]] = []
-					if (item[c] == '_' or item[c] == '-'):
-						continue
-					chunks[c][item[c]].append(item[0])
-				c+=1
-
-
-
 			# If no predicate, skip the sentence altogether since it does not have 13 and 14 indexes
 			if flag_predicate == 0:
 				for i, item in enumerate(intermediate_lines):
 					if (i==0):
 						continue
 					string = '\t'.join(x for i, x in enumerate(item))
+					string = string.strip().split('\t')
+					for i, item in enumerate(string):
+						if item == '_' or item == '-' or 'A' in item:
+							string[i] = '*'
+					string = '\t'.join(x for i, x in enumerate(string) if i <= temp)
 					projected_list.append(string.strip())
 
 				projected_list.append('\n')
@@ -88,6 +73,28 @@ with open(SUM_PROJECTED_FILE, 'r') as f:
 				copy_intermediate_lines = []
 				continue
 
+
+			#initialise all index_to_column dict
+			for i in range(1, flag_predicate+1):
+				chunks[c] ={}
+				index_to_column[i] = c
+				for i, item in enumerate(intermediate_lines):
+					if (i==0):
+						continue
+
+					#print (chunks)
+					print ("c : item", c, item)
+					print ("items : ", item[1], c, item[c])
+					if (item[c] not in chunks[c]) and item[c] != '_' and item[c] != '-':
+						chunks[c][item[c]] = []
+					if (item[c] == '_' or item[c] == '-'):
+						continue
+					chunks[c][item[c]].append(item[0])
+				c+=1
+
+
+
+			
 			copy_intermediate_lines = copy.deepcopy(intermediate_lines)
 
 
@@ -125,7 +132,16 @@ with open(SUM_PROJECTED_FILE, 'r') as f:
 			for i,item in enumerate(copy_intermediate_lines):
 				if (i==0):
 					continue
-				string = '\t'.join(x for i, x in enumerate(item))
+				temp =0
+				for index in chunks:
+					if (index > temp):
+						temp = index
+				string = '\t'.join(x for i, x in enumerate(item) if i <= temp)
+				string = string.strip().split('\t')
+				for i, item in enumerate(string):
+					if item == '_' or item == '-':
+						string[i] = '*'
+				string = '\t'.join(x for i, x in enumerate(string) if i <= temp)
 				projected_list.append(string.strip())
 
 			projected_list.append('\n')
