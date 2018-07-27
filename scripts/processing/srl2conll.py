@@ -16,7 +16,11 @@ OUTPUT_FILE = sys.argv[2]
 docs  = [] # Here we will store the outputs line-by-line
 
 with codecs.open(INPUT_FILE, 'r', encoding='utf-8') as f, codecs.open(OUTPUT_FILE, 'w+', encoding='utf-8') as g:
+	a=1
 	for line in f:
+		print ("LINE NO. : ", a)
+		print ("length: ", len(line))
+
 		if line.strip() == '':
 			docs.append('\n')
 			continue
@@ -28,29 +32,41 @@ with codecs.open(INPUT_FILE, 'r', encoding='utf-8') as f, codecs.open(OUTPUT_FIL
 		line.insert(2,'-')
 		line.insert(2,'-')
 
-		if line[8] !='Y':
+		# if a blank word is obtained
+		if line[1] == '':
+			line[1] = 'XXXXX'
+
+		if len(line) <=9 and len(line) >=8 :
+			print ("LINE : ", a, len(line))
+		if len(line) >=9 :
+			if line[8] !='Y':
+				line[8] = '-'
+				'''
+				if len(line) >= 13:
+					del line[12]
+					del line [11]
+					del line[10]
+				elif len(line) >= 12:
+					del line[11]
+					del line[10]
+				elif len(line) >= 11:
+					del line[10]
+				'''
+		elif len(line) >=7:
+			print ("LINE NO. : ", a)
+			print ("length: ", len(line))
 			line[8] = '-'
-			'''
-			if len(line) >= 13:
-				del line[12]
-				del line [11]
-				del line[10]
-			elif len(line) >= 12:
-				del line[11]
-				del line[10]
-			elif len(line) >= 11:
-				del line[10]
-			'''
 
 
 		del line[9]
 
-		print (line)
+		#print (line)
 		line = '\t'.join(line)
 		line = line.strip()
-		print (line)
+		#print (line)
 		docs.append(line)
 		docs.append('\n')
+		a+=1
 
 	for item in docs:
 		g.write(item)
