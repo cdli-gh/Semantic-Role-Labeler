@@ -1,0 +1,43 @@
+nlpnet-tag.py srl -v --data ubuntu_models/ -t
+/home/baks/GSOC/new/local/lib/python2.7/site-packages/h5py/__init__.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._conv import register_converters as _register_converters
+/home/baks/GSOC/new/local/lib/python2.7/site-packages/h5py/__init__.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import h5a, h5d, h5ds, h5f, h5fd, h5g, h5r, h5s, h5t, h5p, h5z
+/home/baks/GSOC/new/local/lib/python2.7/site-packages/h5py/_hl/group.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .. import h5g, h5i, h5o, h5r, h5t, h5l, h5p
+Loading network
+Done
+Loading text reader...
+Loading vocabulary
+Done. Dictionary size is 3639 types
+Done
+Loading network
+Done
+Loading text reader...
+Loading vocabulary
+Done. Dictionary size is 3639 types
+Done
+Loading network
+Done
+Loading text reader...
+Loading vocabulary
+Done. Dictionary size is 1527 types
+Done
+lugal urima
+lugal urima
+lugal
+	AM-NEG: urima
+
+iti urima
+iti urima
+iti
+	AM-NEG: urima
+
+3 mac buac
+3 mac buac
+
+3 mac bauc
+3 mac bauc
+bauc
+	AM-NEG: 3 mac
+

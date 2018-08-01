@@ -1,0 +1,20 @@
+Reading training data...
+Loading vocabulary
+Done. Dictionary size is 1527 types
+Creating new network...
+Loading word type features...
+Created new network with the following layer sizes: 500, 50, 2
+Starting training with 15892 sentences
+Training for up to 10 epochs
+1 epochs   Error: 0.340235   Accuracy: 0.881703   824 corrections skipped   learning rate: 0.010000
+2 epochs   Error: 0.275291   Accuracy: 0.895588   1671 corrections skipped   learning rate: 0.010000
+3 epochs   Error: 0.255481   Accuracy: 0.904083   1983 corrections skipped   learning rate: 0.010000
+4 epochs   Error: 0.243584   Accuracy: 0.898296   2208 corrections skipped   learning rate: 0.010000
+5 epochs   Error: 0.236507   Accuracy: 0.910906   2364 corrections skipped   learning rate: 0.010000
+6 epochs   Error: 0.227994   Accuracy: 0.912472   2510 corrections skipped   learning rate: 0.010000
+7 epochs   Error: 0.223754   Accuracy: 0.916189   2664 corrections skipped   learning rate: 0.010000
+8 epochs   Error: 0.218206   Accuracy: 0.918153   2937 corrections skipped   learning rate: 0.010000
+9 epochs   Error: 0.213688   Accuracy: 0.918605   2946 corrections skipped   learning rate: 0.010000
+10 epochs   Error: 0.208711   Accuracy: 0.922321   3257 corrections skipped   learning rate: 0.010000
+Finished training
+
