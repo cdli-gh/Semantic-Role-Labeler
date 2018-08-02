@@ -1,0 +1,14 @@
+phoenix@Bakhtiyars-MacBook-Air:~/GSOC/Semantic-Role-Labeler nlpnet-test.py srl --preds --gold outputs/projected/dev_final_nlpnet.txt --data ubuntu_models/
+/usr/local/lib/python2.7/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Loading network
+Done
+Loading text reader...
+Loading vocabulary
+Done
+True positives: 572, false positives: 305, true negatives: 4190, false negatives: 444
+Accuracy: 0.864090
+Precision: 0.652223
+Recall: 0.562992
+F-1: 0.604332
+Total time (including reading data): 0.42s
