@@ -85,7 +85,7 @@ with open(SUM_PROJECTED_FILE, 'r') as f:
 
 
 # Store the fixed mate tools extended output
-with open('../../outputs/projected/srl_compressed_projection.out', 'w+') as f:
+with open('../../outputs/projected/test_srl_compressed_projection.out', 'w+') as f:
 	for item in projected_list:
 		#print (item)
 		if item == '\n':

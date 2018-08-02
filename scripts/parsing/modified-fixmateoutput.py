@@ -171,7 +171,7 @@ with open(ENG_MATE_PARSED_FILE, 'r') as f:
 
 
 # Store the fixed mate tools extended output
-with open('../../outputs/mate-parsing/un-normalised/srl_extended_translated_eng_train_mate_unnorm.dat', 'w+') as f:
+with open('../../outputs/mate-parsing/un-normalised/test_srl_extended_translated_eng_train_mate_unnorm.dat', 'w+') as f:
 	for item in projected_list:
 		if item == '\n':
 			f.write(item)
