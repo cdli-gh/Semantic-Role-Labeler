@@ -80,7 +80,7 @@ ___
 	
 ___
 
-7. **[models](models))** - Contains the stored trained models for SRL system for Sumerian.
+7. **[models](models)** - Contains the stored trained models for SRL system for Sumerian.
 	1. [ubuntu_models](outputs/ubuntu_models) : Latest model - has stored numpy files and trained models which must be used for predicate detection. Trained on Ubuntu 16.04 system.
 	2. [py3-models](outputs/py3-models) : Models trained with python 3.
 	3. [old_trained](outputs/old_trained) : Old trained models. Faces errors while predicate detection.
