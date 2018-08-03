@@ -75,9 +75,15 @@ ___
 		* [efmaral-aligner](outputs/word-alignments/efmaral-aligner) : Word alignments induced via the efmeral aligner from https://github.com/robertostling/efmaral. Gives lesser errory alignments than fast-align.
 		* [fast-align](outputs/word-alignments/fast-align) : Using fast-align (https://github.com/clab/fast_align) for the word alignments. 
 	4. **[projected](outputs/projected)** : Contains SRL projected annotations for Sumerian and the error logs.
-
-
 ___
+6. **[logs](logs)** - Contains log files of training and testing the SRL neural net system.
+	
+___
+
+7. **[models](models))** - Contains the stored trained models for SRL system for Sumerian.
+	1. [ubuntu_models](outputs/ubuntu_models) : Latest model - has stored numpy files and trained models which must be used for predicate detection. Trained on Ubuntu 16.04 system.
+	2. [py3-models](outputs/py3-models) : Models trained with python 3.
+	3. [old_trained](outputs/old_trained) : Old trained models. Faces errors while predicate detection.
 
 ## Progress Document
 
