@@ -1,5 +1,5 @@
 ############################################################
-# Script for ...
+# Script for getting requisite nlpnet-fashioned data from compressed SRL file.
 
 # Pre-requisites: - 
 
