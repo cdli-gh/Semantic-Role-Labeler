@@ -14,7 +14,7 @@ ALIGNMENT_FILE = sys.argv[1]
 DATA_FILE = sys.argv[2]
 
 
-with open(ALIGNMENT_FILE,  'r') as a, open(DATA_FILE, 'r') as d, open('efmaral-words-aligned-symm.dat', 'w+') as w:
+with open(ALIGNMENT_FILE,  'r') as a, open(DATA_FILE, 'r') as d, open('test-efmaral-words-aligned-symm.dat', 'w+') as w:
 	line_no = 1
 	total_list = []
 	for x, y in izip(a, d):
@@ -31,7 +31,7 @@ with open(ALIGNMENT_FILE,  'r') as a, open(DATA_FILE, 'r') as d, open('efmaral-w
 
 		#Error handling
 		if len(x) == 0 or len(y) == 0:
-			print "Empty"
+			print ("Empty")
 			alignment['empty'] = 1
 			
 
