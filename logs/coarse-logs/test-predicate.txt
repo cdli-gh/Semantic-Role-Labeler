@@ -1,0 +1,20 @@
+(new) baks@shanghai:~/GSOC/Semantic-Role-Labeler$ nlpnet-test.py srl -v --preds --gold outputs/coarse-labeled/test.txt --data models/coarse_models/
+/home/baks/GSOC/new/local/lib/python2.7/site-packages/h5py/__init__.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._conv import register_converters as _register_converters
+/home/baks/GSOC/new/local/lib/python2.7/site-packages/h5py/__init__.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import h5a, h5d, h5ds, h5f, h5fd, h5g, h5r, h5s, h5t, h5p, h5z
+/home/baks/GSOC/new/local/lib/python2.7/site-packages/h5py/_hl/group.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .. import h5g, h5i, h5o, h5r, h5t, h5l, h5p
+Loading network
+Done
+Loading text reader...
+Loading vocabulary
+Done. Dictionary size is 3639 types
+Done
+True positives: 77, false positives: 67, true negatives: 970, false negatives: 33
+Accuracy: 0.912816
+Precision: 0.534722
+Recall: 0.700000
+F-1: 0.606299
+Total time (including reading data): 0.32s
+
