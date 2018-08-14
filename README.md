@@ -93,13 +93,17 @@ Update of the progress document of the project - contains minute details as well
 ## Prerequisites
 
 What things you need to install the software and how to install them.
-Will be updated as the project progresses.
+After installing nlpnet from https://github.com/erickrf/nlpnet, doing:
+`pip install -r requirements.txt` after creating a virtualenv should be enough.
 
+## Usage 
 
-## Installing
+We use nlpnet to train our SRL system and the stored models after training are in the `models/` directory.
+The latest trained model is located at `models/ubuntu_models`, which we will use below.
 
-Will be updated as the project progresses.
-
+`nlpnet-tag.py srl --data models/ubuntu_models` will ask you to type in a sentence on the terminal.
+It will tag all predicates - along with doing the argument classification.
+Note: You must have nlpnet installed, otherwise this would not work.
 
 ## Contributing
 
