@@ -1,4 +1,4 @@
-# Semantic Role Labeling system for Sumerian
+# Towards building the first Semantic Role Labeling(SRL) system for Sumerian
 
 This project is a work undertaken for Google Summer of Code - GSoC 2018 under the organisation CDLI.
 Its larger goal is to develop a standalone semantic role labeler for the Sumerian language.
