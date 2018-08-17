@@ -15,6 +15,15 @@ This project is mentored by:
 * **Niko Schenk**
 * **Ilya Khait**
 
+## Resources
+
+Here is a list of resources developed as part of the project which the community can use:
+
+1. **[SRL projected data](outputs/projected/train/final_nlpnet.txt)** : Contains the projected SRL labeled data for Sumerian. 
+
+2. **[SRL projected data - with collapsed labels](outputs/coarse-labeled/train.txt)** : Contains projected data - with labels from [A0-A5] collapsed to Level 1(L-1) and others like AM-* collapsed to Level-2(L-2).
+
+Please [click here](data_format.txt) for the data format specifications for the above.
 
 ## Contents
 

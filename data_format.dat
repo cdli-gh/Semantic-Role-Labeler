@@ -1,0 +1,14 @@
+Each token should have the following columns, separated by whitespace or tab (non-mandatory fields may have any value)
+
+1. Token number, starting from 1
+2. The token itself
+3. Lemma (not necessary, but nlpnet may be configured to use lemmas instead of surface forms)
+4. Coarse POS tag (not necessary, but may be used as an additional attribute)
+5. Fine POS tag / morphological information (not used, just a CoNLL convention)
+6. Clause boundaries (not necessary)
+7. Chunks (not necessary)
+8. Parse tree (not necessary)
+9. A dash (-) for non-predicates and anything else for predicates.
+10. (and others) The argument labels. Each column starting from the 10th refers to an predicate, in the order they appear in the sentence. If a token is the only one in an argument, this field must contain (ARG-LABEL*). If it starts one, it must be (ARG-LABEL*. And if it ends one, it must be *). Others should have *.
+
+Note: For our data, we essentially have only the 9th and 10th+ columns after the column nos. 1 and 2 as other information is not available for us/is not within the scope of the project.
