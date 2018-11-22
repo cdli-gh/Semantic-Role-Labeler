@@ -68,7 +68,8 @@ nbformat==4.4.0
 neuralcoref==0.1
 nlpnet==1.2.2
 nltk==3.3
-notebook==5.4.1
+#notebook==5.4.1
+notebook>=5.7.2
 numpy==1.14.5
 pandas==0.22.0
 pandocfilters==1.4.2
