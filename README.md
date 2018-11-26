@@ -27,6 +27,14 @@ Please [click here](data_format.dat) for the data format specifications for the 
 
 Note: The above links are for training data. The `dev/` and `test/` data are in the same parent folder that the current link points to.
 
+## Description
+
+Semantic role labeling (SRL) is a task in Natural Language Processing which helps in detecting the semantic arguments of the predicate/s of a sentence, and then classifies them into various pre-defined semantic categories thus assigning a semantic role to the syntactic constituents.
+
+The larger goal of the project is to develop a supervised semantic role labeling system for Sumerian, a Mesopotamian language spoken in the 3rd millennium B.C.
+
+Advancing in this direction, we propose to first use projections of English annotations onto Sumerian thus creating gold-standard SRL Sumerian data for the research community to use. We will then evaluate our system using existing architectures available for semantic role labeling with the projected SRL data. The final system also involves the production of word embeddings for Sumerian which can be documented and used for improving other downstream tasks like POS tagging, dependency parsing, etc. The developed SRL system will have many potential applications, viz. in the fields of document summarization, machine translation and also towards a better abstract semantic representation of the originally sparse textual data.
+
 ## Contents
 
 1. **[data](data)** - Contains all the data files required for the project. These contain _non-processed_ raw data files which are download  
