@@ -61,7 +61,7 @@ ___
 		* [modified-scrape-etcsl-translations-XML.py](scripts/scraping/modified-scrape-etcsl-translations-XML.py) : Modified version of the above script for scraping the translations from the ETCSL XML translations data file.
 
 	5. **[word-embeddings](scripts/word-embeddings)** - Scripts for generating word vectors from monolingual data.
-		* [make_fasttext.sh](scripts/word-embeddings/make_fastttext.sh) : Make word vectors using the FastText algorithm.
+		* [make_fasttext.sh](scripts/word-embeddings/make_fasttext.sh) : Make word vectors using the FastText algorithm.
 		* [make_word_vectors.py](scripts/word-embeddings/make_word_vectors.py) : Inducing word vectors using the traditional word2vec algorithms.
 
 	6. **[processing](scripts/processing)** - Scripts for processing data and other files.
@@ -82,7 +82,7 @@ ___
 		* [old-proc-sum](processed-data/etcsl/old-proc-sum) : Processed data for Sumerian as returned by the ETCSL scraper script. Difference is this has line-by-line transliterations along with the identification information for each text.
 
 	3. **[unified](processed-data/unified)** - The plan is to include all unified parallel data here, for ETCSL and ETCSRI after converting to ASCII and normalising it.
-		* [etcsl-transliteration-normalised.dat](processed-data/etcsl/unified/etcsl-transliteration-normalised.dat) : A sample snapshot of the [unifier script](scripts/processing/etcsl_cdli_unifier.py) from above on etcsl text _c.1.1.1.txt_
+		* [etcsl-transliteration-normalised.dat](processed-data/unified/etcsl-transliteration-normalised.dat) : A sample snapshot of the [unifier script](scripts/processing/etcsl_cdli_unifier.py) from above on etcsl text _c.1.1.1.txt_
 
 
 	4. **[misc](processed-data/misc)** - Miscellaneous processed data. Currently contains outputs for a few sentence-combining heuristic functions for the CDLI-UrIII data.
