@@ -95,7 +95,8 @@ pyparsing==2.2.0
 python-dateutil==2.7.2
 python-mimeparse==1.6.0
 pytz==2018.4
-PyYAML==3.12
+#PyYAML==3.12
+pyyaml>=4.2b1
 pyzmq==17.0.0
 qtconsole==4.3.1
 regex==2017.4.5
