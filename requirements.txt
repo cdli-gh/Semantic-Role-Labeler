@@ -88,7 +88,7 @@ protobuf==3.5.2.post1
 psutil==5.6.6
 ptyprocess==0.5.2
 pybind11==2.2.3
-Pygments==2.2.0
+Pygments==2.7.4
 PyMateTools==1.0
 pyoracc==0.1.0
 pyparsing==2.2.0
