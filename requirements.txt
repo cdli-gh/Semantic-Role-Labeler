@@ -70,7 +70,7 @@ nlpnet==1.2.2
 nltk>=3.4.5
 #notebook==5.4.1
 notebook>=5.7.2
-numpy==1.14.5
+numpy==1.21.0
 pandas==0.22.0
 pandocfilters==1.4.2
 pathlib==1.0.1
