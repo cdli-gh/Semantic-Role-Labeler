@@ -130,7 +130,7 @@ torchvision==0.2.1
 tornado==5.0.2
 tqdm==4.23.0
 traitlets==4.3.2
-ujson==1.35
+ujson==5.2.0
 Unidecode==1.0.22
 untangle==1.1.1
 urllib3>=1.23
