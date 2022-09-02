@@ -132,7 +132,7 @@ tqdm==4.23.0
 traitlets==4.3.2
 ujson==5.2.0
 Unidecode==1.0.22
-untangle==1.1.1
+untangle==1.2.1
 urllib3>=1.23
 #urllib3==1.22
 wcwidth==0.1.7
