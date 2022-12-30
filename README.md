@@ -112,8 +112,10 @@ Update of the progress document of the project - contains minute details as well
 ## Prerequisites
 
 What things you need to install the software and how to install them.
-After installing nlpnet from https://github.com/erickrf/nlpnet, doing:
+After installing nlpnet from 'https://github.com/erickrf/nlpnet', doing:
 `pip install -r requirements.txt` after creating a virtualenv should be enough.
+
+	pip install -r requirements.txt			
 
 ## Usage 
 
